@@ -1,0 +1,35 @@
+{
+  "_说明": "关键词库与筛选标准。可随时增删 keywords。命中任一关键词、或符合 markets+tracks 范围的新闻会被纳入。positions 由 IBKR 同步自动写入（暂为占位）。",
+
+  "markets": ["HK", "US", "A"],
+  "_markets说明": "HK=港股 US=美股 A=A股。只保留与这些市场相关的新闻。",
+
+  "tracks": ["消费", "科技", "consumer", "technology", "semiconductor", "internet", "crypto"],
+  "_tracks说明": "重点赛道：消费 + 科技。用于宽口径初筛。",
+
+  "strategy": "中长期持有优质股票；短期卖出期权（以 sell put 为主，偶尔 covered call）。优先标记：业绩/指引、监管处罚、回购/分红、估值重估、波动率/隐含波动、解禁/增减持、行权价相关事件。",
+
+  "keywords": [
+    "泡泡玛特", "Pop Mart",
+    "老铺黄金", "Laopu Gold",
+    "蜜雪冰城", "Mixue",
+    "腾讯", "Tencent",
+    "美团", "Meituan",
+    "小米", "Xiaomi",
+    "英伟达", "Nvidia", "NVDA",
+    "台积电", "TSMC",
+    "富途", "Futu", "FUTU",
+    "拼多多", "PDD", "Pinduoduo",
+    "SK海力士", "SK Hynix",
+    "美光", "Micron",
+    "Circle",
+    "比特币", "Bitcoin", "BTC",
+    "以太坊", "Ethereum", "ETH"
+  ],
+
+  "positions": [],
+  "_positions说明": "下一步由 IBKR 持仓同步自动填充，作为动态关键词。",
+
+  "exclude": [],
+  "_exclude说明": "逐步把不够 relevant 的关键词或主题加到这里以收窄口径。"
+}

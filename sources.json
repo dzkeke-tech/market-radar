@@ -1,0 +1,31 @@
+{
+  "_说明": "信源白名单。financial 数字必须以 primary（交易所官方披露/公司IR）为准；media 仅作线索与补充。过程中把不靠谱的源加入 demote。",
+
+  "primary_official": [
+    "HKEXnews 披露易 (www.hkexnews.hk)",
+    "SEC EDGAR (www.sec.gov)",
+    "巨潮资讯 CNINFO (www.cninfo.com.cn)",
+    "上交所 / 深交所公告",
+    "公司投资者关系 (IR) 页面与官方新闻稿"
+  ],
+
+  "media_cn": [
+    "财新", "第一财经", "21世纪经济报道", "证券时报", "上海证券报",
+    "中国证券报", "界面新闻", "格隆汇", "智通财经", "财联社", "新浪财经", "东方财富(仅作线索)"
+  ],
+
+  "media_en": [
+    "Reuters", "Bloomberg", "Wall Street Journal", "Financial Times",
+    "CNBC", "Nikkei Asia", "South China Morning Post", "The Information",
+    "CoinDesk", "The Block", "Seeking Alpha(仅作线索)"
+  ],
+
+  "demote": [],
+  "_demote说明": "把表现不佳/不准确的源加进来，后续运行时降低权重或排除。",
+
+  "rules": [
+    "涉及具体财务数字（营收/利润/回购/股本/解禁等）必须回到 primary_official 核对，且交易所公告要独立于业绩稿单独检查。",
+    "每条新闻须能追溯到至少一个可信来源；无法核实的标 verified=false。",
+    "多语言检索：中英文都搜；中英文保留原文，其他语言译为中文并标 translated=true。"
+  ]
+}
