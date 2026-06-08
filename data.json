@@ -1,84 +1,111 @@
 {
   "is_sample": false,
-  "updated_at": "2026-06-06 21:15 (北京时间)",
-  "next_runs": ["08:00", "13:00", "18:00"],
-  "watchlist": ["泡泡玛特", "老铺黄金", "蜜雪冰城", "腾讯", "美团", "小米", "英伟达", "台积电", "富途", "拼多多", "SK海力士", "美光", "Circle", "比特币", "以太坊"],
+  "updated_at": "2026-06-08 13:55 (北京时间)",
+  "next_runs": [
+    "08:00",
+    "13:00",
+    "18:00"
+  ],
+  "watchlist": [
+    "泡泡玛特",
+    "老铺黄金",
+    "蜜雪冰城",
+    "腾讯",
+    "美团",
+    "小米",
+    "英伟达",
+    "台积电",
+    "富途",
+    "拼多多",
+    "SK海力士",
+    "美光",
+    "Circle",
+    "比特币",
+    "以太坊"
+  ],
   "positions": [],
   "items": [
     {
-      "id": "a35bf7112a40",
+      "id": "b5cce261cf06",
       "tier": 1,
       "lang": "zh",
-      "markets": ["US", "A"],
+      "markets": [
+        "US"
+      ],
       "time": "2026-06-05 (美东收盘)",
-      "title": "博通AI指引不及预期，全球芯片股重挫；美光跌逾7%",
-      "summary": "博通(AVGO)二财季业绩超预期，但第三财季AI半导体营收指引约160亿美元，低于市场普遍预期的约172亿美元，引发杀估值。6月5日博通收跌超12%，美光科技跌逾7%，ARM跌超4%，AMD跌超3%，费城半导体指数跌2.15%；韩国SK海力士、三星电子重挫，拖累KOSPI下跌约7%。英伟达逆势上涨近2%，道指同日创历史新高。",
-      "why": "直接冲击美光(MU)持仓，并对英伟达/台积电/SK海力士的AI内存与算力链条形成情绪压力；板块隐含波动率抬升，sell put 宜等回调在支撑位附近、IV高位时分批操作，不宜追跌。",
-      "source": "新浪财经（美股频道）",
+      "title": "强劲非农引爆加息恐慌，6月5日费城半导体指数暴跌逾10%、AI芯片股崩跌",
+      "summary": "美国5月非农新增就业17.2万人，远超市场预期的约8.8万人，失业率维持4.3%；市场转入“好消息即坏消息”，10年期美债收益率升破4.5%、30年期升破5%，押注美联储丧失降息理由、甚至转向加息。6月5日纳斯达克综合指数跌约4.18%（逾1100点），为一年多来最大单日跌幅；费城半导体指数暴跌约10.4%，单日抹去逾1万亿美元芯片板块市值。个股方面英伟达跌约6%（市值蒸发约3000亿美元）、美光跌约13%、SK海力士跌9.92%、三星电子跌6.40%；比特币盘中一度跌破6万美元、黄金回吐年内涨幅。",
+      "why": "直接重创美光(MU)、英伟达(NVDA)、台积电(TSM)持仓及SK海力士关注标的；利率预期由降转加，板块隐含波动率显著抬升。sell put 宜等IV高位、价格回踩关键支撑分批接货，不追跌；优质科技股若基本面未变可借恐慌逢低布局，但需防美债收益率续升带来的杀估值压力。",
+      "source": "CNBC（指数与个股涨跌为公开市场数据）",
       "verified": true,
-      "keywords": ["Broadcom", "Micron", "美光", "Nvidia", "英伟达", "TSMC", "台积电", "SK Hynix", "SK海力士"],
+      "keywords": [
+        "非农",
+        "Nonfarm payrolls",
+        "Nvidia",
+        "英伟达",
+        "Micron",
+        "美光",
+        "SK Hynix",
+        "SK海力士",
+        "TSMC",
+        "台积电",
+        "费城半导体"
+      ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniakmqh2654151.shtml"
+      "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html"
     },
     {
-      "id": "92037059d113",
+      "id": "dcb6844f07de",
       "tier": 2,
-      "lang": "en",
-      "markets": ["US"],
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
       "time": "2026-06-05",
-      "title": "Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels",
-      "summary": "Bitcoin has fallen roughly 14.5% on the week and ether more than 17%, the worst weekly performance since July 2024. Coinglass shows about $1.2bn in 24-hour liquidations (76% longs). BTC briefly broke below $62,000 toward a key $60,900 liquidation level; U.S. spot bitcoin ETFs saw roughly $1bn of net outflows on the week. Analysts cite competition from gold and AI stocks plus reassessed Fed rate-cut odds.",
-      "why": "加密赛道普跌利空 Circle(USDC 发行方) 及加密相关情绪；BTC/ETH 期权 IV 高企，若想 sell put 接货须盯紧 $60.9k 关口破位风险，covered call 端则可受益于高波动权利金。",
-      "source": "CoinDesk",
+      "title": "黄仁勋确认三星/SK海力士/美光通过HBM4认证供货Vera Rubin并进入量产；同日传Rubin削减SOCAMM内存配置",
+      "summary": "英伟达CEO黄仁勋6月5日表示三星、SK海力士与美光三大存储厂均已通过HBM4高带宽内存认证、可向其Vera Rubin AI平台供货并进入量产，并称AI股“非常便宜”。但同日市场流传英伟达Rubin NVL72平台或将单机架SOCAMM内存容量由约55TB下调至约28TB（多数系统改用96GB模块），引发存储股重挫——闪迪(SanDisk)跌约11%、美光跌约9.5%、西部数据、希捷跟跌；该SOCAMM缩减传闻尚未获英伟达官方证实，分析认为属压低整机成本之举、不影响HBM4需求。",
+      "why": "HBM4认证落地对美光(MU)、SK海力士是实质性设计赢单，确认其在AI内存升级周期中的份额，利好中长期持有逻辑；SOCAMM传闻则压制服务器普通内存增量但对单价更高的HBM4影响有限。须区分“成本优化”与“需求下滑”：前者杀情绪、利于在美光高IV时 sell put 接货，后者杀逻辑、确认前不宜重仓。",
+      "source": "Bloomberg（HBM4认证）；SOCAMM缩减为市场传闻、待官方证实",
       "verified": true,
-      "keywords": ["Bitcoin", "BTC", "Ethereum", "ETH", "Circle"],
+      "keywords": [
+        "HBM4",
+        "Vera Rubin",
+        "Micron",
+        "美光",
+        "SK Hynix",
+        "SK海力士",
+        "Samsung",
+        "三星",
+        "Nvidia",
+        "英伟达",
+        "SOCAMM"
+      ],
       "translated": false,
-      "url": "https://www.coindesk.com/markets/2026/06/05/crypto-s-worst-week-since-july-2024-deepens-as-bitcoin-ether-near-critical-price-levels"
+      "url": "https://en.bloomingbit.io/feed/news/113744"
     },
     {
-      "id": "6f3441e3343b",
-      "tier": 2,
-      "lang": "zh",
-      "markets": ["HK"],
-      "time": "2026-06-03",
-      "title": "腾讯连续12日回购，5月18日以来累计约51亿港元",
-      "summary": "腾讯控股6月3日以461.8–462.8港元回购27.55万股、金额约1.27亿港元，为自5月18日以来连续第12个交易日回购，期间累计回购约1156万股、合计约51亿港元；年内累计回购约154亿港元。5月13日股东大会已通过新回购授权，上限约9.12亿股（约占已发行股份10%）。",
-      "why": "持续大额回购为腾讯持仓提供估值支撑与下行缓冲，配合10%授权额度释放回购弹性；利于中长期持有，并为在回调时 sell put 接货提供安全边际。",
-      "source": "证券时报（数字以 HKEXnews 回购披露为准）",
-      "verified": true,
-      "keywords": ["腾讯", "Tencent", "回购", "buyback"],
-      "translated": false,
-      "url": "https://www.stcn.com/article/detail/3942148.html"
-    },
-    {
-      "id": "6d4299bc4193",
-      "tier": 2,
-      "lang": "zh",
-      "markets": ["HK"],
-      "time": "2026-06-01",
-      "title": "美团2026年一季度：营收910亿元、环比大幅减亏",
-      "summary": "美团一季度收入910.39亿元、同比增长5.6%；核心本地商业收入640.6亿元、经营亏损20亿元（上季度约100亿元），新业务收入269.8亿元、亏损21亿元；经调整净亏损49.7亿元，较上季度的150.8亿元收窄约67%。但相比2025年同期经调整净利润109亿元仍由盈转亏，主因外卖补贴投入。",
-      "why": "外卖补贴趋于理性后核心本地商业大幅减亏，是美团持仓基本面拐点信号；同比由盈转亏意味着估值修复仍需观察后续指引，期权端可逢反弹 covered call、深跌 sell put。",
-      "source": "21世纪经济报道（数字以 HKEXnews 业绩公告为准）",
-      "verified": true,
-      "keywords": ["美团", "Meituan", "业绩", "财报"],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260602/herald/fdff1788ba9b6da203141f800baccccc.html"
-    },
-    {
-      "id": "b68afd6473d5",
+      "id": "60c289b7ad46",
       "tier": 3,
       "lang": "zh",
-      "markets": ["HK"],
-      "time": "2026-06-05 (收盘后生效)",
-      "title": "恒生科技指数季度调整生效：纳入MiniMax、智谱，剔除金蝶、金山软件",
-      "summary": "恒生指数公司5月22日公布季度检讨结果，恒生科技指数纳入国产大模型公司 MiniMax-W 与智谱，剔除金蝶国际与金山软件，相关变动于6月5日收盘后生效、6月8日正式实施。",
-      "why": "成分调整反映港股资金向AI大模型主线轮动，会改变恒科ETF权重分布，间接影响腾讯、小米、美团等权重持仓的被动资金流向与相对强弱。",
-      "source": "恒生指数公司公告",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-06-08 (正式实施)",
+      "title": "恒生科技指数季度成分调整6月8日正式实施：纳入MiniMax、智谱，剔除金蝶、金山软件",
+      "summary": "恒生指数公司此前季度检讨结果于6月5日收盘后生效、6月8日（周一）正式实施：恒生科技指数纳入国产大模型公司MiniMax与智谱，剔除金蝶国际与金山软件，资金向AI大模型主线进一步轮动。",
+      "why": "成分与权重调整改变恒科ETF被动资金分布，间接影响腾讯、小米、美团等权重持仓的被动流入与相对强弱；对中长期持有者属结构性提示，可关注调整后权重股的资金面变化。",
+      "source": "恒生指数公司（指数公告）",
       "verified": true,
-      "keywords": ["恒生科技", "腾讯", "小米", "美团"],
+      "keywords": [
+        "恒生科技",
+        "MiniMax",
+        "智谱",
+        "腾讯",
+        "小米",
+        "美团"
+      ],
       "translated": false,
-      "url": "https://www.hsi.com.hk/eng/indexes/all-indexes/hstech"
+      "url": "https://www.hsi.com.hk/eng/news-resources/index-news"
     }
   ]
 }
