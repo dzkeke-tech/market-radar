@@ -105,6 +105,11 @@
   .mkt.HK{color:var(--hk)}.mkt.US{color:var(--us)}.mkt.A{color:var(--a)}
   .tier{font-size:10.5px;font-weight:600;letter-spacing:.05em;color:var(--ink-faint)}
   .tier b{color:var(--t1)}
+  .new-pill{font-size:10px;font-weight:700;letter-spacing:.06em;color:#14110b;background:var(--gold);padding:2px 7px;border-radius:5px}
+  .card[data-new="1"]{border-color:#4a3c1e}
+  .card[data-new="1"]::after{content:"";position:absolute;top:0;right:0;width:42px;height:42px;background:radial-gradient(130% 130% at 100% 0,rgba(214,166,74,.16),transparent 70%);pointer-events:none}
+  .divider{display:flex;align-items:center;gap:10px;color:var(--ink-faint);font-size:10.5px;letter-spacing:.22em;margin:8px 2px 0}
+  .divider .ln{flex:1;height:1px;background:var(--line)}
   .time{margin-left:auto;font-size:11.5px;color:var(--ink-faint);font-variant-numeric:tabular-nums}
   .title{font-family:var(--serif);font-size:18.5px;line-height:1.32;letter-spacing:.005em;margin:1px 0 7px;color:var(--ink)}
   .card[lang="en"] .title{font-style:normal}
@@ -189,13 +194,13 @@ const SAMPLE = {
   watchlist: ["泡泡玛特","老铺黄金","蜜雪冰城","腾讯","美团","小米","英伟达","台积电","富途","拼多多","SK海力士","美光","Circle","比特币","以太坊"],
   positions: ["（待接入 IBKR 持仓）"],
   items: [
-    { id:"s1", tier:1, lang:"zh", markets:["HK"], time:"07:42",
+    { id:"s1", is_new:true, tier:1, lang:"zh", markets:["HK"], time:"07:42",
       title:"泡泡玛特据悉就海外旗舰店扩张召开管理层电话会，上调全年指引区间",
       summary:"公司管理层在非正式交流中提到北美及东南亚同店增长强劲，市场关注是否会在中报正式上修指引。",
       why:"核心持仓 / 消费赛道。若指引上修，对你的 covered call 行权价选择有直接影响。",
       source:"财新", verified:true, keywords:["泡泡玛特"], translated:false,
       url:"#" },
-    { id:"s2", tier:1, lang:"en", markets:["US"], time:"06:15",
+    { id:"s2", is_new:true, tier:1, lang:"en", markets:["US"], time:"06:15",
       title:"Nvidia unveils next-gen inference accelerator; analysts flag tighter HBM supply into 2027",
       summary:"New part targets large-scale inference; supply chain checks point to continued HBM constraint, a tailwind for SK Hynix and Micron.",
       why:"科技赛道 + 关键词库（英伟达 / SK海力士 / 美光）。供给紧张利好你关注的存储链。",
@@ -291,8 +296,9 @@ function card(it){
   const trans=it.translated?'<span class="translated">译自外文</span>':"";
   const badge=it.verified?'<span class="badge">已核实</span>':'<span class="badge" style="color:var(--ink-faint);border-color:var(--ink-faint)">待核实</span>';
   const on=Fav.has(it.id)?1:0;
-  return `<article class="card" data-tier="${it.tier}" lang="${it.lang}">
-    <div class="toprow">${mkts}${tier}${trans}<span class="time">${esc(it.time||"")}</span></div>
+  const newPill=it.is_new?'<span class="new-pill">最新</span>':"";
+  return `<article class="card" data-tier="${it.tier}" data-new="${it.is_new?1:0}" lang="${it.lang}">
+    <div class="toprow">${mkts}${tier}${newPill}${trans}<span class="time">${esc(it.time||"")}</span></div>
     <div class="title">${esc(it.title)}</div>
     <div class="summary">${esc(it.summary||"")}</div>
     ${it.why?`<div class="why"><span>为何相关</span>${esc(it.why)}</div>`:""}
@@ -309,11 +315,20 @@ function card(it){
 function fav(id,el){const on=Fav.toggle(id);el.dataset.on=on?1:0;renderTabs();if(activeTab==="收藏")renderFeed();}
 
 function renderFeed(){
-  const list=DATA.items.filter(matchTab);
+  let list=DATA.items.filter(matchTab);
   const feed=document.getElementById("feed");
   if(!list.length){feed.innerHTML=`<div class="empty">${activeTab==="收藏"?"还没有收藏。点任意新闻右下角的 ☆ 收藏起来。":"暂无符合条件的新闻。"}</div>`;return;}
-  feed.innerHTML=list.map((it,i)=>card(it)).join("");
-  document.querySelectorAll(".card").forEach((c,i)=>c.style.animationDelay=(i*45)+"ms");
+  list=list.map((it,i)=>[it,i]).sort((a,b)=>((b[0].is_new?1:0)-(a[0].is_new?1:0))||(a[1]-b[1])).map(p=>p[0]);
+  const newCount=list.filter(it=>it.is_new).length;
+  let html="";
+  list.forEach((it,i)=>{
+    if(newCount>0 && newCount<list.length && i===newCount){
+      html+=`<div class="divider"><span class="ln"></span>历史推送<span class="ln"></span></div>`;
+    }
+    html+=card(it);
+  });
+  feed.innerHTML=html;
+  document.querySelectorAll(".card").forEach((c,i)=>c.style.animationDelay=(i*40)+"ms");
 }
 
 function renderWL(){
@@ -332,7 +347,7 @@ function paint(){
   renderTabs();renderFeed();renderWL();
   const b=document.getElementById("banner");
   if(DATA.is_sample){b.innerHTML='当前为 <b>示例数据</b> · 接入云端后自动刷新';}
-  else{b.innerHTML='实时数据 · 下次更新 <b>'+( (DATA.next_runs&&DATA.next_runs[0])||"" )+'</b>';}
+  else{const nc=(DATA.items||[]).filter(it=>it.is_new).length; b.innerHTML='实时数据 · 本次新增 <b>'+nc+'</b> 条 · 下次更新 <b>'+( (DATA.next_runs&&DATA.next_runs[0])||"" )+'</b>';}
 }
 
 (async function init(){
