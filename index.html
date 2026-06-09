@@ -78,6 +78,20 @@
   .controls{position:sticky;top:0;z-index:20;background:linear-gradient(var(--bg) 70%,transparent);padding:12px 0 10px;margin:0 -16px;padding-left:16px;padding-right:16px}
   .tabs{display:flex;gap:7px;overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none}
   .tabs::-webkit-scrollbar{display:none}
+  /* --- 刷新控件 --- */
+  #refreshFab{position:fixed;right:16px;bottom:calc(18px + env(safe-area-inset-bottom));z-index:60;
+    width:48px;height:48px;border-radius:50%;border:1px solid var(--line);
+    background:var(--card-hi);color:var(--gold);font-size:22px;line-height:46px;text-align:center;padding:0;
+    box-shadow:0 6px 20px rgba(0,0,0,.45);cursor:pointer;-webkit-tap-highlight-color:transparent;
+    transition:transform .15s ease,opacity .15s ease}
+  #refreshFab:active{transform:scale(.92)}
+  #refreshFab.spin{animation:spin .8s linear infinite;color:var(--ink-dim)}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  #ptr{position:fixed;top:env(safe-area-inset-top);left:0;right:0;z-index:55;
+    display:flex;align-items:center;justify-content:center;height:0;overflow:hidden;
+    color:var(--ink-faint);font:600 12px/1 var(--sans);letter-spacing:.05em;
+    background:linear-gradient(var(--bg-soft),transparent);transition:height .12s ease}
+  #ptr.show{height:46px}
   .tab{
     flex:0 0 auto;font-family:var(--sans);font-size:13px;font-weight:500;
     padding:7px 13px;border-radius:999px;border:1px solid var(--line);
@@ -182,6 +196,8 @@
 </div>
 
 <div class="sample"><div id="banner">读取中…</div></div>
+<div id="ptr"><span id="ptrText">下拉刷新</span></div>
+<button id="refreshFab" aria-label="刷新" title="刷新">↻</button>
 
 <script>
 /* ============================================================
@@ -350,13 +366,60 @@ function paint(){
   else{const nc=(DATA.items||[]).filter(it=>it.is_new).length; b.innerHTML='实时数据 · 本次新增 <b>'+nc+'</b> 条 · 下次更新 <b>'+( (DATA.next_runs&&DATA.next_runs[0])||"" )+'</b>';}
 }
 
-(async function init(){
+async function loadData(){
+  if(loadData._busy) return; loadData._busy=true;
+  const fab=document.getElementById("refreshFab");
+  if(fab) fab.classList.add("spin");
   try{
-    const r=await fetch("data.json",{cache:"no-store"});
+    const r=await fetch("data.json?t="+Date.now(),{cache:"no-store"});
     if(r.ok){const j=await r.json(); if(j&&j.items){DATA=j; if(DATA.is_sample===undefined)DATA.is_sample=false;}}
-  }catch(e){/* keep sample */}
+  }catch(e){/* 保留上一次数据 */}
   paint();
+  loadData._last=Date.now();
+  if(fab) fab.classList.remove("spin");
+  loadData._busy=false;
+}
+
+/* 1) 手动刷新按钮 */
+document.getElementById("refreshFab").addEventListener("click",loadData);
+
+/* 2) 切回 App / 重新可见时自动刷新（解决“必须关掉重开”） */
+function autoRefresh(){
+  if(document.visibilityState!=="visible") return;
+  if(loadData._last && Date.now()-loadData._last<2000) return; // 刚刷过就不重复
+  loadData();
+}
+document.addEventListener("visibilitychange",autoRefresh);
+window.addEventListener("pageshow",autoRefresh);
+window.addEventListener("focus",autoRefresh);
+
+/* 3) 下拉刷新 */
+(function(){
+  const ptr=document.getElementById("ptr"), txt=document.getElementById("ptrText");
+  const TRIG=70; let startY=0, pulling=false, dist=0;
+  const top=()=>(document.scrollingElement||document.documentElement).scrollTop;
+  window.addEventListener("touchstart",e=>{
+    if(top()<=0 && !loadData._busy){ startY=e.touches[0].clientY; pulling=true; dist=0; }
+    else pulling=false;
+  },{passive:true});
+  window.addEventListener("touchmove",e=>{
+    if(!pulling) return;
+    dist=e.touches[0].clientY-startY;
+    if(dist>0){
+      ptr.style.height=Math.min(dist*0.5,80)+"px";
+      ptr.classList.add("show");
+      txt.textContent=dist>=TRIG?"松开刷新":"下拉刷新";
+    }
+  },{passive:true});
+  window.addEventListener("touchend",()=>{
+    if(!pulling) return; pulling=false;
+    if(dist>=TRIG){ txt.textContent="刷新中…"; ptr.style.height="46px"; loadData().then(()=>{ ptr.classList.remove("show"); ptr.style.height=""; }); }
+    else { ptr.classList.remove("show"); ptr.style.height=""; }
+    dist=0;
+  });
 })();
+
+loadData();
 </script>
 </body>
 </html>
