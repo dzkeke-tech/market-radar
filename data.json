@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-06-09 09:50 (北京时间)",
+  "updated_at": "2026-06-09 13:12 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -26,8 +26,39 @@
   "positions": [],
   "items": [
     {
-      "id": "3c795a8d2bbf",
+      "id": "734cc578ea07",
       "is_new": true,
+      "first_seen": "2026-06-09",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "6月8日尾盘 / 6月9日盘前",
+      "title": "6月8日尾盘半导体强势反弹、6月9日盘前续涨：费城半导体涨超5%，美光涨超8%、英特尔超10%、迈威尔超11%；大型科技股走弱、美银警告美股接近阶段顶部",
+      "summary": "继上周暴跌后，6月8日美股尾盘芯片股全线飙涨——费城半导体指数大涨超5%，美光涨超8%、英特尔涨超10%、迈威尔(Marvell)涨超11%；6月9日美股盘前三大股指期货齐涨、光通信与半导体续反弹。但盘面分化明显：苹果跌近2%，谷歌、微软、Meta等大型科技股走弱，反弹由超跌芯片股主导。同时美银(BofA)策略团队警告美股正逐渐接近阶段性顶部、建议投资者适度获利了结。",
+      "why": "半导体超跌反弹对美光(MU)、英伟达(NVDA)、台积电(TSM)持仓是价格与情绪修复；但反弹由超跌芯片主导、megacap走弱叠加美银顶部警告，提示反弹未必走稳。对 sell put 策略而言，板块IV仍处高位、可在芯片股回踩关键支撑时分批卖put赚高权利金，但在顶部警告下不宜追涨加仓——保持“接货而非追高”的纪律，等IV与价格双双企稳再扩大头寸。",
+      "source": "东方财富 / 同花顺（费城半导体指数与个股涨跌为公开市场数据）；美银策略警告经媒体报道",
+      "verified": true,
+      "keywords": [
+        "费城半导体",
+        "美光",
+        "Micron",
+        "英特尔",
+        "Marvell",
+        "Nvidia",
+        "英伟达",
+        "台积电",
+        "反弹",
+        "美银",
+        "获利了结"
+      ],
+      "translated": false,
+      "url": "https://stock.eastmoney.com/america.html"
+    },
+    {
+      "id": "3c795a8d2bbf",
+      "is_new": false,
       "first_seen": "2026-06-09",
       "tier": 1,
       "lang": "zh",
@@ -54,36 +85,6 @@
       ],
       "translated": false,
       "url": "https://money.usnews.com/investing/news/articles/2026-06-07/nvidia-announces-deals-with-south-koreas-sk-hynix-naver-and-doosan-for-ai-data-centres"
-    },
-    {
-      "id": "a55e2dd506bb",
-      "is_new": true,
-      "first_seen": "2026-06-09",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-06-08 (美东)",
-      "title": "地缘缓和、科技股6月8日企稳反弹：纳指涨0.86%，美光反弹约9%；比特币重回6.3万、以太坊单日涨约7.7%",
-      "summary": "在上周(6月4—5日)由博通AI指引不及预期与强非农引爆的逾1.3万亿美元芯片抛售之后，6月8日市场企稳回升：道指跌0.16%至50786点、标普涨0.30%至7405点、纳指涨0.86%至25929点；半导体明显反弹，美光涨约9.11%。加密同步回暖，比特币周一开于约6.33万美元(较周日+4%)、以太坊开于约1690美元(+7.7%)，市场将反弹归因于地缘紧张缓和与超跌修复。",
-      "why": "确认上周暴跌后的第一波超跌反弹，对美光(MU)、英伟达(NVDA)、台积电(TSM)持仓是情绪与价格的修复信号；隐含波动率仍高但开始回落，是观察 sell put 的有利时点——可在反弹未走稳前于关键支撑卖put赚取高权利金。Circle、比特币、以太坊等加密相关标的同步企稳，关注反弹持续性而非追涨。",
-      "source": "Yahoo Finance / Fortune（指数与币价为公开市场数据）",
-      "verified": true,
-      "keywords": [
-        "纳斯达克",
-        "Micron",
-        "美光",
-        "Nvidia",
-        "英伟达",
-        "Bitcoin",
-        "比特币",
-        "Ethereum",
-        "以太坊",
-        "反弹"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-8-2026-moving-up-after-bitcoin-prices-fell-below-60000-131559331.html"
     },
     {
       "id": "b5cce261cf06",
@@ -115,6 +116,36 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html"
+    },
+    {
+      "id": "a55e2dd506bb",
+      "is_new": false,
+      "first_seen": "2026-06-09",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-08 (美东)",
+      "title": "地缘缓和、科技股6月8日企稳反弹：纳指涨0.86%，美光反弹约9%；比特币重回6.3万、以太坊单日涨约7.7%",
+      "summary": "在上周(6月4—5日)由博通AI指引不及预期与强非农引爆的逾1.3万亿美元芯片抛售之后，6月8日市场企稳回升：道指跌0.16%至50786点、标普涨0.30%至7405点、纳指涨0.86%至25929点；半导体明显反弹，美光涨约9.11%。加密同步回暖，比特币周一开于约6.33万美元(较周日+4%)、以太坊开于约1690美元(+7.7%)，市场将反弹归因于地缘紧张缓和与超跌修复。",
+      "why": "确认上周暴跌后的第一波超跌反弹，对美光(MU)、英伟达(NVDA)、台积电(TSM)持仓是情绪与价格的修复信号；隐含波动率仍高但开始回落，是观察 sell put 的有利时点——可在反弹未走稳前于关键支撑卖put赚取高权利金。Circle、比特币、以太坊等加密相关标的同步企稳，关注反弹持续性而非追涨。",
+      "source": "Yahoo Finance / Fortune（指数与币价为公开市场数据）",
+      "verified": true,
+      "keywords": [
+        "纳斯达克",
+        "Micron",
+        "美光",
+        "Nvidia",
+        "英伟达",
+        "Bitcoin",
+        "比特币",
+        "Ethereum",
+        "以太坊",
+        "反弹"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-8-2026-moving-up-after-bitcoin-prices-fell-below-60000-131559331.html"
     },
     {
       "id": "dcb6844f07de",
