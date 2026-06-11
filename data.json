@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-06-11 08:15 (北京时间)",
+  "updated_at": "2026-06-11 13:06 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -26,8 +26,66 @@
   "positions": [],
   "items": [
     {
-      "id": "89da6c00f149",
+      "id": "ed315cdaafdf",
       "is_new": true,
+      "first_seen": "2026-06-11",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-11 10:00 (听证) / 6-8 表态",
+      "title": "黄仁勋拒绝出席参院听证：参议院银行委员会6月11日就AI与对华芯片出口举行听证，英伟达CEO以日程为由缺席、改提议邀议员到访总部，沃伦批评",
+      "summary": "据CNBC/NBC报道，英伟达(NVDA)CEO黄仁勋拒绝了参议员沃伦(Warren)关于出席参议院银行委员会6月11日听证的邀请，称\"无法出席\"，改提议邀沃伦或委员到访英伟达总部；沃伦批评\"美国民众应在公开场合得到答案\"。听证主题为\"AI与美国梦：促进创新、可负担性与美国主导\"，定于6月11日上午10点在Dirksen参议院办公楼举行，改由ITI、哈德逊研究所、AEI等机构代表作证，聚焦对华AI芯片出口管制与国家安全。",
+      "why": "英伟达为核心持仓，对华出口管制是其营收与估值的长期主线风险。黄仁勋缺席令本次听证缺乏来自公司一方的实质性政策结论、把直接对质风险后移，但议题持续发酵仍会维持NVDA及半导体板块的高隐含波动。对 sell put 而言是高权利金窗口，宜等监管措辞与潜在新限制落定、压低行权价分批接货，不在政策消息未明时重仓。",
+      "source": "CNBC / NBC News（黄仁勋缺席与听证安排，whitelist CNBC）",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "出口管制",
+        "参议院",
+        "Warren",
+        "听证",
+        "对华",
+        "监管"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/08/nvidia-jensen-huang-senate-elizabeth-warren-ai-china-export-controls.html"
+    },
+    {
+      "id": "322b69a14e6a",
+      "is_new": true,
+      "first_seen": "2026-06-11",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-06-08—09",
+      "title": "微信AI生态开放、智能体可调起小程序完成交易：美团、携程、滴滴等首批接入内测，腾讯加码Agentic服务",
+      "summary": "据财新等报道，6月8—9日腾讯(0700)旗下微信向开发者开放AI智能体生态，发布AI开发者指引、提供两种接入模式；美团(3690)、携程、滴滴、同程等作为首批应用已与微信团队联合开发并完成内测。微信内置AI Agent（主界面右滑唤起）可用自然语言调起小程序，完成筛选、下单等交易与服务。腾讯在2025年年报中已明确要在微信生态内建设下一代Agentic services，连接小程序、内容、社交与支付。",
+      "why": "直接关系腾讯、美团两大核心港股持仓。微信把AI Agent做成本地生活与交易的新入口，强化腾讯\"连接器\"平台价值与流量变现想象空间；对美团既是新的到店/外卖分发渠道，也意味着被平台进一步绑定的双刃。属赛道（互联网+AI）实质进展而非单纯情绪，利于在两者关键支撑位 sell put 赚权利金或对腾讯持仓做 covered call；但商业化节奏与对美团获客成本的净影响仍需观察，不宜据单一消息重仓。",
+      "source": "财新 companies.caixin.com（whitelist）；36氪 / 钛媒体转引",
+      "verified": true,
+      "keywords": [
+        "微信",
+        "WeChat",
+        "腾讯",
+        "Tencent",
+        "美团",
+        "Meituan",
+        "AI Agent",
+        "智能体",
+        "小程序"
+      ],
+      "translated": false,
+      "url": "https://companies.caixin.com/m/2026-06-09/102452577.html"
+    },
+    {
+      "id": "89da6c00f149",
+      "is_new": false,
       "first_seen": "2026-06-11",
       "tier": 1,
       "lang": "zh",
@@ -54,177 +112,6 @@
       ],
       "translated": false,
       "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
-    },
-    {
-      "id": "9eb8697bfc02",
-      "is_new": true,
-      "first_seen": "2026-06-11",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-06-11 (听证) / 6-10 临近",
-      "title": "英伟达再陷出口管制风口：参议院银行委员会拟6月11日就对华芯片出口合规举行听证、邀黄仁勋作证，相关信息回复限期6月18日",
-      "summary": "据报道，美国参议院银行委员会拟于6月11日就英伟达(NVDA)对华芯片出口管制合规、以及所谓芯片经第三地流入中国的问题举行听证，参议员沃伦(Warren)致函邀请CEO黄仁勋出席作证，并要求于6月18日前回复相关信息函。该听证落在本周AI/芯片本已脆弱的盘面之上，构成临近的政策不确定性。",
-      "why": "英伟达为核心持仓，出口管制是其对华营收与估值的长期主线风险点；听证可能带来监管表态或新限制的头条扰动，短期抬升NVDA及半导体板块隐含波动率。对 sell put 而言是高权利金但事件风险加大的窗口——宜等听证结果与措辞落定、压低行权价分批接货，不宜在政策消息未明时重仓。",
-      "source": "Traders Union（援引沃伦致函/路透线索）；沃伦议员办公室信函为一手，听证是否如期举行待确认",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "出口管制",
-        "参议院",
-        "Warren",
-        "对华",
-        "听证",
-        "监管"
-      ],
-      "translated": false,
-      "url": "https://tradersunion.com/news/financial-news/show/2265475-senate-nvidia-ai-export-controls-china/"
-    },
-    {
-      "id": "127a63fbaeb3",
-      "is_new": true,
-      "first_seen": "2026-06-11",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-06-10",
-      "title": "SK海力士拟最快8月赴美发行ADR、规模或达约140亿美元：为约670亿美元扩产计划融资，SEC审核料于6月22日当周推进",
-      "summary": "据Yahoo Finance/KED Global等报道，SK海力士6月10日释放信号，拟最快于2026年8月在美发行ADR、规模或达约140亿美元（公司称具体规模与时间尚未敲定），SEC审核预计于6月22日当周推进。募资将用于支撑其2024—2028年约670亿美元的资本开支计划、到2030年前后大致翻倍晶圆产能。该公司3月已向SEC递交保密申报。",
-      "why": "SK海力士为关注标的（AI内存HBM核心供应商、英伟达最大内存供应商）。赴美上市/大额股权融资既体现其对AI内存超级周期的产能押注、强化中长期份额逻辑，也意味着潜在股本摊薄与短期供给消化压力。对美光(MU)是行业资本开支与竞争格局的参照；规模与时点未定前，相关消息或放大存储股波动，宜结合HBM4量产进度判断。",
-      "source": "Yahoo Finance / KED Global / TradingKey（规模与时点未定，公司未确认；3月SEC保密申报为一手线索）",
-      "verified": false,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "ADR",
-        "赴美上市",
-        "股权融资",
-        "HBM",
-        "资本开支",
-        "美光"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-u-stock-listing-143737920.html"
-    },
-    {
-      "id": "ad6370c6b837",
-      "is_new": true,
-      "first_seen": "2026-06-11",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-06-10",
-      "title": "加密随风险偏好走弱：6月10日比特币约6.15万美元、以太坊约1620—1700美元，周内分别回撤约17%/12%；微策略(Strategy)四年来首度减持BTC",
-      "summary": "在6月10日美国CPI爆表前后，加密资产承压：比特币在6万—6.3万美元区间窄幅波动、报约6.15万美元，周内回撤约17%；以太坊报约1620—1700美元、周内回撤约12%。ETF持续净流出、伊朗地缘与高利率预期压制风险偏好。另有广泛报道称微策略(MicroStrategy/Strategy)于6月8日出售32枚BTC，为其约四年来首次减持比特币（未经8-K一手核实）。",
-      "why": "直接关系Circle、比特币、以太坊敞口与整体风险偏好。热CPI+地缘令加密与AI风险资产同步杀跌，IV走高对 sell put 是高权利金窗口但风险加大；微策略罕见减持若属实，对“企业持续增持托底BTC”的叙事是边际利空信号。宜观察CPI后利率路径与ETF资金流，不在高波动中追跌接货。",
-      "source": "blockchainreporter / CoinDesk / Fortune（币价为多家行情聚合数据，部分仅约数）；微策略减持为媒体广泛报道、未回一手核实",
-      "verified": false,
-      "keywords": [
-        "比特币",
-        "Bitcoin",
-        "BTC",
-        "以太坊",
-        "Ethereum",
-        "ETH",
-        "CPI",
-        "ETF流出",
-        "微策略",
-        "MicroStrategy"
-      ],
-      "translated": false,
-      "url": "https://blockchainreporter.net/bitcoin-price-today-btc-holds-61k-ahead-of-the-cpi-report-that-could-decide-everything/"
-    },
-    {
-      "id": "1e3d1cb0d564",
-      "is_new": true,
-      "first_seen": "2026-06-11",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-06-15 起首批上市（4月底公告）",
-      "title": "港交所扩容每周到期个股期权：泡泡玛特(9992)、老铺黄金(6181)等首批6月15日上市、第二批6月22日，每周个股期权增至33只",
-      "summary": "据港交所公告，将为多只个股新增“每周到期”股票期权：首批10只（含泡泡玛特、老铺黄金、安踏、紫金矿业、药明生物/康德、B站、康方、携程等）自2026年6月15日起交易，第二批7只自6月22日起，每周到期个股期权类别扩至33只。此举显著提升相关标的短周期期权的可用性与流动性。",
-      "why": "直接利好以卖出期权为主的策略：泡泡玛特、老铺黄金新增每周到期期权后，可在事件/财报前后用更短久期、更灵活的行权价做 sell put 收权利金或对持仓 covered call，缩短风险敞口、提高权利金年化效率。对当前金价波动中的老铺黄金、海外放缓叙事中的泡泡玛特，是管理仓位与波动的有用工具。",
-      "source": "港交所 HKEX 新闻稿（一手）；The Standard 转载",
-      "verified": true,
-      "keywords": [
-        "港交所",
-        "HKEX",
-        "每周期权",
-        "个股期权",
-        "泡泡玛特",
-        "老铺黄金",
-        "波动率",
-        "sell put"
-      ],
-      "translated": false,
-      "url": "https://www.hkex.com.hk/News/News-Release/2026/260427news?sc_lang=en"
-    },
-    {
-      "id": "2e5986cb5634",
-      "is_new": true,
-      "first_seen": "2026-06-11",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-06-09 (Bloomberg) / 持续发酵",
-      "title": "Labubu Maker Pop Mart Rejects One-Hit Wonder Tag as Global Sales Slow",
-      "summary": "泡泡玛特(9992.HK) COO 司德接受彭博访问，回应海外增长放缓与“仅靠Labubu”的质疑：称去年非Labubu产品约占美国营收一半、并在日韩与东南亚占多数；2026年计划在美开设逾100家门店（Q4落地时代广场/第五大道旗舰店），并推进与索尼合作的Labubu电影（或2028年夏季）。背景是美国销售走弱（3月约-45%、4月约-42%）、市值较去年8月高点蒸发约280亿美元。",
-      "why": "泡泡玛特为消费赛道核心关注标的（港股），海外尤其美国销售的同比大幅下滑+市值大幅回撤，属基本面与估值层面的实质进展而非单纯情绪。管理层主动“去Labubu依赖”叙事意在稳预期，但在美国单月销售双位数下滑得到改善验证前，高IV下不宜贸然 sell put 接货；宜跟踪美国新店爬坡、非Labubu品类占比与单店数据，再评估估值底与卖put的安全边际。",
-      "source": "Bloomberg（彭博访谈，whitelist）；Yahoo Finance 镜像",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "9992",
-        "Labubu",
-        "海外",
-        "美国销售",
-        "消费",
-        "估值"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-06-09/labubu-maker-pop-mart-rejects-one-hit-wonder-tag-as-global-sales-slow"
-    },
-    {
-      "id": "f04a4cf00dd0",
-      "is_new": true,
-      "first_seen": "2026-06-11",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-06-10",
-      "title": "美光6月10日宣布选定柏克德(Bechtel)为纽约半导体大厂一期EPC建设伙伴",
-      "summary": "美光(MU)6月10日发布新闻稿，宣布选定工程巨头柏克德(Bechtel)作为其位于纽约Clay的前沿存储芯片超级工厂一期的EPC（设计-采购-施工）建设伙伴。该项目为纽约州史上最大私人投资，预计带来约167亿美元/年的州经济产出与约5万个就业（含4500+建设岗位）。",
-      "why": "美光为核心持仓。选定建设伙伴标志其美国本土先进存储产能扩张按计划推进，是中长期供给与本土化布局的执行性进展（受美国制造业政策与补贴支持），对产能/份额逻辑偏正面但非短期股价催化。关注后续一期投产时点与HBM/前沿DRAM产能爬坡，对 sell put 接货逻辑提供基本面背景，影响有限。",
-      "source": "美光投资者关系 IR / GlobeNewswire 新闻稿（一手）",
-      "verified": true,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "纽约",
-        "柏克德",
-        "Bechtel",
-        "建厂",
-        "资本开支"
-      ],
-      "translated": false,
-      "url": "https://investors.micron.com/news-releases/news-release-details/micron-selects-bechtel-construction-partner-historic-new-york"
     },
     {
       "id": "c4f3b13e4770",
@@ -432,6 +319,149 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html"
+    },
+    {
+      "id": "9eb8697bfc02",
+      "is_new": false,
+      "first_seen": "2026-06-11",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-11 (听证) / 6-10 临近",
+      "title": "英伟达再陷出口管制风口：参议院银行委员会拟6月11日就对华芯片出口合规举行听证、邀黄仁勋作证，相关信息回复限期6月18日",
+      "summary": "据报道，美国参议院银行委员会拟于6月11日就英伟达(NVDA)对华芯片出口管制合规、以及所谓芯片经第三地流入中国的问题举行听证，参议员沃伦(Warren)致函邀请CEO黄仁勋出席作证，并要求于6月18日前回复相关信息函。该听证落在本周AI/芯片本已脆弱的盘面之上，构成临近的政策不确定性。",
+      "why": "英伟达为核心持仓，出口管制是其对华营收与估值的长期主线风险点；听证可能带来监管表态或新限制的头条扰动，短期抬升NVDA及半导体板块隐含波动率。对 sell put 而言是高权利金但事件风险加大的窗口——宜等听证结果与措辞落定、压低行权价分批接货，不宜在政策消息未明时重仓。",
+      "source": "Traders Union（援引沃伦致函/路透线索）；沃伦议员办公室信函为一手，听证是否如期举行待确认",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "出口管制",
+        "参议院",
+        "Warren",
+        "对华",
+        "听证",
+        "监管"
+      ],
+      "translated": false,
+      "url": "https://tradersunion.com/news/financial-news/show/2265475-senate-nvidia-ai-export-controls-china/"
+    },
+    {
+      "id": "127a63fbaeb3",
+      "is_new": false,
+      "first_seen": "2026-06-11",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-10",
+      "title": "SK海力士拟最快8月赴美发行ADR、规模或达约140亿美元：为约670亿美元扩产计划融资，SEC审核料于6月22日当周推进",
+      "summary": "据Yahoo Finance/KED Global等报道，SK海力士6月10日释放信号，拟最快于2026年8月在美发行ADR、规模或达约140亿美元（公司称具体规模与时间尚未敲定），SEC审核预计于6月22日当周推进。募资将用于支撑其2024—2028年约670亿美元的资本开支计划、到2030年前后大致翻倍晶圆产能。该公司3月已向SEC递交保密申报。",
+      "why": "SK海力士为关注标的（AI内存HBM核心供应商、英伟达最大内存供应商）。赴美上市/大额股权融资既体现其对AI内存超级周期的产能押注、强化中长期份额逻辑，也意味着潜在股本摊薄与短期供给消化压力。对美光(MU)是行业资本开支与竞争格局的参照；规模与时点未定前，相关消息或放大存储股波动，宜结合HBM4量产进度判断。",
+      "source": "Yahoo Finance / KED Global / TradingKey（规模与时点未定，公司未确认；3月SEC保密申报为一手线索）",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "ADR",
+        "赴美上市",
+        "股权融资",
+        "HBM",
+        "资本开支",
+        "美光"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-u-stock-listing-143737920.html"
+    },
+    {
+      "id": "ad6370c6b837",
+      "is_new": false,
+      "first_seen": "2026-06-11",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-10",
+      "title": "加密随风险偏好走弱：6月10日比特币约6.15万美元、以太坊约1620—1700美元，周内分别回撤约17%/12%；微策略(Strategy)四年来首度减持BTC",
+      "summary": "在6月10日美国CPI爆表前后，加密资产承压：比特币在6万—6.3万美元区间窄幅波动、报约6.15万美元，周内回撤约17%；以太坊报约1620—1700美元、周内回撤约12%。ETF持续净流出、伊朗地缘与高利率预期压制风险偏好。另有广泛报道称微策略(MicroStrategy/Strategy)于6月8日出售32枚BTC，为其约四年来首次减持比特币（未经8-K一手核实）。",
+      "why": "直接关系Circle、比特币、以太坊敞口与整体风险偏好。热CPI+地缘令加密与AI风险资产同步杀跌，IV走高对 sell put 是高权利金窗口但风险加大；微策略罕见减持若属实，对“企业持续增持托底BTC”的叙事是边际利空信号。宜观察CPI后利率路径与ETF资金流，不在高波动中追跌接货。",
+      "source": "blockchainreporter / CoinDesk / Fortune（币价为多家行情聚合数据，部分仅约数）；微策略减持为媒体广泛报道、未回一手核实",
+      "verified": false,
+      "keywords": [
+        "比特币",
+        "Bitcoin",
+        "BTC",
+        "以太坊",
+        "Ethereum",
+        "ETH",
+        "CPI",
+        "ETF流出",
+        "微策略",
+        "MicroStrategy"
+      ],
+      "translated": false,
+      "url": "https://blockchainreporter.net/bitcoin-price-today-btc-holds-61k-ahead-of-the-cpi-report-that-could-decide-everything/"
+    },
+    {
+      "id": "1e3d1cb0d564",
+      "is_new": false,
+      "first_seen": "2026-06-11",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-06-15 起首批上市（4月底公告）",
+      "title": "港交所扩容每周到期个股期权：泡泡玛特(9992)、老铺黄金(6181)等首批6月15日上市、第二批6月22日，每周个股期权增至33只",
+      "summary": "据港交所公告，将为多只个股新增“每周到期”股票期权：首批10只（含泡泡玛特、老铺黄金、安踏、紫金矿业、药明生物/康德、B站、康方、携程等）自2026年6月15日起交易，第二批7只自6月22日起，每周到期个股期权类别扩至33只。此举显著提升相关标的短周期期权的可用性与流动性。",
+      "why": "直接利好以卖出期权为主的策略：泡泡玛特、老铺黄金新增每周到期期权后，可在事件/财报前后用更短久期、更灵活的行权价做 sell put 收权利金或对持仓 covered call，缩短风险敞口、提高权利金年化效率。对当前金价波动中的老铺黄金、海外放缓叙事中的泡泡玛特，是管理仓位与波动的有用工具。",
+      "source": "港交所 HKEX 新闻稿（一手）；The Standard 转载",
+      "verified": true,
+      "keywords": [
+        "港交所",
+        "HKEX",
+        "每周期权",
+        "个股期权",
+        "泡泡玛特",
+        "老铺黄金",
+        "波动率",
+        "sell put"
+      ],
+      "translated": false,
+      "url": "https://www.hkex.com.hk/News/News-Release/2026/260427news?sc_lang=en"
+    },
+    {
+      "id": "2e5986cb5634",
+      "is_new": false,
+      "first_seen": "2026-06-11",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-06-09 (Bloomberg) / 持续发酵",
+      "title": "Labubu Maker Pop Mart Rejects One-Hit Wonder Tag as Global Sales Slow",
+      "summary": "泡泡玛特(9992.HK) COO 司德接受彭博访问，回应海外增长放缓与“仅靠Labubu”的质疑：称去年非Labubu产品约占美国营收一半、并在日韩与东南亚占多数；2026年计划在美开设逾100家门店（Q4落地时代广场/第五大道旗舰店），并推进与索尼合作的Labubu电影（或2028年夏季）。背景是美国销售走弱（3月约-45%、4月约-42%）、市值较去年8月高点蒸发约280亿美元。",
+      "why": "泡泡玛特为消费赛道核心关注标的（港股），海外尤其美国销售的同比大幅下滑+市值大幅回撤，属基本面与估值层面的实质进展而非单纯情绪。管理层主动“去Labubu依赖”叙事意在稳预期，但在美国单月销售双位数下滑得到改善验证前，高IV下不宜贸然 sell put 接货；宜跟踪美国新店爬坡、非Labubu品类占比与单店数据，再评估估值底与卖put的安全边际。",
+      "source": "Bloomberg（彭博访谈，whitelist）；Yahoo Finance 镜像",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "9992",
+        "Labubu",
+        "海外",
+        "美国销售",
+        "消费",
+        "估值"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/labubu-maker-pop-mart-rejects-one-hit-wonder-tag-as-global-sales-slow"
     },
     {
       "id": "0d608cbe20eb",
@@ -689,6 +719,34 @@
       ],
       "translated": false,
       "url": "https://en.bloomingbit.io/feed/news/113744"
+    },
+    {
+      "id": "f04a4cf00dd0",
+      "is_new": false,
+      "first_seen": "2026-06-11",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-10",
+      "title": "美光6月10日宣布选定柏克德(Bechtel)为纽约半导体大厂一期EPC建设伙伴",
+      "summary": "美光(MU)6月10日发布新闻稿，宣布选定工程巨头柏克德(Bechtel)作为其位于纽约Clay的前沿存储芯片超级工厂一期的EPC（设计-采购-施工）建设伙伴。该项目为纽约州史上最大私人投资，预计带来约167亿美元/年的州经济产出与约5万个就业（含4500+建设岗位）。",
+      "why": "美光为核心持仓。选定建设伙伴标志其美国本土先进存储产能扩张按计划推进，是中长期供给与本土化布局的执行性进展（受美国制造业政策与补贴支持），对产能/份额逻辑偏正面但非短期股价催化。关注后续一期投产时点与HBM/前沿DRAM产能爬坡，对 sell put 接货逻辑提供基本面背景，影响有限。",
+      "source": "美光投资者关系 IR / GlobeNewswire 新闻稿（一手）",
+      "verified": true,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "纽约",
+        "柏克德",
+        "Bechtel",
+        "建厂",
+        "资本开支"
+      ],
+      "translated": false,
+      "url": "https://investors.micron.com/news-releases/news-release-details/micron-selects-bechtel-construction-partner-historic-new-york"
     },
     {
       "id": "c634e174650c",
