@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-06-12 13:05 (北京时间)",
+  "updated_at": "2026-06-12 18:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -26,8 +26,38 @@
   "positions": [],
   "items": [
     {
-      "id": "a1f3c9d24e88",
+      "id": "f114606ac370",
       "is_new": true,
+      "first_seen": "2026-06-12",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-12",
+      "title": "英伟达转向CPU救中国业务：路透独家——英伟达向中国客户推介新一代Vera CPU、最快8月供货并已开放下单，一大型云厂商拟订购逾300台服务器",
+      "summary": "据路透6月12日独家报道，英伟达(NVDA)已开始向中国客户推介其新一代基于Arm架构的Vera中央处理器(CPU)，称最快可于2026年8月供货、客户即可开始下单。一家大型中国云计算公司计划订购逾300台服务器(每台含两颗Vera CPU)，并表示将先订购一台测试机再下整单。据报单颗Vera CPU售价约2万美元以上、整机柜约1000万美元；英伟达预计Vera芯片到其2027财年(2027年1月止)可贡献近200亿美元营收。此举凸显在其次强AI芯片H200对华出货停滞数月、GPU出口受限背景下，公司快速转向CPU以挽救快速下滑的中国业务。",
+      "why": "英伟达为核心持仓，对华业务是其营收与估值的长期主线变量。在GPU出口受限、H200对华停摆的背景下，用受管制较松的Arm架构Vera CPU重新切入中国市场，是对冲中国营收流失的实质性新路径；若300台测试订单顺利放量、近200亿美元营收指引兑现，对NVDA基本面偏正面，但仍受中美监管与软件生态兼容性不确定性掣肘。消息落在近期芯片股高IV、连续第四周承压的背景下——对以 sell put 为主的策略是趁高权利金于关键支撑分批卖put的窗口，宜压低行权价、等下周FOMC与对华政策措辞落定，不在政策与盘面未稳时重仓追高。",
+      "source": "路透社 Reuters 独家（经 Seeking Alpha / Investing.com / The Information 转载）",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "Vera",
+        "CPU",
+        "中国",
+        "出口管制",
+        "Arm",
+        "H200",
+        "数据中心"
+      ],
+      "translated": false,
+      "url": "https://www.investing.com/news/stock-market-news/exclusivenvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-sources-say-4738953"
+    },
+    {
+      "id": "a1f3c9d24e88",
+      "is_new": false,
       "first_seen": "2026-06-12",
       "tier": 1,
       "lang": "zh",
@@ -54,65 +84,6 @@
       ],
       "translated": false,
       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026"
-    },
-    {
-      "id": "7b2e5fa1c903",
-      "is_new": true,
-      "first_seen": "2026-06-12",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-06-11",
-      "title": "台积电拟下半年上调代工报价：AI需求强劲叠加3nm产能吃紧，最先进3nm制程涨价或约15%，TSM股价涨超2%",
-      "summary": "据多家媒体报道，台积电(TSM/2330)计划于2026年下半年上调晶圆代工价格，以应对上游成本上升与AI驱动的供不应求；其中最抢手的3nm先进制程涨价幅度或达约15%。尽管公司持续扩产（二季度月产能约16万—17.5万片），AI需求仍超预期、产能紧张未解。消息推动TSM股价6月11日涨超2%至约416美元。该涨价为媒体报道，台积电未逐项官方确认。",
-      "why": "台积电为核心持仓，先进制程提价直接增厚毛利与议价权，验证AI算力上行周期下代工龙头的定价能力，对TSM中长期持有逻辑偏正面，并间接反映英伟达(NVDA)等下游对先进制程的刚性需求。涨价提升盈利能见度，为价格回踩时分批 sell put 接货提供基本面安全垫；但属媒体报道、幅度与生效时点未经官方逐项确认，宜结合7月法说会指引验证，不据单一传闻重仓。",
-      "source": "媒体报道（gurufocus 等转引；台积电官方未逐项确认，待7月法说会核对）",
-      "verified": false,
-      "keywords": [
-        "台积电",
-        "TSMC",
-        "TSM",
-        "涨价",
-        "3nm",
-        "代工",
-        "毛利",
-        "AI",
-        "2330"
-      ],
-      "translated": false,
-      "url": "https://www.gurufocus.com/news/8911939/tsm-tsmc-to-raise-prices-amid-strong-ai-demand-and-3nm-process-shortages"
-    },
-    {
-      "id": "d4c81b6f20a7",
-      "is_new": true,
-      "first_seen": "2026-06-12",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-06-10",
-      "title": "美光向关键客户送样36GB 12-Hi HBM4，成第二家进入HBM4送样阶段的存储大厂；英伟达就16-Hi HBM4向三大厂招标",
-      "summary": "据报道，美光(MU)6月10日已向关键客户出样36GB 12-Hi HBM4高带宽内存，成为三大存储厂中第二家达到HBM4送样阶段者（SK海力士此前领先）。同时英伟达正就面向2026下半年的新一代16-Hi HBM4向SK海力士、三星、美光三家招标供货，三家均已展开量产前开发；当前Vera Rubin平台HBM4份额SK海力士约6—7成、三星约25—30%、美光居其余。",
-      "why": "直接关系美光(MU)持仓与SK海力士关注标的：HBM4送样推进确认美光在AI内存升级周期中追赶份额、缩小与海力士差距，是设计赢单/产能爬坡的执行性进展，利好中长期份额逻辑。HBM供不应求（2026配额售罄、缺口延至2027）支撑存储超级周期，为美光高IV时于关键支撑分批 sell put 接货提供基本面背书；但份额最终分配与良率仍需后续验证。",
-      "source": "媒体报道（TweakTown / TechTimes 等转引；美光官方未逐项确认）",
-      "verified": false,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "HBM4",
-        "12-Hi",
-        "16-Hi",
-        "SK海力士",
-        "SK Hynix",
-        "Nvidia",
-        "内存"
-      ],
-      "translated": false,
-      "url": "https://www.tweaktown.com/news/109495/sk-hynix-samsung-and-micron-fighting-for-nvidia-supply-contracts-for-new-16-hi-hbm4-orders/index.html"
     },
     {
       "id": "89da6c00f149",
@@ -350,6 +321,65 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html"
+    },
+    {
+      "id": "7b2e5fa1c903",
+      "is_new": false,
+      "first_seen": "2026-06-12",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-11",
+      "title": "台积电拟下半年上调代工报价：AI需求强劲叠加3nm产能吃紧，最先进3nm制程涨价或约15%，TSM股价涨超2%",
+      "summary": "据多家媒体报道，台积电(TSM/2330)计划于2026年下半年上调晶圆代工价格，以应对上游成本上升与AI驱动的供不应求；其中最抢手的3nm先进制程涨价幅度或达约15%。尽管公司持续扩产（二季度月产能约16万—17.5万片），AI需求仍超预期、产能紧张未解。消息推动TSM股价6月11日涨超2%至约416美元。该涨价为媒体报道，台积电未逐项官方确认。",
+      "why": "台积电为核心持仓，先进制程提价直接增厚毛利与议价权，验证AI算力上行周期下代工龙头的定价能力，对TSM中长期持有逻辑偏正面，并间接反映英伟达(NVDA)等下游对先进制程的刚性需求。涨价提升盈利能见度，为价格回踩时分批 sell put 接货提供基本面安全垫；但属媒体报道、幅度与生效时点未经官方逐项确认，宜结合7月法说会指引验证，不据单一传闻重仓。",
+      "source": "媒体报道（gurufocus 等转引；台积电官方未逐项确认，待7月法说会核对）",
+      "verified": false,
+      "keywords": [
+        "台积电",
+        "TSMC",
+        "TSM",
+        "涨价",
+        "3nm",
+        "代工",
+        "毛利",
+        "AI",
+        "2330"
+      ],
+      "translated": false,
+      "url": "https://www.gurufocus.com/news/8911939/tsm-tsmc-to-raise-prices-amid-strong-ai-demand-and-3nm-process-shortages"
+    },
+    {
+      "id": "d4c81b6f20a7",
+      "is_new": false,
+      "first_seen": "2026-06-12",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-10",
+      "title": "美光向关键客户送样36GB 12-Hi HBM4，成第二家进入HBM4送样阶段的存储大厂；英伟达就16-Hi HBM4向三大厂招标",
+      "summary": "据报道，美光(MU)6月10日已向关键客户出样36GB 12-Hi HBM4高带宽内存，成为三大存储厂中第二家达到HBM4送样阶段者（SK海力士此前领先）。同时英伟达正就面向2026下半年的新一代16-Hi HBM4向SK海力士、三星、美光三家招标供货，三家均已展开量产前开发；当前Vera Rubin平台HBM4份额SK海力士约6—7成、三星约25—30%、美光居其余。",
+      "why": "直接关系美光(MU)持仓与SK海力士关注标的：HBM4送样推进确认美光在AI内存升级周期中追赶份额、缩小与海力士差距，是设计赢单/产能爬坡的执行性进展，利好中长期份额逻辑。HBM供不应求（2026配额售罄、缺口延至2027）支撑存储超级周期，为美光高IV时于关键支撑分批 sell put 接货提供基本面背书；但份额最终分配与良率仍需后续验证。",
+      "source": "媒体报道（TweakTown / TechTimes 等转引；美光官方未逐项确认）",
+      "verified": false,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "HBM4",
+        "12-Hi",
+        "16-Hi",
+        "SK海力士",
+        "SK Hynix",
+        "Nvidia",
+        "内存"
+      ],
+      "translated": false,
+      "url": "https://www.tweaktown.com/news/109495/sk-hynix-samsung-and-micron-fighting-for-nvidia-supply-contracts-for-new-16-hi-hbm4-orders/index.html"
     },
     {
       "id": "94e665203b88",
