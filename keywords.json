@@ -1,50 +1,588 @@
 {
   "_说明": "关键词库（core/derived 两层）。core=核心名与代码；derived=衍生词（产品/IP/子品牌/高频热点），检索时 core+derived 全部展开搜索，命中任一即归该标的。routine 还会按当下热点动态补充新衍生词。markets/tracks 用于宽口径初筛。",
   "_版本": "v2",
-
-  "markets": ["HK", "US", "A"],
+  "markets": [
+    "HK",
+    "US",
+    "A"
+  ],
   "_markets说明": "HK=港股 US=美股 A=A股。只保留与这些市场相关的新闻。",
-
-  "tracks": ["消费", "科技", "consumer", "technology", "semiconductor", "internet", "crypto", "宏观", "macro"],
+  "tracks": [
+    "消费",
+    "科技",
+    "consumer",
+    "technology",
+    "semiconductor",
+    "internet",
+    "crypto",
+    "宏观",
+    "macro"
+  ],
   "_tracks说明": "重点赛道：消费 + 科技 + 宏观大盘。用于宽口径初筛。",
-
   "strategy": "中长期持有优质股票；短期卖出期权（以 sell put 为主，偶尔 covered call）。优先标记：业绩/指引、监管处罚、回购/分红、估值重估、波动率/隐含波动、解禁/增减持、行权价相关事件；也保留品牌破圈/出海/联名/重大新品等里程碑类新闻。",
-
   "media_anchor": {
     "_说明": "每轮必扫的固定媒体头条（先宽）。这些视为白名单可信源。routine 可在此之外按当天热点动态补充来源。",
-    "cn": ["财新", "第一财经", "华尔街见闻", "36氪", "界面新闻", "雪球", "富途牛牛"],
-    "en": ["Bloomberg", "Reuters", "WSJ", "Financial Times", "CNBC"]
+    "cn": [
+      "财新",
+      "第一财经",
+      "华尔街见闻",
+      "36氪",
+      "界面新闻",
+      "雪球",
+      "富途牛牛"
+    ],
+    "en": [
+      "Bloomberg",
+      "Reuters",
+      "WSJ",
+      "Financial Times",
+      "CNBC"
+    ]
   },
-
   "entries": {
-    "腾讯": { "core": ["腾讯", "Tencent", "0700.HK", "00700"], "derived": ["微信", "WeChat", "王者荣耀", "和平精英", "视频号", "元宝", "混元", "腾讯游戏", "Supercell", "腾讯云", "腾讯音乐"] },
-    "阿里巴巴": { "core": ["阿里巴巴", "阿里", "Alibaba", "9988.HK", "BABA"], "derived": ["淘宝", "天猫", "阿里云", "通义千问", "菜鸟", "饿了么", "1688", "闲鱼", "钉钉", "蚂蚁集团", "高德", "淘天"] },
-    "美团": { "core": ["美团", "Meituan", "3690.HK"], "derived": ["外卖", "美团优选", "即时零售", "美团闪购", "骑手", "到店", "大众点评", "Keeta", "美团打车"] },
-    "泡泡玛特": { "core": ["泡泡玛特", "Pop Mart", "POPMART", "9992.HK"], "derived": ["Labubu", "拉布布", "星星人", "The Monsters", "Skullpanda", "Molly", "Dimoo", "Crybaby", "Hirono", "盲盒", "MEGA", "潮玩"] },
-    "小米": { "core": ["小米", "Xiaomi", "1810.HK"], "derived": ["SU7", "YU7", "小米汽车", "澎湃OS", "红米", "Redmi", "雷军", "小米15", "小米16", "IoT", "AIoT"] },
-    "海底捞": { "core": ["海底捞", "Haidilao", "6862.HK"], "derived": ["火锅", "特海国际", "Super Hi", "捞派", "餐饮"] },
-    "携程": { "core": ["携程", "Trip.com", "Ctrip", "9961.HK", "TCOM"], "derived": ["出境游", "国际机票", "酒店预订", "旅游", "在线旅游", "OTA"] },
-    "老铺黄金": { "core": ["老铺黄金", "Laopu Gold", "6181.HK"], "derived": ["古法金", "黄金", "金价", "珠宝", "足金", "黄金首饰"] },
-    "蜜雪冰城": { "core": ["蜜雪冰城", "蜜雪", "Mixue", "2097.HK"], "derived": ["雪王", "现制茶饮", "幸运咖", "新茶饮", "下沉市场", "加盟"] },
-    "SK海力士": { "core": ["SK海力士", "SK Hynix", "000660", "7709.HK"], "derived": ["HBM", "HBM3E", "HBM4", "DRAM", "存储芯片", "内存", "南方两倍做多", "CSOP", "高带宽内存"] },
-    "好市多": { "core": ["好市多", "Costco", "COST"], "derived": ["会员店", "仓储会员", "山姆竞争"] },
-    "Circle": { "core": ["Circle", "CRCL", "Circle Internet"], "derived": ["USDC", "稳定币", "stablecoin", "储备金", "GENIUS Act", "稳定币法案"] },
-    "迪士尼": { "core": ["迪士尼", "Disney", "DIS"], "derived": ["Disney+", "迪士尼乐园", "streaming", "流媒体", "票房", "ESPN"] },
-    "富途": { "core": ["富途", "Futu", "FUTU", "富途控股"], "derived": ["富途牛牛", "moomoo", "牛牛", "港美股券商", "互联网券商"] },
-    "谷歌": { "core": ["谷歌", "Google", "Alphabet", "GOOGL", "GOOG"], "derived": ["Gemini", "Waymo", "YouTube", "Android", "谷歌云", "Google Cloud", "搜索广告", "TPU", "DeepMind"] },
-    "盈透证券": { "core": ["盈透证券", "Interactive Brokers", "IBKR"], "derived": ["互动经纪", "券商", "交易平台"] },
-    "英特尔": { "core": ["英特尔", "Intel", "INTC"], "derived": ["CPU", "代工", "foundry", "晶圆", "18A", "Gaudi", "晶圆代工", "x86"] },
-    "麦当劳": { "core": ["麦当劳", "McDonald's", "MCD"], "derived": ["快餐", "麦当劳中国", "金拱门"] },
-    "美光": { "core": ["美光", "Micron", "MU", "MUU"], "derived": ["HBM", "DRAM", "NAND", "存储", "内存", "两倍做多美光"] },
-    "拼多多": { "core": ["拼多多", "PDD", "Pinduoduo"], "derived": ["Temu", "多多买菜", "百亿补贴", "跨境电商", "Temu出海"] },
-    "Palantir": { "core": ["Palantir", "PLTR"], "derived": ["AIP", "Foundry", "Gotham", "国防AI", "政府合同", "AI平台"] },
-    "闪迪": { "core": ["闪迪", "SanDisk", "SNDK"], "derived": ["NAND", "闪存", "flash", "存储", "固态硬盘"] },
-    "好未来": { "core": ["好未来", "TAL", "TAL Education"], "derived": ["学而思", "教育", "学习机", "AI教育", "智能硬件"] },
-    "特斯拉": { "core": ["特斯拉", "Tesla", "TSLA"], "derived": ["Model 3", "Model Y", "Cybertruck", "FSD", "Robotaxi", "马斯克", "Musk", "储能", "Optimus", "Dojo", "自动驾驶"] },
-    "沃尔玛": { "core": ["沃尔玛", "Walmart", "WMT"], "derived": ["山姆", "Sam's Club", "零售", "电商"] },
-    "英伟达": { "core": ["英伟达", "Nvidia", "NVDA"], "derived": ["GPU", "AI芯片", "H100", "H200", "B200", "Blackwell", "CUDA", "数据中心", "黄仁勋", "Rubin"] }
+    "腾讯": {
+      "core": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "00700"
+      ],
+      "derived": [
+        "微信",
+        "WeChat",
+        "王者荣耀",
+        "和平精英",
+        "视频号",
+        "元宝",
+        "混元",
+        "腾讯游戏",
+        "Supercell",
+        "腾讯云",
+        "腾讯音乐"
+      ]
+    },
+    "阿里巴巴": {
+      "core": [
+        "阿里巴巴",
+        "阿里",
+        "Alibaba",
+        "9988.HK",
+        "BABA"
+      ],
+      "derived": [
+        "淘宝",
+        "天猫",
+        "阿里云",
+        "通义千问",
+        "菜鸟",
+        "饿了么",
+        "1688",
+        "闲鱼",
+        "钉钉",
+        "蚂蚁集团",
+        "高德",
+        "淘天"
+      ]
+    },
+    "美团": {
+      "core": [
+        "美团",
+        "Meituan",
+        "3690.HK"
+      ],
+      "derived": [
+        "外卖",
+        "美团优选",
+        "即时零售",
+        "美团闪购",
+        "骑手",
+        "到店",
+        "大众点评",
+        "Keeta",
+        "美团打车"
+      ]
+    },
+    "泡泡玛特": {
+      "core": [
+        "泡泡玛特",
+        "Pop Mart",
+        "POPMART",
+        "9992.HK"
+      ],
+      "derived": [
+        "Labubu",
+        "拉布布",
+        "星星人",
+        "The Monsters",
+        "Skullpanda",
+        "Molly",
+        "Dimoo",
+        "Crybaby",
+        "Hirono",
+        "盲盒",
+        "MEGA",
+        "潮玩"
+      ]
+    },
+    "小米": {
+      "core": [
+        "小米",
+        "Xiaomi",
+        "1810.HK"
+      ],
+      "derived": [
+        "SU7",
+        "YU7",
+        "小米汽车",
+        "澎湃OS",
+        "红米",
+        "Redmi",
+        "雷军",
+        "小米15",
+        "小米16",
+        "IoT",
+        "AIoT"
+      ]
+    },
+    "海底捞": {
+      "core": [
+        "海底捞",
+        "Haidilao",
+        "6862.HK"
+      ],
+      "derived": [
+        "火锅",
+        "特海国际",
+        "Super Hi",
+        "捞派",
+        "餐饮"
+      ]
+    },
+    "携程": {
+      "core": [
+        "携程",
+        "Trip.com",
+        "Ctrip",
+        "9961.HK",
+        "TCOM"
+      ],
+      "derived": [
+        "出境游",
+        "国际机票",
+        "酒店预订",
+        "旅游",
+        "在线旅游",
+        "OTA"
+      ]
+    },
+    "老铺黄金": {
+      "core": [
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK"
+      ],
+      "derived": [
+        "古法金",
+        "黄金",
+        "金价",
+        "珠宝",
+        "足金",
+        "黄金首饰"
+      ]
+    },
+    "蜜雪冰城": {
+      "core": [
+        "蜜雪冰城",
+        "蜜雪",
+        "Mixue",
+        "2097.HK"
+      ],
+      "derived": [
+        "雪王",
+        "现制茶饮",
+        "幸运咖",
+        "新茶饮",
+        "下沉市场",
+        "加盟"
+      ]
+    },
+    "SK海力士": {
+      "core": [
+        "SK海力士",
+        "SK Hynix",
+        "000660",
+        "7709.HK"
+      ],
+      "derived": [
+        "HBM",
+        "HBM3E",
+        "HBM4",
+        "DRAM",
+        "存储芯片",
+        "内存",
+        "南方两倍做多",
+        "CSOP",
+        "高带宽内存"
+      ]
+    },
+    "好市多": {
+      "core": [
+        "好市多",
+        "Costco",
+        "COST"
+      ],
+      "derived": [
+        "会员店",
+        "仓储会员",
+        "山姆竞争"
+      ]
+    },
+    "Circle": {
+      "core": [
+        "Circle",
+        "CRCL",
+        "Circle Internet"
+      ],
+      "derived": [
+        "USDC",
+        "稳定币",
+        "stablecoin",
+        "储备金",
+        "GENIUS Act",
+        "稳定币法案"
+      ]
+    },
+    "迪士尼": {
+      "core": [
+        "迪士尼",
+        "Disney",
+        "DIS"
+      ],
+      "derived": [
+        "Disney+",
+        "迪士尼乐园",
+        "streaming",
+        "流媒体",
+        "票房",
+        "ESPN"
+      ]
+    },
+    "富途": {
+      "core": [
+        "富途",
+        "Futu",
+        "FUTU",
+        "富途控股"
+      ],
+      "derived": [
+        "富途牛牛",
+        "moomoo",
+        "牛牛",
+        "港美股券商",
+        "互联网券商"
+      ]
+    },
+    "谷歌": {
+      "core": [
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "GOOG"
+      ],
+      "derived": [
+        "Gemini",
+        "Waymo",
+        "YouTube",
+        "Android",
+        "谷歌云",
+        "Google Cloud",
+        "搜索广告",
+        "TPU",
+        "DeepMind"
+      ]
+    },
+    "盈透证券": {
+      "core": [
+        "盈透证券",
+        "Interactive Brokers",
+        "IBKR"
+      ],
+      "derived": [
+        "互动经纪",
+        "券商",
+        "交易平台"
+      ]
+    },
+    "英特尔": {
+      "core": [
+        "英特尔",
+        "Intel",
+        "INTC"
+      ],
+      "derived": [
+        "CPU",
+        "代工",
+        "foundry",
+        "晶圆",
+        "18A",
+        "Gaudi",
+        "晶圆代工",
+        "x86"
+      ]
+    },
+    "麦当劳": {
+      "core": [
+        "麦当劳",
+        "McDonald's",
+        "MCD"
+      ],
+      "derived": [
+        "快餐",
+        "麦当劳中国",
+        "金拱门"
+      ]
+    },
+    "美光": {
+      "core": [
+        "美光",
+        "Micron",
+        "MU",
+        "MUU"
+      ],
+      "derived": [
+        "HBM",
+        "DRAM",
+        "NAND",
+        "存储",
+        "内存",
+        "两倍做多美光"
+      ]
+    },
+    "拼多多": {
+      "core": [
+        "拼多多",
+        "PDD",
+        "Pinduoduo"
+      ],
+      "derived": [
+        "Temu",
+        "多多买菜",
+        "百亿补贴",
+        "跨境电商",
+        "Temu出海"
+      ]
+    },
+    "Palantir": {
+      "core": [
+        "Palantir",
+        "PLTR"
+      ],
+      "derived": [
+        "AIP",
+        "Foundry",
+        "Gotham",
+        "国防AI",
+        "政府合同",
+        "AI平台"
+      ]
+    },
+    "闪迪": {
+      "core": [
+        "闪迪",
+        "SanDisk",
+        "SNDK"
+      ],
+      "derived": [
+        "NAND",
+        "闪存",
+        "flash",
+        "存储",
+        "固态硬盘"
+      ]
+    },
+    "好未来": {
+      "core": [
+        "好未来",
+        "TAL",
+        "TAL Education"
+      ],
+      "derived": [
+        "学而思",
+        "教育",
+        "学习机",
+        "AI教育",
+        "智能硬件"
+      ]
+    },
+    "特斯拉": {
+      "core": [
+        "特斯拉",
+        "Tesla",
+        "TSLA"
+      ],
+      "derived": [
+        "Model 3",
+        "Model Y",
+        "Cybertruck",
+        "FSD",
+        "Robotaxi",
+        "马斯克",
+        "Musk",
+        "储能",
+        "Optimus",
+        "Dojo",
+        "自动驾驶"
+      ]
+    },
+    "沃尔玛": {
+      "core": [
+        "沃尔玛",
+        "Walmart",
+        "WMT"
+      ],
+      "derived": [
+        "山姆",
+        "Sam's Club",
+        "零售",
+        "电商"
+      ]
+    },
+    "英伟达": {
+      "core": [
+        "英伟达",
+        "Nvidia",
+        "NVDA"
+      ],
+      "derived": [
+        "GPU",
+        "AI芯片",
+        "H100",
+        "H200",
+        "B200",
+        "Blackwell",
+        "CUDA",
+        "数据中心",
+        "黄仁勋",
+        "Rubin"
+      ]
+    },
+    "以太坊": {
+      "core": [
+        "以太坊"
+      ],
+      "derived": [
+        "ETH",
+        "智能合约",
+        "DeFi",
+        "NFT",
+        "质押",
+        "坎昆升级",
+        "Layer 2",
+        "Vitalik Buterin",
+        "DApps",
+        "元宇宙"
+      ]
+    },
+    "茅台": {
+      "core": [
+        "茅台"
+      ],
+      "derived": [
+        "茅台酒",
+        "飞天茅台",
+        "Kweichow Moutai",
+        "i茅台",
+        "茅台王子酒",
+        "茅台冰淇淋",
+        "丁雄军",
+        "提价",
+        "直销",
+        "酱香",
+        "文化茅台",
+        "Moutai"
+      ]
+    },
+    "科创50ETF": {
+      "core": [
+        "科创50ETF"
+      ],
+      "derived": [
+        "科创50",
+        "STAR Market 50",
+        "科创板",
+        "STAR Market",
+        "科技",
+        "半导体",
+        "生物医药",
+        "芯片",
+        "硬科技",
+        "新能源",
+        "指数基金",
+        "创新",
+        "国产替代",
+        "新质生产力"
+      ]
+    },
+    "卫星ETF永赢": {
+      "core": [
+        "卫星ETF永赢"
+      ],
+      "derived": [
+        "永赢基金",
+        "Yongying Fund",
+        "ETF",
+        "Exchange Traded Fund",
+        "卫星",
+        "卫星产业",
+        "核心卫星策略",
+        "基金",
+        "资管",
+        "指数基金",
+        "航空航天",
+        "空间技术"
+      ]
+    },
+    "人工智能ETF华夏": {
+      "core": [
+        "人工智能ETF华夏"
+      ],
+      "derived": [
+        "人工智能ETF",
+        "华夏基金",
+        "大模型",
+        "算力",
+        "AI芯片",
+        "生成式AI",
+        "AIGC",
+        "AI",
+        "半导体",
+        "科技股",
+        "智能计算",
+        "机器人"
+      ]
+    },
+    "恒生科技": {
+      "core": [
+        "恒生科技"
+      ],
+      "derived": [
+        "Hang Seng Tech",
+        "港股科技",
+        "中国互联网",
+        "科技巨头",
+        "人工智能",
+        "云计算",
+        "电子商务",
+        "半导体",
+        "平台经济",
+        "监管政策",
+        "中美科技竞争",
+        "数字经济",
+        "新消费"
+      ]
+    }
   },
-
   "exclude": [],
   "_exclude说明": "把不够 relevant 的关键词或主题加到这里以收窄口径。下次运行即生效。"
 }
