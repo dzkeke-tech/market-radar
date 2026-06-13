@@ -164,12 +164,57 @@
   .sample b{color:var(--gold)}
 
   @media(min-width:560px){h1{font-size:48px}h1 .en{font-size:22px}}
+
+  /* ---------- 关键词编辑面板 ---------- */
+  #kwGear{position:absolute;top:24px;right:0;width:38px;height:38px;border-radius:10px;
+    border:1px solid var(--line);background:var(--bg-soft);color:var(--ink-dim);
+    font-size:18px;line-height:36px;text-align:center;cursor:pointer;transition:.15s}
+  #kwGear:active{transform:scale(.92)}
+  #kwMask{position:fixed;inset:0;z-index:80;background:rgba(0,0,0,.55);backdrop-filter:blur(2px);
+    display:none;align-items:flex-end;justify-content:center}
+  #kwMask.show{display:flex}
+  #kwPanel{width:100%;max-width:680px;max-height:92vh;overflow:auto;background:var(--bg-soft);
+    border:1px solid var(--line);border-radius:16px 16px 0 0;padding:16px 16px calc(20px + env(safe-area-inset-bottom));
+    box-shadow:0 -8px 40px rgba(0,0,0,.5)}
+  #kwPanel h3{font-family:var(--display);font-weight:600;font-size:18px;margin:2px 0 2px}
+  .kwhead{display:flex;align-items:center;gap:10px;margin-bottom:10px;position:sticky;top:0;background:var(--bg-soft);padding-bottom:8px;z-index:2}
+  .kwhead .x{margin-left:auto;width:34px;height:34px;border-radius:9px;border:1px solid var(--line);
+    background:var(--card);color:var(--ink-dim);font-size:18px;line-height:32px;text-align:center;cursor:pointer}
+  .kwhint{font-size:11.5px;color:var(--ink-faint);line-height:1.6;margin-bottom:12px}
+  .kwentry{border:1px solid var(--line);border-radius:12px;padding:11px 12px;margin-bottom:10px;background:var(--card)}
+  .kwentry .nm{display:flex;align-items:center;gap:8px;margin-bottom:7px}
+  .kwentry .nm b{font-family:var(--display);font-weight:600;font-size:15px}
+  .kwentry .nm .del{margin-left:auto;color:var(--down);font-size:12px;border:1px solid var(--line);
+    border-radius:7px;padding:3px 8px;cursor:pointer;background:var(--bg-soft)}
+  .kwrow{margin-bottom:7px}
+  .kwrow .lab{font-size:10.5px;letter-spacing:.1em;color:var(--ink-faint);text-transform:uppercase;margin-bottom:3px}
+  .chips{display:flex;flex-wrap:wrap;gap:5px;align-items:center}
+  .chip{font-size:12px;color:var(--ink);background:var(--bg-soft);border:1px solid var(--line);
+    border-radius:7px;padding:3px 7px;display:flex;align-items:center;gap:5px}
+  .chip.core{border-color:var(--gold);color:var(--gold)}
+  .chip .rm{cursor:pointer;opacity:.6;font-size:13px}
+  .chip .rm:hover{opacity:1}
+  .chipadd{font-size:12px;background:transparent;border:1px dashed var(--line);color:var(--ink-dim);
+    border-radius:7px;padding:3px 8px;min-width:80px;outline:none}
+  .kwbtn{font-size:12.5px;border:1px solid var(--line);background:var(--card-hi);color:var(--ink);
+    border-radius:9px;padding:7px 12px;cursor:pointer;transition:.15s}
+  .kwbtn:active{transform:scale(.96)}
+  .kwbtn.gold{background:var(--gold);color:#14110b;border-color:var(--gold);font-weight:600}
+  .kwbtn.ghost{background:transparent;color:var(--ink-dim)}
+  .kwbtn[disabled]{opacity:.5;pointer-events:none}
+  .kwadd{display:flex;gap:7px;margin:4px 0 14px}
+  .kwadd input{flex:1;background:var(--card);border:1px solid var(--line);color:var(--ink);
+    border-radius:9px;padding:8px 10px;outline:none;font-size:13px}
+  .kwbar{position:sticky;bottom:0;background:linear-gradient(transparent,var(--bg-soft) 30%);
+    padding-top:12px;display:flex;gap:8px;align-items:center}
+  .kwbar .status{font-size:11.5px;color:var(--ink-faint);margin-right:auto}
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
     <div class="kicker">每日三推 · 08:00 / 13:00 / 18:00</div>
+    <div id="kwGear" onclick="openKw()" title="编辑关键词">⚙</div>
     <h1>财经雷达<span class="en">Market Radar</span></h1>
     <div class="meta">
       <span class="pulse"></span>
@@ -192,6 +237,26 @@
   <div id="wlbox">
     <div class="wl" id="wl"></div>
     <div class="note" id="wlnote"></div>
+  </div>
+</div>
+
+<div id="kwMask">
+  <div id="kwPanel">
+    <div class="kwhead">
+      <h3>关键词编辑</h3>
+      <div class="x" onclick="closeKw()">✕</div>
+    </div>
+    <div class="kwhint">每个标的有 <b style="color:var(--gold)">核心词</b>（金）和 <b>衍生词</b>。检索时全部展开。新增标的会自动用 AI 生成衍生词。改完点「保存到云端」即写回，下次推送生效。</div>
+    <div class="kwadd">
+      <input id="kwNewName" placeholder="新增标的名，如 商汤科技 / 比亚迪">
+      <button class="kwbtn" id="kwAddBtn" onclick="kwAddEntry()">+ 添加并生成衍生词</button>
+    </div>
+    <div id="kwList"></div>
+    <div class="kwbar">
+      <span class="status" id="kwStatus"></span>
+      <button class="kwbtn ghost" onclick="kwReload()">放弃改动</button>
+      <button class="kwbtn gold" id="kwSaveBtn" onclick="kwSave()">保存到云端</button>
+    </div>
   </div>
 </div>
 
@@ -418,6 +483,99 @@ window.addEventListener("focus",autoRefresh);
     dist=0;
   });
 })();
+
+/* ============================================================
+   关键词编辑器：经 Cloudflare Worker 读/写 keywords.json + 生成衍生词
+   ============================================================ */
+const KW_WORKER = "https://radar-keywords.dzkeke.workers.dev";
+let KW = null;          // 当前编辑中的 keywords 对象
+let kwDirty = false;
+
+function kwSetStatus(msg, kind){
+  const el=document.getElementById("kwStatus"); if(!el) return;
+  el.textContent=msg||"";
+  el.style.color = kind==="err"?"var(--down)":kind==="ok"?"var(--up)":"var(--ink-faint)";
+}
+function openKw(){
+  document.getElementById("kwMask").classList.add("show");
+  if(!KW) kwReload(); else renderKw();
+}
+function closeKw(){
+  if(kwDirty && !confirm("有未保存的改动，确定关闭？")) return;
+  document.getElementById("kwMask").classList.remove("show");
+}
+document.getElementById("kwMask").addEventListener("click",e=>{ if(e.target.id==="kwMask") closeKw(); });
+
+async function kwReload(){
+  kwSetStatus("读取中…");
+  try{
+    const r=await fetch(KW_WORKER+"/keywords?t="+Date.now(),{cache:"no-store"});
+    const j=await r.json();
+    if(j.error) throw new Error(j.error);
+    KW=j; if(!KW.entries) KW.entries={};
+    kwDirty=false; renderKw(); kwSetStatus("已载入","ok");
+  }catch(e){ kwSetStatus("读取失败："+e.message,"err"); }
+}
+
+function renderKw(){
+  const box=document.getElementById("kwList"); if(!KW){box.innerHTML="";return;}
+  const names=Object.keys(KW.entries||{});
+  box.innerHTML = names.map(nm=>{
+    const e=KW.entries[nm]||{core:[],derived:[]};
+    const chips=(arr,type)=>arr.map((w,i)=>
+      `<span class="chip ${type}">${esc(w)}<span class="rm" onclick="kwRm('${esc(nm)}','${type}',${i})">✕</span></span>`).join("")
+      + `<input class="chipadd" placeholder="+词" onkeydown="kwAddChip(event,'${esc(nm)}','${type}',this)">`;
+    return `<div class="kwentry">
+      <div class="nm"><b>${esc(nm)}</b><span class="del" onclick="kwDelEntry('${esc(nm)}')">删除</span></div>
+      <div class="kwrow"><div class="lab">核心词 core</div><div class="chips">${chips(e.core||[],'core')}</div></div>
+      <div class="kwrow"><div class="lab">衍生词 derived</div><div class="chips">${chips(e.derived||[],'derived')}</div></div>
+    </div>`;
+  }).join("") || `<div class="kwhint">还没有标的，用上方输入框添加。</div>`;
+}
+
+function kwMark(){ kwDirty=true; kwSetStatus("有未保存改动"); }
+function kwRm(nm,type,i){ KW.entries[nm][type].splice(i,1); kwMark(); renderKw(); }
+function kwAddChip(ev,nm,type,inp){
+  if(ev.key!=="Enter") return; ev.preventDefault();
+  const v=inp.value.trim(); if(!v) return;
+  const arr=KW.entries[nm][type]||(KW.entries[nm][type]=[]);
+  if(!arr.some(x=>String(x).toLowerCase()===v.toLowerCase())) arr.push(v);
+  kwMark(); renderKw();
+}
+function kwDelEntry(nm){
+  if(!confirm("删除标的「"+nm+"」及其全部关键词？")) return;
+  delete KW.entries[nm]; kwMark(); renderKw();
+}
+async function kwAddEntry(){
+  const inp=document.getElementById("kwNewName"); const nm=(inp.value||"").trim();
+  if(!nm) return;
+  if(KW.entries[nm]){ kwSetStatus("该标的已存在","err"); return; }
+  const btn=document.getElementById("kwAddBtn"); btn.disabled=true;
+  KW.entries[nm]={core:[nm],derived:[]}; kwMark(); renderKw();
+  kwSetStatus("正在用 AI 生成衍生词…");
+  try{
+    const r=await fetch(KW_WORKER+"/derive",{method:"POST",headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({name:nm,core:[nm]})});
+    const j=await r.json();
+    if(j.error) throw new Error(j.error);
+    KW.entries[nm].derived=j.derived||[];
+    kwSetStatus("已生成 "+(j.derived||[]).length+" 个衍生词，可再编辑","ok");
+  }catch(e){ kwSetStatus("衍生词生成失败（可手动添加）："+e.message,"err"); }
+  inp.value=""; btn.disabled=false; renderKw();
+}
+async function kwSave(){
+  if(!KW) return;
+  const btn=document.getElementById("kwSaveBtn"); btn.disabled=true;
+  kwSetStatus("保存中…");
+  try{
+    const r=await fetch(KW_WORKER+"/keywords",{method:"POST",headers:{"Content-Type":"application/json"},
+      body:JSON.stringify(KW)});
+    const j=await r.json();
+    if(j.error) throw new Error(j.error);
+    kwDirty=false; kwSetStatus("已保存到云端，下次推送生效 ✓","ok");
+  }catch(e){ kwSetStatus("保存失败："+e.message,"err"); }
+  btn.disabled=false;
+}
 
 loadData();
 </script>
