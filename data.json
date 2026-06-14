@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-06-14 13:10 (北京时间)",
+  "updated_at": "2026-06-14 18:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -44,8 +44,40 @@
   "positions": [],
   "items": [
     {
-      "id": "9195bb4536e6",
+      "id": "f21438d3919b",
       "is_new": true,
+      "first_seen": "2026-06-14",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-12 (周五，SpaceX上市后)",
+      "title": "马斯克放话深化与英伟达合作：SpaceX史上最大IPO后发推称“期待将与英伟达的合作提升到新高度”，串联特斯拉/xAI/SpaceX的算力需求",
+      "summary": "继6月12日SpaceX以SPCX完成史上最大IPO后，埃隆·马斯克当日发推称“期待将我们与英伟达令人兴奋的合作提升到新的高度”。市场将此与其AI版图对照解读：特斯拉截至2025年底累计采购英伟达硬件约100亿美元(主要训练FSD)；xAI位于孟菲斯的Colossus 2数据中心规划部署逾50万块英伟达GPU(首批目标约20万块Blackwell)；今年3月与Humain、英伟达合作的沙特500兆瓦数据中心项目亦由英伟达持续供芯。马斯克确认特斯拉与SpaceX将继续大规模采购英伟达芯片，即便其同时自研AI5等定制芯片。该推文为方向性表态、无具体新交易条款。",
+      "why": "英伟达(NVDA)为核心持仓、特斯拉(TSLA)亦在关注名单。此为软新闻/方向性表态(tier 3)而非具体催化，但与近期SpaceX史上最大IPO、谷歌按月9.2亿美元租用约11万块英伟达GPU等消息叠加，进一步印证“AI算力供不应求、巨头持续向英伟达加单”的中长期主线，间接利好台积电(TSM)、美光(MU)、SK海力士上游。对 sell put 为主的策略仅作需求面背书，无具体条款前不据此调整仓位，待下周(6/16-17)FOMC与对华政策落定再评估芯片股接货时点。",
+      "source": "wccftech / Motley Fool(经Yahoo Finance转载) / basenor(马斯克6月12日发推及合作版图梳理，公开可核验)",
+      "verified": true,
+      "keywords": [
+        "马斯克",
+        "Musk",
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "xAI",
+        "GPU",
+        "算力",
+        "SpaceX"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-linked-spacex-183400847.html"
+    },
+    {
+      "id": "9195bb4536e6",
+      "is_new": false,
       "first_seen": "2026-06-14",
       "tier": 1,
       "lang": "zh",
@@ -72,34 +104,6 @@
       ],
       "translated": false,
       "url": "https://www.cnn.com/2026/06/13/world/live-news/iran-war-trump-israel"
-    },
-    {
-      "id": "a0a2c1f3b7f2",
-      "is_new": true,
-      "first_seen": "2026-06-14",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-06-11—12",
-      "title": "Circle完成史上最大单笔USDC转账：约43.97亿枚USDC(约44亿美元)转入Coinbase控制的钱包，被Arkham标记为其历史最大转账",
-      "summary": "据TheStreet/CoinDesk等援引链上分析机构Arkham数据，稳定币发行商Circle(CRCL)于6月11—12日完成一笔约43.97亿枚USDC(约合44亿美元)的转账，目标为Coinbase控制的钱包，被Arkham标记为Circle有史以来最大单笔USDC转账。此事发生在Circle与Coinbase自2023年8月起的USDC收入分成协议将于今年8月到期续约、以及Visa/Mastercard/Stripe筹建USDC竞品平台的敏感时点。",
-      "why": "Circle为关注标的。这笔创纪录的链上资金划转本身属运营/储备级操作，含义需结合8月与Coinbase的分成协议续约解读——市场对Circle高度依赖Coinbase分销的收入结构本就担忧，大额资金往来易被过度解读。属参考级信息(tier 3)而非估值催化，提示CRCL在竞品威胁+协议续约前的高波动仍在累积。对 sell put 策略意味CRCL事件性波动加大，宜小仓、压低行权价，等8月续约与竞争格局明朗再评估，不据单一链上事件调整仓位。",
-      "source": "TheStreet / CoinDesk（援引Arkham链上数据；金额为链上可核验数据，非公司财报口径）",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "Coinbase",
-        "链上转账",
-        "Arkham",
-        "分成协议"
-      ],
-      "translated": false,
-      "url": "https://www.thestreet.com/crypto/trading/circle-moves-record-4-4-billion-in-usdc"
     },
     {
       "id": "184d4deb6899",
@@ -1214,6 +1218,34 @@
       ],
       "translated": false,
       "url": "https://en.bloomingbit.io/feed/news/113744"
+    },
+    {
+      "id": "a0a2c1f3b7f2",
+      "is_new": false,
+      "first_seen": "2026-06-14",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-11—12",
+      "title": "Circle完成史上最大单笔USDC转账：约43.97亿枚USDC(约44亿美元)转入Coinbase控制的钱包，被Arkham标记为其历史最大转账",
+      "summary": "据TheStreet/CoinDesk等援引链上分析机构Arkham数据，稳定币发行商Circle(CRCL)于6月11—12日完成一笔约43.97亿枚USDC(约合44亿美元)的转账，目标为Coinbase控制的钱包，被Arkham标记为Circle有史以来最大单笔USDC转账。此事发生在Circle与Coinbase自2023年8月起的USDC收入分成协议将于今年8月到期续约、以及Visa/Mastercard/Stripe筹建USDC竞品平台的敏感时点。",
+      "why": "Circle为关注标的。这笔创纪录的链上资金划转本身属运营/储备级操作，含义需结合8月与Coinbase的分成协议续约解读——市场对Circle高度依赖Coinbase分销的收入结构本就担忧，大额资金往来易被过度解读。属参考级信息(tier 3)而非估值催化，提示CRCL在竞品威胁+协议续约前的高波动仍在累积。对 sell put 策略意味CRCL事件性波动加大，宜小仓、压低行权价，等8月续约与竞争格局明朗再评估，不据单一链上事件调整仓位。",
+      "source": "TheStreet / CoinDesk（援引Arkham链上数据；金额为链上可核验数据，非公司财报口径）",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "Coinbase",
+        "链上转账",
+        "Arkham",
+        "分成协议"
+      ],
+      "translated": false,
+      "url": "https://www.thestreet.com/crypto/trading/circle-moves-record-4-4-billion-in-usdc"
     },
     {
       "url": "https://www.cnbc.com/2026/06/12/openai-says-its-engaging-constructively-with-state-ags-.html",
