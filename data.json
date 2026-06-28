@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-06-28 08:15 (北京时间)",
+  "updated_at": "2026-06-28 13:30 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,8 +37,236 @@
   "positions": [],
   "items": [
     {
-      "id": "c9ad9c412edc",
+      "id": "af99609dc30e",
       "is_new": true,
+      "first_seen": "2026-06-28",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "06-27 周六",
+      "group": "大盘头条",
+      "title": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply",
+      "summary": "全球最大原油出口商沙特阿美周五恢复拉斯塔努拉码头装油，停摆近四个月后两艘可载约200万桶的VLCC正在装载、另有一艘等候，标志海湾原油供应重返市场。",
+      "why": "中东供应恢复直接压制油价、缓解能源驱动的通胀压力，利好航空与下游用油消费，利空油气资源板块。",
+      "source": "CNBC / Reuters",
+      "verified": true,
+      "keywords": [
+        "原油",
+        "供应",
+        "霍尔木兹",
+        "沙特阿美"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/27/saudi-aramco-resumes-oil-loading-at-ras-tanura-in-boost-to-supply.html"
+    },
+    {
+      "id": "6836d57d32e9",
+      "is_new": true,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "06-27 周末",
+      "group": "大盘头条",
+      "title": "Banks Slash Oil Price Forecasts After U.S.-Iran Breakthrough",
+      "summary": "高盛、摩根士丹利、麦格理等大行因霍尔木兹重开、海湾供应回归而下调布伦特预期：高盛将四季度预测由90美元下调至80美元、2027年均价由80降至75。",
+      "why": "大行集体下修油价预期，反映地缘溢价消退、供应回归，有助压低通胀与企业成本，是周末核心宏观变量。",
+      "source": "Bloomberg / OilPrice",
+      "verified": true,
+      "keywords": [
+        "高盛",
+        "摩根士丹利",
+        "布伦特",
+        "油价预测"
+      ],
+      "translated": false,
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Banks-Slash-Oil-Price-Forecasts-After-US-Iran-Breakthrough.html"
+    },
+    {
+      "id": "509b1fac7275",
+      "is_new": true,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06-27",
+      "group": "个股",
+      "title": "'Toy Story 5' Stays Atop Box Office as 'Supergirl' Skids to $38 Million Opening",
+      "summary": "迪士尼/皮克斯《玩具总动员5》在6月26-28周末继续登顶北美票房（次周末约7250万美元、本土累计破2亿美元），华纳新片《超级少女》仅以约3800万美元开画屈居第二。",
+      "why": "主力影片连续领跑票房，支撑迪士尼影视与衍生品现金流，区别于已捕获的「票房破30亿美元」条目。",
+      "source": "TheWrap / Variety",
+      "verified": true,
+      "keywords": [
+        "Disney",
+        "DIS",
+        "票房",
+        "玩具总动员5"
+      ],
+      "translated": false,
+      "url": "https://www.thewrap.com/industry-news/business/toy-story-5-supergirl-saturday-box-office/"
+    },
+    {
+      "id": "7fed7a7c72ad",
+      "is_new": true,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "06-26 周五",
+      "group": "大盘头条",
+      "title": "中信建投：2026年以来港股明显跑输其他亚洲股市，背后有三重压力",
+      "summary": "中信建投指出港股年内大幅跑输：权重股盈利集中下修、美元美债构成离岸双重约束致外资流出、三季度IPO与解禁扰动流动性；扭转需全球流动性改善等三条件配合。",
+      "why": "系统梳理港股弱势成因，为持有港股仓位者判断底部与反转条件提供框架。",
+      "source": "金融界 / 中证网",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生科技",
+        "外资流出",
+        "中信建投"
+      ],
+      "translated": false,
+      "url": "https://stock.jrj.com.cn/2026/06/26093957585150.shtml"
+    },
+    {
+      "id": "985859da0a20",
+      "is_new": true,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "06-26 22:00",
+      "group": "个股",
+      "title": "泡泡玛特×《怪物猎人》联名盲盒6月26日发售 13款历代随从猫",
+      "summary": "泡泡玛特与卡普空《怪物猎人》联名的随从猫（艾露猫）系列盲盒6月26日正式发售，共13款（12常规款+1隐藏款），每款以历代标志性龙种为主题。",
+      "why": "在主动「去Labubu化」、推进IP多元化背景下推出新游戏IP联名，是泡泡玛特拓宽IP矩阵的最新动作。",
+      "source": "3DM游戏网",
+      "verified": true,
+      "keywords": [
+        "盲盒",
+        "潮玩",
+        "The Monsters",
+        "泡泡玛特"
+      ],
+      "translated": false,
+      "url": "https://www.3dmgame.com/news/202606/3946858.html"
+    },
+    {
+      "id": "b9f9871feac1",
+      "is_new": true,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06-26 (ET)",
+      "group": "个股",
+      "title": "Morgan Stanley makes bold new call on Micron stock",
+      "summary": "大摩分析师Joseph Moore将美光目标价从1050美元上调至1200美元、维持「增持」评级，理由是长期供货协议披露远超预期、资本开支克制。",
+      "why": "财报后首批分析师上调目标价，强化存储超级周期叙事；区别于已捕获的财报营收本身。",
+      "source": "TheStreet",
+      "verified": true,
+      "keywords": [
+        "Micron",
+        "美光",
+        "MU",
+        "HBM"
+      ],
+      "translated": false,
+      "url": "https://www.thestreet.com/investing/stocks/mu-micron-morgan-stanley-resets-stock-price-target-on-strong-ai-demand"
+    },
+    {
+      "id": "5ab65602edd9",
+      "is_new": true,
+      "first_seen": "2026-06-28",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06-27",
+      "group": "个股",
+      "title": "Interactive Brokers Survey: Independent RIAs See AI as an Ally, Not a Threat",
+      "summary": "盈透证券6月27日发布最新调查，独立理财顾问(RIA)认为强大的技术加上多托管方关系将驱动公司成长，并普遍视生成式AI为助力而非威胁。",
+      "why": "公司持续以技术与RIA托管业务为增长叙事，属软新闻、参考价值有限。",
+      "source": "Interactive Brokers (新闻稿) / Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "Interactive Brokers",
+        "IBKR",
+        "券商"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/news/interactive-brokers-survey-independent-rias-140000455.html"
+    },
+    {
+      "id": "070b9d38a50c",
+      "is_new": true,
+      "first_seen": "2026-06-28",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06-26",
+      "group": "个股",
+      "title": "Walmart, Sam's Club merge supply chain teams",
+      "summary": "沃尔玛宣布将山姆会员店(Sam's Club)的企业供应链团队并入沃尔玛内部供应链团队，以共享配送网络、数据分析与自动化系统，供应链负责人David Guggina称不会裁员。",
+      "why": "两大业态供应链整合，意在提升效率与履约能力，对长期运营利润率构成温和利好。",
+      "source": "Supermarket News / SeafoodSource",
+      "verified": true,
+      "keywords": [
+        "Walmart",
+        "WMT",
+        "Sam's Club",
+        "山姆"
+      ],
+      "translated": false,
+      "url": "https://www.seafoodsource.com/news/supply-trade/walmart-sam-s-club-merge-supply-chain-teams"
+    },
+    {
+      "id": "7719c9f08121",
+      "is_new": true,
+      "first_seen": "2026-06-28",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06-25",
+      "group": "个股",
+      "title": "Memory share data: SK Hynix held 58% of global HBM market in Q1 2026 (Counterpoint)",
+      "summary": "Counterpoint 6月25日数据显示，2026年一季度SK海力士以58%营收份额稳居全球HBM市场第一，三星与美光各占约21%并列第二。",
+      "why": "最新HBM市占数据印证存储龙头格局，关系SK海力士、美光估值锚；区别于已捕获的ADR上市新闻。",
+      "source": "Counterpoint / TradingKey",
+      "verified": true,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "美光"
+      ],
+      "translated": false,
+      "url": "https://www.tradingkey.com/analysis/stocks/more/261995477-samsung-skhynix-adr-sndk-koixia-dram-mu-hbm-tradingkey"
+    },
+    {
+      "id": "c9ad9c412edc",
+      "is_new": false,
       "first_seen": "2026-06-28",
       "tier": 1,
       "lang": "en",
@@ -65,7 +293,7 @@
     },
     {
       "id": "54b74139014f",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-28",
       "tier": 1,
       "lang": "en",
@@ -91,7 +319,7 @@
     },
     {
       "id": "8fec47a31f76",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-28",
       "tier": 1,
       "lang": "en",
@@ -117,7 +345,7 @@
     },
     {
       "id": "bab132e1ad02",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-28",
       "tier": 1,
       "lang": "zh",
@@ -143,7 +371,7 @@
     },
     {
       "id": "bf059154d5e7",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-28",
       "tier": 1,
       "lang": "zh",
@@ -169,7 +397,7 @@
     },
     {
       "id": "89a300306c48",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-28",
       "tier": 1,
       "lang": "zh",
@@ -195,7 +423,7 @@
     },
     {
       "id": "1d8c7a7055b5",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-28",
       "tier": 1,
       "lang": "en",
@@ -221,7 +449,7 @@
     },
     {
       "id": "4f3a6656b08c",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-28",
       "tier": 1,
       "lang": "en",
@@ -248,7 +476,7 @@
     },
     {
       "id": "73f315a37e20",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-28",
       "tier": 1,
       "lang": "en",
@@ -271,268 +499,6 @@
       ],
       "translated": false,
       "url": "https://www.bloomberg.com/news/articles/2026-06-26/tesla-settles-lawsuit-over-deadly-crash-involving-full-self-driving"
-    },
-    {
-      "id": "aef29789114f",
-      "is_new": true,
-      "first_seen": "2026-06-28",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "盘前",
-      "group": "个股",
-      "title": "高盛重申小米「买入」、12个月目标价40港元：称三季度智能电动车与AI进展或迎转势；股价较2025年6月高点大幅回撤",
-      "summary": "高盛6月26日研报重申小米集团「买入」评级、12个月目标价40港元,称未来数月小米进入催化剂密集期,智能电动车与AI进展将成投资者核心关注,三季度有望迎来论调与财务层面的潜在转势。小米股价较2025年6月高点已大幅回撤。",
-      "why": "小米是港股持仓,在股价深度回调后获大行重申买入,提示中期催化(汽车放量、AI)与估值修复机会;可作为分批sell put或低吸的参考,但需等待情绪与基本面拐点确认。",
-      "source": "新浪财经/网易财经",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "高盛",
-        "目标价",
-        "买入"
-      ],
-      "translated": false,
-      "url": "https://m.163.com/dy/article/L0C330E005198CJN.html"
-    },
-    {
-      "id": "ecee58c20c88",
-      "is_new": true,
-      "first_seen": "2026-06-28",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "全天",
-      "group": "个股",
-      "title": "老铺黄金跌至52周新低：现货金价一度跌破4000美元/盎司，高库存高杠杆风险显现，花旗下调2026财年收入预测",
-      "summary": "6月金价回落、现货金一度跌破4000美元/盎司,老铺黄金高库存、高杠杆风险显现,股价一年内大幅回撤,6月26日盘中触52周新低后小幅收涨。机构下调盈利预期,花旗下调其2026财年收入预测约6%。",
-      "why": "老铺黄金是消费持仓,金价回落叠加渠道高库存对其量价与盈利构成双重压力。属基本面利空,估值已大幅消化但拐点未明,sell put需留足安全垫。",
-      "source": "杭州网",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "Laopu Gold",
-        "金价",
-        "黄金",
-        "花旗"
-      ],
-      "translated": false,
-      "url": "https://hznews.hangzhou.com.cn/jingji/content/2026-06/27/content_9246040.htm"
-    },
-    {
-      "id": "23085dff0ea1",
-      "is_new": true,
-      "first_seen": "2026-06-28",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "—",
-      "group": "大盘头条",
-      "title": "Bitcoin slides below $60,000 as the chip selloff drags crypto lower",
-      "summary": "Bitcoin fell below the $60,000 level around June 24 amid the broad risk-off in chip and AI stocks, its weakest in months, with reported sustained outflows from U.S. spot bitcoin ETFs. (Reported price levels varied modestly across outlets — treat exact figure as approximate.)",
-      "why": "加密市场走弱直接影响稳定币与加密相关持仓(Circle/USDC)的情绪与交易量预期。风险资产同步回撤说明本轮是跨资产去杠杆，而非单一板块利空。",
-      "source": "CoinDesk",
-      "verified": false,
-      "keywords": [
-        "Bitcoin",
-        "比特币",
-        "加密",
-        "ETF",
-        "Circle"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-drops-toward-usd62-000-as-the-chip-selloff-deepens-for-a-second-day"
-    },
-    {
-      "id": "3568a22a3ee7",
-      "is_new": true,
-      "first_seen": "2026-06-28",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "—",
-      "group": "大盘头条",
-      "title": "China's May industrial profits stay resilient, up 21.1% year-on-year, led by electronics manufacturing",
-      "summary": "China's National Bureau of Statistics reported (June 27) that industrial profits at large enterprises rose 21.1% year-on-year in May (vs +24.7% in April), up 18.8% for January-May. Computer, communications and electronics manufacturing profits surged ~103.9%, contributing 43.1% of total profit growth, while autos (-19.8%) and furniture (-58.4%) lagged.",
-      "why": "宏观盈利数据偏强、且由电子制造拉动，对A股/港股科技与出口链是基本面支撑，与近期情绪面抛售形成对冲。提示回调中关注基本面仍向好的科技制造方向。",
-      "source": "Reuters/CNBC",
-      "verified": true,
-      "keywords": [
-        "工业企业利润",
-        "国家统计局",
-        "电子制造",
-        "宏观",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/27/china-industrial-profits-stay-resilient-as-economy-leans-on-factories.html"
-    },
-    {
-      "id": "a981513b8ff4",
-      "is_new": true,
-      "first_seen": "2026-06-28",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "—",
-      "group": "个股",
-      "title": "SanDisk rallies on Micron's record quarter and NAND shortage; Citi reportedly lifts price target to $2,500",
-      "summary": "SanDisk shares climbed sharply this week, buoyed by Micron's record results and an acute NAND shortage, with Citi reportedly raising its price target to $2,500 (Buy). SanDisk has been among the S&P 500's top 2026 performers on multi-year supply contracts.",
-      "why": "闪迪是NAND存储持仓,直接受益于存储涨价与供给紧张。分析师上调目标价强化做多逻辑;但股价已大幅累涨,sell put宜选更深行权价以防高位回撤。",
-      "source": "TradingKey (引Citi)",
-      "verified": false,
-      "keywords": [
-        "闪迪",
-        "SanDisk",
-        "NAND",
-        "Citi",
-        "目标价"
-      ],
-      "translated": false,
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261990267-sandisk-sndk-stock-analysis-micron-ai-memory-demand-june-2026-tradingkey"
-    },
-    {
-      "id": "66bbd2cbfa8d",
-      "is_new": true,
-      "first_seen": "2026-06-28",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "—",
-      "group": "个股",
-      "title": "Google poised to lose two more high-profile Gemini researchers to Anthropic",
-      "summary": "Bloomberg reported (June 24) that two researchers viewed internally as key Gemini contributors, Jonas Adler and Alexander Pritzel, plan to leave Google for Anthropic, extending a run of senior AI departures and adding pressure on Alphabet's AI narrative.",
-      "why": "谷歌是持仓,核心AI人才持续流失削弱Gemini竞争力与市场信心。属情绪/中长期基本面利空,需关注是否影响云与AI商业化节奏。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "谷歌",
-        "Google",
-        "Gemini",
-        "Anthropic",
-        "AI人才"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic"
-    },
-    {
-      "id": "2b988c06f32c",
-      "is_new": true,
-      "first_seen": "2026-06-28",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "—",
-      "group": "个股",
-      "title": "Circle and Nomura to launch USDC-based corporate FX settlement service in Japan, targeting 2027; CRCL shares rise",
-      "summary": "Circle and Nomura Holdings announced (June 26) plans to launch an instant USDC-based foreign-exchange settlement and corporate payments service for Japanese companies, targeting a 2027 launch, after Japan's FSA cleared USDC for local corporate use. Japan's FX market handled ~$440B in daily transactions in 2025. Circle shares rose on the news.",
-      "why": "Circle是稳定币持仓,与野村合作打开日本机构级USDC应用场景,是稳定币合规出海的里程碑,中长期利好USDC流通与收入来源。",
-      "source": "CoinDesk/Nikkei Asia",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "USDC",
-        "Nomura",
-        "稳定币",
-        "日本"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/markets/2026/06/25/circle-and-nomura-join-forces-to-target-a-usd750-billion-daily-foreign-exchange-market-in-japan"
-    },
-    {
-      "id": "4e65abf1f090",
-      "is_new": true,
-      "first_seen": "2026-06-28",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "—",
-      "group": "个股",
-      "title": "Disney becomes the first studio to cross $3 billion at the 2026 global box office, led by 'Toy Story 5'",
-      "summary": "Disney became the first studio to surpass $3 billion at the worldwide box office in 2026, powered by Toy Story 5's record opening alongside The Devil Wears Prada 2, The Mandalorian and Grogu, and carryover from Avatar: Fire and Ash and Zootopia 2.",
-      "why": "迪士尼是消费持仓,票房破圈印证内容IP与影视业务复苏,对乐园、流媒体与衍生品有正向带动,属基本面里程碑。",
-      "source": "Deadline",
-      "verified": true,
-      "keywords": [
-        "迪士尼",
-        "Disney",
-        "票房",
-        "玩具总动员5",
-        "Box Office"
-      ],
-      "translated": false,
-      "url": "https://deadline.com/2026/06/box-office-disney-2026-record-1236967751/"
-    },
-    {
-      "id": "eeca2747aa5a",
-      "is_new": true,
-      "first_seen": "2026-06-28",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "白天",
-      "group": "个股",
-      "title": "（参考·待核）阿里通义千问发布并开源「语言世界模型」Qwen-AgentWorld",
-      "summary": "据多家科技媒体报道,6月24日阿里通义千问团队发布并开源新模型Qwen-AgentWorld,主打覆盖多类智能体交互环境的「语言世界模型」,模型与评测基准在HuggingFace、ModelScope开放。具体能力与对标基准的细节有待官方技术博客核实。",
-      "why": "阿里是核心持仓,持续的开源大模型与智能体布局关乎阿里云AI商业化与市场认知,属中长期赛道进展;但本条细节未逐一核实,仅作参考。",
-      "source": "腾讯新闻/搜狐",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "通义千问",
-        "Qwen",
-        "开源",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://view.inews.qq.com/a/20260624A054X300"
-    },
-    {
-      "id": "b01696deee8f",
-      "is_new": true,
-      "first_seen": "2026-06-28",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "上线日",
-      "group": "个股",
-      "title": "腾讯《三角洲行动》全新「裂变」赛季6月26日上线",
-      "summary": "腾讯旗下战术射击游戏《三角洲行动》于6月26日开启全新「裂变」赛季。作为日活已突破5000万的旗舰新游,赛季更新为暑期游戏流水与活跃度提供支撑。",
-      "why": "腾讯是核心持仓,旗舰新游持续运营与赛季更新对游戏业务流水形成支撑,属软新闻/产品节点,边际影响有限但反映游戏管线健康。",
-      "source": "腾讯游戏官方",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "三角洲行动",
-        "游戏",
-        "赛季"
-      ],
-      "translated": false,
-      "url": "https://df.qq.com/main.shtml"
     },
     {
       "id": "fe2e7314f278",
@@ -950,6 +916,215 @@
       "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html"
     },
     {
+      "id": "aef29789114f",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "盘前",
+      "group": "个股",
+      "title": "高盛重申小米「买入」、12个月目标价40港元：称三季度智能电动车与AI进展或迎转势；股价较2025年6月高点大幅回撤",
+      "summary": "高盛6月26日研报重申小米集团「买入」评级、12个月目标价40港元,称未来数月小米进入催化剂密集期,智能电动车与AI进展将成投资者核心关注,三季度有望迎来论调与财务层面的潜在转势。小米股价较2025年6月高点已大幅回撤。",
+      "why": "小米是港股持仓,在股价深度回调后获大行重申买入,提示中期催化(汽车放量、AI)与估值修复机会;可作为分批sell put或低吸的参考,但需等待情绪与基本面拐点确认。",
+      "source": "新浪财经/网易财经",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "高盛",
+        "目标价",
+        "买入"
+      ],
+      "translated": false,
+      "url": "https://m.163.com/dy/article/L0C330E005198CJN.html"
+    },
+    {
+      "id": "ecee58c20c88",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "全天",
+      "group": "个股",
+      "title": "老铺黄金跌至52周新低：现货金价一度跌破4000美元/盎司，高库存高杠杆风险显现，花旗下调2026财年收入预测",
+      "summary": "6月金价回落、现货金一度跌破4000美元/盎司,老铺黄金高库存、高杠杆风险显现,股价一年内大幅回撤,6月26日盘中触52周新低后小幅收涨。机构下调盈利预期,花旗下调其2026财年收入预测约6%。",
+      "why": "老铺黄金是消费持仓,金价回落叠加渠道高库存对其量价与盈利构成双重压力。属基本面利空,估值已大幅消化但拐点未明,sell put需留足安全垫。",
+      "source": "杭州网",
+      "verified": false,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "金价",
+        "黄金",
+        "花旗"
+      ],
+      "translated": false,
+      "url": "https://hznews.hangzhou.com.cn/jingji/content/2026-06/27/content_9246040.htm"
+    },
+    {
+      "id": "23085dff0ea1",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "—",
+      "group": "大盘头条",
+      "title": "Bitcoin slides below $60,000 as the chip selloff drags crypto lower",
+      "summary": "Bitcoin fell below the $60,000 level around June 24 amid the broad risk-off in chip and AI stocks, its weakest in months, with reported sustained outflows from U.S. spot bitcoin ETFs. (Reported price levels varied modestly across outlets — treat exact figure as approximate.)",
+      "why": "加密市场走弱直接影响稳定币与加密相关持仓(Circle/USDC)的情绪与交易量预期。风险资产同步回撤说明本轮是跨资产去杠杆，而非单一板块利空。",
+      "source": "CoinDesk",
+      "verified": false,
+      "keywords": [
+        "Bitcoin",
+        "比特币",
+        "加密",
+        "ETF",
+        "Circle"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-drops-toward-usd62-000-as-the-chip-selloff-deepens-for-a-second-day"
+    },
+    {
+      "id": "3568a22a3ee7",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "—",
+      "group": "大盘头条",
+      "title": "China's May industrial profits stay resilient, up 21.1% year-on-year, led by electronics manufacturing",
+      "summary": "China's National Bureau of Statistics reported (June 27) that industrial profits at large enterprises rose 21.1% year-on-year in May (vs +24.7% in April), up 18.8% for January-May. Computer, communications and electronics manufacturing profits surged ~103.9%, contributing 43.1% of total profit growth, while autos (-19.8%) and furniture (-58.4%) lagged.",
+      "why": "宏观盈利数据偏强、且由电子制造拉动，对A股/港股科技与出口链是基本面支撑，与近期情绪面抛售形成对冲。提示回调中关注基本面仍向好的科技制造方向。",
+      "source": "Reuters/CNBC",
+      "verified": true,
+      "keywords": [
+        "工业企业利润",
+        "国家统计局",
+        "电子制造",
+        "宏观",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/27/china-industrial-profits-stay-resilient-as-economy-leans-on-factories.html"
+    },
+    {
+      "id": "a981513b8ff4",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "—",
+      "group": "个股",
+      "title": "SanDisk rallies on Micron's record quarter and NAND shortage; Citi reportedly lifts price target to $2,500",
+      "summary": "SanDisk shares climbed sharply this week, buoyed by Micron's record results and an acute NAND shortage, with Citi reportedly raising its price target to $2,500 (Buy). SanDisk has been among the S&P 500's top 2026 performers on multi-year supply contracts.",
+      "why": "闪迪是NAND存储持仓,直接受益于存储涨价与供给紧张。分析师上调目标价强化做多逻辑;但股价已大幅累涨,sell put宜选更深行权价以防高位回撤。",
+      "source": "TradingKey (引Citi)",
+      "verified": false,
+      "keywords": [
+        "闪迪",
+        "SanDisk",
+        "NAND",
+        "Citi",
+        "目标价"
+      ],
+      "translated": false,
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261990267-sandisk-sndk-stock-analysis-micron-ai-memory-demand-june-2026-tradingkey"
+    },
+    {
+      "id": "66bbd2cbfa8d",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "—",
+      "group": "个股",
+      "title": "Google poised to lose two more high-profile Gemini researchers to Anthropic",
+      "summary": "Bloomberg reported (June 24) that two researchers viewed internally as key Gemini contributors, Jonas Adler and Alexander Pritzel, plan to leave Google for Anthropic, extending a run of senior AI departures and adding pressure on Alphabet's AI narrative.",
+      "why": "谷歌是持仓,核心AI人才持续流失削弱Gemini竞争力与市场信心。属情绪/中长期基本面利空,需关注是否影响云与AI商业化节奏。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "谷歌",
+        "Google",
+        "Gemini",
+        "Anthropic",
+        "AI人才"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic"
+    },
+    {
+      "id": "2b988c06f32c",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "—",
+      "group": "个股",
+      "title": "Circle and Nomura to launch USDC-based corporate FX settlement service in Japan, targeting 2027; CRCL shares rise",
+      "summary": "Circle and Nomura Holdings announced (June 26) plans to launch an instant USDC-based foreign-exchange settlement and corporate payments service for Japanese companies, targeting a 2027 launch, after Japan's FSA cleared USDC for local corporate use. Japan's FX market handled ~$440B in daily transactions in 2025. Circle shares rose on the news.",
+      "why": "Circle是稳定币持仓,与野村合作打开日本机构级USDC应用场景,是稳定币合规出海的里程碑,中长期利好USDC流通与收入来源。",
+      "source": "CoinDesk/Nikkei Asia",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "USDC",
+        "Nomura",
+        "稳定币",
+        "日本"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/markets/2026/06/25/circle-and-nomura-join-forces-to-target-a-usd750-billion-daily-foreign-exchange-market-in-japan"
+    },
+    {
+      "id": "4e65abf1f090",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "—",
+      "group": "个股",
+      "title": "Disney becomes the first studio to cross $3 billion at the 2026 global box office, led by 'Toy Story 5'",
+      "summary": "Disney became the first studio to surpass $3 billion at the worldwide box office in 2026, powered by Toy Story 5's record opening alongside The Devil Wears Prada 2, The Mandalorian and Grogu, and carryover from Avatar: Fire and Ash and Zootopia 2.",
+      "why": "迪士尼是消费持仓,票房破圈印证内容IP与影视业务复苏,对乐园、流媒体与衍生品有正向带动,属基本面里程碑。",
+      "source": "Deadline",
+      "verified": true,
+      "keywords": [
+        "迪士尼",
+        "Disney",
+        "票房",
+        "玩具总动员5",
+        "Box Office"
+      ],
+      "translated": false,
+      "url": "https://deadline.com/2026/06/box-office-disney-2026-record-1236967751/"
+    },
+    {
       "id": "314c9027b9a0",
       "is_new": false,
       "first_seen": "2026-06-23",
@@ -1246,6 +1421,59 @@
       "id": "703c3a5dffec",
       "is_new": false,
       "first_seen": "2026-06-22"
+    },
+    {
+      "id": "eeca2747aa5a",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "白天",
+      "group": "个股",
+      "title": "（参考·待核）阿里通义千问发布并开源「语言世界模型」Qwen-AgentWorld",
+      "summary": "据多家科技媒体报道,6月24日阿里通义千问团队发布并开源新模型Qwen-AgentWorld,主打覆盖多类智能体交互环境的「语言世界模型」,模型与评测基准在HuggingFace、ModelScope开放。具体能力与对标基准的细节有待官方技术博客核实。",
+      "why": "阿里是核心持仓,持续的开源大模型与智能体布局关乎阿里云AI商业化与市场认知,属中长期赛道进展;但本条细节未逐一核实,仅作参考。",
+      "source": "腾讯新闻/搜狐",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "通义千问",
+        "Qwen",
+        "开源",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://view.inews.qq.com/a/20260624A054X300"
+    },
+    {
+      "id": "b01696deee8f",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "上线日",
+      "group": "个股",
+      "title": "腾讯《三角洲行动》全新「裂变」赛季6月26日上线",
+      "summary": "腾讯旗下战术射击游戏《三角洲行动》于6月26日开启全新「裂变」赛季。作为日活已突破5000万的旗舰新游,赛季更新为暑期游戏流水与活跃度提供支撑。",
+      "why": "腾讯是核心持仓,旗舰新游持续运营与赛季更新对游戏业务流水形成支撑,属软新闻/产品节点,边际影响有限但反映游戏管线健康。",
+      "source": "腾讯游戏官方",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "三角洲行动",
+        "游戏",
+        "赛季"
+      ],
+      "translated": false,
+      "url": "https://df.qq.com/main.shtml"
     },
     {
       "id": "f579aaf16af3",
