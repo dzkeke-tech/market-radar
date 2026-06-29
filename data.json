@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-06-29 08:14 (北京时间)",
+  "updated_at": "2026-06-29 18:25 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -40,6 +40,82 @@
       "tier": 1,
       "lang": "zh",
       "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股6月29日强势反弹：恒生指数收涨2.13%报23153.89点、恒生科技指数涨3.68%报4412.22点，上周AI/芯片重挫后科网股集体修复",
+      "summary": "恒指收涨482点、恒生科技涨3.68%、国企指数涨2.81%。科网股普涨——美团、百度涨超7%，阿里巴巴涨超6%，B站涨超8%；创新药板块爆发（荣昌生物涨超15%、石药/信达领涨）、机器人概念走强（地平线机器人涨超15%）；仅联想逆势跌超9%。",
+      "why": "持仓港股科网（美团/阿里/腾讯/小米/泡泡玛特）上周遭AI-芯片抛售重挫，今日集体反弹是情绪与波动率转向的信号；对以sell put为主的策略，急跌后修复有利于已卖出认沽的安全垫。",
+      "source": "新浪财经/东方财富/网易财经（港股收评，指数与个股涨跌为公开行情数据）",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "恒生科技",
+        "美团",
+        "阿里巴巴",
+        "百度"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-29/doc-iniezxay2294894.shtml",
+      "id": "81f665107a99",
+      "is_new": true,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:00",
+      "group": "大盘头条",
+      "title": "A股6月29日全线收涨：创业板指放量涨3.78%报3448.79点、沪指涨0.51%报3986.22点、深成指涨2.24%，电池/证券/电子领涨",
+      "summary": "上证综指收报3986.22点涨0.51%（成交约9557亿元），深证成指涨2.24%报14309.47点，创业板指大涨3.78%报3448.79点。板块上电池、证券、电子领涨；贵金属、港口航运、通信设备领跌，盘中CPO/光纤等算力硬件一度回调。",
+      "why": "A股与港股科技/消费情绪共振回暖，创业板放量大涨反映风险偏好修复；通信设备/CPO走弱、电池与创新药接力，提示资金从拥挤AI硬件向其他成长方向轮动。",
+      "source": "新浪财经/证券时报（A股收评，指数与成交为公开市场数据）",
+      "verified": true,
+      "keywords": [
+        "上证指数",
+        "创业板",
+        "深成指"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-06-29/doc-iniezxcc0323084.shtml",
+      "id": "2db090ddc220",
+      "is_new": true,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "—",
+      "group": "大盘头条",
+      "title": "（参考·待核）网易自6月30日起在港交所转为双重主要上市：2025财年逾55%全球成交量在港股完成，将移除“S”标识、为纳入港股通铺路",
+      "summary": "港交所认定网易2025财年至少55%全球成交额在香港市场完成，公司由二次上市转为双重主要上市，6月30日生效日起股份“S”标识取消。双重主要上市是中概公司纳入港股通、引入南向资金的关键门槛。",
+      "why": "网易转双重主要上市后有望纳入港股通，为港股科网板块带来增量南向资金，利好整体港股科技/消费情绪（间接利好腾讯、美团等持仓）；反映中概回流香港、估值锚向港股迁移的趋势。",
+      "source": "第一财经/观点网/网易（待回主源HKEX公告核实）",
+      "verified": false,
+      "keywords": [
+        "网易",
+        "NetEase",
+        "港股通",
+        "双重主要上市"
+      ],
+      "translated": false,
+      "url": "https://www.guandian.cn/article/20260626/569418.html",
+      "id": "022c1d2642b3",
+      "is_new": true,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
         "US",
         "A",
         "HK"
@@ -62,7 +138,7 @@
       "translated": false,
       "url": "https://www.bloomberg.com/news/articles/2026-06-27/apple-seeks-us-approval-to-buy-chips-from-blacklisted-cxmt-ft",
       "id": "696740254c01",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-29"
     },
     {
@@ -88,7 +164,7 @@
       "translated": false,
       "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
       "id": "3c40643f1aaf",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-29"
     },
     {
@@ -114,7 +190,7 @@
       "translated": false,
       "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
       "id": "fc478102def6",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-29"
     },
     {
@@ -141,7 +217,7 @@
       "translated": false,
       "url": "https://www.scmp.com/news/us/article/3358113/alibaba-sues-pentagon-over-china-military-blacklist",
       "id": "ea30eb2f74dd",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-29"
     },
     {
@@ -169,7 +245,7 @@
       "translated": false,
       "url": "https://www.stocktitan.net/news/TCOM/trip-com-group-limited-reports-unaudited-first-quarter-of-2026-dx2ntnhg2l6b.html",
       "id": "be66b7d97d3e",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-29"
     },
     {
@@ -195,198 +271,7 @@
       "translated": false,
       "url": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
       "id": "f02c0d5fea68",
-      "is_new": true,
-      "first_seen": "2026-06-29"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "06-28",
-      "group": "大盘头条",
-      "title": "中国三条世界级高性能碳纤维生产线6月28日集中投产、核心装备国产化率超95%",
-      "summary": "6月28日，中国建材旗下中复神鹰(688295)连云港基地三条全球规模最大碳纤维标杆产线集中投产：年产5000吨大丝束(风电用)、全球首条4米宽幅千吨级T1100级(航空航天/低空)、年产600吨高模量(高端装备/3C)，补齐国内高端碳纤维规模化产能短板，核心装备国产化率超95%。",
-      "why": "高端新材料国产替代里程碑，利好新材料/高端制造、低空经济与新能源产业链中长期布局。",
-      "source": "科技日报 / 第一财经",
-      "verified": true,
-      "keywords": [
-        "碳纤维",
-        "中复神鹰",
-        "688295",
-        "高端材料",
-        "国产替代",
-        "T1100"
-      ],
-      "translated": false,
-      "url": "https://www.stdaily.com/web/gdxw/2026-06/28/content_538734.html",
-      "id": "8b0761917426",
-      "is_new": true,
-      "first_seen": "2026-06-29"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "US"
-      ],
-      "time": "06-27",
-      "group": "大盘头条",
-      "title": "算力产品加速出海：有武汉企业800G以上光模块出口同比暴增超100倍、订单排至2027-2028年",
-      "summary": "据海关数据，今年以来算力相关产品加速出海，武汉光谷头部光通信企业(对应华工正源)800G及以上高速光模块出口同比增长超100倍、最高近140倍，产线24小时满产；前5月机电产品出口7.58万亿元、占总出口63.6%，AI算力产业链贡献机电出口增量五成以上。北美/中东云厂商大规模新建智算中心、英伟达/Meta/谷歌/微软批量采购，订单普遍排至2027-2028年。",
-      "why": "印证全球AI算力资本开支高景气，利好光模块/光通信龙头，与持有AI科技成长股的逻辑高度相关。",
-      "source": "新浪财经 / 海关总署",
-      "verified": true,
-      "keywords": [
-        "光模块",
-        "800G",
-        "出口",
-        "算力",
-        "AI",
-        "华工科技"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-27/doc-inievreq0068673.shtml",
-      "id": "4f68b70734ed",
-      "is_new": true,
-      "first_seen": "2026-06-29"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "06-28",
-      "group": "大盘头条",
-      "title": "美股本周聚焦Nike周二财报与中国销售；上周FedEx虽超预期但盘后跌约6%",
-      "summary": "CNBC本周前瞻指出，Nike将于周二盘后公布财季业绩，市场预期EPS约0.13美元、营收约108.6亿美元，中国区销售与指引为关键变量；上周FedEx财报超预期但盘后一度跌约6%，反映需求与运价压力。",
-      "why": "Nike等消费龙头的中国区销售与指引是消费板块景气风向标，也是持有/卖出消费股期权者的关键事件风险点。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Nike",
-        "财报",
-        "中国销售",
-        "FedEx",
-        "消费",
-        "周前瞻"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/28/here-are-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead-.html",
-      "id": "5429f5c22494",
-      "is_new": true,
-      "first_seen": "2026-06-29"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "06-24",
-      "group": "个股",
-      "title": "Anthropic致信美参议院，指控与阿里通义千问(Qwen)相关方用约2.5万虚假账号「蒸馏」Claude；阿里否认",
-      "summary": "据彭博6月24日报道，Anthropic在6月10日致美参议院银行委员会的信中称，与阿里Qwen实验室相关的操作方在4月22日至6月5日期间，使用约2.5万个欺诈账号和代理服务规避地域限制、对Claude发起约2880万次未授权交互，瞄准软件工程与智能体推理等高价值能力，规模为其披露过的最大一次。阿里对相关指控予以否认；信中数据为Anthropic单方面说法、未经独立核实。",
-      "why": "AI蒸馏指控叠加本周生效的涉军清单禁令，进一步施压阿里通义千问声誉与潜在合规/出口风险。",
-      "source": "Bloomberg / InfoWorld",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "通义千问",
-        "Qwen",
-        "Alibaba",
-        "Anthropic"
-      ],
-      "translated": false,
-      "url": "https://www.infoworld.com/article/4189342/anthropic-accuses-alibaba-of-using-25000-fake-accounts-to-scrape-claude-ai.html",
-      "id": "9ad6f4478019",
-      "is_new": true,
-      "first_seen": "2026-06-29"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "06-22",
-      "group": "个股",
-      "title": "NHTSA对致命德州撞房事故启动最高级别特别调查，马斯克否认FSD责任",
-      "summary": "NHTSA于6月22-23日对一起Model 3在德州Katy撞入民宅、致76岁老人死亡的事故启动特别撞车调查(该机构最高级别)。马斯克与特斯拉AI负责人Ashok Elluswamy在X上反驳称FSD在社区道路低速行驶、此次为高速撞击，质疑FSD责任归属。该监管担忧与Q2交付乐观情绪交织，一度令TSLA股价承压。",
-      "why": "新增联邦级FSD/自动驾驶监管调查、恰逢Q2交付前夕，构成TSLA下行风险与波动来源。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "FSD",
-        "自动驾驶",
-        "马斯克",
-        "NHTSA"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
-      "id": "cb1d706d35c0",
-      "is_new": true,
-      "first_seen": "2026-06-29"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "06-23",
-      "group": "个股",
-      "title": "特斯拉与NatPower签欧洲最大储能订单：意大利+英国超25GWh Megapack、首阶段价值约40-50亿美元",
-      "summary": "特斯拉与独立能源商NatPower于6月23日签署多年供应及执行协议，在意大利和英国部署超25GWh电池储能(BESS)，含首批5个项目，是更大规模(目标超100GWh)计划的首期交付；建设价值约40-50亿美元、20年预计收入超150亿美元，并提供Autobidder自动交易服务。属欧洲最大单笔BESS采购之一。",
-      "why": "储能业务获欧洲超大订单，强化Megapack增长叙事，对冲汽车交付增速放缓担忧。",
-      "source": "Electrek / NatPower",
-      "verified": true,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "储能",
-        "Megapack",
-        "NatPower"
-      ],
-      "translated": false,
-      "url": "https://electrek.co/2026/06/23/tesla-natpower-megapack-25-gwh-europe/",
-      "id": "2012d1cf09e6",
-      "is_new": true,
-      "first_seen": "2026-06-29"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "06-24",
-      "group": "个股",
-      "title": "Circle与巴林央行持牌机构INFINIOS签战略协议，推进中东及MENA稳定币基础设施",
-      "summary": "6月24日，Circle与巴林央行(CBB)持牌机构INFINIOS签署战略协议，INFINIOS将接入USDC、EURC及Circle链上支付API，用于跨境支付、资金/流动性管理、商户结算、平台付款与代币化金融等机构场景，加速USDC在中东及更广地区落地；双方强调合规(KYC/AML)。",
-      "why": "USDC海外支付版图再扩中东，强化Circle稳定币基础设施叙事与机构采用，利好CRCL长期逻辑。",
-      "source": "Circle(官方新闻稿)",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "stablecoin",
-        "MENA"
-      ],
-      "translated": false,
-      "url": "https://www.circle.com/pressroom/infinios-and-circle-sign-strategic-agreement-to-advance-digital-finance-infrastructure",
-      "id": "23ca48143fea",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-29"
     },
     {
@@ -1012,6 +897,197 @@
       "id": "861584da7020",
       "is_new": false,
       "first_seen": "2026-06-22"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "06-28",
+      "group": "大盘头条",
+      "title": "中国三条世界级高性能碳纤维生产线6月28日集中投产、核心装备国产化率超95%",
+      "summary": "6月28日，中国建材旗下中复神鹰(688295)连云港基地三条全球规模最大碳纤维标杆产线集中投产：年产5000吨大丝束(风电用)、全球首条4米宽幅千吨级T1100级(航空航天/低空)、年产600吨高模量(高端装备/3C)，补齐国内高端碳纤维规模化产能短板，核心装备国产化率超95%。",
+      "why": "高端新材料国产替代里程碑，利好新材料/高端制造、低空经济与新能源产业链中长期布局。",
+      "source": "科技日报 / 第一财经",
+      "verified": true,
+      "keywords": [
+        "碳纤维",
+        "中复神鹰",
+        "688295",
+        "高端材料",
+        "国产替代",
+        "T1100"
+      ],
+      "translated": false,
+      "url": "https://www.stdaily.com/web/gdxw/2026-06/28/content_538734.html",
+      "id": "8b0761917426",
+      "is_new": false,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "US"
+      ],
+      "time": "06-27",
+      "group": "大盘头条",
+      "title": "算力产品加速出海：有武汉企业800G以上光模块出口同比暴增超100倍、订单排至2027-2028年",
+      "summary": "据海关数据，今年以来算力相关产品加速出海，武汉光谷头部光通信企业(对应华工正源)800G及以上高速光模块出口同比增长超100倍、最高近140倍，产线24小时满产；前5月机电产品出口7.58万亿元、占总出口63.6%，AI算力产业链贡献机电出口增量五成以上。北美/中东云厂商大规模新建智算中心、英伟达/Meta/谷歌/微软批量采购，订单普遍排至2027-2028年。",
+      "why": "印证全球AI算力资本开支高景气，利好光模块/光通信龙头，与持有AI科技成长股的逻辑高度相关。",
+      "source": "新浪财经 / 海关总署",
+      "verified": true,
+      "keywords": [
+        "光模块",
+        "800G",
+        "出口",
+        "算力",
+        "AI",
+        "华工科技"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-27/doc-inievreq0068673.shtml",
+      "id": "4f68b70734ed",
+      "is_new": false,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "06-28",
+      "group": "大盘头条",
+      "title": "美股本周聚焦Nike周二财报与中国销售；上周FedEx虽超预期但盘后跌约6%",
+      "summary": "CNBC本周前瞻指出，Nike将于周二盘后公布财季业绩，市场预期EPS约0.13美元、营收约108.6亿美元，中国区销售与指引为关键变量；上周FedEx财报超预期但盘后一度跌约6%，反映需求与运价压力。",
+      "why": "Nike等消费龙头的中国区销售与指引是消费板块景气风向标，也是持有/卖出消费股期权者的关键事件风险点。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Nike",
+        "财报",
+        "中国销售",
+        "FedEx",
+        "消费",
+        "周前瞻"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/28/here-are-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead-.html",
+      "id": "5429f5c22494",
+      "is_new": false,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "06-24",
+      "group": "个股",
+      "title": "Anthropic致信美参议院，指控与阿里通义千问(Qwen)相关方用约2.5万虚假账号「蒸馏」Claude；阿里否认",
+      "summary": "据彭博6月24日报道，Anthropic在6月10日致美参议院银行委员会的信中称，与阿里Qwen实验室相关的操作方在4月22日至6月5日期间，使用约2.5万个欺诈账号和代理服务规避地域限制、对Claude发起约2880万次未授权交互，瞄准软件工程与智能体推理等高价值能力，规模为其披露过的最大一次。阿里对相关指控予以否认；信中数据为Anthropic单方面说法、未经独立核实。",
+      "why": "AI蒸馏指控叠加本周生效的涉军清单禁令，进一步施压阿里通义千问声誉与潜在合规/出口风险。",
+      "source": "Bloomberg / InfoWorld",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "通义千问",
+        "Qwen",
+        "Alibaba",
+        "Anthropic"
+      ],
+      "translated": false,
+      "url": "https://www.infoworld.com/article/4189342/anthropic-accuses-alibaba-of-using-25000-fake-accounts-to-scrape-claude-ai.html",
+      "id": "9ad6f4478019",
+      "is_new": false,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "06-22",
+      "group": "个股",
+      "title": "NHTSA对致命德州撞房事故启动最高级别特别调查，马斯克否认FSD责任",
+      "summary": "NHTSA于6月22-23日对一起Model 3在德州Katy撞入民宅、致76岁老人死亡的事故启动特别撞车调查(该机构最高级别)。马斯克与特斯拉AI负责人Ashok Elluswamy在X上反驳称FSD在社区道路低速行驶、此次为高速撞击，质疑FSD责任归属。该监管担忧与Q2交付乐观情绪交织，一度令TSLA股价承压。",
+      "why": "新增联邦级FSD/自动驾驶监管调查、恰逢Q2交付前夕，构成TSLA下行风险与波动来源。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "FSD",
+        "自动驾驶",
+        "马斯克",
+        "NHTSA"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
+      "id": "cb1d706d35c0",
+      "is_new": false,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "06-23",
+      "group": "个股",
+      "title": "特斯拉与NatPower签欧洲最大储能订单：意大利+英国超25GWh Megapack、首阶段价值约40-50亿美元",
+      "summary": "特斯拉与独立能源商NatPower于6月23日签署多年供应及执行协议，在意大利和英国部署超25GWh电池储能(BESS)，含首批5个项目，是更大规模(目标超100GWh)计划的首期交付；建设价值约40-50亿美元、20年预计收入超150亿美元，并提供Autobidder自动交易服务。属欧洲最大单笔BESS采购之一。",
+      "why": "储能业务获欧洲超大订单，强化Megapack增长叙事，对冲汽车交付增速放缓担忧。",
+      "source": "Electrek / NatPower",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "储能",
+        "Megapack",
+        "NatPower"
+      ],
+      "translated": false,
+      "url": "https://electrek.co/2026/06/23/tesla-natpower-megapack-25-gwh-europe/",
+      "id": "2012d1cf09e6",
+      "is_new": false,
+      "first_seen": "2026-06-29"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "06-24",
+      "group": "个股",
+      "title": "Circle与巴林央行持牌机构INFINIOS签战略协议，推进中东及MENA稳定币基础设施",
+      "summary": "6月24日，Circle与巴林央行(CBB)持牌机构INFINIOS签署战略协议，INFINIOS将接入USDC、EURC及Circle链上支付API，用于跨境支付、资金/流动性管理、商户结算、平台付款与代币化金融等机构场景，加速USDC在中东及更广地区落地；双方强调合规(KYC/AML)。",
+      "why": "USDC海外支付版图再扩中东，强化Circle稳定币基础设施叙事与机构采用，利好CRCL长期逻辑。",
+      "source": "Circle(官方新闻稿)",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "stablecoin",
+        "MENA"
+      ],
+      "translated": false,
+      "url": "https://www.circle.com/pressroom/infinios-and-circle-sign-strategic-agreement-to-advance-digital-finance-infrastructure",
+      "id": "23ca48143fea",
+      "is_new": false,
+      "first_seen": "2026-06-29"
     },
     {
       "id": "cb2bc17f42fb",
