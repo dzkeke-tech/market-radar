@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-06-30 08:08 (北京时间)",
+  "updated_at": "2026-06-30 13:30 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,33 +37,260 @@
   "positions": [],
   "items": [
     {
-      "id": "ca78d6f9b058",
-      "is_new": true,
-      "first_seen": "2026-06-30",
       "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "昨22:00",
+      "group": "个股",
+      "title": "Palantir and NVIDIA launch engine to run NVIDIA Nemotron open models in sovereign environments for US government",
+      "summary": "On June 29 Palantir and NVIDIA announced a strategic initiative combining NVIDIA's AI platform and Nemotron open models with Palantir's AIP, Ontology, Foundry and Apollo to train and deploy open models inside secure 'sovereign' environments for US government agencies and critical infrastructure; CEOs Alex Karp and Jensen Huang both endorsed it.",
+      "why": "强化Palantir在政府AI与英伟达开放模型生态的卡位，对两只科技持仓(PLTR/NVDA)的中长期AI叙事均为正面催化。",
+      "source": "NVIDIA Newsroom / Palantir IR",
+      "verified": true,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "Nvidia",
+        "NVDA",
+        "Nemotron",
+        "AIP"
+      ],
+      "translated": false,
+      "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+      "id": "aa54e1f741c7",
+      "is_new": true,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "国家统计局：6月制造业PMI回升至50.3%、重返扩张区间，新订单指数升至51.2%",
+      "summary": "6月官方制造业PMI为50.3%、环比升0.3个百分点，重返荣枯线上方；生产指数51.4%、新订单指数51.2%(升1.3个百分点)，高技术制造业PMI达53.5%，非制造业商务活动指数50.2%。产需与高端制造同步回暖。",
+      "why": "中国经济动能边际改善，利好港股/A股风险偏好及消费、科技核心持仓，也改善相关标的卖出看跌期权的胜率环境。",
+      "source": "新华网 / 国家统计局",
+      "verified": true,
+      "keywords": [
+        "PMI",
+        "制造业",
+        "宏观",
+        "新订单"
+      ],
+      "translated": false,
+      "url": "https://www.news.cn/fortune/20260630/6d67f0b3f7f14f60b580e233792c8d88/c.html",
+      "id": "dea1904e72c9",
+      "is_new": true,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "昨",
+      "group": "个股",
+      "title": "金价回调下老铺黄金迎“压力测试”：现货金一度跌破约4010美元/盎司，摩通测算极端情形上半年净利仍近翻倍",
+      "summary": "6月下旬现货黄金回落、6月30日一度跌破约4010美元/盎司(较前周高位走弱)，市场关注明确“不做对冲”的老铺黄金抗压能力；多家媒体援引摩根大通压力测试称即便同店销售下滑约20%，上半年净利润仍有望近翻倍。(评论/研报口径，具体数字待核)",
+      "why": "金价波动直接影响老铺黄金毛利与盈利弹性，是该港股消费持仓的核心变量，也关乎其期权波动率。",
+      "source": "新浪财经 / 36氪",
+      "verified": false,
+      "keywords": [
+        "老铺黄金",
+        "金价",
+        "古法金",
+        "黄金"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-29/doc-iniezsuy5515807.shtml",
+      "id": "ad8c9827d945",
+      "is_new": true,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 2,
       "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "昨16:00",
-      "group": "大盘头条",
-      "title": "美股6月29日齐涨、道指首次收于52000上方报52182.74点：标普500涨1.2%报7440.43点、纳指涨2.07%报25820.14点，科技与半导体领涨",
-      "summary": "Alphabet正式纳入后道指涨306.63点(+0.59%)首破52000关口收52182.74点，标普500涨1.2%、纳指涨约2%；芯片股与大型科技股集体走强，叠加美伊降温与最高法院维持美联储独立性提振风险偏好。",
-      "why": "美股科技与半导体大盘V型反弹、隐含波动率回落，利好中长线科技仓位并改善卖出期权的胜率环境。",
-      "source": "Yahoo Finance / Quartz",
-      "verified": true,
+      "time": "昨23:00",
+      "group": "个股",
+      "title": "大摩上调特斯拉Q2交付预期至约41.3万辆(原约37.3万)，巴克莱亦转乐观，欧洲与中国需求改善",
+      "summary": "摩根士丹利6月29日将特斯拉二季度交付预期由约37.3万辆上调至约41.3万辆，理由是5月欧洲注册量同比翻倍、中国销售动能回升；巴克莱亦上调至约41.8万辆，高于市场约39.6万-40.6万辆的一致预期。Q2实际交付预计7月初公布。(分析师预测，待官方交付数据核实)",
+      "why": "交付数据是本周特斯拉关键催化，预期上修利好情绪与隐含波动率，影响卖出期权的时点与行权价选择。",
+      "source": "Investing.com / Morgan Stanley",
+      "verified": false,
       "keywords": [
-        "道指",
-        "标普500",
-        "纳指",
-        "半导体"
+        "特斯拉",
+        "TSLA",
+        "交付",
+        "大摩"
       ],
       "translated": false,
-      "url": "https://qz.com/alphabet-dow-jones-52000-record-close-062926"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-rallying-today-93CH-4765843",
+      "id": "2f08bab19f62",
+      "is_new": true,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "昨21:00",
+      "group": "大盘头条",
+      "title": "康卡斯特(Comcast)宣布拆分为两家上市公司：免税分拆NBC环球与Sky媒体业务，约一年内完成",
+      "summary": "康卡斯特6月29日宣布将媒体业务(NBC环球、环球影城、Peacock、Sky)从宽带/无线/有线业务中以免税方式分拆为独立上市公司，预计约一年内完成；联席CEO Cavanagh将执掌NBC环球，消息公布后盘前股价一度大涨。",
+      "why": "美国媒体/流媒体行业格局重塑，对迪士尼等流媒体同业有估值比价与并购重组想象，属赛道级事件。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Comcast",
+        "NBCUniversal",
+        "分拆",
+        "流媒体"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
+      "id": "d3b24d4ca3c2",
+      "is_new": true,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "昨19:00",
+      "group": "大盘头条",
+      "title": "Rocket Lab宣布约80亿美元收购铱星(Iridium)：每股54美元(27美元现金+股票)，预计2027年中完成",
+      "summary": "火箭实验室6月29日宣布以约80亿美元企业价值收购卫星通信公司Iridium，每股54美元(27美元现金、其余换股并含价格保护机制)，整合发射、卫星制造与在轨运营对标SpaceX；双方董事会一致通过，预计2027年中完成。",
+      "why": "商业航天/卫星通信赛道重磅并购，强化此前SpaceX纳入纳指100的太空主题，利好相关产业链关注。",
+      "source": "Rocket Lab IR / Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Rocket Lab",
+        "Iridium",
+        "并购",
+        "卫星"
+      ],
+      "translated": false,
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "id": "b8819847c2dc",
+      "is_new": true,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "11:30",
+      "group": "大盘头条",
+      "title": "A股6月30日上半年收官日：午盘创业板指涨逾3%、PCB与科技股活跃，PMI重返扩张提振情绪",
+      "summary": "上半年最后一个交易日，午盘上证指数涨约0.2%、深成指涨2.47%、创业板指涨3.06%、北证50涨3.33%，PCB概念领涨(多股涨停)，全市场超2700家个股上涨；早间公布的6月制造业PMI重返扩张区间提振风险偏好。(午盘数据、尚未收盘)",
+      "why": "科技与成长风格走强、情绪修复，利好科技核心持仓与卖出看跌期权环境；为盘中数据，收盘以晚间一轮为准。",
+      "source": "东方财富(午盘播报)",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "创业板",
+        "PCB",
+        "PMI"
+      ],
+      "translated": false,
+      "url": "https://finance.eastmoney.com/a/202606303788082289.html",
+      "id": "7039cd703168",
+      "is_new": true,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "昨",
+      "group": "个股",
+      "title": "Disney/Pixar's 'Toy Story 5' tops US box office for a second weekend; global cume nears $585M",
+      "summary": "'Toy Story 5' held the No.1 spot in its second weekend (~$70M domestic), pushing its worldwide cume to roughly $585M after 12 days, while 'Supergirl' opened softly at ~$38M — a franchise-record pace for Pixar. (Box-office estimates; verify vs final studio figures.)",
+      "why": "票房是迪士尼影视与乐园/衍生品业务的领先指标，强势IP对其内容与消费板块估值偏正面。",
+      "source": "Deadline / Variety",
+      "verified": false,
+      "keywords": [
+        "迪士尼",
+        "Disney",
+        "票房",
+        "Toy Story"
+      ],
+      "translated": false,
+      "url": "https://deadline.com/2026/06/box-office-supergirl-toy-story-5-1236968254/",
+      "id": "ee634c90d783",
+      "is_new": true,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "今",
+      "group": "个股",
+      "title": "好市多(Costco)行政会员新权益6月30日起生效：可提前一小时入场，满150美元订单获每月10美元Instacart抵扣",
+      "summary": "自6月30日起，美国Costco行政(Executive)会员可在常规营业前一小时入场购物，并对满150美元的Costco订单提供每月10美元的Instacart抵扣，进一步强化高级会员黏性。(运营类权益、非财报；时点以官方为准)",
+      "why": "会员权益升级有助高毛利会员费续费与黏性，是好市多商业模式的关键长期驱动。",
+      "source": "Kiplinger / Supermarket News",
+      "verified": false,
+      "keywords": [
+        "好市多",
+        "Costco",
+        "会员店"
+      ],
+      "translated": false,
+      "url": "https://www.kiplinger.com/personal-finance/spending/costco-offers-executive-members-a-new-shopping-perk",
+      "id": "2ad2b40c6d6b",
+      "is_new": true,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "6月30日证券报头版：规范跨境投资“绕道”、引导走QDII与互联互通；多只概念股密集风险提示",
+      "summary": "今日多家证券类媒体头版关注监管收紧不规范跨境投资渠道、引导资金通过QDII与沪深港通/跨境理财通等正规途径，并提示AI服务器、光模块、人形机器人等概念股近期密集发布交易异动/风险提示。",
+      "why": "监管口径与概念股炒作降温信号，关乎A股科技概念板块的波动与回调风险。",
+      "source": "上海证券报 / 新浪财经",
+      "verified": false,
+      "keywords": [
+        "跨境投资",
+        "概念股",
+        "监管"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/y/2026-06-30/doc-inifcrnk6809154.shtml",
+      "id": "7101b538aba3",
+      "is_new": true,
+      "first_seen": "2026-06-30"
     },
     {
       "id": "dbfca02061d5",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-30",
       "tier": 1,
       "lang": "zh",
@@ -88,7 +315,7 @@
     },
     {
       "id": "4ca417d4b5b4",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-30",
       "tier": 1,
       "lang": "zh",
@@ -114,33 +341,8 @@
       "url": "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html"
     },
     {
-      "id": "09720f176232",
-      "is_new": true,
-      "first_seen": "2026-06-30",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "昨16:00",
-      "group": "大盘头条",
-      "title": "美股半导体板块6月29日强势反弹：费城半导体相关ETF(SMH)早盘一度跌逾3%后收涨超3%，Astera Labs、KLA、应用材料等个股涨逾11%",
-      "summary": "在大型科技股领涨下，半导体板块上演V型反弹，VanEck半导体ETF(SMH)收涨超3%，Astera Labs、KLA、应用材料(AMAT)等芯片设备与互连个股盘中涨超11%，扭转上周存储与AI硬件的连续重挫。",
-      "why": "芯片股快速回补此前跌幅，验证AI硬件主线韧性；高波动后情绪回暖适合择机卖出期权博弈反弹。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "半导体",
-        "SMH",
-        "KLA",
-        "应用材料"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html"
-    },
-    {
       "id": "48f9924488ea",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-30",
       "tier": 1,
       "lang": "zh",
@@ -165,7 +367,7 @@
     },
     {
       "id": "a241af1648cc",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-30",
       "tier": 1,
       "lang": "en",
@@ -186,94 +388,54 @@
       "url": "https://www.tipranks.com/news/top-cantor-analyst-boosts-micron-stock-mu-price-target-on-optimism-about-scas"
     },
     {
-      "id": "6fa678aaa881",
-      "is_new": true,
+      "id": "ca78d6f9b058",
+      "is_new": false,
       "first_seen": "2026-06-30",
-      "tier": 2,
+      "tier": 1,
       "lang": "zh",
       "markets": [
         "US"
       ],
       "time": "昨16:00",
-      "group": "个股",
-      "title": "谷歌(GOOGL)6月29日作为道指新成分股首日交易涨约4%、取代Verizon：助推道指首破52000点，30只道指成分股中科技巨头增至6只创历史最多",
-      "summary": "Alphabet作为道琼斯工业平均指数新成分股首个交易日涨约4%(Alphabet+4.10%、卡特彼勒+3.59%、思科+3.35%领涨)，取代Verizon并推动道指首次收于52000上方；纳入后道指中大型科技股成分增至6只，为该指数130年历史最多。",
-      "why": "谷歌纳入道指首日强势既是个股催化、也提升道指科技含量，与中长线科技配置高度相关。",
-      "source": "Investing.com / Reuters",
+      "group": "大盘头条",
+      "title": "美股6月29日齐涨、道指首次收于52000上方报52182.74点：标普500涨1.2%报7440.43点、纳指涨2.07%报25820.14点，科技与半导体领涨",
+      "summary": "Alphabet正式纳入后道指涨306.63点(+0.59%)首破52000关口收52182.74点，标普500涨1.2%、纳指涨约2%；芯片股与大型科技股集体走强，叠加美伊降温与最高法院维持美联储独立性提振风险偏好。",
+      "why": "美股科技与半导体大盘V型反弹、隐含波动率回落，利好中长线科技仓位并改善卖出期权的胜率环境。",
+      "source": "Yahoo Finance / Quartz",
       "verified": true,
       "keywords": [
-        "谷歌"
+        "道指",
+        "标普500",
+        "纳指",
+        "半导体"
       ],
-      "translated": true,
-      "url": "https://www.investing.com/news/stock-market-news/alphabet-debuts-in-dow-jones-industrial-average-as-index-tilts-toward-tech-4765822"
+      "translated": false,
+      "url": "https://qz.com/alphabet-dow-jones-52000-record-close-062926"
     },
     {
-      "id": "36f11c682198",
-      "is_new": true,
+      "id": "09720f176232",
+      "is_new": false,
       "first_seen": "2026-06-30",
-      "tier": 2,
+      "tier": 1,
       "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "昨",
-      "group": "个股",
-      "title": "北京市场监管局首次组织外卖平台协商：美团、淘宝闪购、京东外卖就「不开展分钟级竞速」、规范补贴等五方面达成共识",
-      "summary": "北京市市场监管局建立平台经济「破卷向善」协商对话机制，围绕餐饮外卖商家降本增利首次协商，美团、淘宝闪购、京东外卖与商家、协会就优化补贴、收费让利、理性营销、扶持保障、规范配送管理五方面达成共识，其中明确合理设置出餐与配送时间、「不开展分钟级竞速」、规范非理性大额补贴；三家承诺细化执行。",
-      "why": "监管推动外卖补贴战与配送竞速进一步降温，利好平台减亏与盈利预期，是美团/阿里(淘宝闪购)的关键催化。",
-      "source": "IT之家 / 澎湃新闻",
-      "verified": true,
-      "keywords": [
-        "美团",
-        "阿里巴巴"
-      ],
-      "translated": false,
-      "url": "https://www.ithome.com/0/969/776.htm"
-    },
-    {
-      "id": "2bbcea73ae14",
-      "is_new": true,
-      "first_seen": "2026-06-30",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "昨",
-      "group": "个股",
-      "title": "Walmart launches 'Associate to Optician' training program to ease labor crunch in $70B optical sector",
-      "summary": "Walmart is offering frontline associates up to two years of training, coaching, certifications and an optician-science degree via its no-cost Live Better U benefit (worth more than $20,000), to staff vision centers amid an industry labor shortage. Licensed opticians at Walmart and Sam's Club vision centers currently start at about $33.75/hour, and program completers could see pay nearly double; the first cohort was drawn from 90 applicants in NC, SC and CT.",
-      "why": "沃尔玛以自有培训补足验光师用工缺口、提升高毛利视力中心运营，体现其零售服务护城河深化。",
-      "source": "Bloomberg / Seeking Alpha",
-      "verified": true,
-      "keywords": [
-        "沃尔玛"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-06-29/walmart-wmt-looks-to-alleviate-labor-crunch-in-70-billion-optical-sector"
-    },
-    {
-      "id": "b7241df87756",
-      "is_new": true,
-      "first_seen": "2026-06-30",
-      "tier": 3,
-      "lang": "en",
       "markets": [
         "US"
       ],
       "time": "昨16:00",
-      "group": "个股",
-      "title": "Palantir (PLTR) rebounds ~5% Monday off a 52-week low as US Army's NGC2 program moves from prototype to delivery",
-      "summary": "Palantir shares rebounded roughly 5% on Monday June 29 after touching a 52-week low the prior session, helped by news that the US Army's Next Generation Command and Control (NGC2) program is moving from prototype into delivery with Palantir's Foundry in a live operational role; no specific dollar value was attached to Palantir's portion.",
-      "why": "PLTR自52周低点反弹、政府AI合同进入交付阶段提供基本面支撑，但合同金额未明确，仅作参考。",
-      "source": "FX Leaders",
-      "verified": false,
+      "group": "大盘头条",
+      "title": "美股半导体板块6月29日强势反弹：费城半导体相关ETF(SMH)早盘一度跌逾3%后收涨超3%，Astera Labs、KLA、应用材料等个股涨逾11%",
+      "summary": "在大型科技股领涨下，半导体板块上演V型反弹，VanEck半导体ETF(SMH)收涨超3%，Astera Labs、KLA、应用材料(AMAT)等芯片设备与互连个股盘中涨超11%，扭转上周存储与AI硬件的连续重挫。",
+      "why": "芯片股快速回补此前跌幅，验证AI硬件主线韧性；高波动后情绪回暖适合择机卖出期权博弈反弹。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "Palantir"
+        "半导体",
+        "SMH",
+        "KLA",
+        "应用材料"
       ],
       "translated": false,
-      "url": "https://www.fxleaders.com/news/2026/06/29/pltr-stock-rebounds-5-but-palantir-still-faces-heavy-technical-resistance-near-120/"
+      "url": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html"
     },
     {
       "id": "81f665107a99",
@@ -324,6 +486,32 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/stock/zqgd/2026-06-29/doc-iniezxcc0323084.shtml"
+    },
+    {
+      "id": "fc478102def6",
+      "is_new": false,
+      "first_seen": "2026-06-29",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "06-29",
+      "group": "大盘头条",
+      "title": "Alphabet(谷歌)6月29日盘前正式纳入道琼斯工业平均指数、取代Verizon",
+      "summary": "标普道琼斯指数公司宣布，Alphabet(GOOGL) A类股于6月29日开盘前取代Verizon进入道指，为道指自2024年11月以来首次调整。因道指按股价加权，Alphabet约345美元股价的日影响力约为Verizon(约46美元)的7倍，使这一蓝筹基准更深地押注AI主线。",
+      "why": "今日生效的指数事件，被动资金需调仓；持仓核心标的谷歌的权重曝光度上升，也提升其短期交投与波动。",
+      "source": "CNBC / S&P Dow Jones Indices",
+      "verified": true,
+      "keywords": [
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "道琼斯"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html"
     },
     {
       "id": "696740254c01",
@@ -381,7 +569,7 @@
       "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html"
     },
     {
-      "id": "fc478102def6",
+      "id": "f02c0d5fea68",
       "is_new": false,
       "first_seen": "2026-06-29",
       "tier": 1,
@@ -389,49 +577,22 @@
       "markets": [
         "US"
       ],
-      "time": "06-29",
-      "group": "大盘头条",
-      "title": "Alphabet(谷歌)6月29日盘前正式纳入道琼斯工业平均指数、取代Verizon",
-      "summary": "标普道琼斯指数公司宣布，Alphabet(GOOGL) A类股于6月29日开盘前取代Verizon进入道指，为道指自2024年11月以来首次调整。因道指按股价加权，Alphabet约345美元股价的日影响力约为Verizon(约46美元)的7倍，使这一蓝筹基准更深地押注AI主线。",
-      "why": "今日生效的指数事件，被动资金需调仓；持仓核心标的谷歌的权重曝光度上升，也提升其短期交投与波动。",
-      "source": "CNBC / S&P Dow Jones Indices",
-      "verified": true,
-      "keywords": [
-        "谷歌",
-        "Google",
-        "Alphabet",
-        "GOOGL",
-        "道琼斯"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html"
-    },
-    {
-      "id": "ea30eb2f74dd",
-      "is_new": false,
-      "first_seen": "2026-06-29",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "06-23",
+      "time": "06-26",
       "group": "个股",
-      "title": "五角大楼对阿里「涉军企业」合同禁令6月30日生效；阿里已起诉美国防部要求除名",
-      "summary": "美国防部6月8日将阿里巴巴、百度、比亚迪、宇树等扩列至1260H「中国军事企业」清单(共188家)。依2024财年国防授权法，自6月30日起国防部不得与名单企业及其受控子公司签订或续签合同、并限制其在美游说。阿里6月23日在加州圣何塞联邦法院起诉国防部，称认定「在事实与法律上均无依据」，公司面向零售/物流/企业IT而非军工。",
-      "why": "合同禁令本周生效叠加诉讼，压制BABA/9988情绪与估值，是持仓阿里的关键政策风险点。",
-      "source": "SCMP",
-      "verified": true,
+      "title": "特斯拉Q2 2026交付一致预期约40.6万辆，高盛上调预测至42万；交付数据本周公布在即",
+      "summary": "特斯拉IR汇总22位分析师，Q2 2026交付一致预期为406,024辆(中值408,609；Model 3/Y约39.3万辆)；高盛(Mark Delaney)称Q2交付「很可能跑赢一致预期」，将其预测由40.5万上调至42万辆，依据中美欧月度/周度销售数据。交付数据预计7月2日前后公布、财报定于7月22日盘后。",
+      "why": "Q2交付为本周盘前关键催化剂，一致预期与高盛上调左右TSLA短期走势与隐含波动率。",
+      "source": "Electrek",
+      "verified": false,
       "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "BABA",
-        "9988.HK",
-        "1260H"
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Model Y",
+        "交付"
       ],
       "translated": false,
-      "url": "https://www.scmp.com/news/us/article/3358113/alibaba-sues-pentagon-over-china-military-blacklist"
+      "url": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/"
     },
     {
       "id": "be66b7d97d3e",
@@ -462,58 +623,31 @@
       "url": "https://www.stocktitan.net/news/TCOM/trip-com-group-limited-reports-unaudited-first-quarter-of-2026-dx2ntnhg2l6b.html"
     },
     {
-      "id": "f02c0d5fea68",
+      "id": "ea30eb2f74dd",
       "is_new": false,
       "first_seen": "2026-06-29",
       "tier": 1,
       "lang": "zh",
       "markets": [
+        "HK",
         "US"
       ],
-      "time": "06-26",
+      "time": "06-23",
       "group": "个股",
-      "title": "特斯拉Q2 2026交付一致预期约40.6万辆，高盛上调预测至42万；交付数据本周公布在即",
-      "summary": "特斯拉IR汇总22位分析师，Q2 2026交付一致预期为406,024辆(中值408,609；Model 3/Y约39.3万辆)；高盛(Mark Delaney)称Q2交付「很可能跑赢一致预期」，将其预测由40.5万上调至42万辆，依据中美欧月度/周度销售数据。交付数据预计7月2日前后公布、财报定于7月22日盘后。",
-      "why": "Q2交付为本周盘前关键催化剂，一致预期与高盛上调左右TSLA短期走势与隐含波动率。",
-      "source": "Electrek",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Model Y",
-        "交付"
-      ],
-      "translated": false,
-      "url": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/"
-    },
-    {
-      "id": "475510d72d28",
-      "is_new": false,
-      "first_seen": "2026-06-28",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "06-26",
-      "group": "大盘头条",
-      "title": "Fed's Kashkari pivots hawkish, now pencils in a 2026 rate HIKE; sell-side banks also shift toward pricing hikes",
-      "summary": "明尼阿波利斯联储主席卡什卡利6月26日在阿斯彭论坛表示，因通胀压力广泛（关税、霍尔木兹中断推升油价、AI数据中心相关价格飙升），已将今年点阵图预期由年初的1次降息改为1次加息；据CNBC/Bloomberg报道，部分华尔街投行也相应上修加息路径预期。",
-      "why": "核心鸽派官员转鹰、加息取代降息成为今年潜在基准情形，将抬高贴现率、压制美股/港股估值；但对卖出期权者意味着隐含波动率上升、权利金更丰厚。",
-      "source": "CNBC / Bloomberg",
+      "title": "五角大楼对阿里「涉军企业」合同禁令6月30日生效；阿里已起诉美国防部要求除名",
+      "summary": "美国防部6月8日将阿里巴巴、百度、比亚迪、宇树等扩列至1260H「中国军事企业」清单(共188家)。依2024财年国防授权法，自6月30日起国防部不得与名单企业及其受控子公司签订或续签合同、并限制其在美游说。阿里6月23日在加州圣何塞联邦法院起诉国防部，称认定「在事实与法律上均无依据」，公司面向零售/物流/企业IT而非军工。",
+      "why": "合同禁令本周生效叠加诉讼，压制BABA/9988情绪与估值，是持仓阿里的关键政策风险点。",
+      "source": "SCMP",
       "verified": true,
       "keywords": [
-        "美联储",
-        "卡什卡利",
-        "加息",
-        "通胀",
-        "点阵图"
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "1260H"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html"
+      "url": "https://www.scmp.com/news/us/article/3358113/alibaba-sues-pentagon-over-china-military-blacklist"
     },
     {
       "id": "c9ad9c412edc",
@@ -779,6 +913,34 @@
       "url": "https://www.cnbc.com/2026/06/27/saudi-aramco-resumes-oil-loading-at-ras-tanura-in-boost-to-supply.html"
     },
     {
+      "id": "475510d72d28",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "06-26",
+      "group": "大盘头条",
+      "title": "Fed's Kashkari pivots hawkish, now pencils in a 2026 rate HIKE; sell-side banks also shift toward pricing hikes",
+      "summary": "明尼阿波利斯联储主席卡什卡利6月26日在阿斯彭论坛表示，因通胀压力广泛（关税、霍尔木兹中断推升油价、AI数据中心相关价格飙升），已将今年点阵图预期由年初的1次降息改为1次加息；据CNBC/Bloomberg报道，部分华尔街投行也相应上修加息路径预期。",
+      "why": "核心鸽派官员转鹰、加息取代降息成为今年潜在基准情形，将抬高贴现率、压制美股/港股估值；但对卖出期权者意味着隐含波动率上升、权利金更丰厚。",
+      "source": "CNBC / Bloomberg",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "卡什卡利",
+        "加息",
+        "通胀",
+        "点阵图"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html"
+    },
+    {
       "id": "fe2e7314f278",
       "is_new": false,
       "first_seen": "2026-06-23",
@@ -982,6 +1144,74 @@
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-iniekknw2110857.shtml"
     },
     {
+      "id": "36f11c682198",
+      "is_new": false,
+      "first_seen": "2026-06-30",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "昨",
+      "group": "个股",
+      "title": "北京市场监管局首次组织外卖平台协商：美团、淘宝闪购、京东外卖就「不开展分钟级竞速」、规范补贴等五方面达成共识",
+      "summary": "北京市市场监管局建立平台经济「破卷向善」协商对话机制，围绕餐饮外卖商家降本增利首次协商，美团、淘宝闪购、京东外卖与商家、协会就优化补贴、收费让利、理性营销、扶持保障、规范配送管理五方面达成共识，其中明确合理设置出餐与配送时间、「不开展分钟级竞速」、规范非理性大额补贴；三家承诺细化执行。",
+      "why": "监管推动外卖补贴战与配送竞速进一步降温，利好平台减亏与盈利预期，是美团/阿里(淘宝闪购)的关键催化。",
+      "source": "IT之家 / 澎湃新闻",
+      "verified": true,
+      "keywords": [
+        "美团",
+        "阿里巴巴"
+      ],
+      "translated": false,
+      "url": "https://www.ithome.com/0/969/776.htm"
+    },
+    {
+      "id": "2bbcea73ae14",
+      "is_new": false,
+      "first_seen": "2026-06-30",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "昨",
+      "group": "个股",
+      "title": "Walmart launches 'Associate to Optician' training program to ease labor crunch in $70B optical sector",
+      "summary": "Walmart is offering frontline associates up to two years of training, coaching, certifications and an optician-science degree via its no-cost Live Better U benefit (worth more than $20,000), to staff vision centers amid an industry labor shortage. Licensed opticians at Walmart and Sam's Club vision centers currently start at about $33.75/hour, and program completers could see pay nearly double; the first cohort was drawn from 90 applicants in NC, SC and CT.",
+      "why": "沃尔玛以自有培训补足验光师用工缺口、提升高毛利视力中心运营，体现其零售服务护城河深化。",
+      "source": "Bloomberg / Seeking Alpha",
+      "verified": true,
+      "keywords": [
+        "沃尔玛"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/walmart-wmt-looks-to-alleviate-labor-crunch-in-70-billion-optical-sector"
+    },
+    {
+      "id": "6fa678aaa881",
+      "is_new": false,
+      "first_seen": "2026-06-30",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "昨16:00",
+      "group": "个股",
+      "title": "谷歌(GOOGL)6月29日作为道指新成分股首日交易涨约4%、取代Verizon：助推道指首破52000点，30只道指成分股中科技巨头增至6只创历史最多",
+      "summary": "Alphabet作为道琼斯工业平均指数新成分股首个交易日涨约4%(Alphabet+4.10%、卡特彼勒+3.59%、思科+3.35%领涨)，取代Verizon并推动道指首次收于52000上方；纳入后道指中大型科技股成分增至6只，为该指数130年历史最多。",
+      "why": "谷歌纳入道指首日强势既是个股催化、也提升道指科技含量，与中长线科技配置高度相关。",
+      "source": "Investing.com / Reuters",
+      "verified": true,
+      "keywords": [
+        "谷歌"
+      ],
+      "translated": true,
+      "url": "https://www.investing.com/news/stock-market-news/alphabet-debuts-in-dow-jones-industrial-average-as-index-tilts-toward-tech-4765822"
+    },
+    {
       "id": "022c1d2642b3",
       "is_new": false,
       "first_seen": "2026-06-29",
@@ -1035,6 +1265,33 @@
       "url": "https://www.stdaily.com/web/gdxw/2026-06/28/content_538734.html"
     },
     {
+      "id": "5429f5c22494",
+      "is_new": false,
+      "first_seen": "2026-06-29",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "06-28",
+      "group": "大盘头条",
+      "title": "美股本周聚焦Nike周二财报与中国销售；上周FedEx虽超预期但盘后跌约6%",
+      "summary": "CNBC本周前瞻指出，Nike将于周二盘后公布财季业绩，市场预期EPS约0.13美元、营收约108.6亿美元，中国区销售与指引为关键变量；上周FedEx财报超预期但盘后一度跌约6%，反映需求与运价压力。",
+      "why": "Nike等消费龙头的中国区销售与指引是消费板块景气风向标，也是持有/卖出消费股期权者的关键事件风险点。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Nike",
+        "财报",
+        "中国销售",
+        "FedEx",
+        "消费",
+        "周前瞻"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/28/here-are-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead-.html"
+    },
+    {
       "id": "4f68b70734ed",
       "is_new": false,
       "first_seen": "2026-06-29",
@@ -1061,33 +1318,6 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/jjxw/2026-06-27/doc-inievreq0068673.shtml"
-    },
-    {
-      "id": "5429f5c22494",
-      "is_new": false,
-      "first_seen": "2026-06-29",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "06-28",
-      "group": "大盘头条",
-      "title": "美股本周聚焦Nike周二财报与中国销售；上周FedEx虽超预期但盘后跌约6%",
-      "summary": "CNBC本周前瞻指出，Nike将于周二盘后公布财季业绩，市场预期EPS约0.13美元、营收约108.6亿美元，中国区销售与指引为关键变量；上周FedEx财报超预期但盘后一度跌约6%，反映需求与运价压力。",
-      "why": "Nike等消费龙头的中国区销售与指引是消费板块景气风向标，也是持有/卖出消费股期权者的关键事件风险点。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Nike",
-        "财报",
-        "中国销售",
-        "FedEx",
-        "消费",
-        "周前瞻"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/28/here-are-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead-.html"
     },
     {
       "id": "9ad6f4478019",
@@ -1117,7 +1347,7 @@
       "url": "https://www.infoworld.com/article/4189342/anthropic-accuses-alibaba-of-using-25000-fake-accounts-to-scrape-claude-ai.html"
     },
     {
-      "id": "cb1d706d35c0",
+      "id": "23ca48143fea",
       "is_new": false,
       "first_seen": "2026-06-29",
       "tier": 2,
@@ -1125,24 +1355,23 @@
       "markets": [
         "US"
       ],
-      "time": "06-22",
+      "time": "06-24",
       "group": "个股",
-      "title": "NHTSA对致命德州撞房事故启动最高级别特别调查，马斯克否认FSD责任",
-      "summary": "NHTSA于6月22-23日对一起Model 3在德州Katy撞入民宅、致76岁老人死亡的事故启动特别撞车调查(该机构最高级别)。马斯克与特斯拉AI负责人Ashok Elluswamy在X上反驳称FSD在社区道路低速行驶、此次为高速撞击，质疑FSD责任归属。该监管担忧与Q2交付乐观情绪交织，一度令TSLA股价承压。",
-      "why": "新增联邦级FSD/自动驾驶监管调查、恰逢Q2交付前夕，构成TSLA下行风险与波动来源。",
-      "source": "CNBC",
+      "title": "Circle与巴林央行持牌机构INFINIOS签战略协议，推进中东及MENA稳定币基础设施",
+      "summary": "6月24日，Circle与巴林央行(CBB)持牌机构INFINIOS签署战略协议，INFINIOS将接入USDC、EURC及Circle链上支付API，用于跨境支付、资金/流动性管理、商户结算、平台付款与代币化金融等机构场景，加速USDC在中东及更广地区落地；双方强调合规(KYC/AML)。",
+      "why": "USDC海外支付版图再扩中东，强化Circle稳定币基础设施叙事与机构采用，利好CRCL长期逻辑。",
+      "source": "Circle(官方新闻稿)",
       "verified": true,
       "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "FSD",
-        "自动驾驶",
-        "马斯克",
-        "NHTSA"
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "stablecoin",
+        "MENA"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html"
+      "url": "https://www.circle.com/pressroom/infinios-and-circle-sign-strategic-agreement-to-advance-digital-finance-infrastructure"
     },
     {
       "id": "2012d1cf09e6",
@@ -1172,7 +1401,7 @@
       "url": "https://electrek.co/2026/06/23/tesla-natpower-megapack-25-gwh-europe/"
     },
     {
-      "id": "23ca48143fea",
+      "id": "cb1d706d35c0",
       "is_new": false,
       "first_seen": "2026-06-29",
       "tier": 2,
@@ -1180,49 +1409,24 @@
       "markets": [
         "US"
       ],
-      "time": "06-24",
+      "time": "06-22",
       "group": "个股",
-      "title": "Circle与巴林央行持牌机构INFINIOS签战略协议，推进中东及MENA稳定币基础设施",
-      "summary": "6月24日，Circle与巴林央行(CBB)持牌机构INFINIOS签署战略协议，INFINIOS将接入USDC、EURC及Circle链上支付API，用于跨境支付、资金/流动性管理、商户结算、平台付款与代币化金融等机构场景，加速USDC在中东及更广地区落地；双方强调合规(KYC/AML)。",
-      "why": "USDC海外支付版图再扩中东，强化Circle稳定币基础设施叙事与机构采用，利好CRCL长期逻辑。",
-      "source": "Circle(官方新闻稿)",
+      "title": "NHTSA对致命德州撞房事故启动最高级别特别调查，马斯克否认FSD责任",
+      "summary": "NHTSA于6月22-23日对一起Model 3在德州Katy撞入民宅、致76岁老人死亡的事故启动特别撞车调查(该机构最高级别)。马斯克与特斯拉AI负责人Ashok Elluswamy在X上反驳称FSD在社区道路低速行驶、此次为高速撞击，质疑FSD责任归属。该监管担忧与Q2交付乐观情绪交织，一度令TSLA股价承压。",
+      "why": "新增联邦级FSD/自动驾驶监管调查、恰逢Q2交付前夕，构成TSLA下行风险与波动来源。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "stablecoin",
-        "MENA"
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "FSD",
+        "自动驾驶",
+        "马斯克",
+        "NHTSA"
       ],
       "translated": false,
-      "url": "https://www.circle.com/pressroom/infinios-and-circle-sign-strategic-agreement-to-advance-digital-finance-infrastructure"
-    },
-    {
-      "id": "cb2bc17f42fb",
-      "is_new": false,
-      "first_seen": "2026-06-28",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "06-27",
-      "group": "个股",
-      "title": "《玩具总动员5》次周末北美票房约7200万美元蝉联冠军，DC《超少女》仅开画约3800–4000万美元远逊预期",
-      "summary": "迪士尼/皮克斯《玩具总动员5》次周末北美进账约7200万美元（环比约-55%），稳居票房榜首并推动北美累计破3亿美元；竞品DC《超少女》开画仅约3800–4000万美元，大幅低于预期。",
-      "why": "次周末强劲保持力印证《玩具总动员5》冲击全球10亿票房的潜力，利好迪士尼影业票房及后续流媒体变现；竞品失利凸显迪士尼内容护城河。",
-      "source": "Variety / Deadline",
-      "verified": true,
-      "keywords": [
-        "票房",
-        "box office",
-        "Disney",
-        "迪士尼",
-        "streaming"
-      ],
-      "translated": false,
-      "url": "https://variety.com/2026/film/box-office/box-office-supergirl-milly-alcock-toy-story-5-1236789996/"
+      "url": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html"
     },
     {
       "id": "aef29789114f",
@@ -1434,31 +1638,30 @@
       "url": "https://deadline.com/2026/06/box-office-disney-2026-record-1236967751/"
     },
     {
-      "id": "6836d57d32e9",
+      "id": "cb2bc17f42fb",
       "is_new": false,
       "first_seen": "2026-06-28",
       "tier": 2,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "US",
-        "HK",
-        "A"
+        "US"
       ],
-      "time": "06-27 周末",
-      "group": "大盘头条",
-      "title": "Banks Slash Oil Price Forecasts After U.S.-Iran Breakthrough",
-      "summary": "高盛、摩根士丹利、麦格理等大行因霍尔木兹重开、海湾供应回归而下调布伦特预期：高盛将四季度预测由90美元下调至80美元、2027年均价由80降至75。",
-      "why": "大行集体下修油价预期，反映地缘溢价消退、供应回归，有助压低通胀与企业成本，是周末核心宏观变量。",
-      "source": "Bloomberg / OilPrice",
+      "time": "06-27",
+      "group": "个股",
+      "title": "《玩具总动员5》次周末北美票房约7200万美元蝉联冠军，DC《超少女》仅开画约3800–4000万美元远逊预期",
+      "summary": "迪士尼/皮克斯《玩具总动员5》次周末北美进账约7200万美元（环比约-55%），稳居票房榜首并推动北美累计破3亿美元；竞品DC《超少女》开画仅约3800–4000万美元，大幅低于预期。",
+      "why": "次周末强劲保持力印证《玩具总动员5》冲击全球10亿票房的潜力，利好迪士尼影业票房及后续流媒体变现；竞品失利凸显迪士尼内容护城河。",
+      "source": "Variety / Deadline",
       "verified": true,
       "keywords": [
-        "高盛",
-        "摩根士丹利",
-        "布伦特",
-        "油价预测"
+        "票房",
+        "box office",
+        "Disney",
+        "迪士尼",
+        "streaming"
       ],
       "translated": false,
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Banks-Slash-Oil-Price-Forecasts-After-US-Iran-Breakthrough.html"
+      "url": "https://variety.com/2026/film/box-office/box-office-supergirl-milly-alcock-toy-story-5-1236789996/"
     },
     {
       "id": "509b1fac7275",
@@ -1484,6 +1687,33 @@
       ],
       "translated": false,
       "url": "https://www.thewrap.com/industry-news/business/toy-story-5-supergirl-saturday-box-office/"
+    },
+    {
+      "id": "6836d57d32e9",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "06-27 周末",
+      "group": "大盘头条",
+      "title": "Banks Slash Oil Price Forecasts After U.S.-Iran Breakthrough",
+      "summary": "高盛、摩根士丹利、麦格理等大行因霍尔木兹重开、海湾供应回归而下调布伦特预期：高盛将四季度预测由90美元下调至80美元、2027年均价由80降至75。",
+      "why": "大行集体下修油价预期，反映地缘溢价消退、供应回归，有助压低通胀与企业成本，是周末核心宏观变量。",
+      "source": "Bloomberg / OilPrice",
+      "verified": true,
+      "keywords": [
+        "高盛",
+        "摩根士丹利",
+        "布伦特",
+        "油价预测"
+      ],
+      "translated": false,
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Banks-Slash-Oil-Price-Forecasts-After-US-Iran-Breakthrough.html"
     },
     {
       "id": "7fed7a7c72ad",
@@ -1646,28 +1876,26 @@
       "url": "https://finance.eastmoney.com/a/202606223777969232.html"
     },
     {
-      "id": "f90afff3f66a",
+      "id": "b7241df87756",
       "is_new": false,
-      "first_seen": "2026-06-28",
+      "first_seen": "2026-06-30",
       "tier": 3,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "06-26",
+      "time": "昨16:00",
       "group": "个股",
-      "title": "（参考·待核）麦当劳中国启动\"我就喜欢\"23周年营销活动，7月1日起推新品并限时回归低价冰淇淋",
-      "summary": "据新浪财经及麦当劳中国官方渠道，麦当劳中国6月26日宣布开启\"i'm lovin' it 我就喜欢\"23周年主题活动，7月1日起全国门店上新并限时回归低价圆筒冰淇淋（具体代言与定价以官方为准、待核）。",
-      "why": "大规模营销+限时低价旨在拉动客流与同店销售，是观察麦当劳在华消费复苏与品牌力的窗口。",
-      "source": "麦当劳中国官方 / 新浪财经",
+      "title": "Palantir (PLTR) rebounds ~5% Monday off a 52-week low as US Army's NGC2 program moves from prototype to delivery",
+      "summary": "Palantir shares rebounded roughly 5% on Monday June 29 after touching a 52-week low the prior session, helped by news that the US Army's Next Generation Command and Control (NGC2) program is moving from prototype into delivery with Palantir's Foundry in a live operational role; no specific dollar value was attached to Palantir's portion.",
+      "why": "PLTR自52周低点反弹、政府AI合同进入交付阶段提供基本面支撑，但合同金额未明确，仅作参考。",
+      "source": "FX Leaders",
       "verified": false,
       "keywords": [
-        "麦当劳中国",
-        "快餐",
-        "McDonald's"
+        "Palantir"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inietspu1991230.shtml"
+      "url": "https://www.fxleaders.com/news/2026/06/29/pltr-stock-rebounds-5-but-palantir-still-faces-heavy-technical-resistance-near-120/"
     },
     {
       "id": "eeca2747aa5a",
@@ -1745,6 +1973,30 @@
       ],
       "translated": false,
       "url": "https://finance.yahoo.com/news/interactive-brokers-survey-independent-rias-140000455.html"
+    },
+    {
+      "id": "f90afff3f66a",
+      "is_new": false,
+      "first_seen": "2026-06-28",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "06-26",
+      "group": "个股",
+      "title": "（参考·待核）麦当劳中国启动\"我就喜欢\"23周年营销活动，7月1日起推新品并限时回归低价冰淇淋",
+      "summary": "据新浪财经及麦当劳中国官方渠道，麦当劳中国6月26日宣布开启\"i'm lovin' it 我就喜欢\"23周年主题活动，7月1日起全国门店上新并限时回归低价圆筒冰淇淋（具体代言与定价以官方为准、待核）。",
+      "why": "大规模营销+限时低价旨在拉动客流与同店销售，是观察麦当劳在华消费复苏与品牌力的窗口。",
+      "source": "麦当劳中国官方 / 新浪财经",
+      "verified": false,
+      "keywords": [
+        "麦当劳中国",
+        "快餐",
+        "McDonald's"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inietspu1991230.shtml"
     },
     {
       "id": "070b9d38a50c",
