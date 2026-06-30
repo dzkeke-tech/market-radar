@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-06-30 13:30 (北京时间)",
+  "updated_at": "2026-06-30 18:15 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,32 @@
   "positions": [],
   "items": [
     {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:00",
+      "group": "大盘头条",
+      "title": "A股上半年6月30日收官：寒武纪成科创板首只万亿市值股、科创50创历史新高，沪指收涨约0.5%、创业板指涨约2.99%",
+      "summary": "半年收官日两市缩量上涨，半导体与算力硬件全线大涨：AI芯片龙头寒武纪(688256)盘中涨超8%、总市值首破1万亿元，为科创板首只“万亿股”，京东方A成交额逾445亿元居A股首位。",
+      "why": "国产AI算力链情绪走强，利好半导体与AI主题（与持仓SK海力士、美光、英伟达的存储/算力景气共振）；A股科技板块强势或外溢至港股科网，关注估值重估与波动率。",
+      "source": "界面新闻",
+      "verified": true,
+      "keywords": [
+        "寒武纪",
+        "半导体",
+        "算力",
+        "科创50",
+        "创业板指"
+      ],
+      "translated": false,
+      "url": "https://www.jiemian.com/article/14671166.html",
+      "id": "26553b47385a",
+      "is_new": true,
+      "first_seen": "2026-06-30"
+    },
+    {
       "tier": 1,
       "lang": "en",
       "markets": [
@@ -60,7 +86,7 @@
       "translated": false,
       "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
       "id": "aa54e1f741c7",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-30"
     },
     {
@@ -86,206 +112,7 @@
       "translated": false,
       "url": "https://www.news.cn/fortune/20260630/6d67f0b3f7f14f60b580e233792c8d88/c.html",
       "id": "dea1904e72c9",
-      "is_new": true,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "昨",
-      "group": "个股",
-      "title": "金价回调下老铺黄金迎“压力测试”：现货金一度跌破约4010美元/盎司，摩通测算极端情形上半年净利仍近翻倍",
-      "summary": "6月下旬现货黄金回落、6月30日一度跌破约4010美元/盎司(较前周高位走弱)，市场关注明确“不做对冲”的老铺黄金抗压能力；多家媒体援引摩根大通压力测试称即便同店销售下滑约20%，上半年净利润仍有望近翻倍。(评论/研报口径，具体数字待核)",
-      "why": "金价波动直接影响老铺黄金毛利与盈利弹性，是该港股消费持仓的核心变量，也关乎其期权波动率。",
-      "source": "新浪财经 / 36氪",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "金价",
-        "古法金",
-        "黄金"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-29/doc-iniezsuy5515807.shtml",
-      "id": "ad8c9827d945",
-      "is_new": true,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "昨23:00",
-      "group": "个股",
-      "title": "大摩上调特斯拉Q2交付预期至约41.3万辆(原约37.3万)，巴克莱亦转乐观，欧洲与中国需求改善",
-      "summary": "摩根士丹利6月29日将特斯拉二季度交付预期由约37.3万辆上调至约41.3万辆，理由是5月欧洲注册量同比翻倍、中国销售动能回升；巴克莱亦上调至约41.8万辆，高于市场约39.6万-40.6万辆的一致预期。Q2实际交付预计7月初公布。(分析师预测，待官方交付数据核实)",
-      "why": "交付数据是本周特斯拉关键催化，预期上修利好情绪与隐含波动率，影响卖出期权的时点与行权价选择。",
-      "source": "Investing.com / Morgan Stanley",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "TSLA",
-        "交付",
-        "大摩"
-      ],
-      "translated": false,
-      "url": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-rallying-today-93CH-4765843",
-      "id": "2f08bab19f62",
-      "is_new": true,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "昨21:00",
-      "group": "大盘头条",
-      "title": "康卡斯特(Comcast)宣布拆分为两家上市公司：免税分拆NBC环球与Sky媒体业务，约一年内完成",
-      "summary": "康卡斯特6月29日宣布将媒体业务(NBC环球、环球影城、Peacock、Sky)从宽带/无线/有线业务中以免税方式分拆为独立上市公司，预计约一年内完成；联席CEO Cavanagh将执掌NBC环球，消息公布后盘前股价一度大涨。",
-      "why": "美国媒体/流媒体行业格局重塑，对迪士尼等流媒体同业有估值比价与并购重组想象，属赛道级事件。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Comcast",
-        "NBCUniversal",
-        "分拆",
-        "流媒体"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
-      "id": "d3b24d4ca3c2",
-      "is_new": true,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "昨19:00",
-      "group": "大盘头条",
-      "title": "Rocket Lab宣布约80亿美元收购铱星(Iridium)：每股54美元(27美元现金+股票)，预计2027年中完成",
-      "summary": "火箭实验室6月29日宣布以约80亿美元企业价值收购卫星通信公司Iridium，每股54美元(27美元现金、其余换股并含价格保护机制)，整合发射、卫星制造与在轨运营对标SpaceX；双方董事会一致通过，预计2027年中完成。",
-      "why": "商业航天/卫星通信赛道重磅并购，强化此前SpaceX纳入纳指100的太空主题，利好相关产业链关注。",
-      "source": "Rocket Lab IR / Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Rocket Lab",
-        "Iridium",
-        "并购",
-        "卫星"
-      ],
-      "translated": false,
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "id": "b8819847c2dc",
-      "is_new": true,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "11:30",
-      "group": "大盘头条",
-      "title": "A股6月30日上半年收官日：午盘创业板指涨逾3%、PCB与科技股活跃，PMI重返扩张提振情绪",
-      "summary": "上半年最后一个交易日，午盘上证指数涨约0.2%、深成指涨2.47%、创业板指涨3.06%、北证50涨3.33%，PCB概念领涨(多股涨停)，全市场超2700家个股上涨；早间公布的6月制造业PMI重返扩张区间提振风险偏好。(午盘数据、尚未收盘)",
-      "why": "科技与成长风格走强、情绪修复，利好科技核心持仓与卖出看跌期权环境；为盘中数据，收盘以晚间一轮为准。",
-      "source": "东方财富(午盘播报)",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "创业板",
-        "PCB",
-        "PMI"
-      ],
-      "translated": false,
-      "url": "https://finance.eastmoney.com/a/202606303788082289.html",
-      "id": "7039cd703168",
-      "is_new": true,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "昨",
-      "group": "个股",
-      "title": "Disney/Pixar's 'Toy Story 5' tops US box office for a second weekend; global cume nears $585M",
-      "summary": "'Toy Story 5' held the No.1 spot in its second weekend (~$70M domestic), pushing its worldwide cume to roughly $585M after 12 days, while 'Supergirl' opened softly at ~$38M — a franchise-record pace for Pixar. (Box-office estimates; verify vs final studio figures.)",
-      "why": "票房是迪士尼影视与乐园/衍生品业务的领先指标，强势IP对其内容与消费板块估值偏正面。",
-      "source": "Deadline / Variety",
-      "verified": false,
-      "keywords": [
-        "迪士尼",
-        "Disney",
-        "票房",
-        "Toy Story"
-      ],
-      "translated": false,
-      "url": "https://deadline.com/2026/06/box-office-supergirl-toy-story-5-1236968254/",
-      "id": "ee634c90d783",
-      "is_new": true,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "今",
-      "group": "个股",
-      "title": "好市多(Costco)行政会员新权益6月30日起生效：可提前一小时入场，满150美元订单获每月10美元Instacart抵扣",
-      "summary": "自6月30日起，美国Costco行政(Executive)会员可在常规营业前一小时入场购物，并对满150美元的Costco订单提供每月10美元的Instacart抵扣，进一步强化高级会员黏性。(运营类权益、非财报；时点以官方为准)",
-      "why": "会员权益升级有助高毛利会员费续费与黏性，是好市多商业模式的关键长期驱动。",
-      "source": "Kiplinger / Supermarket News",
-      "verified": false,
-      "keywords": [
-        "好市多",
-        "Costco",
-        "会员店"
-      ],
-      "translated": false,
-      "url": "https://www.kiplinger.com/personal-finance/spending/costco-offers-executive-members-a-new-shopping-perk",
-      "id": "2ad2b40c6d6b",
-      "is_new": true,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "6月30日证券报头版：规范跨境投资“绕道”、引导走QDII与互联互通；多只概念股密集风险提示",
-      "summary": "今日多家证券类媒体头版关注监管收紧不规范跨境投资渠道、引导资金通过QDII与沪深港通/跨境理财通等正规途径，并提示AI服务器、光模块、人形机器人等概念股近期密集发布交易异动/风险提示。",
-      "why": "监管口径与概念股炒作降温信号，关乎A股科技概念板块的波动与回调风险。",
-      "source": "上海证券报 / 新浪财经",
-      "verified": false,
-      "keywords": [
-        "跨境投资",
-        "概念股",
-        "监管"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/y/2026-06-30/doc-inifcrnk6809154.shtml",
-      "id": "7101b538aba3",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-06-30"
     },
     {
@@ -1144,6 +971,132 @@
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-iniekknw2110857.shtml"
     },
     {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "昨",
+      "group": "个股",
+      "title": "金价回调下老铺黄金迎“压力测试”：现货金一度跌破约4010美元/盎司，摩通测算极端情形上半年净利仍近翻倍",
+      "summary": "6月下旬现货黄金回落、6月30日一度跌破约4010美元/盎司(较前周高位走弱)，市场关注明确“不做对冲”的老铺黄金抗压能力；多家媒体援引摩根大通压力测试称即便同店销售下滑约20%，上半年净利润仍有望近翻倍。(评论/研报口径，具体数字待核)",
+      "why": "金价波动直接影响老铺黄金毛利与盈利弹性，是该港股消费持仓的核心变量，也关乎其期权波动率。",
+      "source": "新浪财经 / 36氪",
+      "verified": false,
+      "keywords": [
+        "老铺黄金",
+        "金价",
+        "古法金",
+        "黄金"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-29/doc-iniezsuy5515807.shtml",
+      "id": "ad8c9827d945",
+      "is_new": false,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "昨23:00",
+      "group": "个股",
+      "title": "大摩上调特斯拉Q2交付预期至约41.3万辆(原约37.3万)，巴克莱亦转乐观，欧洲与中国需求改善",
+      "summary": "摩根士丹利6月29日将特斯拉二季度交付预期由约37.3万辆上调至约41.3万辆，理由是5月欧洲注册量同比翻倍、中国销售动能回升；巴克莱亦上调至约41.8万辆，高于市场约39.6万-40.6万辆的一致预期。Q2实际交付预计7月初公布。(分析师预测，待官方交付数据核实)",
+      "why": "交付数据是本周特斯拉关键催化，预期上修利好情绪与隐含波动率，影响卖出期权的时点与行权价选择。",
+      "source": "Investing.com / Morgan Stanley",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "TSLA",
+        "交付",
+        "大摩"
+      ],
+      "translated": false,
+      "url": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-rallying-today-93CH-4765843",
+      "id": "2f08bab19f62",
+      "is_new": false,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "昨21:00",
+      "group": "大盘头条",
+      "title": "康卡斯特(Comcast)宣布拆分为两家上市公司：免税分拆NBC环球与Sky媒体业务，约一年内完成",
+      "summary": "康卡斯特6月29日宣布将媒体业务(NBC环球、环球影城、Peacock、Sky)从宽带/无线/有线业务中以免税方式分拆为独立上市公司，预计约一年内完成；联席CEO Cavanagh将执掌NBC环球，消息公布后盘前股价一度大涨。",
+      "why": "美国媒体/流媒体行业格局重塑，对迪士尼等流媒体同业有估值比价与并购重组想象，属赛道级事件。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Comcast",
+        "NBCUniversal",
+        "分拆",
+        "流媒体"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
+      "id": "d3b24d4ca3c2",
+      "is_new": false,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "昨19:00",
+      "group": "大盘头条",
+      "title": "Rocket Lab宣布约80亿美元收购铱星(Iridium)：每股54美元(27美元现金+股票)，预计2027年中完成",
+      "summary": "火箭实验室6月29日宣布以约80亿美元企业价值收购卫星通信公司Iridium，每股54美元(27美元现金、其余换股并含价格保护机制)，整合发射、卫星制造与在轨运营对标SpaceX；双方董事会一致通过，预计2027年中完成。",
+      "why": "商业航天/卫星通信赛道重磅并购，强化此前SpaceX纳入纳指100的太空主题，利好相关产业链关注。",
+      "source": "Rocket Lab IR / Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Rocket Lab",
+        "Iridium",
+        "并购",
+        "卫星"
+      ],
+      "translated": false,
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "id": "b8819847c2dc",
+      "is_new": false,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "11:30",
+      "group": "大盘头条",
+      "title": "A股6月30日上半年收官日：午盘创业板指涨逾3%、PCB与科技股活跃，PMI重返扩张提振情绪",
+      "summary": "上半年最后一个交易日，午盘上证指数涨约0.2%、深成指涨2.47%、创业板指涨3.06%、北证50涨3.33%，PCB概念领涨(多股涨停)，全市场超2700家个股上涨；早间公布的6月制造业PMI重返扩张区间提振风险偏好。(午盘数据、尚未收盘)",
+      "why": "科技与成长风格走强、情绪修复，利好科技核心持仓与卖出看跌期权环境；为盘中数据，收盘以晚间一轮为准。",
+      "source": "东方财富(午盘播报)",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "创业板",
+        "PCB",
+        "PMI"
+      ],
+      "translated": false,
+      "url": "https://finance.eastmoney.com/a/202606303788082289.html",
+      "id": "7039cd703168",
+      "is_new": false,
+      "first_seen": "2026-06-30"
+    },
+    {
       "id": "36f11c682198",
       "is_new": false,
       "first_seen": "2026-06-30",
@@ -1874,6 +1827,79 @@
       ],
       "translated": false,
       "url": "https://finance.eastmoney.com/a/202606223777969232.html"
+    },
+    {
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "昨",
+      "group": "个股",
+      "title": "Disney/Pixar's 'Toy Story 5' tops US box office for a second weekend; global cume nears $585M",
+      "summary": "'Toy Story 5' held the No.1 spot in its second weekend (~$70M domestic), pushing its worldwide cume to roughly $585M after 12 days, while 'Supergirl' opened softly at ~$38M — a franchise-record pace for Pixar. (Box-office estimates; verify vs final studio figures.)",
+      "why": "票房是迪士尼影视与乐园/衍生品业务的领先指标，强势IP对其内容与消费板块估值偏正面。",
+      "source": "Deadline / Variety",
+      "verified": false,
+      "keywords": [
+        "迪士尼",
+        "Disney",
+        "票房",
+        "Toy Story"
+      ],
+      "translated": false,
+      "url": "https://deadline.com/2026/06/box-office-supergirl-toy-story-5-1236968254/",
+      "id": "ee634c90d783",
+      "is_new": false,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "今",
+      "group": "个股",
+      "title": "好市多(Costco)行政会员新权益6月30日起生效：可提前一小时入场，满150美元订单获每月10美元Instacart抵扣",
+      "summary": "自6月30日起，美国Costco行政(Executive)会员可在常规营业前一小时入场购物，并对满150美元的Costco订单提供每月10美元的Instacart抵扣，进一步强化高级会员黏性。(运营类权益、非财报；时点以官方为准)",
+      "why": "会员权益升级有助高毛利会员费续费与黏性，是好市多商业模式的关键长期驱动。",
+      "source": "Kiplinger / Supermarket News",
+      "verified": false,
+      "keywords": [
+        "好市多",
+        "Costco",
+        "会员店"
+      ],
+      "translated": false,
+      "url": "https://www.kiplinger.com/personal-finance/spending/costco-offers-executive-members-a-new-shopping-perk",
+      "id": "2ad2b40c6d6b",
+      "is_new": false,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "6月30日证券报头版：规范跨境投资“绕道”、引导走QDII与互联互通；多只概念股密集风险提示",
+      "summary": "今日多家证券类媒体头版关注监管收紧不规范跨境投资渠道、引导资金通过QDII与沪深港通/跨境理财通等正规途径，并提示AI服务器、光模块、人形机器人等概念股近期密集发布交易异动/风险提示。",
+      "why": "监管口径与概念股炒作降温信号，关乎A股科技概念板块的波动与回调风险。",
+      "source": "上海证券报 / 新浪财经",
+      "verified": false,
+      "keywords": [
+        "跨境投资",
+        "概念股",
+        "监管"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/y/2026-06-30/doc-inifcrnk6809154.shtml",
+      "id": "7101b538aba3",
+      "is_new": false,
+      "first_seen": "2026-06-30"
     },
     {
       "id": "b7241df87756",
