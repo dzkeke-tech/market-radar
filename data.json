@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-06-23 18:15 (北京时间)",
+  "updated_at": "2026-07-01 08:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,1750 +37,479 @@
   "positions": [],
   "items": [
     {
-      "id": "52e6d564af57",
-      "is_new": true,
-      "first_seen": "2026-06-23",
+      "id": "608e23a07f7c",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Half-year Hong Kong stocks report: HSI drops 11%, Hang Seng Tech falls 19% — among worst globally; Trip.com -30%+ worst in index",
+      "summary": "The Hang Seng Index declined 11% in H1 2026 while the Hang Seng Tech Index fell 19%, ranking Hong Kong among the worst-performing major markets globally. Key culprits: the Fed's hawkish pivot (from rate-cut mode to rate-hold/hike discussion) which compressed HK equity multiples, and the Hang Seng's lack of pure-play AI infrastructure names comparable to Nvidia. Trip.com plunged over 30%, making it the worst-performing constituent.",
+      "why": "港股整体板块承压直接冲击腾讯、阿里、美团、小米、携程等全部港股持仓；美联储鹰派转向是根源，若7月加息落地将进一步压制估值；sell put时须将行权价设定在充足安全垫以下，避免高贝塔港股持仓在宏观逆风中被逼仓。",
+      "source": "South China Morning Post",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "H1 2026",
+        "Trip.com",
+        "携程",
+        "恒生科技"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/china-business/article/3358887/half-year-hong-kong-stocks-report-card-shares-drop-11-fed-pivot-lack-ai-play",
+      "is_new": true,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "3951423b2907",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "昨 收盘",
+      "group": "大盘头条",
+      "title": "Dow closes above 52,000 for the first time as Alphabet joins index on debut day (+4.8%), replacing Verizon; marks best quarter for S&P 500/Nasdaq in six years",
+      "summary": "The Dow Jones Industrial Average closed at a record 52,182.74 on June 29, 2026 — crossing 52,000 for the first time — boosted by Alphabet's debut day gain of ~4.8% as it replaced Verizon after 22 years. Alphabet is now the fifth Magnificent Seven mega-cap in the Dow (joining Nvidia, Amazon, Apple, Microsoft). Three tailwinds converged: Alphabet's index debut, a Supreme Court ruling protecting Fed independence, and easing US-Iran tensions. The S&P 500 and Nasdaq wrapped up their best quarter since 2020.",
+      "why": "谷歌（持仓标的）加入道指触发大量被动资金买入、首日大涨近5%，标普与纳指最强季度印证美股科技强势；道指创新高对持仓美股科技标的（英伟达、Palantir、特斯拉等）的市场情绪有正向溢出效应，隐含波动率短期有所压缩。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "谷歌",
+        "Alphabet",
+        "GOOGL",
+        "道琼斯",
+        "Dow Jones",
+        "标普500",
+        "纳斯达克"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
+      "is_new": true,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "1fd538e84244",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06-26",
+      "group": "大盘头条",
+      "title": "SpaceX to join Nasdaq-100 on July 7 under fast-track framework — record fastest inclusion; JPMorgan estimates $4.3B in forced ETF buying",
+      "summary": "SpaceX (SPCX) will officially join the Nasdaq-100 Index before trading begins on July 7, 2026, just 15 trading days after its June 12 IPO — setting a record as the fastest Nasdaq-100 inclusion in history under the exchange's new fast-track framework. J.P. Morgan estimates approximately $4.3 billion in forced buying from QQQ and other index-tracking products as sponsors rebalance. Over $800 billion tracks the Nasdaq-100.",
+      "why": "43亿美元被动资金流入将在7月6日收盘后开始买入SpaceX，纳指成份整体被动需求上升，利好持仓中追踪纳指标的（Palantir、英伟达、谷歌等）的流动性环境；同时科技指数权重集中度进一步上升，整体beta加大。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "SpaceX",
+        "SPCX",
+        "纳斯达克100",
+        "Nasdaq-100",
+        "ETF",
+        "QQQ"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
+      "is_new": true,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "a5dd42196d12",
+      "tier": 1,
+      "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "13:30",
+      "time": "昨 22:00",
       "group": "大盘头条",
-      "title": "韩国股市6月23日午后跳水、KOSPI跌超8%触发熔断停盘20分钟：SK海力士盘中重挫逾10%、三星电子跌超7%，监管罕见点名批评追踪两大芯片股的单只杠杆ETF",
-      "summary": "6月23日北京时间下午约13:30，韩国KOSPI指数盘中跌幅扩大至8%以上触发熔断、暂停交易约20分钟，为从纪录高位的剧烈回吐。芯片权重股领跌——SK海力士盘中一度跌逾10%、三星电子跌超7%。韩国最高金融监管机构罕见严批追踪三星与SK海力士的单只杠杆ETF，称其除让券商以散户利益为代价获利外几无作用。",
-      "why": "对持仓直接相关：存储芯片(SK海力士/美光/闪迪)是核心持仓主线，韩股熔断标志AI/存储板块情绪在高位急转、波动率骤升——临近美光财报，卖出期权(尤其sell put)须警惕gamma与隐含波动率放大风险。",
-      "source": "证券时报",
+      "title": "South Korea announces $518 billion semiconductor mega-plan: Samsung and SK Hynix each build two new fabs; HBM packaging plants in Chungcheong",
+      "summary": "On June 29, South Korean President Lee Jae Myung, Samsung Chairman Lee Jae-yong, and SK Group Chairman Chey Tae-won jointly announced an 800 trillion won (~$518 billion) national semiconductor ecosystem project. Samsung and SK Hynix will each construct two new fabrication plants in South Korea's southwest near Gwangju. Samsung will additionally build HBM packaging facilities in the Chungcheong region to meet soaring AI demand. S&P said the accelerated Yongin investment is well within both companies' financial flexibility.",
+      "why": "SK Hynix（持仓核心）国家级产能背书是最强政策红利：HBM长期供应保障、政府补贴降低资本成本；短期重大利好推高存储半导体板块情绪（美光、闪迪也受益）；但10年维度产能大幅扩张意味着未来HBM价格压力，sell put时须动态审视行权价。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
         "SK海力士",
         "SK Hynix",
         "三星",
-        "存储芯片",
-        "HBM",
-        "熔断"
+        "Samsung",
+        "半导体",
+        "晶圆厂",
+        "HBM"
       ],
       "translated": false,
-      "url": "https://www.stcn.com/article/detail/3974242.html"
+      "url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     },
     {
-      "id": "e17d4e0d71a7",
-      "is_new": true,
-      "first_seen": "2026-06-23",
+      "id": "e1f98beb25d1",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK"
+        "US",
+        "HK",
+        "A"
       ],
-      "time": "16:08",
+      "time": "本周",
       "group": "大盘头条",
-      "title": "港股6月23日重挫、恒生科技指数跌3.3%：AI硬科技与存储半导体遭血洗，智谱AI跌近10%市值跌破万亿港元、MINIMAX跌超16%、小米跌约4.6%，受韩股熔断与三星/SK海力士拖累",
-      "summary": "6月23日港股收盘，恒生指数跌1.82%报约23336点、国企指数跌1.96%、恒生科技指数跌3.3%报约4399点。AI硬科技与存储半导体板块遭重挫，大模型“双雄”齐跌——智谱AI跌近10%、市值跌破万亿港元，MINIMAX跌超16%；小米跌约4.6%。盘面受韩国股市熔断及三星、SK海力士大跌情绪传导。相较之下A股较为抗跌、创业板逆势收涨。",
-      "why": "直接冲击多只港股持仓(小米、腾讯/阿里等互联网科技及存储链)。AI板块高位回吐与市场结构拥挤，意味着持仓短期波动加大；对小米等可考虑回调中分批用sell put承接，但需留意情绪未稳。",
-      "source": "新浪财经",
-      "verified": true,
+      "title": "（存疑·待核）美联储6月连续第四次维持利率3.50%-3.75%，但5月PCE通胀再度走高；高盛认为7月加息概率约50%",
+      "summary": "美联储在新任主席沃什主持的6月FOMC会议上全票通过维持基准利率3.50%-3.75%不变——连续第四次暂停。然而5月PCE物价指数同比涨幅创2023年10月以来新高，核心PCE持续高于2%目标。据报道高盛认为7月加息概率约50%，点阵图显示近半数委员支持年内加息。具体PCE数字待BEA一级公告核对。",
+      "why": "加息预期升温是港股H1最差表现的根源，若7月真加息将进一步压制小米、腾讯等高成长港股估值；美国核心通胀再抬头对全部权益资产均形成再定价压力；sell put策略须确保行权价低于当前支撑区、并在财报季前控制总敞口。",
+      "source": "第一财经",
+      "verified": false,
       "keywords": [
-        "恒生指数",
-        "恒生科技",
-        "小米",
-        "智谱",
-        "港股"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-23/doc-iniekvat8767276.shtml"
-    },
-    {
-      "id": "fe2e7314f278",
-      "is_new": true,
-      "first_seen": "2026-06-23",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "昨 夜盘",
-      "group": "大盘头条",
-      "title": "全球科技股抛售由亚洲蔓延至欧洲、纳斯达克100期货6月23日盘中跌约2.1%：利率与AI估值担忧叠加获利回吐，全球芯片股普遍承压",
-      "summary": "6月23日亚洲时段，AI投资狂热出现退潮迹象，纳斯达克100期货盘中下跌约2.1%，科技股抛售风潮从亚洲(韩、日、港)蔓延至欧洲。市场担忧人工智能板块估值过高、以及美国借贷成本可能进一步上升，叠加前期大涨后的获利了结，全球芯片股普遍大幅下挫。",
-      "why": "关乎全部AI/半导体持仓(英伟达、美光、闪迪、SK海力士等)与高估值科技股。这是一次跨市场的风险偏好收缩、而非单一公司利空——对sell put策略意味着行权价应留更大安全垫，并提防隔夜美股低开。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "纳斯达克",
-        "芯片股",
-        "AI",
+        "美联储",
         "利率",
-        "获利回吐",
-        "英伟达"
+        "PCE",
+        "通胀",
+        "加息",
+        "FOMC"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/summary/2026-06-23/doc-iniekvas1973628.shtml"
+      "url": "https://www.yicai.com/news/103244923.html",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     },
     {
-      "id": "0fd4b61049ec",
-      "is_new": true,
-      "first_seen": "2026-06-23",
+      "id": "09c2814f4d0d",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
+        "US",
         "HK"
       ],
-      "time": "13:30",
+      "time": "06-24",
       "group": "个股",
-      "title": "SK海力士6月23日领跌韩股、盘中重挫逾10%并推动KOSPI触发熔断：存储龙头从高位急速回吐，市场聚焦本周美光财报",
-      "summary": "6月23日SK海力士盘中跌幅一度超过10%，与三星电子同为当日韩股暴跌的主要推手、并促使KOSPI触发熔断。在AI/存储板块此前大幅上涨后，资金获利了结叠加估值担忧引发剧烈回调，市场目光转向本周晚些时候公布业绩的美光科技。",
-      "why": "直接持仓相关：投资者经由南方两倍做多SK海力士(7709.HK)等杠杆工具持有该标的，杠杆ETF会放大此类单日波动。短期波动率飙升下，若沿用sell put承接须显著下移行权价、控制仓位，等待美光财报指引与情绪企稳。",
-      "source": "新浪财经",
+      "title": "SK Hynix plans Nasdaq ADR listing as early as July 10, targeting ~$29.65 billion; funds for HBM fab expansion and ASML EUV acquisition",
+      "summary": "SK Hynix, the world's second-largest memory chipmaker and dominant HBM supplier (~60% market share), confirmed plans to list American Depositary Receipts on Nasdaq as early as July 10, 2026, targeting 17.79 million new shares and proceeds of ~45.5 trillion KRW (~$29.65 billion). Underwriters: BofA, Citi, Goldman Sachs, J.P. Morgan. Proceeds earmarked for new fab construction in South Korea and acquisition of ASML extreme ultraviolet scanners.",
+      "why": "SK Hynix美股ADR上市将吸引大量美国机构投资者、大幅提升国际可见度，间接利好南方两倍做多SK海力士(7709.HK)等港股工具的估值重估；融资29.65亿用于HBM产能，长期保障英伟达Rubin平台供应链安全；本周有7/10上市事件驱动。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
         "SK海力士",
         "SK Hynix",
         "7709.HK",
-        "南方两倍做多",
         "HBM",
-        "存储芯片"
+        "纳斯达克",
+        "ADR"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-iniekknw2110857.shtml"
+      "url": "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     },
     {
-      "id": "4c2dd15c4642",
+      "id": "abf5520aa484",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06-24 盘后",
+      "group": "个股",
+      "title": "Micron Q3 FY2026: revenue $41.46B (+346% YoY), EPS $25.11 — both records; 16 take-or-pay deals lock $100B minimum revenue; HBM4 in HVM for Nvidia Rubin",
+      "summary": "Micron reported fiscal Q3 2026 revenue of $41.46 billion (+346% YoY, beat by ~$6B vs. consensus), non-GAAP EPS $25.11 (beat $20.28 est.), adjusted operating margin 81.2%. Most structurally significant: 16 strategic take-or-pay customer agreements lock in approximately $100 billion in minimum contracted revenue and $22 billion in upfront cash — a structural break from the industry's historic boom-bust cycle. HBM4 entered high-volume production for Nvidia's Vera Rubin platform; HBM products remain fully booked through at least 2027.",
+      "why": "美光（持仓标的）财报大幅超预期，1000亿合同锁定收入大幅降低周期波动风险，为sell put提供强力基本面锚定；HBM4与Rubin绑定是长期价值护城河；闪迪(SNDK)和SK海力士同属存储赛道，受整体叙事支撑。隐含波动率财报后可能回落，sell put时机窗口。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "HBM",
+        "HBM4",
+        "存储芯片",
+        "财报"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
       "is_new": true,
-      "first_seen": "2026-06-23",
-      "tier": 2,
-      "lang": "zh",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "4f794a81d90f",
+      "tier": 1,
+      "lang": "en",
       "markets": [
         "US"
       ],
       "time": "本周",
-      "group": "大盘头条",
-      "title": "（参考·待核）油价从3月逾百美元高位大幅回落、本周布伦特稳定在每桶约78美元一线：美伊局势与霍尔木兹海峡通行成主要扰动",
-      "summary": "经历2026年3月霍尔木兹危机时布伦特一度冲上约118–120美元后，随着美伊谈判进展、伊朗供应回流与海峡通行逐步恢复，油价已大幅回落，本周稳定在每桶约78美元附近。不过黎巴嫩等地缘摩擦与谈判反复仍带来双向扰动。（多源数字存在出入，具体价位待回主源核对。）",
-      "why": "能源价格回落整体利好通胀与消费类持仓(海底捞、美团、携程、麦当劳等)、并降低航空旅行成本利好携程；但地缘反复仍是大盘尾部风险来源。",
-      "source": "Al Jazeera",
+      "group": "个股",
+      "title": "Tesla FSD V14 Lite rolls out to Hardware 3 owners, stock surges >8% in best single day in over a year; Q2 deliveries seen below consensus at ~393K; earnings July 22",
+      "summary": "Tesla shares surged over 8% to close at $411.84 — their best single-day performance in more than a year — driven by the rollout of Full Self-Driving V14 Lite to early-access Hardware 3 owners. On the delivery front, Baird projects Q2 deliveries of ~392,900 units, below street consensus, though Cantor sees Q2 energy storage beating at 15.7 GWh vs. 13.9 GWh consensus. Tesla is scheduled to report Q2 earnings on July 22, 2026 after market close. Cantor calls 2026 a 'transformational year' for Tesla's shift into autonomy, robotics and chips.",
+      "why": "特斯拉（持仓标的）FSD V14推出是自动驾驶商业化里程碑，可能触发新一轮估值重估；8%单日涨幅显著抬升隐含波动率，对已有sell put的持仓须审查行权价安全边际；7/22财报是Q2关键催化剂，交付低预期与储能超预期将形成复杂叙事，建议在财报前适当管理期权敞口。",
+      "source": "Yahoo Finance",
       "verified": false,
       "keywords": [
-        "油价",
-        "布伦特",
-        "霍尔木兹",
-        "伊朗"
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "FSD",
+        "自动驾驶",
+        "Q2交付",
+        "财报"
       ],
       "translated": false,
-      "url": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-q2-deliveries-may-miss-050046840.html",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     },
     {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "凌晨(6/22)",
-      "group": "大盘头条",
-      "title": "美伊瑞士谈判6月22日凌晨突然暂停、风险重燃：伊朗代表团抗议特朗普“再狠打伊朗”威胁言论中途离场、暂停已进行约80分钟的会谈，并放话——除非特朗普就威胁道歉且以军撤出黎巴嫩南部、否则不重返谈判桌；卡塔尔与巴基斯坦持续斡旋，国际油价盘中跳涨约2%",
-      "summary": "据澎湃新闻、新浪财经等报道，6月22日凌晨美伊在瑞士Bürgenstock的谈判突生波折：因特朗普21日在社媒警告伊朗立即停止在黎巴嫩的“代理人”行动、否则将“再次、更狠地打击伊朗”，伊朗代表团向美方提出抗议并离场，暂停了已进行约80分钟的会谈、转入内部磋商。黎巴嫩“广场”电视台称伊方态度明确：除非特朗普就威胁言论道歉、且以色列军队撤出黎巴嫩南部，否则代表团不会重返谈判桌。卡塔尔与巴基斯坦仍在通过中间方持续斡旋。受谈判暂停拖累，国际油价盘中跳涨约2%、避险情绪回升。",
-      "why": "牵动三市整体beta的头号地缘变量再生变数：在6/22白天“路线图达成一致”的乐观后，凌晨谈判骤停、油价反弹，对港/美/A科技与消费持仓估值与今日风险偏好偏负面、并抬升输入型通胀担忧。地缘溢价反复令IV高位震荡，sell put宜压低行权价、分批布局，不在消息反复中追涨或恐慌接货；本周五核心PCE前更宜控制仓位。",
-      "source": "澎湃新闻 / 新浪财经 / 中华网(谈判暂停与各方表态为多源报道；油价跳涨为盘中公开行情)",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "Bürgenstock",
-        "谈判暂停",
-        "黎巴嫩",
-        "真主党",
-        "道歉",
-        "特朗普",
-        "油价",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
-      "id": "2bdf3974f323",
-      "is_new": false,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "收盘(6/22)",
-      "group": "大盘头条",
-      "title": "美股6月22日收盘分化、道指逆势创新高：道指涨约0.29%再刷历史高位，但科技股领跌——纳指跌约1.32%、标普500跌约0.37%；谷歌跌约5%、亚马逊跌约4.8%(逾4个月最大单日跌幅)、SpaceX上市后跌约16%",
-      "summary": "6月22日(周一)美股三大指数收盘涨跌分化：道琼斯指数涨约0.29%、再创历史新高，但大型科技股集体走弱拖累成长指数——纳斯达克指数跌约1.32%、标普500指数跌约0.37%。个股层面，谷歌(Alphabet)跌约5%、领跌大型科技股；亚马逊跌约4.8%、创2月初以来最大单日跌幅；新近上市的SpaceX较上市价跌约16%。市场在美伊谈判反复、本周五核心PCE临近与沃什转鹰路径之间权衡，资金从高估值科技向道指权重切换。",
-      "why": "覆盖美股科技与零售持仓(英伟达/特斯拉/谷歌/Palantir/美光/英特尔/好市多/沃尔玛等)：道指创新高但科技股领跌，显示资金高低切换、对高估值成长偏谨慎。本周核心PCE与鹰派Fed路径压制估值，事件/数据前IV抬升，对以sell put为主的策略是逢回踩关键支撑、压低行权价收权利金的窗口，PCE落地前不宜重仓押方向。",
-      "source": "东方财富 / 财联社(美股三大指数收盘与个股涨跌为公开市场数据)",
-      "verified": true,
-      "keywords": [
-        "道指",
-        "纳斯达克",
-        "标普500",
-        "美股",
-        "谷歌",
-        "亚马逊",
-        "SpaceX",
-        "核心PCE",
-        "美联储"
-      ],
-      "translated": false,
-      "url": "https://finance.eastmoney.com/a/202606223778235349.html",
-      "id": "059ceee16b35",
-      "is_new": false,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "收盘(6/22)",
-      "group": "个股",
-      "title": "谷歌(GOOGL/GOOG)6月22日跌约5%、市值蒸发约2200亿美元，遭遇近一年最惨一跌：诺奖得主、AlphaFold之父John Jumper离职加盟Anthropic；叠加上周Gemini核心、Transformer论文作者Noam Shazeer转投OpenAI，三天连失两员AI大将引人才流失担忧",
-      "summary": "据财联社、新浪财经、第一财经报道，谷歌母公司Alphabet 6月22日股价跌约5%、单日市值蒸发约2200亿美元，为近一年来最大单日跌幅。导火索是谷歌DeepMind副总裁、AlphaFold之父、2024年诺贝尔化学奖得主John Jumper上周宣布离职、加盟Anthropic；此前数日，DeepMind工程副总裁、Gemini核心负责人、2017年Transformer论文(《Attention Is All You Need》)核心作者之一Noam Shazeer亦宣布离职转投OpenAI。三天内连失两位传奇科学家，市场担忧谷歌在AI军备竞赛中的人才壁垒松动，OpenAI、Anthropic“左右开弓”挖角。",
-      "why": "谷歌为美股核心科技持仓(GOOGL/GOOG)。顶级AI人才连续流失叠加单日重挫，是对其AI护城河与Gemini竞争力叙事的实质性冲击、而非纯情绪，短期估值与多空逻辑承压。急跌后IV抬升、权利金诱人，但人才流失的基本面影响待观察，sell put宜压低行权价、分批布局，不在恐慌急跌中裸接，关注后续人才与Gemini产品进展。",
-      "source": "财联社 / 新浪财经 / 第一财经(股价与离职为多源报道，市值蒸发为公开行情测算)",
-      "verified": true,
-      "keywords": [
-        "谷歌",
-        "Google",
-        "Alphabet",
-        "GOOGL",
-        "GOOG",
-        "DeepMind",
-        "John Jumper",
-        "AlphaFold",
-        "Noam Shazeer",
-        "Anthropic",
-        "OpenAI",
-        "AI人才"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/2406087",
-      "id": "09dddc9081a5",
-      "is_new": false,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周一(6/22)",
-      "group": "大盘头条",
-      "title": "美伊6月22日就最终协议路线图达成一致、并设机制结束黎巴嫩军事行动：卢塞恩湖畔Bürgenstock通宵磋商后双方同意60天内敲定最终协议、组建委员会推进黎巴嫩停火去冲突，伊外长阿拉格齐称取得“重大进展”——含石油及石化出口制裁豁免、解除港口封锁、释放部分冻结资产并启动重建计划；油价应声回落、布伦特跌约2%失守79美元",
-      "summary": "据CNBC、NBC等报道，美伊6月22日(周一)在瑞士卢塞恩湖畔Bürgenstock经通宵磋商后，就通往最终协议的路线图达成一致，并同意设立委员会与机制以结束在黎巴嫩的军事行动(去冲突)；技术磋商本周继续，目标60天内敲定最终协议。伊朗外长阿拉格齐称会谈取得“重大进展”，德黑兰已获石油及石化产品出口的制裁豁免、港口封锁解除、释放部分境外冻结资产并启动重建与发展计划；核问题等留待后续。受路线图进展推动，国际油价回落——布伦特抹去早盘涨幅、跌约2%至每桶79美元下方，WTI回落至约75美元，美股标普500期货收窄至跌约0.4%。",
-      "why": "牵动三市整体beta的头号地缘变量再获正向进展：路线图落地、黎巴嫩去冲突机制成形，油价回落缓解输入型通胀，对港/美/A科技与消费持仓估值偏正面并支撑风险偏好。但框架仍属初步、核问题未决，叠加特朗普此前强硬表态，仍存再生变尾部风险；本周四核心PCE临近，事件/数据前IV高位，sell put宜压低行权价、分批布局，不在消息反复中追高。",
-      "source": "CNBC / NBC News(路线图与黎巴嫩去冲突机制) / Yahoo Finance(油价与美股期货)",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "Bürgenstock",
-        "路线图",
-        "黎巴嫩",
-        "去冲突",
-        "阿拉格齐",
-        "Araghchi",
-        "制裁豁免",
-        "油价",
-        "布伦特",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html",
-      "id": "861584da7020",
-      "is_new": false,
-      "first_seen": "2026-06-22"
-    },
-    {
-      "id": "afe66ce4d253",
-      "is_new": false,
-      "first_seen": "2026-06-22",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周日(6/21)",
-      "group": "大盘头条",
-      "title": "美伊瑞士Bürgenstock首轮正式谈判6月21日顺利结束、转入下一阶段：万斯领衔美方与伊朗代表团会谈，卡塔尔/巴基斯坦斡旋方称取得“鼓舞人心的进展”；据披露草案框架含豁免伊朗石油出口制裁、分阶段释放约250亿美元冻结资产、重开霍尔木兹与60天停火窗口，但当日早些时候特朗普曾威胁因真主党“再狠打伊朗”、谈判一度濒临破裂",
-      "summary": "据CNN、福克斯、CBS、ABC等多源6月21日报道，美伊在卢塞恩湖畔Bürgenstock的首轮高级别正式谈判当日顺利结束并转入下一阶段——由副总统万斯领衔、特使威特科夫与库什纳参与，与伊朗代表团会谈，卡塔尔、巴基斯坦任斡旋方，各方称取得“鼓舞人心的进展”。据伊朗方面及Middle East Eye/GMA等披露的草案文本，框架包括美方对伊朗石油及衍生品出口发放制裁豁免(含银行、保险、运输等配套)、分阶段释放约250亿美元伊朗境外冻结资产、重开霍尔木兹海峡商业通行，并维持自6月17日生效MoU的60天停火与最终谈判倒计时；伊朗核问题(浓缩铀水平与高浓铀库存)留待后续磋商。不过当日早些时候特朗普曾就黎巴嫩真主党问题威胁“将再次、更狠地打击伊朗”，伊方首席谈判代表称军队“已准备好回应”，谈判一度濒临破裂。",
-      "why": "牵动三市整体beta的头号地缘变量出现关键正向进展：首轮正式谈判落地并推进、油价中枢有望进一步回落，对港/美/A科技与消费持仓估值偏正面，亦支撑今日亚太风险偏好。但框架仍是初步MoU、核问题未决，叠加特朗普强硬表态注入再生变尾部风险。今日(6/22)三市复盘需紧盯定价节奏；地缘溢价反复令IV高位震荡，sell put宜压低行权价、分批布局，不在消息反复中追高。",
-      "source": "CNN / Fox News / CBS News / ABC News(首轮谈判结束与各方表态) / Middle East Eye / GMA News(草案框架细节)",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "Bürgenstock",
-        "万斯",
-        "Vance",
-        "威特科夫",
-        "库什纳",
-        "霍尔木兹",
-        "冻结资产",
-        "制裁豁免",
-        "真主党",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.cnn.com/2026/06/21/world/live-news/iran-war-trump-israel-lebanon"
-    },
-    {
-      "id": "ee544d7fb5ab",
-      "is_new": false,
-      "first_seen": "2026-06-22",
-      "tier": 1,
+      "id": "b04f6d37e2e1",
+      "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "盘中(6/22)",
+      "time": "昨 收盘",
+      "group": "大盘头条",
+      "title": "港交所6月30日发布咨询总结：优化港股每手买卖单位框架，7月2日起第一阶段实施、11月16日全面推行",
+      "summary": "香港交易所6月30日发布咨询总结，宣布优化港股每手买卖单位框架：降低每手价值指引下限、增设上限，并标准化每手股数。分两阶段：第一阶段7月2日起，潜在和现有上市发行人须遵守新指引；第二阶段11月16日起，所有发行人采用标准化股数。此外，6月29日恒生指数收跌1.8%（405点）至22,672，受全球AI/半导体股抛售拖累。",
+      "why": "每手单位优化将降低散户买入门槛、改善港股流动性，对高价成份股（腾讯、老铺黄金等）的换手率有正面影响；恒指周跌1.8%印证上半年弱势延续，持仓估值仍承压。",
+      "source": "港交所 / BBN Times",
+      "verified": true,
+      "keywords": [
+        "港交所",
+        "每手",
+        "港股",
+        "恒生指数",
+        "流动性"
+      ],
+      "translated": false,
+      "url": "https://www.bbntimes.com/companies/hong-kong-stock-exchange-weekly-review-hang-seng-falls-1-8-to-22-672-as-ai-chip-rout-and-ipo-market-uncertainty-overshadow-quarter-end-recovery-hopes",
+      "is_new": true,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "6883faf88f7f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "昨 收盘",
       "group": "个股",
-      "title": "智谱(02513.HK)6月22日盘中狂飙、总市值首破万亿港元：一度涨超40%创历史新高、午间涨约24%报约2594港元，年内涨逾20倍；催化为旗舰GLM-5.2开源登顶(Artificial Analysis综合榜51分、开源模型第一)并推GLM高速版API",
-      "summary": "继6月15日GLM-5.2发布并按MIT开源、6月18日逆市大涨后，“全球大模型第一股”智谱6月22日端午节后复盘再度狂飙：盘中一度涨超40%、触及约2814港元历史新高，总市值首度突破万亿港元；截至午间(约10:24)涨约23.88%报约2594港元、总市值约1.16万亿港元，年内累计涨逾20倍(超1900%)。催化包括GLM-5.2在Artificial Analysis综合榜以51分登顶开源模型第一、并向部分企业客户推出输出达约400 tokens/s的GLM高速版API。(盘中实时数据、全天以收盘为准)",
-      "why": "智谱是自选清单中的核心AI主题标的，单日市值跨入“万亿俱乐部”、续创新高，显示资金在港股复盘中向稀缺AI龙头高度集中、并带动MINIMAX、滴普科技等大模型与算力链跟涨。波动率与权利金被极度抬高，对偏好sell put的策略意味权利金诱人但接货风险极大、严禁在历史新高位裸接；宜等情绪降温、在关键支撑分批卖put并压低行权价。",
-      "source": "智通财经 / 雪球 / 网易财经(盘中涨幅与市值为公开行情数据、盘中约数) / Artificial Analysis榜单",
+      "title": "腾讯6月30日回购120万股、耗资约5.006亿港元（均价约417港元/股）；下次业绩披露预计8月19日",
+      "summary": "根据港交所披露易（Next Day Disclosure Return）文件，腾讯控股（0700.HK）于6月30日在场内回购并注销约120万股股份，耗资约5.006亿港元，均价约417港元/股。腾讯年内持续推进大规模股份回购计划，不断缩减流通股本。下次季度业绩披露预计为2026年8月19日。",
+      "why": "持续且大额的回购是腾讯最明确的内在价值认可信号，直接支撑股价下限；对sell put策略，公司在约417港元附近主动回购意味着其自身锚定的安全价格，行权价可考虑设在此区间附近；下次财报8/19前仍有约七周窗口期。",
+      "source": "港交所HKEX披露易",
       "verified": true,
       "keywords": [
-        "智谱",
-        "02513",
-        "GLM-5.2",
-        "大模型",
-        "万亿市值",
-        "开源",
-        "恒生科技",
-        "AI"
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "回购",
+        "股本"
       ],
       "translated": false,
-      "url": "https://www.163.com/dy/article/L0180OTK05199NPP.html"
+      "url": "https://www.hkexnews.hk/listedco/listconews/SEHK/2026/0630/2026063001543.pdf",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     },
     {
-      "id": "90ecc288c6ea",
-      "is_new": false,
-      "first_seen": "2026-06-22",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周日(6/21)",
-      "group": "大盘头条",
-      "title": "美伊首轮正式谈判6月21日在瑞士Bürgenstock如期举行：副总统万斯偕特使威特科夫、库什纳与伊朗代表团会谈、卡塔尔与巴基斯坦斡旋，万斯称“已取得重大进展”；但特朗普同日放狠话——警告伊朗勿封锁霍尔木兹“敢封就没有国家了”、并威胁因黎巴嫩真主党“再狠狠打击伊朗”，谈判气氛转紧",
-      "summary": "继6月19日技术磋商一度被取消后，美伊首轮正式谈判于6月21日(周日)在卢塞恩湖畔Bürgenstock度假村如期举行：美国副总统万斯偕白宫特使威特科夫(Witkoff)、库什纳(Kushner)与由伊朗议长卡利巴夫率领的代表团会谈，卡塔尔、巴基斯坦任斡旋方。万斯对记者称“过去几小时已取得重大进展，预计后续还会有更多进展”，BBC等亦报道其乐观表态。但特朗普周日同步施压：在福克斯访谈中称已隔夜与伊朗方面通话、警告勿封锁霍尔木兹海峡“你敢封锁，就不会再有国家了”，并发文威胁若伊朗不约束在黎巴嫩的真主党“代理人”将“像上周一样、只会更狠地再次打击伊朗”，令谈判气氛转紧。以色列总统赫尔佐格称对黎和平持开放态度但须遏制伊朗与真主党影响。",
-      "why": "牵动三市整体beta的头号地缘变量出现关键正向进展——首轮正式谈判落地且万斯称“重大进展”，若停火延长与霍尔木兹重开兑现，利好油价回落与风险偏好修复，对港/美/A科技与消费持仓估值偏正面；但特朗普“封海峡就灭国”“再打伊朗”的强硬表态注入再生变尾部风险。今日(6/22)港A美三市休假后复盘，需紧盯开盘对周末进展的定价；地缘溢价反复令IV高位震荡，sell put宜压低行权价、分批布局，不在消息反复中追高。",
-      "source": "Al Jazeera / Fox News / BBC News / ABC News / MSNBC(多源报道首轮谈判与各方表态)",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "Bürgenstock",
-        "万斯",
-        "Vance",
-        "威特科夫",
-        "库什纳",
-        "霍尔木兹",
-        "真主党",
-        "特朗普",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon"
-    },
-    {
-      "id": "b08c5f606142",
-      "is_new": false,
-      "first_seen": "2026-06-21",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周日",
-      "group": "大盘头条",
-      "title": "美伊瑞士Bürgenstock谈判被取消：瑞士外交部确认原定会谈不举行、副总统万斯退出赴瑞行程称“技术磋商后勤未敲定”，伊朗要求以色列先停止在黎巴嫩对真主党的军事行动；落实结束战争协议再生变数",
-      "summary": "继6月19日首轮会谈延期后，原拟在瑞士Bürgenstock度假地举行的美伊技术磋商被取消。白宫称副总统万斯已不再赴瑞士，“后续技术磋商安排尚未最终确定……谈判后勤从来都不简单、不可预测”；据报伊朗要求以色列先停止在黎巴嫩对真主党的军事行动作为条件。CNBC称瑞士签约取消、协议落实遇早期挫折；与此同时以色列-真主党停火与霍尔木兹海峡通行仍在维持。",
-      "why": "中东和谈再生波折直接牵动油价与全球风险偏好，关系港/美/A三市整体情绪与本周(6/22起)开盘走向；地缘不确定性升高时隐含波动率多抬升，对sell put择时与收权利金有利但须防尾部风险。当日为周末、三市休市，重大头条偏少，此为最主要新进展。",
-      "source": "Times of Israel / CNBC / Fox News / SWI swissinfo",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "霍尔木兹",
-        "Bürgenstock",
-        "万斯",
-        "停火"
-      ],
-      "translated": false,
-      "url": "https://www.timesofisrael.com/liveblog_entry/switzerland-confirms-planned-us-iran-talks-today-in-burgenstock-canceled/"
-    },
-    {
-      "id": "7e4b56fa0506",
-      "is_new": false,
-      "first_seen": "2026-06-21",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周六",
-      "group": "大盘头条",
-      "title": "伊朗6月20日再宣称“封锁霍尔木兹海峡”、美方否认：美军CENTCOM称当日55艘商船、逾1700万桶原油正常过峡，万斯称单日约1600万桶通行创战前以来纪录；油市风险重燃、为周日美伊谈判蒙阴影",
-      "summary": "伊朗联合作战指挥部以以色列在黎巴嫩持续军事行动、美方“未守停火框架承诺”为由，6月20日宣称关闭霍尔木兹海峡并警告船只远离；美军中央司令部发言人Tim Hawkins对路透回应“伊朗并不控制霍尔木兹海峡，通行照常”，称当日55艘商船、逾1700万桶原油正常通过，副总统万斯称前一日约1600万桶过峡“创冲突前以来纪录”。双方就海峡状态各执一词。",
-      "why": "霍尔木兹通行与油价直接牵动全球风险偏好与通胀路径；若周末谈判破裂或封锁坐实，下周油价或高开、避险升温，压制港A股科网与消费持仓、抬升隐含波动率（卖put方留意权利金补偿是否够厚）。",
-      "source": "CNBC / Bloomberg / Reuters / CNN / Al Jazeera；美军CENTCOM(官方回应)",
-      "verified": true,
-      "keywords": [
-        "霍尔木兹",
-        "美伊",
-        "油价",
-        "CENTCOM"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html"
-    },
-    {
-      "id": "bca03b99acaf",
-      "is_new": false,
-      "first_seen": "2026-06-21",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周日",
-      "group": "大盘头条",
-      "title": "美伊正式谈判定于6月21日(周日)在瑞士Bürgenstock开启：副总统万斯领衔美方、库什纳与威特科夫已先期抵瑞处理技术细节、卡塔尔总理在场斡旋；伊朗由议长卡利巴夫与外长阿拉格齐带队，60天倒计时谈最终协议",
-      "summary": "继6月19日技术磋商因黎巴嫩战火推迟后，美方确认万斯飞抵瑞士、谈判于周日在卢塞恩湖畔Bürgenstock度假村重启。万斯称“库什纳与威特科夫已落地数小时、正处理技术环节”，全面会谈最快当日展开；卡塔尔、巴基斯坦任斡旋方，双方须在60天停火窗口内敲定最终协议。",
-      "why": "谈判结果决定中东停火与油价中枢的可持续性——达成则风险资产延续修复、利好科网与消费持仓；破裂则避险与油价反弹。属影响三市整体beta的头号事件，需紧盯周日及下周一开盘反应。",
-      "source": "Axios / NPR / CNN / Times of Israel / Fox News(报道行程与日程)",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "和谈",
-        "瑞士",
-        "万斯"
-      ],
-      "translated": false,
-      "url": "https://www.axios.com/2026/06/19/iran-talks-switzerland-witkoff-vance"
-    },
-    {
-      "id": "898ac48cac88",
-      "is_new": false,
-      "first_seen": "2026-06-20",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周六(6/20)",
-      "group": "大盘头条",
-      "title": "美伊核谈周末暂缓、改由威特科夫与库什纳赴瑞士救场；以色列与真主党6月19日重续停火但6月20日即生变——真主党隔夜向以军发射逾50枚弹体、以军空袭南黎巴嫩纳巴蒂耶致至少16死",
-      "summary": "据PBS、NBC、CNN、以色列时报(6/20直播)、彭博等多源报道：美伊为给6月17日已签署的结束战争MoU补充细节而拟在瑞士举行的技术磋商周末暂缓——白宫推迟副总统万斯赴瑞行程、归因于\"谈判后勤从来不简单且难以预料\"，伊朗代表团亦未如期赴瑞、坚持以色列须先停止在黎巴嫩对真主党的打击;但美方特使威特科夫(Steve Witkoff)已启程赴瑞士、库什纳(Jared Kushner)预计同行，试图让技术磋商重回正轨。导火索的黎巴嫩战事仍在反复:以色列与真主党6月19日在周五以军空袭致黎方约47人死亡(三月冲突以来次高单日死亡)后重续停火，但停火翌日(6/20)即生变——真主党隔夜向南黎以军阵地发射逾50枚弹体，以军随即空袭，黎巴嫩民防称纳巴蒂耶地区空袭已致至少16死。6月17日生效的MoU与60天最终谈判倒计时仍维持。",
-      "why": "牵动周一(6/22)港A美三市复盘风险偏好的最大地缘变量周末再现\"进两步退一步\":一方面威特科夫/库什纳接力赴瑞、谈判框架未破，霍尔木兹重开与油价回落的中期利好(对高估值科技与港A消费/科网持仓估值偏正面)仍在;另一方面黎巴嫩停火翌日即被打破、技术磋商一再推迟，再生变尾部风险升温。三市本周五均休市、周末无法定价，需留意开盘跳空与情绪。地缘溢价整体消退令IV趋降、sell put权利金收窄但接货环境改善;不确定性回升时宜压低行权价、分批布局，不在消息反复中追高。",
-      "source": "PBS NewsHour / NBC News / CNN / Times of Israel(6/20直播) / Bloomberg",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "核谈",
-        "威特科夫",
-        "Witkoff",
-        "库什纳",
-        "Kushner",
-        "万斯",
-        "以色列",
-        "黎巴嫩",
-        "真主党",
-        "停火",
-        "纳巴蒂耶",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.pbs.org/newshour/world/israel-and-hezbollah-renew-ceasefire-after-u-s-and-iran-call-off-talks-over-fighting-in-lebanon"
-    },
-    {
-      "id": "4df37e6640db",
-      "is_new": false,
-      "first_seen": "2026-06-20",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周五(6/19)夜",
-      "group": "大盘头条",
-      "title": "美伊磋商周末再延但路径渐明：双方谈判代表已就延长停火、重启核谈达成临时安排，副总统万斯称仍计划周末赴瑞士，伊朗代表团因以色列在黎巴嫩行动迟迟未定",
-      "summary": "据PBS、NBC、The Hill等报道，原定6月19日在瑞士Bürgenstock举行的美伊执行性技术磋商周四晚被推迟后，双方谈判代表已就延长停火并启动新一轮核谈达成临时安排；白宫称副总统万斯仍计划周末成行、但行程与会期均未最终敲定，伊朗方面因以色列持续在黎巴嫩的军事行动而推迟派团。6月17日数字签署的结束战争MoU仍生效，60天最终谈判倒计时持续。",
-      "why": "中东降级路径若延续将压制油价、利好风险资产与港A股估值修复；但执行反复带来短期波动，高隐含波动下适合卖出看跌期权。",
-      "source": "PBS NewsHour / NBC News",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "停火",
-        "核谈",
-        "霍尔木兹",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks"
-    },
-    {
-      "id": "85ac320e14ed",
-      "is_new": false,
-      "first_seen": "2026-06-19",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周五(6/19)",
-      "group": "大盘头条",
-      "title": "美伊和谈遇首个挫折：原定6月19日在瑞士Bürgenstock的美伊技术磋商被推迟——瑞士外交部证实美/伊/卡塔尔/巴基斯坦四方会谈延期、伊朗因以色列在黎巴嫩军事行动迟迟未派团，副总统万斯取消赴瑞行程；但6月17日已数字签署的结束战争MoU仍生效、60天倒计时已启动",
-      "summary": "据半岛电视台、路透、CBS、以色列时报等多源报道，瑞士外交部6月19日(周五)清晨证实，原定当天在卢塞恩湖畔Bürgenstock举行的美/伊/卡塔尔/巴基斯坦四方技术磋商已被推迟，瑞方称\"已做好继续斡旋准备、Bürgenstock的筹备工作仍在进行\"，但未给出新日期；推迟主因系伊朗因以色列在黎巴嫩的军事行动迟迟未派出代表团。原拟代表美方出席的副总统万斯已取消赴瑞行程。不过，结束战争的谅解备忘录(MoU)已于6月17日(周三)由美伊双方数字签署并生效，开启为期60天的最终谈判倒计时；这是协议落地后的首个执行性挫折。",
-      "why": "牵动全仓风险偏好的最大地缘变量出现首个执行性波折：MoU已生效、霍尔木兹重开方向不变(中期对美股/港股/A股科技与消费持仓估值偏正面)，但技术磋商推迟叠加以色列在黎巴嫩再起冲突，重新注入再生变尾部风险。本周五港股/A股(端午)与美股(Juneteenth)均休市、下周一(6/22)才复盘——需留意周末地缘进展与开盘情绪；地缘溢价虽消退令IV趋降、sell put权利金收窄，但不确定性回升时宜压低行权价、分批布局，不在消息反复中追高。",
-      "source": "Al Jazeera / Reuters(经Rappler) / CBS News / Times of Israel / 瑞士外交部(官方声明)",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "Bürgenstock",
-        "推迟",
-        "霍尔木兹",
-        "Hormuz",
-        "MoU",
-        "以色列",
-        "黎巴嫩",
-        "万斯",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.aljazeera.com/news/2026/6/19/us-iran-talks-postponed-as-israel-attacks-lebanon"
-    },
-    {
-      "id": "4cfc11edbbb5",
-      "is_new": false,
-      "first_seen": "2026-06-19",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "美东周四 / 今日签署",
-      "group": "大盘头条",
-      "title": "美伊结束战争协议进入兑现：特朗普与佩泽什基安6月17日签署谅解备忘录、6月18日美军(CENTCOM)解除对伊朗港口及霍尔木兹海峡海上封锁(伊朗承诺60天内商船免费通行)，6月19日瑞士Bürgenstock举行正式签署仪式",
-      "summary": "美伊结束战争的谅解备忘录(MoU)进入兑现阶段：据CNBC/NBC/PBS，特朗普与伊朗总统佩泽什基安已于6月17日签署旨在结束美伊战争的MoU；6月18日美军中央司令部(CENTCOM)宣布按特朗普指令解除对伊朗港口及沿海(含霍尔木兹海峡)的海上封锁，伊朗须在60天内允许商船免费过境霍尔木兹。瑞士外交部确认，正式签署仪式于6月19日(周五)在卢塞恩湖畔Bürgenstock度假村举行，卡塔尔与巴基斯坦代表在场。封锁解除推动油价进一步走低。",
-      "why": "牵动全仓风险偏好的最大地缘变量正式落地兑现：霍尔木兹重开、封锁解除令油价回落、缓解输入型通胀，对美股/港股/A股科技与消费持仓的中期估值偏正面。但利好与隔夜美联储鹰派转向(年内或加息)相互对冲——地缘溢价消退令IV趋降、sell put权利金收窄但接货环境改善；宜结合利率路径，在回踩关键支撑分批卖put、不在消息兑现的情绪高点追高。",
-      "source": "CNBC / NBC News / PBS NewsHour / 美军CENTCOM(官方) / 瑞士外交部(官方)",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "霍尔木兹",
-        "Hormuz",
-        "封锁",
-        "CENTCOM",
-        "Bürgenstock",
-        "签署",
-        "油价",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/18/us-navy-blockade-iran-trump-oil.html"
-    },
-    {
-      "id": "d13e1ed363b3",
-      "is_new": false,
-      "first_seen": "2026-06-19",
-      "tier": 1,
-      "lang": "zh",
+      "id": "e7ae56c2cf14",
+      "tier": 2,
+      "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "美东周四盘中",
+      "time": "本周",
       "group": "个股",
-      "title": "英特尔(INTC)6月18日盘中飙涨约10%：特朗普在Truth Social称“苹果已同意与英特尔合作、在美国设计并制造其芯片”(苹果/英特尔均未官方确认)；同日英特尔18A-P进入风险试产",
-      "summary": "据CNBC/Tom's Hardware/9to5Mac等报道，英特尔(INTC)6月18日股价大涨约10%(过去12个月累计涨约464%、市值约6087亿美元)，导火索是特朗普在Truth Social发文称“苹果已同意与英特尔合作、在美国设计并制造其芯片”，并将其框定为美国政府助推的本土芯片制造复兴。若属实，拿下苹果将是对英特尔代工(foundry)转型最有力的背书；美银(BofA)估其对外代工机会到2030年价值逾450亿美元。另据英特尔官方，其18A家族首个性能增强版18A-P已进入风险试产(同性能下功耗较18A低约18%)。但苹果与英特尔对此均未置评、未确认达成最终协议。",
-      "why": "英特尔为持仓标的。若苹果代工合作落地，将实质验证英特尔代工转型与先进制程(18A/18A-P)竞争力、改写其估值与多空逻辑，并对台积电(TSM)构成潜在份额扰动；但目前消息仅源自特朗普社媒发文、两家公司均未确认，确定性存疑。股价已急涨约10%、隐含波动率高，sell put宜压低行权价、等两家公司官方确认与条款落定再评估，不在传闻驱动的急涨中追高。",
-      "source": "CNBC / Tom's Hardware / 9to5Mac / CNN Business(报道股价与特朗普发文)；英特尔官方(18A-P风险试产)；苹果-英特尔合作据特朗普Truth Social发文，两家公司均未确认",
+      "title": "Intel 18A-P node enters initial production; preliminary Apple foundry deal reported; Alphabet and Nvidia also evaluating Intel as chip manufacturer; INTC +169% YTD",
+      "summary": "Intel announced its 18A-P process node — an advanced performance variant of 18A — has entered initial production. WSJ/CNBC reported a preliminary agreement with Apple for Intel Foundry Services to manufacture some Apple Silicon chips (initial shipments not until Q2/Q3 2027). Reports of Google and Nvidia evaluating Intel as backup AI chip manufacturer triggered additional stock gains. Intel shares are up approximately 169% year-to-date, with the foundry turnaround thesis gaining broad validation from Apple, Alphabet, and Microsoft orders.",
+      "why": "英特尔（持仓标的）同时获得苹果、谷歌、英伟达三大科技巨头验证是代工转型叙事的历史性拐点，是近十年最强基本面改善信号；但Apple首批芯片出货在2027年，短期财务贡献有限；当前股价已在169% YTD涨幅高位，sell put时须注意预期充分定价后的回调风险。",
+      "source": "Yahoo Finance / CNBC",
       "verified": false,
       "keywords": [
         "英特尔",
         "Intel",
         "INTC",
-        "苹果",
-        "Apple",
-        "代工",
-        "foundry",
         "18A",
-        "18A-P",
-        "特朗普"
+        "代工",
+        "Foundry",
+        "苹果",
+        "谷歌"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-begins-production-of-anticipated-18a-p-chips-as-ai-continues-to-drive-cpu-demand-210000103.html",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     },
     {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "收盘",
-      "group": "个股",
-      "title": "智谱(02513.HK)6月18日逆市大涨26.14%创历史新高：收报约2091港元、市值升至约9336亿港元，成大盘普跌中的最强主线",
-      "summary": "在恒指、恒生科技集体下挫的背景下，“全球大模型第一股”智谱6月18日逆势大涨约26.14%，收报约2091港元创历史新高，总市值升至约9336亿港元，是当日港股最抢眼的逆市主线；半导体、医药生物板块同步走强。智谱上市以来市值持续放大，市场延续对其GLM系列大模型商业化与稀缺性的追捧。",
-      "why": "智谱是自选清单中的核心AI主题标的，逆市单日大涨26%、市值逼近万亿，显示资金在科网整体回调中向稀缺AI龙头集中。波动率与权利金被显著抬高，对偏好sell put的策略意味着权利金诱人但接货风险大、追高需谨慎；适合等情绪降温、在关键支撑分批卖put，而非在历史新高位裸接。",
-      "source": "每日经济新闻 / 新浪财经(港股收评，涨跌与市值为公开市场数据)",
-      "verified": true,
-      "keywords": [
-        "智谱",
-        "GLM",
-        "大模型",
-        "恒生科技",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.mrjjxw.com/articles/2026-06-18/4430797.html",
-      "id": "51908ef37b79",
-      "is_new": false,
-      "first_seen": "2026-06-18"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "首尔时间6月18日",
-      "group": "个股",
-      "title": "SK海力士6月18日向主要客户供应12层HBM4E样品：单颗48GB、16Gbps、能效提升超20%，预期搭载英伟达2027年Rubin Ultra，韩股盘中涨近5%创新高",
-      "summary": "SK海力士6月18日（首尔时间）宣布已向主要客户送出12层堆叠HBM4E样品，这是面向AI的下一代超高性能DRAM：单颗容量达48GB、引脚速率最高16Gbps、能效较上代提升逾20%，预计将搭载英伟达计划2027年推出的Rubin Ultra平台（每卡8颗48GB HBM4E、显存合计384GB）。消息推动SK海力士韩股盘中涨近5%创历史新高。据Counterpoint，2026Q1 SK海力士以约58%份额居全球HBM首位，三星、美光各约21%。",
-      "why": "直接关系自选中的SK海力士(7709.HK南方两倍做多/000660)与存储链(美光MU、闪迪)：HBM4E抢先送样巩固其对英伟达供应的领先卡位，强化HBM超级周期叙事，也是当日港股/A股半导体逆势走强的基本面注脚。对存储相关持仓属正向催化，但股价已在历史高位、情绪偏热，卖put宜留安全垫。",
-      "source": "新浪科技 / SK海力士官方Newsroom / ITBear(产品与送样为官方口径，多家媒体独立报道)",
-      "verified": true,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "HBM",
-        "HBM4E",
-        "DRAM",
-        "英伟达",
-        "Rubin",
-        "美光"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-18/doc-inicuqfz3386211.shtml",
-      "id": "63179a37b500",
-      "is_new": false,
-      "first_seen": "2026-06-18"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "凌晨(美东周三午后)",
-      "title": "美联储6月17日维持利率3.50%–3.75%不变(12–0)、沃什主席首秀转鹰：最新点阵图上修年末利率预期、约半数委员预计年内将加息一次，市场转为押注最早10月加息",
-      "summary": "北京时间6月18日凌晨，美联储FOMC以12–0维持联邦基金利率目标区间3.50%–3.75%不变，为新任主席凯文·沃什(Kevin Warsh)上任后首次会议。会后点阵图显著转鹰：18位提交预测的委员中有9位预计年内将加息，年末利率中值由3月的约3.4%上修至约3.8%，暗示年内至少加息一次；声明称经济稳健扩张但通胀仍高于2%目标，部分受能源(霍尔木兹海峡供给冲击)等供给因素推动。沃什表示本次无人主张立即加息、并淡化前瞻指引。交易员随后完全计入年内一次加息(最早10月)。",
-      "why": "全局性宏观转向，直接影响美股/港股/A股估值与风险偏好：利率上行预期压制高估值科技与成长股，对中长期持仓构成阶段性逆风；但波动率走高(VIX当日约+12%)抬升期权权利金，对以 sell put 为主的策略是回调中分批卖出优质标的看跌期权、收取权利金的良机。",
-      "source": "美联储官网FOMC声明(官方) / CNBC / TheStreet / Fox Business / NPR",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "FOMC",
-        "沃什",
-        "Warsh",
-        "点阵图",
-        "加息",
-        "利率决议"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
-      "id": "8f291f449ab6",
-      "is_new": false,
-      "first_seen": "2026-06-18"
-    },
-    {
-      "id": "811c781635da",
-      "is_new": false,
-      "first_seen": "2026-06-16",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "6/15",
-      "title": "智谱(02513.HK)发布旗舰GLM-5.2、将按MIT协议全量开源(支持1M长上下文)，6月15日股价暴涨约33%至约1461港元、市值重返约6500亿港元",
-      "summary": "智谱6月15日午间在港交所发布自愿性公告，推出迄今最强模型GLM-5.2：支持真正可用的1M长上下文、长程编程与Agent任务保持国内领先，已向GLM Coding Plan全量用户开放，API与开源版本本周上线并遵循MIT协议开源；受国产大模型情绪及海外竞品在华受限催化，当日股价飙涨约33.27%，麦格理维持“跑赢大市”。",
-      "why": "核心AI持仓里程碑：旗舰模型开源强化生态与定价能力、带动港股AI产业链情绪，对长期估值偏正面；但单日逾30%急涨后股价与隐含波动率已高、且面临解禁，short-term对sell put策略宜压低行权价、留意回撤接货而非追高。",
-      "source": "智谱港交所自愿性公告(6/15) / 东方财富 / 富途 / 麦格理研报",
-      "verified": true,
-      "keywords": [
-        "智谱",
-        "GLM-5.2",
-        "开源",
-        "大模型",
-        "1M上下文",
-        "02513"
-      ],
-      "translated": false,
-      "url": "https://news.fx168news.com/cooperate/2606/7461335.shtml"
-    },
-    {
-      "id": "67612a377f61",
-      "is_new": false,
-      "first_seen": "2026-06-16",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "美东6/15收盘",
-      "title": "美伊协议“已完成”点燃风险偏好，6月15日美股收盘大涨刷新高位：纳指涨约3%、标普涨约1.7%、道指涨约0.9%(+约469点)，WTI原油跌至约80美元创近两月低位；正式签约定本周五瑞士举行，FOMC 6/16–17召开",
-      "summary": "特朗普称对伊朗协议“已完成”、霍尔木兹海峡将重开，避险情绪退潮：6月15日三大指数集体走高、纳指领涨约3%，标普与道指逼近/刷新历史高位；油价回落至约80美元、为4月中旬以来最低，缓解能源通胀担忧。",
-      "why": "确认并超出此前期指涨幅，风险资产普涨利好港股/A股科技与消费今日情绪跟涨；但本周三沃什首秀FOMC与新点阵图临近，会前后隐含波动或回升——对以sell put为主的策略是逢高收取权利金、并留意议息波动的窗口。",
-      "source": "TheStreet / Al Jazeera / CNBC",
-      "verified": true,
-      "keywords": [
-        "美股",
-        "纳指",
-        "标普",
-        "道指",
-        "油价",
-        "美伊",
-        "FOMC"
-      ],
-      "translated": false,
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026"
-    },
-    {
-      "id": "8c4a40fdc272",
-      "is_new": false,
-      "first_seen": "2026-06-23",
+      "id": "8ad8951f34cb",
       "tier": 2,
       "lang": "zh",
       "markets": [
+        "US",
         "HK"
       ],
-      "time": "6/22-23",
+      "time": "近期",
       "group": "个股",
-      "title": "智谱(02513.HK)上市满一年迎首轮解禁压力测试：约96%上市前限售股(约3.8亿股)于6月22日解除禁售、规模庞大；后续约7月8日基石股东、2027年1月8日创始团队与美团/蚂蚁/阿里/腾讯/红杉/高瓴等再迎解禁——在股价5天暴涨、市值突破万亿港元后，巨量解禁成最大悬念(具体解禁股数待回主源核实)",
-      "summary": "据东方财富、证券时报、新浪财经报道，“全球大模型第一股”智谱(2025年6月23日上市)于6月22日迎来上市满12个月的首轮限售股解禁：控股股东及部分上市前股东合计约3.8亿股、占总股本约96%的限售股解除禁售；此外约7月8日有基石投资者等约2568万股解禁，2027年1月8日创始团队与美团、蚂蚁、阿里、腾讯、红杉、高瓴等早期投资者所持近40%股份解禁。在股价5个交易日暴涨、6月22日盘中市值突破万亿港元、年内涨逾20倍的背景下，巨量解禁带来的潜在抛压被市场视为“暴涨时刻的首轮压力测试”。(具体解禁股数与比例为媒体报道，待回HKEXnews披露易核实)",
-      "why": "解禁/限售股是该投资者的高优先题材。智谱为自选中的核心AI主题标的，急涨后逢巨量解禁，潜在抛压与高估值叠加，短期波动料显著放大；对偏好sell put的策略意味权利金被极度抬高但接货风险极大，严禁在历史新高位、解禁兑现前裸接，宜等解禁抛压释放、情绪降温后于关键支撑分批卖put并压低行权价。",
-      "source": "东方财富 / 证券时报 / 新浪财经(解禁时点与股数为媒体报道，具体数字待回披露易核实)",
+      "title": "（存疑·待核）阿里巴巴成立新AI部门Token Foundry整合核心研发；承诺未来三年投入3800亿人民币于AI与云基础设施",
+      "summary": "阿里巴巴成立新AI部门Token Foundry，将通义千问实验室（Tongyi Lab）与Future Life Lab合并整合，由CEO吴泳铭（Eddie Wu）领导统一AI研发战略。公司承诺未来三年内投入约3800亿人民币（约560亿美元）于AI与云基础设施，目标五年内将云+AI年收入做到1000亿美元。云智能集团AI相关产品营收已连续十个季度实现三位数增长。Token Foundry细节待公司官方披露核实。",
+      "why": "阿里（BABA/9988.HK持仓标的）3800亿人民币AI押注是明确战略转向，云AI十连季三位数增长是估值支柱；若Token Foundry整合顺利，将强化通义千问在大模型赛道竞争力；对sell put策略，BABA基本面改善降低了深度行权的尾部风险，可适度提高行权价。",
+      "source": "CNBC / 财联社",
       "verified": false,
       "keywords": [
-        "智谱",
-        "02513",
-        "解禁",
-        "限售股",
-        "禁售期",
-        "万亿市值",
-        "大模型",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://finance.eastmoney.com/a/202606223777969232.html"
-    },
-    {
-      "id": "314c9027b9a0",
-      "is_new": false,
-      "first_seen": "2026-06-23",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "美东6/24盘后(前瞻)",
-      "group": "个股",
-      "title": "美光(MU)6月24日盘后发FY26 Q3财报、华尔街预期“炸裂”：市场预期营收约345亿美元、调整后EPS约19.7美元(同比大增)、毛利率约81%(去年同期约37%)，HBM 2026年产能已售罄；期权市场暗示财报后短线波动可观、看涨期权集中1100/1200美元、支撑约1000美元",
-      "summary": "据新浪财经、TradingKey、华盛通等6月23日前瞻，存储龙头美光将于6月24日(周三)美股盘后发布2026财年第三财季(3—5月)业绩：市场普遍预期营收约345亿美元、调整后每股收益约19.7美元同比大幅增长，毛利率有望达约81%(去年同期约37%、上季约75%)，与公司3月给出的指引基本吻合；焦点在于HBM定价及对2027年产能与HBM4认证的指引(公司此前称2026年HBM产能已售罄)。期权市场测算财报后短线隐含波动可观，看涨期权大量集中于1100与1200美元行权价，阻力约1200、支撑约1000、不及预期或下探900美元。(以上营收/利润/毛利率均为市场预期值，实际以公司财报为准)",
-      "why": "美光是存储/HBM超级周期最直接标的，并联动SK海力士(7709.HK)、英伟达、闪迪。财报是HBM需求广度与定价的关键验证，事件前后隐含波动显著抬升，对以sell put为主的策略是财报前收波动率、或回调后于关键支撑分批卖put的窗口；但股价已处历史高位、预期极高，“利好出尽”与不及预期的双向风险并存，宜压低行权价、控制仓位，不在财报前重仓押方向。",
-      "source": "新浪财经 / TradingKey / 华盛通(业绩为市场一致预期、期权区间为期权市场测算)",
-      "verified": true,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "HBM",
-        "DRAM",
-        "毛利率",
-        "财报",
-        "期权",
-        "隐含波动",
-        "SK海力士"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/summary/2026-06-23/doc-inieipih2196906.shtml"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "收盘(6/22)",
-      "group": "大盘头条",
-      "title": "A股端午节后6月22日强势收涨、成交创历史第二天量：上证涨1.78%、深成涨2.13%、创业板涨2.52%、科创50涨1.96%(创业板与科创50双创历史新高)，两市成交约3.76万亿元(仅次于今年1月14日)；保险券商涨停潮、培育钻石与小金属大涨",
-      "summary": "端午假期后首个交易日，A股6月22日全线走强：上证指数收涨1.78%、深证成指涨2.13%、创业板指涨2.52%(创历史新高)、科创50涨1.96%(创历史新高)。沪深两市成交约3.76万亿元、较前一交易日放量逾4300亿元，为历史第二大成交天量(仅次于2026年1月14日的3.99万亿元)。盘面上保险、证券板块集体大涨，新华保险、中信建投、广发证券涨停；金刚石散热与培育钻石概念大幅拉升、惠丰钻石30%涨停；小金属/有色、磷化工/氟化工同步走强。",
-      "why": "覆盖A股科技成长与大金融持仓：放量普涨、创业板与科创50双创新高，对人工智能ETF华夏、科创50ETF等成长持仓情绪明显偏正面，大金融涨停潮亦利好富途等券商情绪。情绪高涨、成交天量但需警惕高位波动与外围(美伊、PCE)二次定价；高位追涨风险加大，sell put宜在关键支撑分批、压低行权价，不在情绪高点裸接。",
-      "source": "新浪财经 / 证券时报(A股收评，指数与成交为公开市场数据)",
-      "verified": true,
-      "keywords": [
-        "上证指数",
-        "深证成指",
-        "创业板",
-        "科创50",
-        "成交额",
-        "保险",
-        "券商",
-        "培育钻石",
-        "小金属",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-06-22/doc-iniefzfw0411628.shtml",
-      "id": "acf11f617ffb",
-      "is_new": false,
-      "first_seen": "2026-06-22"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "收盘(6/22)",
-      "group": "大盘头条",
-      "title": "港股6月22日收跌、市场割裂加剧：恒生指数收跌约0.98%、恒生科技跌约0.9%，腾讯/阿里/美团等老牌科网领跌，但AI/芯片新生代逆势暴涨——智谱盘中涨超40%、总市值首破万亿港元(年内涨超2200%)，长飞光纤涨超20%、兆易创新创新高",
-      "summary": "端午休市后港股6月22日恢复交易、呈极端分化：恒生指数收跌约0.98%、恒生科技指数跌约0.9%，龙湖集团领跌，吉利汽车、老铺黄金等走弱，腾讯、阿里、美团等老牌科网成分股领跌；但与AI、芯片相关的“新生代”逆势大涨——“全球大模型第一股”智谱(02513.HK)盘中一度涨超40%、最高约2980港元创历史新高，成为港股首只站稳2000港元上方个股、总市值首度突破万亿港元(年内累计涨超2200%)，长飞光纤光缆涨超20%、兆易创新创上市新高。(盘中为公开行情数据、收盘涨幅较盘中高点有所收窄)",
-      "why": "覆盖腾讯/阿里/美团/小米/泡泡玛特/老铺黄金等港股持仓与AI主题敞口：资金极端向稀缺AI龙头集中、老牌科网与消费权重失血，指数层面承压、分化加剧。智谱逼空式上涨抬升板块情绪与权利金，但历史新高位接货风险极大；高IV下sell put宜聚焦优质标的、压低行权价分批布局，不在AI高位追涨接货，并留意复盘后外围(美伊、PCE)二次定价。",
-      "source": "证券时报 / 新浪财经 / 网易财经(港股收评与个股涨跌为公开行情数据)",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "恒生科技",
-        "港股",
-        "智谱",
-        "万亿市值",
-        "长飞光纤",
-        "兆易创新",
-        "腾讯",
         "阿里巴巴",
-        "美团",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.stcn.com/article/detail/3971340.html",
-      "id": "9a25e359d135",
-      "is_new": false,
-      "first_seen": "2026-06-22"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "6/22",
-      "group": "个股",
-      "title": "小米YU7 GT创全球首个纽北“自动驾驶”圈速纪录：6月22日小米汽车官宣，全程无人驾驶以10分29秒483完成纽博格林北环官方计时圈，央视点赞“中国工程师用代码把问号变成感叹号”",
-      "summary": "6月22日小米汽车官宣，选配赛道专业套装的小米YU7 GT搭载自研自动驾驶系统，在全程无人驾驶状态下以10分29秒483完成德国纽博格林北环(Nürburgring)官方计时圈，创下全球首个纽北自动驾驶圈速纪录。央视新闻评价“全球首家、全程无人、全程自主”。作为对比，今年5月YU7 GT由车手驾驶曾跑出7分22秒755、为纽北史上最快SUV，自动驾驶成绩较人类车手慢约3分07秒。",
-      "why": "小米为消费+科技核心港股持仓(1810.HK)。纽北自动驾驶纪录叠加央视背书是高曝光度的品牌/技术破圈事件，强化小米汽车与智能驾驶心智、对销量与估值情绪偏正面；属里程碑/软新闻，对短期股价实质影响有限，需结合YU7交付与汽车业务盈利节奏判断。情绪事件下不宜据单一利好在高IV贸然sell put追高。",
-      "source": "新浪科技 / IT之家 / 快科技(援引央视新闻与小米汽车官宣)",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "YU7",
-        "YU7 GT",
-        "纽北",
-        "Nürburgring",
-        "自动驾驶",
-        "雷军",
-        "央视"
-      ],
-      "translated": false,
-      "url": "https://www.ithome.com/0/966/794.htm",
-      "id": "703c3a5dffec",
-      "is_new": false,
-      "first_seen": "2026-06-22"
-    },
-    {
-      "id": "0a27040c3ddc",
-      "is_new": false,
-      "first_seen": "2026-06-22",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周一盘前(6/22)",
-      "group": "大盘头条",
-      "title": "美股期货6月22日盘前小幅走低、油价跳升后回落：标普500期货跌约0.4%、纳指100期货跌约0.6%、道指期货跌约0.3%，WTI一度涨近3%至约78美元、布伦特升破81后回吐至约80美元；市场权衡美伊谈判进展并等待本周五核心PCE",
-      "summary": "据Yahoo Finance、CNBC、彭博，6月22日(周一)美股期货盘前小幅承压：标普500期货跌约0.4%、纳斯达克100期货跌约0.6%、道指期货跌约0.3%，盘前一度收窄跌幅、亚股普涨。投资者一面权衡美伊首轮谈判结束的进展与反复，一面等待本周五公布的5月核心PCE物价(美联储最看重、亦是沃什6/17转鹰点阵图后的关键通胀读数)。油价剧烈波动：WTI一度跳涨近3%至约78美元/桶、布伦特升破81美元，随后随谈判叙事快速切换回吐，布伦特跌约0.6%至约80美元。",
-      "why": "覆盖美股科技与零售持仓(英伟达/特斯拉/谷歌/Palantir/美光/英特尔/好市多/沃尔玛等)与港A风险偏好：地缘进展与油价回落中期偏正面，但本周核心PCE与鹰派Fed路径压制高估值成长，盘前情绪偏谨慎。事件/数据前IV抬升，对以sell put为主的策略是逢回踩关键支撑、压低行权价收权利金的窗口，PCE落地前不宜重仓押方向。",
-      "source": "Yahoo Finance / CNBC / Bloomberg(美股期货、油价与PCE前瞻)",
-      "verified": true,
-      "keywords": [
-        "标普500",
-        "纳指100",
-        "道指期货",
-        "美股期货",
-        "油价",
-        "WTI",
-        "布伦特",
-        "核心PCE",
-        "美联储",
-        "美伊"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-22-225817825.html"
-    },
-    {
-      "id": "5abc3562458f",
-      "is_new": false,
-      "first_seen": "2026-06-22",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "盘中(6/22)",
-      "group": "大盘头条",
-      "title": "港股端午节后6月22日复盘分化：AI/大模型主线大涨——智谱盘中破万亿领衔、MINIMAX涨超9%、滴普科技走强，但消费与权重偏弱；据彭博，在港中资股(恒生中国企业指数)逼近自高点回落约20%的熊市区间",
-      "summary": "6月19日端午休市后，港股6月22日恢复交易并呈结构性分化：AI与大模型主线大涨，智谱盘中总市值突破万亿港元领衔，MINIMAX(00100.HK)涨约9.73%、滴普科技(01384.HK)等算力/大模型概念走强；但消费、权重股相对疲弱，资金向AI集中。彭博当日报道称，受消费数据偏弱、资金转向AI主题等拖累，在港中资股(恒生中国企业指数)已逼近自高点回落约20%的熊市区间。",
-      "why": "覆盖腾讯/阿里/美团/小米/泡泡玛特/老铺黄金等港股持仓与AI主题敞口：AI龙头逼空式上涨抬升板块情绪与权利金，但消费与权重偏弱、指数层面承压，分化加剧。高IV下sell put宜聚焦优质标的、压低行权价分批布局，不在AI高位追涨接货，并留意复盘后外围(美伊、PCE)对港股的二次定价。",
-      "source": "Bloomberg / 智通财经(港股复盘与个股涨跌为公开行情数据)",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技",
-        "恒生中国企业",
-        "智谱",
-        "MINIMAX",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "通义千问",
         "AI",
-        "大模型",
-        "消费"
+        "云计算"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-stocks-in-hong-kong-near-bear-market-after-holiday"
+      "url": "https://www.cnbc.com/2026/03/20/alibaba-headcount-falls-ai-push-sun-art-intime-sales.html",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     },
     {
-      "id": "26d79712c60d",
-      "is_new": false,
-      "first_seen": "2026-06-22",
+      "id": "c102c5101952",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "A"
-      ],
-      "time": "午盘(6/22)",
-      "group": "大盘头条",
-      "title": "A股6月22日端午节后复盘、午盘三大指数集体收红：有色(锆)概念延续强势、培育钻石概念爆发、大金融板块震荡走强",
-      "summary": "端午节假期后首个交易日，A股6月22日早盘高开、午盘三大指数集体收红。盘面上有色·锆等AI上游材料概念延续强势、培育钻石概念爆发，大金融(券商、银行、保险)板块震荡走强。市场情绪随外围美伊谈判进展与油价波动、本周核心PCE临近而偏积极但谨慎。(午间数据，全天以收盘为准)",
-      "why": "反映A股复盘资金向AI上游材料与大金融轮动，对人工智能ETF华夏、科创50ETF等成长持仓情绪偏正面，大金融走强亦利好富途等券商情绪。属赛道轮动信号，可作为科技/消费赛道卖put节奏与情绪温度的参考；指数午间收红但需观察午后量能与外围二次定价。",
-      "source": "新浪财经(A股午报，指数与板块涨跌为公开市场数据)",
-      "verified": true,
-      "keywords": [
-        "上证指数",
-        "创业板",
-        "深证成指",
-        "有色",
-        "培育钻石",
-        "大金融",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-22/doc-iniefzfx7184513.shtml"
-    },
-    {
-      "id": "edb796f76122",
-      "is_new": false,
-      "first_seen": "2026-06-22",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
         "HK"
       ],
-      "time": "9:00(6/22)",
-      "group": "大盘头条",
-      "title": "中国6月LPR按兵不动、连续13个月维持不变：1年期3.0%、5年期以上3.5%，商业银行一季度末净息差降至1.40%历史新低制约下调空间",
-      "summary": "中国人民银行授权全国银行间同业拆借中心6月22日公布最新贷款市场报价利率(LPR)：1年期LPR为3.0%、5年期以上LPR为3.5%，均与上月持平、连续13个月维持不变，符合市场预期。当月政策利率(7天期逆回购)未变、定价基础未动，叠加2026年一季度末商业银行净息差降至1.40%的历史最低位，报价行缺乏主动下调加点动力；机构预计年内仍有约5–10个基点降息空间。",
-      "why": "覆盖A股与港股流动性与估值锚：LPR维持不变符合预期、对地产链与银行净息差影响中性，年内仍存降息空间则对成长与消费估值偏温和正面。属全局性货币政策信号，对A股(科创50/AI ETF)与港股(恒生科技/腾讯/美团等)风险偏好与中资券商(富途)情绪有边际影响。",
-      "source": "中新网 / 每日经济新闻 / 中国基金报(援引央行/全国银行间同业拆借中心官方公布)",
-      "verified": true,
-      "keywords": [
-        "LPR",
-        "贷款市场报价利率",
-        "央行",
-        "净息差",
-        "降息",
-        "货币政策"
-      ],
-      "translated": false,
-      "url": "https://www.chinanews.com.cn/cj/2026/06-22/10644768.shtml"
-    },
-    {
-      "id": "7aee51022f3f",
-      "is_new": false,
-      "first_seen": "2026-06-20",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周六(6/20)前瞻",
-      "group": "大盘头条",
-      "title": "下周(6/22-26)宏观与财报双窗口：三市6月22日休假后复盘，5月核心PCE(沃什转鹰后首份通胀)与美光6/24、耐克6/26财报接踵，周五罗素指数重构料放量",
-      "summary": "据CMC Markets、Kiplinger、嘉信(Schwab)等机构前瞻，下周(6/22-26)海外迎宏观与财报双重窗口：美国将公布5月核心PCE物价(美联储最看重的通胀指标，亦是沃什6/17转鹰点阵图后的首份关键通胀读数)，并有6月Flash PMI;财报方面美光(MU)定于6月24日盘后发布FY26 Q3业绩、耐克(NKE)6月26日发布，分别检验AI存储HBM需求广度与中美消费强弱;周五(6/26)收盘进行年度罗素指数重构(Russell Reconstitution)，通常带来显著放量。港股/A股(端午)与美股(Juneteenth)本周五均休市，三市下周一(6/22)复盘，需消化周末美伊核谈推迟与霍尔木兹油价走向。",
-      "why": "覆盖全仓宏观与核心持仓:核心PCE若高于预期将强化沃什鹰派路径、压制高估值科技与港A成长;美光6/24业绩是存储/HBM超级周期(联动SK海力士、英伟达、闪迪)最直接验证，耐克读数关乎消费链与中国需求。事件前IV抬升，对以sell put为主的策略是财报/数据前收波动率、或回调后于关键支撑分批卖put的窗口;罗素重构放量与三市复盘叠加，宜控制仓位、不在数据落地前重仓押方向。",
-      "source": "CMC Markets(Week Ahead) / Kiplinger(Earnings Calendar) / Charles Schwab(Weekly Outlook)",
-      "verified": true,
-      "keywords": [
-        "PCE",
-        "通胀",
-        "美光",
-        "Micron",
-        "MU",
-        "耐克",
-        "Nike",
-        "罗素重构",
-        "HBM",
-        "美联储",
-        "沃什"
-      ],
-      "translated": false,
-      "url": "https://www.cmcmarkets.com/en-de/news-and-analysis/the-week-ahead-us-pce-inflation-nike-micron-results"
-    },
-    {
-      "id": "0ee9ace838d2",
-      "is_new": false,
-      "first_seen": "2026-06-20",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周五(6/19)",
-      "group": "大盘头条",
-      "title": "霍尔木兹商业通行量激增、油价回落企稳：美伊协议、美军解封后首批沙特油轮恢复通行，周四约千万桶原油过峡",
-      "summary": "据自由欧洲电台(RFE/RL)等报道，美伊达成协议、美军解除海上封锁后，霍尔木兹海峡商业航运量明显回升——周四约有近千万桶原油在海峡过境或就位，并出现冲突逾三个月以来首批沙特籍油轮通行。随供给恢复，国际油价较冲突高位明显回落、周五窄幅企稳。",
-      "why": "油价回落企稳缓解全球通胀与航运链压力，利好消费与出行链(携程等)，并支撑风险偏好回暖下的港A股权重修复。",
-      "source": "RFE/RL 自由欧洲电台",
-      "verified": true,
-      "keywords": [
-        "霍尔木兹",
-        "油价",
-        "原油",
-        "地缘",
-        "供给"
-      ],
-      "translated": false,
-      "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
-    },
-    {
-      "id": "9a6023897e4b",
-      "is_new": false,
-      "first_seen": "2026-06-20",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "周五(6/19)",
+      "time": "06-12",
       "group": "个股",
-      "title": "美光(MU)6月24日业绩前华尔街集体上调目标价：多家投行密集上修评级与目标价、股价逼近历史高位，HBM超级周期成色成关键验证",
-      "summary": "据Investing.com、TradingKey等报道，美光将于6月24日发布FY26 Q3业绩，市场普遍预期营收与EPS同比大幅增长，毛利率与HBM定价能力为焦点；业绩公布前，多家华尔街机构密集上调美光目标价与评级，股价逼近历史高位。公司此前称2026年HBM产能已全部售罄。",
-      "why": "美光是存储/HBM超级周期最直接标的，并联动SK海力士、英伟达供应链；业绩前隐含波动抬升，正股或两倍做多ETF适合事件型卖方期权策略。",
-      "source": "Investing.com / TradingKey",
+      "title": "泡泡玛特Labubu亮相2026 FIFA世界杯开幕式——中国原创IP首次登上世界杯舞台；THE MONSTERS×FIFA联名系列全球40+国同步首日售罄",
+      "summary": "6月12日，泡泡玛特旗下角色Labubu作为特邀嘉宾亮相2026年FIFA世界杯开幕式（墨西哥城），这是中国原创IP历史上首次参与FIFA世界杯开幕式。同期，THE MONSTERS × FIFA World Cup联名系列（含盲盒、周边）在超过40个国家和地区同步开售，线上库存首日告罄。此前（5月），Labubu已出现在FIFA世界杯官方主题曲MV中，为首个进入FIFA官方音乐视频的设计师玩具品牌。",
+      "why": "泡泡玛特（9992.HK持仓标的）世界杯开幕式曝光是Labubu品牌国际化里程碑——全球200+国受众、与FIFA顶级IP绑定，将显著提升欧美市场品牌溢价与复购率；首日售罄印证需求强劲，支撑高估值持续性；sell put行权价可保持在相对高位，关注后续销售数据确认。",
+      "source": "TechNode / Global Times",
       "verified": true,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "HBM",
-        "DRAM",
-        "存储"
-      ],
-      "translated": false,
-      "url": "https://www.investing.com/news/stock-market-news/wall-street-scrambles-to-lift-micron-price-targets-ahead-of-earnings-4750052"
-    },
-    {
-      "id": "405bbdd028b9",
-      "is_new": false,
-      "first_seen": "2026-06-19",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "周四—周五(6/18-19)",
-      "group": "大盘头条",
-      "title": "霍尔木兹海峡实质重开：美军CENTCOM 6月18日解除对伊朗港口及海峡的海上封锁、滞留油轮开始通行，科威特拟增产；国际油价延续本周大跌、基本回吐2月中东冲突以来全部涨幅",
-      "summary": "据NPR、路透等报道，美军中央司令部(CENTCOM)6月18日宣布不再阻碍商船进出伊朗(阿拉伯湾与阿曼湾沿岸)港口，对霍尔木兹海峡的海上封锁正式解除；此前因冲突滞留的原油油轮已于周四开始驶离海峡，科威特表示将开始增产。按6月17日生效的MoU条款，伊朗承诺60天内允许商船免费通过霍尔木兹海峡。受供给风险缓解推动，国际油价延续本周大幅下跌、已基本回吐自2月底中东冲突爆发以来的全部涨幅(具体盘中价以实时报价为准)。",
-      "why": "覆盖全仓宏观面：霍尔木兹实质重开、油价回落缓解输入型通胀与\"higher-for-longer\"叙事，对高估值科技与港A美消费/科网持仓的中期估值偏正面；但与隔夜美联储沃什鹰派点阵图(年内或加息)相互对冲，叠加美伊技术磋商推迟的尾部风险。地缘溢价消退令IV趋降、sell put权利金收窄但接货环境改善；宜结合下周一(6/22)复盘后的利率路径与油价企稳信号分批卖put。",
-      "source": "美军CENTCOM(官方) / NPR / Reuters / Trading Economics(油价走势)",
-      "verified": true,
-      "keywords": [
-        "霍尔木兹",
-        "Hormuz",
-        "CENTCOM",
-        "封锁解除",
-        "油价",
-        "布伦特",
-        "Brent",
-        "科威特",
-        "美伊"
-      ],
-      "translated": false,
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz"
-    },
-    {
-      "id": "d26b798ee9b5",
-      "is_new": false,
-      "first_seen": "2026-06-19",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "美东周四收盘",
-      "group": "大盘头条",
-      "title": "美股6月18日反弹、追捧美伊协议：罗素2000涨2.12%报2,979.77领涨、纳指涨1.91%、标普涨1.08%(报约7,500.58)、道指涨0.14%(+72点)报51,564.70；但鹰派余波下美债收益率高企、Fed基金期货押注年底前加息概率升至约77%",
-      "summary": "周四(6月18日)美股全线反弹，科技与周期股带动大盘消化美联储鹰派冲击、并受美伊协议(美军解除对伊封锁)提振：小盘罗素2000涨约2.12%收报2,979.77领涨，纳斯达克涨约1.91%、标普500涨约1.08%(报约7,500.58)、道指涨约0.14%(+72点)报51,564.70。但鹰派余波持续——沃什首秀FOMC后点阵图18位委员中9位预计年内至少加息一次，Fed基金期货隐含年底前加息概率从一个月前约24%升至约77%，2年期美债收益率续升、10年期约4.45%–4.47%高位徘徊。",
-      "why": "覆盖美股科技与零售持仓(英伟达/特斯拉/谷歌/Palantir/美光/英特尔/好市多/沃尔玛等)：风险偏好修复利好成长股短线情绪，但利率预期上行与高久期估值承压并存，分化加大。事件后IV趋于回落，对以sell put为主的策略宜在反弹中逢高、于优质标的关键支撑压低行权价收权利金，不在鹰派路径未明时重仓接货。",
-      "source": "TheStreet(指数收盘为公开市场数据) / CNBC(美债收益率与加息概率)",
-      "verified": true,
-      "keywords": [
-        "罗素2000",
-        "纳斯达克",
-        "标普500",
-        "道指",
-        "美债收益率",
-        "美联储",
-        "沃什",
-        "加息",
-        "FOMC"
-      ],
-      "translated": false,
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-18-2026"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "收盘",
-      "group": "大盘头条",
-      "title": "港股6月18日收盘：恒指收跌1.59%报约23,924.81、恒生科技跌1.39%，科网股普跌(阿里/小米跌超3%、京东/美团跌超3%)，半导体逆势走强、智谱创新高",
-      "summary": "受美联储6月17日点阵图转鹰、新任主席沃什表态偏鹰、美元指数站上100影响，港股6月18日全天承压：恒生指数收跌约1.59%报约23,924.81点，恒生科技指数跌约1.39%。盘面上大型科网股普跌，阿里巴巴、小米跌超3%，京东、美团跌超3%，腾讯随大盘走弱；半导体板块逆势走强，智谱逆市大涨创历史新高。6月19日港股休市。",
-      "why": "覆盖腾讯/阿里/美团/小米/泡泡玛特/老铺黄金等全部港股持仓：沃什领导下的鹰派转向推升美元与利率预期，压制高估值科网与高久期成长，金价回落拖累黄金股。回调放大波动、抬升权利金，是以sell put为主分批压低行权价收权利金的窗口，但宜等外围企稳、不在未稳时重仓接货。",
-      "source": "新浪财经(港股收评，指数与个股涨跌为公开市场数据)",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "恒生科技",
-        "港股",
-        "阿里巴巴",
-        "小米",
-        "美团",
-        "半导体",
-        "智谱",
-        "美联储"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-18/doc-inicvmmv2243043.shtml",
-      "id": "33d261e6a06c",
-      "is_new": false,
-      "first_seen": "2026-06-18"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "收盘",
-      "group": "大盘头条",
-      "title": "A股6月18日收盘分化：上证跌0.43%、创业板涨2.05%、深成涨0.94%，两市成交约3.31万亿放量，HBM/半导体/有色钨/陶瓷领涨",
-      "summary": "6月18日A股三大指数涨跌不一：上证指数收跌约0.43%、深证成指涨约0.94%、创业板指涨约2.05%、北证50跌约1.18%。沪深两市成交约3.31万亿元，较前一交易日放量逾2000亿元。板块上HBM、半导体、有色·钨、陶瓷产业、非金属材料等领涨，制冷剂、玻璃、电力改革、证券、非银金融等下挫，成长与硬科技相对占优。",
-      "why": "反映A股资金在美联储转鹰、外围承压下仍向HBM/半导体等硬科技主线集中，与SK海力士HBM4E送样、存储超级周期叙事共振；创业板放量走强对科技赛道情绪是正向信号，但需警惕高位题材波动。可作为科技赛道卖put节奏与情绪温度的参考。",
-      "source": "界面新闻(A股收评，指数与成交为公开市场数据)",
-      "verified": true,
-      "keywords": [
-        "上证指数",
-        "创业板",
-        "深证成指",
-        "HBM",
-        "半导体",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://www.jiemian.com/article/14611844.html",
-      "id": "1ee6801dd4d2",
-      "is_new": false,
-      "first_seen": "2026-06-18"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "午盘",
-      "title": "港股6月18日受美联储鹰派点阵图重挫：午盘恒指跌1.7%失守24000点报约23,899.25、恒生科技指数跌1.38%，科网股普跌(阿里/小米跌超3%、京东/美团跌超2%)、黄金股下挫，半导体逆势走强",
-      "summary": "受隔夜美联储6月17日维持利率3.50%–3.75%但点阵图转鹰(约半数委员预计年内加息)、美元指数站上100影响，6月18日港股低开走弱：午间恒生指数跌约1.7%失守24000点报约23,899.25点、恒生科技指数跌约1.38%。盘面上大型科网股普跌，阿里巴巴、小米跌超3%，京东、美团跌超2%，腾讯随大盘走弱；黄金股普跌(潼关黄金跌超7%)，半导体板块逆势走强。",
-      "why": "直接关系腾讯/阿里/美团/小米/泡泡玛特/老铺黄金等全部港股持仓：美联储转鹰推升美元与利率预期，压制高估值科网与高久期成长股，并令金价回落拖累黄金股(老铺黄金情绪承压)。回调放大波动、抬升权利金，对以sell put为主的策略是逢回踩关键支撑压低行权价分批卖put收权利金的窗口，但宜等鹰派冲击消化、不在外围未稳时重仓接货。",
-      "source": "新浪财经(港股午评，指数与个股涨跌为公开市场数据)",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "恒生科技",
-        "港股",
-        "阿里巴巴",
-        "小米",
-        "美团",
-        "黄金股",
-        "半导体",
-        "美联储"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-18/doc-inicuyvx5548070.shtml",
-      "id": "1880f78f4d05",
-      "is_new": false,
-      "first_seen": "2026-06-18"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "6/18",
-      "title": "泡泡玛特6月18日大规模补货Labubu：官方小程序/天猫/抖音放量补货Labubu3.0“前方高能”系列(或连放三天)，二手端盒回收价由1500元+跌至650–800元、黄牛称市场“崩盘”，市值近日蒸发超200亿港元",
-      "summary": "6月18日泡泡玛特(9992.HK)在官方小程序及天猫旗舰店、抖音直播间大规模补货Labubu3.0(第三代搪胶毛绒)“前方高能”系列(99元/个、整盒594元)，有消息称放货或连续进行三天；继首次开启线上预售后稀缺性溢价快速收敛——黄牛群端盒回收价从此前1500元以上跌至约650–800元，部分黄牛直言市场已“崩盘”。受二手价大幅回落拖累，泡泡玛特市值近日蒸发超200亿港元。",
-      "why": "泡泡玛特为消费赛道核心港股持仓。官方主动放量补货意在打击炒作、回归普通消费者，是对“仅靠Labubu稀缺性溢价”叙事的再度检验：短期二手价崩、情绪承压，但利于长期品牌健康与复购。属基本面/情绪层面实质进展而非纯噪音；在美国销售改善与新IP接力得到验证前，高IV下不宜贸然sell put接货，宜跟踪官方预售实际销量与海外单店数据。",
-      "source": "证券时报 / 36氪 / 快科技(补货与二手价为媒体报道，单日市值变动待独立核实)",
-      "verified": false,
       "keywords": [
         "泡泡玛特",
         "Pop Mart",
-        "9992",
+        "9992.HK",
         "Labubu",
-        "补货",
-        "二手价",
+        "FIFA",
+        "世界杯",
         "盲盒",
-        "预售"
+        "潮玩"
       ],
       "translated": false,
-      "url": "https://www.stcn.com/article/detail/2155053.html",
-      "id": "314290da33aa",
-      "is_new": false,
-      "first_seen": "2026-06-18"
+      "url": "https://technode.com/2026/06/12/pop-marts-labubu-makes-a-surprise-appearance-at-the-2026-fifa-world-cup-opening-ceremony/",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     },
     {
+      "id": "73973edcbb9d",
       "tier": 2,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "美东周三收盘",
-      "title": "美股6月17日鹰派点阵图致盘中重挫后尾盘收复：标普+0.10%、纳指+0.34%、道指+0.15%、罗素2000跌0.87%；10年期美债收益率升约6.9bp至4.497%、VIX涨约12%",
-      "summary": "美联储鹰派点阵图公布后美股盘中一度大幅下挫(标普盘中约-1.2%、纳指约-1.3%)，尾盘几乎收复失地：标普500涨0.10%、纳斯达克涨0.34%、道指涨0.15%，小盘罗素2000逆势跌0.87%。利率敏感资产承压：10年期美债收益率跳升约6.9个基点至4.497%，Cboe波动率指数(VIX)上涨约12%。",
-      "why": "加息预期下利率与波动率上行，利空小盘/高久期成长股而权重股相对抗跌；持仓中英伟达、特斯拉、Palantir等高估值科技股短期波动加大，结合高IV更适合卖出看跌期权而非追高。",
-      "source": "TheStreet / Yahoo Finance / Bloomberg",
-      "verified": true,
+      "time": "近期",
+      "group": "个股",
+      "title": "Fed proposes new stablecoin oversight rules targeting Circle (CRCL); USDC market cap $78B; Circle H1 2026 revenue $1.25B, 95.5% from interest income",
+      "summary": "The Federal Reserve proposed new oversight regulations for payment stablecoin issuers, directly targeting Circle Internet Group and its USDC token — following the landmark GENIUS Act which established mandatory reserve backing, federal licensing, and auditing standards. USDC now commands a $78 billion market cap. Circle reported H1 2026 revenue of $1.25 billion, with 95.5% derived from interest on short-term Treasury-backed reserves. Company market cap is ~$29.5 billion. BlackRock manages Circle's reserves; BNY Mellon handles custody.",
+      "why": "Circle/CRCL（持仓标的）面临美联储新监管是双刃剑：监管明确长期利好机构采用USDC，但短期合规成本上升；H1营收12.5亿、95.5%来自国债利息意味若7月美联储加息，Circle财务直接受益；从期权策略角度，监管不确定性维持高隐含波动率，适合宽跨度sell put策略。",
+      "source": "Yahoo Finance",
+      "verified": false,
       "keywords": [
-        "标普500",
-        "纳斯达克",
-        "道指",
-        "罗素2000",
-        "美债收益率",
-        "VIX",
-        "英伟达",
-        "特斯拉"
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "stablecoin",
+        "GENIUS Act",
+        "美联储"
       ],
       "translated": false,
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-17-2026",
-      "id": "7fe2f71fb60e",
-      "is_new": false,
-      "first_seen": "2026-06-18"
+      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-crcl-faces-fed-stablecoin-010923003.html",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     },
     {
+      "id": "884c16161bbd",
       "tier": 2,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "US",
-        "HK"
+        "US"
       ],
-      "time": "美东周三",
-      "title": "黄金随美联储转鹰回落：现货金价回吐至约4,260美元/盎司，国际金价年内涨幅基本抹平",
-      "summary": "美联储鹰派维持后美元与美债收益率走强，现货黄金从盘中4,300美元上方回落至约4,260美元/盎司；受今年1月底以来的回调影响，国际金价已基本抹平年内涨幅、回到2025年水平。",
-      "why": "金价回调叠加老铺黄金2026年初提价后溢价偏高、天猫618表现偏弱，对老铺黄金(6181.HK)的销量与估值形成双重压力；该股自高点已腰斩，需关注金价企稳与消费旺季客流信号，再考虑左侧布局或卖出看跌期权。",
-      "source": "Trading Economics / CBS News / 新浪财经(老铺背景)",
+      "time": "06-01",
+      "group": "个股",
+      "title": "Nvidia Vera Rubin enters full production (GTC Taipei); RTX Spark AI PC chip launches Fall 2026 with Dell, HP, Microsoft, ASUS",
+      "summary": "At GTC Taipei (June 1, 2026), Nvidia CEO Jensen Huang confirmed Vera Rubin — the successor to Blackwell Ultra — has entered full production with partner delivery beginning H2 2026, delivering 10x lower inference token cost vs. Blackwell. Separately, Nvidia unveiled the RTX Spark superchip (Grace CPU + Blackwell GPU, 128GB unified memory) at Computex 2026, launching in Windows AI PCs from Dell, HP, Microsoft, ASUS, Lenovo, and MSI in Fall 2026. Rubin roadmap: Rubin Ultra → Feynman (2027-28) → Rosa Feynman (2029-30).",
+      "why": "英伟达（持仓标的）Rubin进入全面生产代表Blackwell周期已达顶峰、新周期开启；Micron HBM4进入高量产正是为Rubin配套；RTX Spark开辟AI PC全新营收赛道；多产品线并行落地显著增强英伟达的长期收入可见性，支撑sell put行权价在相对高位。",
+      "source": "CNBC / Nvidia Newsroom",
       "verified": true,
       "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "Rubin",
+        "Blackwell",
+        "RTX Spark",
+        "AI芯片",
+        "黄仁勋"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
+      "is_new": true,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "781bb4238006",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "本周",
+      "group": "个股",
+      "title": "（参考）黄金现货价格在4000美元/盎司附近整理；摩根大通预测年底或至6000美元；老铺黄金(6181.HK)目前52周区间569–1108港元",
+      "summary": "黄金现货价格在2026年6月末维持每盎司约4000美元附近（近期高点约4020美元），较2025年11月低点已大幅回升。摩根大通全球研究预测金价年底或推升至6000美元/盎司，2027年有望达到6300美元。老铺黄金（6181.HK）当前在569–586港元区间交投，52周高低点为540–1108港元，距高点已较大折让。",
+      "why": "老铺黄金（持仓标的）直接受益于黄金牛市：摩根大通年底6000美元目标若兑现，将推动老铺产品单价与营收显著提升；当前股价距52周高点打折约50%，金价若续涨是修复契机；sell put行权价宜参照支撑区间下轨约540港元附近。",
+      "source": "J.P. Morgan Global Research",
+      "verified": false,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
         "黄金",
         "金价",
-        "老铺黄金",
-        "6181.HK",
-        "美联储"
+        "珠宝"
       ],
       "translated": false,
-      "url": "https://tradingeconomics.com/commodity/gold",
-      "id": "c54d7c5d0ccd",
-      "is_new": false,
-      "first_seen": "2026-06-18"
+      "url": "https://www.jpmorgan.com/insights/global-research/commodities/gold-prices",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     },
     {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "上午(开幕式)",
-      "title": "2026陆家嘴论坛6月17日开幕、证监会密集发布资本市场新政：吴清宣布科创板第五套上市标准适用范围扩大至人工智能大模型行业(上交所同日发布配套审核指引)，并支持沪深交易所推出主动ETF",
-      "summary": "2026陆家嘴论坛6月17日在沪开幕，主题“全球治理倡议下的金融发展与合作”。证监会主席吴清在开幕式宣布多项资本市场举措：科创板第五套(未盈利)上市标准适用范围由生物医药扩大至人工智能大模型行业、上交所当日同步发布配套审核指引；支持在沪深交易所推出主动ETF；并将适时发布规范发展资本市场人工智能的指导意见、抓紧修订《上市公司证券发行注册管理办法》等制度规则。央行行长潘功胜、金融监管总局局长李云泽等亦就金融开放与货币政策发声。",
-      "why": "直接利好A股科技成长与AI主线持仓(科创50ETF、人工智能ETF华夏)：科创板第五套标准向AI大模型扩容，为国产大模型(含智谱等)打开境内IPO通道、强化硬科技估值叙事；主动ETF开闸丰富工具。属赛道级实质政策进展，对A股风险偏好与科技板块情绪偏正面。",
-      "source": "证券时报 / 新浪财经 / 投资界 / 中国基金报(陆家嘴论坛报道，whitelist) / 上交所审核指引(官方)",
-      "verified": true,
-      "keywords": [
-        "陆家嘴论坛",
-        "吴清",
-        "科创板",
-        "第五套标准",
-        "人工智能",
-        "大模型",
-        "主动ETF",
-        "证监会",
-        "潘功胜"
-      ],
-      "translated": false,
-      "url": "https://www.stcn.com/article/detail/3966553.html",
-      "id": "9a6775e2f2a1",
-      "is_new": false,
-      "first_seen": "2026-06-17"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "6/16",
-      "title": "瑞士官方确认美伊和平协议6月19日(周五)签署：地点定为卢塞恩湖畔Bürgenstock度假村，特朗普称或不亲自出席",
-      "summary": "瑞士外交部6月16日证实，美伊结束战争的谅解备忘录(MoU)将于6月19日(周五)在中部尼德瓦尔登州卢塞恩湖畔的Bürgenstock度假村签署(早前盛传的日内瓦地点未落定)。该场地三面环水、易于安保，由斡旋方巴基斯坦与卡塔尔共同提议、瑞士作为东道方提供便利。特朗普表示自己可能不会出席签署仪式。协议核心包括重开霍尔木兹海峡、解除对伊石油出口制裁等。",
-      "why": "牵动全仓风险偏好的美伊停战进入“官方确认签署”阶段、不确定性进一步下降，对风险资产偏正面：霍尔木兹重开预期支撑油价回落、缓解通胀黏性，利好港A美科技与消费持仓。但签署仪式仍有变数(以色列非签署方、特朗普或缺席)，叠加今夜FOMC决议，宜留意签署落地前后的波动；地缘溢价消退令IV回落、sell put权利金收窄但接货环境改善。",
-      "source": "瑞士外交部(官方) / France24 / Bloomberg / Times of Israel / swissinfo",
-      "verified": true,
-      "keywords": [
-        "美伊",
-        "和平协议",
-        "瑞士",
-        "Bürgenstock",
-        "6月19日",
-        "霍尔木兹",
-        "签署",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.france24.com/en/live-news/20260616-us-iran-deal-to-be-signed-in-switzerland-on-friday-bern",
-      "id": "e030e2f78597",
-      "is_new": false,
-      "first_seen": "2026-06-17"
-    },
-    {
-      "tier": 2,
+      "id": "78cbda2f53a6",
+      "tier": 3,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "6/17",
-      "title": "泡泡玛特6月17日股价走弱、新消费领跌港股：Labubu二手成交价明显回落、临近线上预售放量补货，市场担忧IP热度可持续性",
-      "summary": "6月17日港股新消费板块明显调整、泡泡玛特(9992.HK)股价走弱(多家媒体称单日跌约6%、市值蒸发逾200亿港元，具体数字待核)。导火索是Labubu二手成交价近期明显回落、部分隐藏款较高点回落数成，叠加官方将开启Labubu线上预售/放量补货，稀缺性溢价收敛，引发对“去Labubu化”后IP热度可持续性的担忧。",
-      "why": "泡泡玛特为消费赛道核心港股持仓。在世界杯破圈带来情绪高点后，二级炒货价回落是对“仅靠Labubu”叙事的再度检验，属基本面/情绪层面实质进展而非纯噪音。回调放大波动、推升权利金，但在美国销售改善与新IP接力得到验证前不宜在高IV时贸然sell put接货，宜跟踪线上预售销量与海外单店数据。",
-      "source": "新浪财经 / 36氪 / 界面新闻 / 证券时报(二手价格与股价为媒体报道，单日跌幅待独立核实)",
+      "time": "Q1 2026财报",
+      "group": "个股",
+      "title": "美团Keeta Q1 2026亏损大幅收窄：从23.8亿美元降至9.6亿美元（-60%）；沙特市场接近月度盈利首次；管理层称全年新业务亏损不超上年",
+      "summary": "美团（3690.HK）Q1 2026财报显示，Keeta海外外卖业务亏损从2025年同期约23.8亿美元大幅收窄至9.6亿美元（同比改善约60%）。管理层在财报会上表示，沙特阿拉伯市场在月度层面已接近首次实现盈利，继香港（2025年10月实现盈利）后成为第二个接近盈亏平衡的海外市场。公司预计2026年全年新业务板块亏损总额不超过上年水平。",
+      "why": "美团（持仓标的）Keeta亏损快速收窄是出海盈利时间轴明确化的关键信号；若沙特实现盈利将成为估值重估催化剂；对sell put策略，海外业务进入兑现期降低了尾部风险，可适度调高美团期权行权价；关注Q2财报（Keeta香港、沙特是否持续盈利）。",
+      "source": "富途牛牛 / Futunn",
       "verified": false,
       "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "9992",
-        "Labubu",
-        "二手价",
-        "盲盒",
-        "新消费",
-        "预售"
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "Keeta",
+        "外卖",
+        "出海",
+        "海外扩张"
       ],
       "translated": false,
-      "url": "",
-      "id": "ed7a8885de4a",
-      "is_new": false,
-      "first_seen": "2026-06-17"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:10",
-      "title": "港股6月17日震荡收跌、医药与新消费明显调整：恒生指数收跌0.34%报23,980.30点，恒生科技跌0.15%报5,291.85点，脑机接口概念爆发、芯片股走强，SENASIC上市首日涨超118%",
-      "summary": "恒指三大指数齐跌，全日成交约2021亿港元；盘面上脑机接口、半导体走强，医药、新消费板块显著回吐。SENASIC（芯片股）港股上市首日大涨逾118%。",
-      "why": "港股持仓（腾讯/阿里/美团/小米/泡泡玛特/老铺黄金/蜜雪/海底捞等）整体处弱势震荡，新消费回调；情绪偏谨慎，适合逢回调对优质标的卖出认沽（sell put）布局。",
-      "source": "网易财经/智通财经",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "恒生科技",
-        "新消费",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://m.163.com/dy/article/K295BS4V05198UNI.html",
-      "id": "9b1f1714bb35",
-      "is_new": false,
-      "first_seen": "2026-06-17"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "今晨04:00",
-      "title": "美股6月16日涨跌分化、油价大跌约5%：道指涨约329点收报近52,000点、盘中刷新历史高位，纳指跌1.15%报26,376点、标普跌0.08%报7,548点，资金观望沃什主持的FOMC决议",
-      "summary": "美伊停火令霍尔木兹海峡有望重开、WTI油价单日跌约5%，提振道指创历史新高；但科技股走弱拖累纳指与标普回落。市场进入两日FOMC会议观望期，6月17日(美东)决议料按兵不动。",
-      "why": "持仓美股科技股（英伟达/特斯拉/谷歌/Palantir/美光等）短线随科技板块回调；FOMC决议(沃什主席首秀)夜间揭晓前波动率抬升，利于事件前后做期权策略。",
-      "source": "TheStreet/Trading Economics",
-      "verified": true,
-      "keywords": [
-        "道指",
-        "纳指",
-        "标普",
-        "FOMC",
-        "油价"
-      ],
-      "translated": false,
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026",
-      "id": "0f8158a3f1b4",
-      "is_new": false,
-      "first_seen": "2026-06-17"
-    },
-    {
-      "id": "540ded1028f0",
-      "is_new": false,
-      "first_seen": "2026-06-16",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:08",
-      "title": "港股6月16日回吐：恒生指数收跌1.25%报约24,533点、恒生科技指数跌约1.61%，科网与权重股普遍承压",
-      "summary": "继6月15日美伊缓和带动外围大涨后，港股6月16日不涨反跌、获利回吐；恒指回落逾300点失守24,600，恒生科技走弱，多数大型科网股下跌、快手等回调。",
-      "why": "直接影响腾讯/阿里/美团/小米/泡泡玛特等全部港股持仓；短线回调中卖put者可关注隐含波动率抬升与更低行权价的建仓机会。",
-      "source": "英为财情/富途牛牛",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "恒生科技",
-        "港股科技"
-      ],
-      "translated": false,
-      "url": "https://cn.investing.com/indices/hang-sen-40"
-    },
-    {
-      "id": "018f2bfa3312",
-      "is_new": false,
-      "first_seen": "2026-06-16",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "昨 20:00",
-      "title": "燧原科技科创板IPO 6月15日成功过会：拟募约60亿元投向第五/六代AI芯片，“国产GPU四小龙”将会师资本市场",
-      "summary": "上交所上市委6月15日审议通过燧原科技科创板IPO，募资约60亿元用于云端AI芯片研发产业化；公司2023–2025年营收由3.01亿增至9.90亿、CAGR约81%。腾讯为其重要外部股东，四小龙（燧原/摩尔线程/沐曦/壁仞）有望齐聚科创板。",
-      "why": "强化国产算力主线，利好科创50ETF、人工智能ETF华夏及半导体板块；腾讯作为重要股东亦受益于被投企业上市的估值兑现。",
-      "source": "新浪财经/上交所",
-      "verified": true,
-      "keywords": [
-        "燧原科技",
-        "国产GPU",
-        "科创板",
-        "AI芯片",
-        "腾讯"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-15/doc-inicnuht5041576.shtml"
-    },
-    {
-      "id": "90fdc5637534",
-      "is_new": false,
-      "first_seen": "2026-06-16",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "6/15收盘",
-      "title": "A股6月15日创业板指大涨5.30%领涨，AI硬件与半导体爆发：全市场逾3900只个股上涨，指数样本调整生效叠加央行6000亿6个月期逆回购助攻",
-      "summary": "6月15日A股科技成长全面爆发，创业板指收涨5.30%领跑；受美伊缓和、油价回落、风险偏好回升驱动，AI芯片/光通信/半导体设备领涨，中际旭创、新易盛、寒武纪、海光等纳入核心指数、被动资金集中买入；央行同日开展6000亿元6个月期逆回购释放积极信号。沪指与科创50相对偏弱，呈“深强沪弱”。",
-      "why": "A股科技赛道情绪显著回暖，利好人工智能ETF华夏、科创50ETF等成长类持仓；但科创50当日相对落后、半导体节奏分化，需关注增量资金是否持续，sell put可在回踩关键支撑时择优布局。",
-      "source": "东方财富(创业板复盘) / 财联社 / 雪球",
-      "verified": true,
-      "keywords": [
-        "创业板",
-        "科创50",
-        "AI芯片",
-        "半导体",
-        "逆回购",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://caifuhao.eastmoney.com/news/20260615160920720359880"
-    },
-    {
-      "id": "ef98d9ce4762",
-      "is_new": false,
-      "first_seen": "2026-06-16",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "6/15",
-      "title": "泡泡玛特Labubu热度延续：6月15日广州天环pop-up新品秒罄、入场名额遭黄牛炒至200–600元，6月以来全线产品溢价、隐藏款溢价达数十倍",
-      "summary": "6月15日泡泡玛特广州天环pop-up开售新品Labubu，0.01元预约入场名额瞬间售罄，二级市场入场资格被炒至200–600元；6月以来Labubu近乎全线溢价，“全力以赴”系列VAS联名与隐藏“暗影自我”溢价达数十倍，连初代盆栽Labubu也明显上涨。",
-      "why": "反映核心消费持仓泡泡玛特的IP需求与二级市场热度仍高，对短期销售与品牌势能偏正面；属里程碑/软新闻类，对估值情绪有支撑，但需警惕“去Labubu化”后新IP接力的不确定性。",
-      "source": "新浪新闻 / 财联社 / CBNData",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "Labubu",
-        "盲盒",
-        "溢价",
-        "Pop Mart"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906txbs.html"
-    },
-    {
-      "id": "f579aaf16af3",
-      "is_new": false,
-      "first_seen": "2026-06-22",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "上午(6/22)",
-      "group": "个股",
-      "title": "泡泡玛特Labubu再破圈：演员姚晨6月22日晒限量版Labubu称“人生唯一盈利的投资”登热搜，官方回应为499元拿铁款、暂时缺货",
-      "summary": "6月22日上午，演员姚晨在微博称去年花几百元购入的Labubu今年全球爆红、还是限量版，自嘲“这怕是我人生中唯一盈利的投资”，相关话题迅速登上热搜。泡泡玛特客服当日回应称该款应为原价499元的“拿铁”款、目前暂时缺货。事件反映Labubu在国内的破圈热度与二手稀缺性仍在延续。",
-      "why": "泡泡玛特为消费赛道核心港股持仓。明星自发晒单登热搜属低成本品牌破圈/情绪事件，对IP热度与短期销售情绪偏正面，但属软新闻、对估值实质影响有限；需结合此前二手价回落、官方放量补货与新IP接力一并判断热度可持续性，不宜据单一热搜在高IV时贸然sell put接货。",
-      "source": "网易 / 新浪(微博热搜与官方客服回应，多家媒体报道)",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "9992",
-        "Labubu",
-        "拿铁",
-        "姚晨",
-        "破圈"
-      ],
-      "translated": false,
-      "url": "https://m.163.com/dy/article/K2NOC0F90550B6IS.html"
-    },
-    {
-      "id": "f5bcb06d4008",
-      "is_new": false,
-      "first_seen": "2026-06-20",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "周五(6/19)",
-      "group": "个股",
-      "title": "加密资产6月19日延续跌势：美联储转鹰、美元走强压制，比特币与以太坊连续数日回落",
-      "summary": "据多家行情报道，自6月17日FOMC维持利率但释放年内或加息信号后，比特币与以太坊连续数日承压下行；美元走强叠加利率上行预期，令不生息的加密资产、黄金、白银同步走弱。具体盘中报价未经实时核对，仅作参考。",
-      "why": "加密走弱压制Circle(CRCL/USDC)与以太坊相关敞口的市场情绪；若回调延续，可关注稳定币龙头逢低布局窗口。",
-      "source": "行情综合(Yahoo Finance)",
-      "verified": false,
-      "keywords": [
-        "比特币",
-        "以太坊",
-        "加密",
-        "Circle",
-        "稳定币"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-19-2026-prices-keep-falling-post-fed-decision-123239380.html"
-    },
-    {
-      "id": "580229869fb8",
-      "is_new": false,
-      "first_seen": "2026-06-19",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "美东周四",
-      "group": "个股",
-      "title": "加密资产6月18日逆消息走弱：尽管美伊协议落地，比特币滑落至约6.4万美元、以太坊约1,750美元，受沃什鹰派FOMC余波拖累；Circle(CRCL)相对抗跌",
-      "summary": "据Yahoo Finance，6月18日比特币与以太坊在美伊和平协议落地背景下不涨反跌：比特币早盘跌约1.8%至约6.4万美元附近、以太坊跌约2.3%至约1,750美元，主因隔夜沃什主持的鹰派FOMC压制风险偏好、利率预期上行。稳定币发行商Circle(CRCL)当日相对抗跌、逆势走高。",
-      "why": "Circle、以太坊为关注标的。地缘利好被鹰派Fed与高利率预期盖过，加密风险偏好走弱、波动加大；对sell put策略意味高IV窗口仍在，但宜压低行权价、关注利率路径与稳定币监管进展，不在高波动中追跌接货。",
-      "source": "Yahoo Finance(币价为行情聚合数据，约数)",
-      "verified": true,
-      "keywords": [
-        "比特币",
-        "Bitcoin",
-        "以太坊",
-        "Ethereum",
-        "Circle",
-        "CRCL",
-        "稳定币",
-        "FOMC"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-18-2026-prices-sliding-despite-iran-peace-deal-115022443.html"
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "美东周三",
-      "title": "加密资产偏弱、Circle(CRCL)6月17日盘中跌约9%至约112.69美元：比特币约6.46万、以太坊约1,790美元，鹰派美联储与股份供给压力共振",
-      "summary": "美联储转鹰打压风险偏好，加密资产承压：比特币约6.46万美元、以太坊约1,790美元(较一周前仍分别上涨约6%与9%)。稳定币发行商Circle(CRCL)6月17日盘中跌约9%至约112.69美元，市场担忧新增股份(解禁/供给)冲击，但部分机构仍维持跑赢评级、视回调为布局机会。",
-      "why": "Circle与以太坊为关注标的：加息环境下高估值加密相关股波动放大；CRCL急跌+高波动适合在支撑位卖出看跌期权收取权利金，但需评估股份供给/解禁与稳定币监管进展。",
-      "source": "Yahoo Finance / Fortune / Quiver Quantitative",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "比特币",
-        "以太坊",
-        "稳定币",
-        "解禁"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/quote/CRCL/",
-      "id": "8fd9506aaf7e",
-      "is_new": false,
-      "first_seen": "2026-06-18"
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:00",
-      "title": "A股6月17日缩量走高、上证再创年内新高：上证指数收涨0.19%报3,426.13点(连续两日上涨)，深成指跌0.19%、创业板指跌0.52%报2,215.13点，两市成交约1.57万亿元",
-      "summary": "沪指温和上行续创年内新高，但创业板与深成指走弱，市场呈高低切换、缩量整固格局；陆家嘴论坛6月17-18日在沪召开，政策面受关注。",
-      "why": "A股持仓（茅台/科创50ETF/AI及卫星ETF等）处高位震荡；指数新高但量能不足，宜关注结构轮动，不追高、回调分批。",
-      "source": "新浪财经/英为财情",
-      "verified": true,
-      "keywords": [
-        "上证指数",
-        "创业板",
-        "科创板",
-        "陆家嘴论坛"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/y/2026-06-17/doc-inicseyw9028497.shtml",
-      "id": "b6854600f283",
-      "is_new": false,
-      "first_seen": "2026-06-17"
-    },
-    {
-      "id": "d80acebf2856",
-      "is_new": false,
-      "first_seen": "2026-06-16",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:00",
-      "title": "A股6月16日缩量整固：创业板指涨超2%再创阶段新高、科创板稳中有进，硬科技续强、钼等稀有金属活跃",
-      "summary": "沪指小幅整理收平/微跌，创业板指延续强势再创2015年来新高，半导体、AI硬件与稀有金属（钨/钼）领涨；市场缩量蓄势，中期反弹格局延续。",
-      "why": "利好科创50ETF、人工智能ETF华夏等A股持仓；硬科技与国产替代主线延续，有助相关赛道估值修复。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "创业板指",
-        "科创板",
-        "半导体",
-        "钼"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicqxft4422118.shtml"
-    },
-    {
-      "id": "1f47d234da32",
-      "is_new": false,
-      "first_seen": "2026-06-16",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "6/15",
-      "title": "腾讯元宝接入ima知识库，强化可溯源AI搜索",
-      "summary": "6月15日，腾讯AI助手“元宝”正式接入ima知识库，用户搜索时可直接调用ima公开知识库沉淀的专业内容，覆盖金融、法律、医疗、教育等20余个行业，给出更精准、可溯源的回答。",
-      "why": "腾讯持续加码元宝/混元AI生态与微信内Agentic服务，巩固流量入口的AI变现路径；属产品迭代类进展，对长期估值偏正面、短期股价影响有限。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "元宝",
-        "混元"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.cn/stock/jdts/2026-06-15/detail-inicnpyv5090463.d.html"
+      "url": "https://news.futunn.com/en/post/70670660/meituan-earnings-call-firmly-oppose-internal-competition-not-in-a",
+      "is_new": true,
+      "first_seen": "2026-07-01"
     }
   ]
 }
