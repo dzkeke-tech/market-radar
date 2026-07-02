@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-01 18:26 (北京时间)",
+  "updated_at": "2026-07-02 18:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,249 @@
   "positions": [],
   "items": [
     {
+      "id": "0841677cd887232e",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-01T22:00:00+08:00",
+      "group": "大盘头条",
+      "title": "美股芯片股暴跌：Micron -8%、SanDisk -10%、Intel -9%、AMD -5%",
+      "summary": "美股周二科技股全线重挫，半导体板块领跌。美光（MU）大跌8%，闪迪（SNDK）跌逾10%，英特尔（INTC）下挫9%，AMD跌约5%，台积电ADR（TSM）跌6%。BofA泡沫风险指标达近年高位，市场忧虑AI资本开支降温、需求前景承压。",
+      "why": "持有MU/SNDK/INTC观察仓，半导体板块系统性重估；波动率急升影响sell put策略隐含波动率定价。",
+      "source": "Yahoo Finance / CNBC / Bloomberg (2026-07-01–02)",
+      "verified": false,
+      "keywords": [
+        "美光",
+        "闪迪",
+        "英特尔",
+        "AMD",
+        "芯片",
+        "半导体",
+        "SK海力士"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-drops-7-amd-slides-162845077.html",
+      "is_new": true,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "d7de8df0d9633e79",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "2026-07-02T09:30:00+08:00",
+      "group": "大盘头条",
+      "title": "韩国KOSPI重挫6.25%：三星-9%、SK海力士-14.57%领跌",
+      "summary": "7月2日亚市开盘，韩国KOSPI指数暴跌6.25%，三星电子大跌约9%，SK海力士（000660）单日跌14.57%，创近年最大单日跌幅。导火索为美股前夜半导体股全线崩跌以及AI资本开支前景不确定性。港股科技板块同步承压。",
+      "why": "持有SK海力士港股ETF（7709.HK / 南方两倍做多CSOP）；单日-14.57%触发风控关注，隐含波动率激增影响sell put策略。",
+      "source": "CNBC / Reuters / Bloomberg (2026-07-02)",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "三星",
+        "KOSPI",
+        "半导体",
+        "韩国"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
+      "is_new": true,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "68cb333969cdb3ca",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-01T18:00:00+08:00",
+      "group": "大盘头条",
+      "title": "Meta to offer excess AI compute as cloud service — Bloomberg",
+      "summary": "Bloomberg reports Meta Platforms plans to rent out surplus AI computing capacity to enterprise customers, entering the cloud AI infrastructure market alongside AWS, Azure, and Google Cloud. The move signals Meta's data center buildout has outpaced its own model training needs.",
+      "why": "Signals AI cloud competition intensification; relevant to watchlist 谷歌 (Google Cloud), and broader AI infrastructure re-rating narrative.",
+      "source": "Bloomberg (2026-07-01)",
+      "verified": false,
+      "keywords": [
+        "谷歌",
+        "AI芯片",
+        "数据中心",
+        "cloud"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
+      "is_new": true,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "2dd97c82c3602cab",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "2026-07-01T20:00:00+08:00",
+      "group": "个股",
+      "title": "阿里巴巴与DOJ达成$6亿和解：跨境商品标签违规",
+      "summary": "美国司法部（DOJ）宣布，阿里巴巴集团及其子公司AUS Merchant Services同意支付6亿美元，解决涉嫌在跨境电商交易中错误标注商品原产地、规避关税及海关申报的指控。这是针对阿里跨境业务的最大单笔监管和解。",
+      "why": "阿里巴巴（BABA/9988.HK）重大监管事件；$6亿罚款影响利润预期，需关注后续对Temu等同类跨境平台的示范效应。",
+      "source": "DOJ官方新闻稿 (www.justice.gov, 2026-07-01)",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "跨境电商",
+        "监管"
+      ],
+      "translated": false,
+      "url": "https://www.justice.gov/opa/pr/alibaba-group-and-aus-merchant-services-agree-pay-600-million-resolve-allegations-they",
+      "is_new": true,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "bcc287b71c36a9d2",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-30T20:00:00+08:00",
+      "group": "个股",
+      "title": "Circle CRCL -17.55%: Visa, Mastercard, Stripe, BlackRock, Coinbase launch Open USD stablecoin coalition",
+      "summary": "Circle's stock (CRCL) plunged 17.55% after Visa, Mastercard, Stripe, BlackRock, and Coinbase jointly launched 'Open USD' — a competing stablecoin consortium designed to rival USDC. The move directly threatens Circle's core USDC franchise and market share in institutional stablecoin settlement.",
+      "why": "Circle (CRCL) is a watchlist holding; -17.55% single-day move reflects direct competitive threat to USDC moat. Also relevant to 稳定币法案 (GENIUS Act) narrative.",
+      "source": "Fortune / Bloomberg (2026-06-30)",
+      "verified": false,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "stablecoin"
+      ],
+      "translated": false,
+      "url": "https://fortune.com/2026/06/30/stripe-visa-stablecoin-rival-ousd-tether-circle/",
+      "is_new": true,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "3a85a119cf5bd4bf",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-01T22:00:00+08:00",
+      "group": "个股",
+      "title": "Palantir +7.77%: Army NGC2 AI contract win + Nvidia Nemotron model deal",
+      "summary": "Palantir (PLTR) surged 7.77% after announcing it won the U.S. Army's Next Generation Command and Control (NGC2) AI platform contract, and separately partnered with Nvidia to deploy Nemotron language models on Palantir's Foundry/AIP platform for defense and government clients.",
+      "why": "Palantir is a watchlist holding; government AI contract wins are the core thesis driver. NGC2 + Nvidia partnership reinforces AIP platform moat.",
+      "source": "Yahoo Finance / sg.finance.yahoo.com (2026-07-01)",
+      "verified": false,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "AIP",
+        "Foundry",
+        "国防AI",
+        "政府合同"
+      ],
+      "translated": false,
+      "url": "https://sg.finance.yahoo.com/news/palantir-technologies-pltr-nvidia-211703928.html",
+      "is_new": true,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "b6ce4d9cc612e7a6",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-01T18:00:00+08:00",
+      "group": "个股",
+      "title": "小米汽车6月交付逾3万辆，H1累计约18万辆",
+      "summary": "小米汽车6月单月交付量超30,000辆（SU7+YU7），上半年累计交付约18万辆，同比大幅增长。YU7 SUV自5月上市以来订单持续旺盛，小米已跻身中国新势力前列，雷军宣布全年目标上调至35万辆。",
+      "why": "小米（1810.HK）EV业务里程碑：交付量超预期将推动估值重估，影响covered call行权价参考。",
+      "source": "CNEVPost / 小米官方微博 (2026-07-01)",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "SU7",
+        "YU7",
+        "小米汽车",
+        "雷军"
+      ],
+      "translated": false,
+      "url": "https://cnevpost.com/2026/07/01/xiaomi-ev-deliveries-over-30000-jun-2026/",
+      "is_new": true,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "04dc4c235b2b8014",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-01T20:00:00+08:00",
+      "group": "大盘头条",
+      "title": "BofA泡沫风险指标达警戒线：半导体AI估值过热",
+      "summary": "美银美林（BofA）发布报告称，其内部\"泡沫风险指标\"已上升至2021年科技泡沫以来的最高水平，点名半导体/AI基础设施估值\"严重透支\"，建议投资者对MU、INTC、AMD、NVDA等芯片股保持谨慎，适当降低仓位比例。",
+      "why": "直接影响持仓：英伟达、美光、闪迪、英特尔均在观察列表。BofA警告可作为covered call或sell put行权价调整的参考依据。",
+      "source": "Yahoo Finance / BofA研报摘要 (2026-07-01)",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "美光",
+        "闪迪",
+        "英特尔",
+        "AI芯片",
+        "半导体",
+        "估值"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/technology/articles/mu-intc-amd-nvda-other-151853766.html",
+      "is_new": true,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "de4c42140eac9fcb",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "2026-07-01T18:00:00+08:00",
+      "group": "大盘头条",
+      "title": "BYD Q2纯电交付55.7万辆碾压特斯拉：EV竞争格局加剧",
+      "summary": "比亚迪公布Q2纯电动车（BEV）交付量557,000辆，同比增长约38%，远超特斯拉市场预期约406,000辆（特斯拉官方数据7月2日发布）。BYD在欧洲、东南亚市场同步扩张，全球EV竞争格局持续向中国品牌倾斜。",
+      "why": "特斯拉（TSLA）是观察标的，BYD交付超预期直接压制特斯拉估值溢价，影响TSLA sell put策略风险判断。",
+      "source": "Electrek / Reuters (2026-07-01)",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "BYD",
+        "自动驾驶",
+        "EV"
+      ],
+      "translated": false,
+      "url": "https://electrek.co/2026/07/01/byd-tesla-q2-2026-bev-sales/",
+      "is_new": true,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
       "id": "c892eb87f459",
       "tier": 1,
       "lang": "en",
@@ -61,7 +304,7 @@
       ],
       "translated": false,
       "url": "https://www.investing.com/news/stock-market-news/south-korean-trade-watchdog-alleges-google-abused-its-position-in-android-app-store-4769427",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -88,7 +331,7 @@
       ],
       "translated": false,
       "url": "https://finance.yahoo.com/markets/stocks/articles/tencent-ramps-buybacks-share-rout-002809157.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -116,7 +359,7 @@
       ],
       "translated": false,
       "url": "https://invezz.com/news/2026/06/30/sandisk-gains-after-bernstein-raises-price-target-on-memory-supercycle-outlook/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -144,7 +387,7 @@
       ],
       "translated": false,
       "url": "https://www.huxiu.com/article/4845742.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -172,7 +415,7 @@
       ],
       "translated": false,
       "url": "https://www.deseret.com/business/2026/06/30/us-stock-markets-record-earnings-nasdaq-exchange-sp-500-dow-jones-investors/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -198,7 +441,7 @@
       ],
       "translated": false,
       "url": "https://www.techtimes.com/articles/319305/20260629/tesla-q2-2026-deliveries-wall-street-sets-406024-bar-july-2-report.htm",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -227,7 +470,7 @@
       ],
       "translated": false,
       "url": "https://www.investing.com/analysis/july-market-outlook-tariffs-trade-and-the-next-inflation-test-200682939",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -256,7 +499,7 @@
       ],
       "translated": false,
       "url": "https://www.scmp.com/tech/big-tech/article/3355651/tencent-shares-jump-expectations-ai-agent-within-wechat-super-app",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -286,7 +529,7 @@
       ],
       "translated": false,
       "url": "https://www.kavout.com/market-lens/what-did-alibaba-s-q4-fy2026-earnings-reveal",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -316,7 +559,7 @@
       ],
       "translated": false,
       "url": "https://news.skhynix.com/12-layer-hbm4e-sample/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -343,7 +586,7 @@
       ],
       "translated": false,
       "url": "https://www.newsbtc.com/news/bitcoin-slides-toward-58-000-as-etf-outflows-and-options-expiry-add-pressure/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -371,7 +614,7 @@
       ],
       "translated": false,
       "url": "https://www.meituan.com/news/NN260630164005904",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -401,7 +644,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.cn/tech/2026-06-25/detail-inierpqu2421092.d.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -427,7 +670,7 @@
       ],
       "translated": false,
       "url": "https://www.forbes.com/sites/clementelisi/2026/06/26/world-cup-delivers-early-economic-boost-for-host-cities/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -456,7 +699,7 @@
       ],
       "translated": false,
       "url": "https://www.rttnews.com/3643148/eu-tells-google-to-open-gemini-android-features-to-ai-rivals-under-dma.aspx",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -484,7 +727,7 @@
       ],
       "translated": false,
       "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261990267-sandisk-sndk-stock-analysis-micron-ai-memory-demand-june-2026-tradingkey",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -512,7 +755,7 @@
       ],
       "translated": false,
       "url": "https://www.kavout.com/market-lens/is-palantir-s-ai-platform-now-indispensable-for-government-and-enterprise",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
@@ -540,7 +783,7 @@
       ],
       "translated": false,
       "url": "https://www.gbichina.com/news/26060.html/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-01"
     },
     {
