@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-02 18:20 (北京时间)",
+  "updated_at": "2026-07-03 13:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,89 @@
   "positions": [],
   "items": [
     {
+      "id": "da44825cae53c135",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-02T20:30:00+08:00",
+      "group": "大盘头条",
+      "title": "美国6月非农就业仅增5.7万，远低预期11万；黄金突破4130美元，加息概率急降",
+      "summary": "美国劳工统计局公布，6月非农就业新增57,000人，大幅低于市场预期的约110,000人；失业率4.2%。4月与5月就业数据合计下修7.4万人。非农数据疲软令市场大幅压缩美联储年内加息预期，黄金现货突破4130美元。美股7月3日因独立日提前休市，本周交易日仅4天。",
+      "why": "宏观就业疲软降低加息风险，短期波动率环境偏有利于sell put策略；黄金反弹利好老铺黄金（6181.HK）正面情绪。",
+      "source": "BLS官方 / FXStreet",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "非农",
+        "Fed",
+        "利率",
+        "黄金",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "is_new": true,
+      "first_seen": "2026-07-03 13:16 (北京时间)"
+    },
+    {
+      "id": "8ed9578c41420589",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-02T20:00:00+08:00",
+      "group": "个股",
+      "title": "Tesla Q2 2026 deliveries: 480,126 vehicles (+25% YoY), smashes 406K consensus — first YoY growth in two years",
+      "summary": "Tesla delivered 480,126 vehicles in Q2 2026, up 25% year-over-year and ~74,000 units above Wall Street's 406,000 consensus — the company's strongest Q2 ever and its first YoY delivery growth after two consecutive years of decline. Model 3/Y accounted for 467,762 units; energy storage reached 13.5 GWh (+40% YoY, slightly below the ~13.8 GWh estimate). BYD remains ahead in global BEV sales at 557,090 but Tesla narrowed the gap from ~220K to ~77K units. Q2 earnings call set for July 22.",
+      "why": "超预期交付将大幅提振Q2业绩预期，TSLA多头受益；7月22日财报前是期权策略关键节点，sell put者需提前评估行权价保护。",
+      "source": "Electrek / CNBC",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "交付量",
+        "Q2 2026",
+        "Robotaxi"
+      ],
+      "translated": false,
+      "url": "https://electrek.co/2026/07/02/tesla-q2-2026-deliveries-480126/",
+      "is_new": true,
+      "first_seen": "2026-07-03 13:16 (北京时间)"
+    },
+    {
+      "id": "53b29edd9cf9ee1a",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-02T21:00:00+08:00",
+      "group": "个股",
+      "title": "快手可灵AI完成近30亿美元融资，估值180亿美元，腾讯、阿里云、百度史上首次联合入股",
+      "summary": "快手科技通过港交所公告确认，旗下视频生成大模型可灵AI完成独立外部增资，上限近30亿美元，融资后估值约180亿美元，创全球视频大模型单轮融资最高纪录。投资方涵盖腾讯、阿里云、百度（BAT首次联合）及CPE源峰、国方创新基金等。Q1 2026营收超65亿元（同比+300%+），ARR接近50亿美元。快手计划12个月内推进可灵AI赴港IPO。",
+      "why": "腾讯以战略投资者身份入局可灵AI，强化其视频AI生态布局，直接受益持仓；快手股价在此消息刺激下高开6%，可关注相关covered call机会。",
+      "source": "新浪财经 / 快手港交所公告",
+      "verified": true,
+      "keywords": [
+        "快手",
+        "可灵AI",
+        "腾讯",
+        "阿里巴巴",
+        "AI",
+        "大模型",
+        "融资",
+        "WeChat"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifntfe2385521.shtml",
+      "is_new": true,
+      "first_seen": "2026-07-03 13:16 (北京时间)"
+    },
+    {
       "id": "0841677cd887232e",
       "tier": 1,
       "lang": "zh",
@@ -61,7 +144,7 @@
       ],
       "translated": false,
       "url": "https://finance.yahoo.com/markets/stocks/articles/intel-drops-7-amd-slides-162845077.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-02 13:00 (北京时间)"
     },
     {
@@ -88,7 +171,7 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-02 13:00 (北京时间)"
     },
     {
@@ -113,7 +196,7 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-02 13:00 (北京时间)"
     },
     {
@@ -140,7 +223,7 @@
       ],
       "translated": false,
       "url": "https://www.justice.gov/opa/pr/alibaba-group-and-aus-merchant-services-agree-pay-600-million-resolve-allegations-they",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-02 13:00 (北京时间)"
     },
     {
@@ -166,117 +249,7 @@
       ],
       "translated": false,
       "url": "https://fortune.com/2026/06/30/stripe-visa-stablecoin-rival-ousd-tether-circle/",
-      "is_new": true,
-      "first_seen": "2026-07-02 13:00 (北京时间)"
-    },
-    {
-      "id": "3a85a119cf5bd4bf",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-07-01T22:00:00+08:00",
-      "group": "个股",
-      "title": "Palantir +7.77%: Army NGC2 AI contract win + Nvidia Nemotron model deal",
-      "summary": "Palantir (PLTR) surged 7.77% after announcing it won the U.S. Army's Next Generation Command and Control (NGC2) AI platform contract, and separately partnered with Nvidia to deploy Nemotron language models on Palantir's Foundry/AIP platform for defense and government clients.",
-      "why": "Palantir is a watchlist holding; government AI contract wins are the core thesis driver. NGC2 + Nvidia partnership reinforces AIP platform moat.",
-      "source": "Yahoo Finance / sg.finance.yahoo.com (2026-07-01)",
-      "verified": false,
-      "keywords": [
-        "Palantir",
-        "PLTR",
-        "AIP",
-        "Foundry",
-        "国防AI",
-        "政府合同"
-      ],
-      "translated": false,
-      "url": "https://sg.finance.yahoo.com/news/palantir-technologies-pltr-nvidia-211703928.html",
-      "is_new": true,
-      "first_seen": "2026-07-02 13:00 (北京时间)"
-    },
-    {
-      "id": "b6ce4d9cc612e7a6",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-07-01T18:00:00+08:00",
-      "group": "个股",
-      "title": "小米汽车6月交付逾3万辆，H1累计约18万辆",
-      "summary": "小米汽车6月单月交付量超30,000辆（SU7+YU7），上半年累计交付约18万辆，同比大幅增长。YU7 SUV自5月上市以来订单持续旺盛，小米已跻身中国新势力前列，雷军宣布全年目标上调至35万辆。",
-      "why": "小米（1810.HK）EV业务里程碑：交付量超预期将推动估值重估，影响covered call行权价参考。",
-      "source": "CNEVPost / 小米官方微博 (2026-07-01)",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "SU7",
-        "YU7",
-        "小米汽车",
-        "雷军"
-      ],
-      "translated": false,
-      "url": "https://cnevpost.com/2026/07/01/xiaomi-ev-deliveries-over-30000-jun-2026/",
-      "is_new": true,
-      "first_seen": "2026-07-02 13:00 (北京时间)"
-    },
-    {
-      "id": "04dc4c235b2b8014",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-07-01T20:00:00+08:00",
-      "group": "大盘头条",
-      "title": "BofA泡沫风险指标达警戒线：半导体AI估值过热",
-      "summary": "美银美林（BofA）发布报告称，其内部\"泡沫风险指标\"已上升至2021年科技泡沫以来的最高水平，点名半导体/AI基础设施估值\"严重透支\"，建议投资者对MU、INTC、AMD、NVDA等芯片股保持谨慎，适当降低仓位比例。",
-      "why": "直接影响持仓：英伟达、美光、闪迪、英特尔均在观察列表。BofA警告可作为covered call或sell put行权价调整的参考依据。",
-      "source": "Yahoo Finance / BofA研报摘要 (2026-07-01)",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "美光",
-        "闪迪",
-        "英特尔",
-        "AI芯片",
-        "半导体",
-        "估值"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/technology/articles/mu-intc-amd-nvda-other-151853766.html",
-      "is_new": true,
-      "first_seen": "2026-07-02 13:00 (北京时间)"
-    },
-    {
-      "id": "de4c42140eac9fcb",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "2026-07-01T18:00:00+08:00",
-      "group": "大盘头条",
-      "title": "BYD Q2纯电交付55.7万辆碾压特斯拉：EV竞争格局加剧",
-      "summary": "比亚迪公布Q2纯电动车（BEV）交付量557,000辆，同比增长约38%，远超特斯拉市场预期约406,000辆（特斯拉官方数据7月2日发布）。BYD在欧洲、东南亚市场同步扩张，全球EV竞争格局持续向中国品牌倾斜。",
-      "why": "特斯拉（TSLA）是观察标的，BYD交付超预期直接压制特斯拉估值溢价，影响TSLA sell put策略风险判断。",
-      "source": "Electrek / Reuters (2026-07-01)",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "BYD",
-        "自动驾驶",
-        "EV"
-      ],
-      "translated": false,
-      "url": "https://electrek.co/2026/07/01/byd-tesla-q2-2026-bev-sales/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-02 13:00 (北京时间)"
     },
     {
@@ -563,230 +536,6 @@
       "first_seen": "2026-07-01"
     },
     {
-      "id": "52c11ba74016",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "今日",
-      "group": "大盘头条",
-      "title": "Bitcoin slides toward $58,000: June ETF outflows hit record $4.06B — largest monthly outflow in spot ETF history",
-      "summary": "Bitcoin fell ~2% to ~$58,690 on July 1 as quarter-end pressure combined with record spot ETF outflows. US spot Bitcoin ETFs saw $4.06 billion in net outflows in June, the largest monthly outflow since the products launched. K33 notes 5-day net ETF flows were -34,267 BTC, the second-largest such stretch on record. Analysts warn no clear bottom yet confirmed.",
-      "why": "加密市场持续走弱是风险偏好收缩信号；Circle(CRCL)稳定币叙事赖以支撑的加密热度正在降温，同时BTC ETF流出规模创纪录也提示宏观避险情绪升温。",
-      "source": "NewsBTC / K33 Research / CoinDesk",
-      "verified": false,
-      "keywords": [
-        "Bitcoin",
-        "BTC",
-        "ETF",
-        "outflows",
-        "crypto",
-        "Circle"
-      ],
-      "translated": false,
-      "url": "https://www.newsbtc.com/news/bitcoin-slides-toward-58-000-as-etf-outflows-and-options-expiry-add-pressure/",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "a338c29d436c",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "昨 22:00",
-      "group": "个股",
-      "title": "美团发布万亿参数大模型LongCat-2.0：1.6万亿参数，业界首个全程国产算力（5万卡集群）完成训练",
-      "summary": "美团于6月30日开源LongCat-2.0，总参数1.6万亿（MoE架构，平均激活约48B），预训练数据逾30万亿token，原生支持100万token超长上下文；全程由国产AI芯片（5万卡集群）训练——中国大模型国产算力自主化里程碑。在OpenRouter实时调用量全球前三，专为Agentic Coding任务优化。",
-      "why": "美团(3690.HK)AI自研能力突破标志其摆脱Nvidia GPU依赖，可能大幅降低长期推理成本；开源策略也有助于扩大生态影响力，是Tech持仓中的估值催化剂。",
-      "source": "美团官方新闻",
-      "verified": true,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "LongCat",
-        "大模型",
-        "AI",
-        "国产算力"
-      ],
-      "translated": false,
-      "url": "https://www.meituan.com/news/NN260630164005904",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "4f36c9336158",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "13:00",
-      "group": "个股",
-      "title": "携程集团Q1 2026净收入162亿元(同比+17%)；国际OTA平台预订量+65%，入境游预订量+90%",
-      "summary": "携程2026年Q1净收入162亿元（同比+17%），调整后EBITDA约48亿元（+14%）。分项：住宿预订收入65亿元(+17%)，交通票务61亿元(+12%)，旅游度假11亿元(+19%)，商旅管理6.9亿元(+20%)。国际业务爆发：境外OTA平台预订量同比+65%，入境旅游预订量激增+90%，来自亚太、欧洲、美国多个主要客源市场。",
-      "why": "出境和入境游双双超预期，提升携程全年盈利能见度；然而H1股价已跌逾30%（HSI最差成份股之一），sell put时行权价需与当前股价保持充足安全边距（30%+缓冲）。",
-      "source": "新浪财经 / 携程集团",
-      "verified": true,
-      "keywords": [
-        "携程",
-        "Trip.com",
-        "TCOM",
-        "9961.HK",
-        "出境游",
-        "入境游",
-        "OTA",
-        "旅游"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.cn/tech/2026-06-25/detail-inierpqu2421092.d.html",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "105faec1ec16",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "13:00",
-      "group": "大盘头条",
-      "title": "FIFA World Cup 2026 delivers early economic boost: host city card spending +6.3% YoY; $9B GDP impact expected across North America",
-      "summary": "Early July data shows card-based purchases in the 16 World Cup host cities up 6.3% year-over-year, driven by a 16.7% surge from non-local visitors. The tournament (June–July 2026, North America) is expected to generate ~USD 9 billion in GDP, drawing 6.5 million attendees including 2.6 million international visitors. Beneficiary sectors: hospitality, dining, sports betting, and media (Fox Corp holds English-language rights to all 104 matches).",
-      "why": "世界杯消费热潮对多项持仓形成催化：泡泡玛特FIFA联名Labubu出圈（品牌破圈）、美团Keeta在中东市场扩张获间接助力、麦当劳/好市多受益于美国消费提升；期权方向看，消费股implied vol或已提前定价。",
-      "source": "Forbes / Allianz Trade",
-      "verified": true,
-      "keywords": [
-        "FIFA World Cup",
-        "世界杯",
-        "消费",
-        "旅游",
-        "North America 2026"
-      ],
-      "translated": false,
-      "url": "https://www.forbes.com/sites/clementelisi/2026/06/26/world-cup-delivers-early-economic-boost-for-host-cities/",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "a7d60befb904",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "13:00",
-      "group": "个股",
-      "title": "EU orders Google to open Gemini AI and Android features to rivals under DMA; Alphabet simultaneously rationing Gemini access due to compute constraints",
-      "summary": "The European Commission issued instructions to Alphabet requiring that competing AI developers can access core Google services linked to Gemini and Android under the Digital Markets Act (DMA). Simultaneously, Alphabet is limiting Gemini AI access as cloud capacity tightens, suggesting demand is outstripping supply. Alphabet's Gemini app has surpassed 750 million monthly active users. Alphabet also announced an $80B equity offering to fund AI compute infrastructure.",
-      "why": "EU监管压力可能削弱谷歌在欧洲的AI生态护城河；Gemini算力限流反映AI基础设施扩张压力；$800亿融资规模创科技史上最大股权融资之一，短期摊薄效应值得关注（GOOGL期权波动率可能上升）。",
-      "source": "RTTNews / Yahoo Finance",
-      "verified": true,
-      "keywords": [
-        "谷歌",
-        "Google",
-        "Alphabet",
-        "GOOGL",
-        "Gemini",
-        "EU DMA",
-        "监管",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.rttnews.com/3643148/eu-tells-google-to-open-gemini-android-features-to-ai-rivals-under-dma.aspx",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "ef9934d9e98f",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "13:00",
-      "group": "个股",
-      "title": "SanDisk (SNDK) leads S&P 500 in 2026 with YTD gains reportedly exceeding 800%; NAND supply shortage confirmed to extend past 2027",
-      "summary": "SanDisk (SNDK), spun off from Western Digital in February 2025, is the best-performing S&P 500 stock in 2026 with year-to-date gains of ~800–900% reported by multiple analyst sources. Catalysts: global NAND flash shortage, surging AI data center demand. The company says 2026 production capacity is fully sold out, with 2027 bookings described as strong. Q3 reported revenue of $5.95B with non-GAAP gross margins of 78.4%.",
-      "why": "SNDK的爆涨幅度与美光Q3数据共同印证了NAND供应紧缺真实且持续，支撑美光/SanDisk期权策略：存储类股波动率高，sell covered call获取权利金具有吸引力；同时说明AI存储超级周期尚在进行中。",
-      "source": "TradingKey / Barchart",
-      "verified": false,
-      "keywords": [
-        "闪迪",
-        "SanDisk",
-        "SNDK",
-        "NAND",
-        "存储",
-        "AI",
-        "S&P500"
-      ],
-      "translated": false,
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261990267-sandisk-sndk-stock-analysis-micron-ai-memory-demand-june-2026-tradingkey",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "6777932dfd04",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "13:00",
-      "group": "个股",
-      "title": "Palantir wins $300M USDA Blanket Purchase Agreement; 2026 revenue guidance $7.2B (+61% YoY); government AI contract awards expected to accelerate Q3",
-      "summary": "Palantir secured a $300 million Blanket Purchase Agreement with the US Department of Agriculture (USDA) to support the National Farm Security Action Plan. The company provided 2026 revenue guidance of $7.2 billion, implying ~61% growth. In Q1 2026, AIP secured 204 contracts over $1 million, including 53 exceeding $10 million. Government contract awards typically accelerate in Q3 (July–September) as agencies complete budget allocation.",
-      "why": "政府合同加速落地提升PLTR营收能见度；但估值已极度拉伸（P/S >30x），持仓时需警惕任何预期差；高隐含波动率使sell put策略的权利金回报率较高，但需设置较宽安全垫。",
-      "source": "Kavout / Intellectia",
-      "verified": false,
-      "keywords": [
-        "Palantir",
-        "PLTR",
-        "政府合同",
-        "USDA",
-        "AI平台",
-        "国防AI",
-        "AIP"
-      ],
-      "translated": false,
-      "url": "https://www.kavout.com/market-lens/is-palantir-s-ai-platform-now-indispensable-for-government-and-enterprise",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "85e7389736f9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "13:00",
-      "group": "个股",
-      "title": "（存疑）拼多多/Temu三重利空：欧盟5月罚款2亿欧元+美国日活骤降+营收增速降至个位数；PDD股价从峰值跌逾30%",
-      "summary": "欧盟于2026年5月对Temu开出2亿欧元罚款，指控其允许销售在欧盟境内非法产品。同年1月，都柏林总部遭突击检查，土耳其分支亦被突击。美国取消800美元以下包裹免税政策后，Temu被迫转向半托管模式，丧失低价优势，美国日活用户大幅下滑。PDD Holdings营收增速从2024年的59%降至个位数，股价自2025年11月峰值下跌逾30%。",
-      "why": "Temu出海变现逻辑持续受损；若持有PDD多头仓位，需重新评估成长故事是否已破坏；拼多多目前估值已明显调整，sell put时行权价需结合营收减速风险充分下调。",
-      "source": "GBIChina / TechBuzz China",
-      "verified": false,
-      "keywords": [
-        "拼多多",
-        "PDD",
-        "Temu",
-        "欧盟罚款",
-        "关税",
-        "跨境电商",
-        "出海"
-      ],
-      "translated": false,
-      "url": "https://www.gbichina.com/news/26060.html/",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
       "id": "608e23a07f7c",
       "tier": 1,
       "lang": "en",
@@ -1011,6 +760,396 @@
       "first_seen": "2026-07-01"
     },
     {
+      "id": "a9be70d3a3c5c250",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-02T15:30:00+08:00",
+      "group": "大盘头条",
+      "title": "港股互联网7月2日久违大反弹：美团+7%、阿里+4%、腾讯+3%；PE-TTM仅17.69x处历史低位",
+      "summary": "7月2日港股收盘，互联网板块全面反弹：美团-W涨逾7%，阿里巴巴-W涨超4%，腾讯控股涨超3%。当前港股通互联网ETF跟踪指数PE-TTM仅约17.69倍，处于近2年0.61%分位（即低于近99%的历史时段）。催化剂包括可灵AI超级融资、美团LongCat-2.0开源及AI叙事整体升温。",
+      "why": "互联网龙头估值已处历史低位，AI催化下的集体反弹或预示中报窗口布局机会；可结合腾讯/阿里已有仓位评估sell put增仓条件。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "阿里巴巴",
+        "美团",
+        "Meituan",
+        "港股",
+        "互联网",
+        "估值"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifkqha5949287.shtml",
+      "is_new": true,
+      "first_seen": "2026-07-03 13:16 (北京时间)"
+    },
+    {
+      "id": "83eca76f049246b9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-02T18:00:00+08:00",
+      "group": "个股",
+      "title": "腾讯连续30日回购累计逾142亿港元；网易正式纳入港股通",
+      "summary": "腾讯控股自2026年5月18日起已连续30个交易日进行股份回购，累计金额超142亿港元（约合18亿美元），为年内最高月度回购水平。与此同时，网易（9999.HK）于7月2日正式纳入港股通（沪深港通），南向资金通道打开，流动性有望改善。",
+      "why": "腾讯大规模持续回购是对股价的强力支撑，并将提升EPS；covered call持有者维持策略；网易纳入港股通将引入南向增量资金。",
+      "source": "东方财富网 / 港交所公告",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "回购",
+        "网易",
+        "港股通",
+        "buyback"
+      ],
+      "translated": false,
+      "url": "https://finance.eastmoney.com/a/202607023791082897.html",
+      "is_new": true,
+      "first_seen": "2026-07-03 13:16 (北京时间)"
+    },
+    {
+      "id": "3a85a119cf5bd4bf",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-01T22:00:00+08:00",
+      "group": "个股",
+      "title": "Palantir +7.77%: Army NGC2 AI contract win + Nvidia Nemotron model deal",
+      "summary": "Palantir (PLTR) surged 7.77% after announcing it won the U.S. Army's Next Generation Command and Control (NGC2) AI platform contract, and separately partnered with Nvidia to deploy Nemotron language models on Palantir's Foundry/AIP platform for defense and government clients.",
+      "why": "Palantir is a watchlist holding; government AI contract wins are the core thesis driver. NGC2 + Nvidia partnership reinforces AIP platform moat.",
+      "source": "Yahoo Finance / sg.finance.yahoo.com (2026-07-01)",
+      "verified": false,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "AIP",
+        "Foundry",
+        "国防AI",
+        "政府合同"
+      ],
+      "translated": false,
+      "url": "https://sg.finance.yahoo.com/news/palantir-technologies-pltr-nvidia-211703928.html",
+      "is_new": false,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "b6ce4d9cc612e7a6",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-01T18:00:00+08:00",
+      "group": "个股",
+      "title": "小米汽车6月交付逾3万辆，H1累计约18万辆",
+      "summary": "小米汽车6月单月交付量超30,000辆（SU7+YU7），上半年累计交付约18万辆，同比大幅增长。YU7 SUV自5月上市以来订单持续旺盛，小米已跻身中国新势力前列，雷军宣布全年目标上调至35万辆。",
+      "why": "小米（1810.HK）EV业务里程碑：交付量超预期将推动估值重估，影响covered call行权价参考。",
+      "source": "CNEVPost / 小米官方微博 (2026-07-01)",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "SU7",
+        "YU7",
+        "小米汽车",
+        "雷军"
+      ],
+      "translated": false,
+      "url": "https://cnevpost.com/2026/07/01/xiaomi-ev-deliveries-over-30000-jun-2026/",
+      "is_new": false,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "04dc4c235b2b8014",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-01T20:00:00+08:00",
+      "group": "大盘头条",
+      "title": "BofA泡沫风险指标达警戒线：半导体AI估值过热",
+      "summary": "美银美林（BofA）发布报告称，其内部\"泡沫风险指标\"已上升至2021年科技泡沫以来的最高水平，点名半导体/AI基础设施估值\"严重透支\"，建议投资者对MU、INTC、AMD、NVDA等芯片股保持谨慎，适当降低仓位比例。",
+      "why": "直接影响持仓：英伟达、美光、闪迪、英特尔均在观察列表。BofA警告可作为covered call或sell put行权价调整的参考依据。",
+      "source": "Yahoo Finance / BofA研报摘要 (2026-07-01)",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "美光",
+        "闪迪",
+        "英特尔",
+        "AI芯片",
+        "半导体",
+        "估值"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/technology/articles/mu-intc-amd-nvda-other-151853766.html",
+      "is_new": false,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "de4c42140eac9fcb",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "2026-07-01T18:00:00+08:00",
+      "group": "大盘头条",
+      "title": "BYD Q2纯电交付55.7万辆碾压特斯拉：EV竞争格局加剧",
+      "summary": "比亚迪公布Q2纯电动车（BEV）交付量557,000辆，同比增长约38%，远超特斯拉市场预期约406,000辆（特斯拉官方数据7月2日发布）。BYD在欧洲、东南亚市场同步扩张，全球EV竞争格局持续向中国品牌倾斜。",
+      "why": "特斯拉（TSLA）是观察标的，BYD交付超预期直接压制特斯拉估值溢价，影响TSLA sell put策略风险判断。",
+      "source": "Electrek / Reuters (2026-07-01)",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "BYD",
+        "自动驾驶",
+        "EV"
+      ],
+      "translated": false,
+      "url": "https://electrek.co/2026/07/01/byd-tesla-q2-2026-bev-sales/",
+      "is_new": false,
+      "first_seen": "2026-07-02 13:00 (北京时间)"
+    },
+    {
+      "id": "52c11ba74016",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "今日",
+      "group": "大盘头条",
+      "title": "Bitcoin slides toward $58,000: June ETF outflows hit record $4.06B — largest monthly outflow in spot ETF history",
+      "summary": "Bitcoin fell ~2% to ~$58,690 on July 1 as quarter-end pressure combined with record spot ETF outflows. US spot Bitcoin ETFs saw $4.06 billion in net outflows in June, the largest monthly outflow since the products launched. K33 notes 5-day net ETF flows were -34,267 BTC, the second-largest such stretch on record. Analysts warn no clear bottom yet confirmed.",
+      "why": "加密市场持续走弱是风险偏好收缩信号；Circle(CRCL)稳定币叙事赖以支撑的加密热度正在降温，同时BTC ETF流出规模创纪录也提示宏观避险情绪升温。",
+      "source": "NewsBTC / K33 Research / CoinDesk",
+      "verified": false,
+      "keywords": [
+        "Bitcoin",
+        "BTC",
+        "ETF",
+        "outflows",
+        "crypto",
+        "Circle"
+      ],
+      "translated": false,
+      "url": "https://www.newsbtc.com/news/bitcoin-slides-toward-58-000-as-etf-outflows-and-options-expiry-add-pressure/",
+      "is_new": false,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "a338c29d436c",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "昨 22:00",
+      "group": "个股",
+      "title": "美团发布万亿参数大模型LongCat-2.0：1.6万亿参数，业界首个全程国产算力（5万卡集群）完成训练",
+      "summary": "美团于6月30日开源LongCat-2.0，总参数1.6万亿（MoE架构，平均激活约48B），预训练数据逾30万亿token，原生支持100万token超长上下文；全程由国产AI芯片（5万卡集群）训练——中国大模型国产算力自主化里程碑。在OpenRouter实时调用量全球前三，专为Agentic Coding任务优化。",
+      "why": "美团(3690.HK)AI自研能力突破标志其摆脱Nvidia GPU依赖，可能大幅降低长期推理成本；开源策略也有助于扩大生态影响力，是Tech持仓中的估值催化剂。",
+      "source": "美团官方新闻",
+      "verified": true,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "LongCat",
+        "大模型",
+        "AI",
+        "国产算力"
+      ],
+      "translated": false,
+      "url": "https://www.meituan.com/news/NN260630164005904",
+      "is_new": false,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "4f36c9336158",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "13:00",
+      "group": "个股",
+      "title": "携程集团Q1 2026净收入162亿元(同比+17%)；国际OTA平台预订量+65%，入境游预订量+90%",
+      "summary": "携程2026年Q1净收入162亿元（同比+17%），调整后EBITDA约48亿元（+14%）。分项：住宿预订收入65亿元(+17%)，交通票务61亿元(+12%)，旅游度假11亿元(+19%)，商旅管理6.9亿元(+20%)。国际业务爆发：境外OTA平台预订量同比+65%，入境旅游预订量激增+90%，来自亚太、欧洲、美国多个主要客源市场。",
+      "why": "出境和入境游双双超预期，提升携程全年盈利能见度；然而H1股价已跌逾30%（HSI最差成份股之一），sell put时行权价需与当前股价保持充足安全边距（30%+缓冲）。",
+      "source": "新浪财经 / 携程集团",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "9961.HK",
+        "出境游",
+        "入境游",
+        "OTA",
+        "旅游"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.cn/tech/2026-06-25/detail-inierpqu2421092.d.html",
+      "is_new": false,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "105faec1ec16",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "13:00",
+      "group": "大盘头条",
+      "title": "FIFA World Cup 2026 delivers early economic boost: host city card spending +6.3% YoY; $9B GDP impact expected across North America",
+      "summary": "Early July data shows card-based purchases in the 16 World Cup host cities up 6.3% year-over-year, driven by a 16.7% surge from non-local visitors. The tournament (June–July 2026, North America) is expected to generate ~USD 9 billion in GDP, drawing 6.5 million attendees including 2.6 million international visitors. Beneficiary sectors: hospitality, dining, sports betting, and media (Fox Corp holds English-language rights to all 104 matches).",
+      "why": "世界杯消费热潮对多项持仓形成催化：泡泡玛特FIFA联名Labubu出圈（品牌破圈）、美团Keeta在中东市场扩张获间接助力、麦当劳/好市多受益于美国消费提升；期权方向看，消费股implied vol或已提前定价。",
+      "source": "Forbes / Allianz Trade",
+      "verified": true,
+      "keywords": [
+        "FIFA World Cup",
+        "世界杯",
+        "消费",
+        "旅游",
+        "North America 2026"
+      ],
+      "translated": false,
+      "url": "https://www.forbes.com/sites/clementelisi/2026/06/26/world-cup-delivers-early-economic-boost-for-host-cities/",
+      "is_new": false,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "a7d60befb904",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "13:00",
+      "group": "个股",
+      "title": "EU orders Google to open Gemini AI and Android features to rivals under DMA; Alphabet simultaneously rationing Gemini access due to compute constraints",
+      "summary": "The European Commission issued instructions to Alphabet requiring that competing AI developers can access core Google services linked to Gemini and Android under the Digital Markets Act (DMA). Simultaneously, Alphabet is limiting Gemini AI access as cloud capacity tightens, suggesting demand is outstripping supply. Alphabet's Gemini app has surpassed 750 million monthly active users. Alphabet also announced an $80B equity offering to fund AI compute infrastructure.",
+      "why": "EU监管压力可能削弱谷歌在欧洲的AI生态护城河；Gemini算力限流反映AI基础设施扩张压力；$800亿融资规模创科技史上最大股权融资之一，短期摊薄效应值得关注（GOOGL期权波动率可能上升）。",
+      "source": "RTTNews / Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "Gemini",
+        "EU DMA",
+        "监管",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.rttnews.com/3643148/eu-tells-google-to-open-gemini-android-features-to-ai-rivals-under-dma.aspx",
+      "is_new": false,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "ef9934d9e98f",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "13:00",
+      "group": "个股",
+      "title": "SanDisk (SNDK) leads S&P 500 in 2026 with YTD gains reportedly exceeding 800%; NAND supply shortage confirmed to extend past 2027",
+      "summary": "SanDisk (SNDK), spun off from Western Digital in February 2025, is the best-performing S&P 500 stock in 2026 with year-to-date gains of ~800–900% reported by multiple analyst sources. Catalysts: global NAND flash shortage, surging AI data center demand. The company says 2026 production capacity is fully sold out, with 2027 bookings described as strong. Q3 reported revenue of $5.95B with non-GAAP gross margins of 78.4%.",
+      "why": "SNDK的爆涨幅度与美光Q3数据共同印证了NAND供应紧缺真实且持续，支撑美光/SanDisk期权策略：存储类股波动率高，sell covered call获取权利金具有吸引力；同时说明AI存储超级周期尚在进行中。",
+      "source": "TradingKey / Barchart",
+      "verified": false,
+      "keywords": [
+        "闪迪",
+        "SanDisk",
+        "SNDK",
+        "NAND",
+        "存储",
+        "AI",
+        "S&P500"
+      ],
+      "translated": false,
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261990267-sandisk-sndk-stock-analysis-micron-ai-memory-demand-june-2026-tradingkey",
+      "is_new": false,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "6777932dfd04",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "13:00",
+      "group": "个股",
+      "title": "Palantir wins $300M USDA Blanket Purchase Agreement; 2026 revenue guidance $7.2B (+61% YoY); government AI contract awards expected to accelerate Q3",
+      "summary": "Palantir secured a $300 million Blanket Purchase Agreement with the US Department of Agriculture (USDA) to support the National Farm Security Action Plan. The company provided 2026 revenue guidance of $7.2 billion, implying ~61% growth. In Q1 2026, AIP secured 204 contracts over $1 million, including 53 exceeding $10 million. Government contract awards typically accelerate in Q3 (July–September) as agencies complete budget allocation.",
+      "why": "政府合同加速落地提升PLTR营收能见度；但估值已极度拉伸（P/S >30x），持仓时需警惕任何预期差；高隐含波动率使sell put策略的权利金回报率较高，但需设置较宽安全垫。",
+      "source": "Kavout / Intellectia",
+      "verified": false,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "政府合同",
+        "USDA",
+        "AI平台",
+        "国防AI",
+        "AIP"
+      ],
+      "translated": false,
+      "url": "https://www.kavout.com/market-lens/is-palantir-s-ai-platform-now-indispensable-for-government-and-enterprise",
+      "is_new": false,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "85e7389736f9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "13:00",
+      "group": "个股",
+      "title": "（存疑）拼多多/Temu三重利空：欧盟5月罚款2亿欧元+美国日活骤降+营收增速降至个位数；PDD股价从峰值跌逾30%",
+      "summary": "欧盟于2026年5月对Temu开出2亿欧元罚款，指控其允许销售在欧盟境内非法产品。同年1月，都柏林总部遭突击检查，土耳其分支亦被突击。美国取消800美元以下包裹免税政策后，Temu被迫转向半托管模式，丧失低价优势，美国日活用户大幅下滑。PDD Holdings营收增速从2024年的59%降至个位数，股价自2025年11月峰值下跌逾30%。",
+      "why": "Temu出海变现逻辑持续受损；若持有PDD多头仓位，需重新评估成长故事是否已破坏；拼多多目前估值已明显调整，sell put时行权价需结合营收减速风险充分下调。",
+      "source": "GBIChina / TechBuzz China",
+      "verified": false,
+      "keywords": [
+        "拼多多",
+        "PDD",
+        "Temu",
+        "欧盟罚款",
+        "关税",
+        "跨境电商",
+        "出海"
+      ],
+      "translated": false,
+      "url": "https://www.gbichina.com/news/26060.html/",
+      "is_new": false,
+      "first_seen": "2026-07-01"
+    },
+    {
       "id": "b04f6d37e2e1",
       "tier": 2,
       "lang": "zh",
@@ -1205,6 +1344,34 @@
       "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
       "is_new": false,
       "first_seen": "2026-07-01"
+    },
+    {
+      "id": "46f8f1062197d686",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-01T10:00:00+08:00",
+      "group": "个股",
+      "title": "Labubu「复古理发店」常规款破发（每盒159元）；二手高溢价时代进入拐点",
+      "summary": "泡泡玛特6月25日发售LABUBU「复古理发店」系列盲盒（官方定价159元/盒），上市后常规款在二手平台出现破发（成交价低于发行价），与此前动辄2-3倍溢价的行情形成明显反差。这是Labubu继FIFA世界杯开幕式全球亮相后，首次出现常规款市场热度回落信号。",
+      "why": "爆款溢价收窄是泡泡玛特IP生命周期需关注的早期信号；若持续破发将影响限量定价策略预期，建议密切关注Q2销售数据，为9992.HK期权策略提供参考。",
+      "source": "新浪科技",
+      "verified": false,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "Labubu",
+        "拉布布",
+        "盲盒",
+        "9992.HK",
+        "潮玩"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifhezh3090662.shtml",
+      "is_new": true,
+      "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
       "id": "781bb4238006",
