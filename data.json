@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-03 13:16 (北京时间)",
+  "updated_at": "2026-07-03 18:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,260 @@
   "positions": [],
   "items": [
     {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-03T16:30:00+08:00",
+      "group": "大盘头条",
+      "title": "港股收评：恒指涨1.28% 科指涨1% 黄金股大涨 半导体板块调整",
+      "summary": "7月3日港股收涨，恒生指数报23350.03点（涨1.28%），恒生科技指数涨1%，黄金股强势反弹；半导体板块受美股传导走弱。全市场逾3200只个股上涨。非农数据弱势提振市场情绪。",
+      "why": "持仓港股科技股（腾讯、阿里、美团等）今日整体受益；黄金股大涨利好老铺黄金短线情绪。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "大盘"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-03/doc-inifpkay3629866.shtml",
+      "id": "2edcdae44fd19de8",
+      "is_new": true,
+      "first_seen": "2026-07-03 18:20 (北京时间)"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-03T02:00:00+08:00",
+      "group": "大盘头条",
+      "title": "Fed Chief Kevin Warsh declines to hint at July rate decision, but says inflation 'too high'",
+      "summary": "美联储主席Warsh在葡萄牙辛特拉央行论坛称通胀仍过高，维持3.5%-3.75%利率区间不变，拒绝给出7月前瞻指引。FOMC最新点阵图显示2026年PCE预期升至3.6%，市场约37.4%概率押注7月加息。",
+      "why": "加息预期是隐含波动率核心驱动；非农走弱使加息概率下降，整体有利sell put策略；但通胀仍过高的措辞保留了鹰派尾险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Fed",
+        "利率",
+        "通胀",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html",
+      "id": "8a4f4c07a5e2e46b",
+      "is_new": true,
+      "first_seen": "2026-07-03 18:20 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-03T06:00:00+08:00",
+      "group": "大盘头条",
+      "title": "国际油价三连跌逼近$67，伊朗和谈推进、中东地缘溢价消退",
+      "summary": "国际原油连续三日下跌逼近$67/桶，回吐战前水平。驱动因素：UAE霍尔木兹海峡出口恢复至390万桶/日，伊朗和谈在卡塔尔推进，EIA及IMF全年供过于求预期强化。",
+      "why": "油价下跌降低通胀预期，间接有利于美联储维持宽松；同时利好下游消费与出行类持仓（携程、海底捞等）。",
+      "source": "证券时报",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "原油",
+        "中东",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/3993734.html",
+      "id": "105919938b5731c4",
+      "is_new": true,
+      "first_seen": "2026-07-03 18:20 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "2026-07-03T08:00:00+08:00",
+      "group": "大盘头条",
+      "title": "China and US Target Tariff Reductions on Agricultural Products",
+      "summary": "中美双方就农产品关税互降达成原则共识，中国商务部7月2日就此发表声明。同时美国贸易代表拟对中国加征12.5%强迫劳动附加关税（公众评论截至7月6日），贸易停战框架复杂性加剧。",
+      "why": "农产品关税松动是贸易关系改善信号，利好中国出口相关和消费股；强迫劳动关税威胁仍存，跨境电商（拼多多Temu）风险未完全消除。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "中美贸易",
+        "关税",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-and-us-target-tariff-reductions-on-agricultural-products",
+      "id": "20e8e9358c522cf3",
+      "is_new": true,
+      "first_seen": "2026-07-03 18:20 (北京时间)"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "2026-07-03T09:00:00+08:00",
+      "group": "个股",
+      "title": "阿里巴巴7月10日起全面禁用Claude；Anthropic指控其通过2.5万账号发起2880万次AI蒸馏攻击",
+      "summary": "Anthropic向美国参议员和白宫官员发函，指控阿里云旗下通义千问实验室利用近25,000个欺诈账号向Claude发起2880万次查询，以对抗蒸馏方式窃取软件工程和代理推理能力。阿里随即内部令全员于7月10日前卸载Claude全产品线（含Sonnet/Opus/Fable/Claude Code）。",
+      "why": "涉嫌蒸馏攻击规模空前，叠加DOJ和解和证券调查，多重利空集中爆发；若监管跟进，对阿里AI战略和Qwen研发路径产生实质影响。",
+      "source": "Bloomberg / Pandaily",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "Anthropic",
+        "Claude",
+        "通义千问"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+      "id": "a1ece5e7dcabb679",
+      "is_new": true,
+      "first_seen": "2026-07-03 18:20 (北京时间)"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-03T10:00:00+08:00",
+      "group": "个股",
+      "title": "上半年金价跌去近三成，老铺黄金股价较峰值暴跌65%，存货危机加剧",
+      "summary": "国际黄金从1月5598美元/盎司高点跌至6月底3962美元（跌幅近30%）。老铺黄金(6181.HK)股价从高点1065港元跌至约346港元（跌65%），市值蒸发逾1200亿港元。2025年底存货余额约160亿元（同比增近三倍），经营性现金流净流出68亿元。7月3日金价回升至约4200美元，港股黄金股盘中大涨。",
+      "why": "金价大幅回撤与消费者买涨不买跌心理逆转双重压制，老铺黄金基本面压力持续；7月3日金价反弹带来短期缓解，可考虑高位布局covered call。",
+      "source": "财新",
+      "verified": true,
+      "keywords": [
+        "老铺黄金",
+        "6181.HK",
+        "黄金",
+        "金价"
+      ],
+      "translated": false,
+      "url": "https://finance.caixin.com/2026-07-01/102459821.html",
+      "id": "79afc5ff184da0e4",
+      "is_new": true,
+      "first_seen": "2026-07-03 18:20 (北京时间)"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "2026-07-03T09:00:00+08:00",
+      "group": "个股",
+      "title": "工行、建行、交行等六大行宣布7月24日起关闭上金所个人贵金属交易业务",
+      "summary": "工商银行、建设银行、交通银行、招商银行、广发银行等多家大型商业银行相继公告，将于2026年7月24日起关闭代理上海黄金交易所个人贵金属竞价交易及T+D业务（涉及Au99.99、Au(T+D)、Ag(T+D)等主要品种），建议存量持仓客户及时平仓出金。",
+      "why": "银行通道关闭将压缩散户黄金投资渠道，7月24日前或有集中平仓抛售压力，不利于老铺黄金消费端需求；反映监管层对贵金属散户交易的系统性收紧。",
+      "source": "工商银行官网 / 新浪财经",
+      "verified": true,
+      "keywords": [
+        "老铺黄金",
+        "黄金",
+        "银行",
+        "贵金属"
+      ],
+      "translated": false,
+      "url": "https://www.icbc.com.cn/page/1243135845339447296.html",
+      "id": "5068ff9a14839ecd",
+      "is_new": true,
+      "first_seen": "2026-07-03 18:20 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-03T16:00:00+08:00",
+      "group": "个股",
+      "title": "Interactive Brokers Group Reports Brokerage Metrics for June 2026",
+      "summary": "Interactive Brokers 6月每日平均收入交易量(DARTs)达527万次（同比+53%，环比+6%），期末客户资产9303亿美元（同比+40%），保证金贷款余额1085亿美元（同比+67%）。Goldman Sachs和BMO Capital均上调IBKR目标价至109/105美元。Q2财报即将发布。",
+      "why": "创纪录DARTs和客户资产直接推动佣金营收，加之期权/杠杆业务持续增长，Q2业绩超预期可能性高；持仓IBKR验证逻辑健康。",
+      "source": "Yahoo Finance (IBKR官方公告)",
+      "verified": true,
+      "keywords": [
+        "盈透证券",
+        "Interactive Brokers",
+        "IBKR"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-reports-brokerage-160100580.html",
+      "id": "21bafa788012eab8",
+      "is_new": true,
+      "first_seen": "2026-07-03 18:20 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-03T09:00:00+08:00",
+      "group": "个股",
+      "title": "蜜雪冰城在美首店落腳洛杉磯好萊塢 中國茶飲全球化再下一城",
+      "summary": "蜜雪冰城(2097.HK)美国首店于6月20日在洛杉矶好莱坞开业，冰淇淋1.19美元、奶茶3.99美元起，延续极致性价比策略。公司同步推出H股激励计划，H1 2026营收同比+39.3%、净利+44.1%，积极推进美洲市场布局。",
+      "why": "美国首店是蜜雪冰城进入高线国际市场的里程碑事件；若低价策略在美国成立，未来开店规模将支撑估值重估；关注下一步加盟/展店节奏。",
+      "source": "Yahoo Finance HK / HKEXnews",
+      "verified": true,
+      "keywords": [
+        "蜜雪冰城",
+        "Mixue",
+        "2097.HK",
+        "出海"
+      ],
+      "translated": false,
+      "url": "https://hk.finance.yahoo.com/news/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9C%A8%E7%BE%8E%E9%A6%96%E5%BA%97%E8%90%BD%E8%85%B3%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%A5%BD%E8%90%8A%E5%A1%A2-%E4%B8%AD%E5%9C%8B%E8%8C%B6%E9%A3%B2%E5%85%A8%E7%90%83%E5%8C%96%E5%86%8D%E4%B8%8B-%E5%9F%8E-075003171.html",
+      "id": "63ab89cc78eee8d3",
+      "is_new": true,
+      "first_seen": "2026-07-03 18:20 (北京时间)"
+    },
+    {
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-03T14:00:00+08:00",
+      "group": "个股",
+      "title": "Moomoo Launches Moomoo Engine, Unifying the Platform's Full Trading Workflow",
+      "summary": "富途(FUTU)旗下moomoo平台推出付费产品Moomoo Engine，月费3.99美元（1000美元以上资产降至0.99美元/月），整合基本面引擎（AI简报+机构研报）、期权引擎（Level 2数据+策略实验室+Gamma敞口追踪+异常活动预警）及技术引擎（Level 3盘口+AI指标回测）。",
+      "why": "期权工具专业化升级，对sell put/covered call策略者实用性高；付费产品推出有助于提升FUTU收入质量和ARPU；moomoo生态粘性增强。",
+      "source": "Stocktitan / Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "富途",
+        "Futu",
+        "FUTU",
+        "moomoo",
+        "期权"
+      ],
+      "translated": false,
+      "url": "https://www.stocktitan.net/news/FUTU/moomoo-launches-moomoo-engine-unifying-the-platform-s-full-trading-wskdcrzi63ys.html",
+      "id": "707a7dd53e8ab38b",
+      "is_new": true,
+      "first_seen": "2026-07-03 18:20 (北京时间)"
+    },
+    {
       "id": "da44825cae53c135",
       "tier": 1,
       "lang": "zh",
@@ -60,7 +314,7 @@
       ],
       "translated": false,
       "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -87,7 +341,7 @@
       ],
       "translated": false,
       "url": "https://electrek.co/2026/07/02/tesla-q2-2026-deliveries-480126/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -116,7 +370,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifntfe2385521.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -784,7 +1038,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifkqha5949287.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -812,7 +1066,7 @@
       ],
       "translated": false,
       "url": "https://finance.eastmoney.com/a/202607023791082897.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -1370,7 +1624,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifhezh3090662.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
