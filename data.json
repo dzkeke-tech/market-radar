@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-03 13:16 (北京时间)",
+  "updated_at": "2026-07-04 08:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,258 @@
   "positions": [],
   "items": [
     {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A",
+        "US"
+      ],
+      "time": "2026-07-01T00:00:00+08:00",
+      "group": "大盘头条",
+      "title": "中国境外投资新规7月1日正式施行：国务院首部专项ODI行政法规，技术人员跨境部署及个人境外投资纳入监管框架",
+      "summary": "国务院发布的《境外投资条例》7月1日生效，系中国首部境外投资专项行政法规。新规将技术人员海外派驻、跨境技术指导纳入ODI审查；第15条建立国家安全审查机制；审查范围延伸至境内个人（含创始人）的境外投资行为；生效首日已有法律机构披露相关合规解读。",
+      "why": "直接影响腾讯、阿里、小米、蜜雪冰城等含海外业务的港股标的合规成本；跨境并购路径收窄；同时映射北京收紧资本外流管控的结构性趋势，是本轮中国监管周期的重要节点。",
+      "source": "China Briefing / 国务院官网",
+      "verified": true,
+      "keywords": [
+        "监管",
+        "境外投资",
+        "ODI",
+        "宏观",
+        "科技监管"
+      ],
+      "translated": false,
+      "url": "https://www.china-briefing.com/news/china-odi-regulation-2026-outbound-investment-rules-part-i/",
+      "id": "47a9b043f5498b50",
+      "is_new": true,
+      "first_seen": "2026-07-04 08:20 (北京时间)"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-01T20:00:00+08:00",
+      "group": "个股",
+      "title": "SEC and DOJ probe alleged $100M insider trading scheme in Futu Holdings and Tiger Brokers options; federal judge freezes accounts at Interactive Brokers",
+      "summary": "The SEC opened a preliminary review and the DOJ launched a separate probe into alleged insider trades in Futu Holdings (FUTU) and Up Fintech/Tiger Brokers US-listed options that reportedly netted ~$100M in profits (costing only ~$12M) just before China's cross-border brokerage crackdown. Susquehanna International Group lost $70M+ as counterparty. A federal judge froze accounts at Interactive Brokers, Futu, and Tiger platforms and authorized subpoenas. If confirmed, it would be one of the largest insider trading schemes in recent memory, surpassing the Raj Rajaratnam/$53M case.",
+      "why": "富途控股面临最大法律风险：账户被冻结+双线调查可能触发牌照合规压力；IBKR（持仓相关）被波及；期权隐含波动率大幅抬升期间对富途、盈透的sell put头寸需提高行权价保护。",
+      "source": "Yahoo Finance / Dimsum Daily (WSJ报道)",
+      "verified": true,
+      "keywords": [
+        "富途",
+        "Futu",
+        "moomoo",
+        "内幕交易",
+        "SEC",
+        "DOJ",
+        "盈透证券",
+        "Interactive Brokers",
+        "IBKR"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/options/articles/doj-probes-alleged-insider-trading-153709122.html",
+      "id": "060d6e41e1df95a0",
+      "is_new": true,
+      "first_seen": "2026-07-04 08:20 (北京时间)"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-03T18:00:00+08:00",
+      "group": "个股",
+      "title": "Tencent bought back 1.1 million shares for HK$500.9 million on July 3 — HKEX filing",
+      "summary": "Tencent Holdings (0700.HK) repurchased approximately 1.1 million ordinary shares for HK$500.9 million on July 3, per a Hong Kong Exchange disclosure filing cited by Reuters. The buyback is part of a mandate approved at the May 13 AGM to repurchase up to ~912 million shares (~10% of total issued shares).",
+      "why": "7月3日单日回购是持续强力托底信号，延续6月创纪录的每日大额回购节奏；流通盘缩减叠加估值低位，是多头和sell put策略的双重支撑。",
+      "source": "Reuters / TradingView (HKEX披露)",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "回购",
+        "buyback"
+      ],
+      "translated": false,
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4340WR:0-tencent-bought-back-1-1-million-shares-for-hk-500-9-million-on-july-3-hkex-filing-shows/",
+      "id": "c7d8f168cc3ef3f6",
+      "is_new": true,
+      "first_seen": "2026-07-04 08:20 (北京时间)"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-06-25T20:00:00+08:00",
+      "group": "个股",
+      "title": "Samsung, SK Hynix, and Micron hit with U.S. class-action alleging DRAM price-fixing of up to 700% since 2022",
+      "summary": "A class-action filed June 25 in the N.D. California accuses all three DRAM giants (controlling ~90% of global market) of using the AI-driven HBM shift as a pretext to restrict DDR3/DDR4 supply and inflate prices up to ~700% over four years. Micron shares fell ~16% from their all-time high following the filing. Samsung and SK Hynix have previously pleaded guilty to similar charges historically. Micron's HBM4 ex-dividend date is July 6 ($0.15/share).",
+      "why": "三大存储巨头同受反垄断诉讼，若深入调查将重塑DRAM/HBM定价预期；MU股息除权日7月6日是短期价格支撑点；SK海力士CSOP两倍做多产品面临法律事件风险；与SanDisk NAND生态情绪连动。",
+      "source": "Tom's Hardware / TechTimes",
+      "verified": true,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "DRAM",
+        "存储芯片",
+        "价格操纵"
+      ],
+      "translated": false,
+      "url": "https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs",
+      "id": "7df18706c852c5b2",
+      "is_new": true,
+      "first_seen": "2026-07-04 08:20 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-03T20:00:00+08:00",
+      "group": "个股",
+      "title": "Standard Chartered becomes first Global Systemically Important Bank to offer institutional USDC minting via Circle (July 3)",
+      "summary": "Standard Chartered launched institutional USDC minting and redemption through Circle on July 3, making it the first GSIB licensed for this service. Eligible institutional clients can mint/redeem USDC without opening a Circle account directly, marking a milestone in TradFi adoption of permissioned stablecoin infrastructure.",
+      "why": "顶级传统银行为USDC机构服务背书，是Circle对冲Open USD冲击的重要正面催化；稳定币机构化加速，Circle通过银行渠道重建竞争壁垒；CRCL股价从-17%底部反弹至$67附近，关注技术反弹空间。",
+      "source": "The Coin Republic / CoinDesk",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "stablecoin",
+        "储备金"
+      ],
+      "translated": false,
+      "url": "https://www.thecoinrepublic.com/2026/07/03/circle-partners-standard-chartered-to-expand-usdc-adoption-crcl-stock-to-70/",
+      "id": "b864fcb2b39aae69",
+      "is_new": true,
+      "first_seen": "2026-07-04 08:20 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-03T12:00:00+08:00",
+      "group": "个股",
+      "title": "Xiaomi YU7 delivery cycle drops to just 7 weeks as initial demand normalizes; targets 550,000 total EVs in 2026",
+      "summary": "Xiaomi's YU7 SUV waiting time has collapsed from 14 months at launch to just 7 weeks, per 36kr industry tracking, signaling the initial order wave has normalized. June deliveries were approximately 25,000 vehicles, bringing H1 total to roughly 180,000 units — on track for the 550,000 full-year target. The YU7 GT previously broke the Nürburgring Nordschleife production SUV lap record.",
+      "why": "YU7等待周期骤降是需求峰值已过的先行指标，可能影响Q3收入预期与产能利用率预估；港股1810估值需从\"爆款溢价\"向正常化交付节奏重新定价；建议关注7月和Q3月度数据。",
+      "source": "36kr (英文版) / EV.com",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "YU7",
+        "小米汽车",
+        "交付量",
+        "雷军"
+      ],
+      "translated": false,
+      "url": "https://eu.36kr.com/en/p/3748298499371783",
+      "id": "fd53892c26863f55",
+      "is_new": true,
+      "first_seen": "2026-07-04 08:20 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-02T10:00:00+08:00",
+      "group": "个股",
+      "title": "PDD Holdings expands in state-backed Xiongan zone with 600+ staff after record food-safety fine; Daiwa cuts target from $145 to $80",
+      "summary": "PDD Holdings ramped up its Xiongan New Area presence to 600+ employees (its largest privately-owned internet company in the zone), signed a Digital Service cooperation agreement, and purchased an office building months after China's record food-safety crackdown fine. Daiwa Securities cut its PDD price target from $145 to $80 citing weak e-commerce performance and rising operational costs from Temu compliance investments.",
+      "why": "雄安布局是监管和解后政治关系修复信号；但分析师目标价腰斩至$80揭示盈利模式承压现实；Temu欧盟征税+美国增长放缓+国内竞争三重夹击，持仓建议谨慎评估期权行权价。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "拼多多",
+        "PDD",
+        "Temu",
+        "跨境电商",
+        "监管",
+        "多多买菜"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/tech/big-tech/article/3359060/pdd-embraces-chinas-city-future-after-bruising-regulatory-clash-and-record-fine",
+      "id": "7259b8d03ab261cb",
+      "is_new": true,
+      "first_seen": "2026-07-04 08:20 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-02T16:00:00+08:00",
+      "group": "个股",
+      "title": "金价突破$4100/盎司，老铺黄金Q1净利润预增至36-38亿元；双重催化下52周低点附近值得关注",
+      "summary": "受美国6月非农就业大幅不及预期推动，黄金现货价格7月2日突破$4100/盎司，美元录得4月以来最大单周跌幅。老铺黄金（6181.HK）此前公布Q1 2026业绩预告：营收165-175亿元（+约60% YoY），净利润36-38亿元，延续超预期增长态势。分析师平均目标价约936港元，52周区间432-1108港元。",
+      "why": "金价高位直接支撑老铺黄金客单价与净利润率，Q1业绩超预期+金价双重催化；股价较历史高点已大幅折价，若金价维持$4100+，股价低位可考虑sell put建立低成本多头敞口。",
+      "source": "富途牛牛 / Yahoo Finance",
+      "verified": false,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "黄金",
+        "金价",
+        "珠宝首饰",
+        "古法金"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/70709322/laopu-gold-6181-hk-26q1-growth-significantly-exceeded-expectations-with",
+      "id": "c3f979af059c3538",
+      "is_new": true,
+      "first_seen": "2026-07-04 08:20 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "2026-07-06T00:00:00+08:00",
+      "group": "个股",
+      "title": "Alibaba FY2026 annual dividend US$0.13125/ordinary share payable July 6; ADS holders receive payment ~July 13",
+      "summary": "Alibaba Group's annual cash dividend of US$0.13125 per ordinary share (US$1.05 per ADS) for FY2026 — declared May 13, 2026 — is payable to ordinary shareholders on or around July 6, and to ADS holders around July 13. No withholding tax applies. This is Alibaba's first annual dividend under its enhanced shareholder return program.",
+      "why": "7月6日派息落地是Alibaba股东回报政策兑现节点，可在一定程度上缓解极度超卖（RSI已降至25）带来的卖压；叠加DOJ和解尘埃落定，技术性反弹窗口较明确，适合观察sell put布局时机。",
+      "source": "StockTitan / SEC EDGAR 6-K / TipRanks",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "分红",
+        "股息"
+      ],
+      "translated": false,
+      "url": "https://www.stocktitan.net/sec-filings/BABA/6-k-alibaba-group-holding-ltd-current-report-foreign-issuer-28341122100c.html",
+      "id": "d960dc1f7e749056",
+      "is_new": true,
+      "first_seen": "2026-07-04 08:20 (北京时间)"
+    },
+    {
       "id": "da44825cae53c135",
       "tier": 1,
       "lang": "zh",
@@ -60,7 +312,7 @@
       ],
       "translated": false,
       "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -87,7 +339,7 @@
       ],
       "translated": false,
       "url": "https://electrek.co/2026/07/02/tesla-q2-2026-deliveries-480126/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -116,7 +368,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifntfe2385521.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -784,7 +1036,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifkqha5949287.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -812,7 +1064,7 @@
       ],
       "translated": false,
       "url": "https://finance.eastmoney.com/a/202607023791082897.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -1172,259 +1424,6 @@
       ],
       "translated": false,
       "url": "https://www.bbntimes.com/companies/hong-kong-stock-exchange-weekly-review-hang-seng-falls-1-8-to-22-672-as-ai-chip-rout-and-ipo-market-uncertainty-overshadow-quarter-end-recovery-hopes",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "6883faf88f7f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "昨 收盘",
-      "group": "个股",
-      "title": "腾讯6月30日回购120万股、耗资约5.006亿港元（均价约417港元/股）；下次业绩披露预计8月19日",
-      "summary": "根据港交所披露易（Next Day Disclosure Return）文件，腾讯控股（0700.HK）于6月30日在场内回购并注销约120万股股份，耗资约5.006亿港元，均价约417港元/股。腾讯年内持续推进大规模股份回购计划，不断缩减流通股本。下次季度业绩披露预计为2026年8月19日。",
-      "why": "持续且大额的回购是腾讯最明确的内在价值认可信号，直接支撑股价下限；对sell put策略，公司在约417港元附近主动回购意味着其自身锚定的安全价格，行权价可考虑设在此区间附近；下次财报8/19前仍有约七周窗口期。",
-      "source": "港交所HKEX披露易",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "回购",
-        "股本"
-      ],
-      "translated": false,
-      "url": "https://www.hkexnews.hk/listedco/listconews/SEHK/2026/0630/2026063001543.pdf",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "e7ae56c2cf14",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "本周",
-      "group": "个股",
-      "title": "Intel 18A-P node enters initial production; preliminary Apple foundry deal reported; Alphabet and Nvidia also evaluating Intel as chip manufacturer; INTC +169% YTD",
-      "summary": "Intel announced its 18A-P process node — an advanced performance variant of 18A — has entered initial production. WSJ/CNBC reported a preliminary agreement with Apple for Intel Foundry Services to manufacture some Apple Silicon chips (initial shipments not until Q2/Q3 2027). Reports of Google and Nvidia evaluating Intel as backup AI chip manufacturer triggered additional stock gains. Intel shares are up approximately 169% year-to-date, with the foundry turnaround thesis gaining broad validation from Apple, Alphabet, and Microsoft orders.",
-      "why": "英特尔（持仓标的）同时获得苹果、谷歌、英伟达三大科技巨头验证是代工转型叙事的历史性拐点，是近十年最强基本面改善信号；但Apple首批芯片出货在2027年，短期财务贡献有限；当前股价已在169% YTD涨幅高位，sell put时须注意预期充分定价后的回调风险。",
-      "source": "Yahoo Finance / CNBC",
-      "verified": false,
-      "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "18A",
-        "代工",
-        "Foundry",
-        "苹果",
-        "谷歌"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-begins-production-of-anticipated-18a-p-chips-as-ai-continues-to-drive-cpu-demand-210000103.html",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "8ad8951f34cb",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "近期",
-      "group": "个股",
-      "title": "（存疑·待核）阿里巴巴成立新AI部门Token Foundry整合核心研发；承诺未来三年投入3800亿人民币于AI与云基础设施",
-      "summary": "阿里巴巴成立新AI部门Token Foundry，将通义千问实验室（Tongyi Lab）与Future Life Lab合并整合，由CEO吴泳铭（Eddie Wu）领导统一AI研发战略。公司承诺未来三年内投入约3800亿人民币（约560亿美元）于AI与云基础设施，目标五年内将云+AI年收入做到1000亿美元。云智能集团AI相关产品营收已连续十个季度实现三位数增长。Token Foundry细节待公司官方披露核实。",
-      "why": "阿里（BABA/9988.HK持仓标的）3800亿人民币AI押注是明确战略转向，云AI十连季三位数增长是估值支柱；若Token Foundry整合顺利，将强化通义千问在大模型赛道竞争力；对sell put策略，BABA基本面改善降低了深度行权的尾部风险，可适度提高行权价。",
-      "source": "CNBC / 财联社",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "BABA",
-        "9988.HK",
-        "通义千问",
-        "AI",
-        "云计算"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/03/20/alibaba-headcount-falls-ai-push-sun-art-intime-sales.html",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "c102c5101952",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "06-12",
-      "group": "个股",
-      "title": "泡泡玛特Labubu亮相2026 FIFA世界杯开幕式——中国原创IP首次登上世界杯舞台；THE MONSTERS×FIFA联名系列全球40+国同步首日售罄",
-      "summary": "6月12日，泡泡玛特旗下角色Labubu作为特邀嘉宾亮相2026年FIFA世界杯开幕式（墨西哥城），这是中国原创IP历史上首次参与FIFA世界杯开幕式。同期，THE MONSTERS × FIFA World Cup联名系列（含盲盒、周边）在超过40个国家和地区同步开售，线上库存首日告罄。此前（5月），Labubu已出现在FIFA世界杯官方主题曲MV中，为首个进入FIFA官方音乐视频的设计师玩具品牌。",
-      "why": "泡泡玛特（9992.HK持仓标的）世界杯开幕式曝光是Labubu品牌国际化里程碑——全球200+国受众、与FIFA顶级IP绑定，将显著提升欧美市场品牌溢价与复购率；首日售罄印证需求强劲，支撑高估值持续性；sell put行权价可保持在相对高位，关注后续销售数据确认。",
-      "source": "TechNode / Global Times",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "9992.HK",
-        "Labubu",
-        "FIFA",
-        "世界杯",
-        "盲盒",
-        "潮玩"
-      ],
-      "translated": false,
-      "url": "https://technode.com/2026/06/12/pop-marts-labubu-makes-a-surprise-appearance-at-the-2026-fifa-world-cup-opening-ceremony/",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "73973edcbb9d",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "近期",
-      "group": "个股",
-      "title": "Fed proposes new stablecoin oversight rules targeting Circle (CRCL); USDC market cap $78B; Circle H1 2026 revenue $1.25B, 95.5% from interest income",
-      "summary": "The Federal Reserve proposed new oversight regulations for payment stablecoin issuers, directly targeting Circle Internet Group and its USDC token — following the landmark GENIUS Act which established mandatory reserve backing, federal licensing, and auditing standards. USDC now commands a $78 billion market cap. Circle reported H1 2026 revenue of $1.25 billion, with 95.5% derived from interest on short-term Treasury-backed reserves. Company market cap is ~$29.5 billion. BlackRock manages Circle's reserves; BNY Mellon handles custody.",
-      "why": "Circle/CRCL（持仓标的）面临美联储新监管是双刃剑：监管明确长期利好机构采用USDC，但短期合规成本上升；H1营收12.5亿、95.5%来自国债利息意味若7月美联储加息，Circle财务直接受益；从期权策略角度，监管不确定性维持高隐含波动率，适合宽跨度sell put策略。",
-      "source": "Yahoo Finance",
-      "verified": false,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "stablecoin",
-        "GENIUS Act",
-        "美联储"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-crcl-faces-fed-stablecoin-010923003.html",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "884c16161bbd",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "06-01",
-      "group": "个股",
-      "title": "Nvidia Vera Rubin enters full production (GTC Taipei); RTX Spark AI PC chip launches Fall 2026 with Dell, HP, Microsoft, ASUS",
-      "summary": "At GTC Taipei (June 1, 2026), Nvidia CEO Jensen Huang confirmed Vera Rubin — the successor to Blackwell Ultra — has entered full production with partner delivery beginning H2 2026, delivering 10x lower inference token cost vs. Blackwell. Separately, Nvidia unveiled the RTX Spark superchip (Grace CPU + Blackwell GPU, 128GB unified memory) at Computex 2026, launching in Windows AI PCs from Dell, HP, Microsoft, ASUS, Lenovo, and MSI in Fall 2026. Rubin roadmap: Rubin Ultra → Feynman (2027-28) → Rosa Feynman (2029-30).",
-      "why": "英伟达（持仓标的）Rubin进入全面生产代表Blackwell周期已达顶峰、新周期开启；Micron HBM4进入高量产正是为Rubin配套；RTX Spark开辟AI PC全新营收赛道；多产品线并行落地显著增强英伟达的长期收入可见性，支撑sell put行权价在相对高位。",
-      "source": "CNBC / Nvidia Newsroom",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "Rubin",
-        "Blackwell",
-        "RTX Spark",
-        "AI芯片",
-        "黄仁勋"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "46f8f1062197d686",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-07-01T10:00:00+08:00",
-      "group": "个股",
-      "title": "Labubu「复古理发店」常规款破发（每盒159元）；二手高溢价时代进入拐点",
-      "summary": "泡泡玛特6月25日发售LABUBU「复古理发店」系列盲盒（官方定价159元/盒），上市后常规款在二手平台出现破发（成交价低于发行价），与此前动辄2-3倍溢价的行情形成明显反差。这是Labubu继FIFA世界杯开幕式全球亮相后，首次出现常规款市场热度回落信号。",
-      "why": "爆款溢价收窄是泡泡玛特IP生命周期需关注的早期信号；若持续破发将影响限量定价策略预期，建议密切关注Q2销售数据，为9992.HK期权策略提供参考。",
-      "source": "新浪科技",
-      "verified": false,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "Labubu",
-        "拉布布",
-        "盲盒",
-        "9992.HK",
-        "潮玩"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifhezh3090662.shtml",
-      "is_new": true,
-      "first_seen": "2026-07-03 13:16 (北京时间)"
-    },
-    {
-      "id": "781bb4238006",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "本周",
-      "group": "个股",
-      "title": "（参考）黄金现货价格在4000美元/盎司附近整理；摩根大通预测年底或至6000美元；老铺黄金(6181.HK)目前52周区间569–1108港元",
-      "summary": "黄金现货价格在2026年6月末维持每盎司约4000美元附近（近期高点约4020美元），较2025年11月低点已大幅回升。摩根大通全球研究预测金价年底或推升至6000美元/盎司，2027年有望达到6300美元。老铺黄金（6181.HK）当前在569–586港元区间交投，52周高低点为540–1108港元，距高点已较大折让。",
-      "why": "老铺黄金（持仓标的）直接受益于黄金牛市：摩根大通年底6000美元目标若兑现，将推动老铺产品单价与营收显著提升；当前股价距52周高点打折约50%，金价若续涨是修复契机；sell put行权价宜参照支撑区间下轨约540港元附近。",
-      "source": "J.P. Morgan Global Research",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "Laopu Gold",
-        "6181.HK",
-        "黄金",
-        "金价",
-        "珠宝"
-      ],
-      "translated": false,
-      "url": "https://www.jpmorgan.com/insights/global-research/commodities/gold-prices",
-      "is_new": false,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "78cbda2f53a6",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "Q1 2026财报",
-      "group": "个股",
-      "title": "美团Keeta Q1 2026亏损大幅收窄：从23.8亿美元降至9.6亿美元（-60%）；沙特市场接近月度盈利首次；管理层称全年新业务亏损不超上年",
-      "summary": "美团（3690.HK）Q1 2026财报显示，Keeta海外外卖业务亏损从2025年同期约23.8亿美元大幅收窄至9.6亿美元（同比改善约60%）。管理层在财报会上表示，沙特阿拉伯市场在月度层面已接近首次实现盈利，继香港（2025年10月实现盈利）后成为第二个接近盈亏平衡的海外市场。公司预计2026年全年新业务板块亏损总额不超过上年水平。",
-      "why": "美团（持仓标的）Keeta亏损快速收窄是出海盈利时间轴明确化的关键信号；若沙特实现盈利将成为估值重估催化剂；对sell put策略，海外业务进入兑现期降低了尾部风险，可适度调高美团期权行权价；关注Q2财报（Keeta香港、沙特是否持续盈利）。",
-      "source": "富途牛牛 / Futunn",
-      "verified": false,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "Keeta",
-        "外卖",
-        "出海",
-        "海外扩张"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/70670660/meituan-earnings-call-firmly-oppose-internal-competition-not-in-a",
       "is_new": false,
       "first_seen": "2026-07-01"
     }
