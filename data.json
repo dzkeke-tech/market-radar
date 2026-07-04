@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-03 13:16 (北京时间)",
+  "updated_at": "2026-07-04 13:12 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -60,7 +60,7 @@
       ],
       "translated": false,
       "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "translated": false,
       "url": "https://electrek.co/2026/07/02/tesla-q2-2026-deliveries-480126/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -116,7 +116,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifntfe2385521.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -784,7 +784,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifkqha5949287.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -812,7 +812,7 @@
       ],
       "translated": false,
       "url": "https://finance.eastmoney.com/a/202607023791082897.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -1370,7 +1370,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifhezh3090662.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-03 13:16 (北京时间)"
     },
     {
@@ -1427,6 +1427,116 @@
       "url": "https://news.futunn.com/en/post/70670660/meituan-earnings-call-firmly-oppose-internal-competition-not-in-a",
       "is_new": false,
       "first_seen": "2026-07-01"
+    },
+    {
+      "id": "04e70e5af9722c51",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-02T22:00:00-04:00",
+      "group": "大盘头条",
+      "title": "OpenAI Proposes Giving U.S. Government a 5% Equity Stake in All Leading AI Labs — Bloomberg/CNBC",
+      "summary": "OpenAI CEO Sam Altman has proposed giving the U.S. government a 5% equity stake (~$42.6B at OpenAI's $852B valuation) as a model for all leading U.S. AI developers, framed as an Alaska-style public AI wealth fund. The proposal could extend to Alphabet and Meta if adopted broadly. Talks are early-stage and may require an act of Congress; OpenAI declined to comment.",
+      "why": "若正式推进，可能倒逼Alphabet/Google、Meta等上市AI公司参与类似安排，影响股权结构与监管成本；对谷歌(GOOGL)期权隐含波动率有潜在扰动；整体利好AI监管确定性，长期偏中性。",
+      "source": "Bloomberg / CNBC",
+      "verified": true,
+      "keywords": [
+        "OpenAI",
+        "AI监管",
+        "政策",
+        "Alphabet",
+        "Google",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+      "is_new": true,
+      "first_seen": "2026-07-04 13:12 (北京时间)"
+    },
+    {
+      "id": "df7d076d51e51a4e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-03T14:00:00-04:00",
+      "group": "个股",
+      "title": "Tesla Officially Launches Unsupervised Robotaxi Service in Miami (July 3) — First Market Beyond Texas and California",
+      "summary": "Tesla launched its fully unsupervised Robotaxi service in Miami, FL on July 3, 2026 — the first market outside Texas (Austin/Dallas/Houston/San Antonio) and the Bay Area. Model Y vehicles operate in a ~10-14 sq mile geofence around Miami International Airport. The purpose-built Cybercab (no steering wheel/pedals) is expected to join the fleet when volume production scales in late 2026.",
+      "why": "Robotaxi商业化地理扩张加速TSLA从汽车厂商向自动驾驶软件平台的估值重构；7月22日Q2财报前情绪催化剂显著，sell put持有人需评估行权价对TSLA可能继续上涨的保护。",
+      "source": "TeslaNorth / Not A Tesla App / Electrek",
+      "verified": true,
+      "keywords": [
+        "Tesla",
+        "特斯拉",
+        "Robotaxi",
+        "FSD",
+        "自动驾驶",
+        "TSLA"
+      ],
+      "translated": false,
+      "url": "https://teslanorth.com/2026/07/03/tesla-robotaxi-network-officially-launches-in-miami/",
+      "is_new": true,
+      "first_seen": "2026-07-04 13:12 (北京时间)"
+    },
+    {
+      "id": "2fc47e7eb3c46bd8",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "2026-07-03T18:00:00+08:00",
+      "group": "大盘头条",
+      "title": "Global stocks rally July 3 as U.S. markets close for Independence Day: Korea KOSPI +5.8%, SK Hynix +10.9%, HSI +1.3%, Nikkei +1.5%",
+      "summary": "With U.S. markets closed Friday July 3 (Independence Day observed; July 4 falls on Saturday), global equities rallied sharply. Korea's KOSPI surged 5.8% to 8,088, recovering most of the prior session's ~8% drop — SK Hynix soared 10.9%, Samsung +8.2%. Hong Kong's Hang Seng added 1.3% to 23,350. Japan's Nikkei gained 1.5% to 69,744. The Dow had set a fresh record in Wednesday's final session before the holiday. U.S. markets reopen Monday July 6; near-term catalysts include SpaceX Nasdaq-100 inclusion (July 7) and SK Hynix Nasdaq ADR listing (~July 10).",
+      "why": "港股恒指收23,350（+1.3%）；韩国AI内存链强力反弹（SK海力士+10.9%）预示7月6日美股开盘时半导体板块情绪修复；美股重开后关注芯片股能否延续此轮反弹，对sell put策略而言波动率环境相对友好。注：今日（7月4日独立日）为美国公共假期，市场重大头条偏少，此为本轮主要宏观头条。",
+      "source": "AP / Fortune",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "KOSPI",
+        "SK海力士",
+        "Nikkei",
+        "大盘",
+        "市场动态"
+      ],
+      "translated": false,
+      "url": "https://fortune.com/2026/07/03/world-shares-rally-after-dow-hits-a-record-as-some-ai-shares-bounce-back/",
+      "is_new": true,
+      "first_seen": "2026-07-04 13:12 (北京时间)"
+    },
+    {
+      "id": "e77395cc232f0561",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-07-04T08:00:00-04:00",
+      "group": "个股",
+      "title": "Micron (MU) quarterly dividend $0.15/share, ex-date Monday July 6 — first trading day after U.S. holiday",
+      "summary": "Micron Technology (MU) has a quarterly cash dividend of $0.15/share with ex-dividend date July 6, 2026 (Monday, first U.S. trading day after the Independence Day holiday), payable July 21. This follows Micron's record Q3 FY2026 results (revenue $41.46B, +346% YoY, EPS $25.11). HBM supply remains fully committed through 2026.",
+      "why": "除权日7月6日为美股重开首日，持有MU covered call或short put期权策略者需注意：股价理论上将除息调整$0.15（约0.03%），影响极小；但结合Q3超预期业绩与HBM供不应求，July期权到期前（7月18日）可能存在额外催化剂。",
+      "source": "MarketBeat / Micron IR",
+      "verified": true,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "股息",
+        "HBM",
+        "DRAM",
+        "期权"
+      ],
+      "translated": false,
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/MU/dividend/",
+      "is_new": true,
+      "first_seen": "2026-07-04 13:12 (北京时间)"
     }
   ]
 }
