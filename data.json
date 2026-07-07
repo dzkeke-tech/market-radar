@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-07 13:28 (北京时间)",
+  "updated_at": "2026-07-07 18:13 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,294 @@
   "positions": [],
   "items": [
     {
+      "id": "2a424a24d00fecbb",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "02:00",
+      "group": "大盘头条",
+      "title": "6月美联储决议：维持利率3.5%-3.75%，点阵图9人赞成年内加息，新主席弃用前瞻指引",
+      "summary": "美联储6月会议维持联邦基金利率3.5%-3.75%不变，这是新主席Kevin Warsh主持的首次会议。点阵图显示9名官员支持年内至少加息一次，6人支持至少两次加息。Fed将2026年PCE通胀预测大幅上调至3.6%，同时宣布不再提供传统前瞻指引。",
+      "why": "美联储鹰派转向是港美股当前回调的核心宏观驱动力，高估值成长股（科技、AI）承压最重；利率预期上行也提升期权隐含波动率，对sell put策略短期有利，但须评估标的下行空间。",
+      "source": "财联社 / TradingKey",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro",
+        "美联储"
+      ],
+      "translated": false,
+      "url": "https://www.tradingkey.com/zh-hans/analysis/economic/central-banks/261973911-fed-federal-fomc-2-economic-projections-decision-rates-tradingkey",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "6901ae91369f5506",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Stock Futures Mixed as Global Chip Stocks Sell Off",
+      "summary": "Global semiconductor stocks continued their multi-session sell-off through July 6, with U.S. stock futures mixed amid AI valuation concerns and the Federal Reserve's increasingly hawkish stance under new Chair Kevin Warsh. The rout followed reports suggesting SK Hynix may slow HBM production expansion, triggering a cascade through Micron, Intel, and AMD.",
+      "why": "全球芯片板块持续承压，SK海力士、英伟达、美光等持仓估值均受压制；波动率上升令sell put期权金丰厚，但须警惕行权风险；A股北方华创等半导体龙头已有跌停。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "semiconductor",
+        "AI芯片",
+        "GPU",
+        "HBM",
+        "宏观",
+        "SK Hynix",
+        "Nvidia",
+        "Micron"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "9f63292c45795d0e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "PBOC Unveils New Measures to Cement Hong Kong's Yuan Hub Status",
+      "summary": "People's Bank of China announced a package of measures on July 7 to expand the investment channel between Hong Kong's financial market and the mainland, and to enhance Hong Kong's role in promoting overseas use of the yuan.",
+      "why": "人民银行出手扩大互联互通渠道并巩固港元/人民币双枢纽地位，短期利好港股流动性与估值，也降低持仓港股标的的汇率风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "HK",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/pboc-unveils-new-measures-to-cement-hong-kong-s-yuan-hub-status",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "77adf566d9eac53f",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:30",
+      "group": "个股",
+      "title": "腾讯混元 Hy3 正式发布：295B 混合专家模型，Agent能力全面重构，带动股价单日大涨",
+      "summary": "腾讯混元Hy3于7月6日正式发布，采用295B参数混合专家架构（激活21B），最大上下文长度256K，在复杂推理、代码生成及AI Agent任务上较4月preview版本实现质的飞跃，已向WorkBuddy、CodeBuddy、微信、元宝等近50项业务开放接入。股价当日随之明显走强。",
+      "why": "Hy3正式上线是腾讯AI战略的阶段性里程碑，Agent能力提升加速企业AI商业化变现，是中长期估值重估催化剂；短期股价大涨，持仓者可考虑评估covered call机会。",
+      "source": "53AI / 财联社 / 腾讯官方",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "混元",
+        "AI",
+        "微信",
+        "元宝"
+      ],
+      "translated": false,
+      "url": "https://www.53ai.com/news/LargeLanguageModel/2026070678934.html",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "f9be135b7420b273",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "China, HK Stocks Fall on Property Woes, Slow Services Growth",
+      "summary": "Shanghai Composite slid 1.26% to 3,990.2 and Shenzhen Component lost 1.24% to 15,225.1 on July 7, settling at their lowest levels in nearly a month. CSI 300 fell 1.03% as concerns over China's economic growth outlook continued to weigh on sentiment.",
+      "why": "A股全线下跌创近月新低，经济增速忧虑叠加地产拖累，对消费与科技持仓形成负面情绪压力；市场波动率上行环境对sell put策略的期权金有利，但须评估标的价格下行风险。",
+      "source": "Asia Financial",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "A股",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.asiafinancial.com/china-hk-stocks-fall-on-property-woes-slow-services-growth",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "7b9247e2b3c851c0",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "02:00",
+      "group": "个股",
+      "title": "EU Package Fee from 1 July 2026: New Customs Rules Hit Temu, Shein and Cross-Border E-Commerce",
+      "summary": "From July 1, 2026, the EU levies a flat €3 fee per tariff classification on all e-commerce packages from third countries and simultaneously abolished the €150 customs exemption threshold. Temu is responding by accelerating fulfilment from European warehouses in Germany, France, the Netherlands, Spain, and Italy to avoid the new charges.",
+      "why": "EU新关税规则对拼多多Temu欧洲业务形成直接成本压力，但本地仓策略部分对冲影响；EU是Temu全球化关键市场，需关注Q2-Q3欧洲GMV变化及毛利率影响，持PDD仓位的sell put策略需纳入此监管风险。",
+      "source": "E-Commerce Institute Cologne",
+      "verified": true,
+      "keywords": [
+        "拼多多",
+        "PDD",
+        "Temu",
+        "跨境电商"
+      ],
+      "translated": false,
+      "url": "https://ecommerceinstitut.de/eu-package-fee-from-1-july-2026-what-the-new-customs-rules-mean-for-temu-shein-and-european-e-commerce/",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "00a45197072acee4",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "04:00",
+      "group": "大盘头条",
+      "title": "Tesla Q2 2026: Record 480K Deliveries (+25% YoY), Stock Still Drops 7%",
+      "summary": "Tesla reported record Q2 2026 deliveries of 480,126 vehicles, up 25% YoY and beating consensus by 18%, yet the stock fell ~7% — one of its biggest single-day drops in a year. Investors cited margin uncertainty ahead of the July 22 earnings call and BYD's continued lead (557,090 BEVs in Q2, 77,000-unit margin over Tesla).",
+      "why": "特斯拉Q2交付超预期但市场已price in，股价大跌说明焦点已转向7/22财报利润率；持TSLA的sell put须评估财报前后隐含波动率骤升风险，考虑提前调整行权价或平仓。",
+      "source": "Eastern Herald / TradingKey",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA"
+      ],
+      "translated": false,
+      "url": "https://easternherald.com/2026/07/02/tesla-q2-2026-deliveries-beat-stock-drops-margin/",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "4170ebe6fe38ec9b",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "05:30",
+      "group": "个股",
+      "title": "NVIDIA Leverages Balance Sheet to Support AI Chip Purchases via New 'AI Compute Partner' Program",
+      "summary": "On July 1, NVIDIA announced a strategic initiative to help emerging cloud service providers access high-demand AI chips by leveraging the company's balance sheet — effectively financing GPU acquisitions for smaller CSPs that face financial barriers. The move aims to expand the Blackwell and Rubin platform install base.",
+      "why": "英伟达通过资产负债表支持中小CSP获得GPU，意在扩大Rubin平台装机规模，巩固市场壁垒；短期对NVDA估值有支撑，但也增加潜在表外风险，关注下季财报对该计划规模的详细披露。",
+      "source": "GuruFocus",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "GPU",
+        "AI芯片",
+        "数据中心",
+        "Blackwell",
+        "Rubin"
+      ],
+      "translated": false,
+      "url": "https://www.gurufocus.com/news/8942200/nvidia-nvda-leverages-balance-sheet-to-support-ai-chip-purchases",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "8992fc94487524c3",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "Tesla TSLA Stock Recovers Sharply as Miami Robotaxi Launch and FSD Optimism Lift Sentiment",
+      "summary": "Tesla shares rebounded 6.7% to $419.77 on July 6 after the company launched its Robotaxi service in Miami — the first deployment outside Texas and California — covering 10–14 square miles in western Miami-Dade. Morgan Stanley forecasts the fleet reaching 1,500 vehicles by year-end and 30,000 by 2030, with expansion to Phoenix, Orlando, Tampa, and Las Vegas planned.",
+      "why": "Miami Robotaxi是特斯拉商业扩张关键里程碑，带动股价单日反弹6.7%，部分修复Q2交付后的跌幅。若Robotaxi加速推进，有助重估AI/自动驾驶估值倍数；关注7/22财报中Robotaxi商业化披露，sell put需留意财报前隐含波动率骤升。",
+      "source": "FX Leaders / GuruFocus",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Robotaxi",
+        "FSD",
+        "自动驾驶"
+      ],
+      "translated": false,
+      "url": "https://www.fxleaders.com/news/2026/07/06/tesla-tsla-stock-recovers-sharply-as-miami-robotaxi-launch-and-fsd-optimism-lift-sentiment/",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "832e9ca1920ceb0e",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Alibaba, Tencent Join $2.8 Billion Funding for Kling AI",
+      "summary": "Alibaba Group Holding and Tencent jointly participated in a $2.8 billion funding round for Kuaishou's Kling AI, one of China's leading generative video AI platforms, valuing it at approximately $15 billion pre-money. The deal signals major Chinese tech incumbents are consolidating their bets on AI video generation.",
+      "why": "阿里、腾讯共同押注AI视频赛道，说明两者在大模型之外积极布局AI应用层，有利于持续AI叙事下的估值支撑；同时反映中国AI生态产业整合加速，关注后续各自AI收入贡献披露。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "8f7c04399ebc383a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Hang Seng Index Opens Lower as IPO Slumps; PBOC Pledges Support for HK's Financial Markets",
+      "summary": "Hong Kong's Hang Seng Index slipped to 23,568 at the open on July 7 while the Hang Seng Tech Index fell 0.4%. A disappointing IPO debut — Beijing Tong Ren Tang Healthcare opened more than 13% below its IPO price — weighed on market sentiment. Tencent bucked the broader decline, rising more than 1% in early trading.",
+      "why": "港股科技指数承压但腾讯逆势上行（受Hy3发布驱动），新股破发加剧整体情绪疲软；持港股标的sell put时隐含波动率上升对期权金有利，但须评估标的个股分化。",
+      "source": "Dim Sum Daily",
+      "verified": true,
+      "keywords": [
+        "HK",
+        "宏观",
+        "互联网"
+      ],
+      "translated": false,
+      "url": "https://www.dimsumdaily.hk/hang-seng-index-opens-lower-as-ipo-slumps-pboc-pledges-support-for-hks-financial-markets/",
+      "is_new": true,
+      "first_seen": "2026-07-07"
+    },
+    {
       "id": "bf6deb7fa0e10057",
       "tier": 1,
       "lang": "en",
@@ -62,7 +350,7 @@
       ],
       "translated": false,
       "url": "https://www.tencent.com/en-us/articles/2202386.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
@@ -90,7 +378,7 @@
       ],
       "translated": false,
       "url": "https://www.gurufocus.com/news/8946361/tesla-tsla-stock-rises-following-robotaxi-launch-in-miami",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
@@ -119,7 +407,7 @@
       ],
       "translated": false,
       "url": "https://fortune.com/article/current-price-of-gold-07-06-2026/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
@@ -148,7 +436,7 @@
       ],
       "translated": false,
       "url": "https://www.fool.com/investing/2026/07/05/micron-stock-good-news-wall-street-nvidia-jensen/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
@@ -175,7 +463,7 @@
       ],
       "translated": false,
       "url": "https://caifuhao.eastmoney.com/news/20260704092612196131750",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
@@ -202,7 +490,7 @@
       ],
       "translated": false,
       "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-nears-kickoff-231000245.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
@@ -231,7 +519,7 @@
       ],
       "translated": false,
       "url": "https://newsroom.intel.com/intel-foundry/intel-foundry-details-process-milestones-future-innovation-at-vlsi-symposium",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
@@ -260,7 +548,7 @@
       ],
       "translated": false,
       "url": "https://www.businesswire.com/news/home/20260629390275/en/Palantir-Launches-Engine-for-Deploying-NVIDIA-Nemotron-Open-Models-in-Sovereign-Environments",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
@@ -291,7 +579,7 @@
       ],
       "translated": false,
       "url": "https://moderndiplomacy.eu/2026/07/03/making-tariffs-trendy-again-the-new-global-trade-battlefield-2/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
@@ -321,7 +609,7 @@
       "translated": false,
       "url": "https://www.datacenterdynamics.com/en/news/sk-hynix-ready-to-supply-hbm4-memory-chips/",
       "why": "SK海力士垄断约70% Nvidia Rubin HBM4订单，HBM4供给将持续偏紧：利好SK海力士H股（7709.HK），南方两倍做多SK海力士ETF（CSOP）持仓价值上升；HBM4短缺预期可能推高相关AI算力标的隐含波动率，包括英伟达期权。",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
@@ -350,7 +638,7 @@
       ],
       "translated": false,
       "url": "https://ca.finance.yahoo.com/news/moomoo-launches-moomoo-engine-unifying-132900339.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-07"
     },
     {
