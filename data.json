@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-11 18:15 (北京时间)",
+  "updated_at": "2026-07-12 08:14 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,136 @@
   "positions": [],
   "items": [
     {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "14:30",
+      "group": "个股",
+      "title": "阿里巴巴(9988.HK/BABA)7月8日港股盘中暴涨12%，即时商业亏损收窄+云加速+DOJ和解三重催化",
+      "summary": "阿里巴巴在提前召开的分析师预备沟通会上披露，6月季度即时零售业务亏损明显收窄，整体盈利保持稳健；云收入同比增长38%，并以6亿美元与美国司法部达成不起诉协议。港股9988最高触及107.7港元（+12%），创2025年9月以来最大单日涨幅，成交额110亿港元，恒生科技指数同日涨5%。",
+      "why": "三重正面催化合一，短期大涨压缩隐含波动率，但基本面（云加速+亏损收窄）支持估值修复；建议评估当前Sell Put行权价是否需上移。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "BABA",
+        "9988.HK",
+        "云计算",
+        "阿里云",
+        "DOJ"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/alibaba-s-shares-jump-most-in-ten-months-as-earnings-hopes-grow",
+      "id": "ad85665500f86ac0",
+      "is_new": true,
+      "first_seen": "2026-07-12"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股恒生指数周涨近4%，科技股引领，创9个月最佳周表现",
+      "summary": "受阿里巴巴、腾讯等互联网龙头带动，恒生指数周内累计上涨近4%，为2025年10月以来最强单周。恒生科技指数从6月低位已反弹逾12%，7月11日HSI收24,476.69点（+1.86%）。",
+      "why": "港股市场情绪大幅好转，持有0700/9988/1810等港股标的的组合本周估值明显提升，短端Sell Put期权时间价值消耗加速。",
+      "source": "South China Morning Post / Bloomberg",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/markets/article/3359806/hong-kong-stocks-rebound-concerns-ease-over-lock-expiries",
+      "id": "94964416aaf7985d",
+      "is_new": true,
+      "first_seen": "2026-07-12"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "美伊紧张局势再升级：特朗普宣告协议终止，布伦特原油一度升破77美元",
+      "summary": "7月8日特朗普宣布与伊朗谈判备忘录已终止，引发市场担忧霍尔木兹海峡供应中断；布伦特原油周中一度冲破77美元/桶，WTI升逾73美元，7月9日后受停战预期带动回落约2%。美国同步撤销伊朗石油销售普通许可证。",
+      "why": "油价大幅波动推升通胀预期，增加美联储7月加息筹码，对成长股估值及隐含波动率均构成扰动。",
+      "source": "CNBC / Al Jazeera / NPR",
+      "verified": true,
+      "keywords": [
+        "美伊",
+        "原油",
+        "油价",
+        "伊朗",
+        "地缘"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
+      "id": "6adc23bff089d358",
+      "is_new": true,
+      "first_seen": "2026-07-12"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "谷歌(GOOGL) Q2财报7月22日登场，Q1云增63%/AI Overview月活近20亿，市场期待估值重估",
+      "summary": "Alphabet Q2财报预计7月22日发布。Q1成绩：总收入1099亿美元（+22%），云收入首次突破200亿美元（+63%），订单积压接近翻倍至4600亿美元以上；Gemini企业版付费月活QoQ增40%，AI Overview月活用户近20亿。",
+      "why": "Q2财报是近期最大估值催化剂，云与Gemini若继续超预期将推动GOOGL重估；科技持仓的正面财报也有助于大盘情绪。",
+      "source": "SEC EDGAR / Alphabet IR",
+      "verified": true,
+      "keywords": [
+        "谷歌",
+        "GOOGL",
+        "Alphabet",
+        "Gemini",
+        "Google Cloud",
+        "Q2财报"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000043/googexhibit991q12026.htm",
+      "id": "93a7c528c44ec82e",
+      "is_new": true,
+      "first_seen": "2026-07-12"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股7月10日：上证涨1.65%收4036.59点，医疗领涨，半导体走弱",
+      "summary": "7月10日A股收盘，上证综指涨1.65%至4036.59点，医疗服务、生物医药、影院板块领涨；电子化学品、半导体、证券板块走弱。全周来看，成交维持活跃，科创50相对偏弱。",
+      "why": "A股科技板块分化，半导体承压与港股形成背离；消费医疗相对强势符合持仓偏好。",
+      "source": "财联社 / 东方财富",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "上证",
+        "半导体",
+        "医疗"
+      ],
+      "translated": false,
+      "url": "https://stock.eastmoney.com/a/cdpfx.html",
+      "id": "c6f28168e2ac5236",
+      "is_new": true,
+      "first_seen": "2026-07-12"
+    },
+    {
       "id": "d2c8fbd7f9f6c32b",
       "tier": 1,
       "lang": "en",
@@ -60,7 +190,7 @@
       ],
       "translated": false,
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-delivered-fantastic-news-190500782.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -89,7 +219,7 @@
       ],
       "translated": false,
       "url": "https://www.barchart.com/story/news/3228371/alibaba-stock-rebounds-from-2026-lows-heres-why-baba-can-rise-further",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -115,7 +245,7 @@
       ],
       "translated": false,
       "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019082cik.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -142,7 +272,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/roll/2026-07-10/doc-inihftws4211270.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -170,7 +300,7 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -198,7 +328,7 @@
       ],
       "translated": false,
       "url": "https://www.techtimes.com/articles/319824/20260707/sk-hynix-launches-record-28b-nasdaq-listing-hbm-shortage-locks-ai-memory-lead.htm",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -225,7 +355,7 @@
       ],
       "translated": false,
       "url": "https://m.jiemian.com/article/14728012.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -251,7 +381,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/roll/2026-07-10/doc-inihhzsa3871826.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -279,7 +409,7 @@
       ],
       "translated": false,
       "url": "https://hk.finance.yahoo.com/news/%E5%A4%A7%E8%A1%8C-%E8%8A%B1%E6%97%97-%E5%B0%8F%E7%B1%B3-01810-hk-034653003.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -306,7 +436,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-10/doc-inihhvke3968748.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -333,7 +463,7 @@
       ],
       "translated": false,
       "url": "https://news.cnyes.com/news/id/6530559",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -361,7 +491,7 @@
       ],
       "translated": false,
       "url": "https://www.gurufocus.com/news/8954375/nvidia-nvda-stock-rises-amid-client-ai-chip-developments",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-11"
     },
     {
@@ -4057,147 +4187,6 @@
       "translated": false,
       "url": "https://fortune.com/2026/07/06/sk-hynix-ipo-stock-offer-nasdaq-29-billion-ai/",
       "id": "a68a113f54274171",
-      "is_new": false,
-      "first_seen": "2026-07-08"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Samsung Electronics shares fall as capex concerns outweigh strong Q2",
-      "summary": "Samsung preliminary Q2 2026 operating profit surged ~19-fold to KRW 89.4 trillion (~$58.4B), beating consensus of KRW 87.3T. The result exceeds Samsung's cumulative 2023-2025 profits in a single quarter. Yet the stock fell 6.9% in Seoul on concerns about capex commitments and demand sustainability, triggering a global memory chip selloff.",
-      "why": "三星创历史最佳业绩却大跌6.9%，市场担忧AI内存需求见顶与资本开支过剩；连锁触发美光、闪迪同日大跌约7%，存储板块整体波动率飙升，期权保护成本上升。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "三星",
-        "Samsung",
-        "HBM",
-        "存储芯片",
-        "DRAM",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html",
-      "id": "5b638d4d0a553bdb",
-      "is_new": false,
-      "first_seen": "2026-07-08"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Intel to lay off up to 20% of Intel Foundry workers",
-      "summary": "Intel plans to cut up to 20% (10,000+) of Intel Foundry employees starting mid-July under CEO Lip-Bu Tan's refocus on engineering talent. Broader 2025-2026 restructuring has eliminated 25,000+ positions (from ~125K to under 100K). Ohio fab delayed to 2030; 18A process running in Arizona for Google AI workloads.",
-      "why": "英特尔Foundry大幅收缩，代工战略短期难追台积电；对英伟达/台积电构成相对利好，INTC仓位不宜积极加仓，需等待代工业务真正企稳信号。",
-      "source": "Yahoo Finance",
-      "verified": true,
-      "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "代工",
-        "foundry",
-        "晶圆代工",
-        "18A"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/news/intel-lay-off-20-intel-175032169.html",
-      "id": "d7d3999a27ed1e61",
-      "is_new": false,
-      "first_seen": "2026-07-08"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "Micron, SanDisk, and Western Digital Sink 7% as Samsung Earnings Spark a Memory Selloff",
-      "summary": "Micron (MU), SanDisk (SNDK) and Western Digital each fell ~7% on July 7 as Samsung's record Q2 profit paradoxically triggered a memory selloff on demand sustainability fears. Micron, Samsung and SK Hynix are all now down 20%+ from recent highs. Micron's own Q3 FY2026 revenue was $41.46B (+346% YoY) with Q4 guidance of $50B.",
-      "why": "美光和闪迪基本面极强但短期超卖（Q3营收$41.5B，Q4指引$50B）；大跌或为sell put入场时机，但须先确认存储周期是否见顶，行业资本开支风险不可忽视。",
-      "source": "24/7 Wall St.",
-      "verified": true,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "闪迪",
-        "SanDisk",
-        "SNDK",
-        "存储",
-        "内存",
-        "HBM"
-      ],
-      "translated": false,
-      "url": "https://247wallst.com/investing/2026/07/07/micron-sandisk-and-western-digital-sink-7-as-samsung-earnings-spark-a-memory-selloff/",
-      "id": "5d1eca5e0bdf153f",
-      "is_new": false,
-      "first_seen": "2026-07-08"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "大盘头条",
-      "title": "港股午评：恒指涨2.38% 科指涨4.34% 科网股普涨 阿里巴巴涨超8%",
-      "summary": "7月8日午间，港股科技股全线走强，恒生科技指数涨4.34%，恒生指数涨2.38%。阿里巴巴涨超8%，联想集团涨超9%，腾讯、美团、小米等均录得明显涨幅。分析师指超跌、AI重估、资金回流、政策托底四重因素共振推动。恒生科技PE约20倍，处历史分位23.6%低位。",
-      "why": "港股科技午间迎年内最强单日表现之一，持仓腾讯/阿里/美团/小米短期均显著正收益，隐含波动率或随之上升，可适时布局covered call落袋。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "恒生科技",
-        "阿里巴巴",
-        "腾讯",
-        "美团",
-        "小米",
-        "联想"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-08/doc-inihaicz1474533.shtml",
-      "id": "010224c23f5f6f41",
-      "is_new": false,
-      "first_seen": "2026-07-08"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "Beijing bolsters Hong Kong bond, gold trading in global yuan push",
-      "summary": "Beijing and Hong Kong jointly announced measures: Southbound Bond Connect quota raised from CNY 500B to CNY 800B; RMB Business Facility doubled to CNY 500B; HK launched gold central clearing system and revived gold futures trading; national FX reserves to increase HK asset allocation proportion going forward.",
-      "why": "人民币国际化提速，南向债券通扩额60%、双倍RMB融资工具利好港股整体流动性；黄金结算枢纽建设直接利好老铺黄金等相关资产，亦强化港股作为离岸金融中心的长期吸引力。",
-      "source": "Reuters / MarketScreener",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "离岸人民币",
-        "黄金",
-        "债券通",
-        "老铺黄金",
-        "南向"
-      ],
-      "translated": false,
-      "url": "https://www.marketscreener.com/news/beijing-bolsters-hong-kong-bond-gold-trading-in-global-yuan-push-ce7f5edbdf88f42c",
-      "id": "77167964f7918599",
       "is_new": false,
       "first_seen": "2026-07-08"
     }
