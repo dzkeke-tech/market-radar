@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-16 13:23 (北京时间)",
+  "updated_at": "2026-07-16 18:11 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,197 @@
   "positions": [],
   "items": [
     {
+      "id": "8ac2d3171ddb96e9",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "7月16日收盘：美股收高道指涨150点 谷歌等大型科技股推动股指上扬",
+      "summary": "美股周三收高：道指+150.37点(+0.29%)报52658点，纳指+0.62%报26269点，标普500+0.38%报7572.40点。亚马逊、微软、Alphabet均涨约3%，苹果涨4%；6月PPI意外环比下降0.3%，降温通胀令市场降低对美联储加息预期。",
+      "why": "美股科技板块普涨、PPI超预期降温，整体风险偏好改善；但半导体板块逆势承压，sell put在科技名单存在浮盈需注意delta调整。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "S&P500",
+        "纳指",
+        "PPI",
+        "美联储",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtas1128289.shtml",
+      "is_new": true,
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "8527899e4182f675",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Strait of Hormuz Crisis Threatens Global Trade, IEA's Birol Says",
+      "summary": "IEA Executive Director Fatih Birol warns the global economy faces renewed peril if the US-Iran conflict choking the Strait of Hormuz is not resolved within weeks. Just 6 vessels were tracked crossing the strait in an 18-hour window versus 18–22 crossings per day earlier this month.",
+      "why": "霍尔木兹通道中断将推高全球能源成本，对消费、交通（携程出行需求）及大宗商品定价形成冲击；石油服务板块短线受益，能源波动率上升利于期权方向性操作。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Hormuz",
+        "Iran",
+        "油价",
+        "IEA",
+        "地缘"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/iea-boss-warns-global-economy-in-peril-if-hormuz-crisis-persists",
+      "is_new": true,
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "3c07e54f80c15606",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "14:00",
+      "group": "个股",
+      "title": "Intel Foundry Hits 85% Yield, Winning Chip Orders From AMD, Nvidia, OpenAI as ASML Validates High-NA EUV",
+      "summary": "Intel's 18A process node yield improved from ~65% to 85%, surpassing the commercial viability threshold, backed by ASML validation of Intel as the first company shipping high-volume chips via High-NA EUV. Design wins from AMD, Nvidia, OpenAI, and Apple were reported; Intel stock rose 4.5% with KeyBanc upgrading to Overweight, target $155.",
+      "why": "18A良率突破是英特尔代工业务的关键里程碑，将重估晶圆代工市场格局；INTC估值向上修正概率增大，7月23日财报为下一催化剂——sell put策略可考虑在业绩前布局。",
+      "source": "TechTimes",
+      "verified": true,
+      "keywords": [
+        "Intel",
+        "INTC",
+        "18A",
+        "代工",
+        "Foundry",
+        "AMD",
+        "英伟达",
+        "良率"
+      ],
+      "translated": false,
+      "url": "https://www.techtimes.com/articles/320581/20260715/intel-foundry-hits-85-yield-winning-chip-orders-asml-validates-high-na-euv.htm",
+      "is_new": true,
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "1724622a41484ce5",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Micron Drops 8% on China Competition Fears, Dragging Intel, AMD, and Marvell",
+      "summary": "Micron (MU) shares fell 8% to $903.50 as Chinese DRAM maker ChangXin Memory Technologies (CXMT) filed for an $8.55 billion IPO — set to become the world's fourth-largest DRAM producer — and reports surfaced that Apple is testing CXMT chips for China-market devices. Intel, AMD, and Marvell fell 6–7% in sympathy.",
+      "why": "CXMT冲击令存储定价权受损叙事实质化，MU/SNDK均为持仓或关注标的；同时AMD/INTC连带下跌，可能为期权sell put策略带来正向时间价值机会。",
+      "source": "24/7 Wall St.",
+      "verified": true,
+      "keywords": [
+        "Micron",
+        "MU",
+        "CXMT",
+        "DRAM",
+        "中国存储",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://247wallst.com/investing/2026/07/15/micron-drops-8-on-china-competition-fears-dragging-intel-amd-and-marvell/",
+      "is_new": true,
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "e2c7029e446f284c",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "Tencent HY3 Tops OpenRouter Charts: 6.13 Trillion Tokens Weekly, Surpassing DeepSeek V4 and Xiaomi MiMo",
+      "summary": "Tencent's Hunyuan Hy3 (a 295B MoE open model released July 6) claimed #1 on OpenRouter's weekly LLM usage leaderboard with 6.13 trillion tokens processed, surpassing Xiaomi MiMo-V2.5 and DeepSeek V4 Flash. The free-tier offer drove the surge; Hy3 shows leading performance in coding and agentic tasks.",
+      "why": "腾讯AI大模型竞争力显著提升，混元Hy3的全球调用量第一是重要里程碑，可提升腾讯云AI业务收入预期；这也强化了0700.HK在AI赛道的估值叙事。",
+      "source": "TechTimes",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "混元",
+        "Hunyuan",
+        "Hy3",
+        "OpenRouter",
+        "AI模型"
+      ],
+      "translated": false,
+      "url": "https://www.techtimes.com/articles/320292/20260713/tencent-hy3-tops-openrouter-charts-base-url-swap-runs-it-free-codex-cli.htm",
+      "is_new": true,
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "507d7f9b18838f41",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午盘：恒指跌0.47%、科指跌1.42%，油服股逆势涨，中概股普涨名创优品涨逾9%",
+      "summary": "港股早盘走势分化：恒生指数跌0.47%，科技指数跌1.42%，科网股及芯片股普跌；石油服务股受美伊冲突推动油价上涨而逆势强势。美国上市中概股（港股通方向）普涨，名创优品涨超9%，哔哩哔哩涨超5%。",
+      "why": "港股科技与大盘同步受压，但中概股结构性走强，可关注持有的港股标的（腾讯、美团等）是否受波及；油服板块受益于地缘危机。",
+      "source": "东方财富",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "科技指数",
+        "中概股",
+        "油服股"
+      ],
+      "translated": false,
+      "url": "https://caifuhao.eastmoney.com/news/20260715233932091412340",
+      "is_new": true,
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "75c143a50d007069",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "15:00",
+      "group": "个股",
+      "title": "SanDisk (SNDK) Breaks $1,500 Support on China NAND Competition Fears; Shares Down 5.7%",
+      "summary": "SanDisk (SNDK) fell 5.71% on July 15, breaching the critical $1,500 support level amid the same Chinese memory competition worries driving Micron lower. SNDK is now down 28% from its 52-week high despite year-to-date gains of 508%; the stock is tied to NAND pricing dynamics with Kioxia joint fab operations also under scrutiny.",
+      "why": "闪迪与美光同受中国NAND产能威胁冲击，两者均为关注名单标的；SNDK期权隐含波动率或上升，短期sell put需谨慎对待支撑破位后的进一步下探风险。",
+      "source": "FX Leaders",
+      "verified": true,
+      "keywords": [
+        "SanDisk",
+        "SNDK",
+        "NAND",
+        "闪存",
+        "中国竞争",
+        "存储"
+      ],
+      "translated": false,
+      "url": "https://www.fxleaders.com/news/2026/07/15/sandisk-sndk-stock-retests-1500-as-memory-fears-on-nand-competition-return-and-supply-risks/",
+      "is_new": true,
+      "first_seen": "2026-07-16"
+    },
+    {
       "tier": 1,
       "lang": "en",
       "markets": [
@@ -61,7 +252,7 @@
       "translated": false,
       "url": "https://www.bloomberg.com/news/articles/2026-07-14/small-amount-of-nvidia-ai-chips-shipped-to-china-with-us-license",
       "id": "38ea2d0615befe4c",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -90,7 +281,7 @@
       "translated": false,
       "url": "https://uk.investing.com/news/stock-market-news/xiaomi-delivers-over-30000-evs-in-july-after-yu7-launch-4195962",
       "id": "ebb15a34fdbff296",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -118,7 +309,7 @@
       "translated": false,
       "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm",
       "id": "3b0670e71c478da5",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -145,7 +336,7 @@
       "translated": false,
       "url": "https://www.techtimes.com/articles/320235/20260712/sk-hynix-soars-13-nasdaq-debut-hbm-architecture-makes-it-irreplaceable-ai-chips.htm",
       "id": "af6c19f1530124a4",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -173,7 +364,7 @@
       "translated": false,
       "url": "https://finance.yahoo.com/markets/stocks/articles/look-micron-technology-mu-valuation-221413339.html",
       "id": "458faaffdb793d53",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -201,7 +392,7 @@
       "translated": false,
       "url": "https://www.stcn.com/article/detail/3534337.html",
       "id": "ec46bc8f593e9e95",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -228,7 +419,7 @@
       "translated": false,
       "url": "https://finance.sina.com.cn/stock/y/2026-07-16/doc-inihxxkk7732026.shtml",
       "id": "9ce7f58f6fdc45c7",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -254,7 +445,7 @@
       "translated": false,
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-16/doc-inihyiye7725823.shtml",
       "id": "798d7628d001d813",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -280,7 +471,7 @@
       "translated": false,
       "url": "https://www.rttnews.com/3667356/hong-kong-stock-market-may-open-to-the-upside-on-thursday.aspx",
       "id": "1b1d5c72db46144a",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -309,7 +500,7 @@
       "translated": false,
       "url": "https://www.bloomberg.com/news/articles/2026-07-08/tencent-wechat-ai-agent-shows-promise-in-super-app-fight-review",
       "id": "bce0cfad40cd4f44",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -337,7 +528,7 @@
       "translated": false,
       "url": "https://www.techtimes.com/articles/319983/20260709/alibaba-cloud-forecasts-45-ai-growth-legal-condition-investors-cannot-price-away.htm",
       "id": "2e70f68374532feb",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -365,7 +556,7 @@
       "translated": false,
       "url": "https://automotive-transportation.news-articles.net/content/2026/07/10/tesla-launches-unsupervised-robotaxi-network-in-miami.html",
       "id": "e72af6a1da3f0d14",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -393,7 +584,7 @@
       "translated": false,
       "url": "https://finance.sina.com.cn/wm/2026-07-12/doc-inihpchi4704480.shtml",
       "id": "3d3df5478bec5313",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -420,7 +611,7 @@
       "translated": false,
       "url": "https://www.fxleaders.com/news/2026/07/15/sandisk-sndk-stock-retests-1500-as-memory-fears-return-on-nand-competition-and-supply-risks/",
       "id": "a589cc63eb1ae1e8",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -449,7 +640,7 @@
       "translated": false,
       "url": "https://news.qq.com/rain/a/20260629A06JSW00",
       "id": "5d18f940e98feb37",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -476,7 +667,7 @@
       "translated": false,
       "url": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifmrts2641609.shtml",
       "id": "ad95d817d6c98d78",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -503,7 +694,7 @@
       "translated": false,
       "url": "https://www.huxiu.com/article/4845742.html",
       "id": "14a10ab35734b402",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -529,7 +720,7 @@
       "translated": false,
       "url": "https://www.nbd.com.cn/articles/2026-07-15/4473471.html",
       "id": "fafcd1edba1936af",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-16"
     },
     {
@@ -3964,189 +4155,6 @@
       ],
       "translated": false,
       "url": "https://www.scmp.com/business/companies/article/3360334/what-labubu-fatigue-billionaire-investor-doubles-down-pop-mart-stake",
-      "is_new": false,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "id": "a260cdc16ac9d10e",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股收评：恒指涨0.16% 科指跌0.96% PCB概念、半导体板块集体调整",
-      "summary": "7月13日港股涨跌分化，恒生指数微坧1.0%技。戀24213.72，恒生科技指数跌0.96%，国企指数涨0.33%；石油股因地缘局势受益，中石油涨超2%；建滔积层板跌超18%，半导体板块整体走弱。",
-      "why": "港股整体韧性优于A股，但科技指数偏弱；若持有恒科期权空头需留意delta变动，PCB/半导体相关持仓短线承压。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-13/doc-inihrxaz4305511.shtml",
-      "is_new": false,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "id": "3b7e2c9d0a1f4e56",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "LABUBU Takes Over NYC: Pop Mart opens THE MONSTERS 10th Anniversary World Tour exhibition July 17",
-      "summary": "Pop Mart is bringing an immersive THE MONSTERS 10th Anniversary World Tour exhibition to New York City, opening July 17 through August 31, as part of a global tour celebrating the Labubu IP's decade milestone.",
-      "why": "Labubu纽约展览是Pop Mart全球化破圈的里程碑事件，高曝光有助于提升北美市场品牌认知和后续销售转化；对9992.HK是中长期出海IP建设的积极信号。",
-      "source": "BusinessWire",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "POPMART",
-        "9992.HK",
-        "Labubu",
-        "拉布布",
-        "The Monsters"
-      ],
-      "translated": false,
-      "url": "https://www.businesswire.com/news/home/20260701421928/en/LABUBU-Takes-Over-NYC-POP-MART-Celebrates-THE-MONSTERS-With-10th-Anniversary-Exhibition",
-      "is_new": false,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "id": "8976b8744c322216",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "国务院批复《中医药振兴发展“十五五”规划》，中药板块逆势活跃",
-      "summary": "7月13日国务院正式批复《中医药振兴发展“十五五”规划》，为中医药产业提供政策顶层支撑；A股中药板块当日逆势活跃，在市场整体大跌背景下成为少数亮点板块。銀行板块因多家銀行派发2025年度股息同步跟涨。",
-      "why": "政策利好中医药赛道，对主要持有科技消费赛道投资组合的边际影响有限；但如有港股中医药相关持仓，政策红利值得关注。",
-      "source": "每经网",
-      "verified": true,
-      "keywords": [
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.nbd.com.cn/articles/2026-07-13/4469407.html",
-      "is_new": false,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "IEA Revises 2026 Oil Forecast: Deficit Widens as US-Iran Conflict Resumes, WTI ~$72-73",
-      "summary": "美伊停火协议破裂，冲突重启，WTI油价阶段性涨约4.4%至$72-73/桶；IEA将2026年石油供应预测下调，并将2026年伊朗战争定性为\"史上最大供应中断事件之一\"。霍尔木兹海峡风险上升。",
-      "why": "油价反弹直接推高通胀预期，与美联储紧缩方向形成对立，加重9月加息担忧；同时拖累全球经济增长预期，对消费类持仓（美团、携程等）构成宏观压力。",
-      "source": "OilPrice.com (引用IEA报告)",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "macro",
-        "oil",
-        "Iran",
-        "geopolitics",
-        "中东",
-        "oil price"
-      ],
-      "translated": false,
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Revises-2026-Forecast-Oil-Deficit-Widens-as-Iran-War-Cuts-Production.html",
-      "id": "64755db28cddd7a7",
-      "is_new": false,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "Warsh and US Inflation Will Set Tone for July Fed Decision",
-      "summary": "美联储主席Kevin Warsh将于7月14日（众议院）和15日（参议院）发表首次国会货币政策证词，与6月CPI数据同日发布。市场关注其是否释放9月加息信号，内部政策分歧被Warsh称为\"family fight\"。",
-      "why": "新主席首次国会亮相将定性9月FOMC路径预期，CPI+证词双重事件叠加极大提升市场波动率。持仓Sell Put策略需警惕VIX上升，尤其关注科技/消费持仓的短期隐波变化。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Fed",
-        "Warsh",
-        "宏观",
-        "macro",
-        "利率",
-        "inflation"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision",
-      "id": "4f46b3cde3e7ec23",
-      "is_new": false,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:05",
-      "group": "大盘头条",
-      "title": "Stock market next week: June CPI expected 3.8% YoY — Outlook for July 13-17, 2026",
-      "summary": "美国6月CPI预计7月14日08:30 ET发布：同比预期3.8%（前值4.2%），环比预期-0.1%；核心CPI同比维持约2.9%。与Warsh国会证词同日，属高波动性事件叠加周。",
-      "why": "通胀路径直接影响9月加息概率：低于预期则利多，高于预期则加剧紧缩预期。本周Gamma风险显著，Sell Put策略需特别注意CPI发布前后的隐波膨胀。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "CPI",
-        "通胀",
-        "宏观",
-        "macro",
-        "inflation",
-        "Fed"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html",
-      "id": "555ffd6368970d38",
-      "is_new": false,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "US Q2 Earnings Season Opens: JPMorgan, Goldman, TSMC, Netflix Report This Week (July 14-16)",
-      "summary": "美股Q2财报季本周正式开幕：7月14日JPMorgan、Goldman Sachs、花旗、Wells Fargo早盘前集中发布；7月16日TSMC与Netflix。S&P 500 Q2盈利预计同比+24%，连续第二季度实现20%+增速。",
-      "why": "大行+半导体+流媒体集中披露，TSMC指引是AI芯片需求的最重要信号源；本周期权价值显著，Sell Put策略需管理财报前后的波动敞口。",
-      "source": "CNBC / TradingKey",
-      "verified": false,
-      "keywords": [
-        "财报",
-        "earnings",
-        "JPMorgan",
-        "TSMC",
-        "Netflix",
-        "S&P500",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.tradingkey.com/analysis/economic/more/262024478-week-ahead-us-june-cpi-ppi-focus-q2-earnings-season-tradingkey",
-      "id": "bc2a750d06a2936f",
       "is_new": false,
       "first_seen": "2026-07-13"
     }
