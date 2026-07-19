@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-19 08:17 (北京时间)",
+  "updated_at": "2026-07-19 13:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,201 @@
   "positions": [],
   "items": [
     {
+      "id": "9c9aac87ada6d9d2",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "US June CPI Cools Sharply: Core MoM Flat, Fed July Hike Odds Collapse to 17%",
+      "summary": "June headline CPI fell 0.1% MoM (+3.5% YoY); core CPI was flat 0% MoM vs 0.2% expected. Treasury yields slid sharply. Markets price only 17% probability of a Fed hike at the July 29 FOMC meeting vs 42% the prior day.",
+      "why": "通胀超预期降温是港股/美股本周反弹的核心驱动；若7月29日FOMC按兵不动，成长股估值支撑进一步夯实，期权卖方偏有利。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "通胀",
+        "美联储",
+        "Federal Reserve",
+        "FOMC",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/14/treasury-yields-rise-as-fed-rate-hike-expectations-grow.html",
+      "is_new": true,
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "2ec4d5580f399da0",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "US Revokes Iran Oil Waiver After Hormuz Attacks; Brent Rebounds Above $76",
+      "summary": "The US revoked Iran's temporary oil export waiver (valid to Aug 21) after attacks on three commercial vessels in the Strait of Hormuz. Brent crude rebounded over 3% to ~$76.48/bbl. Iran threatened decisive actions. Sanctions now bar Iranian oil transactions effective July 17.",
+      "why": "油价反弹压通胀预期，可能推迟美联储降息时间表；地缘风险上升对全球风险资产构成阻力，卖出期权需注意波动率抬升风险。",
+      "source": "Al Jazeera",
+      "verified": true,
+      "keywords": [
+        "伊朗",
+        "油价",
+        "地缘风险",
+        "Brent",
+        "Hormuz",
+        "制裁"
+      ],
+      "translated": false,
+      "url": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-on-iran-reversing-fall-to-pre-war-levels",
+      "is_new": true,
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "7d9c9439e0227c8e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "China Q2 GDP Misses 5% Target at 4.3% — Weakest Growth in Over 3 Years",
+      "summary": "China's Q2 2026 GDP expanded 4.3% YoY, missing both the 4.5% consensus and the government's ~5% target — first miss since pre-pandemic. H1 GDP was 4.7%. Urban fixed-asset investment fell 5.7% H1; retail sales rebounded 1% in June after -0.6% in May.",
+      "why": "GDP增速低于目标强化市场对刺激政策的押注，但内需疲软对消费类持仓（美团、携程、海底捞）构成基本面压力，需跟踪政策响应。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "中国GDP",
+        "宏观经济",
+        "经济增长",
+        "消费",
+        "刺激"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+      "is_new": true,
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "4d511ca8d6d576e9",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股恒指7月18日涨1.3%至25009点，科技消费股集体拉升",
+      "summary": "受美国6月CPI超预期降温提振，港股恒指7月18日上涨约1.3%收报25,009点。持仓个股全面走强：腾讯+2.1%、美团+4.9%、小米+6.2%、泡泡玛特+6.9%、快手+5.6%。",
+      "why": "持仓港股集体拉升，卖出期权delta风险下降；美联储加息预期持续回落有利估值修复，中期偏多。",
+      "source": "MarketScreener / RTHK",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒指",
+        "HSI",
+        "科技股",
+        "消费股"
+      ],
+      "translated": false,
+      "url": "https://www.marketscreener.com/news/hong-kong-stocks-open-higher-as-soft-us-inflation-data-lifts-sentiment-ce7f5ed2df89f525",
+      "is_new": true,
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "fb1f0f2ef47e47d2",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "金价半年跌超28%，老铺黄金市值较高点蒸发逾1200亿港元，估值回落至12倍PE",
+      "summary": "国际金价较年初高点下跌超28%，老铺黄金（6181.HK）市值较历史峰值蒸发逾1200亿港元。记者实探显示多地门店客流稀疏，二手市场折价，部分门店已上架按克重计价产品；估值从约50倍PE跌至约12倍，已接近周大福、老凤祥等传统金店水平。",
+      "why": "金价大幅下行重塑老铺估值逻辑，东方硬奢溢价模式遭严峻考验；若有卖出期权敞口需评估下行风险，或考虑调低行权价。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "老铺黄金",
+        "6181.HK",
+        "Laopu Gold",
+        "金价",
+        "黄金",
+        "珠宝"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260718/herald/d2ad92baef6da35563b4dbdd1d100d71.html",
+      "is_new": true,
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "5c11bb14a54f304e",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "Tesla Robotaxi Goes Fully Unsupervised in Miami — Now Live in 4 Cities With No Safety Driver",
+      "summary": "Tesla's fully unsupervised Model Y Robotaxi expanded to Miami on July 16, joining Austin, Dallas and Houston. No driver or safety monitor inside. The Miami service area covers western/central Miami-Dade. Waymo operates in 5 states vs Tesla's 2 states and 4 markets.",
+      "why": "Robotaxi持续商业落地兑现马斯克自动驾驶估值叙事；每新增城市提升确信度，利好TSLA中期持仓；财报前（7月22日）Robotaxi进展或进一步压缩隐波下行空间。",
+      "source": "Motley Fool",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Robotaxi",
+        "FSD",
+        "自动驾驶",
+        "迈阿密"
+      ],
+      "translated": false,
+      "url": "https://www.fool.com/investing/2026/07/16/teslas-robotaxi-just-launched-in-miami-heres-how-s/",
+      "is_new": true,
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "a3ee02af27d05ba2",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "14:00",
+      "group": "个股",
+      "title": "京东AI Agent与腾讯元宝打通小程序生态，混元Hy3日均Token消耗量较前代20倍",
+      "summary": "7月15日，京东AI Agent与腾讯元宝完成小程序生态集成，支持购物推荐、售后等场景。腾讯7月6日已正式发布混元Hy3，日均Token消耗量较前代20倍；微信AI Agent小薇灰测中，依托14亿月活用户与百万级小程序生态。",
+      "why": "元宝生态扩张与微信Agent落地是腾讯 AI从研发向变现转化的早期信号，巩固0700.HK中长期持仓逻辑；Sell put存续期内基本面改善中。",
+      "source": "新浪财经 / 财新",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "元宝",
+        "混元",
+        "微信",
+        "AI Agent",
+        "京东"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/2026-07-15/doc-inihwezh4827225.shtml",
+      "is_new": true,
+      "first_seen": "2026-07-19"
+    },
+    {
       "id": "cd8c1474797e458c",
       "tier": 1,
       "lang": "en",
@@ -61,7 +256,7 @@
       ],
       "translated": false,
       "url": "https://www.sec.gov/Archives/edgar/data/0001754581/000110465926067159/tm2615605d1_ex99-1.htm",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-19"
     },
     {
@@ -89,7 +284,7 @@
       ],
       "translated": false,
       "url": "https://www.stcn.com/article/detail/4010092.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-19"
     },
     {
@@ -115,7 +310,7 @@
       ],
       "translated": false,
       "url": "https://www.stats.gov.cn/sj/zxfbhjd/202607/t20260715_1964134.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-19"
     },
     {
@@ -142,7 +337,7 @@
       ],
       "translated": false,
       "url": "https://www.chinanews.com.cn/cj/2026/07-15/10659821.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-19"
     },
     {
@@ -169,7 +364,7 @@
       ],
       "translated": false,
       "url": "https://www.news.cn/politics/leaders/20260717/a40efe09846f418ca42ba096d7d6efd7/c.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-19"
     },
     {
@@ -196,7 +391,7 @@
       ],
       "translated": false,
       "url": "https://www.fxleaders.com/news/2026/07/17/gold-price-forecast-xau-usd-slips-below-4000-why-isnt-gold-acting-like-a-safe-haven/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-19"
     },
     {
@@ -224,7 +419,7 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-19"
     },
     {
@@ -252,7 +447,7 @@
       ],
       "translated": false,
       "url": "https://www.ig.com/en/news-and-trade-ideas/alphabet-q2-2026-earnings-preview-260716",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-19"
     },
     {
@@ -282,7 +477,7 @@
       ],
       "translated": false,
       "url": "https://www.sec.gov/Archives/edgar/data/1269238/000119312526073204/d54719dex991.htm",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-19"
     },
     {
@@ -310,7 +505,7 @@
       ],
       "translated": false,
       "url": "https://www.fool.com/investing/2026/07/16/why-sandisk-stock-skyrocketed-857-in-the-first-hal/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-19"
     },
     {
@@ -3947,205 +4142,6 @@
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
       "id": "a9aa6808d3f7b5a9",
-      "is_new": false,
-      "first_seen": "2026-07-15"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "IBM Shares Plunge 25%—Worst Day on Record—After Q2 Revenue Miss; Enterprise Software Stocks Rattled",
-      "summary": "IBM pre-announced Q2 2026 revenue of $17.2B (vs. $17.86B estimate), with infrastructure revenue -7% as clients shifted capex to servers, storage, and memory ahead of supply-constrained price rises. The 25% single-day decline exceeded IBM's previous record crash on Black Monday 1987.",
-      "why": "IBM暴跌25%是本周最重要宏观信号：大企业将季末预算转向AI基础设施抢货（存储/服务器/内存），软件预算被挤压。对持仓的含义：利好SK海力士、美光、英伟达等存储/AI芯片；软件类ETF与相关持仓须关注连锁影响，同时也显示AI硬件需求极度旺盛。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "IBM",
-        "earnings miss",
-        "software",
-        "infrastructure",
-        "大盘",
-        "earnings warning"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-      "id": "025355581500aa89",
-      "is_new": false,
-      "first_seen": "2026-07-15"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "U.S. June CPI Fell 0.4% MoM; Headline YoY 3.5%, Core 2.6%—Below All Forecasts",
-      "summary": "The BLS reported June CPI -0.4% MoM, putting the YoY rate at 3.5% (vs. forecast 3.8%, May's 4.2%). Core CPI was flat on the month, with 12-month core at 2.6%. The S&P 500 rose 0.38% and the Nasdaq gained 0.9% on the print, led by semiconductor stocks.",
-      "why": "通胀大幅低于预期，CPI六月份大跌0.4%，核心通胀12个月仅2.6%——主因油价回落；但美联储7月会议仍预期按兵不动（FedWatch 85.6%持稳）。纳指反弹利好科技持仓，短期Sell Put窗口略微改善，但需警惕油价反弹重推通胀。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "CPI",
-        "inflation",
-        "Fed",
-        "Nasdaq",
-        "S&P 500",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html",
-      "id": "cb1015e4d93a346b",
-      "is_new": false,
-      "first_seen": "2026-07-15"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A",
-        "US"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "6月中国出口同比+27%创历史新高至4124亿美元，贸易顺差1256亿美元史上第二高",
-      "summary": "中国6月出口同比增长27%至4124亿美元，大幅超市场预期的18.2%，刷新历史最高纪录；进口同比+36%；贸易顺差1256亿美元创史上第二高。AI相关硬件（半导体为最大单项，占出口约10%）是最主要驱动力，同时出口商赶在关税进一步落地前抢出货。",
-      "why": "出口爆增提振A股情绪（沪指+1.36%，深成+2.77%），AI硬件出口激增间接验证国内AI产业链景气；同时强出口支撑Q2 GDP预期（明日公布），对科技/消费持仓整体利好。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "中国出口",
-        "贸易顺差",
-        "AI",
-        "宏观",
-        "半导体",
-        "GDP",
-        "大盘头条"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtvuk5317991.shtml",
-      "id": "aa9d6abce2a95468",
-      "is_new": false,
-      "first_seen": "2026-07-15"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Fed Funds Rate Steady at 3.50–3.75%; July 28-29 FOMC Expected to Hold Despite Below-Forecast CPI",
-      "summary": "The Fed funds rate remains at 3.50–3.75% after June's softer-than-expected CPI. CME FedWatch shows 85.6% probability of no change at the July 28-29 meeting, up from 58.3% before the print. However, markets price ~42% chance of at least one 25bp hike by year-end given renewed oil pressures.",
-      "why": "7月按兵不动概率大，但年内仍有42%概率加息——这一路径主要取决于油价走势。对Sell Put策略：高利率+高IV环境中期权premium维持高位，是相对有利条件；但需警惕年末加息导致指数二次回调。",
-      "source": "CoinDesk",
-      "verified": false,
-      "keywords": [
-        "Federal Reserve",
-        "FOMC",
-        "interest rate",
-        "macro",
-        "Fed funds"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
-      "id": "cfd6f742438dc36d",
-      "is_new": false,
-      "first_seen": "2026-07-15"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Alibaba Settles $600M DOJ Non-Prosecution Deal Over Illegal Drug Sales; BABA Jumped ~12%",
-      "summary": "Alibaba and its U.S. payment arm AUS Merchant Services agreed to a $600M non-prosecution settlement with the DOJ over allegations of facilitating ~80,000 illegal pharmaceutical sales (2016–2024). The stock surged ~12% on July 2 as the settlement cleared a major legal overhang. Analysts at Daiwa and Nomura trimmed price targets but maintained Buy ratings.",
-      "why": "最大法律风险出清，BABA估值重估空间打开；同时通义千问Qwen活跃用户持续增长，阿里云AI营收提速，与Eli Lilly合作进入GLP-1医疗场景。Sell Put行权价下行风险已大幅收窄，关注后续季报（8月前后）进一步验证云业务反转。",
-      "source": "Yahoo Finance",
-      "verified": false,
-      "keywords": [
-        "Alibaba",
-        "阿里巴巴",
-        "BABA",
-        "9988.HK",
-        "DOJ",
-        "settlement",
-        "Qwen",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-nyse-baba-settles-600-161207675.html",
-      "id": "0d16f5b54429d15b",
-      "is_new": false,
-      "first_seen": "2026-07-15"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Tesla Miami Robotaxi Live as of July 3; First User Impressions Documented July 14 Ahead of Q2 Earnings",
-      "summary": "Tesla's driverless Robotaxi service launched in Miami (10–14 sq. miles in western Miami-Dade) on July 3, 2026—making Miami the second city after Texas. FSD v14 Lite began rolling out to HW3 vehicles. Q2 2026 deliveries were ~480,000 vehicles and 13.5 GWh of energy storage. Full Q2 earnings call is July 22.",
-      "why": "Robotaxi扩至迈阿密兑现商业化叙事，Q2交付、储能均创纪录；7月22日财报是近期重要期权窗口——可考虑在财报前后管理Sell Put或Covered Call头寸以应对可能的大波动。若财报超预期，隐含波动率在事件后通常回落，出售高位IV的Put有较好胜率。",
-      "source": "Tesla Oracle",
-      "verified": false,
-      "keywords": [
-        "Tesla",
-        "TSLA",
-        "Robotaxi",
-        "FSD",
-        "Miami",
-        "autonomous",
-        "Q2 earnings"
-      ],
-      "translated": false,
-      "url": "https://www.teslaoracle.com/2026/07/14/tesla-expands-robotaxi-service-to-miami-watch-the-first-impressions-of-users/",
-      "id": "dd119c7d724347ea",
-      "is_new": false,
-      "first_seen": "2026-07-15"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "GENIUS Act Stablecoin Compliance Deadline Falls July 18; Circle Faces Key Test on CRCL Volatility Risk",
-      "summary": "The GENIUS Act's one-year transition period (signed July 18, 2025) expires July 18, 2026, requiring stablecoin issuers to comply with new federal reserve management, licensing, and supervision standards. Analysts flag elevated CRCL stock volatility risk around the deadline as market assesses Circle's compliance posture and competitive position.",
-      "why": "7月18日是本周最重要的监管节点：GENIUS Act全面生效将定义USDC合规框架。若过渡顺利，为CRCL提供长期确定性支撑；若细则加重发行方负担（如与银行联合发行限制），可能压制估值。Sell Put策略在此前后需控制仓位或选择行权价更低的安全垫。",
-      "source": "CoinDesk",
-      "verified": false,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "GENIUS Act",
-        "stablecoin",
-        "稳定币",
-        "监管",
-        "USDC"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/business/2026/07/13/mizuho-says-circle-bank-approval-doesn-t-solve-usdc-growth-stablecoin-competition-risks",
-      "id": "f704af1c079e789e",
       "is_new": false,
       "first_seen": "2026-07-15"
     }
