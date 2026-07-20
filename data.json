@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-20 13:21 (北京时间)",
+  "updated_at": "2026-07-20 18:15 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,351 @@
   "positions": [],
   "items": [
     {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Brent Crude Tops $90 as US-Iran Conflict Escalates, Hormuz Shipping Disrupted",
+      "summary": "Brent crude surged 3% to $90.79/barrel on July 20 as the US and Iran exchanged strikes for a ninth consecutive night. Shipping through the Strait of Hormuz fell to four vessels Sunday from eight the prior day, raising energy supply disruption fears.",
+      "why": "布伦特破$90直接拉高通胀预期，加大美联储9月加息概率；对成长科技持仓Sell Put选手需关注隐含波动率上行风险，能源成本压力亦传导至消费赛道。",
+      "source": "CNBC",
+      "verified": true,
+      "translated": false,
+      "keywords": [
+        "oil",
+        "Brent",
+        "Iran",
+        "Strait of Hormuz",
+        "geopolitical"
+      ],
+      "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+      "id": "a156cd9fc03ec879",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "30-Year Treasury Yield at 5.06%; Bond Market Signals 64% Odds of September Fed Rate Hike",
+      "summary": "The 30-year Treasury yield stood at 5.06% as of July 19, near pre-2008-crisis highs. The 6-month yield sits 30bp above the Fed Funds rate. Markets now price a 64% probability of a September rate hike as oil-driven inflation expectations rise following the Iran conflict escalation.",
+      "why": "长端利率企稳5%以上压缩成长股估值倍数；美联储9月加息预期若进一步升温，将对Sell Put行权价安全边际形成系统性考验，适合在7月29日FOMC前降低delta敞口。",
+      "source": "Wolf Street",
+      "verified": false,
+      "translated": false,
+      "keywords": [
+        "Treasury",
+        "yield",
+        "Fed",
+        "rate hike",
+        "inflation",
+        "5%"
+      ],
+      "url": "https://wolfstreet.com/2026/07/19/30-year-treasury-yield-still-5-06-30-year-tips-yield-highest-since-2010-reintroduction-yield-curve-prepped-for-rate-hike-this-year/",
+      "id": "90493e68e0af34e5",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "CXMT Prices $8.6B Shanghai IPO — Asia's Largest of 2026; STAR Market Listing Set for July 27",
+      "summary": "ChangXin Memory Technologies (CXMT) priced its Shanghai IPO at 8.66 yuan/share, raising 57.9 billion yuan ($8.6B) — the largest A-share semiconductor offering ever and Asia's biggest IPO of 2026. Subscription was oversubscribed 200x+ though at a lower pace than typical Chinese IPOs. Listing date: July 27.",
+      "why": "CXMT上市是中国DRAM国产化战略标志性事件，对美光、SK海力士构成中长期竞争威胁；抽血A股流动性短期拖累科技板块，7月27日挂牌后存储芯片股波动可能加剧。",
+      "source": "Bloomberg",
+      "verified": true,
+      "translated": false,
+      "keywords": [
+        "CXMT",
+        "DRAM",
+        "A股",
+        "科创板",
+        "IPO",
+        "ChangXin",
+        "存储芯片",
+        "中国半导体"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/cxmt-prices-shanghai-star-board-ipo-at-8-66-yuan-per-share",
+      "id": "e6654532f60af148",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Nvidia Implements 'Whitelist' for Asian AI Chip Buyers; Over Half of Customers Cut Under BIS Compliance",
+      "summary": "Nvidia deployed a new customer whitelist system for Asian AI chip sales on July 14, sending field staff to inspect data centers and interview end-users. Over half of previous Asian buyers have failed the enhanced BIS-aligned compliance checks. The system targets Singapore, Malaysia, and Japan to prevent chip diversion to China.",
+      "why": "英伟达主动缩减亚洲合规客户相当于自我限量，短期影响亚洲订单；但Blackwell/Rubin产能被顶级云客户吃满，长期减少监管风险。持有NVDA需关注下季度亚洲渠道订单变化。",
+      "source": "Yahoo Finance",
+      "verified": true,
+      "translated": false,
+      "keywords": [
+        "Nvidia",
+        "NVDA",
+        "whitelist",
+        "export controls",
+        "AI chip",
+        "BIS",
+        "compliance",
+        "Asia"
+      ],
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-tightens-asian-customer-approvals-105148051.html",
+      "id": "27886335e2da6a3e",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "China Stocks Tumble: Shanghai -3%, Shenzhen -5.4% as CXMT's $8.6B IPO Stirs Liquidity Panic",
+      "summary": "Shanghai Composite plunged 3.05% to near 11-month low of 3,764 on July 17; Shenzhen Component fell 5.4%. Investors fear CXMT's 57.9bn-yuan ($8.6B) STAR Market IPO will drain market liquidity, compounded by upcoming mega-IPOs from Unitree and Yangtze Memory Technologies.",
+      "why": "A股流动性恐慌直接拖累港股情绪，本周港股互联网板块（腾讯、阿里、美团等）可能承压；CXMT 7月27日挂牌前后是关键观察窗口。",
+      "source": "Business Recorder",
+      "verified": true,
+      "translated": false,
+      "keywords": [
+        "A股",
+        "上证",
+        "深成指",
+        "CXMT",
+        "IPO",
+        "流动性",
+        "科创板"
+      ],
+      "url": "https://www.brecorder.com/news/40430501/china-stocks-tumble-as-cxmts-86-billion-ipo-stirs-liquidity-concerns",
+      "id": "5c3f0d94f2206e80",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "US Stocks Post Worst Week in Three Months: Nasdaq -2.9%, S&P 500 -1.6% on AI Capex Slowdown Fears",
+      "summary": "The Nasdaq lost 2.9% and the S&P 500 fell 1.6% for the week ending July 17 — the worst weekly performance in three months. Chip stocks led declines (Nvidia -2.2%, AMD -1%, Intel -2%) on concerns AI hyperscalers may cut infrastructure spending.",
+      "why": "AI基建投入收缩传闻触发芯片板块系统性下跌，直接影响英伟达、英特尔、美光等持仓；本周Q2财报季（特斯拉、谷歌、英特尔）是情绪能否修复的关键观察窗口。",
+      "source": "Washington Post",
+      "verified": true,
+      "translated": false,
+      "keywords": [
+        "Nasdaq",
+        "S&P 500",
+        "chip stocks",
+        "AI",
+        "semiconductor",
+        "weekly decline"
+      ],
+      "url": "https://www.washingtonpost.com/business/2026/07/17/wall-street-stocks-dow-nasdaq/64463f38-821d-11f1-8a16-393bd03340b0_story.html",
+      "id": "f3862aa4008a5c16",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "Futu moomoo Singapore: Private Wealth AUM +158% YoY; MooFest 2026 Held July 18 at Marina Bay Sands",
+      "summary": "Moomoo Singapore reported private wealth AUM growth of 158% YoY with 40 External Asset Managers, per its July 20 announcement. Global IBKR-comparison: 5.185M client accounts (+34% YoY) and client equity of $930.3B (+40% YoY). MooFest 2026 was held July 18 at Marina Bay Sands. Caveat: Futu also faces securities fraud lawsuits filed in early July following regulatory penalties.",
+      "why": "富途私人财富AUM增速亮眼；但7月初遭遇证券欺诈诉讼（监管罚款引发股价跌27%）是显著法律风险。业务增长与尾部法律风险并存，Sell Put策略需留意判决时点带来的波动。",
+      "source": "Caproasia",
+      "verified": false,
+      "translated": false,
+      "keywords": [
+        "富途",
+        "Futu",
+        "moomoo",
+        "FUTU",
+        "AUM",
+        "MooFest",
+        "Singapore",
+        "私人财富"
+      ],
+      "url": "https://www.caproasia.com/2026/07/20/futu-online-investment-trading-platform-moomoo-singapore-reports-1-growth-in-retail-private-wealth-institutional-business-with-private-wealth-aum-158-yoy-40-external-asset-managers-eams-o/",
+      "id": "f132e7c3058a909d",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "SK hynix Ships 12-Layer HBM4E Samples; Record 4 TB/s Bandwidth, 37% Faster Than HBM4",
+      "summary": "SK hynix shipped 12-layer HBM4E samples to major customers in early July, achieving 48GB capacity, 16 Gbps per-pin speed (+37% vs HBM4 at 12 Gbps), 4 TB/s total bandwidth, and 20%+ power efficiency improvement. Heat resistance improved 17% for stable operation in high-performance AI computing.",
+      "why": "SK海力士HBM4E样品出货稳固其AI内存市场技术领先地位（全球约50-55%份额），强化英伟达Rubin GPU的独供关系；港股南方两倍做多SK海力士ETF（7709.HK）持有者可关注技术护城河带来的溢价支撑。",
+      "source": "SK hynix Newsroom",
+      "verified": true,
+      "translated": false,
+      "keywords": [
+        "SK Hynix",
+        "HBM4E",
+        "HBM4",
+        "AI memory",
+        "DRAM",
+        "7709.HK",
+        "带宽",
+        "高带宽内存"
+      ],
+      "url": "https://news.skhynix.com/en/12-layer-hbm4e-sample-1/",
+      "id": "a3f54ba3bf3db7ea",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Pop Mart LABUBU Makes Historic FIFA World Cup Opening Ceremony Debut — First Chinese IP Since 1930",
+      "summary": "LABUBU appeared as two giant mascots at the 2026 FIFA World Cup opening ceremony on June 12 — the first Chinese original IP to perform at a World Cup since the tournament began in 1930. The LABUBU x FIFA collection drove sustained restock demand through the tournament, which concluded July 19.",
+      "why": "Labubu登上FIFA世界杯开幕式是泡泡玛特IP出海史上最大级别的全球曝光里程碑；世界杯刚于7月19日落幕，后续销量与联名复购数据将验证品牌破圈转化效果，是9992.HK估值重估的重要催化剂。",
+      "source": "TechNode",
+      "verified": true,
+      "translated": false,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "LABUBU",
+        "Labubu",
+        "FIFA",
+        "World Cup",
+        "9992.HK",
+        "IP",
+        "潮玩",
+        "出海"
+      ],
+      "url": "https://technode.com/2026/06/12/pop-marts-labubu-makes-a-surprise-appearance-at-the-2026-fifa-world-cup-opening-ceremony/",
+      "id": "c102c5101952903b",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "蜜雪冰城美国首店落地洛杉矶好莱坞，全球化出海再下一城",
+      "summary": "蜜雪冰城（2097.HK）首家美国门店在洛杉矶好莱坞正式开业，成为首个进入美国市场的中国连锁茶饮品牌。蜜雪冰城目前全球门店数近6万家，已布局东南亚、澳大利亚等市场，美国门店是其国际化战略的重要里程碑。",
+      "why": "蜜雪冰城进入全球最大消费市场是关键出海里程碑，对港股2097.HK有正向情绪提振；美国门店运营成本与客流量将成为检验品牌出海能力的重要样本，投资者可期待后续营运数据披露。",
+      "source": "Yahoo Finance HK",
+      "verified": true,
+      "translated": false,
+      "keywords": [
+        "蜜雪冰城",
+        "Mixue",
+        "2097.HK",
+        "出海",
+        "洛杉矶",
+        "好莱坞",
+        "新茶饮",
+        "全球化"
+      ],
+      "url": "https://hk.finance.yahoo.com/news/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9C%A8%E7%BE%8E%E9%A6%96%E5%BA%97%E8%90%BD%E8%85%B3%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%A5%BD%E8%90%8A%E5%A1%A2-%E4%B8%AD%E5%9C%8B%E8%8C%B6%E9%A6%AE%E5%85%A8%E7%90%83%E5%8C%96%E5%86%8D%E4%B8%8B-%E5%9F%8E-075003171.html",
+      "id": "02753d05c5a23c30",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "Interactive Brokers Q2 Earnings Due Today (July 21); Client Accounts +34% YoY to 5.185M",
+      "summary": "Interactive Brokers reports Q2 2026 earnings after market close today. June client accounts reached 5.185 million (+34% YoY) with client equity of $930.3 billion (+40% YoY). Consensus EPS: $0.61/share; the broker has a 4-quarter average earnings surprise of +11.7%. Higher Q2 market volatility is expected to boost trading commissions.",
+      "why": "盈透今日发布Q2财报，高市场波动率（中东冲突+AI板块动荡）对券商交易收入是正催化；可与富途对比观察互联网券商竞争格局；期权交易量上升对IBKR收入贡献值得重点关注。",
+      "source": "The Motley Fool",
+      "verified": false,
+      "translated": false,
+      "keywords": [
+        "Interactive Brokers",
+        "IBKR",
+        "earnings",
+        "Q2 2026",
+        "broker",
+        "accounts",
+        "盈透"
+      ],
+      "url": "https://www.fool.com/investing/2026/07/19/interactive-brokers-grew-its-customer-accounts-34/",
+      "id": "f76ca1a51d63527a",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Trip.com Partners with Seat Unique to Add 500,000+ VIP Sports & Event Packages for APAC Travelers",
+      "summary": "Trip.com Group and UK's Seat Unique announced a global partnership listing 500,000+ official hospitality and VIP live-event packages on Trip.com's platform, targeting Asia-Pacific travelers seeking curated sports and entertainment experiences. The deal broadens Trip.com's premium offerings beyond transport and hotels.",
+      "why": "携程VIP赛事套餐合作丰富高毛利产品矩阵，有助提升ARPU；在出境游加速复苏背景下，差异化高端产品有利于用户留存。但China Renaissance近期下调至持有评级，整体估值压力需关注。",
+      "source": "Sahm Capital",
+      "verified": false,
+      "translated": false,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "9961.HK",
+        "VIP",
+        "Seat Unique",
+        "OTA",
+        "出境游"
+      ],
+      "url": "https://www.sahmcapital.com/news/content/how-investors-are-reacting-to-tripcom-group-tcom-adding-500000-vip-event-packages-through-seat-unique-2026-07-15",
+      "id": "a44be22a19475e88",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
       "id": "db5334a0f222b299",
       "tier": 1,
       "lang": "en",
@@ -62,7 +407,7 @@
       ],
       "translated": false,
       "url": "https://www.bloomberg.com/news/articles/2026-07-14/cxmt-prices-ipo-in-marquee-moment-for-china-s-chip-revolution",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -90,7 +435,7 @@
       ],
       "translated": false,
       "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -117,7 +462,7 @@
       ],
       "translated": false,
       "url": "https://www.federalreserve.gov/monetarypolicy/2026-07-mpr-statement.htm",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -146,7 +491,7 @@
       ],
       "translated": false,
       "url": "https://www.intc.com/news-events/press-releases/detail/1774/intel-to-report-second-quarter-2026-financial-results",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -175,7 +520,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/tob/2026-07-08/doc-inihatty8002961.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -205,7 +550,7 @@
       ],
       "translated": false,
       "url": "https://www.kioxia.com/en-jp/about/news/2026/20260703-2.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -233,7 +578,7 @@
       ],
       "translated": false,
       "url": "https://www.163.com/dy/article/L16DJD6905118HA4.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -261,7 +606,7 @@
       ],
       "translated": false,
       "url": "https://www.stocktitan.net/news/PLTR/palantir-announces-date-of-second-quarter-2026-earnings-release-and-pb0p9gl5pf2d.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -3853,331 +4198,6 @@
       "translated": false,
       "url": "https://c.m.163.com/news/a/KNNVAJ1A05566WT8.html",
       "id": "ee5356aacf2c805b",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "China's GDP expands 4.7% in H1 2026; H2 counter-cyclical stimulus step-up signaled",
-      "summary": "China NBS: H1 2026 GDP +4.7% YoY (Q1 +5.0%, Q2 +4.3%), foreign trade +16.9%, urban unemployment 5.0%. Officials pledged to deploy incremental stimulus measures at the right moment in H2.",
-      "why": "Q2增速放缓至4.3%，下半年政策加码信号明确，利好港股/A股消费与科技赛道估值修复，与持仓标的高度契合。",
-      "source": "Xinhua",
-      "verified": true,
-      "keywords": [
-        "China GDP",
-        "中国经济",
-        "逆周期调节",
-        "刺激政策",
-        "上半年经济"
-      ],
-      "translated": false,
-      "url": "https://english.news.cn/20260715/2042180783634565b4e002fd241e5e2b/c.html",
-      "id": "db2c66bf61366937",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "A July rate hike from the Fed? The odds are rising to 46.5%",
-      "summary": "CME FedWatch shows 46.5% probability of a 25bp hike at the July 29 FOMC meeting (up from ~25%), as US CPI stands at 4.2% YoY. Fed Chair Warsh is pushing a data-dependent, forward-guidance-light approach.",
-      "why": "加息概率升至近50%将抬升期权隐含波动率，对sell put策略的行权价设置和到期日选择有直接含义；成长股估值承压。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Fed",
-        "FOMC",
-        "rate hike",
-        "美联储",
-        "7月加息",
-        "隐含波动率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
-      "id": "ac20113f4ad0f037",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "GENIUS Act countdown: Stablecoin rules deadline July 18 — six US federal agencies on the clock",
-      "summary": "Six US federal agencies face a July 18 statutory deadline to finalize GENIUS Act stablecoin rules. USDC already substantially meets compliance requirements; Circle expected to be the first issuer to receive formal PPSI designation.",
-      "why": "后天（7月18日）是USDC合规化关键时间节点，规则落地将为机构采用扫清障碍，是CRCL股价近期最重要催化剂。",
-      "source": "Thirdweb Blog",
-      "verified": false,
-      "keywords": [
-        "GENIUS Act",
-        "稳定币",
-        "Circle",
-        "USDC",
-        "监管",
-        "PPSI"
-      ],
-      "translated": false,
-      "url": "https://blog.thirdweb.com/genius-act-countdown-7-days-until-us-stablecoin-rules-reshape-the-market/",
-      "id": "89c2d16fec1aa87f",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "U.S.-Iran escalation weighs on bitcoin, stocks as oil climbs",
-      "summary": "Bitcoin fell to ~$62,600 as US-Iran tensions drove risk-off moves and lifted oil prices. Bitcoin ETF outflows exceeded $84M in recent sessions; BTC tests support under $63K ahead of July 29 FOMC.",
-      "why": "地缘风险叠加Fed鹰派，BTC承压，Circle(USDC)及加密相关标的情绪短期受压；油价上涨可能加剧通胀，进一步支持加息预期。",
-      "source": "CoinDesk",
-      "verified": false,
-      "keywords": [
-        "bitcoin",
-        "BTC",
-        "US-Iran",
-        "crypto",
-        "oil",
-        "地缘风险"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs",
-      "id": "9b859b0a228aaa1b",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "个股",
-      "title": "Palantir (PLTR) +24% in July on Nvidia sovereign AI partnership; consensus Buy at $187",
-      "summary": "Palantir shares surged ~24% in July to $133.75, driven by an expanded Nvidia partnership deploying Nemotron AI models in classified, air-gapped US government environments via AIP/Foundry/Apollo. Q1 2026 revenue $1.633B (+85% YoY); consensus Buy, avg target $187.42.",
-      "why": "国防AI合同壁垒高、波动率特征稳定，PLTR是sell put策略优质标的；与英伟达协同将进一步拓宽政府合同护城河。",
-      "source": "FX Leaders",
-      "verified": false,
-      "keywords": [
-        "Palantir",
-        "PLTR",
-        "AIP",
-        "国防AI",
-        "英伟达",
-        "政府合同"
-      ],
-      "translated": false,
-      "url": "https://www.fxleaders.com/news/2026/07/15/palantir-stock-performing-very-well-in-july-after-sovereign-ai-plan-with-nvidia/",
-      "id": "e2dd8ebb76ce1309",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "我国经济半年报出炉：新质生产力表现亮眼，下半年政策调节力度或将加码",
-      "summary": "中国上半年新质生产力（高端制造、数字经济）贡献超40%增量，政策层面确认下半年将适时加码逆周期政策，重点支持科技创新与消费升级。",
-      "why": "政策加码信号利好港股/A股消费与科技双赛道，与持仓的腾讯、阿里、泡泡玛特等核心标的高度契合。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "新质生产力",
-        "中国经济",
-        "刺激政策",
-        "消费科技"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihwrra4777012.shtml",
-      "id": "2a60ae53cc1ca4b0",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Tesla expands Robotaxi service to Miami — first city outside Texas",
-      "summary": "Tesla rolled out its unsupervised Cybercab robotaxi service in a geofenced area of West Miami on July 14, the first expansion beyond Texas. Florida's rain is a key stress test for Tesla's camera-only FSD system.",
-      "why": "Robotaxi跨州扩张标志FSD商业化加速，是TSLA从汽车公司向AI出行平台重估的关键里程碑；7月22日财报前持续催化。",
-      "source": "Engadget",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Robotaxi",
-        "FSD",
-        "自动驾驶",
-        "Cybercab"
-      ],
-      "translated": false,
-      "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
-      "id": "33edecc86a659b69",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Google delays Gemini 3.5 Pro to July 17 after full rebuild; DeepMind talent exodus deepens",
-      "summary": "Google DeepMind rebuilt Gemini 3.5 Pro from scratch on a Gemini 3 foundation targeting July 17 launch with a 2M-token context window, after structural failures were found in the 2.5 Pro architecture. Alphabet lost ~$225B in market cap amid four senior DeepMind departures.",
-      "why": "Gemini 3.5 Pro明日（7月17日）即将发布，若表现强劲将提振谷歌搜索广告护城河；DeepMind人才流失是中长期估值风险点。",
-      "source": "Startup Fortune",
-      "verified": false,
-      "keywords": [
-        "谷歌",
-        "Google",
-        "Alphabet",
-        "Gemini",
-        "DeepMind",
-        "AI模型"
-      ],
-      "translated": false,
-      "url": "https://startupfortune.com/google-delays-gemini-35-pro-launch-to-july-17-after-scrapping-its-base-model/",
-      "id": "0b0b44db40da0fcf",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Micron Q3 FY2026: Revenue +346% YoY, HBM4 in production for Nvidia Vera Rubin; 2026 capacity sold out",
-      "summary": "Micron Q3 FY2026 revenue $41.456B (+346% YoY); HBM4 entered production and is shipping to Nvidia for Vera Rubin platform; all 2026 HBM capacity is sold out. Stock near $989-995; analyst consensus target $1,486.",
-      "why": "全年HBM产能售罄锁定业绩确定性，HBM4为英伟达Rubin供货确认存储超级周期；MU是sell put的优质高溢价标的。",
-      "source": "Trefis",
-      "verified": false,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "HBM4",
-        "DRAM",
-        "存储"
-      ],
-      "translated": false,
-      "url": "https://www.trefis.com/stock/mu/articles/605809/micron-stock-a-different-cycle-for-better-or-for-worse/2026-07-08",
-      "id": "ac5410ad1cf167dc",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "SanDisk (SNDK) drops 5.71%: Argus 'Hold' rating, NAND competition fears; bulls target $3,000 year-end",
-      "summary": "SanDisk fell 5.71% on July 15 after Argus Research started with a 'Hold' (not Buy); NAND prices declining faster than expected amid Chinese competition. Motley Fool argues BiCS10 tech leads peers by 59% density plus Meta multi-year supply deal supports a $3,000 year-end target.",
-      "why": "SNDK年内涨逾800%后多空激烈博弈，NAND价格走势是卖put安全边际的核心变量；8月5日财报是关键看清节点。",
-      "source": "The Motley Fool",
-      "verified": false,
-      "keywords": [
-        "闪迪",
-        "SanDisk",
-        "SNDK",
-        "NAND",
-        "存储",
-        "BiCS10"
-      ],
-      "translated": false,
-      "url": "https://www.fool.com/investing/2026/07/15/why-sandisk-stock-dropped-again-today/",
-      "id": "ee3f8ac4ed42ee14",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "盈透证券新增12种加密代币交易；6月DARTs同比+53%创历史新高",
-      "summary": "盈透证券（IBKR）7月14日新增12种加密代币（含Aave、Aptos、Uniswap等）及稳定币出金功能；2026年6月DARTs达526.9万笔（+53% YoY，+6% MoM），客户权益与保证金余额双创纪录；Q2财报定于7月21日收市后发布。",
-      "why": "加密业务扩展+DARTs历史新高显示业务势头强劲，7月21日财报催化剂临近；H1股价+35.3%后财报超预期概率高，期权布局值得关注。",
-      "source": "GuruFocus",
-      "verified": false,
-      "keywords": [
-        "盈透证券",
-        "Interactive Brokers",
-        "IBKR",
-        "加密货币",
-        "DARTs",
-        "财报"
-      ],
-      "translated": false,
-      "url": "https://www.gurufocus.com/news/8958116/interactive-brokers-group-ibkr-expands-crypto-offerings-with-new-tokens",
-      "id": "3edef30dad9a582d",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "SK Hynix (SKHY) surges 27% then consolidates; Barclays initiates Outperform at $330; HBM4 ships for Nvidia Vera Rubin",
-      "summary": "SK Hynix Korean shares jumped ~13.4% on July 15; US ADR SKHY hit $193 after surging 27% on July 14, then consolidated at ~$186. Barclays initiated with Outperform/$330 target. DRAM supply meets only 75-80% of demand; HBM4 now shipping for Nvidia Vera Rubin.",
-      "why": "HBM4量产超预期，供应缺口结构性存在，巴克莱$330目标价隐含大幅上涨空间；SKHY ADR是卖put高溢价优质标的。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "SKHY",
-        "HBM",
-        "HBM4",
-        "DRAM",
-        "存储芯片"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-      "id": "12cf1903ff76171f",
       "is_new": false,
       "first_seen": "2026-07-16"
     }
