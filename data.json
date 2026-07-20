@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-20 08:16 (北京时间)",
+  "updated_at": "2026-07-20 13:21 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,234 @@
   "positions": [],
   "items": [
     {
+      "id": "db5334a0f222b299",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "A"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "CXMT Seeks $8.55B in Marquee IPO — Asia's Biggest IPO of 2026, Listing July 27 on STAR Market; A-share liquidity drain fears emerge",
+      "summary": "China's ChangXin Memory Technologies (CXMT) priced its STAR Market IPO at 8.66 yuan/share, raising ~57.9 billion yuan ($8.55B) — the largest Chinese A-share semiconductor IPO ever, surpassing SMIC's 2020 offering. Shares list July 27. Simultaneously, Unitree Robotics received regulatory IPO approval for STAR Board. The Shanghai Composite fell 3.05% the prior week amid concerns that CXMT plus upcoming mega-listings could drain market liquidity.",
+      "why": "A 股史上最大芯片 IPO 即将挂牌（7月27日），近期流动性已受冲击（上证综指周跌3.05%）；CXMT 若量产 HBM 将对 SK 海力士/美光形成竞争压力，需关注其技术进度对 HBM 定价格局的影响。",
+      "source": "Bloomberg / Nikkei Asia / Caixin",
+      "verified": true,
+      "keywords": [
+        "CXMT",
+        "长鑫存储",
+        "A股",
+        "IPO",
+        "DRAM",
+        "半导体",
+        "STAR Market",
+        "Unitree"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/cxmt-prices-ipo-in-marquee-moment-for-china-s-chip-revolution",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "c2427b9cdc76c490",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "Google Gemini 3.5 Pro launch delayed — Bloomberg exclusive: internal goals missed, engineers fear falling behind Anthropic and OpenAI",
+      "summary": "Bloomberg reported July 16 that Google is months behind schedule on Gemini 3.5 Pro, its most capable AI model, due to unmet coding and reasoning targets. Internal engineers and managers are frustrated, with many worried Google risks losing its AI competitive edge. Separately, Google said Gemini has crossed 900 million monthly users in 230+ countries; Chrome Gemini features rolled out to UK users July 14.",
+      "why": "谷歌 AI 旗舰模型延迟发布暴露其与 Anthropic/OpenAI 竞争差距，短期利空 GOOG/GOOGL 估值；AI 军备竞赛溢价可能更多流向 Anthropic 而非谷歌；持有或 sell-put 前需重新评估 AI 竞争力定价风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Google",
+        "谷歌",
+        "Gemini",
+        "AI",
+        "GOOG",
+        "GOOGL",
+        "Anthropic"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "f85738d74270b09f",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Fed Monetary Policy Report July 2026: Rates held at 3.50-3.75%, forward guidance abandoned; AI capex and Middle East risks cited",
+      "summary": "The Fed's July 2026 MPR reaffirms the federal funds rate at 3.50%-3.75% (unchanged since June). Chair Kevin Warsh says the Fed will no longer provide traditional forward guidance, signaling greater meeting-by-meeting flexibility. The report cites elevated inflation partly from Middle East energy shocks, while noting strong business investment driven by AI data-center construction. Futures markets price rates rising toward ~4% by year-end.",
+      "why": "联储放弃前瞻指引增加加息不确定性，高 IV 环境整体利好 sell-put 策略；维持高利率对科技成长股估值有压制，但 AI 资本开支强劲叙事不变，英伟达等 AI 基础设施受益逻辑仍成立。",
+      "source": "Federal Reserve",
+      "verified": true,
+      "keywords": [
+        "Federal Reserve",
+        "interest rate",
+        "macro",
+        "AI",
+        "capex",
+        "inflation"
+      ],
+      "translated": false,
+      "url": "https://www.federalreserve.gov/monetarypolicy/2026-07-mpr-statement.htm",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "756efc4e385b237f",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "Intel (INTC) to report Q2 2026 earnings July 23; stock up 160% YTD; analysts eye 18A foundry ramp and $14.4B revenue",
+      "summary": "Intel confirmed Q2 2026 results on July 23 after market close, with earnings call at 2 PM PDT. Analyst consensus: revenue ~$14.4B, EPS ~$0.10 (vs -$0.26 a year ago). Intel has rallied ~160% in 2026 amid AI infrastructure tailwinds. Key focus: 18A manufacturing process progress, AI server share, PC demand durability. Semiconductor sector down ~11% over the past month — sector weakness may create post-earnings noise.",
+      "why": "本周四（7月23日）是英特尔关键业绩催化剂；今年涨幅160%设置高预期门槛，若指引不及预期叠加半导体弱势，下行风险显著；关注 18A 代工进展是否兑现，若兑现可作为 sell-put 支撑依据。",
+      "source": "Intel IR",
+      "verified": true,
+      "keywords": [
+        "Intel",
+        "英特尔",
+        "INTC",
+        "18A",
+        "earnings",
+        "foundry",
+        "semiconductor",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.intc.com/news-events/press-releases/detail/1774/intel-to-report-second-quarter-2026-financial-results",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "43ae12f9b488656c",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "11:30",
+      "group": "个股",
+      "title": "阿里巴巴（9988.HK/BABA）Q1 FY27前瞻大超预期：阿里云收入增速加速至约45%，港股盘中涨超13%",
+      "summary": "7月8日机构发布阿里巴巴 FY27 Q1（2026年4-6月）前瞻：阿里云季度收入增速加速至约45%（市场预期约30%），EBITA margin从9.1%扩至低双位数；淘宝闪购单季减亏约80亿元；集团整体收入预计同比增约9%。港股当日盘中涨超13%，收涨12.21%至107.5港元。正式 Q1 财报预计8月正式发布。",
+      "why": "阿里云 45% 增速超预期是最重要信号，AI 云化需求快速落地；若正式财报兑现此预期，将触发港股互联网板块估值重估；当前可评估 sell-put（行权价90-95港元区间有技术支撑）或增加正股配置。",
+      "source": "新浪财经 / 华尔街见闻",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "9988.HK",
+        "BABA",
+        "阿里云",
+        "Q1 FY27",
+        "财报前瞻"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tob/2026-07-08/doc-inihatty8002961.shtml",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "385b164dd18a9433",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "SanDisk (SNDK) and Kioxia begin 10th-gen BiCS10 NAND production (332 layers, +59% density); SanDisk secures multi-year Meta NAND supply deal",
+      "summary": "SanDisk and Kioxia began producing 10th-generation BiCS10 3D NAND at Kitakami Fab2 (Japan) on July 3. BiCS10 stacks 332 layers, achieves density >29 Gb/mm2 (+59% vs prior gen), interface speed 4.8 Gbps (+33%), and 34% lower output power. SanDisk separately secured a multi-year NAND flash supply deal with Meta for AI infrastructure build-out. The SanDisk-Kioxia JV was extended through 2034. SNDK stock retested $1,500 amid NAND competition concerns.",
+      "why": "BiCS10 量产+Meta 长约强化 SNDK 在 AI 存储市场的竞争地位；NAND vs HBM 资本开支博弈是关键风险，需关注 ASP 走势；NAND 供应商（SNDK/Kioxia/三星）竞争激烈，适合持续跟踪而非激进建仓。",
+      "source": "Kioxia IR / Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "SanDisk",
+        "闪迪",
+        "SNDK",
+        "NAND",
+        "BiCS10",
+        "Kioxia",
+        "Meta",
+        "AI",
+        "flash"
+      ],
+      "translated": false,
+      "url": "https://www.kioxia.com/en-jp/about/news/2026/20260703-2.html",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "4e529dd4b8ea0090",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "个股",
+      "title": "美团（3690.HK）即时零售日单量峰值破1.5亿创历史新高；Keeta海外覆盖香港、沙特、科威特、巴西",
+      "summary": "7月美团披露：即时零售日订单量峰值突破1.5亿单（全量配送平均时效34分钟），刷新历史纪录。Keeta已进驻香港、沙特、阿联酋及科威特，并在巴西采用新运营模式；中东地区已呈现规模效益，单位经济改善明显。另，美团自研大模型 LongCat-2.0（万亿参数，5万卡国产算力集群推理）于7月6日正式全面开源。",
+      "why": "即时零售破亿单叠加持续减亏，验证美团核心业务护城河；Keeta 国际化扩张是长期增量叙事；结合阿里淘宝闪购减亏加速，两者竞争格局趋于稳定，为 sell-put 提供更确定性支撑。",
+      "source": "美团新闻中心 / 163财经",
+      "verified": false,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "即时零售",
+        "Keeta",
+        "外卖",
+        "LongCat"
+      ],
+      "translated": false,
+      "url": "https://www.163.com/dy/article/L16DJD6905118HA4.html",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "0b4952a21fca8f25",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "13:00",
+      "group": "个股",
+      "title": "Palantir (PLTR) confirms Q2 2026 earnings on Aug 3; analysts forecast $1.8B revenue (+80% YoY), EPS $0.35 (+115% YoY)",
+      "summary": "Palantir confirmed Q2 2026 results August 3 after market close with webcast at 5:00 PM ET. Wall Street projects ~$1.8B revenue (+80% YoY) and EPS of $0.35 (more than double year-ago). Q1 2026 context: US revenue +104% YoY, total revenue +85% YoY; FY 2026 guidance raised to 71% YoY growth. Stock has pulled back with broader tech sector but FY guidance momentum remains intact.",
+      "why": "Palantir 政府+商业 AI 软件双轮驱动，8月3日业绩是下一个关键验证窗口；当前 IV 因板块回调抬升，sell-put（行权价70-80美元区间）可锁定溢价；FY2026指引71%增长若兑现将强化长期持仓逻辑。",
+      "source": "StockTitan / Yahoo Finance",
+      "verified": false,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "AIP",
+        "Foundry",
+        "AI",
+        "earnings",
+        "Q2"
+      ],
+      "translated": false,
+      "url": "https://www.stocktitan.net/news/PLTR/palantir-announces-date-of-second-quarter-2026-earnings-release-and-pb0p9gl5pf2d.html",
+      "is_new": true,
+      "first_seen": "2026-07-20"
+    },
+    {
       "id": "395d485e74ffe566",
       "tier": 1,
       "lang": "en",
@@ -66,7 +294,7 @@
       ],
       "translated": false,
       "url": "https://www.npr.org/2026/07/08/nx-s1-5885946/iran-trump-oil-stock-inflation-gas-federal-reserve",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -95,7 +323,7 @@
       ],
       "translated": false,
       "url": "https://www.163.com/dy/article/L28UASG805198NMR.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -124,7 +352,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniiktnr3149502.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -152,7 +380,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.cn/stock/ggyj/2026-07-20/detail-iniikhxa4982918.d.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -182,7 +410,7 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -213,7 +441,7 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -241,7 +469,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/stock/y/2026-07-20/doc-iniikxup3101607.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -270,7 +498,7 @@
       ],
       "translated": false,
       "url": "https://www.benzinga.com/markets/tech/26/07/60536701/teslas-robotaxi-land-grab-miami-added-texas-fleet-grows",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -300,7 +528,7 @@
       ],
       "translated": false,
       "url": "https://www.fxleaders.com/news/2026/07/19/alphabet-googl-stock-forecast-google-drops-4-ahead-of-earnings-can-ai-keep-the-rally-alive/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -330,7 +558,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihwrra4754859.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -361,7 +589,7 @@
       ],
       "translated": false,
       "url": "https://c.m.163.com/news/a/KIK17J3G05568W0A.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -3952,220 +4180,6 @@
       "id": "12cf1903ff76171f",
       "is_new": false,
       "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "Xiaomi delivers 30,000+ EVs in July (record); YU7 waitlist extends to H2 2026; new SU7 to launch this month",
-      "summary": "Xiaomi EV deliveries surpassed 30,000 in July for the first time (new monthly record). YU7 SUV demand far exceeds capacity with new orders stretching into H2. CEO Lei Jun announced a new-generation SU7 will be officially released this month with large-scale deliveries to follow.",
-      "why": "产能与交付双超预期，YU7订单积压转为确定性收入，新SU7本月发布将是1810.HK股价催化剂，可考虑财报前期权布局。",
-      "source": "ArenaEV",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "YU7",
-        "SU7",
-        "小米汽车",
-        "雷军"
-      ],
-      "translated": false,
-      "url": "https://www.arenaev.com/xiaomi_delivers_30k_evs_in_july_yu7_waiting_times_stretch_to_2026-news-4972.php",
-      "id": "41e382afb79ec3c8",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Intel (INTC): 18A-P enters risk production, $100 support holds ahead of July 23 earnings",
-      "summary": "Intel's 18A-P process (9% performance improvement over base 18A, yield improved from 65% to 85%) entered risk production in June. Stock held ~$100 support on July 15. Q2 earnings due July 23; Gaudi 3 enterprise adoption still lags Nvidia.",
-      "why": "7月23日财报是18A代工业务信用重建的关键节点，若Gaudi 3获突破性采购将是重大超预期事件；当前$100支撑是关键风险观察点。",
-      "source": "FX Leaders",
-      "verified": false,
-      "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "18A",
-        "晶圆代工",
-        "Gaudi",
-        "财报"
-      ],
-      "translated": false,
-      "url": "https://www.fxleaders.com/news/2026/07/15/can-intel-intc-stock-defend-100-support-again-as-chinese-competition-pulls-us-semiconductors-down/",
-      "id": "cd9572cb664d25f3",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "TAL Education to release Q1 FY2027 financial results on July 30",
-      "summary": "TAL Education Group will report Q1 FY2027 results (period ended May 31, 2026) before US market open on July 30. Prior quarter net profit grew 174% YoY; AI courseware and smart learning devices are scaling, with offline learning center openings up 60% YoY.",
-      "why": "7月30日财报倒计时，上季净利润+174%设定高期望基数，AI教育硬件加速商业化；财报前可评估期权策略。",
-      "source": "Intellectia.AI",
-      "verified": false,
-      "keywords": [
-        "好未来",
-        "TAL",
-        "学而思",
-        "AI教育",
-        "财报"
-      ],
-      "translated": false,
-      "url": "https://intellectia.ai/news/etf/tal-education-group-to-release-q4-and-fy2026-financial-results",
-      "id": "11a306de83839edb",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Costco June net sales +10.6% YoY to $29.24B; declares $1.47 quarterly dividend",
-      "summary": "Costco June 2026 (five weeks ended July 5): net sales $29.24B (+10.6% YoY); comparable sales +8.8%; digitally-enabled sales +20.9%. Board declared $1.47/share quarterly dividend payable August 7. Stock fell ~1.2% AH as comps decelerated from May's +12.5%.",
-      "why": "可比店销售增速较5月下滑引发消费降速担忧，但会员制基本面稳健；派息信号盈利信心足，COST短期期权隐含波动率偏低适合卖put。",
-      "source": "GlobeNewswire",
-      "verified": false,
-      "keywords": [
-        "好市多",
-        "Costco",
-        "COST",
-        "销售",
-        "会员店",
-        "派息"
-      ],
-      "translated": false,
-      "url": "https://www.globenewswire.com/news-release/2026/07/08/3324447/0/en/Costco-Wholesale-Corporation-Reports-June-Sales-Results-and-Announces-Quarterly-Cash-Dividend.html",
-      "id": "67d83530e741f4c3",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "b2e56e4826376b54",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "A",
-        "US"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "Asian Stocks Bounce on Wall Street Inflation Relief but China Stumbles — KOSPI Surges 7.1%, SK Hynix +9.4%",
-      "summary": "July 15: South Korea's KOSPI led Asian gains at +7.1% (7,343), with SK Hynix +9.4% and Samsung +6.1% on memory sector rebound. Japan Nikkei +0.9% to 68,354. China Shanghai Composite edged down 0.4% as Q2 GDP disappointed at 4.3%. Hong Kong Hang Seng +1.4%, led by tech. Regional rally driven by softer US June CPI released overnight.",
-      "why": "亚太多市场联动上涨，SK海力士美股SKHY+日韩联动验证HBM主题持续；中国A股疲软可能令相关对冲仓位Beta分化，需关注下半年政策刺激节奏以决定是否加仓A股期权。",
-      "source": "FX Leaders",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "macro",
-        "SK海力士",
-        "SK Hynix",
-        "HK"
-      ],
-      "translated": false,
-      "url": "https://www.fxleaders.com/news/2026/07/15/asian-stocks-bounce-on-wall-street-inflation-relief-but-china-stumbles/",
-      "is_new": false,
-      "first_seen": "2026-07-15"
-    },
-    {
-      "id": "7122e35fd1a52b13",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "China Q2 GDP growth slows to 4.3%, H1 at 4.7% — weakest quarterly pace in over 3 years",
-      "summary": "National Bureau of Statistics released July 15: Q2 GDP +4.3% YoY (vs 4.5% consensus), Q1 was +5.0%. H1 total 69.57 trillion yuan, +4.7% YoY. Real estate investment fell 18%; new growth drivers (AI, advanced manufacturing) contributed >40% of growth. Officials attribute slowdown to external shocks and pledge additional H2 policy support.",
-      "why": "Q2增速低于目标区间下限，政策加码预期升温；对科技/消费持仓影响偏正（刺激预期），但宏观疲软压制周期板块。期权层面，沪深300波动率或因政策博弈短期走宽。",
-      "source": "国家统计局 (NBS)",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260715_1964120.html",
-      "is_new": false,
-      "first_seen": "2026-07-15"
-    },
-    {
-      "id": "f58a1f4ed5946625",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:05",
-      "group": "大盘头条",
-      "title": "港股收评：恒指涨1.4%，科指涨1.3%；美团涨超5%，腾讯涨超3%，MINIMAX涨超13%；生物医药强势",
-      "summary": "7月15日港股收盘：恒生指数涨1.4%报24681点，恒生科技指数涨1.3%，国企指数涨1%。科网股全线上行，美团+5%、联想+3%、腾讯+3%；AI应用股MINIMAX单日涨超13%；药明合联+7%，中金公司+5%。国家卫健委发布2026版国家基本药物目录（9月1日起施行）。",
-      "why": "美团、腾讯均为持仓核心标的，当日大幅走高直接利好组合净值；若短期维持强势需警惕covered call行权压力，2026版药物目录对生物医药细分赛道构成催化。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "美团",
-        "Meituan",
-        "HK"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-15/doc-inihwrqy7941599.shtml",
-      "is_new": false,
-      "first_seen": "2026-07-15"
-    },
-    {
-      "id": "c31b2c7c014cb781",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "20:30",
-      "group": "大盘头条",
-      "title": "US CPI Falls for First Time Since 2020 in June; Core Gauge Unchanged — Fed July Hike Door Slams Shut",
-      "summary": "Bloomberg, July 14: June headline CPI fell 0.4% MoM (first monthly drop since 2020), pulling annual rate to 3.5%. Core CPI flat at 0% MoM, YoY 2.6% — coolest print since 2021. S&P 500 +0.38% to 7,543; Nasdaq +0.9% to 26,107; semiconductor ETF SMH +2.5%. Gasoline and shelter cost declines drove the beat.",
-      "why": "CPI超预期降温，7月加息概率从42%骤降至17%，风险资产全线反弹；对持有美股科技/芯片仓位明显利好。Sell put策略受益于方向性支撑，但隐含波动率可能同步收缩。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro",
-        "US"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/us-cpi-falls-for-the-first-time-since-2020-core-gauge-unchanged",
-      "is_new": false,
-      "first_seen": "2026-07-15"
     }
   ]
 }
