@@ -1,179 +1,492 @@
 [
   {
-    "id": "bf6deb7fa0e10057",
+    "id": "d940b8efe0e566e5",
     "tier": 1,
     "lang": "en",
-    "markets": ["HK"],
-    "time": "10:00",
-    "group": "个股",
-    "title": "Tencent officially launches HunYuan Hy3: 295B-param MoE model, 90% agent task resolution, integrated across ~50 products including WeChat and Yuanbao",
-    "summary": "Tencent's Hunyuan team officially released Hy3 on July 6–7, 2026: a 295B-parameter (21B activated) Mixture-of-Experts reasoning model with 256K context. Benchmarks show 90% agent task resolution on WorkBuddy (up from 72% with the preview), surpassing DeepSeek V4 Pro and Qwen 3.7 Max on key evals. Pricing: 1 yuan/M input tokens, 4 yuan/M output tokens. Already integrated into WorkBuddy, CodeBuddy, Yuanbao, ima, QQ Browser and ~40 more products.",
-    "why": "腾讯正式跻身顶级推理模型阵营，混元Hy3性能基准超越DeepSeek V4 Pro；当天0700.HK股价上涨约5.6%至477港元附近，显示市场对腾讯AI商业化给予积极定价。对于持有腾讯期权仓位的投资者，隐含波动率短期可能偏高，covered call或宽跨式可考虑在本轮反弹高位操作。",
-    "source": "Tencent Official / TechNode",
-    "verified": true,
-    "keywords": ["腾讯", "Tencent", "混元", "Hunyuan", "Hy3", "AI模型", "WeChat", "元宝"],
-    "translated": false,
-    "url": "https://www.tencent.com/en-us/articles/2202386.html"
-  },
-  {
-    "id": "d40b12a2eb022393",
-    "tier": 1,
-    "lang": "en",
-    "markets": ["US"],
-    "time": "17:00",
-    "group": "个股",
-    "title": "Tesla (TSLA) surges +6.7% on July 6 to close at $419.77 as Miami Robotaxi launch boosts investor sentiment",
-    "summary": "TSLA closed at $419.77 on July 6, up 6.7%, as investors digested the Miami Robotaxi launch — first unsupervised commercial deployment outside Texas. Morgan Stanley raised its Robotaxi fleet forecast to 1,500 vehicles by year-end and 30,000 by 2030. Miami deployment covers western/central Miami-Dade (excluding downtown), with Phoenix, Orlando, Tampa and Las Vegas expansions expected by year-end.",
-    "why": "TSLA单日+6.7%，收于$419.77，短期Robotaxi催化剂清晰。对持有TSLA卖出看跌仓位的投资者：当前股价远离低执行价风险区，隐含波动率可能因消息驱动短暂走高，是滚动期权/平仓获利的窗口；需注意Morgan Stanley扩张预测是否已充分定价。",
-    "source": "GuruFocus / FX Leaders",
-    "verified": false,
-    "keywords": ["特斯拉", "Tesla", "TSLA", "Robotaxi", "FSD", "Miami", "自动驾驶"],
-    "translated": false,
-    "url": "https://www.gurufocus.com/news/8946361/tesla-tsla-stock-rises-following-robotaxi-launch-in-miami"
-  },
-  {
-    "id": "cc301f5cc5602529",
-    "tier": 2,
-    "lang": "en",
-    "markets": ["US", "HK", "A"],
-    "time": "08:00",
-    "group": "大盘头条",
-    "title": "Gold retreats to ~$4,147/oz from 2-week highs as USD strengthens; Fed rate-hike risk caps precious metals upside",
-    "summary": "Gold fell to approximately $4,147.94/oz on July 7, down ~0.4% from prior session and pulling back from 2-week highs. A firming US dollar and elevated probability of a Fed rate hike at the July 28–29 FOMC meeting are limiting upside. Gold remains up ~26% year-on-year but has dropped ~4% over the past month.",
-    "why": "黄金在4100-4200美元区间高位整理：美元走强+美联储加息风险压制金价，直接影响老铺黄金(6181.HK)的金价叙事。若金价跌破4000美元，古法金首饰需求可能受压，需关注老铺黄金下行风险；同时黄金高位回调对A股/港股黄金板块也有连带影响。",
-    "source": "Fortune",
-    "verified": false,
-    "keywords": ["黄金", "gold", "金价", "老铺黄金", "USD", "Fed"],
-    "translated": false,
-    "url": "https://fortune.com/article/current-price-of-gold-07-06-2026/"
-  },
-  {
-    "id": "ffaf4789126440a1",
-    "tier": 2,
-    "lang": "en",
-    "markets": ["US", "HK", "A"],
-    "time": "10:00",
-    "group": "大盘头条",
-    "title": "Trump renews IEEPA-style tariff investigations against China, EU, Japan, India and Taiwan — second-wave trade war risk rises",
-    "summary": "The Trump administration has ordered new Section 301 / IEEPA-style investigations into major trading partners — China, EU, India, Japan and Taiwan — alleging excess manufacturing capacity. Potential additional tariffs could layer on top of existing levies. US-China trade has already fallen ~30% since the first tariff round; fresh measures risk disrupting supply chains further.",
-    "why": "新一轮关税调查威胁中美、中欧贸易链：对拼多多Temu出海（成本上升）、小米欧洲智能手机销售、海底捞海外扩张（特海国际）均有潜在负面影响；美国对台湾的调查可能波及台积电供应链，间接影响英伟达/AMD供货时间表；卖出期权策略需在相关标的上保持更宽安全边际。",
-    "source": "Modern Diplomacy",
-    "verified": false,
-    "keywords": ["关税", "tariff", "贸易战", "trade war", "中美", "IEEPA", "拼多多", "Temu"],
-    "translated": false,
-    "url": "https://moderndiplomacy.eu/2026/07/03/making-tariffs-trendy-again-the-new-global-trade-battlefield-2/"
-  },
-  {
-    "id": "58de1e2471533d1c",
-    "tier": 2,
-    "lang": "zh",
-    "markets": ["A"],
+    "markets": [
+      "HK",
+      "US",
+      "A"
+    ],
     "time": "08:30",
     "group": "大盘头条",
-    "title": "A股7月进入财报披露季：定价逻辑从「景气预期」转向「景气确认」，沪深300约4842点",
-    "summary": "随着7月正式开启，A股将进入Q2财报密集披露期。市场分析认为，投资者定价逻辑将从「景气预期」切换至「景气确认」：凡实际业绩不及预期的标的面临补跌压力，超预期个股则有望获得补涨。沪深300截至7月初约4842点，较近期高位有所回落。",
-    "why": "A股财报季开启，持有消费+科技赛道的中长期仓位需注意业绩兑现风险：关注好未来(TAL)7月披露节点，以及拼多多/阿里等中概龙头Q2指引；卖出期权策略的标的若Q2业绩有不确定性，建议在财报前降低delta敞口或选择更虚值执行价。",
-    "source": "东方财富（线索）",
+    "title": "Asia Stocks Rally 1.7% Led by Chipmakers; Nikkei +2.2%, Korea/Taiwan +2.5%+",
+    "summary": "MSCI Asia Pacific Index climbed 1.7% as chipmakers rebounded. South Korea and Taiwan each gained more than 2.5%; Japan's Nikkei 225 rose 2.2% after a holiday-extended weekend. Markets await major tech earnings this week — Tesla, Alphabet, SK Hynix — for clues on AI-driven rally sustainability.",
+    "why": "半导体反弹带动亚太大盘，与持仓科技/芯片板块直接相关；本周业绩集中发布是近期行情方向的关键验证。",
+    "source": "Bloomberg",
     "verified": false,
-    "keywords": ["A股", "财报", "沪深300", "CSI300", "景气", "earnings"],
+    "keywords": [
+      "MSCI Asia Pacific",
+      "chipmakers",
+      "Nikkei",
+      "semiconductor"
+    ],
     "translated": false,
-    "url": "https://caifuhao.eastmoney.com/news/20260704092612196131750"
+    "url": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates"
   },
   {
-    "id": "978b5a215dd3844c",
-    "tier": 2,
-    "lang": "en",
-    "markets": ["US"],
-    "time": "09:00",
+    "id": "12712c9661c26ade",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "A"
+    ],
+    "time": "09:15",
     "group": "大盘头条",
-    "title": "Q2 2026 US earnings season kicks off this week: Major banks report July 11–15; S&P 500 total earnings expected +10% YoY",
-    "summary": "PepsiCo opens the unofficial Q2 earnings season July 9, followed by Delta Air Lines July 10. Major financials week begins July 11 with Citi and Wells Fargo, Morgan Stanley July 14, JPMorgan Chase July 15. JPM consensus: ~$5.49 EPS on ~$48.7B revenue (+10.5% and +5.2% YoY respectively). S&P 500 broad Q2 earnings expected +10% YoY, with investment banking and trading franchises leading.",
-    "why": "Q2财报季正式开幕：大型银行业绩将为市场定调，若业绩超预期叠加降息预期升温，科技+消费板块可能进一步走强，持有谷歌/英伟达等US标的卖出期权时隐含波动率需关注；财报高峰期（7月15日前后）建议避免在即将披露标的上建立新的裸卖期权仓位。",
-    "source": "Yahoo Finance / Zacks",
-    "verified": false,
-    "keywords": ["earnings season", "财报季", "JPMorgan", "Q2 2026", "S&P 500", "banks"],
+    "title": "花旗将中国股市评级上调至超配，恒生指数年底目标29600点",
+    "summary": "花旗7月20日将新兴市场中国股票评级由战术中性上调至超配，同步将韩国下调至中性。理由为中国股票仓位偏轻、估值合理、宏观环境改善及低油价。设恒生指数年底目标29600点、MSCI中国目标92美元（较当前约31%上行空间）；CSI 300目标5600点。",
+    "why": "花旗超配升评是本轮外资回流港股A股的重要催化；恒指目标29600较当前25127点有约18%空间，消费和互联网重仓股的估值中枢受益，但需注意资金从韩国轮出后芯片板块可能存在分化。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "花旗",
+      "Citi",
+      "中国超配",
+      "恒生指数",
+      "29600",
+      "升评"
+    ],
     "translated": false,
-    "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-nears-kickoff-231000245.html"
+    "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-07-20/doc-iniimqsk8202190.shtml"
   },
   {
-    "id": "fcce221b0e28c26d",
-    "tier": 2,
+    "id": "3290d6e48f65276b",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "07:30",
+    "group": "大盘头条",
+    "title": "证监会主席吴清走进营业部直面散户座谈，聚焦量化交易、分红、中长期资金入市",
+    "summary": "7月20日，证监会党委书记、主席吴清亲赴证券营业部，与8名大中小散户代表面对面座谈，听取投资者对量化交易监管、信披透明度、分红机制和中长期资金入市的意见。吴清表示广大投资者是市场之本，将全力维护资本市场平稳运行。",
+    "why": "监管层主动接触散户传递政策托底信号；量化交易监管预期趋严可能影响市场波动率结构，与sell put策略的隐含波动率敞口相关，需持续关注后续政策落地细节。",
+    "source": "新浪新闻（证监会官方）",
+    "verified": true,
+    "keywords": [
+      "证监会",
+      "吴清",
+      "量化交易",
+      "散户座谈",
+      "分红",
+      "中长期资金"
+    ],
+    "translated": false,
+    "url": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuyk4934808.shtml"
+  },
+  {
+    "id": "ad7edd7747c05cf8",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "16:00",
+    "group": "大盘头条",
+    "title": "7月以来股票型ETF净流入超3200亿元，宽基ETF成交额创2024年10月以来新高",
+    "summary": "7月以来沪深两市股票型ETF净流入超3200亿元，宽基ETF成为核心配置方向；7月20日尾盘多只宽基ETF放量，成交额创2024年10月中旬以来新高，增量资金持续积极布局A股市场。",
+    "why": "国家队加持+ETF资金持续流入是A股当前核心支撑力；3200亿规模较7月初预期大幅超出，市场做多情绪偏强，有助维持消费和科技重仓股估值。",
+    "source": "21财经",
+    "verified": true,
+    "keywords": [
+      "ETF净流入",
+      "宽基ETF",
+      "3200亿",
+      "国家队",
+      "A股资金"
+    ],
+    "translated": false,
+    "url": "https://m.21jingji.com/article/20260718/herald/71dea345e7c1daac1a05643bda0b5363.html"
+  },
+  {
+    "id": "0e7235ef8d42d46c",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "10:00",
+    "group": "大盘头条",
+    "title": "五大万亿险企（人保、人寿、平安、太保、新华）集体发声支持资本市场，股票投资合计2.5万亿",
+    "summary": "7月20日，中国人保、中国人寿集团、中国平安、中国太保、新华保险五大万亿级保险机构集体公开表态坚定支持资本市场。数据显示，A股五大上市险企2025年末股票投资额合计达2.5万亿元，较2024年末大增逾1万亿元（+75%）。同期，中国诚通已增持近百亿、国新控股已增持超500亿元国资央企股票。",
+    "why": "险资是A股最大长线买家，集体表态与实际大规模增持双管齐下，对重仓的消费和科技核心标的估值构成直接支撑。",
+    "source": "网易订阅（证券时报）",
+    "verified": true,
+    "keywords": [
+      "险资",
+      "保险机构",
+      "中国平安",
+      "国新控股",
+      "国家队",
+      "2.5万亿"
+    ],
+    "translated": false,
+    "url": "https://www.163.com/dy/article/L2APBE870519DDQ2.html"
+  },
+  {
+    "id": "f0727e11a8708974",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "US",
+      "HK",
+      "A"
+    ],
+    "time": "06:00",
+    "group": "大盘头条",
+    "title": "美联储6月会议纪要确认鹰派转向，9月加息概率升至51.5%；7月28-29日FOMC会议临近",
+    "summary": "美联储6月会议纪要显示多数官员对通胀担忧加剧，加息呼声升温；CME FedWatch显示9月会议加息概率已升至51.5%。当前联邦基金利率维持3.50%-3.75%。7月28-29日FOMC会议将发布决议，本次无点阵图更新，市场焦点在声明措辞变化。",
+    "why": "再加息预期是港股美股估值的核心风险因子；利率上行压缩成长股估值倍数，同时提升sell put的安全垫要求，近期业绩期前需审视期权行权价配置。",
+    "source": "21财经",
+    "verified": true,
+    "keywords": [
+      "美联储",
+      "FOMC",
+      "加息",
+      "通胀",
+      "3.5-3.75%",
+      "9月加息",
+      "51.5%"
+    ],
+    "translated": false,
+    "url": "https://m.21jingji.com/article/20260709/herald/265b3d0e73889b399d3684f5f6f85c05.html"
+  },
+  {
+    "id": "72e2be854d2a7957",
+    "tier": 1,
     "lang": "en",
-    "markets": ["HK", "US"],
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "07:00",
+    "group": "大盘头条",
+    "title": "US Strikes Iran for Ninth Straight Night; Iran Signals Possible Talks — Crude Holds Near $82.43",
+    "summary": "The US conducted airstrikes on Iran for a ninth consecutive night; Iran retaliated with missile strikes on US allies. An Iranian Foreign Ministry spokesperson said negotiations with the US could resume if aligned with Iran's national interests. Crude oil steadied near $82.43/bbl, balancing escalation risk against diplomatic signals.",
+    "why": "中东地缘局势是全球通胀的核心变量；若谈判信号落实，油价下行可缓解美联储加息压力、利好风险资产；持续紧张则强化鹰派路径，需关注下周FOMC。",
+    "source": "Investing.com",
+    "verified": false,
+    "keywords": [
+      "Middle East",
+      "Iran",
+      "oil price",
+      "crude",
+      "geopolitical",
+      "US strikes"
+    ],
+    "translated": false,
+    "url": "https://investing.com/news/commodities-news/oil-prices-slide-on-us-rate-jitters-strong-dollar-3402259"
+  },
+  {
+    "id": "2e3a921091376fbe",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
     "time": "11:00",
-    "group": "个股",
-    "title": "SK Hynix reportedly secures ~70% of Nvidia's HBM4 orders for Vera Rubin platform; HBM4 shortage expected to worsen in H2 2026",
-    "summary": "SK Hynix has reportedly captured approximately 70% of Nvidia's HBM4 high-bandwidth memory orders for the Vera Rubin AI platform, outpacing Samsung and Micron in Nvidia's qualification process. SK Hynix has been shipping paid HBM4 samples to Nvidia since September 2025 with excellent yield rates, and the company warns HBM4 supply shortage will worsen through H2 2026 as demand surges.",
-    "source": "DataCenterDynamics / Semicone",
-    "verified": false,
-    "keywords": ["SK海力士", "SK Hynix", "HBM4", "高带宽内存", "英伟达", "Nvidia", "Vera Rubin", "存储芯片"],
+    "group": "大盘头条",
+    "title": "港交所回应：正探讨取消午间休市、提早至9时开市及增设深夜盘后交易",
+    "summary": "市场传闻港交所研究延长股票交易时间：拟将开市提前至9:00（现9:30）、取消12:00-13:00午间休市，并增设晚间8:00至午夜盘后交易时段，以承接美国早盘活动。港交所回应称目前仍处早期探讨阶段，当前首要工作是延长衍生品市场交易时段。",
+    "why": "若落地，港股与A股、美股的交叉时段大幅增加，对日内期权策略和delta对冲窗口有实质影响；现阶段观察为主，无需立即调整。",
+    "source": "21财经",
+    "verified": true,
+    "keywords": [
+      "港交所",
+      "延长交易时间",
+      "午间休市",
+      "HKEX",
+      "盘后交易"
+    ],
     "translated": false,
-    "url": "https://www.datacenterdynamics.com/en/news/sk-hynix-ready-to-supply-hbm4-memory-chips/",
-    "why": "SK海力士垄断约70% Nvidia Rubin HBM4订单，HBM4供给将持续偏紧：利好SK海力士H股（7709.HK），南方两倍做多SK海力士ETF（CSOP）持仓价值上升；HBM4短缺预期可能推高相关AI算力标的隐含波动率，包括英伟达期权。"
+    "url": "https://m.21jingji.com/article/20260720/herald/7be41f3d3e0202b0919c604807bfe27c.html"
   },
   {
-    "id": "cabc5fa7a607278d",
-    "tier": 2,
-    "lang": "en",
-    "markets": ["US"],
+    "id": "df447809edbd1eaf",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
     "time": "09:00",
     "group": "个股",
-    "title": "Intel 18A-P enters risk production at VLSI Symposium: 9% performance gain or 18% power reduction vs 18A; Apple, Nvidia, SoftBank as anchor customers",
-    "summary": "Intel Foundry announced Intel 18A-P — the first performance enhancement of its 18A node family — has entered risk production, on schedule. 18A-P delivers 9% higher performance at iso-power or 18% lower power at iso-performance vs 18A, plus improved thermal characteristics and 20–40% better thermal resistance. Anchor customers backing the node include Nvidia, SoftBank, and the US government; Google has committed to using multiple generations of Intel CPU for AI data center workloads.",
-    "summary": "Intel announced 18A-P entering risk production. 18A-P delivers 9% higher performance at iso-power or 18% lower power at iso-performance vs the base 18A node, alongside 20–40% improved thermal resistance. Nvidia, SoftBank, Google and the US government are named as partners and customers supporting the Intel Foundry roadmap.",
-    "why": "Intel 18A-P进入风险量产，代工业务拐点确认信号：若英伟达、苹果实际流片成功，INTC代工估值重估可能落地；短期仍属「风险量产」阶段，距正式量产和盈利贡献尚需时日，建议以中长线持仓态度关注而非追涨。",
-    "source": "Intel Newsroom (Official)",
+    "title": "月之暗面宣布最快6个月内赴港上市，Kimi K3发布后ARR三个月三倍增至3亿美元",
+    "summary": "月之暗面已向主要投资人提交港股上市议案，预计最快6个月内完成。驱动力是Kimi K3（7月16日发布，2.8万亿参数，当前全球最大开源模型）引发全球关注，ARR从3月1亿、5月2亿到6月3亿美元，三个月实现三倍跃升；API收入占比突破70%。最新参考估值约200亿美元。",
+    "why": "中国AI原生公司快速走向港股上市，为港股科技板块引入新高成长标的；Kimi K3跻身顶级开源模型的商业化进展值得跟踪，也为腾讯阿里等AI布局的相对估值提供新参照。",
+    "source": "21财经",
     "verified": true,
-    "keywords": ["英特尔", "Intel", "INTC", "18A", "代工", "foundry", "晶圆", "Nvidia"],
+    "keywords": [
+      "月之暗面",
+      "Kimi",
+      "Kimi K3",
+      "港股IPO",
+      "AI大模型",
+      "ARR"
+    ],
     "translated": false,
-    "url": "https://newsroom.intel.com/intel-foundry/intel-foundry-details-process-milestones-future-innovation-at-vlsi-symposium"
+    "url": "https://m.21jingji.com/article/20260720/herald/e8e465cd3711e575c7d432295b5c3892.html"
   },
   {
-    "id": "ef5d0df7a0be3438",
-    "tier": 2,
+    "id": "aa0a671c4152b484",
+    "tier": 1,
     "lang": "en",
-    "markets": ["US"],
+    "markets": [
+      "US"
+    ],
     "time": "08:00",
     "group": "个股",
-    "title": "Micron (MU) gets bullish Wall Street boost: Jensen Huang calls MU an 'indispensable partner'; analysts raise targets after record Q3 FY2026",
-    "summary": "Following Micron's record-breaking Q3 FY2026 (revenue $41.46B, net income $28.24B), Jensen Huang publicly endorsed Micron as a key partner for Nvidia's HBM roadmap. Multiple Wall Street analysts raised price targets in early July 2026. MU has advanced over 240% year-to-date, making it one of the best-performing S&P 500 stocks. Micron has signed 16 multiyear supply agreements with binding commitments.",
-    "why": "美光Q3创纪录业绩叠加Jensen背书，HBM/DRAM超级周期持续验证；对持有两倍做多美光ETF仓位者是直接利好；需注意240%涨幅已消化大量预期，财报披露期后隐含波动率可能收缩，covered call策略有望获取时间价值。",
-    "source": "Motley Fool (July 5, 2026)",
-    "verified": false,
-    "keywords": ["美光", "Micron", "MU", "HBM", "DRAM", "存储", "英伟达", "Jensen Huang"],
+    "title": "DeepSeek Begins In-House AI Chip Development to Cut Reliance on Nvidia (Reuters Exclusive)",
+    "summary": "DeepSeek has started developing its own AI inference chip to reduce dependence on Nvidia, per Reuters. The chip targets inference (not training), development began ~1 year ago with recent hiring acceleration. DeepSeek joins OpenAI (Jalapeño/Broadcom) in building proprietary silicon. Nvidia slipped ~2% on the news; Huawei already commands ~50% of China's ~$50B domestic AI chip market.",
+    "why": "DeepSeek自研推理芯片是对英伟达中国市场的潜在长期威胁；短期对NVDA形成情绪压制，量产前实质影响有限，但持有NVDA期权须关注隐含波动率动向。",
+    "source": "TechNode (Reuters exclusive)",
+    "verified": true,
+    "keywords": [
+      "DeepSeek",
+      "AI chip",
+      "Nvidia",
+      "NVDA",
+      "inference chip",
+      "自研芯片",
+      "Huawei"
+    ],
     "translated": false,
-    "url": "https://www.fool.com/investing/2026/07/05/micron-stock-good-news-wall-street-nvidia-jensen/"
+    "url": "https://technode.com/2026/07/08/deepseek-begins-in-house-ai-chip-development-to-cut-reliance-on-nvidia-sources-say/"
   },
   {
-    "id": "6b099aaf74cc9176",
+    "id": "b38d8bc2a9f8293d",
     "tier": 2,
     "lang": "en",
-    "markets": ["US"],
-    "time": "09:00",
+    "markets": [
+      "US"
+    ],
+    "time": "22:00",
     "group": "个股",
-    "title": "Palantir launches NVIDIA Nemotron engine for US government: AIP + Foundry now deploys sovereign AI in air-gapped classified networks",
-    "summary": "Palantir Technologies announced (June 29) an initiative with NVIDIA to deploy Nemotron open models within Palantir's AIP, Foundry, Ontology and Apollo platforms for US government agencies and critical infrastructure. The joint offering enables agencies to run and fine-tune AI in air-gapped and classified environments with full data sovereignty. The sovereign AI market is projected to reach $600B by 2030.",
-    "why": "Palantir绑定Nvidia Nemotron进军主权AI，国防+政府合同护城河进一步加深；PLTR近期已获多项大型国防合同（美国陆军NGC2等），Nemotron合作增强可持续收入确定性；对于持有PLTR的投资者，政府AI合同规模化是长期估值支撑，短期可考虑在相对高位适度卖出covered call。",
-    "source": "BusinessWire (Palantir Official PR)",
-    "verified": true,
-    "keywords": ["Palantir", "PLTR", "Nvidia", "Nemotron", "AIP", "Foundry", "国防AI", "政府合同"],
+    "title": "Nvidia NVDA Tests $200 Support; Philadelphia Semiconductor Index Down 20%+ from June Peak",
+    "summary": "Nvidia shares stabilize near $200 after a multi-week decline driven by Chinese AI competition (DeepSeek chip, Huawei) and broader chip rally fatigue. The Philadelphia Semiconductor Index has fallen ~20% from its June peak, entering a technical bear market. Goldman Sachs cites NVDA at 21.7x forward P/E as compelling, near S&P 500 average vs. 5-year average of 72x.",
+    "why": "NVDA测试$200关键支撑，是判断AI芯片板块能否企稳的重要技术信号；Goldman超低估值论提供基本面支撑，但SOX进入熊市技术区间表明短期多头不宜轻进。",
+    "source": "FX Leaders",
+    "verified": false,
+    "keywords": [
+      "Nvidia",
+      "NVDA",
+      "AI chip",
+      "$200 support",
+      "semiconductor",
+      "Goldman Sachs",
+      "SOX"
+    ],
     "translated": false,
-    "url": "https://www.businesswire.com/news/home/20260629390275/en/Palantir-Launches-Engine-for-Deploying-NVIDIA-Nemotron-Open-Models-in-Sovereign-Environments"
+    "url": "https://www.fxleaders.com/news/2026/07/20/nvidia-stock-nvda-tests-200-support-as-chinese-ai-competition-shakes-the-chip-rally/"
   },
   {
-    "id": "17b82bb184274427",
-    "tier": 3,
+    "id": "2a66cd527d237a0d",
+    "tier": 1,
     "lang": "en",
-    "markets": ["US"],
+    "markets": [
+      "US"
+    ],
+    "time": "10:30",
+    "group": "个股",
+    "title": "Tesla TSLA Q2 Earnings Wednesday (7/22): Record 480K Deliveries, Options Pricing 7.6% Move",
+    "summary": "Tesla reports Q2 2026 after close on July 22. Deliveries: record 480,126 units (+25% YoY), exceeding production by 28K+ units. Consensus: revenue ~$26.4B, EPS ~$0.54. Stock at $380, below key EMAs. Options market prices a 7.6% post-earnings implied move. Key watch: automotive gross margin amid aggressive promotional pricing, FSD/Robotaxi update.",
+    "why": "明日业绩是近期最大催化；交付量创纪录但毛利率承压是核心矛盾，期权隐含7.6%波动，持有TSLA期权头寸者须在收盘前评估并调整delta/vega敞口。",
+    "source": "TradingKey / Moomoo",
+    "verified": true,
+    "keywords": [
+      "Tesla",
+      "TSLA",
+      "Q2 earnings",
+      "480K deliveries",
+      "options",
+      "7.6%",
+      "Robotaxi",
+      "FSD"
+    ],
+    "translated": false,
+    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262039494-tesla-tsla-q2-2026-earnings-preview-july-22-480k-deliveries-tradingkey"
+  },
+  {
+    "id": "3444ec2158e8c1ca",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
     "time": "10:00",
     "group": "个股",
-    "title": "Futu moomoo launches 'Moomoo Engine' (July 2): unified research + options + trading toolkit at $3.99/month",
-    "summary": "Moomoo (Futu Holdings, FUTU) launched 'Moomoo Engine' on July 2, 2026 — a paid subscription ($3.99/month, $0.99/month for accounts >$1,000) bundling three engines: Fundamental Engine (7 research tools + AI briefings), Options Engine (Level 2 options data, strategy lab, P&L simulator, gamma exposure, unusual activity alerts, no-code algo trading), and Technical Engine (Level 3 order depth, volume profile, backtester, pro charts).",
-    "why": "moomoo Engine的期权引擎（Level 2期权数据、策略实验室、盈亏模拟器、伽马敞口跟踪）与投资者sell put/covered call策略高度契合；富途Q1收入+25% YoY至7.47亿美元，客户资产同比+47%，Engine付费化有望提升ARPU；对于持有FUTU的投资者，产品货币化是估值重估的催化剂。",
-    "source": "Yahoo Finance / Moomoo PR",
-    "verified": false,
-    "keywords": ["富途", "Futu", "FUTU", "moomoo", "牛牛", "期权", "Options Engine", "互联网券商"],
+    "title": "Alphabet GOOGL Q2 Earnings Wednesday (7/22): Google Cloud 60%+ Growth Eyed, EPS Est. $2.89",
+    "summary": "Alphabet reports Q2 2026 after the bell on July 22. Consensus: EPS $2.89 (+23.8% YoY), revenue $116.84B (+21.2% YoY). Key watch: whether Google Cloud sustains ~60% growth (Q1 was +63%), and whether $190B 2026 capex guidance squeezes margins. Strong AI monetization across Search and Cloud is the bull thesis.",
+    "why": "谷歌是AI广告+云双引擎，明日业绩是美股科技估值中枢的重要锚定；Cloud能否延续60%增速直接影响市场对AI商业化前景的定价，进而传导至港股互联网板块情绪。",
+    "source": "InsiderFinance / IG International",
+    "verified": true,
+    "keywords": [
+      "Alphabet",
+      "Google",
+      "GOOGL",
+      "Q2 earnings",
+      "Google Cloud",
+      "$190B capex"
+    ],
     "translated": false,
-    "url": "https://ca.finance.yahoo.com/news/moomoo-launches-moomoo-engine-unifying-132900339.html"
+    "url": "https://www.insiderfinance.io/news/alphabet-q2-2026-earnings-preview"
+  },
+  {
+    "id": "c036a6400468d261",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "SK Hynix Q2 Results Wednesday (7/22): HBM4 Delayed to Q3, Profit May Miss Consensus by 8%",
+    "summary": "SK Hynix releases Q2 2026 results on July 22. Korea Investment & Securities projects operating profit ~KRW 60.4T (an estimated ~8% miss vs. KRW 65T consensus), citing HBM4 mass production delay — now pushed to Q3 2026. Stock already fell 15.4% on July 13, its worst single-session on record. Q1 context: revenue +198% YoY to KRW 52.6T; global HBM share 56.4%.",
+    "why": "SK海力士HBM4延迟影响英伟达Rubin平台供货节奏，明日业绩是AI存储超级周期能否持续的关键验证；同时牵动港股CSOP南方两倍做多SK海力士ETF的净值，需关注其杠杆双倍波幅。",
+    "source": "TechTimes / CNBC",
+    "verified": true,
+    "keywords": [
+      "SK Hynix",
+      "HBM4",
+      "HBM",
+      "Q2 earnings",
+      "DRAM",
+      "CSOP",
+      "存储芯片"
+    ],
+    "translated": false,
+    "url": "https://www.techtimes.com/articles/320352/20260713/sk-hynix-posts-worst-seoul-session-record-hbm-contracts-limit-earnings-upside.htm"
+  },
+  {
+    "id": "15f5025efdb347ac",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "Intel INTC Q2 Earnings Thursday (7/23): 18A-P in Risk Production, Apple/Microsoft Foundry Clients",
+    "summary": "Intel reports Q2 2026 on July 23. Guidance: revenue $13.8B-$14.8B, non-GAAP EPS ~$0.20, gross margin ~39%. Catalysts: 18A-P node entered risk production on schedule; Apple and Microsoft partnership for Intel Foundry validates the roadmap. Stock +160% YTD but pulled back to $101-$103 ahead of earnings. HSBC raised target to $200 citing foundry momentum. Foundry division still posting $2.4B+ operating loss.",
+    "why": "18A进入风险生产是英特尔估值重构的关键节点，苹果微软代工合作是首个财报验证机会；留意代工亏损收窄幅度是否符合扭亏时间表，这是估值修复的核心变量。",
+    "source": "TradingKey / HSBC analyst",
+    "verified": false,
+    "keywords": [
+      "Intel",
+      "INTC",
+      "18A",
+      "foundry",
+      "Q2 earnings",
+      "Apple",
+      "Microsoft",
+      "HSBC $200"
+    ],
+    "translated": false,
+    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262042520-intel-intc-earnings-preview-july-23-2026-18a-foundry-apple-microsoft-tradingkey"
+  },
+  {
+    "id": "7c431c0717deecc5",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "08:00",
+    "group": "个股",
+    "title": "腾讯7月2-3日连续回购逾229万股，合计耗资约10亿港元；Q1净利679亿同比+11%",
+    "summary": "腾讯控股7月2日回购114.6万股耗资5.008亿港元、7月3日再回购114.9万股耗资5.01亿港元，两日合计逾10亿港元。Q1净利润679亿元，同比+11%；微信及WeChat合并MAU 14.32亿稳定。市值近期有所回落，AI布局滞后（元宝MAU仅5735万，远落后于豆包3.45亿）是主要压制；公司已于7月6日发布混元Hy3正式版加速追赶。",
+    "why": "高强度持续回购是股价下方的重要支撑，配合强劲的Q1业绩；AI追赶若提速，估值重评预期可能带动反弹；持有腾讯相关sell put时，回购支撑有助于守住行权价。",
+    "source": "FX168财经网（据港交所披露易）",
+    "verified": true,
+    "keywords": [
+      "腾讯",
+      "0700.HK",
+      "回购",
+      "buyback",
+      "混元Hy3",
+      "元宝",
+      "MAU"
+    ],
+    "translated": false,
+    "url": "https://news.fx168news.com/cooperate/2607/7469157.shtml"
+  },
+  {
+    "id": "952973df10bcfbf8",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "老铺黄金股价较历史高点跌逾67%，市值蒸发超1200亿港元；天猫Q2销售额同比降63%",
+    "summary": "老铺黄金（6181.HK）股价较历史峰值下跌逾67%，市值蒸发超1200亿港元。天猫旗舰店Q2销售额同比大降63%，成都门店客流明显转淡。背景：国际金价从今年1月高位约5599美元/盎司大幅回落至7月中旬约3973美元，金价下跌打击公司高溢价库存策略和品牌溢价支撑。",
+    "why": "金价大幅回落是老铺黄金最主要的基本面逆风；若持有相关头寸，需重新评估金价下行路径对公司收入结构的影响，古法金赛道整体吸引力随金价波动而显著变化。",
+    "source": "大纪元（据公开数据汇总）",
+    "verified": false,
+    "keywords": [
+      "老铺黄金",
+      "6181.HK",
+      "黄金",
+      "金价",
+      "古法金",
+      "Laopu Gold"
+    ],
+    "translated": false,
+    "url": "https://www.epochtimes.com/gb/26/7/19/n14812645.htm"
+  },
+  {
+    "id": "81399536525874d7",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "11:00",
+    "group": "个股",
+    "title": "泡泡玛特股价较峰值跌55.7%，段永平斥资约15.89亿港元增持成第二大股东；PTS年度展会取消",
+    "summary": "泡泡玛特（9992.HK）截至7月10日收盘于150.7港元，较2025年8月峰值333.8港元下跌55.7%。知名投资者段永平（中国巴菲特）增持约1059万股，斥资约15.89亿港元升任第二大股东。近期Labubu新系列产品二级市场跌破发行价、原定7月24日至8月2日的PTS上海潮玩嘉年华已宣布取消，单IP依赖风险被加速定价。",
+    "why": "段永平价值派大额买入是重要的向下支撑信号；但Labubu新品破发和PTS取消是实质负面，需观察下季度GMV以判断IP生命周期拐点，这直接影响期权行权价合理区间的判断。",
+    "source": "Yahoo Finance Taiwan / 36氪",
+    "verified": false,
+    "keywords": [
+      "泡泡玛特",
+      "Pop Mart",
+      "9992.HK",
+      "Labubu",
+      "段永平",
+      "潮玩",
+      "PTS取消"
+    ],
+    "translated": false,
+    "url": "https://tw.stock.yahoo.com/news/%E6%B3%A1%E6%B3%A1%E7%91%AA%E7%89%B9%E7%9C%9F%E6%B7%AA%E6%B3%A1%E6%B2%AB-%E8%82%A1%E5%83%B9%E6%85%98%E9%81%AD%E8%85%B0%E6%96%AC-%E6%81%90%E8%88%87labubu%E6%8E%9B%E9%89%A4-%E5%BE%9E1%E7%8F%BE%E8%B1%A1%E8%A6%8B%E7%AB%AF%E5%80%AA-081500678.html"
+  },
+  {
+    "id": "d558a5b039e4904f",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "Palantir Wins U.S. Army NGC2 Data Modernization Contract; Q1 Revenue +85% YoY to $1.633B",
+    "summary": "The U.S. Army selected Palantir Foundry as the core cloud data layer for its top-priority NGC2 modernization program, expanding from prototype to wide deployment. Added to an Nvidia partnership for sovereign AI, PLTR rose ~2.8%. Q1 2026 revenue: $1.633B, +85% YoY. The $10B/10-year Army Enterprise Agreement (July 2025) provides the long-term revenue base.",
+    "why": "Palantir政府合同持续兑现且收入增速高达85%，为持有PLTR sell put头寸的安全垫提供基本面支撑；但估值已充分定价乐观预期，需注意任何执行失误引发的回调风险。",
+    "source": "Yahoo Finance",
+    "verified": false,
+    "keywords": [
+      "Palantir",
+      "PLTR",
+      "Army",
+      "NGC2",
+      "Foundry",
+      "AI",
+      "defense",
+      "government contract"
+    ],
+    "translated": false,
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-just-secured-u-army-180024842.html"
   }
 ]
