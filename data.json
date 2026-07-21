@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-21 13:15 (北京时间)",
+  "updated_at": "2026-07-21 18:09 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,350 @@
   "positions": [],
   "items": [
     {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Stock futures climb ahead of corporate earnings, Nasdaq rebounds: Live updates",
+      "summary": "US stock futures rose Tuesday as investors braced for a flurry of earnings reports amid signs of revival in chip stocks. Nasdaq-100 contracts jumped 1.3%, with semiconductor names taking center stage ahead of Big Tech results (Tesla and Alphabet both report July 22).",
+      "why": "纳斯达克期货大涨1.3%，半导体领涨，科技财报季高峰来临，持有相关美股期权需注意财报前后波动率变化。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Nasdaq",
+        "S&P 500",
+        "chip stocks",
+        "earnings"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/20/stock-market-today-live-updates.html",
+      "id": "4cfbd6b8c05ab96e",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Apple Intelligence approved for launch in China with Alibaba's Qwen AI",
+      "summary": "China's CAC approved Apple Intelligence on July 15, with Alibaba Qwen handling ~65% of multimodal tasks and Baidu managing ~35% for Siri voice/search. The process took 22 months. No launch date announced yet; regulatory green light is now in place.",
+      "why": "通义千问成为Apple Intelligence在华核心AI供应商，实质性提升阿里云商业化空间，对阿里巴巴估值有正面催化；也可能推动iPhone在华销量反弹。",
+      "source": "TechCrunch",
+      "verified": true,
+      "keywords": [
+        "Alibaba",
+        "阿里巴巴",
+        "Apple Intelligence",
+        "Qwen",
+        "通义千问",
+        "BABA"
+      ],
+      "translated": false,
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "id": "3a9d056af9a3ec90",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "Alibaba Stock Surges As Apple AI Deal Fuels New Rally",
+      "summary": "BABA surged on July 20 driven by four catalysts: Apple Intelligence approval, DOJ $600M non-prosecution deal ($325M penalty), Morgan Stanley Overweight with triple-digit AI cloud growth, and stock approaching key technical levels. Stock up ~4.6% on the day.",
+      "why": "DOJ和解移除重大法律尾险，苹果AI合作打开增量营收，配合摩根士丹利维持增持，阿里估值修复逻辑清晰，对sell put策略支撑明显。",
+      "source": "StocksToTrade",
+      "verified": false,
+      "keywords": [
+        "Alibaba",
+        "BABA",
+        "DOJ",
+        "Apple AI",
+        "cloud"
+      ],
+      "translated": false,
+      "url": "https://stockstotrade.com/news/alibaba-group-holding-limited-baba-news-2026_07_20/",
+      "id": "f78e1364cc1d8cd8",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "Micron Says Memory Chip Supply Will Remain Tight Beyond 2027",
+      "summary": "Micron disclosed it is sold out of HBM capacity for both 2026 and 2027, and expects broad memory market tightness to extend beyond 2027. The company recently signed 16 multiyear customer contracts—unprecedented in the memory industry—as AI compute demand drives structurally higher ASPs.",
+      "why": "美光HBM供应售罄至2027年以后，多年合同锁定高价，是极强的长线看涨信号；对持有MU正股和sell put策略均利好，关注内存赛道持续涨价逻辑。",
+      "source": "The Motley Fool",
+      "verified": true,
+      "keywords": [
+        "Micron",
+        "美光",
+        "MU",
+        "HBM",
+        "memory",
+        "supply"
+      ],
+      "translated": false,
+      "url": "https://www.fool.com/investing/2026/07/20/micron-says-memory-chip-supply-will-remain-tight-b/",
+      "id": "285dd7b89dcdfdd7",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "Alphabet (GOOGL) Week Review: EU Hit, Gemini Delays, Earnings Wednesday",
+      "summary": "Alphabet reports Q2 2026 earnings July 22. Shares at $346.77 amid a $4.67B EU antitrust fine (Android/DMA) and Gemini 3.5 Pro delays. Q2 consensus: revenue $116.9B, EPS $2.90. Google Cloud accelerated to $20B/quarter (+63% YoY) in Q1.",
+      "why": "谷歌财报与特斯拉同日发布，将定调本周科技板块情绪；EU罚款与Gemini延迟是重大下行风险，期权隐含波动率已升高，财报后需关注IV崩塌。",
+      "source": "TradingKey",
+      "verified": false,
+      "keywords": [
+        "Alphabet",
+        "Google",
+        "GOOGL",
+        "earnings",
+        "EU fine",
+        "Gemini"
+      ],
+      "translated": false,
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262039497-alphabet-googl-stock-week-review-july-20-2026-eu-android-earnings-tradingkey",
+      "id": "5c6427c30ee778a3",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:30",
+      "group": "大盘头条",
+      "title": "Oil prices dip as mediation efforts offset U.S.-Iran strikes",
+      "summary": "Oil softened Tuesday with Brent near $90/bbl as mediators pushed for a 10-day U.S.-Iran ceasefire, even as attacks entered a 10th consecutive day. A Houthi naval blockade threat on Saudi Arabia capped any sustained pullback.",
+      "why": "油价高位震荡叠加停火预期，影响通胀预期和美联储加息路径，是对冲持仓和期权策略的重要宏观背景。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "oil price",
+        "Iran",
+        "ceasefire",
+        "geopolitical",
+        "Brent"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/21/oil-prices-dip-as-mediation-efforts-offset-us-iran-strikes.html",
+      "id": "bd6178ec6ac3ed01",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "Tesla rides robotaxi momentum into earnings season (Q2 results July 22)",
+      "summary": "Tesla reports Q2 2026 earnings after market close July 22. Q2 deliveries hit 480,126 vehicles (+25% YoY), its strongest quarter since Q3 2025. Robotaxi now operates in 5 cities; Texas fleet scaled to 175 vehicles. 2026 capex guidance raised to $25B from $20B.",
+      "why": "特斯拉明日财报是市场催化剂，Robotaxi进展和毛利率是关键看点，财报前后隐含波动率将大幅变动，持有TSLA期权者需特别关注。",
+      "source": "Proactive Investors",
+      "verified": true,
+      "keywords": [
+        "Tesla",
+        "TSLA",
+        "earnings",
+        "Robotaxi",
+        "deliveries"
+      ],
+      "translated": false,
+      "url": "https://www.proactiveinvestors.com/companies/news/1095651/tesla-rides-robotaxi-momentum-into-earnings-season-1095651.html",
+      "id": "fd4c658e4d899f5d",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "深\"V\"，涨停潮！半导体大爆发，多只ETF大涨10%！",
+      "summary": "A股7月21日全天呈深V形态，科创50指数收涨10.73%，创2026年最大单日涨幅；科创半导体ETF大涨逾19%，集成电路ETF、芯片ETF涨停；华虹宏力涨超17%。上证综指涨1.79%，创业板指涨7.05%。",
+      "why": "A股半导体全线爆发是重大市场事件，若持有半导体相关个股或期权，隐含波动率大涨，sell put方向需警惕短期回调。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "半导体",
+        "科创50",
+        "ETF",
+        "涨停"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/wm/2026-07-21/doc-iniiptrf2611441.shtml",
+      "id": "734f6f9eebb84010",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:35",
+      "group": "大盘头条",
+      "title": "ETF收评：科创50暴力反弹涨超10%，AI硬件反攻，科创半导体ETF涨超19%，集成电路ETF、芯片ETF涨停",
+      "summary": "科创板、创业板强势反弹，多只半导体ETF创历史大涨纪录，AI硬件板块全线上扬。科创半导体ETF单日净值涨幅超19%，上半年该类ETF已累计涨逾177%。",
+      "why": "科创半导体ETF单日大涨19%，短期波动率骤升，持有相关正股或期权需关注次日波动率压缩风险。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "科创50",
+        "半导体ETF",
+        "芯片ETF",
+        "AI硬件"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-21/doc-iniipxxc2565622.shtml",
+      "id": "d48cbc7e71f4e50f",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股收评：恒指跌0.04% 科指涨1.32% 黄金股普涨 半导体、PCB板块大涨 智谱涨超36%",
+      "summary": "港股7月21日三指分化：恒生指数收跌0.04%报25132，恒生科技指数涨1.32%；华虹宏力涨超17%，建滔积层板涨超12%，紫金黄金国际涨超10%，智谱AI涨超36%。",
+      "why": "港股科技指数逆势上扬，华虹宏力创单日大涨，半导体主题继续受资金青睐，对相关港股期权隐含波动率有拉升作用。",
+      "source": "新浪财经港股",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "恒生科技",
+        "华虹宏力",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-21/doc-iniiqeez2478566.shtml",
+      "id": "ccd25e4c90fad3eb",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "China's Politburo July meeting seen accelerating fiscal delivery, not new stimulus",
+      "summary": "Analysts expect the late-July Politburo meeting to call for faster implementation of existing infrastructure projects and possible front-loading of Q4 bond quotas. Roughly RMB 6.8 trillion of approved government bonds remain unissued; Beijing is unlikely to announce major new packages.",
+      "why": "政治局信号若偏积极财政，将提振A股和港股消费科技板块情绪，对国内消费相关标的期权是潜在正面催化。",
+      "source": "Capital Economics / Bloomberg",
+      "verified": false,
+      "keywords": [
+        "Politburo",
+        "China stimulus",
+        "fiscal policy",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://thedarksideoftheboom.substack.com/p/politburo-meeting-beijing-is-likely",
+      "id": "40019f71aab76c70",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "China's Xiaomi unveils SUV series dubbed Sky Nomad (new EREV brand)",
+      "summary": "Xiaomi officially confirmed Sky Nomad (Pengcheng/澎城) on July 8 — a standalone EREV SUV brand competing with Li Auto and AITO. First model Kunlun N3 is a 5.3m+, 7-seat full-size EREV with 70kWh+ battery, priced RMB 200k-450k. Xiaomi shares surged 10% intraday on announcement.",
+      "why": "小米推出独立增程品牌澎城，直接挑战理想汽车和AITO，扩大EV赛道布局；当日股价涨10%说明市场正面解读，对小米sell put有支撑。",
+      "source": "CnEVPost",
+      "verified": true,
+      "keywords": [
+        "Xiaomi",
+        "小米",
+        "1810.HK",
+        "Sky Nomad",
+        "澎城",
+        "EREV",
+        "SUV"
+      ],
+      "translated": false,
+      "url": "https://cnevpost.com/2026/07/09/xiaomi-ev-sky-nomad-new-series-offers-first-look-suv/",
+      "id": "24b8bada211df94d",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "China Renaissance Moves Trip.com (TCOM) to Hold on Antitrust Overhang",
+      "summary": "China Renaissance downgraded Trip.com (TCOM/9961.HK) to Hold with a $42 target on July 2, citing unresolved antitrust investigation. BofA also cut its target from $78 to $64 (maintained Buy), noting a 'modest' Q1 beat but weak Q2 outlook and antitrust uncertainty.",
+      "why": "携程反垄断调查悬而未决是重大不确定性，多家机构下调目标价，对sell put策略的保护垫变薄，需重新评估行权价选择。",
+      "source": "Yahoo Finance / Insider Monkey",
+      "verified": false,
+      "keywords": [
+        "Trip.com",
+        "携程",
+        "TCOM",
+        "9961.HK",
+        "antitrust",
+        "downgrade"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/china-renaissance-moves-trip-com-144723266.html",
+      "id": "175a61a7cf28fb65",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
       "id": "f0727e11a8708974",
       "tier": 1,
       "lang": "zh",
@@ -63,7 +407,7 @@
       ],
       "translated": false,
       "url": "https://m.21jingji.com/article/20260709/herald/265b3d0e73889b399d3684f5f6f85c05.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -91,7 +435,7 @@
       ],
       "translated": false,
       "url": "https://investing.com/news/commodities-news/oil-prices-slide-on-us-rate-jitters-strong-dollar-3402259",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -118,7 +462,7 @@
       ],
       "translated": false,
       "url": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuyk4934808.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -145,7 +489,7 @@
       ],
       "translated": false,
       "url": "https://m.21jingji.com/article/20260720/herald/e8e465cd3711e575c7d432295b5c3892.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -173,7 +517,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-07-20/doc-iniimqsk8202190.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -200,7 +544,7 @@
       ],
       "translated": false,
       "url": "https://www.163.com/dy/article/L2APBE870519DDQ2.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -227,7 +571,7 @@
       ],
       "translated": false,
       "url": "https://www.insiderfinance.io/news/alphabet-q2-2026-earnings-preview",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -253,7 +597,7 @@
       ],
       "translated": false,
       "url": "https://m.21jingji.com/article/20260718/herald/71dea345e7c1daac1a05643bda0b5363.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -281,7 +625,7 @@
       ],
       "translated": false,
       "url": "https://news.fx168news.com/cooperate/2607/7469157.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -310,7 +654,7 @@
       ],
       "translated": false,
       "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262042520-intel-intc-earnings-preview-july-23-2026-18a-foundry-apple-microsoft-tradingkey",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -337,7 +681,7 @@
       ],
       "translated": false,
       "url": "https://www.epochtimes.com/gb/26/7/19/n14812645.htm",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -363,7 +707,7 @@
       ],
       "translated": false,
       "url": "https://m.21jingji.com/article/20260720/herald/7be41f3d3e0202b0919c604807bfe27c.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -391,7 +735,7 @@
       ],
       "translated": false,
       "url": "https://tw.stock.yahoo.com/news/%E6%B3%A1%E6%B3%A1%E7%91%AA%E7%89%B9%E7%9C%9F%E6%B7%AA%E6%B3%A1%E6%B2%AB-%E8%82%A1%E5%83%B9%E6%85%98%E9%81%AD%E8%85%B0%E6%96%AC-%E6%81%90%E8%88%87labubu%E6%8E%9B%E9%89%A4-%E5%BE%9E1%E7%8F%BE%E8%B1%A1%E8%A6%8B%E7%AB%AF%E5%80%AA-081500678.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-21"
     },
     {
@@ -3860,361 +4204,6 @@
       "url": "https://www.marketscreener.com/news/interactive-brokers-group-to-host-second-quarter-earnings-conference-call-ce7f5fdcdc8df120",
       "is_new": false,
       "first_seen": "2026-07-17"
-    },
-    {
-      "id": "c89e797f38004b5e",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "Costco Q3 FY2026: Membership Income +10.7% YoY; Renewal Rate 92.2%; Revenue $69.15B +11.6%",
-      "summary": "Costco Q3 FY2026 revenue $69.15B (+11.6% YoY); net income +15% to $2.19B; EPS $4.93 missed $4.98 forecast by 1%. Membership fee income $1.37B (+10.7% YoY); 92.2% renewal rate; 82.9M total memberships (+4.1% YoY). Executive membership penetration grew 9.6% — stronger adoption of the higher-margin tier.",
-      "why": "好市多会员续费率92.2%创新高，高端消费者向折扣渠道转移趋势支撑防御属性；EPS小幅不及预期为正常季节性波动，不改长期持仓逻辑，sell-put策略可维持。",
-      "source": "Yahoo Finance",
-      "verified": true,
-      "keywords": [
-        "好市多",
-        "Costco",
-        "COST",
-        "会员店",
-        "仓储会员"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/news/costcos-membership-income-growth-reinforces-155900727.html",
-      "is_new": false,
-      "first_seen": "2026-07-17"
-    },
-    {
-      "id": "bf9c43f20a90bbcc",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:10",
-      "group": "个股",
-      "title": "老铺黄金较高峰市值蒸发逾1100亿港元跌60%；金价下探$4,000支撑叙事弱化",
-      "summary": "老铺黄金（6181.HK）近期报380-391港元，较2025年7月高峰1108港元累计跌幅超60%，市值蒸发逾1100亿港元。国际金价自1月高位大幅回调，近期跌向$4,000/盎司，市场强化「老铺与金价高度绑定」叙事而非独立奢侈品溢价。分析师平均目标价865港元，19/21评级仍买入。",
-      "why": "金价+品牌溢价双重叙事受挑战，股价已下跌60%；若油价高通胀环境推动金价反弹则有修复机会，但当前趋势下激进期权策略风险较大，建议保守观望。",
-      "source": "BigGo Finance",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "Laopu Gold",
-        "6181.HK",
-        "黄金",
-        "gold",
-        "金价"
-      ],
-      "translated": false,
-      "url": "https://finance.biggo.com/news/d69a4aba-3bf6-4518-97fd-401203843464",
-      "is_new": false,
-      "first_seen": "2026-07-17"
-    },
-    {
-      "id": "577fcf255711eb1c",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "11:20",
-      "group": "个股",
-      "title": "TAL Education to Report Q1 FY2027 Results on July 30, 2026",
-      "summary": "TAL Education Group (好未来) will release Q1 FY2027 financial results (ended May 31, 2026) before market open on July 30, with a conference call at 8am ET. No guidance or pre-announcement issued as of July 17. Company has been focusing on AI-powered learning tools including the Xueersi tablet.",
-      "why": "好未来7/30业绩在即，AI学习硬件市占是否持续扩张是观察核心；期权策略建议业绩前保持低仓位，等待数据验证。",
-      "source": "AOL / PR Newswire",
-      "verified": true,
-      "keywords": [
-        "好未来",
-        "TAL",
-        "TAL Education",
-        "学而思",
-        "AI教育"
-      ],
-      "translated": false,
-      "url": "https://www.aol.com/articles/tal-education-group-announce-first-090000000.html",
-      "is_new": false,
-      "first_seen": "2026-07-17"
-    },
-    {
-      "id": "8ac2d3171ddb96e9",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "7月16日收盘：美股收高道指涨150点 谷歌等大型科技股推动股指上扬",
-      "summary": "美股周三收高：道指+150.37点(+0.29%)报52658点，纳指+0.62%报26269点，标普500+0.38%报7572.40点。亚马逊、微软、Alphabet均涨约3%，苹果涨4%；6月PPI意外环比下降0.3%，降温通胀令市场降低对美联储加息预期。",
-      "why": "美股科技板块普涨、PPI超预期降温，整体风险偏好改善；但半导体板块逆势承压，sell put在科技名单存在浮盈需注意delta调整。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "S&P500",
-        "纳指",
-        "PPI",
-        "美联储",
-        "科技股"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtas1128289.shtml",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "8527899e4182f675",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Strait of Hormuz Crisis Threatens Global Trade, IEA's Birol Says",
-      "summary": "IEA Executive Director Fatih Birol warns the global economy faces renewed peril if the US-Iran conflict choking the Strait of Hormuz is not resolved within weeks. Just 6 vessels were tracked crossing the strait in an 18-hour window versus 18–22 crossings per day earlier this month.",
-      "why": "霍尔木兹通道中断将推高全球能源成本，对消费、交通（携程出行需求）及大宗商品定价形成冲击；石油服务板块短线受益，能源波动率上升利于期权方向性操作。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Hormuz",
-        "Iran",
-        "油价",
-        "IEA",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/iea-boss-warns-global-economy-in-peril-if-hormuz-crisis-persists",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "3c07e54f80c15606",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "14:00",
-      "group": "个股",
-      "title": "Intel Foundry Hits 85% Yield, Winning Chip Orders From AMD, Nvidia, OpenAI as ASML Validates High-NA EUV",
-      "summary": "Intel's 18A process node yield improved from ~65% to 85%, surpassing the commercial viability threshold, backed by ASML validation of Intel as the first company shipping high-volume chips via High-NA EUV. Design wins from AMD, Nvidia, OpenAI, and Apple were reported; Intel stock rose 4.5% with KeyBanc upgrading to Overweight, target $155.",
-      "why": "18A良率突破是英特尔代工业务的关键里程碑，将重估晶圆代工市场格局；INTC估值向上修正概率增大，7月23日财报为下一催化剂——sell put策略可考虑在业绩前布局。",
-      "source": "TechTimes",
-      "verified": true,
-      "keywords": [
-        "Intel",
-        "INTC",
-        "18A",
-        "代工",
-        "Foundry",
-        "AMD",
-        "英伟达",
-        "良率"
-      ],
-      "translated": false,
-      "url": "https://www.techtimes.com/articles/320581/20260715/intel-foundry-hits-85-yield-winning-chip-orders-asml-validates-high-na-euv.htm",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "1724622a41484ce5",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Micron Drops 8% on China Competition Fears, Dragging Intel, AMD, and Marvell",
-      "summary": "Micron (MU) shares fell 8% to $903.50 as Chinese DRAM maker ChangXin Memory Technologies (CXMT) filed for an $8.55 billion IPO — set to become the world's fourth-largest DRAM producer — and reports surfaced that Apple is testing CXMT chips for China-market devices. Intel, AMD, and Marvell fell 6–7% in sympathy.",
-      "why": "CXMT冲击令存储定价权受损叙事实质化，MU/SNDK均为持仓或关注标的；同时AMD/INTC连带下跌，可能为期权sell put策略带来正向时间价值机会。",
-      "source": "24/7 Wall St.",
-      "verified": true,
-      "keywords": [
-        "Micron",
-        "MU",
-        "CXMT",
-        "DRAM",
-        "中国存储",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://247wallst.com/investing/2026/07/15/micron-drops-8-on-china-competition-fears-dragging-intel-amd-and-marvell/",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "e2c7029e446f284c",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "Tencent HY3 Tops OpenRouter Charts: 6.13 Trillion Tokens Weekly, Surpassing DeepSeek V4 and Xiaomi MiMo",
-      "summary": "Tencent's Hunyuan Hy3 (a 295B MoE open model released July 6) claimed #1 on OpenRouter's weekly LLM usage leaderboard with 6.13 trillion tokens processed, surpassing Xiaomi MiMo-V2.5 and DeepSeek V4 Flash. The free-tier offer drove the surge; Hy3 shows leading performance in coding and agentic tasks.",
-      "why": "腾讯AI大模型竞争力显著提升，混元Hy3的全球调用量第一是重要里程碑，可提升腾讯云AI业务收入预期；这也强化了0700.HK在AI赛道的估值叙事。",
-      "source": "TechTimes",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "混元",
-        "Hunyuan",
-        "Hy3",
-        "OpenRouter",
-        "AI模型"
-      ],
-      "translated": false,
-      "url": "https://www.techtimes.com/articles/320292/20260713/tencent-hy3-tops-openrouter-charts-base-url-swap-runs-it-free-codex-cli.htm",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "507d7f9b18838f41",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "大盘头条",
-      "title": "港股午盘：恒指跌0.47%、科指跌1.42%，油服股逆势涨，中概股普涨名创优品涨逾9%",
-      "summary": "港股早盘走势分化：恒生指数跌0.47%，科技指数跌1.42%，科网股及芯片股普跌；石油服务股受美伊冲突推动油价上涨而逆势强势。美国上市中概股（港股通方向）普涨，名创优品涨超9%，哔哩哔哩涨超5%。",
-      "why": "港股科技与大盘同步受压，但中概股结构性走强，可关注持有的港股标的（腾讯、美团等）是否受波及；油服板块受益于地缘危机。",
-      "source": "东方财富",
-      "verified": false,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "科技指数",
-        "中概股",
-        "油服股"
-      ],
-      "translated": false,
-      "url": "https://caifuhao.eastmoney.com/news/20260715233932091412340",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "75c143a50d007069",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "15:00",
-      "group": "个股",
-      "title": "SanDisk (SNDK) Breaks $1,500 Support on China NAND Competition Fears; Shares Down 5.7%",
-      "summary": "SanDisk (SNDK) fell 5.71% on July 15, breaching the critical $1,500 support level amid the same Chinese memory competition worries driving Micron lower. SNDK is now down 28% from its 52-week high despite year-to-date gains of 508%; the stock is tied to NAND pricing dynamics with Kioxia joint fab operations also under scrutiny.",
-      "why": "闪迪与美光同受中国NAND产能威胁冲击，两者均为关注名单标的；SNDK期权隐含波动率或上升，短期sell put需谨慎对待支撑破位后的进一步下探风险。",
-      "source": "FX Leaders",
-      "verified": true,
-      "keywords": [
-        "SanDisk",
-        "SNDK",
-        "NAND",
-        "闪存",
-        "中国竞争",
-        "存储"
-      ],
-      "translated": false,
-      "url": "https://www.fxleaders.com/news/2026/07/15/sandisk-sndk-stock-retests-1500-as-memory-fears-on-nand-competition-return-and-supply-risks/",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "U.S. confirms Nvidia H200 AI chip exports to China begun; ~10 firms approved for up to 75,000 chips each",
-      "summary": "Commerce Dept confirmed H200 exports to China are underway but described volume as 'trivial.' ~10 Chinese firms approved (Alibaba, Tencent, ByteDance among them) for up to 75,000 chips each via Nvidia, Lenovo, or Foxconn. Total approved volume under 200,000 chips. A 25% tariff applies. Lawmakers pressing on 'Blackwell loophole.'",
-      "why": "H200出口许可是中国AI基础设施的重要突破：直接利好英伟达短期订单，阿里/腾讯获批加速云AI投入，对两者HK持仓均为正面催化；关注NVDA期权IV走向。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Nvidia",
-        "英伟达",
-        "H200",
-        "China",
-        "AI chips",
-        "export license",
-        "NVDA"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/small-amount-of-nvidia-ai-chips-shipped-to-china-with-us-license",
-      "id": "38ea2d0615befe4c",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "Xiaomi officially launches SkyNomad EREV brand targeting Li Auto; July EV deliveries exceed 30,000",
-      "summary": "Xiaomi launched SkyNomad (小米蓬程) as its EREV sub-brand on July 14, targeting Li Auto L-series and Huawei Aito. First model is a 5.3m+ SUV with 1,500km+ combined range and pop-up roof camping edition. Total July EV deliveries (SU7+YU7) exceed 30,000; cumulative YU7 deliveries reached 258,232 since June 2025 launch.",
-      "why": "小米汽车7月突破3万辆/月交付门槛，SkyNomad新增程品牌将估值空间进一步打开；今日小米股价涨超6%是市场用脚投票；sell put安全垫充足。",
-      "source": "Investing.com / Electrek",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "SkyNomad",
-        "YU7",
-        "SU7",
-        "EREV",
-        "雷军"
-      ],
-      "translated": false,
-      "url": "https://uk.investing.com/news/stock-market-news/xiaomi-delivers-over-30000-evs-in-july-after-yu7-launch-4195962",
-      "id": "ebb15a34fdbff296",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "Google Gemini 3.5 Pro launches tomorrow (July 17) after full architectural rebuild; Alphabet Q2 earnings July 22",
-      "summary": "Google DeepMind rebuilt Gemini 3.5 Pro from scratch after scrapping 2.5 Pro architecture due to failures in recursive tool-calling and SVG generation. New architecture targets 2M-token context and Deep Think Reasoning. Competing against OpenAI GPT-5.6 Sol and Grok 4.5 (both launched July 9). Alphabet Q2 earnings due July 22.",
-      "why": "Gemini 3.5 Pro明日发布+财报下周，形成双重催化窗口；若AI能力获认可，GOOGL财报前IV将上升，可考虑财报前sell straddle或short strangle策略。",
-      "source": "Tech Times",
-      "verified": false,
-      "keywords": [
-        "Google",
-        "谷歌",
-        "Alphabet",
-        "GOOGL",
-        "Gemini",
-        "AI",
-        "earnings"
-      ],
-      "translated": false,
-      "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm",
-      "id": "3b0670e71c478da5",
-      "is_new": false,
-      "first_seen": "2026-07-16"
     }
   ]
 }
