@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-20 18:15 (北京时间)",
+  "updated_at": "2026-07-21 08:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -40,6 +40,238 @@
       "tier": 1,
       "lang": "en",
       "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "ASML Q2 2026 Beats: Net Sales EUR 9.3B, Raises 2026 Outlook to EUR 43-45B; Intel Foundry Confirmed Using High-NA EUV for 18A",
+      "summary": "ASML reported Q2 2026 net sales of EUR 9.3B and net income of EUR 2.9B, raising 2026 full-year net sales guidance to EUR 43B-45B. ASML confirmed Intel Foundry is now mass-producing Panther Lake client CPUs on 18A process using high-NA EUV lithography — a critical milestone for Intel's foundry turnaround ahead of INTC Q2 earnings on July 23.",
+      "why": "ASML业绩验证AI算力资本开支持续景气；英特尔18A量产确认是代工业务拐点信号，关注INTC Q2（7/23）能否引发估值修复行情。",
+      "source": "ASML / SEC EDGAR 6-K",
+      "verified": true,
+      "keywords": [
+        "ASML",
+        "Intel",
+        "INTC",
+        "高NA EUV",
+        "18A",
+        "Panther Lake",
+        "半导体",
+        "代工",
+        "foundry"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026048235/presentationinvestorrela.htm",
+      "id": "7d9be1b0d9f6e7fe",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "美伊军事冲突持续：美国对伊朗沿海防线发动多轮空袭，油价维持近月高位，美股承压",
+      "summary": "美国持续空袭伊朗沿海防线及导弹基地，布伦特原油维持近一个月高位约84美元；标普500于7月20日跌0.19%至7,443，道指跌307点；伊朗警告可能动员胡塞武装封锁红海原油通道，霍尔木兹海峡航运大幅萎缩。",
+      "why": "地缘冲突推升油价与通胀预期，令美联储下周加息概率上升；市场波动率抬头对Sell Put持仓构成Gamma风险，需关注VIX动向。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "美伊冲突",
+        "油价",
+        "标普500",
+        "美股",
+        "地缘风险"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates",
+      "id": "d940b8efe0e566e5",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "英特尔INTC：Q2财报7月23日发布，预期EPS 0.20美元（去年同期-0.10美元），高NA EUV量产确认利多",
+      "summary": "英特尔Q2财报将于7月23日发布：预期营收143亿美元（+11% YoY），EPS 0.20美元 vs 上年-0.10美元；ASML已确认英特尔18A节点采用高NA EUV量产Panther Lake处理器，产能改善；AMD数据中心Q1首超英特尔（58亿 vs 51亿美元）竞争压力持续。",
+      "why": "18A量产落地是代工故事关键拐点，若Q2超预期可带动估值修复；AMD竞争与台积电份额保卫是潜在下行风险。",
+      "source": "The Motley Fool",
+      "verified": false,
+      "keywords": [
+        "英特尔",
+        "Intel",
+        "INTC",
+        "18A",
+        "高NA EUV",
+        "财报",
+        "Q2",
+        "代工",
+        "Panther Lake"
+      ],
+      "translated": false,
+      "url": "https://www.fool.com/investing/2026/07/20/asml-has-terrific-news-for-intel-investors-that-co/",
+      "id": "6a2e93b9c1549ed8",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "特斯拉TSLA Q2财报将于7月22日盘后发布：480K交付创纪录，期权隐含波动7.6%超历史均值",
+      "summary": "特斯拉Q2交付量480,126辆（同比+25%）再创历史新高；分析师预期Q2营收约258亿美元、EPS约0.52美元（同比+30%）；财报前期权隐含涨跌幅达7.6%，高于历史均值4.4%；市场重点关注汽车毛利率恢复、Robotaxi扩张及Optimus进展。",
+      "why": "财报前高隐波是Sell Put或Covered Call的时间价值收割窗口；若毛利率改善超预期则下行风险有限，反之需控制仓位。",
+      "source": "TradingKey",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "财报",
+        "Q2",
+        "交付量",
+        "隐含波动",
+        "Robotaxi",
+        "FSD",
+        "马斯克"
+      ],
+      "translated": false,
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262039494-tesla-tsla-q2-2026-earnings-preview-july-22-480k-deliveries-tradingkey",
+      "id": "2a66cd527d237a0d",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股恒生指数7月21日大涨582点（+2.4%）至25,143，中资科技消费全线反弹",
+      "summary": "恒指7月21日急弹582点收于25,143点，为亚洲表现最强主要指数；腾讯涨3.5%、美团涨3.2%、小米涨3.2%、快手涨4.6%；北京宣布两大国有基金新增增持权益，A股情绪联动提振，中资科技与消费板块集体走强。",
+      "why": "核心港股持仓（腾讯、美团、小米等）当日普遍上行，短期Sell Put行权压力缓解；但单日急涨后需注意隐含波动率收缩窗口。",
+      "source": "The Standard HK",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "腾讯",
+        "美团",
+        "小米",
+        "中资科技"
+      ],
+      "translated": false,
+      "url": "https://www.thestandard.com.hk/finance/article/337683/HSI-rises-over-580-points-to-above-25000-mark",
+      "id": "8fe26db1cb828276",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "个股",
+      "title": "阿里巴巴9988.HK：发布通义千问Qwen3.8（2.4万亿参数），盘中涨3.7%，AI溢价尚未充分体现",
+      "summary": "阿里巴巴发布通义千问Qwen3.8开源模型，参数规模达2.4万亿，将开放权重并率先接入代码工具；港股9988当日收涨3.7%至HK$116.80，上周累涨约17.7%；分析师指AI溢价尚未充分体现于当前估值。",
+      "why": "Qwen系列持续迭代强化阿里云护城河，开放权重策略可加速企业渗透；阿里云AI与淘天电商双轮驱动，中期估值重估空间明显。",
+      "source": "ts2.tech",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988",
+        "Qwen3.8",
+        "通义千问",
+        "阿里云",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://ts2.tech/en/alibaba-hkg9988-shares-gain-3-7-after-qwen3-8-launch-ai-premium-remains-modest/",
+      "id": "3148a83ca2c19270",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "个股",
+      "title": "英伟达NVDA跌破200美元关键支撑；DeepSeek传言自研AI芯片；费城半导体指数确认技术熊市",
+      "summary": "NVDA跌至200美元支撑位附近，据路透社DeepSeek正秘密研发自有AI芯片以减少对Nvidia依赖，为今年第三次国产硅利空；费城半导体指数（SOX）较6月高点累跌逾20%进入技术熊市，本周周线跌约10%；Nvidia 2026财年创纪录营收2,160亿美元（+65% YoY）。",
+      "why": "DeepSeek自研芯片若规模化落地将压制NVDA长期定价权；SOX技术熊市信号影响持有AI芯片期权的仓位管理，需关注Vega风险。",
+      "source": "FX Leaders",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "DeepSeek",
+        "AI芯片",
+        "GPU",
+        "费城半导体指数",
+        "SOX",
+        "Blackwell"
+      ],
+      "translated": false,
+      "url": "https://www.fxleaders.com/news/2026/07/20/nvidia-stock-nvda-tests-200-support-as-chinese-ai-competition-shakes-the-chip-rally/",
+      "id": "b38d8bc2a9f8293d",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "比特币跌至约60,000美元关口，加密市场承压于ETF净赎回与美联储加息预期",
+      "summary": "比特币跌入60,000美元区间，以太坊在1,750-1,800美元区间徘徊；美联储加息预期上升、ETF净赎回及资本轮动至AI资产形成三重压力；Standard Chartered维持年末100,000美元目标，但市场共识偏向70,000-75,000美元。",
+      "why": "加密市场疲软影响Circle/USDC业务环境；GENIUS Act落地使稳定币监管框架更清晰，但整体加密Beta下行需控制CRCL仓位风险。",
+      "source": "Yahoo Finance",
+      "verified": false,
+      "keywords": [
+        "比特币",
+        "Bitcoin",
+        "加密货币",
+        "USDC",
+        "稳定币",
+        "ETF",
+        "Circle"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html",
+      "id": "e3b5a568daff0923",
+      "is_new": true,
+      "first_seen": "2026-07-21"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
         "US",
         "HK",
         "A"
@@ -61,7 +293,7 @@
       ],
       "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
       "id": "a156cd9fc03ec879",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -88,7 +320,7 @@
       ],
       "url": "https://wolfstreet.com/2026/07/19/30-year-treasury-yield-still-5-06-30-year-tips-yield-highest-since-2010-reintroduction-yield-curve-prepped-for-rate-hike-this-year/",
       "id": "90493e68e0af34e5",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -117,7 +349,7 @@
       ],
       "url": "https://www.bloomberg.com/news/articles/2026-07-14/cxmt-prices-shanghai-star-board-ipo-at-8-66-yuan-per-share",
       "id": "e6654532f60af148",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -146,7 +378,7 @@
       ],
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-tightens-asian-customer-approvals-105148051.html",
       "id": "27886335e2da6a3e",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -175,7 +407,7 @@
       ],
       "url": "https://www.brecorder.com/news/40430501/china-stocks-tumble-as-cxmts-86-billion-ipo-stirs-liquidity-concerns",
       "id": "5c3f0d94f2206e80",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -202,7 +434,7 @@
       ],
       "url": "https://www.washingtonpost.com/business/2026/07/17/wall-street-stocks-dow-nasdaq/64463f38-821d-11f1-8a16-393bd03340b0_story.html",
       "id": "f3862aa4008a5c16",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -231,7 +463,7 @@
       ],
       "url": "https://www.caproasia.com/2026/07/20/futu-online-investment-trading-platform-moomoo-singapore-reports-1-growth-in-retail-private-wealth-institutional-business-with-private-wealth-aum-158-yoy-40-external-asset-managers-eams-o/",
       "id": "f132e7c3058a909d",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -260,7 +492,7 @@
       ],
       "url": "https://news.skhynix.com/en/12-layer-hbm4e-sample-1/",
       "id": "a3f54ba3bf3db7ea",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -291,7 +523,7 @@
       ],
       "url": "https://technode.com/2026/06/12/pop-marts-labubu-makes-a-surprise-appearance-at-the-2026-fifa-world-cup-opening-ceremony/",
       "id": "c102c5101952903b",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -320,7 +552,7 @@
       ],
       "url": "https://hk.finance.yahoo.com/news/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9C%A8%E7%BE%8E%E9%A6%96%E5%BA%97%E8%90%BD%E8%85%B3%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%A5%BD%E8%90%8A%E5%A1%A2-%E4%B8%AD%E5%9C%8B%E8%8C%B6%E9%A6%AE%E5%85%A8%E7%90%83%E5%8C%96%E5%86%8D%E4%B8%8B-%E5%9F%8E-075003171.html",
       "id": "02753d05c5a23c30",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -348,7 +580,7 @@
       ],
       "url": "https://www.fool.com/investing/2026/07/19/interactive-brokers-grew-its-customer-accounts-34/",
       "id": "f76ca1a51d63527a",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -378,7 +610,7 @@
       ],
       "url": "https://www.sahmcapital.com/news/content/how-investors-are-reacting-to-tripcom-group-tcom-adding-500000-vip-event-packages-through-seat-unique-2026-07-15",
       "id": "a44be22a19475e88",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-20"
     },
     {
@@ -3981,223 +4213,6 @@
       "translated": false,
       "url": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifmrts2641609.shtml",
       "id": "ad95d817d6c98d78",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "拼多多2025年净利润首次同比下降12%，Temu受de minimis取消重挫；2026年GMV目标1300亿美元",
-      "summary": "拼多多2025年净利润首次下降（同比约-12%），主因Temu在美国de minimis豁免取消后物流成本飙升，欧盟7月起取消150欧元免税带来新一轮压力。2026年GMV目标1300亿美元（+50%）。PDD另创设新品牌部门「新拼木」，首期投资150亿元，三年规划1000亿元。",
-      "why": "拼多多净利下降打破持续增长神话；Temu成本结构挑战持续，对PDD期权策略需保守对待下行风险，同时新拼木品牌战略是否能打开新增长空间值得持续跟踪。",
-      "source": "虎嗅",
-      "verified": false,
-      "keywords": [
-        "拼多多",
-        "PDD",
-        "Temu",
-        "de minimis",
-        "跨境电商",
-        "出海"
-      ],
-      "translated": false,
-      "url": "https://www.huxiu.com/article/4845742.html",
-      "id": "14a10ab35734b402",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股创新药/CXO板块全线爆发，成7月15日盘面新热点，接棒科技汽车",
-      "summary": "7月15日港股，恒生指数与国企指数均涨超1%。创新药、CXO（合同研究）板块强势领涨，成为市场新主线热点，君实生物涨超10%引领板块。",
-      "why": "港股医药板块资金轮动显现，若行情持续则科技+医药双轮驱动形成；关注创新药龙头IV走高对现有put策略的影响。",
-      "source": "每日经济新闻",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "创新药",
-        "CXO",
-        "医药",
-        "君实生物"
-      ],
-      "translated": false,
-      "url": "https://www.nbd.com.cn/articles/2026-07-15/4473471.html",
-      "id": "fafcd1edba1936af",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "Apple Intelligence approved for launch in China with Alibaba's Qwen AI",
-      "summary": "China's CAC approved Apple Intelligence for Chinese users powered by Alibaba's Qwen AI, covering iOS/iPadOS/macOS/visionOS. BABA surged ~5-6% in pre-market on the news.",
-      "why": "Apple与阿里云通义千问深度绑定，利好阿里云AI商业化，同时提振iPhone在华需求；BABA单日+7.65%，持仓影响显著。",
-      "source": "TechCrunch",
-      "verified": false,
-      "keywords": [
-        "Apple Intelligence",
-        "Alibaba",
-        "通义千问",
-        "阿里云",
-        "China AI"
-      ],
-      "translated": false,
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "id": "728c264966d1b7db",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "TSMC Reports 36% Sales Growth as AI Demand Stays Strong",
-      "summary": "TSMC Q2 2026 revenue $39.62B (+36% YoY), with AI chips now comprising 61% of total sales, validating sustained demand for Nvidia Blackwell/Rubin platforms.",
-      "why": "台积电Q2强劲确认AI芯片超级周期，英伟达Vera Rubin产能排期无忧，利好整条AI供应链及相关持仓标的期权溢价。",
-      "source": "Yahoo Finance",
-      "verified": false,
-      "keywords": [
-        "TSMC",
-        "AI chips",
-        "英伟达",
-        "Blackwell",
-        "Rubin"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-reports-36-sales-growth-171805440.html",
-      "id": "62887e6038d707bd",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "ASML raises 2026 guidance second time, beats Q2 earnings on AI chip demand",
-      "summary": "ASML Q2 2026 net sales EUR 9.3B (beat consensus); full-year 2026 guidance raised for the second time to EUR 43-45B (from EUR 36-40B), driven by AI-related demand for advanced logic and memory equipment.",
-      "why": "ASML二度上调指引意味着台积电/SK海力士HBM产能扩张超预期，是半导体设备最强领先指标，利好存储和AI芯片整条链。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "ASML",
-        "EUV",
-        "半导体设备",
-        "AI芯片",
-        "指引上调"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
-      "id": "0a382aad2a32a0e8",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "Alibaba (BABA) Stock Forecast July 2026: Four Catalysts Drove 12% in Two Days",
-      "summary": "BABA surged 12% over two days on four catalysts: $600M DOJ settlement, Pentagon procurement reprieve, narrowing instant-commerce losses, and access to Nvidia H200 chips. Alibaba Cloud grew 38% YoY in Q4 FY2026, with AI products at 30% of external cloud revenue.",
-      "why": "法律及监管双重压制解除，AI云基本面持续兑现，BABA估值重估逻辑明确，亦利好阿里云期权链隐含波动率。",
-      "source": "TradingKey",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "BABA",
-        "DOJ",
-        "阿里云",
-        "H200",
-        "通义千问"
-      ],
-      "translated": false,
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262022410-alibaba-baba-stock-forecast-july-2026-doj-settlement-cloud-h200-tradingkey",
-      "id": "8b636b3aaf28d557",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "个股",
-      "title": "Tesla scores best-ever Q2: 480,126 deliveries (+25% YoY), earnings call July 22",
-      "summary": "Tesla Q2 2026 deliveries: 480,126 vehicles (+25% YoY, beating Wall Street by 74,000) and 13.5 GWh energy storage deployed (+53% QoQ). Q2 financial results call confirmed for July 22 at 5:30PM ET.",
-      "why": "Q2大幅超预期确立交付反弹趋势，储能业务同步爆发；7月22日财报催化剂在即，TSLA期权隐含波动率料将抬升。",
-      "source": "Tesla Oracle",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Q2",
-        "交付量",
-        "储能",
-        "财报"
-      ],
-      "translated": false,
-      "url": "https://www.teslaoracle.com/2026/07/15/tesla-tsla-scores-the-best-2nd-quarter-ever-energy-business-spikes-announces-q2-2026-earnings-call-schedule/",
-      "id": "fa643589b7156a21",
-      "is_new": false,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "腾讯秘密开发微信AI智能体，拟三季度全量上线",
-      "summary": "腾讯正为微信秘密研发AI智能体（代号Xiaowei），计划Q3 2026向14亿月活用户全量推出，用户可通过语音/文字调用小程序完成支付、订餐等任务；上线节奏取决于监管审批。",
-      "why": "微信AI智能体是腾讯下半年最重要催化剂，覆盖14亿用户，有望驱动广告、支付、腾讯云三大业务再上台阶；大摩已将此列为核心超配逻辑。",
-      "source": "网易新闻",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "微信",
-        "WeChat",
-        "AI智能体",
-        "Xiaowei",
-        "0700.HK"
-      ],
-      "translated": false,
-      "url": "https://c.m.163.com/news/a/KNNVAJ1A05566WT8.html",
-      "id": "ee5356aacf2c805b",
       "is_new": false,
       "first_seen": "2026-07-16"
     }
