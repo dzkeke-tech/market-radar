@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-22 13:14 (北京时间)",
+  "updated_at": "2026-07-22 18:13 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,213 @@
   "positions": [],
   "items": [
     {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "FOMC July 28-29 meeting: CPI hits 4.2%, market pricing 25-46% chance of rate hike",
+      "summary": "The upcoming July 28-29 FOMC meeting faces a challenging backdrop: CPI rose to 4.2% YoY in mid-July, its highest since April 2023, fueled by oil prices and Middle East supply risks. Fed funds rate is at 3.5-3.75%. Market-implied probability of a 25bp hike at the meeting has risen to 25-46%.",
+      "why": "FOMC若意外加息或鹰派措辞，将压制高估值科技股，拉升期权隐含波动率，影响Sell Put策略的风险收益比，需密切关注。",
+      "source": "Forbes / FedRateCalc",
+      "verified": false,
+      "keywords": [
+        "FOMC",
+        "CPI",
+        "interest rate",
+        "inflation",
+        "Fed"
+      ],
+      "translated": false,
+      "url": "https://fedratecalc.com/next-fomc-meeting/",
+      "id": "08c2e6d82c23c7d1",
+      "is_new": true,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Dow, S&P 500, Nasdaq futures slide as oil rises; Alphabet and Tesla earnings on deck tonight",
+      "summary": "US equity futures slipped Wednesday morning as Brent crude surged above $92, raising inflation concerns. S&P 500 had closed at 7,509 Tuesday (+0.89%). Alphabet (GOOGL) and Tesla (TSLA) report Q2 results after the bell, marking the start of Big Tech earnings season.",
+      "why": "大科技财报周开幕，两家核心持仓或关注标的今晚同时公布业绩，结果将直接影响科技板块情绪与期权隐含波动率。",
+      "source": "Yahoo Finance",
+      "verified": false,
+      "keywords": [
+        "S&P 500",
+        "Nasdaq",
+        "earnings week",
+        "big tech"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-083644887.html",
+      "id": "2198b8d4f512a8a8",
+      "is_new": true,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Oil prices jump 4% as Rubio says Iran not serious about peace talks",
+      "summary": "Brent crude spiked to ~$94.20 on Wednesday as Sec. of State Rubio signaled Iran is not serious about negotiations, following the 11th consecutive night of US strikes on Iran. Kuwait air defenses intercepted Iranian drones. Oil settled at a five-week high the prior session.",
+      "why": "油价飙涨推高通胀预期，叠加FOMC 7月28-29日会议前夕，市场对加息概率预期上升，整体压制风险资产估值，对科技股持仓不利。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "oil",
+        "Iran",
+        "geopolitics",
+        "Brent",
+        "Middle East"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
+      "id": "2088e49ef4d755e2",
+      "is_new": true,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "14:30",
+      "group": "大盘头条",
+      "title": "港股午后跌势加剧，恒生科技指数跌超3%",
+      "summary": "7月22日午后港股全线走弱，恒生科技指数跌幅扩大至超3%，互联网、半导体等科技权重股集体承压。",
+      "why": "持有腾讯、阿里、美团等港股科技仓位，跌超3%加大账面浮亏压力，亦可能提升短腿Sell Put被行权风险。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "恒生科技",
+        "港股",
+        "HK"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/2026-07-22/doc-iniisawc2069122.shtml",
+      "id": "08853ba2b616fb79",
+      "is_new": true,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "20:30",
+      "group": "个股",
+      "title": "Alphabet (GOOGL) Q2 2026 Earnings Tonight: Consensus EPS $2.89, Revenue $116.8B; Google Cloud 63-65% Growth in Focus",
+      "summary": "Alphabet reports Q2 2026 results after market close Wednesday. Analyst consensus: EPS $2.89 on revenue $116.84B (41 analysts). Google Cloud expected to sustain ~63-65% YoY growth. Alphabet guided ~$190B in AI capex for 2026, putting pressure on margins. Earnings call at 1:30pm PT.",
+      "why": "谷歌云增速是AI基础设施变现的风向标，若高于预期将提振整体科技板块情绪，间接利好持有腾讯/阿里云等中国科技云业务标的。",
+      "source": "Alphastreet / IG International",
+      "verified": false,
+      "keywords": [
+        "Alphabet",
+        "Google",
+        "GOOGL",
+        "Q2 earnings",
+        "Google Cloud",
+        "AI capex"
+      ],
+      "translated": false,
+      "url": "https://news.alphastreet.com/alphabet-googl-q2-2026-preview-eps-est-2-89-reports-july-22/amp/",
+      "id": "cae7180cedcd8e2b",
+      "is_new": true,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "07:35",
+      "group": "大盘头条",
+      "title": "证监会主席吴清会见加拿大养老基金投资公司CEO，释放外资开放信号",
+      "summary": "7月22日，证监会主席吴清在北京会见加拿大养老基金投资公司（CPPIB）总裁兼首席执行官格雷厄姆，就深化资本市场合作交换意见。",
+      "why": "外资养老金巨头持续与证监会高层互动，表明机构长期看好A股，对市场情绪形成正向支撑。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "证监会",
+        "吴清",
+        "加拿大养老金",
+        "外资",
+        "开放"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-22/doc-iniisieh4817573.shtml",
+      "id": "e4b91cded2c3542c",
+      "is_new": true,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Tesla Expands Robotaxi Service to Orlando and Tampa Ahead of Q2 Earnings",
+      "summary": "Tesla announced July 21 the expansion of its autonomous ride-hailing service to Orlando and Tampa, adding to Austin, Dallas, Houston and Miami. The service operates in Florida, California and Texas. CEO Musk noted meaningful revenue contribution not expected until next year.",
+      "why": "Robotaxi里程碑是Tesla长期估值叙事的核心支撑，今晚Q2业绩电话会预计Musk将更新Optimus与自动驾驶进展，需关注对TSLA期权定价的影响。",
+      "source": "GuruFocus",
+      "verified": false,
+      "keywords": [
+        "Tesla",
+        "TSLA",
+        "Robotaxi",
+        "FSD",
+        "autonomous"
+      ],
+      "translated": false,
+      "url": "https://www.gurufocus.com/news/8969463/tesla-expands-robotaxi-service-to-florida-cities-stock-rises-tsla",
+      "id": "6de0efccd19970ac",
+      "is_new": true,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "个股",
+      "title": "Intel (INTC) Surges ~8% on Tuesday: 18A Yield at 85%, Fortinet Joins as First Cybersecurity Foundry Customer",
+      "summary": "Intel stock closed up ~8% to $105.45 on Tuesday as three catalysts converged: 18A process yield reportedly rose to ~85% (nearing TSMC's 90% benchmark), Fortinet became the first cybersecurity firm to place foundry orders, and Google confirmed Xeon chip use. Q2 earnings are due Thursday July 23. Intel is up over 160% YTD.",
+      "why": "英特尔18A代工进展提速，可能重塑半导体代工竞争格局，对英伟达GPU供应链和AI芯片赛道有关联影响；明日Q2业绩将是年内最重要催化剂。",
+      "source": "TradingKey / FX Leaders",
+      "verified": false,
+      "keywords": [
+        "Intel",
+        "INTC",
+        "18A",
+        "foundry",
+        "Fortinet",
+        "earnings"
+      ],
+      "translated": false,
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262045233-intel-intc-stock-surged-8-percent-july-22-2026-xeon-google-earnings-tradingkey",
+      "id": "a924f4af5879f548",
+      "is_new": true,
+      "first_seen": "2026-07-22"
+    },
+    {
       "id": "9c9475eb87c92fec",
       "tier": 1,
       "lang": "zh",
@@ -58,7 +265,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/wm/2026-07-21/doc-iniiqkpa8157869.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -83,7 +290,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/stock/y/2026-07-22/doc-iniirshq4695703.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -111,7 +318,7 @@
       ],
       "translated": false,
       "url": "https://finance.yahoo.com/technology/article/google-parent-alphabet-to-report-q2-earnings-in-latest-test-of-ai-trade-110000124.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -137,7 +344,7 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -167,7 +374,7 @@
       ],
       "translated": false,
       "url": "https://247wallst.com/investing/2026/07/21/sk-hynix-rockets-14-ahead-of-july-29-earnings-as-chip-stocks-rebound/",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -193,7 +400,7 @@
       ],
       "translated": false,
       "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260617.htm",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -220,7 +427,7 @@
       ],
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/21/intel-foundry-lands-fortinet-as-first-customer-for-security-chips.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -248,7 +455,7 @@
       ],
       "translated": false,
       "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-shares-climb-nvidia-reveals-105253442.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -277,7 +484,7 @@
       ],
       "translated": false,
       "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262041092-intel-intc-q2-2026-earnings-preview-july-23-163-percent-ytd-tradingkey",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -305,7 +512,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniimuyh8247245.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -4004,231 +4211,6 @@
       "id": "a1989be7d103ec92",
       "is_new": false,
       "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "小米规划增程SUV新系列「澎程SkyNomad」，拟推五座与七座两款车型",
-      "summary": "据报道，小米汽车计划推出全新增程式SUV系列「SkyNomad 小米澎程」，以区别于SU7/YU7的纯电驾驶定位；澎程系列初步规划推出五人座和七人座两款车型，拓展家用大空间赛道，预计进一步扩大小米汽车的目标客群。",
-      "why": "增程赛道在国内增长迅速，小米切入此赛道将进一步拓宽汽车业务规模；中长期对1810.HK营收和估值具有积极意义。",
-      "source": "Yahoo财经台湾",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810",
-        "澎程",
-        "SkyNomad",
-        "增程",
-        "SUV"
-      ],
-      "translated": false,
-      "url": "https://tw.stock.yahoo.com/news/%E5%B0%8F%E7%B1%B3%E6%93%AC%E6%8E%A8%E6%BE%8E%E7%A8%8Bsuv%E7%B3%BB%E5%88%97-%E8%A6%8F%E5%8A%83%E4%BA%94%E4%BA%BA-%E4%B8%83%E4%BA%BA%E5%BA%A7%E5%A2%9E%E7%A8%8B%E8%BB%8A%E5%9E%8B-032500730.html",
-      "id": "9621d120a5d04d29",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "10:30",
-      "group": "大盘头条",
-      "title": "美国AI芯片出口管制6月全面升级，中国企业境外子公司采购英伟达/AMD先进芯片须申请许可",
-      "summary": "2026年6月，美国BIS发布新指引明确：向中国大陆/澳门注册实体及其境外母公司控制的海外子公司出口先进AI芯片，均须申请许可证，堵塞此前存在近一年的监管漏洞；同期美众议院通过法案禁止中国企业通过云计算远程调用美国AI算力；中国加速推进华为昇腾、寒武纪等国产替代路线。",
-      "why": "对英伟达（NVDA）、AMD的中国市场营收产生直接负面影响；对腾讯、阿里等AI基础设施扩张形成约束；利好国内AI芯片替代路线相关A股标的。",
-      "source": "VOA中文 / 新浪财经 / 安全内参",
-      "verified": true,
-      "keywords": [
-        "AI芯片",
-        "出口管制",
-        "英伟达",
-        "Nvidia",
-        "BIS",
-        "中国",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://www.voachinese.com/a/us-takes-step-to-halt-ai-chips-to-chinese-firms-outside-china-20260601/8156110.html",
-      "id": "e3c24cdae40204a5",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "英伟达FY2026全年营收2159亿美元（+65%），数据中心占比91%，远期PE约23倍创近7年最低",
-      "summary": "英伟达FY2026全年营收2159.4亿美元（同比+65%），其中数据中心1940亿美元（+75%），占总营收约91%；当前市值约4.7万亿美元，远期PE约23倍（历史5年均值约72倍），估值罕见低位表明盈利增速持续超越股价涨幅；Rubin架构预计提前约两季推出；公司获得客户确认的AI芯片需求承诺超1万亿美元（至2027年）。",
-      "why": "NVDA是持仓标的；超低远期PE与千亿级别订单确认为逢低策略提供估值支撑，结合当前SOX板块系统性下跌，或为sell put/逢低买入期权策略提供较好时机窗口。",
-      "source": "Intellectia AI / Motley Fool",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "FY2026",
-        "数据中心",
-        "GPU",
-        "AI芯片",
-        "Blackwell"
-      ],
-      "translated": false,
-      "url": "https://intellectia.ai/blog/nvidia-stock-analysis-july-2026",
-      "id": "21b6f798acf2d37d",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "AI Memory Chip Stocks Tumble: SK Hynix -13%, SanDisk -12%, Micron -5% as CXMT IPO Looms",
-      "summary": "SK Hynix fell 11.5% in Seoul and ~13% in US premarket; SanDisk (SNDK) sank 12%; Micron (MU) fell 5%+ as China's CXMT 295B-yuan STAR Market IPO spooks investors. Memory stocks have dropped 20%+ from recent highs, entering a technical bear market despite TSMC's strong results.",
-      "why": "存储芯片股进入技术性熊市，SK海力士(7709.HK)、美光(MU)直接持仓受损；CXMT上市后竞争格局压力是主要叙事，期权隐含波动率显著上升",
-      "source": "Seeking Alpha / CNBC / 24/7 Wall St.",
-      "verified": true,
-      "keywords": [
-        "SK Hynix",
-        "SanDisk",
-        "Micron",
-        "HBM",
-        "DRAM",
-        "CXMT",
-        "存储芯片"
-      ],
-      "translated": false,
-      "url": "https://seekingalpha.com/news/4614379-ai-memory-chip-stocks-dip-again-as-south-korean-peers-slump-despite-strong-tsm-results",
-      "id": "fcc28552cf8a5faf",
-      "is_new": false,
-      "first_seen": "2026-07-17"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "TSMC Q2 2026: Record Revenue $40.2B (+33.7% YoY), AI/HPC Now 66% of Sales, N2 Ramp on Track",
-      "summary": "TSMC Q2 revenue reached $40.2B (top of $39-40.2B guidance), up 33.7% YoY, driven by surging AI demand. HPC platform grew to 66% of revenue. N2 technology ramping; additional N3 capacity investments in Taiwan, Arizona, and Japan. Strong Q3 outlook issued.",
-      "why": "台积电强劲业绩验证AI芯片需求持续旺盛，但未能阻止存储股下跌说明资金正从存储切向先进制程；英伟达AI算力供应链逻辑获强化",
-      "source": "TSMC Investor Relations",
-      "verified": true,
-      "keywords": [
-        "TSMC",
-        "台积电",
-        "AI芯片",
-        "HPC",
-        "N2",
-        "数据中心"
-      ],
-      "translated": false,
-      "url": "https://investor.tsmc.com/english/quarterly-results/2026/q2",
-      "id": "db24b3aeed4e2725",
-      "is_new": false,
-      "first_seen": "2026-07-17"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "Netflix Q2 2026 Earnings: Revenue Slight Miss, Weak Q3 Outlook Send Shares Down 8%+",
-      "summary": "Netflix Q2 revenue $12.6B grew 13% YoY but slightly missed consensus; Q3 revenue growth guided at 12% (deceleration). Shares tumbled 8%+ after-hours on growth slowdown concerns. Full-year 2026 guidance narrowed to $51-51.4B.",
-      "why": "流媒体龙头增长减速，Q3指引低于预期触发估值重估，高IV环境对科技股期权策略有警示意义，卖put时注意高溢价标的盈利风险",
-      "source": "Variety / CNBC",
-      "verified": true,
-      "keywords": [
-        "Netflix",
-        "earnings",
-        "revenue guidance",
-        "streaming"
-      ],
-      "translated": false,
-      "url": "https://variety.com/2026/tv/news/netflix-q2-2026-earnings-1236812558/",
-      "id": "a7ca9827f2189f81",
-      "is_new": false,
-      "first_seen": "2026-07-17"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Fed Chair Warsh Testifies: US CPI at 4.2%, Rates Held at 3.5%-3.75%, July Hike Probability ~25%",
-      "summary": "Fed Chairman Kevin Warsh completed two days of Congressional testimony. CPI hit 4.2% YoY (highest since April 2023); Fed holds rates at 3.50%-3.75% for 4 consecutive meetings. CME FedWatch assigns ~25% probability to a July 29 rate hike. Warsh dropped traditional forward guidance in favor of data-dependence.",
-      "why": "高利率维持格局不变，七月加息风险仍在，全球估值压力延续；对sell put策略需留意高利率环境下delta对冲成本上升",
-      "source": "Bloomberg / Federal Reserve",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "Federal Reserve",
-        "Warsh",
-        "利率",
-        "通胀",
-        "CPI"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/live-blog/2026-07-14/fed-s-warsh-testifies-before-house-panel",
-      "id": "8f7c1d0f88b5525c",
-      "is_new": false,
-      "first_seen": "2026-07-17"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Apple Intelligence Gets China Regulatory Approval with Alibaba Qwen & Baidu AI; BABA Shares Jump 7.9%",
-      "summary": "Chinese regulators approved Apple Intelligence for launch in China via partnerships with Alibaba (Qwen AI) and Baidu. Qwen will power AI text/image features on iPhone, iPad, Mac and Vision Pro in China. Alibaba US ADRs surged as much as 7.9% on the news, with Hong Kong shares up 3.26%.",
-      "why": "通义千问嵌入苹果生态，Alibaba(9988.HK/BABA)获得亿级iPhone用户入口，是AI商业化最重磅催化；在港股大跌背景下阿里逆势走强，基本面分化明显",
-      "source": "Yahoo Finance / TechCrunch / ChinaPulse",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "Apple",
-        "通义千问",
-        "Qwen",
-        "Apple Intelligence",
-        "BABA"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baidu-shares-jump-apple-120524818.html",
-      "id": "55b15ecd82ccae5d",
-      "is_new": false,
-      "first_seen": "2026-07-17"
     }
   ]
 }
