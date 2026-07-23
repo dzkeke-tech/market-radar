@@ -1,0 +1,194 @@
+#!/usr/bin/env python3
+import json, hashlib
+
+def make_id(url, title=''):
+    s = (url or title or '').strip()
+    return hashlib.sha1(s.encode()).hexdigest()[:16]
+
+items = [
+    {
+        "id": make_id("https://finance.yahoo.com/markets/stocks/articles/alphabet-q2-2026-earnings-revenue-203058727.html"),
+        "tier": 1,
+        "lang": "en",
+        "markets": ["US", "HK"],
+        "time": "08:30",
+        "group": "大盘头条",
+        "title": "Alphabet Q2 2026 earnings: revenue up 24%, Cloud surges 82%, stock sinks on capex hike",
+        "summary": "Alphabet reported Q2 revenue of $119.8B (+24% YoY) and EPS of $9.11, beating consensus. Google Cloud grew 82% to $24.8B. Full-year capex guidance raised to $195-205B sent shares down 2%+ after-hours.",
+        "why": "谷歌季报大幅超预期但资本开支指引上调引发市场担忧，云业务加速反映AI基础设施需求仍强劲；AH股下跌或压低科技板块情绪，注意implied vol变化。",
+        "source": "Yahoo Finance",
+        "verified": True,
+        "keywords": ["Alphabet", "GOOGL", "Google Cloud", "earnings", "capex", "AI"],
+        "translated": False,
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-q2-2026-earnings-revenue-203058727.html"
+    },
+    {
+        "id": make_id("https://seekingalpha.com/news/4616900-alphabet-delivers-q2-beat-with-cloud-revenue-surging-82-capex-disappoints"),
+        "tier": 1,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "08:45",
+        "group": "个股",
+        "title": "Alphabet delivers Q2 beat with cloud revenue surging 82%, capex disappoints",
+        "summary": "Google Cloud hit $24.8B (+82% YoY) on enterprise AI demand, pushing total operating income to $39.7B with a 36.1% margin. The stock fell as full-year capex guidance jumped to $195-205B, up from $180-190B last quarter.",
+        "why": "谷歌云加速反映AI基础设施投资仍在加速变现；资本开支大幅上调说明AI基础设施军备竞赛持续，对NVDA、ASML等AI供应链标的构成利好信号。",
+        "source": "Seeking Alpha",
+        "verified": True,
+        "keywords": ["谷歌", "Google", "Alphabet", "GOOGL", "Google Cloud", "capex", "AI"],
+        "translated": False,
+        "url": "https://seekingalpha.com/news/4616900-alphabet-delivers-q2-beat-with-cloud-revenue-surging-82-capex-disappoints"
+    },
+    {
+        "id": make_id("https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/"),
+        "tier": 1,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "09:00",
+        "group": "大盘头条",
+        "title": "Tesla (TSLA) Q2 2026: record revenue $28.24B beats, EPS $0.33 misses, operating margin collapses to 1.4%",
+        "summary": "Tesla posted Q2 revenue of $28.24B (+26% YoY, beating consensus by ~$650M) and record deliveries of 480,126 vehicles. However, adjusted EPS of $0.33 badly missed the $0.51 estimate; operating margin fell to 1.4% from 4.1% a year ago. Shares fell ~3% AH.",
+        "why": "特斯拉盈利质量恶化——利润率暴跌至1.4%创近年新低，AI/机器人支出侵蚀利润；需关注盘后implied vol上升带来的期权策略机会或风险。",
+        "source": "Electrek",
+        "verified": True,
+        "keywords": ["特斯拉", "Tesla", "TSLA", "Q2", "earnings", "Robotaxi", "Optimus"],
+        "translated": False,
+        "url": "https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/"
+    },
+    {
+        "id": make_id("https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniimzhe8175355.shtml"),
+        "tier": 1,
+        "lang": "zh",
+        "markets": ["A", "HK"],
+        "time": "09:30",
+        "group": "大盘头条",
+        "title": "A股维稳信号密集释放：证监会发声、国家队入场，多家公司紧急宣布回购增持",
+        "summary": "证监会召开专题座谈会，强调全力维护市场平稳运行；国家队动用逾6000亿元入市护盘；7月以来沪深两市逾469家公司发布回购/增持公告，新增计划合计上限超157亿元。",
+        "why": "政策托底信号明确，短期A股下行风险受压制；有助于稳定港股科技股情绪，关注相关标的sell put机会。",
+        "source": "新浪财经",
+        "verified": True,
+        "keywords": ["证监会", "国家队", "回购", "增持", "A股", "维稳"],
+        "translated": False,
+        "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniimzhe8175355.shtml"
+    },
+    {
+        "id": make_id("https://www.scmp.com/business/china-business/article/3361430/investors-shift-focus-chinas-july-politburo-meeting-stock-stimulus-clues"),
+        "tier": 2,
+        "lang": "en",
+        "markets": ["A", "HK"],
+        "time": "10:00",
+        "group": "大盘头条",
+        "title": "Investors shift focus to China's July Politburo meeting for stock-stimulus clues",
+        "summary": "China's late-July Politburo meeting is expected to set macro policy direction for H2 2026. Markets anticipate stronger easing language after a weak Q2, with emphasis on domestic demand, tech investment, and faster fiscal implementation — though no large immediate package.",
+        "why": "政治局会议为下半年政策定调，若释放更强宽松信号，对港股消费科技板块（腾讯、美团、泡泡玛特等持仓）有系统性提振；注意会议结果对sell put时机的影响。",
+        "source": "South China Morning Post",
+        "verified": False,
+        "keywords": ["Politburo", "政治局", "stimulus", "China macro", "A股", "港股"],
+        "translated": False,
+        "url": "https://www.scmp.com/business/china-business/article/3361430/investors-shift-focus-chinas-july-politburo-meeting-stock-stimulus-clues"
+    },
+    {
+        "id": make_id("https://fortune.com/article/current-price-of-gold-07-21-2026/"),
+        "tier": 2,
+        "lang": "en",
+        "markets": ["HK", "US", "A"],
+        "time": "10:15",
+        "group": "大盘头条",
+        "title": "Gold holds above $4,000/oz, trades at $4,151 on July 22 amid sustained Middle East tensions and oil at $94",
+        "summary": "Gold rose to $4,151.55/oz on July 22 (+1.81%), staying above $4,000 as Middle East conflict and dollar weakness sustained safe-haven demand. Brent crude also elevated at ~$94/bbl after the 11th consecutive round of US strikes on Iran.",
+        "why": "金价持续高位对老铺黄金（6181.HK）构成利好——高金价支撑终端珠宝需求；同时油价/地缘风险推高整体波动率，有利于期权策略获取更高权利金。",
+        "source": "Fortune",
+        "verified": True,
+        "keywords": ["黄金", "gold", "老铺黄金", "Laopu Gold", "油价", "中东局势", "Iran"],
+        "translated": False,
+        "url": "https://fortune.com/article/current-price-of-gold-07-21-2026/"
+    },
+    {
+        "id": make_id("https://www.tipranks.com/news/intel-intc-will-report-q2-earnings-on-july-23-heres-what-to-expect-from-analysts-and-options-traders"),
+        "tier": 2,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "10:30",
+        "group": "个股",
+        "title": "Intel (INTC) reports Q2 2026 earnings today after market close — options price in ±13.6% move",
+        "summary": "Intel releases Q2 results today (July 23) after close. Consensus: $14.4B revenue and $0.22 non-GAAP EPS. Options traders are pricing a 13.6% swing in either direction. AMD datacenter revenue overtook Intel's for the first time in Q1; 18A process yield challenges also in focus.",
+        "why": "英特尔今日季报为最大催化剂，期权隐含波动高达±13.6%；代工业务进展与18A量产良率指引直接影响长期估值逻辑，是持仓重要观察节点。",
+        "source": "TipRanks",
+        "verified": False,
+        "keywords": ["英特尔", "Intel", "INTC", "Q2", "earnings", "18A", "foundry", "AMD"],
+        "translated": False,
+        "url": "https://www.tipranks.com/news/intel-intc-will-report-q2-earnings-on-july-23-heres-what-to-expect-from-analysts-and-options-traders"
+    },
+    {
+        "id": make_id("https://www.tradingkey.com/analysis/stocks/us-stocks/262047242-micron-mu-stock-recovery-july-22-2026-morgan-stanley-bofa-buy-22b-contracts-tradingkey"),
+        "tier": 2,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "10:45",
+        "group": "个股",
+        "title": "Micron (MU) rebounds to $969 as Morgan Stanley, BofA cite $22B non-cancelable HBM contracts; HBM4 mass shipment started",
+        "summary": "Micron recovered to ~$969 after recent pullback as Morgan Stanley and BofA reiterate Buy. Morgan Stanley highlights $22B in non-cancelable HBM contracts through 2027. Micron has also commenced mass shipment of HBM4 to a leading customer, with HBM4E samples planned for H2 2026.",
+        "why": "美光HBM4量产出货落地，$22B不可撤销合约提供盈利可见性，回调位提供sell put积累成本的机会；与SK海力士共同受益于AI存储超级周期。",
+        "source": "TradingKey",
+        "verified": False,
+        "keywords": ["美光", "Micron", "MU", "HBM", "HBM4", "存储芯片", "AI"],
+        "translated": False,
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262047242-micron-mu-stock-recovery-july-22-2026-morgan-stanley-bofa-buy-22b-contracts-tradingkey"
+    },
+    {
+        "id": make_id("https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html"),
+        "tier": 2,
+        "lang": "en",
+        "markets": ["US", "HK"],
+        "time": "11:00",
+        "group": "个股",
+        "title": "U.S. trade official: 'Very few' Nvidia H200 AI chips have actually shipped to China despite approval",
+        "summary": "A senior U.S. trade official confirmed that despite U.S. approval for Nvidia to sell H200 chips to additional Chinese companies (announced July 14, NVDA +3.8%), very few units have actually shipped. Nvidia has excluded China revenue from forward guidance and warns of long-term Huawei competition risk.",
+        "why": "中国AI芯片销售落地进展远低预期，短期难以成为英伟达新增营收来源；华为竞争压力长期存在；中国市场对NVDA下半年业绩贡献仍有不确定性。",
+        "source": "CNBC",
+        "verified": True,
+        "keywords": ["英伟达", "Nvidia", "NVDA", "H200", "AI芯片", "中国", "出口管制", "Huawei"],
+        "translated": False,
+        "url": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html"
+    },
+    {
+        "id": make_id("https://finance.yahoo.com/markets/stocks/articles/expect-palantir-q2-2026-earnings-124258336.html"),
+        "tier": 3,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "11:15",
+        "group": "个股",
+        "title": "Palantir (PLTR) Q2 2026 earnings on Aug 3 — analysts expect EPS $0.28 (+115% YoY), NVIDIA sovereign AI partnership",
+        "summary": "Palantir reports Q2 on Aug 3. Q1 revenue grew 85% YoY to $1.63B; Q2 EPS consensus at $0.28 (+115% YoY). DA Davidson upgraded to Buy ($175 PT). Recent catalysts: NVIDIA partnership for sovereign AI models for U.S. government agencies and U.S. Army NGC2 contract win.",
+        "why": "Palantir政府AI合同持续落地增强盈利可见性，8月3日为下一关键催化剂；临近季报期间IV有望上行，可评估sell put策略窗口。",
+        "source": "Yahoo Finance",
+        "verified": True,
+        "keywords": ["Palantir", "PLTR", "AIP", "AI平台", "国防AI", "政府合同"],
+        "translated": False,
+        "url": "https://finance.yahoo.com/markets/stocks/articles/expect-palantir-q2-2026-earnings-124258336.html"
+    },
+    {
+        "id": make_id("https://finance.eastmoney.com/a/202607213816047048.html"),
+        "tier": 2,
+        "lang": "zh",
+        "markets": ["A", "HK"],
+        "time": "11:30",
+        "group": "大盘头条",
+        "title": "A股迎来批量利好：上市公司密集发布回购、股东及高管增持计划",
+        "summary": "7月以来A股上市公司密集披露回购与增持公告，多家央企控股公司及消费科技龙头跟进，央行回购增持再贷款工具持续支持，彰显大股东对估值的信心。",
+        "why": "回购增持潮压缩股价下行空间，叠加证监会护盘信号，短期A股及港股H股下方支撑增强；适合在市场企稳时布局sell put收取权利金。",
+        "source": "东方财富",
+        "verified": True,
+        "keywords": ["回购", "增持", "A股", "央企", "市场维稳", "再贷款"],
+        "translated": False,
+        "url": "https://finance.eastmoney.com/a/202607213816047048.html"
+    }
+]
+
+print(f"Total items: {len(items)}")
+for it in items:
+    print(f"  tier{it['tier']} | {it['group']} | {it['id']} | {it['title'][:60]}")
+
+with open("/home/user/market-radar/new_items.json", "w", encoding="utf-8") as f:
+    json.dump(items, f, ensure_ascii=False, indent=2)
+
+print("\nnew_items.json written successfully.")
