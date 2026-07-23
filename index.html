@@ -431,17 +431,26 @@ function paint(){
   else{const nc=(DATA.items||[]).filter(it=>it.is_new).length; b.innerHTML='实时数据 · 本次新增 <b>'+nc+'</b> 条 · 下次更新 <b>'+( (DATA.next_runs&&DATA.next_runs[0])||"" )+'</b>';}
 }
 
-/* 数据源：优先从 claude/ 分支的 raw 读取（routine 写在此分支，绕开"写 main 被拦"）；
-   读不到则回退同目录 data.json（兼容旧的 main 发布方式）。 */
-const RADAR_DATA_PRIMARY = "https://raw.githubusercontent.com/dzkeke-tech/market-radar/claude/radar-data/data.json";
-async function fetchRadarData(){
-  for(const base of [RADAR_DATA_PRIMARY, "data.json"]){
-    try{
-      const r=await fetch(base+"?t="+Date.now(),{cache:"no-store"});
-      if(r.ok){const j=await r.json(); if(j&&j.items) return j;}
-    }catch(e){/* 试下一个来源 */}
-  }
+/* 数据源：claude/radar-data 分支的 raw 文件 + 同目录 data.json（main 分支）两个都取，
+   谁的 updated_at 更新就用谁——避免其中一条发布链路卡住时页面一直显示旧数据。 */
+const RADAR_DATA_SOURCES = [
+  "https://raw.githubusercontent.com/dzkeke-tech/market-radar/claude/radar-data/data.json",
+  "data.json"
+];
+async function fetchOne(base){
+  try{
+    const r=await fetch(base+"?t="+Date.now(),{cache:"no-store"});
+    if(r.ok){const j=await r.json(); if(j&&j.items) return j;}
+  }catch(e){/* 该源失败，忽略 */}
   return null;
+}
+async function fetchRadarData(){
+  const results=await Promise.all(RADAR_DATA_SOURCES.map(fetchOne));
+  const valid=results.filter(Boolean);
+  if(!valid.length) return null;
+  // updated_at 形如 "2026-07-23 08:11 (北京时间)"，字符串比较即可得出更新的一份
+  valid.sort((a,b)=>String(b.updated_at||"").localeCompare(String(a.updated_at||"")));
+  return valid[0];
 }
 
 async function loadData(){
