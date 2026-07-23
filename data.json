@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-22 18:13 (北京时间)",
+  "updated_at": "2026-07-23 08:11 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,318 @@
   "positions": [],
   "items": [
     {
+      "id": "818401e4aac00724",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Alphabet Q2 2026 earnings: revenue up 24%, Cloud surges 82%, stock sinks on capex hike",
+      "summary": "Alphabet reported Q2 revenue of $119.8B (+24% YoY) and EPS of $9.11, beating consensus. Google Cloud grew 82% to $24.8B. Full-year capex guidance raised to $195-205B sent shares down 2%+ after-hours.",
+      "why": "谷歌季报大幅超预期但资本开支指引上调引发市场担忧，云业务加速反映AI基础设施需求仍强劲；AH股下跌或压低科技板块情绪，注意implied vol变化。",
+      "source": "Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "Alphabet",
+        "GOOGL",
+        "Google Cloud",
+        "earnings",
+        "capex",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-q2-2026-earnings-revenue-203058727.html",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "77ea63b20c93c3bd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:45",
+      "group": "个股",
+      "title": "Alphabet delivers Q2 beat with cloud revenue surging 82%, capex disappoints",
+      "summary": "Google Cloud hit $24.8B (+82% YoY) on enterprise AI demand, pushing total operating income to $39.7B with a 36.1% margin. The stock fell as full-year capex guidance jumped to $195-205B, up from $180-190B last quarter.",
+      "why": "谷歌云加速反映AI基础设施投资仍在加速变现；资本开支大幅上调说明AI基础设施军备竞赛持续，对NVDA、ASML等AI供应链标的构成利好信号。",
+      "source": "Seeking Alpha",
+      "verified": true,
+      "keywords": [
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "Google Cloud",
+        "capex",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://seekingalpha.com/news/4616900-alphabet-delivers-q2-beat-with-cloud-revenue-surging-82-capex-disappoints",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "df3e49f1480dd58d",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Tesla (TSLA) Q2 2026: record revenue $28.24B beats, EPS $0.33 misses, operating margin collapses to 1.4%",
+      "summary": "Tesla posted Q2 revenue of $28.24B (+26% YoY, beating consensus by ~$650M) and record deliveries of 480,126 vehicles. However, adjusted EPS of $0.33 badly missed the $0.51 estimate; operating margin fell to 1.4% from 4.1% a year ago. Shares fell ~3% AH.",
+      "why": "特斯拉盈利质量恶化——利润率暴跌至1.4%创近年新低，AI/机器人支出侵蚀利润；需关注盘后implied vol上升带来的期权策略机会或风险。",
+      "source": "Electrek",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Q2",
+        "earnings",
+        "Robotaxi",
+        "Optimus"
+      ],
+      "translated": false,
+      "url": "https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "7fe6469be2dec4e1",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "A股维稳信号密集释放：证监会发声、国家队入场，多家公司紧急宣布回购增持",
+      "summary": "证监会召开专题座谈会，强调全力维护市场平稳运行；国家队动用逾6000亿元入市护盘；7月以来沪深两市逾469家公司发布回购/增持公告，新增计划合计上限超157亿元。",
+      "why": "政策托底信号明确，短期A股下行风险受压制；有助于稳定港股科技股情绪，关注相关标的sell put机会。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "证监会",
+        "国家队",
+        "回购",
+        "增持",
+        "A股",
+        "维稳"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniimzhe8175355.shtml",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "6a496ec00c0f19c3",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "Investors shift focus to China's July Politburo meeting for stock-stimulus clues",
+      "summary": "China's late-July Politburo meeting is expected to set macro policy direction for H2 2026. Markets anticipate stronger easing language after a weak Q2, with emphasis on domestic demand, tech investment, and faster fiscal implementation — though no large immediate package.",
+      "why": "政治局会议为下半年政策定调，若释放更强宽松信号，对港股消费科技板块（腾讯、美团、泡泡玛特等持仓）有系统性提振；注意会议结果对sell put时机的影响。",
+      "source": "South China Morning Post",
+      "verified": false,
+      "keywords": [
+        "Politburo",
+        "政治局",
+        "stimulus",
+        "China macro",
+        "A股",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/china-business/article/3361430/investors-shift-focus-chinas-july-politburo-meeting-stock-stimulus-clues",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "c02cb1a2d8b8861d",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "10:15",
+      "group": "大盘头条",
+      "title": "Gold holds above $4,000/oz, trades at $4,151 on July 22 amid sustained Middle East tensions and oil at $94",
+      "summary": "Gold rose to $4,151.55/oz on July 22 (+1.81%), staying above $4,000 as Middle East conflict and dollar weakness sustained safe-haven demand. Brent crude also elevated at ~$94/bbl after the 11th consecutive round of US strikes on Iran.",
+      "why": "金价持续高位对老铺黄金（6181.HK）构成利好——高金价支撑终端珠宝需求；同时油价/地缘风险推高整体波动率，有利于期权策略获取更高权利金。",
+      "source": "Fortune",
+      "verified": true,
+      "keywords": [
+        "黄金",
+        "gold",
+        "老铺黄金",
+        "Laopu Gold",
+        "油价",
+        "中东局势",
+        "Iran"
+      ],
+      "translated": false,
+      "url": "https://fortune.com/article/current-price-of-gold-07-21-2026/",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "0b42ab169e077d9f",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:30",
+      "group": "个股",
+      "title": "Intel (INTC) reports Q2 2026 earnings today after market close — options price in ±13.6% move",
+      "summary": "Intel releases Q2 results today (July 23) after close. Consensus: $14.4B revenue and $0.22 non-GAAP EPS. Options traders are pricing a 13.6% swing in either direction. AMD datacenter revenue overtook Intel's for the first time in Q1; 18A process yield challenges also in focus.",
+      "why": "英特尔今日季报为最大催化剂，期权隐含波动高达±13.6%；代工业务进展与18A量产良率指引直接影响长期估值逻辑，是持仓重要观察节点。",
+      "source": "TipRanks",
+      "verified": false,
+      "keywords": [
+        "英特尔",
+        "Intel",
+        "INTC",
+        "Q2",
+        "earnings",
+        "18A",
+        "foundry",
+        "AMD"
+      ],
+      "translated": false,
+      "url": "https://www.tipranks.com/news/intel-intc-will-report-q2-earnings-on-july-23-heres-what-to-expect-from-analysts-and-options-traders",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "06b6a8291a9095fe",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:45",
+      "group": "个股",
+      "title": "Micron (MU) rebounds to $969 as Morgan Stanley, BofA cite $22B non-cancelable HBM contracts; HBM4 mass shipment started",
+      "summary": "Micron recovered to ~$969 after recent pullback as Morgan Stanley and BofA reiterate Buy. Morgan Stanley highlights $22B in non-cancelable HBM contracts through 2027. Micron has also commenced mass shipment of HBM4 to a leading customer, with HBM4E samples planned for H2 2026.",
+      "why": "美光HBM4量产出货落地，$22B不可撤销合约提供盈利可见性，回调位提供sell put积累成本的机会；与SK海力士共同受益于AI存储超级周期。",
+      "source": "TradingKey",
+      "verified": false,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "HBM",
+        "HBM4",
+        "存储芯片",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262047242-micron-mu-stock-recovery-july-22-2026-morgan-stanley-bofa-buy-22b-contracts-tradingkey",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "3df27607534f4be9",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "U.S. trade official: 'Very few' Nvidia H200 AI chips have actually shipped to China despite approval",
+      "summary": "A senior U.S. trade official confirmed that despite U.S. approval for Nvidia to sell H200 chips to additional Chinese companies (announced July 14, NVDA +3.8%), very few units have actually shipped. Nvidia has excluded China revenue from forward guidance and warns of long-term Huawei competition risk.",
+      "why": "中国AI芯片销售落地进展远低预期，短期难以成为英伟达新增营收来源；华为竞争压力长期存在；中国市场对NVDA下半年业绩贡献仍有不确定性。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "H200",
+        "AI芯片",
+        "中国",
+        "出口管制",
+        "Huawei"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "d4bba71f2b6ab08e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "11:30",
+      "group": "大盘头条",
+      "title": "A股迎来批量利好：上市公司密集发布回购、股东及高管增持计划",
+      "summary": "7月以来A股上市公司密集披露回购与增持公告，多家央企控股公司及消费科技龙头跟进，央行回购增持再贷款工具持续支持，彰显大股东对估值的信心。",
+      "why": "回购增持潮压缩股价下行空间，叠加证监会护盘信号，短期A股及港股H股下方支撑增强；适合在市场企稳时布局sell put收取权利金。",
+      "source": "东方财富",
+      "verified": true,
+      "keywords": [
+        "回购",
+        "增持",
+        "A股",
+        "央企",
+        "市场维稳",
+        "再贷款"
+      ],
+      "translated": false,
+      "url": "https://finance.eastmoney.com/a/202607213816047048.html",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "b926f4f2ec4e7854",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "11:15",
+      "group": "个股",
+      "title": "Palantir (PLTR) Q2 2026 earnings on Aug 3 — analysts expect EPS $0.28 (+115% YoY), NVIDIA sovereign AI partnership",
+      "summary": "Palantir reports Q2 on Aug 3. Q1 revenue grew 85% YoY to $1.63B; Q2 EPS consensus at $0.28 (+115% YoY). DA Davidson upgraded to Buy ($175 PT). Recent catalysts: NVIDIA partnership for sovereign AI models for U.S. government agencies and U.S. Army NGC2 contract win.",
+      "why": "Palantir政府AI合同持续落地增强盈利可见性，8月3日为下一关键催化剂；临近季报期间IV有望上行，可评估sell put策略窗口。",
+      "source": "Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "AIP",
+        "AI平台",
+        "国防AI",
+        "政府合同"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-palantir-q2-2026-earnings-124258336.html",
+      "is_new": true,
+      "first_seen": "2026-07-23"
+    },
+    {
       "tier": 1,
       "lang": "en",
       "markets": [
@@ -59,7 +371,7 @@
       "translated": false,
       "url": "https://fedratecalc.com/next-fomc-meeting/",
       "id": "08c2e6d82c23c7d1",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -84,7 +396,7 @@
       "translated": false,
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-083644887.html",
       "id": "2198b8d4f512a8a8",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -110,7 +422,7 @@
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
       "id": "2088e49ef4d755e2",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -134,7 +446,7 @@
       "translated": false,
       "url": "https://finance.sina.com.cn/stock/hkstock/2026-07-22/doc-iniisawc2069122.shtml",
       "id": "08853ba2b616fb79",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -161,7 +473,7 @@
       "translated": false,
       "url": "https://news.alphastreet.com/alphabet-googl-q2-2026-preview-eps-est-2-89-reports-july-22/amp/",
       "id": "cae7180cedcd8e2b",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -187,7 +499,7 @@
       "translated": false,
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-22/doc-iniisieh4817573.shtml",
       "id": "e4b91cded2c3542c",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -213,7 +525,7 @@
       "translated": false,
       "url": "https://www.gurufocus.com/news/8969463/tesla-expands-robotaxi-service-to-florida-cities-stock-rises-tsla",
       "id": "6de0efccd19970ac",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -240,7 +552,7 @@
       "translated": false,
       "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262045233-intel-intc-stock-surged-8-percent-july-22-2026-xeon-google-earnings-tradingkey",
       "id": "a924f4af5879f548",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-22"
     },
     {
@@ -3900,315 +4212,6 @@
       ],
       "translated": false,
       "url": "https://www.teslaoracle.com/2026/07/16/tesla-adds-camera-preview-in-fsd-v14-3-5-2026-20-6-6-official-release-notes-rollout-status/",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "98192701f12025a8",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Intel Foundry 18A Yield Reportedly Rises to 85%; Secures Design Orders From Nvidia, OpenAI, AMD and Microsoft",
-      "summary": "Analyst reports indicate Intel's 18A process yield improved from ~65% to 85% — a key threshold for commercial viability. Intel secured design orders from Nvidia, OpenAI, AMD and Microsoft for 18A-based products, building on the 18A-P risk production milestone. Profitable commercial production projected for late 2026/2027. Intel stock had crashed ~21% in a seven-day selloff around July 7-8 on yield and competition concerns.",
-      "why": "英特尔代工18A良率据报从65%升至85%，并获Nvidia/OpenAI/AMD/Microsoft设计订单，是代工业务拐点最实质性进展；若数据属实+客户首款流片成功，INTC估值重估可能触发；但目前来源系分析师报告而非Intel官方，且距盈利性量产尚需时间；7月初-21%的暴跌仍需消化，建议中线布局。",
-      "source": "TradingKey / Intel Newsroom (18A-P official)",
-      "verified": false,
-      "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "18A",
-        "代工",
-        "foundry",
-        "Nvidia",
-        "良率"
-      ],
-      "translated": false,
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262031380-intel-foundry-yield-risen-85-secured-orders-nvidia-openai-tradingkey",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "b11b2f3d42893010",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Tencent Tests WeChat AI Assistant 'Xiaowei' for 1.4B Users; Q3 Full Rollout Targeted Using WeLM + DeepSeek Hybrid",
-      "summary": "Tencent began limited testing of Xiaowei, a native AI assistant built into WeChat/Weixin, confirmed by official channels June 20. Users interact via text or voice: send messages, hail rides, order food, book services, generate images. The underlying model is WeLM (WeChat's proprietary LLM) with DeepSeek for certain tasks. Full rollout targeted Q3 2026. WeChat/Weixin has 1.4B+ monthly active users.",
-      "why": "微信小薇AI助手Q3将面向14亿月活用户全量推送，是腾讯AI商业化最大分发渠道；对0700.HK，AI助手落地验证微信超级App在AI时代的护城河，中长线利好持续；近期股价有所回落，Q3全量推出前可关注补仓机会，期权策略可在股价整理期适当卖出看跌期权获取时间价值。",
-      "source": "FintechNews HK / Bloomberg (June 22, 2026) / The Next Web",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "微信",
-        "WeChat",
-        "小薇",
-        "Xiaowei",
-        "AI助手"
-      ],
-      "translated": false,
-      "url": "https://fintechnews.hk/39365/fintechchina/tencent-wechat-ai-assistant-xiaowei-testing/",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "SK海力士纳斯达克IPO首日涨13%至168美元，筹资265亿美元创外国公司赴美上市历史纪录",
-      "summary": "SK海力士7月10日以149美元/股在纳斯达克IPO，首日收报168.01美元（+13%），总募资265亿美元（出售1.779亿ADS）超越阿里巴巴2014年的250亿记录；常规交易7月13日起以永久代码SKHY开盘，当日一度回落逾6%；公司是HBM市场领头羊，约50-55%市占率，为英伟达Blackwell/Rubin系列最大供应商。",
-      "why": "SK海力士是持仓标的（港股CSOP两倍做多ETF相关）；纳斯达克上市提升流动性与国际曝光，HBM4E送样叠加SKHY挂牌，短期可能对港股相关ETF产品带来活跃交易机会。",
-      "source": "CNBC / TechCrunch / Bloomberg",
-      "verified": true,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "SKHY",
-        "Nasdaq",
-        "IPO",
-        "HBM",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "id": "18141515c38cf587",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "美国稳定币法GENIUS Act监管框架7月18日正式生效；Circle同步获批全国信托银行牌照",
-      "summary": "2025年7月18日签署的GENIUS Act进入合规实施阶段，一年过渡期今日届满，联邦层面稳定币全面监管框架正式生效（涵盖储备要求、披露规则、发行人牌照与持有人保护）；Circle同期获OCC批准开设First National Digital Currency Bank，USDC进一步确立机构级合规地位；美联储新稳定币监管规则同步出台。",
-      "why": "Circle/CRCL是持仓标的；今日是关键监管事件落地日，短期可能引发CRCL股价波动（合规确定性VS新资本要求）；长期监管明确利好USDC机构采用规模化。",
-      "source": "Circle官网 / OCC公告",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "GENIUS Act",
-        "stablecoin",
-        "银行牌照"
-      ],
-      "translated": false,
-      "url": "https://www.circle.com/genius-act",
-      "id": "5e35da2bde794b25",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "小米YU7正式发布起售价25.35万元，雷军宣布新一代SU7销量夺冠，2027年进军欧洲",
-      "summary": "小米正式发布YU7车型，起售价253,500元；7月购车权益：YU7享科技舒享套装限时优惠6500元，YU7 GT综合权益最高7.9万元，SU7 Ultra提供5年0息融资，活动持续至7月31日；雷军宣布新一代SU7销量居细分市场第一，小米汽车计划2027年进入欧洲市场。",
-      "why": "1810.HK是核心持仓；YU7定价25.35万超出部分市场预期，有助于提振毛利率预期；雷军的欧洲2027声明是里程碑式出海叙事，可能带来短期估值溢价。",
-      "source": "Yahoo财经香港 / news18a",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810",
-        "YU7",
-        "SU7",
-        "雷军",
-        "欧洲"
-      ],
-      "translated": false,
-      "url": "https://hk.finance.yahoo.com/news/%E7%B0%A1%E8%A8%8A-%E5%B0%8F%E7%B1%B3%E6%AD%A3%E5%BC%8F%E7%99%BC%E5%B8%83yu7-%E8%B5%B7%E5%94%AE%E5%83%B925-35%E8%90%AC%E5%85%83-044231872.html",
-      "id": "a02cd435c498d795",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "Bloomberg：谷歌Gemini 3.5 Pro发布滞后数月，Alphabet股价7月17日跌约4.4%，市值蒸发约2000亿美元",
-      "summary": "Bloomberg报道谷歌旗舰AI模型Gemini 3.5 Pro的发布进度较原定时间落后数月，引发市场对Google AI竞争力的担忧；Alphabet股价7月17日下跌约4.4%-4.5%，单日市值缩水约2000亿美元；此前已面临搜索反垄断上诉及版权诉讼双重压力。",
-      "why": "GOOGL是持仓标的；Gemini延迟加剧与OpenAI/Anthropic的AI差距感知，搜索广告业务护城河受到质疑；短期情绪压制股价，可关注covered call的权利金收益机会。",
-      "source": "Cryptonomist / FX Leaders（引用Bloomberg）",
-      "verified": true,
-      "keywords": [
-        "谷歌",
-        "Google",
-        "Alphabet",
-        "GOOGL",
-        "Gemini",
-        "AI延迟"
-      ],
-      "translated": false,
-      "url": "https://en.cryptonomist.ch/2026/07/17/alphabet-stock-falls-4-4-on-gemini-delay-as-buffett-bets-on-googl/",
-      "id": "b030d469e8feecd2",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "09:45",
-      "group": "大盘头条",
-      "title": "SOX半导体指数7月17日跌4.3%收11876，距高位回落19%，全球芯片股市值蒸发3.3万亿美元",
-      "summary": "费城半导体指数（SOX）7月17日下跌4.3%至11876.50点，自6月22日历史高点已累计下跌19%，仅差1个百分点即触及熊市定义；全球半导体股市值累计蒸发约3.3万亿美元，30只成分股全部下跌，资金大规模轮动至金融、能源和工业板块。",
-      "why": "持仓含英伟达、SK海力士、美光、Intel等半导体核心标的，板块系统性下行直接压制持仓市值；sell put策略需重新评估下行保护位。",
-      "source": "Yahoo Finance / Charles Schwab",
-      "verified": true,
-      "keywords": [
-        "SOX",
-        "半导体",
-        "芯片",
-        "PHLX",
-        "bear market"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/markets/article/the-33-trillion-chip-sell-off-is-nearing-a-bear-market-chart-of-the-day-100000286.html",
-      "id": "6a11f78d45f74282",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "中际旭创通过港交所上市聆讯，拟募资约70亿美元，或成2026年港股最大IPO",
-      "summary": "AI光模块龙头中际旭创7月17日通过港交所上市聆讯，路演后募资目标从50亿上调至约70亿美元（约546亿港元），或超越立讯精密成今年港股最大规模IPO；中金、广发、高盛为联席保荐人。公司800G光模块全球市占超40%，为英伟达最大光模块供应商；Q1 2026营收194.96亿元（+192% YoY）、净利57.35亿元（+262% YoY）。",
-      "why": "中际旭创是AI算力基础设施核心供应商，其成功上市将进一步增强港股科技板块吸引力，对腾讯、科技板块整体具有正向催化；也为AI供应链估值提供新参照。",
-      "source": "新浪财经 / 每经网",
-      "verified": true,
-      "keywords": [
-        "中际旭创",
-        "港股IPO",
-        "光模块",
-        "AI算力",
-        "HKEx"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-07-17/doc-iniickaz8206294.shtml",
-      "id": "c626e927ef6a1e5d",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:35",
-      "group": "大盘头条",
-      "title": "港股7月17日全线下挫：恒生指数跌1.78%至24562，恒生科技指数跌4.37%",
-      "summary": "7月17日（周五）恒生指数收报24562.24点，下跌446.36点（-1.78%）；恒生科技指数单日跌4.37%，科技板块成最大重灾区，背景为全球半导体股连续大幅下跌。指数已连续两日回调，16日曾涨2%至25174.79点。",
-      "why": "港股科技板块集中承压，对持仓腾讯、美团、小米、泡泡玛特等权重港股构成直接拖累；4%以上的单日科技指数跌幅可能触发期权Delta对冲需求上升。",
-      "source": "证券时报",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "HSI",
-        "恒生科技",
-        "HSTECH",
-        "HK"
-      ],
-      "translated": false,
-      "url": "https://www.stcn.com/article/detail/4025799.html",
-      "id": "d21ef38144a49aad",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "个股",
-      "title": "美光（MU）7月15日跌约7%：中国CXMT拟85亿美元IPO扩大DRAM产能，叠加HBM出口管制传言",
-      "summary": "中国存储芯片厂商CXMT宣布拟在国内筹募85亿美元IPO以扩大DRAM生产，引发竞争格局担忧；同时市场传出美政府可能对HBM产品实施新出口管制，两项利空叠加导致Micron（MU）7月15日大跌约7%；KeyBanc随后将目标价从1600上调至1750美元，认为存储市场紧缩将持续至2027年。",
-      "why": "MU是持仓标的；CXMT扩产是中长期供给侧不确定性，HBM出口管制若落地将直接影响MU高毛利段的销售预期；7%单日跌幅值得关注sell put的保护性调整需求。",
-      "source": "TradingKey",
-      "verified": true,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "HBM",
-        "CXMT",
-        "DRAM",
-        "出口管制"
-      ],
-      "translated": false,
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262033102-micron-mu-stock-falls-cxmt-ipo-hbm-export-restriction-2026-tradingkey",
-      "id": "24502501fae2379d",
-      "is_new": false,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Intel 18A制程良率升至85%，斩获英伟达/AMD/OpenAI设计导入，18A-P进入风险量产，股价+4.5%",
-      "summary": "英特尔7月15日公布18A制程良率已达85%（接近台积电N2的90%，大幅领先三星SF2约55%），正式宣布获得AMD、英伟达、Marvell、微软、Micron、OpenAI等重要代工客户设计导入；18A-P（性能增强版）进入风险量产，同功耗下性能提升9%或同性能下功耗降低18%；INTC当日收涨4.5%（此前月内因18A良率问题曾大跌21%）。",
-      "why": "INTC是持仓标的；18A良率突破85%是Foundry业务存亡的关键里程碑，大客户设计导入（尤其英伟达）可能带来中长期代工收入；建议持续跟踪18A量产节奏。",
-      "source": "GuruFocus / WCCFTech / Blockonomi",
-      "verified": true,
-      "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "18A",
-        "Foundry",
-        "代工",
-        "晶圆",
-        "AMD",
-        "英伟达"
-      ],
-      "translated": false,
-      "url": "https://www.gurufocus.com/news/8959467/intels-nextgen-process-technology-gains-traction-amid-industry-collaborations",
-      "id": "a1989be7d103ec92",
       "is_new": false,
       "first_seen": "2026-07-18"
     }
