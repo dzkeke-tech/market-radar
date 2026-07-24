@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-24 13:18 (北京时间)",
+  "updated_at": "2026-07-24 18:10 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,242 @@
   "positions": [],
   "items": [
     {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "US slaps fresh tariffs on China and 60+ economies, effective July 24; China-US reciprocal tariff cut talks accelerate",
+      "summary": "Washington imposed new 10-12.5% tariffs on 60+ trading partners under Section 301 (forced labour), effective July 24. Separately, Chinese and US trade teams are accelerating consultations on a $30B-each reciprocal tariff cut framework.",
+      "why": "关税新一轮落地是全球宏观最大变量，直接压制A股/港股情绪；中美同步谈判tariff互减框架若有进展则是正面催化剂，关注持仓中美国消费股（MCD/WMT/COST）和出口相关标的（小米/美团）。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "tariff",
+        "US-China trade",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave",
+      "id": "4e30eee38af215c7",
+      "is_new": true,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "央行7月24日开展5000亿元MLF操作，连续三个月超量续做，净投放1000亿元",
+      "summary": "中国人民银行7月24日宣布开展5000亿元1年期MLF操作，较到期量净投放1000亿元，连续三个月超量续做，意在维护银行体系流动性充裕，支撑经济增长。",
+      "why": "央行超量MLF注流动性是政策宽松信号，压低银行间利率，有利于A股情绪修复；与政治局会议配合，构成货币+财政双向发力格局，对持仓消费互联网板块偏正面。",
+      "source": "人民日报英文 / Xinhua / Bloomberg",
+      "verified": true,
+      "keywords": [
+        "MLF",
+        "央行",
+        "流动性",
+        "宽松"
+      ],
+      "translated": false,
+      "url": "http://en.people.cn/n3/2026/0724/c90000-20481325.html",
+      "id": "e3cb37afe16bc846",
+      "is_new": true,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Wall Street falls sharply July 23: S&P 500 -1.21%, Nasdaq -2.15% as Alphabet -7% and Tesla -14% drag tech",
+      "summary": "US equities fell broadly on July 23: Dow -0.97% to 51,711.65; S&P 500 -1.21% to 7,408.30; Nasdaq -2.15% to 25,137.69. Sell-off driven by Alphabet's capex shock and Tesla's earnings miss, compounded by a geopolitical oil spike.",
+      "why": "美股大幅回调影响港股科技板块开盘情绪；持有谷歌/特斯拉期权的仓位须重估Delta和IV；标普和纳指的回撤也使隐含波动率上行，sell put策略需关注支撑位。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "Nasdaq",
+        "market selloff",
+        "volatility"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html",
+      "id": "e3fb12bf1d4ec4f7",
+      "is_new": true,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "个股",
+      "title": "Tesla TSLA Q2 2026: Revenue $28.2B +26% record, but operating income -57%, margin 1.4%, FCF negative; stock -14%",
+      "summary": "Tesla reported record revenue $28.24B (+26% YoY) and record 480,126 deliveries, but operating income collapsed 57% to $398M (margin 1.4%), EPS $0.33 vs $0.53 expected, free cash flow -$1.09B. Robotaxi now live in 7 metros unsupervised. Stock shed $140B in market cap.",
+      "why": "特斯拉利润率大幅压缩是核心隐患，股价大跌使sell put持仓Delta风险暴露；Robotaxi进展正面但变现尚远；14%暴跌推高TSLA期权IV，下周布局sell put需谨慎评估支撑位。",
+      "source": "CNBC / Electrek (官方财报)",
+      "verified": true,
+      "keywords": [
+        "Tesla",
+        "TSLA",
+        "earnings",
+        "Robotaxi",
+        "FSD",
+        "margin",
+        "特斯拉"
+      ],
+      "translated": false,
+      "url": "https://electrek.co/2026/07/23/tesla-tsla-crashes-12-q2-2026-earnings-miss/",
+      "id": "9d6ec86a438c7422",
+      "is_new": true,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "CXMT memory chipmaker set to list July 27 in Asia's biggest IPO of 2026, raising up to $9.8B on Shanghai STAR Board",
+      "summary": "China's ChangXin Memory Technologies (CXMT) priced its Shanghai STAR Board IPO at 8.66 yuan/share, targeting up to 66.6B yuan ($9.8B). CXMT is the world's 4th-largest DRAM maker with ~7.7% market share and is set to list July 27.",
+      "why": "CXMT上市是中国半导体自主里程碑，IPO前资金腾挪压制A股科技情绪，上市后将改变中国内存竞争格局，间接利空SK海力士/美光/闪迪等海外内存股。",
+      "source": "Reuters / Bloomberg",
+      "verified": true,
+      "keywords": [
+        "CXMT",
+        "半导体",
+        "IPO",
+        "DRAM",
+        "A股",
+        "STAR Board"
+      ],
+      "translated": false,
+      "url": "https://theedgemalaysia.com/node/810608",
+      "id": "b91f4568df53a815",
+      "is_new": true,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "China set to look past Trump's new tariffs before Xi Jinping's confirmed US visit around September 24",
+      "summary": "Bloomberg reports China may not retaliate against new US tariffs, prioritising Xi Jinping's planned US visit around September 24. Trump confirmed the date; AI flagged as key agenda. US-China trade teams also accelerating $30B reciprocal tariff cut framework.",
+      "why": "中美关系短期维稳预期升温，贸易谈判积极信号利好港股/A股出口及科技板块；9月习拜会若顺利落地可能带来关税松动预期，对持仓美股中概（阿里、拼多多）是正面催化剂。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "中美关系",
+        "关税",
+        "习近平",
+        "外交",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/china-set-to-look-past-trump-s-new-tariffs-before-xi-visit-to-us",
+      "id": "beb88da0f525b29c",
+      "is_new": true,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "China national team steps in to provide 'tech stock put' as state funds spend $9B to halt A-share rout",
+      "summary": "State-backed funds spent approx $9B halting a tech-led A-share selloff. Regulators, state investors, insurers and asset managers all coordinated — one of Beijing's broadest market stabilisation efforts in years, per Bloomberg July 24.",
+      "why": "国家队入市托底科技板块，短期为A股科技股提供下行保护，但高估值AI/半导体股托而不涨的风险仍在；对港股腾讯、阿里等有间接提振情绪作用。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "国家队",
+        "A股",
+        "科技股",
+        "市场干预"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-24/china-s-national-team-steps-in-to-provide-a-tech-stock-put",
+      "id": "c38a0af29c9c19c0",
+      "is_new": true,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "SanDisk SNDK: Goldman Sachs raises PT to $2,200 from $1,200; BiCS10 10th-gen 3D NAND sampling; earnings due Aug 5",
+      "summary": "Goldman Sachs raised SanDisk's price target to $2,200 from $1,200 (reiterate Buy) ahead of Aug 5 Q4 FY2026 earnings, citing NAND supply tightness. SanDisk also sampling its 10th-gen 3D NAND BiCS10 1Tb TLC with 59% bit density improvement vs BiCS8.",
+      "why": "高盛大幅上调目标价反映NAND供需持续偏紧，与SK海力士/美光的AI存储叙事共振；BiCS10技术领先可拓宽利润空间；持有SNDK sell put者8月5日财报前需关注IV变化。",
+      "source": "Motley Fool",
+      "verified": false,
+      "keywords": [
+        "SanDisk",
+        "SNDK",
+        "NAND",
+        "Goldman Sachs",
+        "BiCS10",
+        "闪迪"
+      ],
+      "translated": false,
+      "url": "https://www.fool.com/investing/2026/07/22/sk-hynix-has-fantastic-news-for-memory-stocks-time/",
+      "id": "6fe8eba59b9fc437",
+      "is_new": true,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "A"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Chinese A-share turnover hits 3-month low, drops below 2.2 trillion yuan as tech sentiment cools",
+      "summary": "Total trading value on Shanghai and Shenzhen fell below 2.2 trillion yuan on July 24 — the lowest since April 13 — as investors shunned tech names ahead of CXMT's landmark IPO and amid new US tariff pressure.",
+      "why": "成交量萎缩是情绪疲弱信号，CXMT上市前存量资金观望；成交量低迷往往使期权隐含波动率上升，sell put策略需注意流动性风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "成交量",
+        "科技",
+        "情绪"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/chinese-stock-turnover-shrinks-as-sentiment-cools-on-tech-sector",
+      "id": "012dd4a5e71ac51a",
+      "is_new": true,
+      "first_seen": "2026-07-24"
+    },
+    {
       "id": "7c100d9e90bf6b65",
       "tier": 1,
       "lang": "zh",
@@ -57,7 +293,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniivyeq9268528.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -83,7 +319,7 @@
       ],
       "translated": false,
       "url": "https://www.stcn.com/article/detail/4014144.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -110,7 +346,7 @@
       ],
       "translated": false,
       "url": "https://finance.sina.com.cn/stock/y/2026-07-24/doc-iniiwenr4939673.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -134,7 +370,7 @@
       ],
       "translated": false,
       "url": "https://m.21jingji.com/article/20260724/herald/b63a703efdbaf4f95d2d9fadd7d956d5.html",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -160,7 +396,7 @@
       ],
       "translated": false,
       "url": "https://www.cls.cn/detail/2435357",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -186,7 +422,7 @@
       ],
       "translated": false,
       "url": "https://hk.investing.com/news/stock-market-news/article-1537954",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -214,7 +450,7 @@
       ],
       "translated": false,
       "url": "http://www.eeo.com.cn/2026/0707/945875.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -242,7 +478,7 @@
       ],
       "translated": false,
       "url": "http://finance.sina.com.cn/tech/discovery/2026-07-12/doc-inihqett7711745.shtml",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -3940,260 +4176,6 @@
       "url": "https://www.benzinga.com/markets/tech/26/07/60536701/teslas-robotaxi-land-grab-miami-added-texas-fleet-grows",
       "is_new": false,
       "first_seen": "2026-07-20"
-    },
-    {
-      "id": "659dccfd2e0a04c6",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Alphabet (GOOGL) drops ~4% ahead of Q2 earnings July 22; Gemini AI revenue up 8x YoY — Google Cloud backlog at $460B",
-      "summary": "Alphabet fell roughly 4% to ~$346.77 this week as investors took profits before its Q2 2026 earnings report on July 22 after market close. Q1 highlights: Google Cloud revenue +63% YoY; contracted Cloud backlog nearly doubled to ~$460 billion; Gemini AI revenue increased eightfold versus a year ago. Full-year 2026 capex guidance raised to $180-190 billion. Gemini 3.5 Pro launched July 17.",
-      "why": "谷歌Q2财报将于7月22日（本周二）公布，Gemini AI收入同比增8倍是亮点，但1800-1900亿美元年度capex是最大争议点；股价提前跌4%可能已消化部分悲观预期。持有GOOGL仓位者：财报后观察指引再决策；期权策略可考虑财报后卖出高IV跨式收取时间价值。",
-      "source": "FX Leaders / IG Markets",
-      "verified": false,
-      "keywords": [
-        "谷歌",
-        "Google",
-        "Alphabet",
-        "GOOGL",
-        "Gemini",
-        "Q2",
-        "财报",
-        "Google Cloud",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.fxleaders.com/news/2026/07/19/alphabet-googl-stock-forecast-google-drops-4-ahead-of-earnings-can-ai-keep-the-rally-alive/",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "a24e7d52e34ff482",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "14:00",
-      "group": "个股",
-      "title": "阿里千问7月15日正式确认接入Apple Intelligence，中国区苹果用户可在系统级直调AI能力",
-      "summary": "苹果中国区AI功能（Apple Intelligence）完成备案，阿里巴巴通义千问（Qwen）作为核心AI能力提供商接入Apple Intelligence，为iOS、iPadOS、macOS和visionOS中国用户提供文本理解、图像生成和内容创作体验，用户无需切换应用即可在系统级直接调用。消息公布后阿里巴巴盘前涨超4%。",
-      "why": "千问接入苹果生态是阿里AI商业化的重大里程碑：直接触达中国区数亿苹果设备用户，API调用量预期大幅提升；利好9988.HK/BABA估值重估，是Sell Put策略的优质标的区间。需关注苹果是否纳入其他合作伙伴（如百度），可能稀释独家溢价。",
-      "source": "新浪科技 / IT之家",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "BABA",
-        "9988.HK",
-        "通义千问",
-        "Qwen",
-        "Apple Intelligence",
-        "苹果AI"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihwrra4754859.shtml",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "bbfad5ea27a3e3e4",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "13:00",
-      "group": "个股",
-      "title": "美团Keeta持续扩张沙特阿拉伯，海外即时配送业务起飞；多多买菜即将推出即时配送正面竞争",
-      "summary": "美团外卖海外版Keeta在沙特阿拉伯持续扩大覆盖范围，海外业务进入增长轨道。国内外卖竞争白热化：多多买菜将上线即时配送服务正面叫板美团；美团单日峰值突破1.5亿单，淘宝闪购约8000万单。7月18日市场监管总局已约谈美团、饿了么、京东三平台要求理性竞争。",
-      "why": "美团Keeta出海是新增长极但规模尚小；国内多多买菜进入即时配送是直接威胁，竞争加剧可能压缩外卖毛利率。监管约谈暗示竞争烈度可能边际降温。持有3690.HK者需关注Q2财报中即时零售毛利率和骑手成本变化数据。",
-      "source": "网易 / 36氪",
-      "verified": true,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "Keeta",
-        "外卖",
-        "即时零售",
-        "拼多多",
-        "多多买菜",
-        "沙特"
-      ],
-      "translated": false,
-      "url": "https://c.m.163.com/news/a/KIK17J3G05568W0A.html",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Futu Holdings Securities Fraud Class Action — CSRC Proposes RMB 1.85B Penalty, Stock Down ~32%",
-      "summary": "中国证监会拟对富途涉嫌未持牌在大陆经营证券业务处罚约18.5亿元人民币（约2.71亿美元）；FUTU股价已累计下跌约32%，多家律所已对公司提起证券欺诈集体诉讼，截止日期8月25日。",
-      "why": "监管重罚将严重冲击富途2026年利润预期；若FUTU持有期权仓位，需立即重估估值底部，风险极高。",
-      "source": "GlobeNewswire",
-      "verified": true,
-      "keywords": [
-        "富途",
-        "Futu",
-        "FUTU",
-        "moomoo",
-        "监管",
-        "诉讼",
-        "CSRC"
-      ],
-      "translated": false,
-      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327435/6713/en/futu-holdings-limited-securities-fraud-class-action-result-of-undisclosed-regulatory-compliance-failures-and-approximately-32-stock-decline-investors-may-contact-lewis-kahn-esq-at-.html",
-      "id": "33b8c71502a632b1",
-      "is_new": false,
-      "first_seen": "2026-07-19"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "金价半年跌超28%，老铺黄金市值蒸发千亿，实探门店冷清、二手折价",
-      "summary": "2026年上半年金价累计下跌逾28%，老铺黄金（6181.HK）股价从2025年历史高位1065港元跌至约373港元（跌幅超65%），门店客流下滑明显，部分二手产品已低于零售价流通，品牌热度明显消退。",
-      "why": "金价下行周期中老铺黄金业绩与估值双杀，对持有6181.HK仓位是重大风险警示；期权卖方需审视行权价与金价走势相关性。",
-      "source": "新浪新闻",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "Laopu Gold",
-        "6181.HK",
-        "黄金",
-        "金价",
-        "古法金"
-      ],
-      "translated": false,
-      "url": "https://news.sina.cn/minsheng/2026-07-18/detail-iniifanf8338396.d.html",
-      "id": "89bc7b27b7290a46",
-      "is_new": false,
-      "first_seen": "2026-07-19"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "腾讯带头：上半年港股回购近千亿港元，7月持续以每周数亿规模回购",
-      "summary": "腾讯控股上半年累计回购约244亿港元，占港股市场同期回购总量约四分之一；7月3日耗资5.01亿港元、7月6日耗资2.05亿港元，平均每周回购规模达5亿+港元，护盘信号明确。",
-      "why": "腾讯大规模持续回购给股价提供下行安全垫，sell put持仓者安全边际增厚；高分红+回购双重股东回报吸引中长期持有。",
-      "source": "上海证券报",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "00700",
-        "回购",
-        "buyback",
-        "港股"
-      ],
-      "translated": false,
-      "url": "https://paper.cnstock.com/html/2026-07/08/content_2240729.htm",
-      "id": "bfdfab0dbc2346be",
-      "is_new": false,
-      "first_seen": "2026-07-19"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "上半年经济运行在合理区间 新动能快速成长",
-      "summary": "国家统计局：中国2026年上半年GDP同比增长4.7%，总量69.6万亿元，为近五年同期最大增量；CPI同比+1.0%，核心CPI +1.2%，城镇调查失业率均值5.2%，就业总体稳定。",
-      "why": "GDP增速符合全年目标，宏观基本面稳定，利好持有消费和科技赛道的港股A股中长期仓位，核心逻辑不变。",
-      "source": "国家统计局",
-      "verified": true,
-      "keywords": [
-        "GDP",
-        "中国经济",
-        "宏观",
-        "经济数据"
-      ],
-      "translated": false,
-      "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964121.html",
-      "id": "27675aadcba893b1",
-      "is_new": false,
-      "first_seen": "2026-07-19"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Intel Foundry Snags AMD, NVIDIA, and OpenAI as Design Wins on 18A & 14A Nodes",
-      "summary": "英特尔宣布18A良品率从65%提升至85%（接近台积电N2制程90%），并获AMD/英伟达/苹果/微软/OpenAI等重量级设计合同；18A-P进入风险量产，性能较18A提升9%或功耗降18%。",
-      "why": "英特尔代工业务突破性进展，若大客户量产落地将重塑半导体竞争格局；INTC持仓者迎来估值重估关键催化，需关注台积电产能分流影响。",
-      "source": "WCCFTech",
-      "verified": true,
-      "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "18A",
-        "代工",
-        "foundry",
-        "良率"
-      ],
-      "translated": false,
-      "url": "https://wccftech.com/intel-foundry-snags-amd-nvidia-openai-as-design-wins-on-18a-14a-nodes/",
-      "id": "37aa0323195e71eb",
-      "is_new": false,
-      "first_seen": "2026-07-19"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "Tesla Robotaxi Drives into Miami with No Safety Monitor; Q2 Deliveries Top 480K; Earnings July 22",
-      "summary": "特斯拉Q2交付480,126辆，同比增25%、超预期18%；Robotaxi无安全员首次落地迈阿密（全美第三州）；Q2财报将于7月22日发布，市场预期营收约276亿美元，为TSLA近期最重要事件节点。",
-      "why": "交付超预期+Robotaxi里程碑双重催化；7月22日财报前波动率溢价值得用covered call锁利，财报后方向则取决于指引。",
-      "source": "BigGo Finance",
-      "verified": true,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Robotaxi",
-        "交付",
-        "自动驾驶"
-      ],
-      "translated": false,
-      "url": "https://finance.biggo.com/news/2b8311fb-26d8-450f-b0d3-5136b442d850",
-      "id": "bbdab54b32c1294e",
-      "is_new": false,
-      "first_seen": "2026-07-19"
     }
   ]
 }
