@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-25 17:47 (北京时间)",
+  "updated_at": "2026-07-25 18:29 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,126 +37,130 @@
   "positions": [],
   "items": [
     {
-      "id": "05687889bf89946e",
+      "id": "c931a1093deacfe9",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "US",
-        "HK",
-        "A"
+        "HK"
       ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "Brent Briefly Tops $100 Amid Iran War — Houthis Strike Saudi Tankers, Iran Rejects U.S. Ceasefire",
-      "summary": "Brent crude hit $101.06/barrel on July 24 — first triple-digit print since May — before falling ~4% to $97 by Friday close, still up ~7% on the week. Yemen's Iran-backed Houthis claimed attacks on two Saudi oil tankers in the Bab al-Mandeb Strait and declared a naval blockade of Saudi exports, threatening to cut off the Red Sea bypass to the Strait of Hormuz. Iran rejected a U.S. ceasefire offer; Trump warned of 'major military punishment' for further Houthi attacks. Pakistan, at China's initiative, is exploring new U.S.–Iran peace negotiations per Reuters sources.",
-      "why": "布伦特破百是本周最大宏观事件：推高全球通胀预期，直接驱使美联储9月加息预期从12%飙升至82%；能源进口型经济体（中国、欧洲）承压，港股/A股本周全线下行的核心背景。",
-      "source": "Bloomberg",
+      "time": "09:00",
+      "group": "个股",
+      "title": "老铺黄金股价较高峰跌65%，市值蒸发逾1200亿港元；金价从高点回撤28%，深圳门店现折扣",
+      "summary": "老铺黄金（6181.HK）股价约港元373，较历史高位港元1,065+已跌约65%，市值较峰值缩水逾1200亿港元。金价已从2026年1月约5,595美元/盎司高点跌至约4,018-4,120美元/盎司（跌幅约28%），拖累老铺黄金估值从超50倍PE压缩至约12倍。深圳部分门店出现约9折优惠，销量下滑迹象显现。",
+      "why": "关键词库标的6181.HK估值重估事件：PE从50x+压缩至12x，金价跌幅尚未完全反映在财报端，门店折扣是前瞻指标；对持有该股sell-put仓位者需警惕业绩下修风险——若金价跌破4000美元或门店折扣扩大，隐含波动率可能进一步走高，当前应偏虚值执行价以保留安全边际。",
+      "source": "21世纪经济报道（21财经）",
       "verified": true,
       "keywords": [
-        "油价",
-        "Brent",
-        "中东",
-        "Iran",
-        "Houthi",
-        "地缘",
-        "Red Sea",
-        "沙特"
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "金价",
+        "黄金首饰",
+        "珠宝",
+        "古法金",
+        "足金"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24",
-      "published_date": "2026-07-23",
-      "still_developing": true,
-      "first_seen": "2026-07-25",
-      "is_new": true
-    },
-    {
-      "id": "e12cd4c2a145eb80",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Fed September Rate Hike Odds Surge from 12% to 82% as Oil-Fueled Inflation Reignites",
-      "summary": "Fed funds futures now price an 82% probability of a rate hike at the September FOMC meeting, surging sharply from 12% just one week ago, as oil above $100/barrel reignites inflation concerns. The July 28–29 FOMC meeting is still expected to hold rates at 3.50–3.75%. Fed Governor Waller said the central bank must not repeat the 2021–22 mistake of waiting too long to act on rising energy-driven inflation.",
-      "why": "9月加息概率暴升至82%是本周美联储政策预期最重大变化，直接影响利率敏感型资产定价，压低成长股估值、推高期权隐含波动率；持有sell put的投资者须评估若9月加息则标的股价能否守住行权价支撑区间。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "Fed",
-        "加息",
-        "FOMC",
-        "利率",
-        "通胀",
-        "隐含波动率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
-      "published_date": "2026-07-23",
-      "still_developing": true,
-      "first_seen": "2026-07-25",
-      "is_new": true
-    },
-    {
-      "id": "3fc4484e1ff0e2c8",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:15",
-      "group": "大盘头条",
-      "title": "Wall Street Posts Back-to-Back Weekly Losses: Nasdaq -2.1%, S&P -0.6% — Alphabet -7%, Tesla -14% Drag Tech",
-      "summary": "The S&P 500 finished near flat (+0.05% at 7,411.98) and Nasdaq slipped -0.64% (24,975.82) on July 24 (Friday), booking back-to-back weekly losses of -0.6% and -2.1% respectively; the Dow fell 0.4% for its third consecutive losing week. Alphabet sank ~7% and Tesla tumbled ~14% on post-earnings reactions. Chip stocks broadly weighed on the Nasdaq. Friday's day gainers included Apple +3.52%, Salesforce +4.05%, IBM +3.61%; biggest Dow losers were American Express -4.41%.",
-      "why": "纳指连续两周回调、大型科技股单日大跌显示市场对AI资本开支回报节奏的担忧正在定价；整体市场波动率上升，持有美股期权的策略须注意VIX走高带来的期权金重估压力。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "纳斯达克",
-        "Nasdaq",
-        "S&P500",
-        "道琼斯",
-        "美股",
-        "科技股",
-        "周跌"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html",
-      "published_date": "2026-07-23",
+      "url": "https://m.21jingji.com/article/20260724/herald/ee21a6173498435c84f1b0385db7a67a.html",
+      "published_date": "2026-07-24",
       "still_developing": false,
       "first_seen": "2026-07-25",
       "is_new": true
     },
     {
-      "id": "bfcecae670cc0115",
+      "id": "c4a5d14acedcd1bc",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "美股存储芯片7月25日重挫：闪迪跌超8%、美光跌6%、SK海力士跌6%，费城半导体指数跌逾3%",
+      "summary": "7月25日（周五）美股盘中，存储芯片板块全线大跌：闪迪（SNDK）-8%+、美光（MU）-6%、SK海力士-6%，费城半导体指数（SOX）跌逾3%。导火索：Alphabet和特斯拉Q2财报显示AI资本支出商业回报率不及预期，机构投资者质疑AI算力需求的商业化速度。马斯克个人财富一周内缩水约8,800亿元人民币。",
+      "why": "关键词库多标的（闪迪SNDK、美光MU、SK海力士）同步重挫，直接影响相关 sell-put 仓位的保证金和隐含波动率；Alphabet/特斯拉AI capex ROI质疑是跨市场情绪传导信号，可能波及英伟达（NVDA）和港股AI板块；建议审查存储芯片 sell-put 仓位的执行价安全边际。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "闪迪",
+        "SanDisk",
+        "SNDK",
+        "美光",
+        "Micron",
+        "MU",
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "费城半导体",
+        "特斯拉",
+        "Tesla",
+        "谷歌",
+        "Alphabet",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiyptt1413920.shtml",
+      "published_date": "2026-07-25",
+      "still_developing": false,
+      "first_seen": "2026-07-25",
+      "is_new": true
+    },
+    {
+      "id": "f0e571b83e1f4e5f",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "16:00",
-      "group": "个股",
-      "title": "Tencent Leads China Gaming Sell-Off, Falls 7.1% on Mobile Revenue Fears — Biggest Drop Since April 2025",
-      "summary": "Tencent (00700.HK) sank 7.1% on July 22, its steepest single-day decline since April 2025, dragging the Hang Seng Tech Index down ~3.5%. BNP Paribas noted 'gaming stocks saw a sharp sell-off amid rumours of declining Tencent mobile revenue' in Q2 2026. Peers NetEase and XD Inc. also fell >5%. The rout extended Tencent's 2026 year-to-date decline to more than 26% intraday. The stock continued lower on July 24 (-2.3%) within the broader HK tech sell-off.",
-      "why": "腾讯手游Q2营收可能下滑的传言引发最大单日跌幅，直接冲击核心持仓估值；若Q3财报印证手游收入承压，将重置长期价值中枢；短期建议等待基本面数据明确前暂缓sell put加仓，关注何时出现企稳信号。",
-      "source": "Bloomberg",
+      "time": "11:00",
+      "group": "监管/规则变化",
+      "title": "港交所拟延长港股交易时间：上午9点开市、取消午休、增加下午4-8时延伸时段",
+      "summary": "港交所就延长交易时间向市场咨询：方案包括提早30分钟至09:00开盘、取消一小时午间休市、增设下午4-8时延伸交易时段。港交所回应称目前仍处非常早期阶段，衍生品市场将优先推进。",
+      "why": "港股交易制度重大潜在变化：延长时段将提升市场流动性，但也可能增加做市商成本；对 sell-put 策略的意义在于日间 gamma 曝险时间窗拉长，需重新校准隔夜仓位管理。咨询期料持续数月，事件仍在发酵。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "手游",
-        "游戏",
-        "王者荣耀",
-        "恒生科技",
-        "中国游戏"
+        "港交所",
+        "HKEX",
+        "交易时间",
+        "港股",
+        "流动性",
+        "衍生品"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/tencent-slides-most-in-over-a-year-leading-china-gaming-selloff",
-      "published_date": "2026-07-22",
+      "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimuyc3060142.shtml",
+      "published_date": "2026-07-20",
       "still_developing": true,
+      "first_seen": "2026-07-25",
+      "is_new": true
+    },
+    {
+      "id": "48310dbc7844038a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股7月24日收盘：恒指跌0.98%失守25000点，恒生科技-1.47%，AI板块全线回调",
+      "summary": "2026年7月24日，恒生指数收报24,963点（跌247.58点，-0.98%），恒生科技指数跌1.47%，AI产业链个股全线调整。拖累因素包括：伊朗冲突推高油价、CME显示美联储7月加息概率升至46.5%、美国十年期国债收益率约4.71%。",
+      "why": "港股大盘日收盘数据：恒指失守25,000关口，美联储加息预期（46.5%概率）叠加十年期美债收益率4.71%，对港股整体估值形成压制；AI板块全线回调影响腾讯/阿里等重仓标的的 sell-put 敞口，需关注短期隐含波动率是否进一步走高。",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "恒生科技",
+        "美联储",
+        "加息",
+        "国债收益率",
+        "AI板块"
+      ],
+      "translated": false,
+      "url": "https://m.cls.cn/detail/2429561",
+      "published_date": "2026-07-24",
+      "still_developing": false,
       "first_seen": "2026-07-25",
       "is_new": true
     },
@@ -2095,6 +2099,130 @@
       "first_seen": "2026-07-24"
     },
     {
+      "id": "05687889bf89946e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Brent Briefly Tops $100 Amid Iran War — Houthis Strike Saudi Tankers, Iran Rejects U.S. Ceasefire",
+      "summary": "Brent crude hit $101.06/barrel on July 24 — first triple-digit print since May — before falling ~4% to $97 by Friday close, still up ~7% on the week. Yemen's Iran-backed Houthis claimed attacks on two Saudi oil tankers in the Bab al-Mandeb Strait and declared a naval blockade of Saudi exports, threatening to cut off the Red Sea bypass to the Strait of Hormuz. Iran rejected a U.S. ceasefire offer; Trump warned of 'major military punishment' for further Houthi attacks. Pakistan, at China's initiative, is exploring new U.S.–Iran peace negotiations per Reuters sources.",
+      "why": "布伦特破百是本周最大宏观事件：推高全球通胀预期，直接驱使美联储9月加息预期从12%飙升至82%；能源进口型经济体（中国、欧洲）承压，港股/A股本周全线下行的核心背景。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "Brent",
+        "中东",
+        "Iran",
+        "Houthi",
+        "地缘",
+        "Red Sea",
+        "沙特"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24",
+      "published_date": "2026-07-23",
+      "still_developing": true,
+      "first_seen": "2026-07-25",
+      "is_new": false
+    },
+    {
+      "id": "e12cd4c2a145eb80",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Fed September Rate Hike Odds Surge from 12% to 82% as Oil-Fueled Inflation Reignites",
+      "summary": "Fed funds futures now price an 82% probability of a rate hike at the September FOMC meeting, surging sharply from 12% just one week ago, as oil above $100/barrel reignites inflation concerns. The July 28–29 FOMC meeting is still expected to hold rates at 3.50–3.75%. Fed Governor Waller said the central bank must not repeat the 2021–22 mistake of waiting too long to act on rising energy-driven inflation.",
+      "why": "9月加息概率暴升至82%是本周美联储政策预期最重大变化，直接影响利率敏感型资产定价，压低成长股估值、推高期权隐含波动率；持有sell put的投资者须评估若9月加息则标的股价能否守住行权价支撑区间。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Fed",
+        "加息",
+        "FOMC",
+        "利率",
+        "通胀",
+        "隐含波动率"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+      "published_date": "2026-07-23",
+      "still_developing": true,
+      "first_seen": "2026-07-25",
+      "is_new": false
+    },
+    {
+      "id": "3fc4484e1ff0e2c8",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:15",
+      "group": "大盘头条",
+      "title": "Wall Street Posts Back-to-Back Weekly Losses: Nasdaq -2.1%, S&P -0.6% — Alphabet -7%, Tesla -14% Drag Tech",
+      "summary": "The S&P 500 finished near flat (+0.05% at 7,411.98) and Nasdaq slipped -0.64% (24,975.82) on July 24 (Friday), booking back-to-back weekly losses of -0.6% and -2.1% respectively; the Dow fell 0.4% for its third consecutive losing week. Alphabet sank ~7% and Tesla tumbled ~14% on post-earnings reactions. Chip stocks broadly weighed on the Nasdaq. Friday's day gainers included Apple +3.52%, Salesforce +4.05%, IBM +3.61%; biggest Dow losers were American Express -4.41%.",
+      "why": "纳指连续两周回调、大型科技股单日大跌显示市场对AI资本开支回报节奏的担忧正在定价；整体市场波动率上升，持有美股期权的策略须注意VIX走高带来的期权金重估压力。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "纳斯达克",
+        "Nasdaq",
+        "S&P500",
+        "道琼斯",
+        "美股",
+        "科技股",
+        "周跌"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html",
+      "published_date": "2026-07-23",
+      "still_developing": false,
+      "first_seen": "2026-07-25",
+      "is_new": false
+    },
+    {
+      "id": "bfcecae670cc0115",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "个股",
+      "title": "Tencent Leads China Gaming Sell-Off, Falls 7.1% on Mobile Revenue Fears — Biggest Drop Since April 2025",
+      "summary": "Tencent (00700.HK) sank 7.1% on July 22, its steepest single-day decline since April 2025, dragging the Hang Seng Tech Index down ~3.5%. BNP Paribas noted 'gaming stocks saw a sharp sell-off amid rumours of declining Tencent mobile revenue' in Q2 2026. Peers NetEase and XD Inc. also fell >5%. The rout extended Tencent's 2026 year-to-date decline to more than 26% intraday. The stock continued lower on July 24 (-2.3%) within the broader HK tech sell-off.",
+      "why": "腾讯手游Q2营收可能下滑的传言引发最大单日跌幅，直接冲击核心持仓估值；若Q3财报印证手游收入承压，将重置长期价值中枢；短期建议等待基本面数据明确前暂缓sell put加仓，关注何时出现企稳信号。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "手游",
+        "游戏",
+        "王者荣耀",
+        "恒生科技",
+        "中国游戏"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/tencent-slides-most-in-over-a-year-leading-china-gaming-selloff",
+      "published_date": "2026-07-22",
+      "still_developing": true,
+      "first_seen": "2026-07-25",
+      "is_new": false
+    },
+    {
       "id": "bad3324907b7160b",
       "tier": 1,
       "lang": "zh",
@@ -3951,121 +4079,6 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/",
       "is_new": false,
       "first_seen": "2026-07-25"
-    },
-    {
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Trip.com Partners with Seat Unique to Add 500,000+ VIP Sports & Event Packages for APAC Travelers",
-      "summary": "Trip.com Group and UK's Seat Unique announced a global partnership listing 500,000+ official hospitality and VIP live-event packages on Trip.com's platform, targeting Asia-Pacific travelers seeking curated sports and entertainment experiences. The deal broadens Trip.com's premium offerings beyond transport and hotels.",
-      "why": "携程VIP赛事套餐合作丰富高毛利产品矩阵，有助提升ARPU；在出境游加速复苏背景下，差异化高端产品有利于用户留存。但China Renaissance近期下调至持有评级，整体估值压力需关注。",
-      "source": "Sahm Capital",
-      "verified": false,
-      "translated": false,
-      "keywords": [
-        "携程",
-        "Trip.com",
-        "TCOM",
-        "9961.HK",
-        "VIP",
-        "Seat Unique",
-        "OTA",
-        "出境游"
-      ],
-      "url": "https://www.sahmcapital.com/news/content/how-investors-are-reacting-to-tripcom-group-tcom-adding-500000-vip-event-packages-through-seat-unique-2026-07-15",
-      "id": "a44be22a19475e88",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "0b4952a21fca8f25",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "13:00",
-      "group": "个股",
-      "title": "Palantir (PLTR) confirms Q2 2026 earnings on Aug 3; analysts forecast $1.8B revenue (+80% YoY), EPS $0.35 (+115% YoY)",
-      "summary": "Palantir confirmed Q2 2026 results August 3 after market close with webcast at 5:00 PM ET. Wall Street projects ~$1.8B revenue (+80% YoY) and EPS of $0.35 (more than double year-ago). Q1 2026 context: US revenue +104% YoY, total revenue +85% YoY; FY 2026 guidance raised to 71% YoY growth. Stock has pulled back with broader tech sector but FY guidance momentum remains intact.",
-      "why": "Palantir 政府+商业 AI 软件双轮驱动，8月3日业绩是下一个关键验证窗口；当前 IV 因板块回调抬升，sell-put（行权价70-80美元区间）可锁定溢价；FY2026指引71%增长若兑现将强化长期持仓逻辑。",
-      "source": "StockTitan / Yahoo Finance",
-      "verified": false,
-      "keywords": [
-        "Palantir",
-        "PLTR",
-        "AIP",
-        "Foundry",
-        "AI",
-        "earnings",
-        "Q2"
-      ],
-      "translated": false,
-      "url": "https://www.stocktitan.net/news/PLTR/palantir-announces-date-of-second-quarter-2026-earnings-release-and-pb0p9gl5pf2d.html",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "f6934944825ce5c6",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "07:30",
-      "group": "个股",
-      "title": "Laopu Gold (6181.HK) down 65% from peak — gold fell from $5,600 to below $4,000; counter-cyclical price hike backfired",
-      "summary": "Laopu Gold shares near HK$370, down ~65% from July 2025 peak of HK$1,065. Gold prices fell ~30% from ~$5,600/oz to below $4,000. The company's Feb 2026 avg 20-30% price hike while rivals cut prices created severe demand headwinds. Nomura cut target to HK$905.",
-      "why": "老铺黄金已从顶部大幅调整，若黄金止跌企稳存在逆向修复机会；但定价策略失当与金价继续下行风险并存，估值修复节奏难判断，卖put须设置充足缓冲。",
-      "source": "BigGo Finance / MarketScreener",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "Laopu Gold",
-        "6181.HK",
-        "黄金",
-        "金价",
-        "足金",
-        "黄金首饰"
-      ],
-      "translated": false,
-      "url": "https://finance.biggo.com/news/77dd79c8-8962-41ec-b492-f39f4cf841af",
-      "is_new": false,
-      "first_seen": "2026-07-22"
-    },
-    {
-      "id": "17979bf187a7b2f7",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "SK Hynix (SKHY) post-IPO whipsaws — Korean shares plunged 15.4%; HBM4E 12-layer samples shipped",
-      "summary": "After the $26.5B Nasdaq IPO debut (+13% on July 10), SKHY whipsawed as Korean shares plunged 15.4% on arbitrage selling, dragging Kospi down 9%. Separately, SK Hynix confirmed shipment of 12-layer HBM4E samples (48GB capacity, 2TB/s bandwidth) to key customers.",
-      "why": "SK海力士三地价差剧烈是持仓风险点；HBM4E样品发货领先竞争对手，HBM4量产Q3验证在即；CSOP两倍做多产品波动率大幅放大，需设置止损。",
-      "source": "TimothySykes / SK Hynix Newsroom",
-      "verified": true,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "SKHY",
-        "HBM",
-        "HBM4E",
-        "高带宽内存",
-        "南方两倍做多",
-        "CSOP"
-      ],
-      "translated": false,
-      "url": "https://timothysykes.com/news/sk-hynix-inc-skhy-news-2026_07_20/",
-      "is_new": false,
-      "first_seen": "2026-07-22"
     },
     {
       "tier": 3,
