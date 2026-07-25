@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-24 18:10 (北京时间)",
+  "updated_at": "2026-07-25 08:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,232 @@
   "positions": [],
   "items": [
     {
+      "id": "bad3324907b7160b",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "美联储7月28-29日FOMC会议前瞻：预计按兵不动，9月加息25bp概率已接近49%",
+      "summary": "市场预期美联储7月28-29日FOMC会议维持利率4.25%-4.5%不变（持平概率约70%）。但9月加息25bp市场定价概率已升至近49%，美债10年期收益率本周一度触4.71%，核心PCE通胀2027年底预期被上调至3.6%，鹰派立场延续。",
+      "why": "FOMC结果是本周最大宏观变量；若鹰派信号超预期，科技股可能再度承压；按兵不动则有望为市场企稳提供短暂喘息。sell put须评估利率路径风险。",
+      "source": "新浪财经/华尔街见闻",
+      "verified": false,
+      "keywords": [
+        "FOMC",
+        "美联储",
+        "Fed",
+        "加息",
+        "利率",
+        "货币政策",
+        "鹰派"
+      ],
+      "translated": false,
+      "url": "https://news.biyapay.com/news/analysis/12588",
+      "is_new": true,
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "4c6014cd4fe5f04f",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Oil dips below $100/barrel July 25 as equities stabilize; Brent had surged past $100 on US-Iran shipping blockade",
+      "summary": "Crude oil pulled back below $100/barrel on July 25 morning after exceeding that level this week amid US-Iran tensions (US reimposed maritime blockade on Iran from July 14, pushing Brent up ~13% in a week). Easing oil prices helped stabilize equities, with S&P 500 futures steady and big tech rebounding modestly.",
+      "why": "油价冲破$100后回落，短暂缓解通胀压力，利好风险资产阶段性修复；但伊朗地缘风险尚未消解，高利率预期延续，市场整体依然脆弱。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "oil price",
+        "crude oil",
+        "Iran",
+        "美伊冲突",
+        "大盘",
+        "oil"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/s-p-500-futures-steady-as-big-tech-rebounds-oil-dips-below-100",
+      "is_new": true,
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "0a927d61d37e6b65",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股收评：恒指跌0.98%失守25000点 科指跌1.47% 阿里跌超4%、腾讯等科网股普跌",
+      "summary": "7月24日恒生指数收跌0.98%至24963.23点，失守25000整数关；恒生科技指数跌1.47%至4629.51点。阿里巴巴跌超4%，腾讯、快手、哔哩哔哩、百度均跌超2%。主板成交2098.77亿港元，较前一日减少约一成。",
+      "why": "港股核心科技持仓（腾讯、阿里）昨日集体走弱，恒指失守25000点关键支撑，外围美股科技大跌持续传导；短期建议审视持仓delta敞口。",
+      "source": "新浪财经/财联社",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "HSI",
+        "港股",
+        "科技股",
+        "阿里巴巴",
+        "腾讯"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-24/doc-iniiwvkm1742328.shtml",
+      "is_new": true,
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "0c49a17677258d2b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "Magnificent Seven sheds ~$800B in one day; Nasdaq posts back-to-back weekly loss as AI capex fears mount",
+      "summary": "US big tech collectively shed ~$800 billion in market cap on Thursday after Google's massive capex hike and Tesla's earnings miss triggered a broad selloff. Nasdaq fell 2% for the week, its second consecutive weekly decline. All three major U.S. indexes closed the week lower.",
+      "why": "AI军备竞赛引发市场对超大资本开支的担忧，科技巨头估值齐受压；持有美股科技仓位须关注隐含波动率上升，sell put策略需重新审视行权价安全垫。",
+      "source": "Yahoo Finance",
+      "verified": false,
+      "keywords": [
+        "Nasdaq",
+        "Magnificent Seven",
+        "AI spending",
+        "美股",
+        "大盘"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html",
+      "is_new": true,
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "03516b05a7b759a2",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06:00",
+      "group": "个股",
+      "title": "Intel Q2 2026: Revenue +25% YoY to $16.1B; 18A yield 85%, Fortinet as first cybersecurity foundry customer; INTC -5%",
+      "summary": "Intel Q2 2026 revenue $16.1B (+25% YoY), fastest growth since 2011. 18A process yield 85%, running 25%+ above target; 18A wafer output +50%+ QoQ. Foundry revenue +31% to ~$5.8B; Fortinet became first cybersecurity customer. INTC fell ~5% to $95 despite beat as foundry losses offset AI gains.",
+      "why": "18A良率85%超目标是重大技术里程碑，代工风险大幅降低；首个非超算级代工客户开拓多元化收入来源；代工亏损持续但改善趋势明确，$95回调可关注期权布局机会。",
+      "source": "Intel IR",
+      "verified": true,
+      "keywords": [
+        "Intel",
+        "英特尔",
+        "INTC",
+        "18A",
+        "foundry",
+        "代工",
+        "晶圆",
+        "Fortinet"
+      ],
+      "translated": false,
+      "url": "https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results",
+      "is_new": true,
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "9a524879db67f4d7",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "阿里巴巴全年收入首破1万亿元，AI产品连续11季三位数增长，云业务折年化超358亿元",
+      "summary": "阿里FY2026全年收入10,236.7亿元（同比+3%），历史首次突破1万亿人民币。云智能集团Q1收入同比+38%；AI相关产品连续11个季度三位数增长，占云收入首超30%，折年化约358亿元。",
+      "why": "阿里云+AI双引擎增长趋势确定，收入突破1万亿里程碑增强市场信心；AI产品占比持续提升有望推动估值重构，BABA/9988.HK多头持仓逻辑持续强化。",
+      "source": "证券时报网",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "阿里云",
+        "AI",
+        "通义千问"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/3907704.html",
+      "is_new": true,
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "735de0993d6e06f7",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "小米汽车6月销量34,738辆，SU7拿下2026上半年20万+纯电轿车冠军，YU7年初至今SUV销量第一",
+      "summary": "小米汽车2026年6月零售销量34,738辆（SU7批发超2.04万辆），连续三月站稳3万台交付。SU7斩获2026上半年20万元以上纯电轿车销量冠军；YU7拿下2026年前四月全国SUV销量第一。上半年累计交付超18万辆。",
+      "why": "小米汽车销量持续超预期，汽车业务成为小米(1810.HK)核心增量估值来源；SU7/YU7双冠验证产品竞争力，长期持仓逻辑强化，降低sell put行权风险。",
+      "source": "凤凰汽车",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "SU7",
+        "YU7",
+        "小米汽车",
+        "销量"
+      ],
+      "translated": false,
+      "url": "https://auto.ifeng.com/c/8ubAcdMtzg7",
+      "is_new": true,
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "20f167a05c3d1cdd",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "个股",
+      "title": "SanDisk (SNDK) tumbles 11% on July 24 as storage stocks extend rout; SK Hynix, Micron also under pressure",
+      "summary": "SanDisk (SNDK) fell 11% on Friday July 24, extending the storage-sector selloff. Previously: SK Hynix crashed 9% and Micron/SanDisk fell 8%+ on July 15. SK Hynix Q1 revenue W52.6T (+198% YoY); 2026 HBM supply fully contracted — strong fundamentals but stretched valuations being repriced.",
+      "why": "存储股连续回调反映市场对高估值的重新定价；SK海力士/美光HBM4基本面强劲但股价承压；若持有空头期权可评估是否锁定收益，多头持仓须关注支撑位。",
+      "source": "Motley Fool",
+      "verified": false,
+      "keywords": [
+        "SanDisk",
+        "闪迪",
+        "SNDK",
+        "SK海力士",
+        "SK Hynix",
+        "美光",
+        "Micron",
+        "HBM",
+        "存储芯片"
+      ],
+      "translated": false,
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/",
+      "is_new": true,
+      "first_seen": "2026-07-25"
+    },
+    {
       "tier": 1,
       "lang": "en",
       "markets": [
@@ -59,7 +285,7 @@
       "translated": false,
       "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave",
       "id": "4e30eee38af215c7",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -85,7 +311,7 @@
       "translated": false,
       "url": "http://en.people.cn/n3/2026/0724/c90000-20481325.html",
       "id": "e3cb37afe16bc846",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -110,7 +336,7 @@
       "translated": false,
       "url": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html",
       "id": "e3fb12bf1d4ec4f7",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -138,7 +364,7 @@
       "translated": false,
       "url": "https://electrek.co/2026/07/23/tesla-tsla-crashes-12-q2-2026-earnings-miss/",
       "id": "9d6ec86a438c7422",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -165,7 +391,7 @@
       "translated": false,
       "url": "https://theedgemalaysia.com/node/810608",
       "id": "b91f4568df53a815",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -192,7 +418,7 @@
       "translated": false,
       "url": "https://www.bloomberg.com/news/articles/2026-07-24/china-set-to-look-past-trump-s-new-tariffs-before-xi-visit-to-us",
       "id": "beb88da0f525b29c",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -217,7 +443,7 @@
       "translated": false,
       "url": "https://www.bloomberg.com/news/newsletters/2026-07-24/china-s-national-team-steps-in-to-provide-a-tech-stock-put",
       "id": "c38a0af29c9c19c0",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -244,7 +470,7 @@
       "translated": false,
       "url": "https://www.fool.com/investing/2026/07/22/sk-hynix-has-fantastic-news-for-memory-stocks-time/",
       "id": "6fe8eba59b9fc437",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -269,7 +495,7 @@
       "translated": false,
       "url": "https://www.bloomberg.com/news/articles/2026-07-24/chinese-stock-turnover-shrinks-as-sentiment-cools-on-tech-sector",
       "id": "012dd4a5e71ac51a",
-      "is_new": true,
+      "is_new": false,
       "first_seen": "2026-07-24"
     },
     {
@@ -3937,243 +4163,6 @@
       ],
       "translated": false,
       "url": "https://www.stocktitan.net/news/PLTR/palantir-announces-date-of-second-quarter-2026-earnings-release-and-pb0p9gl5pf2d.html",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "395d485e74ffe566",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "US strikes Iran, oil surges ~16% for the week; Iran sanctions waiver expires July 17 — geopolitical risk premium elevated globally",
-      "summary": "The Trump administration launched fresh strikes on Iran and declined to renew the temporary waiver on Iranian oil sanctions, which expired July 17. Brent crude jumped ~7% on the day of strikes and surged approximately 16% over the week. The Strait of Hormuz remains at risk following attacks on commercial vessels. Higher oil prices stoke inflation concerns globally, complicating the Fed's policy path and contributing to the week's global equity sell-off.",
-      "why": "油价周内大涨16%叠加中东地缘持续紧张：通胀压力升温可能推迟美联储降息（7月28-29日FOMC是关键节点）；能源股短期受益但科技/消费估值承压；对港股/A股——人民币贬值压力上升，进口成本提高；持有消费类sell put仓位的投资者需适当扩大执行价与现价之间的安全缓冲。",
-      "source": "NPR / Al Jazeera",
-      "verified": true,
-      "keywords": [
-        "伊朗",
-        "Iran",
-        "油价",
-        "oil",
-        "地缘",
-        "美联储",
-        "Fed",
-        "通胀",
-        "FOMC",
-        "中东"
-      ],
-      "translated": false,
-      "url": "https://www.npr.org/2026/07/08/nx-s1-5885946/iran-trump-oil-stock-inflation-gas-federal-reserve",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "6c85a78d62b24f9c",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "华尔街见闻早餐（7月20日）：美股三大指数两连跌抹平7月涨幅，纳指全周跌近3%，半导体指数跌入熊市区间",
-      "summary": "美国三大股指周五延续跌势，全周抹平7月以来涨幅。费城半导体指数全周跌近10%，正式进入熊市区间；英伟达周五收跌超2%，此前两日累计跌超20%，盘中苹果一度夺回全球个股市值第一位；SK海力士收涨逾1%小幅回稳。中东局势持续，全周原油大涨近16%，美元指数走强，亚太风险情绪承压。",
-      "why": "美股半导体全周跌入熊市是本周最关键信号：英伟达两日暴跌20%+触发行业估值重估，隐含波动率大幅走高，对持有NVDA相关Sell Put/Covered Call仓位者建议立即检视保证金占用和Delta敞口；油价大涨16%叠加韩国加息，全球利率上行压力可能推迟美联储降息，权益风险溢价收缩空间受限。",
-      "source": "华尔街见闻",
-      "verified": true,
-      "keywords": [
-        "美股",
-        "纳斯达克",
-        "半导体",
-        "英伟达",
-        "SK海力士",
-        "费城半导体",
-        "科技股"
-      ],
-      "translated": false,
-      "url": "https://www.163.com/dy/article/L28UASG805198NMR.html",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "04b7ad43ab70d358",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "证监会7月20日召开座谈会促稳市，A股周五大跌：上证跌3.05%失守3800点，创业板暴跌7.15%",
-      "summary": "7月17日（周五），A股遭遇年内最强系统性下跌，上证指数跌3.05%收报3764.15点，失守3800关键点位并创年内新低；创业板指暴跌7.15%刷新年内最大单日跌幅，科创50跌逾7%，港股AI大模型股智谱跌近30%。外因系韩股与美股半导体抛售蔓延、中东局势持续输入地缘风险；内因系前期科技行情高位获利盘集中释放。证监会随即宣布7月20日召开上市公司、券商及基金座谈会。",
-      "why": "A股年内最强单日跌幅叠加证监会紧急座谈会，政策底信号强烈；持有消费+科技中长期仓位需关注周一开盘企稳与否——若证监会会议传达积极信号，sell put仓位的时间价值有望快速兑现；若跌势延续，建议扩大Delta缓冲，关注3700-3750支撑区间。",
-      "source": "第一财经 / 新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "上证指数",
-        "创业板",
-        "证监会",
-        "座谈会",
-        "股市下跌",
-        "科创50"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniiktnr3149502.shtml",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "875ac902a9a707ff",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "国新投资等央企动用超500亿元回购增持专项再贷款维稳A股，多家私募宣布自购",
-      "summary": "国新控股旗下国新投资已动用股票回购增持专项再贷款及配套资金超500亿元维护市场稳定；中国诚通及旗下诚通资本、诚旸投资聚焦国资央企，累计买入A股近百亿元。多家私募机构也宣布自购旗下基金，形成政策托底合力。",
-      "why": "国家队合计逾600亿资金入场，是近年规模较大的一次集中护盘，若周一（7月20日）低开后承接力强，为sell put仓位提供安全边际；但需注意大规模托底本身也反映市场内生动力不足，中期仍需观察基本面改善。",
-      "source": "新浪财经 / 第一财经",
-      "verified": true,
-      "keywords": [
-        "国新投资",
-        "国家队",
-        "央企增持",
-        "A股",
-        "股市维稳",
-        "回购",
-        "私募自购"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.cn/stock/ggyj/2026-07-20/detail-iniikhxa4982918.d.html",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "1d8c48511d3f58e6",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "10:30",
-      "group": "大盘头条",
-      "title": "Bank of Korea raises rate 25bp to 2.75%, first hike in 3.5 years, signals further tightening as CPI hits 3.2%",
-      "summary": "South Korea's Monetary Policy Board unanimously voted on July 16 to raise its benchmark rate by 25 basis points to 2.75%, the first hike since January 2023. June headline CPI jumped to 3.2% — its highest since 2023 — driven by elevated oil prices and a weaker won. Governor Shin Hyun-song signaled further tightening is possible. South Korea's Ministry of Finance simultaneously raised its 2026 GDP growth forecast from 2.0% to 3.0%, the highest projection in five years.",
-      "why": "韩国央行在三年半后重启加息周期，全球利率风险偏高叙事进一步强化；韩股（KOSPI）和SK海力士短期受压，传导至港股半导体ETF；整体市场利率上行环境使折现率提高，持有高估值科技股期权仓位需适当扩大安全边际；7月28-29日美联储FOMC为下一个关键节点。",
-      "source": "CNBC / Bloomberg",
-      "verified": true,
-      "keywords": [
-        "韩国",
-        "Bank of Korea",
-        "加息",
-        "利率",
-        "通胀",
-        "SK海力士",
-        "KOSPI",
-        "货币政策"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "d97d919080837ecd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "TSMC Q2 2026 net profit surges 77% YoY to record $22B; raises full-year revenue growth guidance to 40%+; adds $100B Arizona investment",
-      "summary": "TSMC reported record Q2 2026 net profit of $21.99 billion (+77% YoY) on revenue of $40.2 billion, beating consensus EPS of $3.80 with actual $4.31 — its fifth consecutive all-time quarterly profit. TSMC raised full-year 2026 revenue growth guidance from 'over 30%' to 'slightly above 40%'. Simultaneously announced an additional $100 billion Arizona investment, cementing its lead as the exclusive manufacturer of Nvidia Blackwell GPUs and Apple A-series chips.",
-      "why": "台积电Q2净利创纪录+77%并大幅上调全年指引，AI算力需求强劲确认无疑：利好整个半导体生态（英伟达Blackwell供应无虞，HBM订单逻辑得到背书）；台积电ADR（TSM）作为AI算力代理标的，在当前半导体整体回调中是优质sell put目标，亚利桑那追加1000亿美元凸显长期确定性。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "台积电",
-        "TSMC",
-        "TSM",
-        "Q2",
-        "业绩",
-        "Blackwell",
-        "AI芯片",
-        "亚利桑那",
-        "晶圆代工"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "d36744d6ab3f21ba",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "财政部联合发文：2026年9月起固态电池、钠离子电池、燃料电池等新型电池免征消费税",
-      "summary": "财政部、海关总署、税务总局7月20日联合公告，明确自2026年9月1日起分步调整部分电池产品消费税政策：固态电池、钠离子电池、燃料电池及光伏电池中的钙钛矿、叠层、砷化镓电池全部免征消费税，以支持新能源产业转型升级。",
-      "why": "固态/钠离子电池免消费税直接利好产业链：短期催化宁德时代、比亚迪等A股龙头；也间接支持搭载固态电池路线图的小米汽车SU7 Ultra（1810.HK）以及新能源整车厂商；9月实施留有充足准备窗口，可关注A股新能源板块的结构性机会。",
-      "source": "四大证券报 / 新浪财经",
-      "verified": true,
-      "keywords": [
-        "固态电池",
-        "钠离子电池",
-        "消费税",
-        "财政部",
-        "新能源",
-        "电池",
-        "税收政策"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/y/2026-07-20/doc-iniikxup3101607.shtml",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "2896c01c5307c50a",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Tesla Robotaxi expands to Miami (first unsupervised market outside Texas), fleet at 175 in Texas; Q2 report due July 22",
-      "summary": "Tesla expanded its unsupervised Robotaxi service to Miami — the first deployment outside Texas — with fully autonomous Model Y vehicles covering western/central Miami-Dade. Texas fleet grew to 175 vehicles (up 100+ in one month). Four more cities in preparation. Q2 production: 451,758 vehicles; deliveries: 480,126. Q2 earnings due July 22. TSLA stock was down ~2.3% at ~$382 ahead of the report.",
-      "why": "特斯拉Robotaxi商业化持续落地（迈阿密为德州外首个无监督市场），是中长期自动驾驶叙事的重要里程碑；当前股价约$382较$420高点回调约9%，Robotaxi扩张进展或提供支撑；Q2财报（7月22日）是近期关键催化剂，关注汽车毛利率和现金流数字；财报前IV偏高，可考虑卖出跨式策略。",
-      "source": "Benzinga",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Robotaxi",
-        "自动驾驶",
-        "FSD",
-        "Miami",
-        "Q2财报"
-      ],
-      "translated": false,
-      "url": "https://www.benzinga.com/markets/tech/26/07/60536701/teslas-robotaxi-land-grab-miami-added-texas-fleet-grows",
       "is_new": false,
       "first_seen": "2026-07-20"
     }
