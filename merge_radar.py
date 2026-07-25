@@ -3,16 +3,32 @@
 merge_radar.py — Market Radar 数据合并 & 发布脚本
 
 职责：读取 Claude 本次生成的 new_items.json，与 GitHub 上的历史 data.json 合并，
-     剪枝后通过 GitHub Contents API 写回 claude/radar-data 分支。
+     剪枝后通过 GitHub Contents API 写回 main 分支。
 
 Claude 的上下文里永远不需要载入历史条目。
 用法：python3 merge_radar.py
 
-v4 改动（2026-07-25）：新增发布日期硬性过滤，防止把过期新闻（原文发布已数周/数月）
+v4 改动（2026-07-25 上午）：新增发布日期硬性过滤，防止把过期新闻（原文发布已数周/数月）
 当作"新增"收录进雷达。触发原因：2026-07-25 发现"阿里巴巴全年收入首破1万亿元"
 （原文发布于 2026-05-13）、"小米汽车6月销量"（原文 2026-07-08）、"腾讯混元Hy3"
 （原文 2026-07-07）三条新闻被当作当日新增收录，实际都是旧闻。
 详见 routine-prompt-fixed.md 2.6/2.7 节。
+
+v5 改动（2026-07-25 下午）：把发布目标分支从 claude/radar-data 改回 main，并新增
+"陈旧分支保护"。触发原因：v4 上线后 Routine 当天首次真正跑通 merge_radar.py，
+写入的是 claude/radar-data 分支——但这个分支自 2026-07-06 起就没人碰过（此前
+main 分支一直由另一条"radar: HH:MM batch"命名的旧管线持续更新，直到今天
+2026-07-25 08:18 才停）。claude/radar-data 里躺了 19 天的旧数据一夜之间被
+prune() 的 KEEP_DAYS=7 逻辑几乎清空，只剩当天新增的 8 条，而这个分支的
+updated_at 又比 main 新，于是页面改成展示这个几乎清空的分支——用户看到"之前
+推送全没了"。核心问题：两个分支各自独立累积历史，一旦其中一个长期没人写，
+下次一写就会被自己的"7天保留期"规则误杀。修复：
+  (a) 把 BRANCH 改回 main，与过去19天实际在用、持续更新的分支保持一致，
+      不再维护一个可能被遗忘的第二分支；
+  (b) prune() 增加陈旧分支保护：如果现有条目里最新的 first_seen 本身已经
+      超过 KEEP_DAYS，说明这个数据源已经很久没更新，这次直接跳过按日期
+      剪枝（只按 MAX_ITEMS 数量上限裁剪），避免"长期没跑 + 一朝跑通"的
+      组合再次清空历史。
 """
 
 import json
@@ -24,12 +40,13 @@ import urllib.error
 from datetime import datetime, timezone, timedelta
 
 REPO    = "dzkeke-tech/market-radar"
-BRANCH  = "claude/radar-data"
+BRANCH  = "main"
 API_URL = f"https://api.github.com/repos/{REPO}/contents"
 TOKEN   = os.environ.get("GITHUB_TOKEN", "")
 
 MAX_ITEMS = 150
 KEEP_DAYS = 7
+STALE_BRANCH_GRACE_DAYS = KEEP_DAYS  # 若现有数据的最新 first_seen 已超过这个天数，视为“陈旧分支”，本轮跳过按日期剪枝
 
 # 发布日期硬性过滤（v4 新增）：
 #   - MAX_AGE_SOFT_DAYS：默认时间窗。超过则要求 still_developing=true 才放行。
@@ -146,12 +163,39 @@ def validate_new_items(items, today_str):
     return valid, dropped
 
 
-def prune(items, today_str):
-    """Drop items older than KEEP_DAYS (never drop is_new=True); trim to MAX_ITEMS."""
-    cutoff = (datetime.strptime(today_str, "%Y-%m-%d") - timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d")
+def is_stale_branch(existing_items, today_str):
+    """陈旧分支保护（v5 新增）。
 
-    # 1. Drop stale items (keep all is_new=True regardless)
-    items = [i for i in items if i.get("is_new") or i.get("first_seen", "9999") >= cutoff]
+    如果现有历史里"最新"的 first_seen 本身已经比 KEEP_DAYS 还早，说明这批数据
+    已经很久没有被追加更新过（分支/流水线曾经断更）。这种情况下如果照常按
+    "first_seen < today - KEEP_DAYS 就丢弃"来剪枝，会把全部旧历史一次性清空
+    ——这正是 2026-07-25 claude/radar-data 分支history被误删的原因。
+
+    检测到这种情况时，本轮跳过按日期剪枝，只保留按 MAX_ITEMS 的数量上限裁剪，
+    避免"断更很久 + 突然又跑通"的组合再次清空历史。
+    """
+    non_new = [i for i in existing_items if not i.get("is_new") and i.get("first_seen")]
+    if not non_new:
+        return False
+    newest_first_seen = max(i["first_seen"] for i in non_new)
+    try:
+        gap_days = (datetime.strptime(today_str, "%Y-%m-%d")
+                    - datetime.strptime(newest_first_seen, "%Y-%m-%d")).days
+    except ValueError:
+        return False
+    return gap_days > STALE_BRANCH_GRACE_DAYS
+
+
+def prune(items, today_str, skip_date_prune=False):
+    """Drop items older than KEEP_DAYS (never drop is_new=True); trim to MAX_ITEMS.
+
+    skip_date_prune=True（陈旧分支保护触发时）会跳过按日期丢弃这一步，只按
+    MAX_ITEMS 数量上限裁剪，防止长期断更的分支一朝更新就被清空历史。
+    """
+    if not skip_date_prune:
+        cutoff = (datetime.strptime(today_str, "%Y-%m-%d") - timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d")
+        # 1. Drop stale items (keep all is_new=True regardless)
+        items = [i for i in items if i.get("is_new") or i.get("first_seen", "9999") >= cutoff]
 
     # 2. If still over limit, trim oldest low-tier items first
     for tier in [3, 2]:
@@ -229,8 +273,14 @@ def main():
     for item in existing_items:
         item["is_new"] = False
 
+    # 陈旧分支保护（v5 新增）：现有历史很久没更新过时，本轮跳过按日期剪枝
+    skip_date_prune = is_stale_branch(existing_items, today_str)
+    if skip_date_prune:
+        print(f"⚠ 检测到陈旧分支（现有历史最新 first_seen 距今超过 {STALE_BRANCH_GRACE_DAYS} 天），"
+              f"本轮跳过按日期剪枝，只按 MAX_ITEMS={MAX_ITEMS} 裁剪，避免清空历史。")
+
     # Merge → prune → sort
-    merged = prune(truly_new + existing_items, today_str)
+    merged = prune(truly_new + existing_items, today_str, skip_date_prune=skip_date_prune)
     merged = sort_items(merged)
 
     # Update seen IDs（校验环节丢弃的候选也一并计入 seen，避免下一轮重复抓取/重复丢弃同一条）

@@ -8,6 +8,13 @@
 > 历史数据的合并/剪枝/发布完全由 `merge_radar.py` 脚本负责，Claude 上下文中不再载入历史条目。
 > Claude 只负责：读 seen.json（去重）→ 搜索 → 核实 → 输出 new_items.json → 调用脚本发布。
 >
+> **v5 改动（2026-07-25）**：发布目标分支由 `claude/radar-data` 改回 `main`。原因：
+> `claude/radar-data` 分支从 2026-07-06 起被闲置了19天，而同期 main 分支一直由
+> 另一条管线持续更新；v4 上线当天 merge_radar.py 第一次真正跑通并写入
+> `claude/radar-data`，触发了这个分支自己的7天剪枝逻辑，把19天没更新的旧历史
+> 几乎清空。现在统一以 `main` 为唯一发布分支，脚本也新增了"陈旧分支保护"作为
+> 兜底（详见 merge_radar.py 内注释）。
+>
 > **v4 改动（2026-07-25）**：2026-07-25 发现雷达里混入了三条已发布 17～73 天的旧闻
 > （"阿里巴巴全年收入首破1万亿元"原文2026-05-13、"小米汽车6月销量"原文2026-07-08、
 > "腾讯混元Hy3"原文2026-07-07），以及一条把单日回购数据错写成"年内累计"聚合数字、
@@ -26,10 +33,10 @@
 
 > ⚠️ 只需读取两样东西，**不要读取或载入 data.json 的 items**（历史合并由脚本负责）。
 
-**读 `seen.json`（从 `claude/radar-data` 分支）**：
+**读 `seen.json`（从 `main` 分支）**：
 ```bash
 curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
-  "https://api.github.com/repos/dzkeke-tech/market-radar/contents/seen.json?ref=claude/radar-data" \
+  "https://api.github.com/repos/dzkeke-tech/market-radar/contents/seen.json?ref=main" \
   | python3 -c "import sys,json,base64; d=json.load(sys.stdin); print(base64.b64decode(d['content']).decode())" \
   > /tmp/seen.json 2>/dev/null || echo '{"ids":[]}' > /tmp/seen.json
 ```
