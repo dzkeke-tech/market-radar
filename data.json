@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-25 18:29 (北京时间)",
+  "updated_at": "2026-07-26 08:32 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,131 +37,117 @@
   "positions": [],
   "items": [
     {
-      "id": "c931a1093deacfe9",
+      "id": "a51098c573cc662a",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
+        "US",
         "HK"
       ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "老铺黄金股价较高峰跌65%，市值蒸发逾1200亿港元；金价从高点回撤28%，深圳门店现折扣",
-      "summary": "老铺黄金（6181.HK）股价约港元373，较历史高位港元1,065+已跌约65%，市值较峰值缩水逾1200亿港元。金价已从2026年1月约5,595美元/盎司高点跌至约4,018-4,120美元/盎司（跌幅约28%），拖累老铺黄金估值从超50倍PE压缩至约12倍。深圳部分门店出现约9折优惠，销量下滑迹象显现。",
-      "why": "关键词库标的6181.HK估值重估事件：PE从50x+压缩至12x，金价跌幅尚未完全反映在财报端，门店折扣是前瞻指标；对持有该股sell-put仓位者需警惕业绩下修风险——若金价跌破4000美元或门店折扣扩大，隐含波动率可能进一步走高，当前应偏虚值执行价以保留安全边际。",
-      "source": "21世纪经济报道（21财经）",
+      "time": "2026-07-26",
+      "group": "大盘头条",
+      "title": "华尔街“卖芯片买软件”轮动再现，科技板块内部分化加剧",
+      "summary": "CNBC报道，周五尾盘华尔街出现明显“卖芯片-买软件”行业轮动：半导体股遭获利了结，软件/AI应用股逆势走强，被解读为投资者在动荡周收官前对AI产业链重新定价的信号。",
+      "why": "轮动信号直接影响英伟达、美光、SK海力士等半导体持仓估值；Palantir在关键词表且属受益方；对半导体卖PUT策略的行权价合理区间产生影响。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "老铺黄金",
-        "Laopu Gold",
-        "6181.HK",
-        "金价",
-        "黄金首饰",
-        "珠宝",
-        "古法金",
-        "足金"
+        "科技",
+        "半导体",
+        "semiconductor",
+        "英伟达",
+        "Palantir",
+        "轮动"
       ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260724/herald/ee21a6173498435c84f1b0385db7a67a.html",
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/07/24/the-sell-chips-buy-software-trade-reappears-as-wall-street-caps-off-another-volatile-week.html",
       "published_date": "2026-07-24",
-      "still_developing": false,
-      "first_seen": "2026-07-25",
+      "first_seen": "2026-07-26",
       "is_new": true
     },
     {
-      "id": "c4a5d14acedcd1bc",
+      "id": "1e20364164ec9fea",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "美股存储芯片7月25日重挫：闪迪跌超8%、美光跌6%、SK海力士跌6%，费城半导体指数跌逾3%",
-      "summary": "7月25日（周五）美股盘中，存储芯片板块全线大跌：闪迪（SNDK）-8%+、美光（MU）-6%、SK海力士-6%，费城半导体指数（SOX）跌逾3%。导火索：Alphabet和特斯拉Q2财报显示AI资本支出商业回报率不及预期，机构投资者质疑AI算力需求的商业化速度。马斯克个人财富一周内缩水约8,800亿元人民币。",
-      "why": "关键词库多标的（闪迪SNDK、美光MU、SK海力士）同步重挫，直接影响相关 sell-put 仓位的保证金和隐含波动率；Alphabet/特斯拉AI capex ROI质疑是跨市场情绪传导信号，可能波及英伟达（NVDA）和港股AI板块；建议审查存储芯片 sell-put 仓位的执行价安全边际。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "闪迪",
-        "SanDisk",
-        "SNDK",
-        "美光",
-        "Micron",
-        "MU",
-        "SK海力士",
-        "SK Hynix",
-        "HBM",
-        "费城半导体",
-        "特斯拉",
-        "Tesla",
-        "谷歌",
-        "Alphabet",
-        "AI芯片"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiyptt1413920.shtml",
-      "published_date": "2026-07-25",
-      "still_developing": false,
-      "first_seen": "2026-07-25",
-      "is_new": true
-    },
-    {
-      "id": "f0e571b83e1f4e5f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "监管/规则变化",
-      "title": "港交所拟延长港股交易时间：上午9点开市、取消午休、增加下午4-8时延伸时段",
-      "summary": "港交所就延长交易时间向市场咨询：方案包括提早30分钟至09:00开盘、取消一小时午间休市、增设下午4-8时延伸交易时段。港交所回应称目前仍处非常早期阶段，衍生品市场将优先推进。",
-      "why": "港股交易制度重大潜在变化：延长时段将提升市场流动性，但也可能增加做市商成本；对 sell-put 策略的意义在于日间 gamma 曝险时间窗拉长，需重新校准隔夜仓位管理。咨询期料持续数月，事件仍在发酵。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "港交所",
-        "HKEX",
-        "交易时间",
-        "港股",
-        "流动性",
-        "衍生品"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimuyc3060142.shtml",
-      "published_date": "2026-07-20",
-      "still_developing": true,
-      "first_seen": "2026-07-25",
-      "is_new": true
-    },
-    {
-      "id": "48310dbc7844038a",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
+      "time": "2026-07-26",
       "group": "大盘头条",
-      "title": "港股7月24日收盘：恒指跌0.98%失守25000点，恒生科技-1.47%，AI板块全线回调",
-      "summary": "2026年7月24日，恒生指数收报24,963点（跌247.58点，-0.98%），恒生科技指数跌1.47%，AI产业链个股全线调整。拖累因素包括：伊朗冲突推高油价、CME显示美联储7月加息概率升至46.5%、美国十年期国债收益率约4.71%。",
-      "why": "港股大盘日收盘数据：恒指失守25,000关口，美联储加息预期（46.5%概率）叠加十年期美债收益率4.71%，对港股整体估值形成压制；AI板块全线回调影响腾讯/阿里等重仓标的的 sell-put 敞口，需关注短期隐含波动率是否进一步走高。",
+      "title": "英特尔Q2 2026超预期：营收161亿美元同比+25%，数据中心+59%，约15年最快增速",
+      "summary": "英特尔7月23日发布2026年Q2财报：营收161亿美元（YoY+25%，约15年最快增速），数据中心业务63亿美元（+59%），PC客户端芯片89亿美元（+13%）；Non-GAAP EPS $0.42；Q3指引营收$158-168亿，全面好于预期。CEO Lip-Bu Tan称AI驱动“史无前例”的算力需求。",
+      "why": "英特尔在关键词表（INTC）；业绩大幅超预期、数据中心+59%印证AI算力资本开支周期未减速，对英伟达、SK海力士等关联标的有正面情绪溢出；代工业务进展影响整体半导体供给侧判断。",
+      "source": "SEC EDGAR (primary_official)",
+      "verified": true,
+      "keywords": [
+        "英特尔",
+        "Intel",
+        "INTC",
+        "半导体",
+        "数据中心",
+        "业绩"
+      ],
+      "translated": true,
+      "url": "https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000155/q226earningsrelease.htm",
+      "published_date": "2026-07-23",
+      "still_developing": true,
+      "first_seen": "2026-07-26",
+      "is_new": true
+    },
+    {
+      "id": "71900b6586916de0",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-07-26",
+      "group": "大盘头条",
+      "title": "港股恒指跌破25000点整数关口，科技权重股承压",
+      "summary": "7月24日港股恒生指数跌破25000点整数关口，科技及消费权重股领跌，市场情绪受美伊紧张局势及全球风险偏好收缩拖累。",
+      "why": "25000为恒指近期关键支撑，跌破后直接影响腾讯（0700.HK）、阿里（9988.HK）、美团（3690.HK）等核心港股仓位评估；同时影响相关标的卖PUT行权价判断。",
       "source": "财联社",
       "verified": true,
       "keywords": [
-        "恒生指数",
         "港股",
-        "恒生科技",
-        "美联储",
-        "加息",
-        "国债收益率",
-        "AI板块"
+        "恒指",
+        "HK",
+        "大盘",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://m.cls.cn/detail/2429561",
+      "url": "https://www.cls.cn/detail/2435748",
       "published_date": "2026-07-24",
-      "still_developing": false,
-      "first_seen": "2026-07-25",
+      "first_seen": "2026-07-26",
+      "is_new": true
+    },
+    {
+      "id": "6c2bd75bc1adad08",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "2026-07-26",
+      "group": "大盘头条",
+      "title": "彭博：SK海力士等存储巨头Q2业绩是AI存储投资热情的“关键考验”",
+      "summary": "彭博7月24日报道，SK海力士、三星、铠侠同日披露Q2业绩，分析师将此次财报视为市场对HBM/AI存储热情的真实检验；重点关注HBM4订单能见度、长期供货协议（LTA）进展及营业利润率能否再创历史新高。",
+      "why": "SK海力士（及南方两倍做多HBM ETF）在关键词表；Q2业绩直接影响HBM存储赛道估值，同时影响美光（MU）、英伟达等关联标的；存储周期判断对卖PUT行权价选择至关重要。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "存储芯片",
+        "半导体",
+        "AI芯片"
+      ],
+      "translated": true,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/sk-hynix-samsung-and-kioxia-face-pivotal-earnings-test-on-ai-swings",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-26",
       "is_new": true
     },
     {
@@ -2099,6 +2085,75 @@
       "first_seen": "2026-07-24"
     },
     {
+      "id": "c931a1093deacfe9",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "老铺黄金股价较高峰跌65%，市值蒸发逾1200亿港元；金价从高点回撤28%，深圳门店现折扣",
+      "summary": "老铺黄金（6181.HK）股价约港元373，较历史高位港元1,065+已跌约65%，市值较峰值缩水逾1200亿港元。金价已从2026年1月约5,595美元/盎司高点跌至约4,018-4,120美元/盎司（跌幅约28%），拖累老铺黄金估值从超50倍PE压缩至约12倍。深圳部分门店出现约9折优惠，销量下滑迹象显现。",
+      "why": "关键词库标的6181.HK估值重估事件：PE从50x+压缩至12x，金价跌幅尚未完全反映在财报端，门店折扣是前瞻指标；对持有该股sell-put仓位者需警惕业绩下修风险——若金价跌破4000美元或门店折扣扩大，隐含波动率可能进一步走高，当前应偏虚值执行价以保留安全边际。",
+      "source": "21世纪经济报道（21财经）",
+      "verified": true,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "金价",
+        "黄金首饰",
+        "珠宝",
+        "古法金",
+        "足金"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260724/herald/ee21a6173498435c84f1b0385db7a67a.html",
+      "published_date": "2026-07-24",
+      "still_developing": false,
+      "first_seen": "2026-07-25",
+      "is_new": false
+    },
+    {
+      "id": "c4a5d14acedcd1bc",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "美股存储芯片7月25日重挫：闪迪跌超8%、美光跌6%、SK海力士跌6%，费城半导体指数跌逾3%",
+      "summary": "7月25日（周五）美股盘中，存储芯片板块全线大跌：闪迪（SNDK）-8%+、美光（MU）-6%、SK海力士-6%，费城半导体指数（SOX）跌逾3%。导火索：Alphabet和特斯拉Q2财报显示AI资本支出商业回报率不及预期，机构投资者质疑AI算力需求的商业化速度。马斯克个人财富一周内缩水约8,800亿元人民币。",
+      "why": "关键词库多标的（闪迪SNDK、美光MU、SK海力士）同步重挫，直接影响相关 sell-put 仓位的保证金和隐含波动率；Alphabet/特斯拉AI capex ROI质疑是跨市场情绪传导信号，可能波及英伟达（NVDA）和港股AI板块；建议审查存储芯片 sell-put 仓位的执行价安全边际。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "闪迪",
+        "SanDisk",
+        "SNDK",
+        "美光",
+        "Micron",
+        "MU",
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "费城半导体",
+        "特斯拉",
+        "Tesla",
+        "谷歌",
+        "Alphabet",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiyptt1413920.shtml",
+      "published_date": "2026-07-25",
+      "still_developing": false,
+      "first_seen": "2026-07-25",
+      "is_new": false
+    },
+    {
       "id": "05687889bf89946e",
       "tier": 1,
       "lang": "en",
@@ -4022,6 +4077,65 @@
       "first_seen": "2026-07-24"
     },
     {
+      "id": "f0e571b83e1f4e5f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "监管/规则变化",
+      "title": "港交所拟延长港股交易时间：上午9点开市、取消午休、增加下午4-8时延伸时段",
+      "summary": "港交所就延长交易时间向市场咨询：方案包括提早30分钟至09:00开盘、取消一小时午间休市、增设下午4-8时延伸交易时段。港交所回应称目前仍处非常早期阶段，衍生品市场将优先推进。",
+      "why": "港股交易制度重大潜在变化：延长时段将提升市场流动性，但也可能增加做市商成本；对 sell-put 策略的意义在于日间 gamma 曝险时间窗拉长，需重新校准隔夜仓位管理。咨询期料持续数月，事件仍在发酵。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港交所",
+        "HKEX",
+        "交易时间",
+        "港股",
+        "流动性",
+        "衍生品"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimuyc3060142.shtml",
+      "published_date": "2026-07-20",
+      "still_developing": true,
+      "first_seen": "2026-07-25",
+      "is_new": false
+    },
+    {
+      "id": "48310dbc7844038a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股7月24日收盘：恒指跌0.98%失守25000点，恒生科技-1.47%，AI板块全线回调",
+      "summary": "2026年7月24日，恒生指数收报24,963点（跌247.58点，-0.98%），恒生科技指数跌1.47%，AI产业链个股全线调整。拖累因素包括：伊朗冲突推高油价、CME显示美联储7月加息概率升至46.5%、美国十年期国债收益率约4.71%。",
+      "why": "港股大盘日收盘数据：恒指失守25,000关口，美联储加息预期（46.5%概率）叠加十年期美债收益率4.71%，对港股整体估值形成压制；AI板块全线回调影响腾讯/阿里等重仓标的的 sell-put 敞口，需关注短期隐含波动率是否进一步走高。",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "恒生科技",
+        "美联储",
+        "加息",
+        "国债收益率",
+        "AI板块"
+      ],
+      "translated": false,
+      "url": "https://m.cls.cn/detail/2429561",
+      "published_date": "2026-07-24",
+      "still_developing": false,
+      "first_seen": "2026-07-25",
+      "is_new": false
+    },
+    {
       "id": "03516b05a7b759a2",
       "tier": 2,
       "lang": "en",
@@ -4079,118 +4193,6 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/",
       "is_new": false,
       "first_seen": "2026-07-25"
-    },
-    {
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Micron (NASDAQ: MU) Stock News: AI Memory Demand Keeps Micron's Growth Story Intact",
-      "summary": "美光MU股价约$1,090，Q3 FY2026营收$108.5亿同比+37%，GAAP EPS $2.52，Non-GAAP毛利率41.3%；Q4指引营收$112亿、EPS约$3.50；7月21日宣派息$0.15/股。AI驱动HBM及企业DRAM需求持续强劲。",
-      "why": "存储超级周期受益方；Q4指引乐观支撑中线持仓；高位持有可辅以covered call收取权利金，降低持仓成本。",
-      "source": "FX Leaders",
-      "verified": false,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "HBM",
-        "DRAM",
-        "NAND",
-        "存储",
-        "内存"
-      ],
-      "translated": false,
-      "url": "https://www.fxleaders.com/news/2026/07/21/micron-mu-stock-news-ai-memory-demand-july-21-2026/",
-      "id": "6270d0f3afd605db",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "小米汽车7月推出YU7购车权益，雷军预告澎湃增程技术或开辟新赛道",
-      "summary": "小米汽车公布7月购车权益：YU7享6,500元科技套装限时优惠及3,000元车漆券；SU7系列首付仅4.99万元。雷军7月17日发文预告澎湃增程技术，小米汽车或即将推出增程车型。",
-      "why": "增程路线预告为小米汽车开辟新市场提供想象空间；持续价格激励显示渗透竞争加剧，关注1810.HK汽车业务估值贡献节点。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "YU7",
-        "SU7",
-        "小米汽车",
-        "雷军",
-        "澎湃OS",
-        "AIoT"
-      ],
-      "translated": false,
-      "url": "https://hk.finance.yahoo.com/news/简讯-小米正式发布yu7-起售价25-35万元-044231872.html",
-      "id": "98a12149b5f8ffa5",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "id": "b926f4f2ec4e7854",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "11:15",
-      "group": "个股",
-      "title": "Palantir (PLTR) Q2 2026 earnings on Aug 3 — analysts expect EPS $0.28 (+115% YoY), NVIDIA sovereign AI partnership",
-      "summary": "Palantir reports Q2 on Aug 3. Q1 revenue grew 85% YoY to $1.63B; Q2 EPS consensus at $0.28 (+115% YoY). DA Davidson upgraded to Buy ($175 PT). Recent catalysts: NVIDIA partnership for sovereign AI models for U.S. government agencies and U.S. Army NGC2 contract win.",
-      "why": "Palantir政府AI合同持续落地增强盈利可见性，8月3日为下一关键催化剂；临近季报期间IV有望上行，可评估sell put策略窗口。",
-      "source": "Yahoo Finance",
-      "verified": true,
-      "keywords": [
-        "Palantir",
-        "PLTR",
-        "AIP",
-        "AI平台",
-        "国防AI",
-        "政府合同"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-palantir-q2-2026-earnings-124258336.html",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "A股中报预告高峰：消费电子/存储/半导体设备逾八成预喜，立讯精密上半年净利预增18-22%",
-      "summary": "A股7月进入中报预告密集披露期，截至7月6日已有70家公司预告，87%预喜。消费电子领域立讯精密预计上半年归母净利润78-81亿元（同比+18-22%），存储芯片分销龙头香农芯创净利预增逾2000%；半导体设备景气度同步确认。",
-      "why": "消费电子与半导体中报超预期对相关持仓的估值重估有正面影响；A股科技板块景气度确认，有助于判断covered call最优行权价及何时加仓。",
-      "source": "新华网 / 新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "消费电子",
-        "半导体",
-        "立讯精密",
-        "中报"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihmrew3278795.shtml",
-      "id": "6c6406f18c49b5c8",
-      "is_new": false,
-      "first_seen": "2026-07-24"
     }
   ]
 }
