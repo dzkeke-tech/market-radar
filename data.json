@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-26 13:26 (北京时间)",
+  "updated_at": "2026-07-26 18:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,187 +37,101 @@
   "positions": [],
   "items": [
     {
-      "id": "b74b776f2f94b09e",
+      "id": "ca406167fa523334",
       "tier": 1,
       "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "Stock market next week: Meta, Microsoft, Amazon, Apple earnings and Fed rate decision July 27–31",
-      "summary": "The heaviest week of Q2 earnings season: Meta and Microsoft report July 29 (same day as the Fed rate decision), Amazon and Apple report July 30. Investors are focused on whether AI capital-expenditure plans echo Alphabet's $195–205B CapEx hike that sent GOOGL down 7% last week.",
-      "why": "超级财报周：Meta/MSFT/AMZN/AAPL的AI资本支出指引将直接牵动半导体及持仓估值；美联储决策同日落地，若意外加息（市场给38%概率）将放大波动率，短期sell-put需关注行权价安全边际。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Meta",
-        "Microsoft",
-        "Amazon",
-        "Apple",
-        "FOMC",
-        "earnings",
-        "AI spending",
-        "CapEx"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html",
-      "published_date": "2026-07-24",
-      "still_developing": false,
-      "first_seen": "2026-07-26",
-      "is_new": true
-    },
-    {
-      "id": "5712c46fef193b8b",
-      "tier": 1,
-      "lang": "zh",
       "markets": [
         "US",
         "HK",
         "A"
       ],
-      "time": "08:30",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "特斯拉暴跌，油价大涨！中东局势升级，美股7月23日全线大跌",
-      "summary": "胡塞武装袭击沙特油轮，布伦特原油突破100美元/桶；纳斯达克7月23日跌2.15%至25,137点，标普500跌1.21%至7,408点；特斯拉Q2利润大幅低于预期，当日跌逾14%；美股科技七巨头创2025年4月以来最大单日集体跌幅。",
-      "why": "油价破百引通胀预期重燃，叠加美联储7月29日会议，加息概率升至38%；纳斯达克-2.15%后科技持仓面临短期回撤风险，sell-put安全边际收窄，波动率结构上行。",
-      "source": "新浪财经",
+      "title": "Oil Tops $100 as Houthi Attacks in Red Sea Amplify Supply Risks",
+      "summary": "Brent crude surged above $100/barrel for the first time since May after Houthi militants struck two Saudi oil tankers (Encelia & Layla) in the Red Sea, closing at $100.69 on July 23. By July 25 oil had retreated to ~$97 but Goldman Sachs sees potential for $120+ if Middle East disruptions persist.",
+      "why": "红海地缘升级推动布伦特油价触及$100.69/桶，直接上推通胀预期，令美联储7月28-29日会议加息概率升至25%；延续报道：油价周五虽已回落至~$97，但高盛预测Q4可能突破$120，中东局势仍在发酵，对能源板块及全球宏观影响持续。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "中东",
-        "胡塞",
-        "沙特",
+        "布伦特原油",
+        "Brent",
+        "Red Sea",
+        "Houthi",
+        "红海",
         "油价",
-        "布伦特",
-        "纳斯达克",
-        "特斯拉",
-        "美股"
+        "胡塞",
+        "地缘风险"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-07-24/doc-iniiwenr4957870.shtml",
-      "published_date": "2026-07-24",
-      "still_developing": false,
+      "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+      "published_date": "2026-07-23",
+      "still_developing": true,
       "first_seen": "2026-07-26",
       "is_new": true
     },
     {
-      "id": "37a2b70ff3bbc782",
+      "id": "3f41ae9eab262927",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
+        "US",
         "HK"
       ],
-      "time": "17:00",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "阿里、美团、京东、百度、腾讯集体下跌，恒指7月24日失守25000点",
-      "summary": "恒生指数7月24日收跌0.98%报24,963点（盘中低触24,812点）；恒生科技指数跌1.47%。阿里巴巴、美团、腾讯、百度、京东等主要港股科技股全线走弱，联动美股科技股前日大跌。",
-      "why": "恒指失守25000点技术位，持仓阿里/美团均在跌幅榜；腾讯仍处回购禁止期（至8月12日中报前），缺乏回购支撑下弱势或延续；需检视sell-put行权价安全边际。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "恒生科技",
-        "阿里巴巴",
-        "美团",
-        "腾讯",
-        "港股",
-        "科技股"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/t/2026-07-24/doc-iniiwkuk4380825.shtml",
-      "published_date": "2026-07-24",
-      "still_developing": false,
-      "first_seen": "2026-07-26",
-      "is_new": true
-    },
-    {
-      "id": "1249e3881ca0af8e",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "21:00",
-      "group": "大盘头条",
-      "title": "A股史上最大规模回购：宁德时代拟200亿—400亿元回购全部注销",
-      "summary": "宁德时代7月24日晚公告，拟以集中竞价回购A股，金额不低于200亿元、不超过400亿元，回购价格上限573元/股，期限12个月内经股东大会批准后实施，所回购股份全部注销以减少注册资本。此为A股历史上规模最大的回购方案。",
-      "why": "宁德时代（非直接持仓）创A股史上最大注销式回购，强烈信号大股东认为估值低估；叠加证监会维稳表态与国家队托市，对A股整体情绪及消费/科技板块有正面提振，可能带动更多公司跟进回购。",
-      "source": "证券时报",
-      "verified": true,
-      "keywords": [
-        "宁德时代",
-        "CATL",
-        "回购",
-        "注销",
-        "A股",
-        "股份回购"
-      ],
-      "translated": false,
-      "url": "https://www.stcn.com/article/detail/4041042.html",
-      "published_date": "2026-07-24",
-      "still_developing": false,
-      "first_seen": "2026-07-26",
-      "is_new": true
-    },
-    {
-      "id": "903ec0c0a88f08f6",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "Why the Federal Reserve should hike rates next week — market pricing July 2026",
-      "summary": "CME FedWatch shows rate-hike odds jumped from 12% to 38% in one week as oil surged above $100 and inflation sits at 3.7%. All 70 Bloomberg-surveyed economists still expect a hold at 3.50–3.75%. Fed Chair Warsh's press conference July 29 will be critical for September/October hike signals.",
-      "why": "加息概率跳升至38%，7月29日决策与超级财报周同日；若Warsh语气偏鹰，利率敏感型科技持仓估值承压，IV将上行；维持利率不变的基础情景下，投资者关注点转向点阵图和前瞻指引。",
+      "title": "Nvidia locks down memory from SK Hynix as part of $500B AI deal; Samsung, SK Hynix announce $950B total U.S. chip partnerships",
+      "summary": "At the San Francisco AI Summit, SK Hynix signed a $750B five-year chip supply agreement with Nvidia and other U.S. tech firms; Samsung signed a $200B MOU with Broadcom for advanced memory and foundry services. The Nvidia-SK Hynix deal alone is worth ~$500B and includes HBM4 memory supply plus large-scale data center construction expected online from 2027.",
+      "why": "SK海力士通过$500B独家协议锁定Nvidia下一代HBM4需求，是存储芯片板块最重磅利好，进一步强化持仓SK海力士（7709.HK ETF相关）的长期逻辑；协议中含数据中心建设，暗示AI基础设施超级周期延续至少至2027+；英伟达Vera Rubin供应链也因此更清晰。",
       "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Federal Reserve",
-        "FOMC",
-        "rate hike",
-        "美联储",
-        "加息",
-        "inflation",
-        "Kevin Warsh"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/24/why-the-federal-reserve-should-hike-rates-next-week.html",
-      "published_date": "2026-07-24",
-      "still_developing": false,
-      "first_seen": "2026-07-26",
-      "is_new": true
-    },
-    {
-      "id": "67e5a6252d17189d",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "SK Hynix's 51% ADR Arbitrage Trade Stymied by Strict Conversion Cap",
-      "summary": "SK Hynix's (SKHY/000660) 2.5% ADR conversion cap is fully exhausted, blocking arbitrage between Nasdaq-listed SKHY and Seoul shares. The ADR premium versus Seoul has ranged 33–51% since the July 10 IPO. Seoul shares fell 3.5% Friday on the disconnect widening. Q2 earnings due July 29.",
-      "why": "SKHY溢价33-51%已无法通过套利收敛，持有SKHY者面临溢价回归风险；7月29日Q2财报是二元催化剂——HBM4量产指引和定价信号决定市场对AI超级周期持续性的判断；财报前后IV大幅波动，sell-put需控制仓位。延续报道：7月10日Nasdaq上市后ADR溢价问题持续发酵，7月25日首尔股价再跌3.5%。",
-      "source": "Bloomberg",
       "verified": true,
       "keywords": [
         "SK海力士",
         "SK Hynix",
-        "SKHY",
-        "ADR",
-        "套利",
-        "溢价",
-        "HBM",
-        "earnings"
+        "HBM4",
+        "Nvidia",
+        "英伟达",
+        "AI芯片",
+        "三星",
+        "Samsung",
+        "高带宽内存"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-s-51-arbitrage-trade-stymied-by-strict-conversion-cap",
-      "published_date": "2026-07-23",
-      "still_developing": true,
+      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+      "published_date": "2026-07-25",
+      "still_developing": false,
+      "first_seen": "2026-07-26",
+      "is_new": true
+    },
+    {
+      "id": "ba078ea211d67865",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "市场监管总局依法对携程实施垄断行为作出51.79亿元行政处罚，责令全面整改",
+      "summary": "国家市场监督管理总局认定携程实施两项垄断行为：限定交易（强制酒店独家合作）及强制全网最低价，罚没款合计51.79亿元（没收违法所得16.58亿元 + 罚款35.21亿元，约为携程2025年中国境内销售额469.58亿元的7.5%）；另需退还强制扣押的订单储备金1.22亿元；携程回应称诚恳接受。",
+      "why": "中国平台经济反垄断执法标志性大案，携程（TCOM/9961.HK）短期一次性利润冲击约51.79亿元；处罚完结后监管不确定性下降或带来估值修复机会，但同时向美团、阿里等港股互联网平台传递持续监管压力信号；OTA行业竞争格局或因此重塑，利好同赛道竞争对手。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "9961",
+        "反垄断",
+        "市场监管总局",
+        "OTA",
+        "垄断",
+        "平台经济"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-25/doc-iniiytzh9154807.shtml",
+      "published_date": "2026-07-25",
+      "still_developing": false,
       "first_seen": "2026-07-26",
       "is_new": true
     },
@@ -2459,6 +2373,101 @@
       "first_seen": "2026-07-25"
     },
     {
+      "id": "b74b776f2f94b09e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "大盘头条",
+      "title": "Stock market next week: Meta, Microsoft, Amazon, Apple earnings and Fed rate decision July 27–31",
+      "summary": "The heaviest week of Q2 earnings season: Meta and Microsoft report July 29 (same day as the Fed rate decision), Amazon and Apple report July 30. Investors are focused on whether AI capital-expenditure plans echo Alphabet's $195–205B CapEx hike that sent GOOGL down 7% last week.",
+      "why": "超级财报周：Meta/MSFT/AMZN/AAPL的AI资本支出指引将直接牵动半导体及持仓估值；美联储决策同日落地，若意外加息（市场给38%概率）将放大波动率，短期sell-put需关注行权价安全边际。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Meta",
+        "Microsoft",
+        "Amazon",
+        "Apple",
+        "FOMC",
+        "earnings",
+        "AI spending",
+        "CapEx"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html",
+      "published_date": "2026-07-24",
+      "still_developing": false,
+      "first_seen": "2026-07-26",
+      "is_new": false
+    },
+    {
+      "id": "5712c46fef193b8b",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "特斯拉暴跌，油价大涨！中东局势升级，美股7月23日全线大跌",
+      "summary": "胡塞武装袭击沙特油轮，布伦特原油突破100美元/桶；纳斯达克7月23日跌2.15%至25,137点，标普500跌1.21%至7,408点；特斯拉Q2利润大幅低于预期，当日跌逾14%；美股科技七巨头创2025年4月以来最大单日集体跌幅。",
+      "why": "油价破百引通胀预期重燃，叠加美联储7月29日会议，加息概率升至38%；纳斯达克-2.15%后科技持仓面临短期回撤风险，sell-put安全边际收窄，波动率结构上行。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "中东",
+        "胡塞",
+        "沙特",
+        "油价",
+        "布伦特",
+        "纳斯达克",
+        "特斯拉",
+        "美股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/wm/2026-07-24/doc-iniiwenr4957870.shtml",
+      "published_date": "2026-07-24",
+      "still_developing": false,
+      "first_seen": "2026-07-26",
+      "is_new": false
+    },
+    {
+      "id": "37a2b70ff3bbc782",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "阿里、美团、京东、百度、腾讯集体下跌，恒指7月24日失守25000点",
+      "summary": "恒生指数7月24日收跌0.98%报24,963点（盘中低触24,812点）；恒生科技指数跌1.47%。阿里巴巴、美团、腾讯、百度、京东等主要港股科技股全线走弱，联动美股科技股前日大跌。",
+      "why": "恒指失守25000点技术位，持仓阿里/美团均在跌幅榜；腾讯仍处回购禁止期（至8月12日中报前），缺乏回购支撑下弱势或延续；需检视sell-put行权价安全边际。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "恒生科技",
+        "阿里巴巴",
+        "美团",
+        "腾讯",
+        "港股",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/t/2026-07-24/doc-iniiwkuk4380825.shtml",
+      "published_date": "2026-07-24",
+      "still_developing": false,
+      "first_seen": "2026-07-26",
+      "is_new": false
+    },
+    {
       "id": "a51098c573cc662a",
       "tier": 1,
       "lang": "en",
@@ -2571,94 +2580,6 @@
       "published_date": "2026-07-24",
       "first_seen": "2026-07-26",
       "is_new": false
-    },
-    {
-      "id": "756efc4e385b237f",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "Intel (INTC) to report Q2 2026 earnings July 23; stock up 160% YTD; analysts eye 18A foundry ramp and $14.4B revenue",
-      "summary": "Intel confirmed Q2 2026 results on July 23 after market close, with earnings call at 2 PM PDT. Analyst consensus: revenue ~$14.4B, EPS ~$0.10 (vs -$0.26 a year ago). Intel has rallied ~160% in 2026 amid AI infrastructure tailwinds. Key focus: 18A manufacturing process progress, AI server share, PC demand durability. Semiconductor sector down ~11% over the past month — sector weakness may create post-earnings noise.",
-      "why": "本周四（7月23日）是英特尔关键业绩催化剂；今年涨幅160%设置高预期门槛，若指引不及预期叠加半导体弱势，下行风险显著；关注 18A 代工进展是否兑现，若兑现可作为 sell-put 支撑依据。",
-      "source": "Intel IR",
-      "verified": true,
-      "keywords": [
-        "Intel",
-        "英特尔",
-        "INTC",
-        "18A",
-        "earnings",
-        "foundry",
-        "semiconductor",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.intc.com/news-events/press-releases/detail/1774/intel-to-report-second-quarter-2026-financial-results",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "43ae12f9b488656c",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "11:30",
-      "group": "个股",
-      "title": "阿里巴巴（9988.HK/BABA）Q1 FY27前瞻大超预期：阿里云收入增速加速至约45%，港股盘中涨超13%",
-      "summary": "7月8日机构发布阿里巴巴 FY27 Q1（2026年4-6月）前瞻：阿里云季度收入增速加速至约45%（市场预期约30%），EBITA margin从9.1%扩至低双位数；淘宝闪购单季减亏约80亿元；集团整体收入预计同比增约9%。港股当日盘中涨超13%，收涨12.21%至107.5港元。正式 Q1 财报预计8月正式发布。",
-      "why": "阿里云 45% 增速超预期是最重要信号，AI 云化需求快速落地；若正式财报兑现此预期，将触发港股互联网板块估值重估；当前可评估 sell-put（行权价90-95港元区间有技术支撑）或增加正股配置。",
-      "source": "新浪财经 / 华尔街见闻",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "9988.HK",
-        "BABA",
-        "阿里云",
-        "Q1 FY27",
-        "财报前瞻"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tob/2026-07-08/doc-inihatty8002961.shtml",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "id": "385b164dd18a9433",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "SanDisk (SNDK) and Kioxia begin 10th-gen BiCS10 NAND production (332 layers, +59% density); SanDisk secures multi-year Meta NAND supply deal",
-      "summary": "SanDisk and Kioxia began producing 10th-generation BiCS10 3D NAND at Kitakami Fab2 (Japan) on July 3. BiCS10 stacks 332 layers, achieves density >29 Gb/mm2 (+59% vs prior gen), interface speed 4.8 Gbps (+33%), and 34% lower output power. SanDisk separately secured a multi-year NAND flash supply deal with Meta for AI infrastructure build-out. The SanDisk-Kioxia JV was extended through 2034. SNDK stock retested $1,500 amid NAND competition concerns.",
-      "why": "BiCS10 量产+Meta 长约强化 SNDK 在 AI 存储市场的竞争地位；NAND vs HBM 资本开支博弈是关键风险，需关注 ASP 走势；NAND 供应商（SNDK/Kioxia/三星）竞争激烈，适合持续跟踪而非激进建仓。",
-      "source": "Kioxia IR / Yahoo Finance",
-      "verified": true,
-      "keywords": [
-        "SanDisk",
-        "闪迪",
-        "SNDK",
-        "NAND",
-        "BiCS10",
-        "Kioxia",
-        "Meta",
-        "AI",
-        "flash"
-      ],
-      "translated": false,
-      "url": "https://www.kioxia.com/en-jp/about/news/2026/20260703-2.html",
-      "is_new": false,
-      "first_seen": "2026-07-20"
     },
     {
       "id": "4e529dd4b8ea0090",
@@ -4205,6 +4126,96 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/",
       "is_new": false,
       "first_seen": "2026-07-25"
+    },
+    {
+      "id": "1249e3881ca0af8e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "A股史上最大规模回购：宁德时代拟200亿—400亿元回购全部注销",
+      "summary": "宁德时代7月24日晚公告，拟以集中竞价回购A股，金额不低于200亿元、不超过400亿元，回购价格上限573元/股，期限12个月内经股东大会批准后实施，所回购股份全部注销以减少注册资本。此为A股历史上规模最大的回购方案。",
+      "why": "宁德时代（非直接持仓）创A股史上最大注销式回购，强烈信号大股东认为估值低估；叠加证监会维稳表态与国家队托市，对A股整体情绪及消费/科技板块有正面提振，可能带动更多公司跟进回购。",
+      "source": "证券时报",
+      "verified": true,
+      "keywords": [
+        "宁德时代",
+        "CATL",
+        "回购",
+        "注销",
+        "A股",
+        "股份回购"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/4041042.html",
+      "published_date": "2026-07-24",
+      "still_developing": false,
+      "first_seen": "2026-07-26",
+      "is_new": false
+    },
+    {
+      "id": "903ec0c0a88f08f6",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "Why the Federal Reserve should hike rates next week — market pricing July 2026",
+      "summary": "CME FedWatch shows rate-hike odds jumped from 12% to 38% in one week as oil surged above $100 and inflation sits at 3.7%. All 70 Bloomberg-surveyed economists still expect a hold at 3.50–3.75%. Fed Chair Warsh's press conference July 29 will be critical for September/October hike signals.",
+      "why": "加息概率跳升至38%，7月29日决策与超级财报周同日；若Warsh语气偏鹰，利率敏感型科技持仓估值承压，IV将上行；维持利率不变的基础情景下，投资者关注点转向点阵图和前瞻指引。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "Federal Reserve",
+        "FOMC",
+        "rate hike",
+        "美联储",
+        "加息",
+        "inflation",
+        "Kevin Warsh"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/24/why-the-federal-reserve-should-hike-rates-next-week.html",
+      "published_date": "2026-07-24",
+      "still_developing": false,
+      "first_seen": "2026-07-26",
+      "is_new": false
+    },
+    {
+      "id": "67e5a6252d17189d",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "SK Hynix's 51% ADR Arbitrage Trade Stymied by Strict Conversion Cap",
+      "summary": "SK Hynix's (SKHY/000660) 2.5% ADR conversion cap is fully exhausted, blocking arbitrage between Nasdaq-listed SKHY and Seoul shares. The ADR premium versus Seoul has ranged 33–51% since the July 10 IPO. Seoul shares fell 3.5% Friday on the disconnect widening. Q2 earnings due July 29.",
+      "why": "SKHY溢价33-51%已无法通过套利收敛，持有SKHY者面临溢价回归风险；7月29日Q2财报是二元催化剂——HBM4量产指引和定价信号决定市场对AI超级周期持续性的判断；财报前后IV大幅波动，sell-put需控制仓位。延续报道：7月10日Nasdaq上市后ADR溢价问题持续发酵，7月25日首尔股价再跌3.5%。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "SKHY",
+        "ADR",
+        "套利",
+        "溢价",
+        "HBM",
+        "earnings"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-s-51-arbitrage-trade-stymied-by-strict-conversion-cap",
+      "published_date": "2026-07-23",
+      "still_developing": true,
+      "first_seen": "2026-07-26",
+      "is_new": false
     }
   ]
 }
