@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-26 18:20 (北京时间)",
+  "updated_at": "2026-07-27 08:27 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,7 +37,6 @@
   "positions": [],
   "items": [
     {
-      "id": "ca406167fa523334",
       "tier": 1,
       "lang": "en",
       "markets": [
@@ -45,94 +44,239 @@
         "HK",
         "A"
       ],
-      "time": "08:00",
+      "time": "06:00",
       "group": "大盘头条",
-      "title": "Oil Tops $100 as Houthi Attacks in Red Sea Amplify Supply Risks",
-      "summary": "Brent crude surged above $100/barrel for the first time since May after Houthi militants struck two Saudi oil tankers (Encelia & Layla) in the Red Sea, closing at $100.69 on July 23. By July 25 oil had retreated to ~$97 but Goldman Sachs sees potential for $120+ if Middle East disruptions persist.",
-      "why": "红海地缘升级推动布伦特油价触及$100.69/桶，直接上推通胀预期，令美联储7月28-29日会议加息概率升至25%；延续报道：油价周五虽已回落至~$97，但高盛预测Q4可能突破$120，中东局势仍在发酵，对能源板块及全球宏观影响持续。",
-      "source": "CNBC",
-      "verified": true,
+      "title": "Oil Tumbles as US and Iran Pause Military Strikes; Nasdaq 100 Futures Surge More Than 1%",
+      "summary": "The US refrained from striking Iran for a second straight night, easing supply-disruption fears. Brent crude fell below $90/bbl; Nasdaq 100 futures advanced over 1%; dollar edged lower against major peers.",
+      "why": "美伊暂停军事行动是本周最大宏观事件，带动油价下行、美股期货走强，有助于降低输入性通胀预期，利好风险资产整体表现；期权卖方关注隐含波动率变化。",
+      "source": "Bloomberg",
+      "verified": false,
       "keywords": [
-        "布伦特原油",
+        "Iran",
+        "oil",
         "Brent",
-        "Red Sea",
-        "Houthi",
-        "红海",
-        "油价",
-        "胡塞",
-        "地缘风险"
+        "Nasdaq",
+        "geopolitics",
+        "macro"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
-      "published_date": "2026-07-23",
-      "still_developing": true,
-      "first_seen": "2026-07-26",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
+      "published_date": "2026-07-26",
+      "still_developing": false,
+      "id": "d0c52780d722b5e4",
+      "first_seen": "2026-07-27",
       "is_new": true
     },
     {
-      "id": "3f41ae9eab262927",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "08:00",
+      "time": "06:30",
       "group": "大盘头条",
-      "title": "Nvidia locks down memory from SK Hynix as part of $500B AI deal; Samsung, SK Hynix announce $950B total U.S. chip partnerships",
-      "summary": "At the San Francisco AI Summit, SK Hynix signed a $750B five-year chip supply agreement with Nvidia and other U.S. tech firms; Samsung signed a $200B MOU with Broadcom for advanced memory and foundry services. The Nvidia-SK Hynix deal alone is worth ~$500B and includes HBM4 memory supply plus large-scale data center construction expected online from 2027.",
-      "why": "SK海力士通过$500B独家协议锁定Nvidia下一代HBM4需求，是存储芯片板块最重磅利好，进一步强化持仓SK海力士（7709.HK ETF相关）的长期逻辑；协议中含数据中心建设，暗示AI基础设施超级周期延续至少至2027+；英伟达Vera Rubin供应链也因此更清晰。",
+      "title": "Super Week: Microsoft/Meta report Wed Jul 29, Apple/Amazon Thu Jul 30; Fed holds rate decision Jul 29",
+      "summary": "The busiest Q2 2026 earnings week kicks off with Microsoft and Meta reporting Wednesday, Apple and Amazon on Thursday. Fed Chair Warsh holds press conference at 2:30 pm ET Wednesday; a rate hold at 3.5-3.75% is expected (fifth consecutive pause). S&P 500 Q2 EPS growth is projected at approximately 38% YoY with focus on AI capex ROI.",
+      "why": "大科技财报集中本周：Alphabet已因capex飙升拖累大盘，微软/Meta/苹果/亚马逊的AI资本支出回报是核心关注点；FOMC结果及Warsh讲话将影响利率预期；期权卖方需关注财报前后IV压缩/扩张节奏，是roll put的重要参考窗口。",
       "source": "CNBC",
-      "verified": true,
+      "verified": false,
       "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "HBM4",
-        "Nvidia",
-        "英伟达",
-        "AI芯片",
-        "三星",
-        "Samsung",
-        "高带宽内存"
+        "Microsoft",
+        "Meta",
+        "Apple",
+        "Amazon",
+        "FOMC",
+        "Fed",
+        "earnings",
+        "AI capex",
+        "Warsh"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-      "published_date": "2026-07-25",
+      "url": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "published_date": "2026-07-26",
       "still_developing": false,
-      "first_seen": "2026-07-26",
+      "id": "5fd326c12520141e",
+      "first_seen": "2026-07-27",
       "is_new": true
     },
     {
-      "id": "ba078ea211d67865",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK",
-        "US"
+        "A"
+      ],
+      "time": "07:45",
+      "group": "大盘头条",
+      "title": "宁德时代拟200亿至400亿元回购A股股份并全部注销，刷新A股史上最大单笔回购纪录",
+      "summary": "宁德时代7月24日公告拟以自有/自筹资金，通过集中竞价回购200亿至400亿元A股股份用于注销，回购价格上限573元/股，期限12个月。同日披露2026年上半年净利润432.84亿元（同比增41.98%）、营收2769.17亿元（同比增54.80%）。",
+      "why": "延续报道：A股史上最大单笔回购，注销式回购直接减少流通股本，叠加上半年净利润+42%，对A股整体回购信心有示范效应；今日正式开盘后定价走势值得跟踪。数字来源已在证券时报披露易核对一致。",
+      "source": "证券时报",
+      "verified": true,
+      "keywords": [
+        "宁德时代",
+        "300750",
+        "回购",
+        "注销",
+        "A股",
+        "净利润",
+        "储能"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/4040928.html",
+      "published_date": "2026-07-24",
+      "still_developing": true,
+      "id": "e1d10d7d7f17d530",
+      "first_seen": "2026-07-27",
+      "is_new": true
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
       ],
       "time": "08:00",
       "group": "大盘头条",
-      "title": "市场监管总局依法对携程实施垄断行为作出51.79亿元行政处罚，责令全面整改",
-      "summary": "国家市场监督管理总局认定携程实施两项垄断行为：限定交易（强制酒店独家合作）及强制全网最低价，罚没款合计51.79亿元（没收违法所得16.58亿元 + 罚款35.21亿元，约为携程2025年中国境内销售额469.58亿元的7.5%）；另需退还强制扣押的订单储备金1.22亿元；携程回应称诚恳接受。",
-      "why": "中国平台经济反垄断执法标志性大案，携程（TCOM/9961.HK）短期一次性利润冲击约51.79亿元；处罚完结后监管不确定性下降或带来估值修复机会，但同时向美团、阿里等港股互联网平台传递持续监管压力信号；OTA行业竞争格局或因此重塑，利好同赛道竞争对手。",
-      "source": "新浪财经",
+      "title": "长鑫科技今日科创板上市（688825），科创板史上第二大IPO，国产DRAM全球第四",
+      "summary": "长鑫科技（688825）今日（7月27日）正式登陆科创板，发行价8.66元/股，拟募资约295亿元，为科创板历史第二大IPO。公司为中国DRAM龙头，全球市占7.67%（第四），已量产DDR4/DDR5/LPDDR5X全系列产品。前5个交易日无涨跌幅限制，机构预测首日涨幅240%–420%区间。",
+      "why": "延续报道：今日正式挂牌交易，是国产存储芯片最重要上市事件，直接冲击SK海力士/美光/闪迪竞争格局估值；A股资金分流效应和半导体国产替代赛道定价值得重点关注。",
+      "source": "证券时报",
       "verified": true,
       "keywords": [
-        "携程",
-        "Trip.com",
-        "TCOM",
-        "9961",
-        "反垄断",
-        "市场监管总局",
-        "OTA",
-        "垄断",
-        "平台经济"
+        "长鑫科技",
+        "688825",
+        "科创板",
+        "DRAM",
+        "存储芯片",
+        "IPO",
+        "SK海力士",
+        "美光"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-25/doc-iniiytzh9154807.shtml",
-      "published_date": "2026-07-25",
+      "url": "https://www.stcn.com/article/detail/4038431.html",
+      "published_date": "2026-07-24",
+      "still_developing": true,
+      "id": "63dde4c91f1f853b",
+      "first_seen": "2026-07-27",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "CME今日正式推出单股期货，55只美股上市，含英伟达、苹果、亚马逊、Meta及SpaceX",
+      "summary": "芝商所今日（7月27日）推出逾55只美股单股期货合约及22只微型合约，标准合约规格为100股，微型为10股，现金结算，覆盖S&P 500、纳斯达克100及罗素1000重磅成分股，美光（MU）、SpaceX（SPCX）亦在列。",
+      "why": "CME单股期货提供中心化清算、资金效率更高的个股风险管理工具，与sell put/covered call期权策略可形成组合对冲；持仓英伟达、美光、苹果、亚马逊者直接相关，新工具可能改变部分机构对冲方式，值得关注期权市场开仓分布变化。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "CME",
+        "单股期货",
+        "英伟达",
+        "NVDA",
+        "Apple",
+        "Amazon",
+        "SpaceX",
+        "美光",
+        "期货"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-27/doc-inikevrp3242274.shtml",
+      "published_date": "2026-07-27",
       "still_developing": false,
-      "first_seen": "2026-07-26",
+      "id": "01f2dc07ea2f7921",
+      "first_seen": "2026-07-27",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "两高司法解释今起施行：内幕交易认定时点大幅前移，意向阶段套利漏洞被堵",
+      "summary": "最高法与最高检联合修订《内幕交易刑事案件解释》，2026年7月27日起施行，为2012年以来首次系统修订。核心变化：内幕信息敏感期认定时点前移至意向阶段，收紧全部免责抗辩，强化分层量刑追责。",
+      "why": "A股监管收紧信号：实控人在并购重组意向阶段的提前交易路径被封堵，利好市场公平性和长期估值修复；与方星海案同步落地，传递制度纠偏态势，有助于A股长期投资环境改善。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "内幕交易",
+        "两高",
+        "司法解释",
+        "A股",
+        "监管",
+        "证监会"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-07-26/doc-inikawyp0595657.shtml",
+      "published_date": "2026-07-26",
+      "still_developing": false,
+      "id": "8fa41d5b681a8a47",
+      "first_seen": "2026-07-27",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "08:15",
+      "group": "大盘头条",
+      "title": "A股上周五（7/24）三大指数集体收跌，成交额跌破2万亿，为今年4月来首次",
+      "summary": "7月24日，上证指数收跌1.61%报3814.20点，深成指跌2.47%，创业板指跌2.65%，全市仅554只个股上涨、逾4900只下跌，沪深成交额缩至1.93万亿元（较前日缩量约2642亿元），为2026年4月以来首次跌破2万亿。",
+      "why": "延续报道：上周五缩量普跌为今日A股开盘提供重要背景，情绪降温叠加长鑫科技上市可能分流资金；期权卖方今日需密切关注整体市场走势，若大盘继续下行，sell put行权压力可能上升。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "上证指数",
+        "大跌",
+        "成交额",
+        "市场情绪"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260724/herald/2e0988fcf7526f8efcf2250517ba508e.html",
+      "published_date": "2026-07-24",
+      "still_developing": true,
+      "id": "f72d48f49fa6e5d3",
+      "first_seen": "2026-07-27",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "08:30",
+      "group": "个股",
+      "title": "证监会原副主席方星海被查，A股监管信号：量化交易、转融通制度公平性或迎整改",
+      "summary": "中央纪委国家监委7月24日公告，证监会原副主席方星海因严重违纪违法被立案审查，其1个月前仍出席陆家嘴论坛、大连夏季达沃斯。市场解读为制度纠偏信号，量化私募、转融通等议题公平性有望迎来整改。",
+      "why": "延续报道：证监会高层被查历史上往往引发监管政策调整预期，与今日两高内幕交易新规同步落地，共同传递A股监管格局明显收紧信号；量化/转融通若有实质进展将影响市场结构。调查持续进行中。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "证监会",
+        "方星海",
+        "监管",
+        "A股",
+        "量化交易",
+        "转融通"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/wm/2026-07-24/doc-iniixfyc4908852.shtml",
+      "published_date": "2026-07-24",
+      "still_developing": true,
+      "id": "04ed00d18c468376",
+      "first_seen": "2026-07-27",
       "is_new": true
     },
     {
@@ -2373,6 +2517,105 @@
       "first_seen": "2026-07-25"
     },
     {
+      "id": "ca406167fa523334",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Oil Tops $100 as Houthi Attacks in Red Sea Amplify Supply Risks",
+      "summary": "Brent crude surged above $100/barrel for the first time since May after Houthi militants struck two Saudi oil tankers (Encelia & Layla) in the Red Sea, closing at $100.69 on July 23. By July 25 oil had retreated to ~$97 but Goldman Sachs sees potential for $120+ if Middle East disruptions persist.",
+      "why": "红海地缘升级推动布伦特油价触及$100.69/桶，直接上推通胀预期，令美联储7月28-29日会议加息概率升至25%；延续报道：油价周五虽已回落至~$97，但高盛预测Q4可能突破$120，中东局势仍在发酵，对能源板块及全球宏观影响持续。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "布伦特原油",
+        "Brent",
+        "Red Sea",
+        "Houthi",
+        "红海",
+        "油价",
+        "胡塞",
+        "地缘风险"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+      "published_date": "2026-07-23",
+      "still_developing": true,
+      "first_seen": "2026-07-26",
+      "is_new": false
+    },
+    {
+      "id": "3f41ae9eab262927",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Nvidia locks down memory from SK Hynix as part of $500B AI deal; Samsung, SK Hynix announce $950B total U.S. chip partnerships",
+      "summary": "At the San Francisco AI Summit, SK Hynix signed a $750B five-year chip supply agreement with Nvidia and other U.S. tech firms; Samsung signed a $200B MOU with Broadcom for advanced memory and foundry services. The Nvidia-SK Hynix deal alone is worth ~$500B and includes HBM4 memory supply plus large-scale data center construction expected online from 2027.",
+      "why": "SK海力士通过$500B独家协议锁定Nvidia下一代HBM4需求，是存储芯片板块最重磅利好，进一步强化持仓SK海力士（7709.HK ETF相关）的长期逻辑；协议中含数据中心建设，暗示AI基础设施超级周期延续至少至2027+；英伟达Vera Rubin供应链也因此更清晰。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM4",
+        "Nvidia",
+        "英伟达",
+        "AI芯片",
+        "三星",
+        "Samsung",
+        "高带宽内存"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+      "published_date": "2026-07-25",
+      "still_developing": false,
+      "first_seen": "2026-07-26",
+      "is_new": false
+    },
+    {
+      "id": "ba078ea211d67865",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "市场监管总局依法对携程实施垄断行为作出51.79亿元行政处罚，责令全面整改",
+      "summary": "国家市场监督管理总局认定携程实施两项垄断行为：限定交易（强制酒店独家合作）及强制全网最低价，罚没款合计51.79亿元（没收违法所得16.58亿元 + 罚款35.21亿元，约为携程2025年中国境内销售额469.58亿元的7.5%）；另需退还强制扣押的订单储备金1.22亿元；携程回应称诚恳接受。",
+      "why": "中国平台经济反垄断执法标志性大案，携程（TCOM/9961.HK）短期一次性利润冲击约51.79亿元；处罚完结后监管不确定性下降或带来估值修复机会，但同时向美团、阿里等港股互联网平台传递持续监管压力信号；OTA行业竞争格局或因此重塑，利好同赛道竞争对手。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "9961",
+        "反垄断",
+        "市场监管总局",
+        "OTA",
+        "垄断",
+        "平台经济"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-25/doc-iniiytzh9154807.shtml",
+      "published_date": "2026-07-25",
+      "still_developing": false,
+      "first_seen": "2026-07-26",
+      "is_new": false
+    },
+    {
       "id": "b74b776f2f94b09e",
       "tier": 1,
       "lang": "en",
@@ -2580,225 +2823,6 @@
       "published_date": "2026-07-24",
       "first_seen": "2026-07-26",
       "is_new": false
-    },
-    {
-      "id": "4e529dd4b8ea0090",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "个股",
-      "title": "美团（3690.HK）即时零售日单量峰值破1.5亿创历史新高；Keeta海外覆盖香港、沙特、科威特、巴西",
-      "summary": "7月美团披露：即时零售日订单量峰值突破1.5亿单（全量配送平均时效34分钟），刷新历史纪录。Keeta已进驻香港、沙特、阿联酋及科威特，并在巴西采用新运营模式；中东地区已呈现规模效益，单位经济改善明显。另，美团自研大模型 LongCat-2.0（万亿参数，5万卡国产算力集群推理）于7月6日正式全面开源。",
-      "why": "即时零售破亿单叠加持续减亏，验证美团核心业务护城河；Keeta 国际化扩张是长期增量叙事；结合阿里淘宝闪购减亏加速，两者竞争格局趋于稳定，为 sell-put 提供更确定性支撑。",
-      "source": "美团新闻中心 / 163财经",
-      "verified": false,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "即时零售",
-        "Keeta",
-        "外卖",
-        "LongCat"
-      ],
-      "translated": false,
-      "url": "https://www.163.com/dy/article/L16DJD6905118HA4.html",
-      "is_new": false,
-      "first_seen": "2026-07-20"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "China's Politburo July meeting seen accelerating fiscal delivery, not new stimulus",
-      "summary": "Analysts expect the late-July Politburo meeting to call for faster implementation of existing infrastructure projects and possible front-loading of Q4 bond quotas. Roughly RMB 6.8 trillion of approved government bonds remain unissued; Beijing is unlikely to announce major new packages.",
-      "why": "政治局信号若偏积极财政，将提振A股和港股消费科技板块情绪，对国内消费相关标的期权是潜在正面催化。",
-      "source": "Capital Economics / Bloomberg",
-      "verified": false,
-      "keywords": [
-        "Politburo",
-        "China stimulus",
-        "fiscal policy",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://thedarksideoftheboom.substack.com/p/politburo-meeting-beijing-is-likely",
-      "id": "40019f71aab76c70",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "China's Xiaomi unveils SUV series dubbed Sky Nomad (new EREV brand)",
-      "summary": "Xiaomi officially confirmed Sky Nomad (Pengcheng/澎城) on July 8 — a standalone EREV SUV brand competing with Li Auto and AITO. First model Kunlun N3 is a 5.3m+, 7-seat full-size EREV with 70kWh+ battery, priced RMB 200k-450k. Xiaomi shares surged 10% intraday on announcement.",
-      "why": "小米推出独立增程品牌澎城，直接挑战理想汽车和AITO，扩大EV赛道布局；当日股价涨10%说明市场正面解读，对小米sell put有支撑。",
-      "source": "CnEVPost",
-      "verified": true,
-      "keywords": [
-        "Xiaomi",
-        "小米",
-        "1810.HK",
-        "Sky Nomad",
-        "澎城",
-        "EREV",
-        "SUV"
-      ],
-      "translated": false,
-      "url": "https://cnevpost.com/2026/07/09/xiaomi-ev-sky-nomad-new-series-offers-first-look-suv/",
-      "id": "24b8bada211df94d",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "China Renaissance Moves Trip.com (TCOM) to Hold on Antitrust Overhang",
-      "summary": "China Renaissance downgraded Trip.com (TCOM/9961.HK) to Hold with a $42 target on July 2, citing unresolved antitrust investigation. BofA also cut its target from $78 to $64 (maintained Buy), noting a 'modest' Q1 beat but weak Q2 outlook and antitrust uncertainty.",
-      "why": "携程反垄断调查悬而未决是重大不确定性，多家机构下调目标价，对sell put策略的保护垫变薄，需重新评估行权价选择。",
-      "source": "Yahoo Finance / Insider Monkey",
-      "verified": false,
-      "keywords": [
-        "Trip.com",
-        "携程",
-        "TCOM",
-        "9961.HK",
-        "antitrust",
-        "downgrade"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/markets/stocks/articles/china-renaissance-moves-trip-com-144723266.html",
-      "id": "175a61a7cf28fb65",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "7c431c0717deecc5",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "腾讯7月2-3日连续回购逾229万股，合计耗资约10亿港元；Q1净利679亿同比+11%",
-      "summary": "腾讯控股7月2日回购114.6万股耗资5.008亿港元、7月3日再回购114.9万股耗资5.01亿港元，两日合计逾10亿港元。Q1净利润679亿元，同比+11%；微信及WeChat合并MAU 14.32亿稳定。市值近期有所回落，AI布局滞后（元宝MAU仅5735万，远落后于豆包3.45亿）是主要压制；公司已于7月6日发布混元Hy3正式版加速追赶。",
-      "why": "高强度持续回购是股价下方的重要支撑，配合强劲的Q1业绩；AI追赶若提速，估值重评预期可能带动反弹；持有腾讯相关sell put时，回购支撑有助于守住行权价。",
-      "source": "FX168财经网（据港交所披露易）",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "0700.HK",
-        "回购",
-        "buyback",
-        "混元Hy3",
-        "元宝",
-        "MAU"
-      ],
-      "translated": false,
-      "url": "https://news.fx168news.com/cooperate/2607/7469157.shtml",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "15f5025efdb347ac",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Intel INTC Q2 Earnings Thursday (7/23): 18A-P in Risk Production, Apple/Microsoft Foundry Clients",
-      "summary": "Intel reports Q2 2026 on July 23. Guidance: revenue $13.8B-$14.8B, non-GAAP EPS ~$0.20, gross margin ~39%. Catalysts: 18A-P node entered risk production on schedule; Apple and Microsoft partnership for Intel Foundry validates the roadmap. Stock +160% YTD but pulled back to $101-$103 ahead of earnings. HSBC raised target to $200 citing foundry momentum. Foundry division still posting $2.4B+ operating loss.",
-      "why": "18A进入风险生产是英特尔估值重构的关键节点，苹果微软代工合作是首个财报验证机会；留意代工亏损收窄幅度是否符合扭亏时间表，这是估值修复的核心变量。",
-      "source": "TradingKey / HSBC analyst",
-      "verified": false,
-      "keywords": [
-        "Intel",
-        "INTC",
-        "18A",
-        "foundry",
-        "Q2 earnings",
-        "Apple",
-        "Microsoft",
-        "HSBC $200"
-      ],
-      "translated": false,
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262042520-intel-intc-earnings-preview-july-23-2026-18a-foundry-apple-microsoft-tradingkey",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "952973df10bcfbf8",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "老铺黄金股价较历史高点跌逾67%，市值蒸发超1200亿港元；天猫Q2销售额同比降63%",
-      "summary": "老铺黄金（6181.HK）股价较历史峰值下跌逾67%，市值蒸发超1200亿港元。天猫旗舰店Q2销售额同比大降63%，成都门店客流明显转淡。背景：国际金价从今年1月高位约5599美元/盎司大幅回落至7月中旬约3973美元，金价下跌打击公司高溢价库存策略和品牌溢价支撑。",
-      "why": "金价大幅回落是老铺黄金最主要的基本面逆风；若持有相关头寸，需重新评估金价下行路径对公司收入结构的影响，古法金赛道整体吸引力随金价波动而显著变化。",
-      "source": "大纪元（据公开数据汇总）",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "6181.HK",
-        "黄金",
-        "金价",
-        "古法金",
-        "Laopu Gold"
-      ],
-      "translated": false,
-      "url": "https://www.epochtimes.com/gb/26/7/19/n14812645.htm",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "2e3a921091376fbe",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "港交所回应：正探讨取消午间休市、提早至9时开市及增设深夜盘后交易",
-      "summary": "市场传闻港交所研究延长股票交易时间：拟将开市提前至9:00（现9:30）、取消12:00-13:00午间休市，并增设晚间8:00至午夜盘后交易时段，以承接美国早盘活动。港交所回应称目前仍处早期探讨阶段，当前首要工作是延长衍生品市场交易时段。",
-      "why": "若落地，港股与A股、美股的交叉时段大幅增加，对日内期权策略和delta对冲窗口有实质影响；现阶段观察为主，无需立即调整。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "港交所",
-        "延长交易时间",
-        "午间休市",
-        "HKEX",
-        "盘后交易"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260720/herald/7be41f3d3e0202b0919c604807bfe27c.html",
-      "is_new": false,
-      "first_seen": "2026-07-21"
     },
     {
       "id": "81399536525874d7",
