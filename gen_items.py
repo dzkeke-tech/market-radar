@@ -1,0 +1,159 @@
+import hashlib, json
+
+def make_id(url, title=''):
+    s = (url or title or '').strip()
+    return hashlib.sha1(s.encode()).hexdigest()[:16]
+
+items = [
+  {
+    'id': make_id('https://finance.sina.com.cn/wm/2026-07-27/doc-inikezxm3231993.shtml'),
+    'tier': 1,
+    'lang': 'zh',
+    'markets': ['US', 'HK', 'A'],
+    'time': '07:00',
+    'group': '大盘头条',
+    'title': '超级央行周开幕：美联储FOMC今日起开会，明日公布利率决议；日本央行、英国央行同步登场',
+    'summary': '美联储7月28-29日FOMC议息会议今日开幕，政策决议将于北京时间7月30日凌晨2:00公布。CME Fed Watch显示维持联邦基金利率目标区间（3.50%-3.75%）不变的概率约65%，加息25bp概率约35%。日本央行与英国央行本周亦将相继公布利率决策，本周还将迎来Meta、微软、苹果、亚马逊四大科技公司财报，多重事件叠加构成全周最大不确定因素。',
+    'why': '联储利率决策直接影响美股折现率及港美科技股期权隐含波动率；35%的加息概率高于市场此前预期，若真正加息将对成长股和sell put持仓构成短期压力；同时大型科技财报若AI变现不达标亦将引发估值重置。',
+    'source': '新浪财经',
+    'verified': True,
+    'keywords': ['美联储', 'FOMC', '超级央行周', '利率', '宏观', '日本央行'],
+    'translated': False,
+    'url': 'https://finance.sina.com.cn/wm/2026-07-27/doc-inikezxm3231993.shtml',
+    'published_date': '2026-07-27',
+    'still_developing': False
+  },
+  {
+    'id': make_id('https://finance.sina.com.cn/roll/2026-07-28/doc-inikirnm0361003.shtml'),
+    'tier': 1,
+    'lang': 'zh',
+    'markets': ['US', 'HK', 'A'],
+    'time': '16:30',
+    'group': '大盘头条',
+    'title': '全球AI/芯片股踩踏：韩国股市年内第八次熔断，A股创业板指跌7.35%，港股存储ETF暴跌逾29%',
+    'summary': '今日（7月28日），受英伟达-OpenAI 2500亿美元数据中心担保谈判引发AI资本支出循环逻辑担忧，叠加长鑫科技上市带来DRAM竞争新变量，全球芯片板块遭遇踩踏：韩国KOSPI年内第八次触发熔断，SK海力士ADR跌破发行价；A股创业板指跌7.35%、科创50跌6.33%，通信ETF、中韩半导体ETF跌停，存储芯片股集体走低；港股南方两倍做多海力士暴跌逾29%（较6月底高位回撤近80%），恒指收涨0.41%但存储/AI板块深度回调。',
+    'why': '全球芯片板块单日踩踏，SK海力士/英伟达/美光相关持仓均受波及；AI资本支出循环疑虑是核心叙事变化，短线有超跌反弹空间，但若Meta/微软财报AI变现不达标则二次下跌风险高；持有存储类sell put需紧急评估行权价安全边际。',
+    'source': '新浪财经',
+    'verified': True,
+    'keywords': ['芯片', '半导体', '创业板', '韩国熔断', 'SK海力士', '英伟达', '存储芯片'],
+    'translated': False,
+    'url': 'https://finance.sina.com.cn/roll/2026-07-28/doc-inikirnm0361003.shtml',
+    'published_date': '2026-07-28',
+    'still_developing': False
+  },
+  {
+    'id': make_id('https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says'),
+    'tier': 1,
+    'lang': 'en',
+    'markets': ['US'],
+    'time': '08:00',
+    'group': '大盘头条',
+    'title': "Nvidia in Talks to Guarantee $250B for OpenAI's $500B Ohio Data Center — Triggered Global Chip Selloff",
+    'summary': "Bloomberg and WSJ reported July 26 that Nvidia is in discussions to backstop $250 billion in financing for OpenAI's planned 10-gigawatt Ohio data center (total project ~$500B, operated by SoftBank SB Energy); Nvidia is also reportedly discussing guaranteeing another $350B for OpenAI chip purchases. The disclosure triggered a global AI chip selloff as markets question whether AI capex cycles can generate sufficient returns to cover Nvidia's potential debt exposure.",
+    'why': '延续报道：英伟达若为OpenAI提供合计约6000亿美元担保，将产生巨额资产负债表风险，市场重新审视AI资本支出循环可持续性，是本轮全球芯片踩踏的核心导火索；对英伟达持仓而言短期情绪最负面，但长期锁定需求是利多；隐含波动率今日将大幅上升。',
+    'source': 'Bloomberg',
+    'verified': True,
+    'keywords': ['英伟达', 'Nvidia', 'OpenAI', 'AI', '数据中心', 'NVDA'],
+    'translated': False,
+    'url': 'https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says',
+    'published_date': '2026-07-26',
+    'still_developing': True
+  },
+  {
+    'id': make_id('https://portal.sina.com.hk/finance/sina/2026/07/28/1867981/laopujinjin/'),
+    'tier': 1,
+    'lang': 'zh',
+    'markets': ['HK'],
+    'time': '16:30',
+    'group': '个股',
+    'title': '老铺黄金单日暴跌24.72%，市值蒸发约173亿港元；高盛等大行纷纷下调目标价',
+    'summary': '老铺黄金（06181.HK）7月28日盘中最大跌幅达24.72%，报298.4港元创一年半新低，收盘跌23.76%报302.2港元，市值单日蒸发约173亿港元。此前一日（7月27日）公司发布正面盈利预告：上半年净利润约43.1-43.6亿元（同比增83-85%），但市场拆解后发现Q2单季环比净利润骤降约87%（金价上半年高位后大幅回落所致），远低于预期。高盛随即将目标价大幅下调至650港元，摩根士丹利预计短期股价情绪偏弱。',
+    'why': '盈喜反成出货信号——Q2金价疲弱导致单季利润环比暴跌近九成，打破此前高增长预期；大摩、高盛等大行态度集体转谨慎；若持有06181.HK sell put需立即核查行权价安全边际，今日大幅波动后隐含波动率显著飙升，可考虑买入VIX对冲。',
+    'source': '新浪香港',
+    'verified': True,
+    'keywords': ['老铺黄金', 'Laopu Gold', '6181.HK', '黄金', '暴跌', '高盛', '大摩'],
+    'translated': False,
+    'url': 'https://portal.sina.com.hk/finance/sina/2026/07/28/1867981/%E7%9B%88%E5%96%9C%E5%8F%8D%E6%88%90%E5%87%BA%E8%B2%A8%E4%BF%A1%E8%99%9F%EF%BC%9F%E8%80%81%E9%8B%AA%E9%BB%83%E9%87%91%E6%9A%B4%E8%B7%8C%E9%80%BE20-%E5%A4%A7%E6%91%A9%E6%96%99%E7%9F%AD%E6%9C%9F/',
+    'published_date': '2026-07-28',
+    'still_developing': False
+  },
+  {
+    'id': make_id('https://finance.sina.com.cn/roll/2026-07-27/doc-inikezxm3141007.shtml'),
+    'tier': 1,
+    'lang': 'zh',
+    'markets': ['HK', 'US'],
+    'time': '09:00',
+    'group': '个股',
+    'title': '携程接受反垄断行政处罚：罚没合计51.79亿元，需终止排他性分销并退还酒店保证金1.22亿元',
+    'summary': '国家市场监督管理总局（SAMR）7月25日对携程集团作出行政处罚：裁定违反《反垄断法》第22条（排他性交易安排与不合理交易条件），没收违法所得16.58亿元、处以罚款35.21亿元（占2025年国内销售额7.5%），合计51.79亿元；同时要求全额退还强制扣留的酒店订单保证金1.22亿元，并终止排他分销安排。携程集团（TCOM.US/9961.HK）已于7月27日发布港交所公告表示"诚挚接受"并承诺整改。',
+    'why': '罚款约等于携程两个月净利润，市场有预期但金额偏高；更关键的是终止排他性分销将改变携程与酒店供应商的谈判筹码，长期可能压缩分佣率并影响ARPU；TCOM期权隐含波动率短期料上升，sell put持仓需评估下行风险。',
+    'source': '新浪财经',
+    'verified': True,
+    'keywords': ['携程', 'Trip.com', 'TCOM', '9961.HK', '反垄断', '罚款', '监管'],
+    'translated': False,
+    'url': 'https://finance.sina.com.cn/roll/2026-07-27/doc-inikezxm3141007.shtml',
+    'published_date': '2026-07-27',
+    'still_developing': False
+  },
+  {
+    'id': make_id('https://www.sina.cn/news/detail/5325214708663085.html'),
+    'tier': 2,
+    'lang': 'zh',
+    'markets': ['A'],
+    'time': '09:30',
+    'group': '大盘头条',
+    'title': '长鑫科技（CXMT）昨日科创板上市首日暴涨逾500%，市值一度超3.3万亿元登顶A股，引发全球DRAM竞争格局重估',
+    'summary': '中国存储芯片龙头长鑫科技（CXMT，688825.SH）于7月27日在科创板正式上市，发行价8.66元，开盘价49.50元（涨幅471.59%），总市值一度超3.3万亿元，超越工商银行成为A股市值第一，创科创板史上最大IPO（募资约666亿元）。公司Q1 2026营收508亿元同比增719%、归母净利247亿元。长鑫上市填补A股DRAM制造标的空白，引发市场对美光、SK海力士、三星在全球DRAM市场遭受中国竞争的重新定价，是今日全球存储概念股大跌的触发因素之一。',
+    'why': '延续报道：长鑫科技上市是全球DRAM竞争格局的历史性事件，对美光（MU）、SK海力士形成长期竞争压力；A股半导体赛道资金可能被长鑫大规模吸走，而全球存储股受此冲击；对持有美光/SK海力士相关标的需重新评估DRAM定价权前景。',
+    'source': '新浪新闻',
+    'verified': True,
+    'keywords': ['长鑫科技', 'CXMT', '科创板', '存储芯片', 'DRAM', 'IPO', 'A股'],
+    'translated': False,
+    'url': 'https://www.sina.cn/news/detail/5325214708663085.html',
+    'published_date': '2026-07-27',
+    'still_developing': True
+  },
+  {
+    'id': make_id('https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html'),
+    'tier': 2,
+    'lang': 'en',
+    'markets': ['US', 'HK'],
+    'time': '08:00',
+    'group': '个股',
+    'title': "Nvidia and SK Group Sign $500B AI Partnership: 2GW Data Center + Long-Term HBM4 Co-Development Lock-In",
+    'summary': "Nvidia and SK Group signed letters of intent on July 25 for a $500B+ collaboration: SK Telecom will build a 2-gigawatt AI data center powered by Nvidia's Vera Rubin platform (Phase 1 in 2027); SK Hynix will co-develop HBM4 next-gen high-bandwidth memory ensuring long-term supply; a $1B Naver investment was also included. The deal signals Nvidia's strategy to lock in HBM4 memory supply and AI data center demand ahead of the Blackwell-to-Rubin platform transition.",
+    'why': '延续报道：此合作利多英伟达（锁定HBM4战略供应）和SK海力士（长期订单绑定），利空美光（竞争劣势进一步扩大）；本周因OpenAI担保谈判引发市场恐慌已短期压制SK海力士，但该$500B战略合作的中长期结构性利好不变。',
+    'source': 'CNBC',
+    'verified': True,
+    'keywords': ['英伟达', 'Nvidia', 'SK海力士', 'SK Hynix', 'HBM4', 'AI', 'NVDA'],
+    'translated': False,
+    'url': 'https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html',
+    'published_date': '2026-07-25',
+    'still_developing': True
+  },
+  {
+    'id': make_id('https://finance.sina.com.cn/tech/digi/2026-07-26/doc-inikasst1056853.shtml'),
+    'tier': 2,
+    'lang': 'zh',
+    'markets': ['US'],
+    'time': '08:00',
+    'group': '个股',
+    'title': '特斯拉FSD v15早期版本已上路，Robotaxi车队率先搭载；无人驾驶累计突破38万英里',
+    'summary': '特斯拉Q2财报电话会披露，Robotaxi改装Model Y已搭载FSD v15早期版本在真实道路行驶，已实现7大核心改进中约40%的功能，内部基准测试表现优异。Robotaxi当前已覆盖两个州六个城市，累计完成逾38万英里无监督自动驾驶里程，零重大事故。本月新增奥兰多和坦帕运营；FSD v15预计2026年底至2027年初向消费者车辆推送。Q2营收282.4亿美元（同比增26%），运营利润率仅1.4%（同比降约57%）受大幅增加研发投入影响。',
+    'why': 'FSD v15上路Robotaxi是特斯拉从汽车商转型AI/机器人公司的关键里程碑，Robotaxi商业化规模直接影响TSLA的长期估值逻辑和covered call/sell put策略的行权价设定参考；Q2利润率承压已反映在股价中，长线投资者更关注FSD商业化路径。',
+    'source': '新浪科技',
+    'verified': True,
+    'keywords': ['特斯拉', 'Tesla', 'TSLA', 'FSD', 'Robotaxi', '自动驾驶', 'FSD v15'],
+    'translated': False,
+    'url': 'https://finance.sina.com.cn/tech/digi/2026-07-26/doc-inikasst1056853.shtml',
+    'published_date': '2026-07-26',
+    'still_developing': False
+  }
+]
+
+with open('new_items.json', 'w', encoding='utf-8') as f:
+    json.dump(items, f, ensure_ascii=False, indent=2)
+
+print(f'Wrote {len(items)} items to new_items.json')
+for item in items:
+    print(f'  [{item["tier"]}] {item["id"]} | {item["published_date"]} | {item["title"][:60]}')
