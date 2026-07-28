@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-28 13:22 (北京时间)",
+  "updated_at": "2026-07-28 18:23 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,112 +37,141 @@
   "positions": [],
   "items": [
     {
-      "id": "2d26b5dc4be10f7a",
+      "id": "f9d7dbc5de445835",
       "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "SK Hynix Plunges as Semiconductor Selloff Deepens; Kospi Triggers Circuit Breaker",
-      "summary": "SK Hynix plunged more than 10% in Seoul while Samsung Electronics fell over 8%, with South Korea's Kospi triggering a 20-minute trading halt. The rout deepened amid mounting concerns over circular AI financing and rising competition from China's low-cost AI models (Kimi K3) that could reduce future HBM demand. Tokyo Electron and Advantest also fell over 9% and 8% respectively.",
-      "why": "SK海力士为存储赛道核心标的，今日A股南方两倍做多海力士ETF（CSOP相关）跌超24%；HBM需求前景突变直接影响相关持仓估值，期权隐含波动率急剧上升，持有相关sell put需评估下行风险",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "SK Hynix",
-        "SK海力士",
-        "HBM",
-        "半导体",
-        "存储芯片",
-        "DRAM",
-        "三星"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-      "published_date": "2026-07-28",
-      "still_developing": false,
-      "first_seen": "2026-07-28",
-      "is_new": true
-    },
-    {
-      "id": "04c3d2003c42eff8",
-      "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
         "US",
-        "HK"
-      ],
-      "time": "09:15",
-      "group": "大盘头条",
-      "title": "Chip Rout Deepens on AI Funding Worry, China Competition — Nvidia Falls 5%",
-      "summary": "Nvidia fell 5% as investors raised alarm over circular AI financing: Nvidia's $500B AI memory deal with SK Hynix plus a $250B computing lease commitment for OpenAI created interlocking deals that could unravel if hyperscalers curb capital spending. Amazon, Meta, Microsoft and Apple earnings this week are critical for gauging whether AI infrastructure capex remains durable.",
-      "why": "英伟达持仓面临直接压力；若本周超大规模云厂商财报资本开支数据不及预期，将进一步压制AI芯片全板块估值；循环融资担忧一旦成真，相关AI基础设施押注需重新定价",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI芯片",
-        "数据中心",
-        "循环融资",
-        "OpenAI"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue",
-      "published_date": "2026-07-28",
-      "still_developing": false,
-      "first_seen": "2026-07-28",
-      "is_new": true
-    },
-    {
-      "id": "b4fa5b757b435c84",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
         "HK",
-        "A",
-        "US"
+        "A"
       ],
       "time": "07:00",
       "group": "大盘头条",
-      "title": "China Says US Pledged to Cap Replacement Tariffs on Chinese Goods at 20%",
-      "summary": "China's Commerce Ministry disclosed the US has committed to cap replacement tariffs on Chinese goods at 20%, ahead of the expiry of the temporary 10% Section 122 global duties. The US is simultaneously launching a new tariff wave targeting China and more than 50 other economies. Xi is expected to visit the US as bilateral trade talks continue.",
-      "why": "关税上限20%的承诺为港股/A股出海板块提供短期托底（拼多多Temu、小米、蜜雪冰城等）；新框架税率仍高于当前10%，中长期出口成本压力持续；中美峰会前后情绪窗口值得把握",
-      "source": "Bloomberg",
+      "title": "超级央行周开幕：美联储FOMC今日起开会，明日公布利率决议；日本央行、英国央行同步登场",
+      "summary": "美联储7月28-29日FOMC议息会议今日开幕，政策决议将于北京时间7月30日凌晨2:00公布。CME Fed Watch显示维持联邦基金利率目标区间（3.50%-3.75%）不变的概率约65%，加息25bp概率约35%。日本央行与英国央行本周亦将相继公布利率决策，本周还将迎来Meta、微软、苹果、亚马逊四大科技公司财报，多重事件叠加构成全周最大不确定因素。",
+      "why": "联储利率决策直接影响美股折现率及港美科技股期权隐含波动率；35%的加息概率高于市场此前预期，若真正加息将对成长股和sell put持仓构成短期压力；同时大型科技财报若AI变现不达标亦将引发估值重置。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "关税",
-        "美中贸易",
-        "tariffs",
-        "China US trade",
-        "出口",
-        "贸易战"
+        "美联储",
+        "FOMC",
+        "超级央行周",
+        "利率",
+        "宏观",
+        "日本央行"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-says-us-pledged-to-cap-replacement-tariffs-at-20",
+      "url": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikezxm3231993.shtml",
       "published_date": "2026-07-27",
       "still_developing": false,
       "first_seen": "2026-07-28",
       "is_new": true
     },
     {
-      "id": "2f018e60d700ab34",
+      "id": "136dc092058381c7",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "全球AI/芯片股踩踏：韩国股市年内第八次熔断，A股创业板指跌7.35%，港股存储ETF暴跌逾29%",
+      "summary": "今日（7月28日），受英伟达-OpenAI 2500亿美元数据中心担保谈判引发AI资本支出循环逻辑担忧，叠加长鑫科技上市带来DRAM竞争新变量，全球芯片板块遭遇踩踏：韩国KOSPI年内第八次触发熔断，SK海力士ADR跌破发行价；A股创业板指跌7.35%、科创50跌6.33%，通信ETF、中韩半导体ETF跌停，存储芯片股集体走低；港股南方两倍做多海力士暴跌逾29%（较6月底高位回撤近80%），恒指收涨0.41%但存储/AI板块深度回调。",
+      "why": "全球芯片板块单日踩踏，SK海力士/英伟达/美光相关持仓均受波及；AI资本支出循环疑虑是核心叙事变化，短线有超跌反弹空间，但若Meta/微软财报AI变现不达标则二次下跌风险高；持有存储类sell put需紧急评估行权价安全边际。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "芯片",
+        "半导体",
+        "创业板",
+        "韩国熔断",
+        "SK海力士",
+        "英伟达",
+        "存储芯片"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-07-28/doc-inikirnm0361003.shtml",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
+      "is_new": true
+    },
+    {
+      "id": "98985b641f4b4958",
       "tier": 1,
       "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Nvidia in Talks to Guarantee $250B for OpenAI's $500B Ohio Data Center — Triggered Global Chip Selloff",
+      "summary": "Bloomberg and WSJ reported July 26 that Nvidia is in discussions to backstop $250 billion in financing for OpenAI's planned 10-gigawatt Ohio data center (total project ~$500B, operated by SoftBank SB Energy); Nvidia is also reportedly discussing guaranteeing another $350B for OpenAI chip purchases. The disclosure triggered a global AI chip selloff as markets question whether AI capex cycles can generate sufficient returns to cover Nvidia's potential debt exposure.",
+      "why": "延续报道：英伟达若为OpenAI提供合计约6000亿美元担保，将产生巨额资产负债表风险，市场重新审视AI资本支出循环可持续性，是本轮全球芯片踩踏的核心导火索；对英伟达持仓而言短期情绪最负面，但长期锁定需求是利多；隐含波动率今日将大幅上升。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "OpenAI",
+        "AI",
+        "数据中心",
+        "NVDA"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+      "published_date": "2026-07-26",
+      "still_developing": true,
+      "first_seen": "2026-07-28",
+      "is_new": true
+    },
+    {
+      "id": "74bdba9f9d9971ae",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "个股",
+      "title": "老铺黄金单日暴跌24.72%，市值蒸发约173亿港元；高盛等大行纷纷下调目标价",
+      "summary": "老铺黄金（06181.HK）7月28日盘中最大跌幅达24.72%，报298.4港元创一年半新低，收盘跌23.76%报302.2港元，市值单日蒸发约173亿港元。此前一日（7月27日）公司发布正面盈利预告：上半年净利润约43.1-43.6亿元（同比增83-85%），但市场拆解后发现Q2单季环比净利润骤降约87%（金价上半年高位后大幅回落所致），远低于预期。高盛随即将目标价大幅下调至650港元，摩根士丹利预计短期股价情绪偏弱。",
+      "why": "盈喜反成出货信号——Q2金价疲弱导致单季利润环比暴跌近九成，打破此前高增长预期；大摩、高盛等大行态度集体转谨慎；若持有06181.HK sell put需立即核查行权价安全边际，今日大幅波动后隐含波动率显著飙升，可考虑买入VIX对冲。",
+      "source": "新浪香港",
+      "verified": true,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "黄金",
+        "暴跌",
+        "高盛",
+        "大摩"
+      ],
+      "translated": false,
+      "url": "https://portal.sina.com.hk/finance/sina/2026/07/28/1867981/%E7%9B%88%E5%96%9C%E5%8F%8D%E6%88%90%E5%87%BA%E8%B2%A8%E4%BF%A1%E8%99%9F%EF%BC%9F%E8%80%81%E9%8B%AA%E9%BB%83%E9%87%91%E6%9A%B4%E8%B7%8C%E9%80%BE20-%E5%A4%A7%E6%91%A9%E6%96%99%E7%9F%AD%E6%9C%9F/",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
+      "is_new": true
+    },
+    {
+      "id": "61119dcf48b9d269",
+      "tier": 1,
+      "lang": "zh",
       "markets": [
         "HK",
         "US"
       ],
-      "time": "10:00",
+      "time": "09:00",
       "group": "个股",
-      "title": "Trip.com Fined ¥5.2 Billion in China Antitrust Case; Shares Jump as Regulatory Overhang Clears",
-      "summary": "China's State Administration for Market Regulation fined Trip.com Group ¥5.2 billion for abusing its dominant position in online hotel booking — enforcing exclusive lowest-price arrangements with hotels and withholding booking deposits. Despite the substantial fine, Trip.com's Hong Kong shares rallied as the market viewed the regulatory cloud as lifted, with management holding a conference call on July 27.",
-      "why": "大额反垄断罚款落地消除监管不确定性，类似阿里2021年被罚后的股价修复逻辑；罚款短期影响现金流，对持有TCOM/9961.HK期权策略需重新评估行权价下行风险及delta敞口",
-      "source": "Bloomberg",
+      "title": "携程接受反垄断行政处罚：罚没合计51.79亿元，需终止排他性分销并退还酒店保证金1.22亿元",
+      "summary": "国家市场监督管理总局（SAMR）7月25日对携程集团作出行政处罚：裁定违反《反垄断法》第22条（排他性交易安排与不合理交易条件），没收违法所得16.58亿元、处以罚款35.21亿元（占2025年国内销售额7.5%），合计51.79亿元；同时要求全额退还强制扣留的酒店订单保证金1.22亿元，并终止排他分销安排。携程集团（TCOM.US/9961.HK）已于7月27日发布港交所公告表示\"诚挚接受\"并承诺整改。",
+      "why": "罚款约等于携程两个月净利润，市场有预期但金额偏高；更关键的是终止排他性分销将改变携程与酒店供应商的谈判筹码，长期可能压缩分佣率并影响ARPU；TCOM期权隐含波动率短期料上升，sell put持仓需评估下行风险。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
         "携程",
@@ -150,44 +179,73 @@
         "TCOM",
         "9961.HK",
         "反垄断",
-        "监管处罚",
-        "酒店"
+        "罚款",
+        "监管"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/trip-com-shares-jump-in-hong-kong-as-regulatory-overhang-clears",
+      "url": "https://finance.sina.com.cn/roll/2026-07-27/doc-inikezxm3141007.shtml",
       "published_date": "2026-07-27",
       "still_developing": false,
       "first_seen": "2026-07-28",
       "is_new": true
     },
     {
-      "id": "8e94f746c4688443",
+      "id": "26cb8500d3a0095e",
       "tier": 2,
-      "lang": "en",
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "长鑫科技（CXMT）昨日科创板上市首日暴涨逾500%，市值一度超3.3万亿元登顶A股，引发全球DRAM竞争格局重估",
+      "summary": "中国存储芯片龙头长鑫科技（CXMT，688825.SH）于7月27日在科创板正式上市，发行价8.66元，开盘价49.50元（涨幅471.59%），总市值一度超3.3万亿元，超越工商银行成为A股市值第一，创科创板史上最大IPO（募资约666亿元）。公司Q1 2026营收508亿元同比增719%、归母净利247亿元。长鑫上市填补A股DRAM制造标的空白，引发市场对美光、SK海力士、三星在全球DRAM市场遭受中国竞争的重新定价，是今日全球存储概念股大跌的触发因素之一。",
+      "why": "延续报道：长鑫科技上市是全球DRAM竞争格局的历史性事件，对美光（MU）、SK海力士形成长期竞争压力；A股半导体赛道资金可能被长鑫大规模吸走，而全球存储股受此冲击；对持有美光/SK海力士相关标的需重新评估DRAM定价权前景。",
+      "source": "新浪新闻",
+      "verified": true,
+      "keywords": [
+        "长鑫科技",
+        "CXMT",
+        "科创板",
+        "存储芯片",
+        "DRAM",
+        "IPO",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://www.sina.cn/news/detail/5325214708663085.html",
+      "published_date": "2026-07-27",
+      "still_developing": true,
+      "first_seen": "2026-07-28",
+      "is_new": true
+    },
+    {
+      "id": "898a420a2f12f13f",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "07:00",
+      "time": "08:00",
       "group": "个股",
-      "title": "Intel Q2 2026: Revenue Up 25% — Fastest Growth in ~15 Years; 18A Yields Hit ~85%, DCAI Up 59%",
-      "summary": "Intel's Q2 revenue of $16.1B beat guidance by $1.8B with adjusted EPS of $0.42 vs. guided $0.20. The Data Center & AI segment rose 59% YoY; Foundry revenue grew 31% to $5.8B with 18A process yields climbing to ~85%. Despite the strong beat, INTC fell 28% in July before rebounding, as investors weigh a capex increase to over $20B and limited external foundry revenue of $293M.",
-      "why": "延续报道：财报大超预期但股价深度回调，显示市场对晶圆代工商业化时间线仍持怀疑；在当前芯片崩跌环境下，18A良率加速可能使英特尔成为逆势标的；capex大幅上调进一步强化AI基础设施循环融资叙事",
-      "source": "Intel Newsroom",
+      "title": "特斯拉FSD v15早期版本已上路，Robotaxi车队率先搭载；无人驾驶累计突破38万英里",
+      "summary": "特斯拉Q2财报电话会披露，Robotaxi改装Model Y已搭载FSD v15早期版本在真实道路行驶，已实现7大核心改进中约40%的功能，内部基准测试表现优异。Robotaxi当前已覆盖两个州六个城市，累计完成逾38万英里无监督自动驾驶里程，零重大事故。本月新增奥兰多和坦帕运营；FSD v15预计2026年底至2027年初向消费者车辆推送。Q2营收282.4亿美元（同比增26%），运营利润率仅1.4%（同比降约57%）受大幅增加研发投入影响。",
+      "why": "FSD v15上路Robotaxi是特斯拉从汽车商转型AI/机器人公司的关键里程碑，Robotaxi商业化规模直接影响TSLA的长期估值逻辑和covered call/sell put策略的行权价设定参考；Q2利润率承压已反映在股价中，长线投资者更关注FSD商业化路径。",
+      "source": "新浪科技",
       "verified": true,
       "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "18A",
-        "晶圆代工",
-        "foundry",
-        "CPU",
-        "数据中心"
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "FSD",
+        "Robotaxi",
+        "自动驾驶",
+        "FSD v15"
       ],
       "translated": false,
-      "url": "https://newsroom.intel.com/corporate/intel-reports-second-quarter-2026-financial-results",
-      "published_date": "2026-07-23",
-      "still_developing": true,
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-26/doc-inikasst1056853.shtml",
+      "published_date": "2026-07-26",
+      "still_developing": false,
       "first_seen": "2026-07-28",
       "is_new": true
     },
@@ -2883,6 +2941,130 @@
       "is_new": false
     },
     {
+      "id": "2d26b5dc4be10f7a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "SK Hynix Plunges as Semiconductor Selloff Deepens; Kospi Triggers Circuit Breaker",
+      "summary": "SK Hynix plunged more than 10% in Seoul while Samsung Electronics fell over 8%, with South Korea's Kospi triggering a 20-minute trading halt. The rout deepened amid mounting concerns over circular AI financing and rising competition from China's low-cost AI models (Kimi K3) that could reduce future HBM demand. Tokyo Electron and Advantest also fell over 9% and 8% respectively.",
+      "why": "SK海力士为存储赛道核心标的，今日A股南方两倍做多海力士ETF（CSOP相关）跌超24%；HBM需求前景突变直接影响相关持仓估值，期权隐含波动率急剧上升，持有相关sell put需评估下行风险",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "SK Hynix",
+        "SK海力士",
+        "HBM",
+        "半导体",
+        "存储芯片",
+        "DRAM",
+        "三星"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
+      "id": "04c3d2003c42eff8",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:15",
+      "group": "大盘头条",
+      "title": "Chip Rout Deepens on AI Funding Worry, China Competition — Nvidia Falls 5%",
+      "summary": "Nvidia fell 5% as investors raised alarm over circular AI financing: Nvidia's $500B AI memory deal with SK Hynix plus a $250B computing lease commitment for OpenAI created interlocking deals that could unravel if hyperscalers curb capital spending. Amazon, Meta, Microsoft and Apple earnings this week are critical for gauging whether AI infrastructure capex remains durable.",
+      "why": "英伟达持仓面临直接压力；若本周超大规模云厂商财报资本开支数据不及预期，将进一步压制AI芯片全板块估值；循环融资担忧一旦成真，相关AI基础设施押注需重新定价",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "数据中心",
+        "循环融资",
+        "OpenAI"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
+      "id": "b4fa5b757b435c84",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A",
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "China Says US Pledged to Cap Replacement Tariffs on Chinese Goods at 20%",
+      "summary": "China's Commerce Ministry disclosed the US has committed to cap replacement tariffs on Chinese goods at 20%, ahead of the expiry of the temporary 10% Section 122 global duties. The US is simultaneously launching a new tariff wave targeting China and more than 50 other economies. Xi is expected to visit the US as bilateral trade talks continue.",
+      "why": "关税上限20%的承诺为港股/A股出海板块提供短期托底（拼多多Temu、小米、蜜雪冰城等）；新框架税率仍高于当前10%，中长期出口成本压力持续；中美峰会前后情绪窗口值得把握",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "关税",
+        "美中贸易",
+        "tariffs",
+        "China US trade",
+        "出口",
+        "贸易战"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-says-us-pledged-to-cap-replacement-tariffs-at-20",
+      "published_date": "2026-07-27",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
+      "id": "2f018e60d700ab34",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Trip.com Fined ¥5.2 Billion in China Antitrust Case; Shares Jump as Regulatory Overhang Clears",
+      "summary": "China's State Administration for Market Regulation fined Trip.com Group ¥5.2 billion for abusing its dominant position in online hotel booking — enforcing exclusive lowest-price arrangements with hotels and withholding booking deposits. Despite the substantial fine, Trip.com's Hong Kong shares rallied as the market viewed the regulatory cloud as lifted, with management holding a conference call on July 27.",
+      "why": "大额反垄断罚款落地消除监管不确定性，类似阿里2021年被罚后的股价修复逻辑；罚款短期影响现金流，对持有TCOM/9961.HK期权策略需重新评估行权价下行风险及delta敞口",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "9961.HK",
+        "反垄断",
+        "监管处罚",
+        "酒店"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/trip-com-shares-jump-in-hong-kong-as-regulatory-overhang-clears",
+      "published_date": "2026-07-27",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
       "id": "ad9dab2454e5753f",
       "tier": 1,
       "lang": "zh",
@@ -3007,201 +3189,6 @@
       "still_developing": true,
       "first_seen": "2026-07-28",
       "is_new": false
-    },
-    {
-      "id": "4fbadc67b1bcaf96",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "Intel (INTC) regains $100 — Fortinet joins as first cybersecurity foundry customer; Q2 earnings Thursday Jul 23",
-      "summary": "Intel stock reclaimed $100 on July 21 after Fortinet selected its 18A foundry process — the first cybersecurity sector customer. Q2 earnings due July 23: consensus $14.4B revenue, $0.22 non-GAAP EPS. Foundry division still posting $2.4B+ operating losses per quarter; HSBC raised target to $200.",
-      "why": "英特尔代工18A首次拿下网络安全客户，验证其向外部扩张能力；明日7/23财报是短期方向催化剂；期权隐含波动率高企，卖put须注意代工亏损是否超预期。",
-      "source": "FX Leaders",
-      "verified": false,
-      "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "代工",
-        "foundry",
-        "18A",
-        "晶圆代工",
-        "CPU"
-      ],
-      "translated": false,
-      "url": "https://www.fxleaders.com/news/2026/07/21/intel-intc-stock-reclaims-key-100-level-as-fortinet-becomes-first-cybersecurity-foundry-customer/",
-      "is_new": false,
-      "first_seen": "2026-07-22"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "NVIDIA Corporation (NVDA) to Launch Rubin CPX by the End of 2026",
-      "summary": "英伟达宣布将于2026年底推出Rubin CPX芯片，专攻视频生成和AI辅助编码等复杂任务（继Blackwell之后的下一代产品）；同步推出AI算力合作伙伴计划支持云服务商融资采购GPU；DeepSeek据报正自研AI芯片以削减对英伟达依赖。",
-      "why": "Rubin路线图清晰强化护城河；DeepSeek自研是潜在中期竞争风险信号，但短期不改变Blackwell供需紧张格局；持仓NVDA逻辑仍强，可维持sell put。",
-      "source": "Finviz",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "GPU",
-        "AI芯片",
-        "Blackwell",
-        "黄仁勋",
-        "Rubin"
-      ],
-      "translated": false,
-      "url": "https://finviz.com/news/168814/nvidia-corporation-nvda-to-launch-rubin-cpx-by-the-end-of-2026",
-      "id": "dd28a00cc7a8da6c",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Meituan Keeta Accelerates Overseas Expansion: Plans to Enter the UAE, Kuwait, Qatar, Bahrain",
-      "summary": "美团Keeta7月在沙特新增11城覆盖，累计已覆盖20城市、市场份额约10%（排名第三）；计划进一步拓展阿联酋、科威特、卡塔尔、巴林等海湾国家。摩根士丹利预测2028年Keeta中东市占达20%、GMV 60亿美元。",
-      "why": "海外扩张验证美团非国内存量成长逻辑，出海里程碑提升估值弹性；适合中长线持仓，可搭配sell put在波动中增仓。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "Keeta",
-        "外卖",
-        "即时零售"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/60458148/meituan-keeta-accelerates-overseas-expansion-plans-to-enter-the-uae",
-      "id": "5c35a267f4d6306d",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "腾讯市值4万亿港元徘徊：游戏收入产分歧，AI回报待考",
-      "summary": "腾讯（00700）7月22日盘中一度跌逾7%，市值逼近4万亿港元支撑位；7月23日反弹至4.08万亿。Q2财报定于8月12日，市场分歧聚焦游戏收入增速及AI产品（元宝/混元）货币化；微信AI助手小微已启动灰度测试。",
-      "why": "8月12日业绩是近期核心催化剂，业绩前隐含波动率将上升；4万亿港元是关键支撑，AI货币化若超预期将触发估值重估；sell put行权价建议参考该支撑位。",
-      "source": "新浪科技",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "微信",
-        "WeChat",
-        "腾讯游戏",
-        "元宝",
-        "混元"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniiufvh7774531.shtml",
-      "id": "831fe07b33c0a4cd",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "22:30",
-      "group": "个股",
-      "title": "Tesla launches Robotaxi Service in two more Florida cities",
-      "summary": "特斯拉7月22日将Robotaxi服务扩展至佛罗里达州奥兰多和坦帕，全美运营城市增至6个（奥斯汀、达拉斯、休斯顿、迈阿密、奥兰多、坦帕）；FSD v14 Lite同步准备广泛推送。",
-      "why": "Robotaxi里程碑扩张，有助对冲Q2利润下滑叙事；商业化仍处早期，建议等待更多运营数据后再调整仓位策略。",
-      "source": "Tesla Oracle",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Robotaxi",
-        "FSD",
-        "自动驾驶"
-      ],
-      "translated": false,
-      "url": "https://www.teslaoracle.com/2026/07/22/tesla-launches-robotaxi-service-in-two-more-florida-cities/",
-      "id": "8e9935a1a6039b51",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "Asian Chipmakers Lead Regional Rally; KOSPI +2.8% as AI Buildout Capex Confirms Demand",
-      "summary": "MSCI Asia Pacific climbed 1%, led by South Korean chip stocks — Samsung and SK Hynix both gained more than 3% — as investors bet AI infrastructure spending will remain robust following Alphabet's record $195-205B full-year capex guidance.",
-      "why": "AI资本开支景气信号确认，直接利好持仓SK海力士（7709.HK）及南方两倍做多ETF；港股科技整体情绪升温，看好现有仓位。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "HBM",
-        "港股",
-        "AI芯片",
-        "存储芯片",
-        "高带宽内存"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-      "id": "f7f8466dfbf1fd56",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "花旗将中国股市评级上调至超配，恒指2026年底目标29600点",
-      "summary": "花旗集团正式将中国股市由战术性中性上调至超配，设恒生指数2026年底目标价29600点、沪深300目标5600点；渣打银行及高盛同步维持超配评级，共同理由为中国宏观韧性及AI、生物科技领域创新吸引力。",
-      "why": "外资机构集体看多港股，有利于持有腾讯、阿里、美团等港股核心仓位；整体Beta提升，关注外资流入落地节奏对仓位影响。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "A股",
-        "外资",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/post/76282101/just-announced-upgraded-to-overweight-latest-statement-from-foreign-investors",
-      "id": "d5646967e74cb2ae",
-      "is_new": false,
-      "first_seen": "2026-07-23"
     },
     {
       "tier": 2,
@@ -4242,6 +4229,37 @@
       "still_developing": true,
       "id": "04ed00d18c468376",
       "first_seen": "2026-07-27",
+      "is_new": false
+    },
+    {
+      "id": "8e94f746c4688443",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "Intel Q2 2026: Revenue Up 25% — Fastest Growth in ~15 Years; 18A Yields Hit ~85%, DCAI Up 59%",
+      "summary": "Intel's Q2 revenue of $16.1B beat guidance by $1.8B with adjusted EPS of $0.42 vs. guided $0.20. The Data Center & AI segment rose 59% YoY; Foundry revenue grew 31% to $5.8B with 18A process yields climbing to ~85%. Despite the strong beat, INTC fell 28% in July before rebounding, as investors weigh a capex increase to over $20B and limited external foundry revenue of $293M.",
+      "why": "延续报道：财报大超预期但股价深度回调，显示市场对晶圆代工商业化时间线仍持怀疑；在当前芯片崩跌环境下，18A良率加速可能使英特尔成为逆势标的；capex大幅上调进一步强化AI基础设施循环融资叙事",
+      "source": "Intel Newsroom",
+      "verified": true,
+      "keywords": [
+        "英特尔",
+        "Intel",
+        "INTC",
+        "18A",
+        "晶圆代工",
+        "foundry",
+        "CPU",
+        "数据中心"
+      ],
+      "translated": false,
+      "url": "https://newsroom.intel.com/corporate/intel-reports-second-quarter-2026-financial-results",
+      "published_date": "2026-07-23",
+      "still_developing": true,
+      "first_seen": "2026-07-28",
       "is_new": false
     },
     {
