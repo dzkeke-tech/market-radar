@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-29 08:31 (北京时间)",
+  "updated_at": "2026-07-29 13:25 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,128 +37,295 @@
   "positions": [],
   "items": [
     {
-      "id": "000bb588da314576",
+      "id": "5e9421b7be601c8d",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "HK",
         "US"
       ],
-      "time": "08:00",
+      "time": "14:05",
       "group": "大盘头条",
-      "title": "SK Hynix Q2 2026 actual results: operating profit KRW 60.54T (+557% YoY), revenue KRW 79.32T (+120% YoY); HBM4 mass production confirmed started",
-      "summary": "SK Hynix reported Q2 2026 results on July 29: operating profit KRW 60.54 trillion (+557% YoY, below consensus ~64T), revenue KRW 79.32 trillion (+120% YoY). Both figures are all-time records for the company. Operating margin was approximately 76%. HBM4 mass production officially began in Q2 2026 and Nvidia Vera Rubin HBM4 shipments are on track. The company expects continued HBM demand strength through 2026 driven by AI accelerator buildout. Stock reaction initially negative given operating profit miss vs elevated expectations.",
-      "why": "SK海力士Q2实际营业利润60.54T韩元低于市场共识约64T（轻微负面预期差），但同比+557%仍创历史纪录，且HBM4量产确认是中期基本面催化剂；对持有7709.HK（两倍做多SK海力士ETF）仓位者：抛售或已被7月28日大跌提前消化，需关注7月29日港股开盘后实际价格反应；CATL式「低于超高预期」后的股价反应将为半导体板块近期情绪定调；对NVDA/MU期权仓位：HBM供应链健康信号是AI硬件周期的正面背书。",
-      "source": "CNBC",
-      "verified": false,
+      "title": "Fed Holds Rates at 3.50%-3.75% for Fifth Straight Meeting; Dot Plot Signals Possible September Hike",
+      "summary": "The FOMC voted to hold the federal funds rate steady at 3.50%–3.75% on July 29, its fifth consecutive hold. Chair Warsh maintained a hawkish tone; updated dot plot shows nine officials project at least one 25bp hike in 2026. Middle East oil spike added to inflationary pressure ahead of the decision.",
+      "why": "第五次按兵不动但点阵图鹰派，9名委员预期年内至少加息一次；油价冲击叠加通胀抬头，9月加息概率上升；sell put组合需留意若隐含波动率因加息预期持续走高导致行权价安全边际收窄。",
+      "source": "Bloomberg",
+      "verified": true,
       "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "HBM4",
-        "DRAM",
-        "存储芯片",
-        "财报",
-        "earnings",
-        "高带宽内存",
-        "英伟达",
-        "Nvidia"
+        "美联储",
+        "FOMC",
+        "利率",
+        "Warsh",
+        "加息",
+        "货币政策"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-      "published_date": "2026-07-29",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-07-28",
       "still_developing": false,
       "first_seen": "2026-07-29",
       "is_new": true
     },
     {
-      "id": "d35c6d38a6abeafc",
+      "id": "3f928627e27aa909",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:30",
+      "group": "大盘头条",
+      "title": "Oil Prices Surge ~5% After U.S. Forces Intercept Iranian Ballistic Missile Attack",
+      "summary": "CENTCOM confirmed it successfully intercepted an Iranian 'attempted surprise attack' on U.S. forces in the Middle East, sending WTI crude up roughly 5% to near $83 a barrel. The overnight geopolitical shock added to inflationary concerns ahead of the Fed's July 29 rate decision.",
+      "why": "地缘冲击推高油价加剧通胀预期，助推美联储鹰派立场；能源价格波动率大幅上升，全球risk-off情绪可能传导至港股/A股；持有期权组合者需重新评估delta对冲。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "中东",
+        "伊朗",
+        "油价",
+        "WTI",
+        "原油",
+        "地缘政治"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-29",
+      "is_new": true
+    },
+    {
+      "id": "4f210c886fffcb44",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "Nasdaq-100 Enters Correction Territory as Global Chip Stocks Plunge, $1 Trillion+ Wiped",
+      "summary": "The Nasdaq-100 dropped more than 10% from its recent record high on July 28, entering correction territory. SK Hynix fell 14.7% and Samsung fell 13.4% in Seoul; Micron fell ~8-10%, AMD ~9%, Intel ~7%. The Philadelphia Semiconductor Index posted a fourth consecutive losing session. Trigger: China's advances in memory chips and AI lithography, and broker notes projecting memory price peak in 2027.",
+      "why": "纳指100进入调整区间，全球半导体链单日蒸发逾万亿美元；持有NVDA、MU、INTC的sell put组合行权价安全边际收窄；短期隐含波动率大幅抬升为更高权利金收益提供机会，但需确认底部后再布局。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "纳斯达克",
+        "Nasdaq-100",
+        "半导体",
+        "芯片",
+        "AI芯片",
+        "correction",
+        "卖空"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/nasdaq-100-heads-for-correction-as-ai-worries-rattle-investors",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-29",
+      "is_new": true
+    },
+    {
+      "id": "77ea4267d5b02a67",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "Apple Briefly Hits $5 Trillion Market Cap, Overtakes Nvidia as World's Most Valuable Company",
+      "summary": "Apple (AAPL) briefly surpassed $5 trillion in market cap on July 28, becoming only the second company ever (after Nvidia) to reach this milestone, and passing Nvidia to become the world's most valuable company. Shares rose ~1% to ~$342 intraday on chip-rout day. Apple is seen as benefiting from AI demand without massive infrastructure capex. Apple reports Q3 earnings July 31.",
+      "why": "苹果在芯片股暴跌同日逆势创新高，印证「非AI重资产」叙事受市场追捧；周四Q3财报是下一个催化剂，若iPhone周期+AI功能超预期可能带动大盘情绪；期权隐含波动率在财报前抬升，可考虑财报前sell put但需注意下行保护。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "苹果",
+        "Apple",
+        "AAPL",
+        "市值",
+        "科技",
+        "万亿"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/apple-becomes-second-company-to-hit-5-trillion-in-market-value",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-29",
+      "is_new": true
+    },
+    {
+      "id": "f3ca53a2866b1c7a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "个股",
+      "title": "Nvidia in Talks for $250 Billion Financing Backstop to Fund OpenAI's 10-Gigawatt Ohio Data Center",
+      "summary": "Nvidia is negotiating to provide up to $250 billion in credit backstop to help OpenAI lease a 10-gigawatt data center campus in Pike County, Ohio — part of a SoftBank-overseen $500 billion project. The deal would allow OpenAI to control its own infrastructure for the first time, separating from Microsoft and Amazon. WSJ first reported; CNBC confirmed July 27.",
+      "why": "若交易落地，进一步强化英伟达AI基础设施「卖铲」核心逻辑并深度绑定OpenAI采购；在芯片股普跌背景下NVDA有独立正面催化剂支撑，叠加大盘回调造成的隐含波动率抬升，可考虑分批sell put布局机会。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "OpenAI",
+        "AI基础设施",
+        "数据中心",
+        "黄仁勋"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+      "published_date": "2026-07-27",
+      "still_developing": false,
+      "first_seen": "2026-07-29",
+      "is_new": true
+    },
+    {
+      "id": "8711aed9c22eb7f7",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "A"
+        "HK"
       ],
-      "time": "20:00",
-      "group": "大盘头条",
-      "title": "宁德时代（300750.SZ）公告200-400亿元回购计划，A股历史第二大规模，全部股份将注销",
-      "summary": "宁德时代（300750.SZ）7月24日晚间公告，拟以自有资金回购200亿元至400亿元人民币股份，回购价格上限不超过450元/股，回购期限12个月，所有回购股份将全部予以注销（非用于股权激励），此次回购规模为A股历史第二大。公司2025年全年营收4665亿元，净利润671亿元，账面净现金约700亿元，财务状况充裕。回购公告后公司股价在7月25日有所上涨。",
-      "why": "200-400亿元注销式回购以提升EPS和每股净资产为核心目标，是宁德时代对自身估值的强背书；回购价格上限450元/股形成隐性支撑锚位，可在430-450元区间考虑卖出put策略（如果持有该仓位或有意入场）；若回购下限（200亿）较快用尽市场可能期待追加，是中期持续性催化剂；注销式回购比激励式回购信号更强，EPS提升路径更清晰，对长期持有策略尤为利好。",
-      "source": "证券时报",
+      "time": "10:00",
+      "group": "个股",
+      "title": "老铺黄金（6181.HK）单日暴跌逾23%：H1净利润预告+83%但Q2业绩环比断崖，高盛等大行下调目标价",
+      "summary": "老铺黄金7月27日发布H1 2026正面盈利预告（营收约227-233.5亿元、净利润约43.1-43.6亿元，分别同比+60-65%/+83-85%），但Q2业绩较Q1环比大幅回落（金价从$5600/盎司高点急跌至$4000附近所致），7月28日股价收盘暴跌约23.76%，市值单日蒸发逾167亿港元。高盛、摩根士丹利等机构纷纷下调目标价。",
+      "why": "黄金「一口价」模式在金价下行期暴露脆弱性，零对冲策略令存货减值风险上升；持有6181.HK者需评估下半年进一步风险；如持有相关call期权需警惕盈利预期持续下修；不持有者可关注超跌后恢复性机会，当前高隐含波动率也提供更高权利金sell put机会。",
+      "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "宁德时代",
-        "CATL",
-        "300750",
-        "回购",
-        "注销",
-        "buyback",
-        "新能源",
-        "锂电"
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "黄金",
+        "珠宝",
+        "盈利预告"
       ],
       "translated": false,
-      "url": "https://www.stcn.com/article/detail/4041155.html",
-      "published_date": "2026-07-24",
-      "still_developing": true,
+      "url": "https://finance.sina.com.cn/wm/2026-07-28/doc-inikknsi3018089.shtml",
+      "published_date": "2026-07-28",
+      "still_developing": false,
       "first_seen": "2026-07-29",
       "is_new": true
     },
     {
-      "id": "a198fe59fa87172a",
-      "tier": 2,
+      "id": "c821536022cfd07d",
+      "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK",
-        "A"
+        "HK"
       ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "光模块龙头中际旭创（300308.SZ）港股IPO定价980港元/股，募资约534亿港元，7月30日联交所主板上市",
-      "summary": "全球高速光互联模块领导厂商中际旭创（A股300308.SZ）完成港股全球发售，发行价980港元/股，募集资金约534亿港元，预计2026年7月30日（周三）在香港联交所主板正式挂牌交易。公司是800G/1.6T高速光模块的核心供应商，主要客户覆盖微软、谷歌、亚马逊、Meta等全球超大规模云厂商，其产品是AI数据中心光互联基础设施的关键组件。",
-      "why": "中际旭创港股上市验证AI数据中心资本开支链条延伸至光互联层；若港股上市首日表现强劲，可能带动A股300308联动上涨及光通信板块整体情绪改善；对持有MSFT/GOOGL/AMZN头寸的投资者，AI基础设施供应链企业IPO活跃是资本开支大周期持续性的侧面印证；7月30日挂牌是近期HK资本市场值得关注的流动性事件。",
+      "time": "09:30",
+      "group": "个股",
+      "title": "携程集团被市场监管总局罚没51.79亿元，反垄断处罚落地后港股股价一度反弹7.7%",
+      "summary": "7月25日，市场监管总局认定携程（9961.HK）自2020年起滥用在线酒店预订市场支配地位，实施独家合作限制及全网最低价要求，决定罚没合计51.79亿元（没收违法所得16.58亿+罚款35.21亿+退还押金1.22亿）。7月27日后续报道显示，利空出尽情绪驱动港股盘中一度反弹7.7%。",
+      "why": "反垄断落地终结不确定性，港股短线反弹；但整改要求（禁止独家合作）将对OTA收入结构产生实质影响，需评估竞争格局变化对长期利润的压制；短期sell put可关注，中长期持仓需重新评估OTA业务护城河。",
       "source": "新浪财经",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "中际旭创",
-        "300308",
-        "光模块",
-        "港股IPO",
-        "光互联",
-        "AI数据中心",
-        "HK IPO"
+        "携程",
+        "Trip.com",
+        "9961.HK",
+        "反垄断",
+        "罚款",
+        "市场监管"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikfnpm0765462.shtml",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkzmt/2026-07-27/doc-inikimep0452881.shtml",
       "published_date": "2026-07-27",
-      "still_developing": true,
+      "still_developing": false,
       "first_seen": "2026-07-29",
       "is_new": true
     },
     {
-      "id": "d15bca9a6bd79acc",
+      "id": "9b619f15bd3a568c",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "A"
       ],
-      "time": "09:15",
+      "time": "18:30",
       "group": "大盘头条",
-      "title": "央行7月26日开展21000亿元7天逆回购操作，净投放约14540亿元，维护月末流动性平稳",
-      "summary": "中国人民银行7月26日以固定利率、数量招标方式开展21000亿元7天期逆回购操作，利率维持2.00%不变，当日到期6460亿元，净投放约14540亿元，为近期单日操作规模较大一次。本次大额注入旨在维护7月末银行间市场流动性平稳，应对季末及财政资金缴库的资金需求高峰。银行间隔夜利率（DR001）和7天加权利率（DR007）在此前几个交易日均有所走高，本次逆回购规模明显加码。",
-      "why": "央行大额净投放14540亿元释放宽松流动性信号，对A股短期资金面有正面支撑；银行间利率回落有助于压低股市波动率，对持有A股相关sell put仓位者（如腾讯、美团等港股期权策略参考A股情绪）是边际利好；若月末流动性恢复平稳，8月初开门红行情概率上升，需持续跟踪央行后续操作节奏。",
+      "title": "长鑫科技获纳入MSCI中国全股票指数，8月10日生效，市值约3.14万亿元",
+      "summary": "MSCI宣布将长鑫科技（688825.SH）纳入MSCI中国全股票指数，8月10日生效。按最新市值，长鑫科技将成该指数市值第二大成份股，仅次于腾讯。",
+      "why": "MSCI纳入将带来被动资金流入，A股存储芯片板块情绪可能受提振；与SK海力士在港美市场的跌势形成对照，或反映市场对国产DRAM供应链的独立叙事机会。",
       "source": "新浪财经",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "央行",
-        "PBoC",
-        "逆回购",
-        "货币政策",
-        "流动性",
-        "A股",
-        "银行间市场"
+        "长鑫科技",
+        "MSCI",
+        "存储芯片",
+        "DRAM",
+        "A股指数",
+        "688825"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-26/doc-inikeetx0202294.shtml",
-      "published_date": "2026-07-26",
-      "still_developing": true,
+      "url": "https://finance.sina.com.cn/wm/2026-07-28/doc-inikkhki6288872.shtml",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-29",
+      "is_new": true
+    },
+    {
+      "id": "6ec1a8a4f9fe90a5",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "小米澎程技术发布会定档7月30日，增程SUV N90/N70亮相；小米港股涨逾7%",
+      "summary": "小米创始人雷军官宣，小米首个增程电动车系列「澎程」技术发布会7月30日举行，搭载自研小米昆仑增程器，将推出大型七座旗舰N90及中型五座N70（N90估价超30万元、N70估价25万元以上），与理想、AITO直面竞争。消息带动小米集团（1810.HK）7月27日盘中涨逾7%。",
+      "why": "小米正式杀入增程SUV赛道，向高端/家庭市场延伸，是1810.HK品牌升级的里程碑；发布会（30日）前后存在短期催化效应；若新车定价超预期，可关注发布后sell put切入机会。",
+      "source": "界面新闻",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "小米汽车",
+        "澎程",
+        "增程",
+        "SUV"
+      ],
+      "translated": false,
+      "url": "https://www.jiemian.com/article/14830337.html",
+      "published_date": "2026-07-27",
+      "still_developing": false,
+      "first_seen": "2026-07-29",
+      "is_new": true
+    },
+    {
+      "id": "a94f626594e305c9",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "泡泡玛特城市乐园7月30日起涨价：暑期高峰日最高288元，配合LABUBU精灵部落新区全面开放",
+      "summary": "泡泡玛特官方宣布，自7月30日LABUBU精灵部落全面开放起同步提价：标准游乐票平日178元（此前148元），暑期高峰日238元，含嘉年华套票最高288元，全系涨幅30元。此为2026年第二次调价。",
+      "why": "乐园定价权提升是泡泡玛特从IP销售向沉浸式体验货币化的里程碑；新区开放+涨价为Q3乐园收入带来正面催化，关注泡泡玛特（9992.HK）H1财报窗口。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "LABUBU",
+        "主题乐园",
+        "潮玩"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-28/doc-inikkhkc0344210.shtml",
+      "published_date": "2026-07-28",
+      "still_developing": false,
       "first_seen": "2026-07-29",
       "is_new": true
     },
@@ -2570,6 +2737,71 @@
       "is_new": false
     },
     {
+      "id": "000bb588da314576",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "SK Hynix Q2 2026 actual results: operating profit KRW 60.54T (+557% YoY), revenue KRW 79.32T (+120% YoY); HBM4 mass production confirmed started",
+      "summary": "SK Hynix reported Q2 2026 results on July 29: operating profit KRW 60.54 trillion (+557% YoY, below consensus ~64T), revenue KRW 79.32 trillion (+120% YoY). Both figures are all-time records for the company. Operating margin was approximately 76%. HBM4 mass production officially began in Q2 2026 and Nvidia Vera Rubin HBM4 shipments are on track. The company expects continued HBM demand strength through 2026 driven by AI accelerator buildout. Stock reaction initially negative given operating profit miss vs elevated expectations.",
+      "why": "SK海力士Q2实际营业利润60.54T韩元低于市场共识约64T（轻微负面预期差），但同比+557%仍创历史纪录，且HBM4量产确认是中期基本面催化剂；对持有7709.HK（两倍做多SK海力士ETF）仓位者：抛售或已被7月28日大跌提前消化，需关注7月29日港股开盘后实际价格反应；CATL式「低于超高预期」后的股价反应将为半导体板块近期情绪定调；对NVDA/MU期权仓位：HBM供应链健康信号是AI硬件周期的正面背书。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM4",
+        "DRAM",
+        "存储芯片",
+        "财报",
+        "earnings",
+        "高带宽内存",
+        "英伟达",
+        "Nvidia"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+      "published_date": "2026-07-29",
+      "still_developing": false,
+      "first_seen": "2026-07-29",
+      "is_new": false
+    },
+    {
+      "id": "d35c6d38a6abeafc",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "20:00",
+      "group": "大盘头条",
+      "title": "宁德时代（300750.SZ）公告200-400亿元回购计划，A股历史第二大规模，全部股份将注销",
+      "summary": "宁德时代（300750.SZ）7月24日晚间公告，拟以自有资金回购200亿元至400亿元人民币股份，回购价格上限不超过450元/股，回购期限12个月，所有回购股份将全部予以注销（非用于股权激励），此次回购规模为A股历史第二大。公司2025年全年营收4665亿元，净利润671亿元，账面净现金约700亿元，财务状况充裕。回购公告后公司股价在7月25日有所上涨。",
+      "why": "200-400亿元注销式回购以提升EPS和每股净资产为核心目标，是宁德时代对自身估值的强背书；回购价格上限450元/股形成隐性支撑锚位，可在430-450元区间考虑卖出put策略（如果持有该仓位或有意入场）；若回购下限（200亿）较快用尽市场可能期待追加，是中期持续性催化剂；注销式回购比激励式回购信号更强，EPS提升路径更清晰，对长期持有策略尤为利好。",
+      "source": "证券时报",
+      "verified": false,
+      "keywords": [
+        "宁德时代",
+        "CATL",
+        "300750",
+        "回购",
+        "注销",
+        "buyback",
+        "新能源",
+        "锂电"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/4041155.html",
+      "published_date": "2026-07-24",
+      "still_developing": true,
+      "first_seen": "2026-07-29",
+      "is_new": false
+    },
+    {
       "tier": 2,
       "lang": "zh",
       "markets": [
@@ -3762,6 +3994,67 @@
       "published_date": "2026-07-27",
       "still_developing": false,
       "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
+      "id": "a198fe59fa87172a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "光模块龙头中际旭创（300308.SZ）港股IPO定价980港元/股，募资约534亿港元，7月30日联交所主板上市",
+      "summary": "全球高速光互联模块领导厂商中际旭创（A股300308.SZ）完成港股全球发售，发行价980港元/股，募集资金约534亿港元，预计2026年7月30日（周三）在香港联交所主板正式挂牌交易。公司是800G/1.6T高速光模块的核心供应商，主要客户覆盖微软、谷歌、亚马逊、Meta等全球超大规模云厂商，其产品是AI数据中心光互联基础设施的关键组件。",
+      "why": "中际旭创港股上市验证AI数据中心资本开支链条延伸至光互联层；若港股上市首日表现强劲，可能带动A股300308联动上涨及光通信板块整体情绪改善；对持有MSFT/GOOGL/AMZN头寸的投资者，AI基础设施供应链企业IPO活跃是资本开支大周期持续性的侧面印证；7月30日挂牌是近期HK资本市场值得关注的流动性事件。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "中际旭创",
+        "300308",
+        "光模块",
+        "港股IPO",
+        "光互联",
+        "AI数据中心",
+        "HK IPO"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikfnpm0765462.shtml",
+      "published_date": "2026-07-27",
+      "still_developing": true,
+      "first_seen": "2026-07-29",
+      "is_new": false
+    },
+    {
+      "id": "d15bca9a6bd79acc",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:15",
+      "group": "大盘头条",
+      "title": "央行7月26日开展21000亿元7天逆回购操作，净投放约14540亿元，维护月末流动性平稳",
+      "summary": "中国人民银行7月26日以固定利率、数量招标方式开展21000亿元7天期逆回购操作，利率维持2.00%不变，当日到期6460亿元，净投放约14540亿元，为近期单日操作规模较大一次。本次大额注入旨在维护7月末银行间市场流动性平稳，应对季末及财政资金缴库的资金需求高峰。银行间隔夜利率（DR001）和7天加权利率（DR007）在此前几个交易日均有所走高，本次逆回购规模明显加码。",
+      "why": "央行大额净投放14540亿元释放宽松流动性信号，对A股短期资金面有正面支撑；银行间利率回落有助于压低股市波动率，对持有A股相关sell put仓位者（如腾讯、美团等港股期权策略参考A股情绪）是边际利好；若月末流动性恢复平稳，8月初开门红行情概率上升，需持续跟踪央行后续操作节奏。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "央行",
+        "PBoC",
+        "逆回购",
+        "货币政策",
+        "流动性",
+        "A股",
+        "银行间市场"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-26/doc-inikeetx0202294.shtml",
+      "published_date": "2026-07-26",
+      "still_developing": true,
+      "first_seen": "2026-07-29",
       "is_new": false
     }
   ]
