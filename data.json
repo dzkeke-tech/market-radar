@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-28 18:23 (北京时间)",
+  "updated_at": "2026-07-29 08:31 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,904 +37,130 @@
   "positions": [],
   "items": [
     {
-      "id": "f9d7dbc5de445835",
+      "id": "000bb588da314576",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "US",
         "HK",
-        "A"
+        "US"
       ],
-      "time": "07:00",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "超级央行周开幕：美联储FOMC今日起开会，明日公布利率决议；日本央行、英国央行同步登场",
-      "summary": "美联储7月28-29日FOMC议息会议今日开幕，政策决议将于北京时间7月30日凌晨2:00公布。CME Fed Watch显示维持联邦基金利率目标区间（3.50%-3.75%）不变的概率约65%，加息25bp概率约35%。日本央行与英国央行本周亦将相继公布利率决策，本周还将迎来Meta、微软、苹果、亚马逊四大科技公司财报，多重事件叠加构成全周最大不确定因素。",
-      "why": "联储利率决策直接影响美股折现率及港美科技股期权隐含波动率；35%的加息概率高于市场此前预期，若真正加息将对成长股和sell put持仓构成短期压力；同时大型科技财报若AI变现不达标亦将引发估值重置。",
-      "source": "新浪财经",
-      "verified": true,
+      "title": "SK Hynix Q2 2026 actual results: operating profit KRW 60.54T (+557% YoY), revenue KRW 79.32T (+120% YoY); HBM4 mass production confirmed started",
+      "summary": "SK Hynix reported Q2 2026 results on July 29: operating profit KRW 60.54 trillion (+557% YoY, below consensus ~64T), revenue KRW 79.32 trillion (+120% YoY). Both figures are all-time records for the company. Operating margin was approximately 76%. HBM4 mass production officially began in Q2 2026 and Nvidia Vera Rubin HBM4 shipments are on track. The company expects continued HBM demand strength through 2026 driven by AI accelerator buildout. Stock reaction initially negative given operating profit miss vs elevated expectations.",
+      "why": "SK海力士Q2实际营业利润60.54T韩元低于市场共识约64T（轻微负面预期差），但同比+557%仍创历史纪录，且HBM4量产确认是中期基本面催化剂；对持有7709.HK（两倍做多SK海力士ETF）仓位者：抛售或已被7月28日大跌提前消化，需关注7月29日港股开盘后实际价格反应；CATL式「低于超高预期」后的股价反应将为半导体板块近期情绪定调；对NVDA/MU期权仓位：HBM供应链健康信号是AI硬件周期的正面背书。",
+      "source": "CNBC",
+      "verified": false,
       "keywords": [
-        "美联储",
-        "FOMC",
-        "超级央行周",
-        "利率",
-        "宏观",
-        "日本央行"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikezxm3231993.shtml",
-      "published_date": "2026-07-27",
-      "still_developing": false,
-      "first_seen": "2026-07-28",
-      "is_new": true
-    },
-    {
-      "id": "136dc092058381c7",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "全球AI/芯片股踩踏：韩国股市年内第八次熔断，A股创业板指跌7.35%，港股存储ETF暴跌逾29%",
-      "summary": "今日（7月28日），受英伟达-OpenAI 2500亿美元数据中心担保谈判引发AI资本支出循环逻辑担忧，叠加长鑫科技上市带来DRAM竞争新变量，全球芯片板块遭遇踩踏：韩国KOSPI年内第八次触发熔断，SK海力士ADR跌破发行价；A股创业板指跌7.35%、科创50跌6.33%，通信ETF、中韩半导体ETF跌停，存储芯片股集体走低；港股南方两倍做多海力士暴跌逾29%（较6月底高位回撤近80%），恒指收涨0.41%但存储/AI板块深度回调。",
-      "why": "全球芯片板块单日踩踏，SK海力士/英伟达/美光相关持仓均受波及；AI资本支出循环疑虑是核心叙事变化，短线有超跌反弹空间，但若Meta/微软财报AI变现不达标则二次下跌风险高；持有存储类sell put需紧急评估行权价安全边际。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "芯片",
-        "半导体",
-        "创业板",
-        "韩国熔断",
         "SK海力士",
-        "英伟达",
-        "存储芯片"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-07-28/doc-inikirnm0361003.shtml",
-      "published_date": "2026-07-28",
-      "still_developing": false,
-      "first_seen": "2026-07-28",
-      "is_new": true
-    },
-    {
-      "id": "98985b641f4b4958",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Nvidia in Talks to Guarantee $250B for OpenAI's $500B Ohio Data Center — Triggered Global Chip Selloff",
-      "summary": "Bloomberg and WSJ reported July 26 that Nvidia is in discussions to backstop $250 billion in financing for OpenAI's planned 10-gigawatt Ohio data center (total project ~$500B, operated by SoftBank SB Energy); Nvidia is also reportedly discussing guaranteeing another $350B for OpenAI chip purchases. The disclosure triggered a global AI chip selloff as markets question whether AI capex cycles can generate sufficient returns to cover Nvidia's potential debt exposure.",
-      "why": "延续报道：英伟达若为OpenAI提供合计约6000亿美元担保，将产生巨额资产负债表风险，市场重新审视AI资本支出循环可持续性，是本轮全球芯片踩踏的核心导火索；对英伟达持仓而言短期情绪最负面，但长期锁定需求是利多；隐含波动率今日将大幅上升。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "OpenAI",
-        "AI",
-        "数据中心",
-        "NVDA"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-      "published_date": "2026-07-26",
-      "still_developing": true,
-      "first_seen": "2026-07-28",
-      "is_new": true
-    },
-    {
-      "id": "74bdba9f9d9971ae",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "个股",
-      "title": "老铺黄金单日暴跌24.72%，市值蒸发约173亿港元；高盛等大行纷纷下调目标价",
-      "summary": "老铺黄金（06181.HK）7月28日盘中最大跌幅达24.72%，报298.4港元创一年半新低，收盘跌23.76%报302.2港元，市值单日蒸发约173亿港元。此前一日（7月27日）公司发布正面盈利预告：上半年净利润约43.1-43.6亿元（同比增83-85%），但市场拆解后发现Q2单季环比净利润骤降约87%（金价上半年高位后大幅回落所致），远低于预期。高盛随即将目标价大幅下调至650港元，摩根士丹利预计短期股价情绪偏弱。",
-      "why": "盈喜反成出货信号——Q2金价疲弱导致单季利润环比暴跌近九成，打破此前高增长预期；大摩、高盛等大行态度集体转谨慎；若持有06181.HK sell put需立即核查行权价安全边际，今日大幅波动后隐含波动率显著飙升，可考虑买入VIX对冲。",
-      "source": "新浪香港",
-      "verified": true,
-      "keywords": [
-        "老铺黄金",
-        "Laopu Gold",
-        "6181.HK",
-        "黄金",
-        "暴跌",
-        "高盛",
-        "大摩"
-      ],
-      "translated": false,
-      "url": "https://portal.sina.com.hk/finance/sina/2026/07/28/1867981/%E7%9B%88%E5%96%9C%E5%8F%8D%E6%88%90%E5%87%BA%E8%B2%A8%E4%BF%A1%E8%99%9F%EF%BC%9F%E8%80%81%E9%8B%AA%E9%BB%83%E9%87%91%E6%9A%B4%E8%B7%8C%E9%80%BE20-%E5%A4%A7%E6%91%A9%E6%96%99%E7%9F%AD%E6%9C%9F/",
-      "published_date": "2026-07-28",
-      "still_developing": false,
-      "first_seen": "2026-07-28",
-      "is_new": true
-    },
-    {
-      "id": "61119dcf48b9d269",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "携程接受反垄断行政处罚：罚没合计51.79亿元，需终止排他性分销并退还酒店保证金1.22亿元",
-      "summary": "国家市场监督管理总局（SAMR）7月25日对携程集团作出行政处罚：裁定违反《反垄断法》第22条（排他性交易安排与不合理交易条件），没收违法所得16.58亿元、处以罚款35.21亿元（占2025年国内销售额7.5%），合计51.79亿元；同时要求全额退还强制扣留的酒店订单保证金1.22亿元，并终止排他分销安排。携程集团（TCOM.US/9961.HK）已于7月27日发布港交所公告表示\"诚挚接受\"并承诺整改。",
-      "why": "罚款约等于携程两个月净利润，市场有预期但金额偏高；更关键的是终止排他性分销将改变携程与酒店供应商的谈判筹码，长期可能压缩分佣率并影响ARPU；TCOM期权隐含波动率短期料上升，sell put持仓需评估下行风险。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "携程",
-        "Trip.com",
-        "TCOM",
-        "9961.HK",
-        "反垄断",
-        "罚款",
-        "监管"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-07-27/doc-inikezxm3141007.shtml",
-      "published_date": "2026-07-27",
-      "still_developing": false,
-      "first_seen": "2026-07-28",
-      "is_new": true
-    },
-    {
-      "id": "26cb8500d3a0095e",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "长鑫科技（CXMT）昨日科创板上市首日暴涨逾500%，市值一度超3.3万亿元登顶A股，引发全球DRAM竞争格局重估",
-      "summary": "中国存储芯片龙头长鑫科技（CXMT，688825.SH）于7月27日在科创板正式上市，发行价8.66元，开盘价49.50元（涨幅471.59%），总市值一度超3.3万亿元，超越工商银行成为A股市值第一，创科创板史上最大IPO（募资约666亿元）。公司Q1 2026营收508亿元同比增719%、归母净利247亿元。长鑫上市填补A股DRAM制造标的空白，引发市场对美光、SK海力士、三星在全球DRAM市场遭受中国竞争的重新定价，是今日全球存储概念股大跌的触发因素之一。",
-      "why": "延续报道：长鑫科技上市是全球DRAM竞争格局的历史性事件，对美光（MU）、SK海力士形成长期竞争压力；A股半导体赛道资金可能被长鑫大规模吸走，而全球存储股受此冲击；对持有美光/SK海力士相关标的需重新评估DRAM定价权前景。",
-      "source": "新浪新闻",
-      "verified": true,
-      "keywords": [
-        "长鑫科技",
-        "CXMT",
-        "科创板",
-        "存储芯片",
+        "SK Hynix",
+        "HBM4",
         "DRAM",
-        "IPO",
-        "A股"
+        "存储芯片",
+        "财报",
+        "earnings",
+        "高带宽内存",
+        "英伟达",
+        "Nvidia"
       ],
       "translated": false,
-      "url": "https://www.sina.cn/news/detail/5325214708663085.html",
-      "published_date": "2026-07-27",
-      "still_developing": true,
-      "first_seen": "2026-07-28",
+      "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+      "published_date": "2026-07-29",
+      "still_developing": false,
+      "first_seen": "2026-07-29",
       "is_new": true
     },
     {
-      "id": "898a420a2f12f13f",
+      "id": "d35c6d38a6abeafc",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "20:00",
+      "group": "大盘头条",
+      "title": "宁德时代（300750.SZ）公告200-400亿元回购计划，A股历史第二大规模，全部股份将注销",
+      "summary": "宁德时代（300750.SZ）7月24日晚间公告，拟以自有资金回购200亿元至400亿元人民币股份，回购价格上限不超过450元/股，回购期限12个月，所有回购股份将全部予以注销（非用于股权激励），此次回购规模为A股历史第二大。公司2025年全年营收4665亿元，净利润671亿元，账面净现金约700亿元，财务状况充裕。回购公告后公司股价在7月25日有所上涨。",
+      "why": "200-400亿元注销式回购以提升EPS和每股净资产为核心目标，是宁德时代对自身估值的强背书；回购价格上限450元/股形成隐性支撑锚位，可在430-450元区间考虑卖出put策略（如果持有该仓位或有意入场）；若回购下限（200亿）较快用尽市场可能期待追加，是中期持续性催化剂；注销式回购比激励式回购信号更强，EPS提升路径更清晰，对长期持有策略尤为利好。",
+      "source": "证券时报",
+      "verified": false,
+      "keywords": [
+        "宁德时代",
+        "CATL",
+        "300750",
+        "回购",
+        "注销",
+        "buyback",
+        "新能源",
+        "锂电"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/4041155.html",
+      "published_date": "2026-07-24",
+      "still_developing": true,
+      "first_seen": "2026-07-29",
+      "is_new": true
+    },
+    {
+      "id": "a198fe59fa87172a",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "US"
+        "HK",
+        "A"
       ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "特斯拉FSD v15早期版本已上路，Robotaxi车队率先搭载；无人驾驶累计突破38万英里",
-      "summary": "特斯拉Q2财报电话会披露，Robotaxi改装Model Y已搭载FSD v15早期版本在真实道路行驶，已实现7大核心改进中约40%的功能，内部基准测试表现优异。Robotaxi当前已覆盖两个州六个城市，累计完成逾38万英里无监督自动驾驶里程，零重大事故。本月新增奥兰多和坦帕运营；FSD v15预计2026年底至2027年初向消费者车辆推送。Q2营收282.4亿美元（同比增26%），运营利润率仅1.4%（同比降约57%）受大幅增加研发投入影响。",
-      "why": "FSD v15上路Robotaxi是特斯拉从汽车商转型AI/机器人公司的关键里程碑，Robotaxi商业化规模直接影响TSLA的长期估值逻辑和covered call/sell put策略的行权价设定参考；Q2利润率承压已反映在股价中，长线投资者更关注FSD商业化路径。",
-      "source": "新浪科技",
-      "verified": true,
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "光模块龙头中际旭创（300308.SZ）港股IPO定价980港元/股，募资约534亿港元，7月30日联交所主板上市",
+      "summary": "全球高速光互联模块领导厂商中际旭创（A股300308.SZ）完成港股全球发售，发行价980港元/股，募集资金约534亿港元，预计2026年7月30日（周三）在香港联交所主板正式挂牌交易。公司是800G/1.6T高速光模块的核心供应商，主要客户覆盖微软、谷歌、亚马逊、Meta等全球超大规模云厂商，其产品是AI数据中心光互联基础设施的关键组件。",
+      "why": "中际旭创港股上市验证AI数据中心资本开支链条延伸至光互联层；若港股上市首日表现强劲，可能带动A股300308联动上涨及光通信板块整体情绪改善；对持有MSFT/GOOGL/AMZN头寸的投资者，AI基础设施供应链企业IPO活跃是资本开支大周期持续性的侧面印证；7月30日挂牌是近期HK资本市场值得关注的流动性事件。",
+      "source": "新浪财经",
+      "verified": false,
       "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "FSD",
-        "Robotaxi",
-        "自动驾驶",
-        "FSD v15"
+        "中际旭创",
+        "300308",
+        "光模块",
+        "港股IPO",
+        "光互联",
+        "AI数据中心",
+        "HK IPO"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-26/doc-inikasst1056853.shtml",
-      "published_date": "2026-07-26",
-      "still_developing": false,
-      "first_seen": "2026-07-28",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikfnpm0765462.shtml",
+      "published_date": "2026-07-27",
+      "still_developing": true,
+      "first_seen": "2026-07-29",
       "is_new": true
     },
     {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "Stock futures climb ahead of corporate earnings, Nasdaq rebounds: Live updates",
-      "summary": "US stock futures rose Tuesday as investors braced for a flurry of earnings reports amid signs of revival in chip stocks. Nasdaq-100 contracts jumped 1.3%, with semiconductor names taking center stage ahead of Big Tech results (Tesla and Alphabet both report July 22).",
-      "why": "纳斯达克期货大涨1.3%，半导体领涨，科技财报季高峰来临，持有相关美股期权需注意财报前后波动率变化。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Nasdaq",
-        "S&P 500",
-        "chip stocks",
-        "earnings"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/20/stock-market-today-live-updates.html",
-      "id": "4cfbd6b8c05ab96e",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Apple Intelligence approved for launch in China with Alibaba's Qwen AI",
-      "summary": "China's CAC approved Apple Intelligence on July 15, with Alibaba Qwen handling ~65% of multimodal tasks and Baidu managing ~35% for Siri voice/search. The process took 22 months. No launch date announced yet; regulatory green light is now in place.",
-      "why": "通义千问成为Apple Intelligence在华核心AI供应商，实质性提升阿里云商业化空间，对阿里巴巴估值有正面催化；也可能推动iPhone在华销量反弹。",
-      "source": "TechCrunch",
-      "verified": true,
-      "keywords": [
-        "Alibaba",
-        "阿里巴巴",
-        "Apple Intelligence",
-        "Qwen",
-        "通义千问",
-        "BABA"
-      ],
-      "translated": false,
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "id": "3a9d056af9a3ec90",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "Alibaba Stock Surges As Apple AI Deal Fuels New Rally",
-      "summary": "BABA surged on July 20 driven by four catalysts: Apple Intelligence approval, DOJ $600M non-prosecution deal ($325M penalty), Morgan Stanley Overweight with triple-digit AI cloud growth, and stock approaching key technical levels. Stock up ~4.6% on the day.",
-      "why": "DOJ和解移除重大法律尾险，苹果AI合作打开增量营收，配合摩根士丹利维持增持，阿里估值修复逻辑清晰，对sell put策略支撑明显。",
-      "source": "StocksToTrade",
-      "verified": false,
-      "keywords": [
-        "Alibaba",
-        "BABA",
-        "DOJ",
-        "Apple AI",
-        "cloud"
-      ],
-      "translated": false,
-      "url": "https://stockstotrade.com/news/alibaba-group-holding-limited-baba-news-2026_07_20/",
-      "id": "f78e1364cc1d8cd8",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "Micron Says Memory Chip Supply Will Remain Tight Beyond 2027",
-      "summary": "Micron disclosed it is sold out of HBM capacity for both 2026 and 2027, and expects broad memory market tightness to extend beyond 2027. The company recently signed 16 multiyear customer contracts—unprecedented in the memory industry—as AI compute demand drives structurally higher ASPs.",
-      "why": "美光HBM供应售罄至2027年以后，多年合同锁定高价，是极强的长线看涨信号；对持有MU正股和sell put策略均利好，关注内存赛道持续涨价逻辑。",
-      "source": "The Motley Fool",
-      "verified": true,
-      "keywords": [
-        "Micron",
-        "美光",
-        "MU",
-        "HBM",
-        "memory",
-        "supply"
-      ],
-      "translated": false,
-      "url": "https://www.fool.com/investing/2026/07/20/micron-says-memory-chip-supply-will-remain-tight-b/",
-      "id": "285dd7b89dcdfdd7",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "Alphabet (GOOGL) Week Review: EU Hit, Gemini Delays, Earnings Wednesday",
-      "summary": "Alphabet reports Q2 2026 earnings July 22. Shares at $346.77 amid a $4.67B EU antitrust fine (Android/DMA) and Gemini 3.5 Pro delays. Q2 consensus: revenue $116.9B, EPS $2.90. Google Cloud accelerated to $20B/quarter (+63% YoY) in Q1.",
-      "why": "谷歌财报与特斯拉同日发布，将定调本周科技板块情绪；EU罚款与Gemini延迟是重大下行风险，期权隐含波动率已升高，财报后需关注IV崩塌。",
-      "source": "TradingKey",
-      "verified": false,
-      "keywords": [
-        "Alphabet",
-        "Google",
-        "GOOGL",
-        "earnings",
-        "EU fine",
-        "Gemini"
-      ],
-      "translated": false,
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262039497-alphabet-googl-stock-week-review-july-20-2026-eu-android-earnings-tradingkey",
-      "id": "5c6427c30ee778a3",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:30",
-      "group": "大盘头条",
-      "title": "Oil prices dip as mediation efforts offset U.S.-Iran strikes",
-      "summary": "Oil softened Tuesday with Brent near $90/bbl as mediators pushed for a 10-day U.S.-Iran ceasefire, even as attacks entered a 10th consecutive day. A Houthi naval blockade threat on Saudi Arabia capped any sustained pullback.",
-      "why": "油价高位震荡叠加停火预期，影响通胀预期和美联储加息路径，是对冲持仓和期权策略的重要宏观背景。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "oil price",
-        "Iran",
-        "ceasefire",
-        "geopolitical",
-        "Brent"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/07/21/oil-prices-dip-as-mediation-efforts-offset-us-iran-strikes.html",
-      "id": "bd6178ec6ac3ed01",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "Tesla rides robotaxi momentum into earnings season (Q2 results July 22)",
-      "summary": "Tesla reports Q2 2026 earnings after market close July 22. Q2 deliveries hit 480,126 vehicles (+25% YoY), its strongest quarter since Q3 2025. Robotaxi now operates in 5 cities; Texas fleet scaled to 175 vehicles. 2026 capex guidance raised to $25B from $20B.",
-      "why": "特斯拉明日财报是市场催化剂，Robotaxi进展和毛利率是关键看点，财报前后隐含波动率将大幅变动，持有TSLA期权者需特别关注。",
-      "source": "Proactive Investors",
-      "verified": true,
-      "keywords": [
-        "Tesla",
-        "TSLA",
-        "earnings",
-        "Robotaxi",
-        "deliveries"
-      ],
-      "translated": false,
-      "url": "https://www.proactiveinvestors.com/companies/news/1095651/tesla-rides-robotaxi-momentum-into-earnings-season-1095651.html",
-      "id": "fd4c658e4d899f5d",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
+      "id": "d15bca9a6bd79acc",
+      "tier": 2,
       "lang": "zh",
       "markets": [
-        "A"
-      ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "深\"V\"，涨停潮！半导体大爆发，多只ETF大涨10%！",
-      "summary": "A股7月21日全天呈深V形态，科创50指数收涨10.73%，创2026年最大单日涨幅；科创半导体ETF大涨逾19%，集成电路ETF、芯片ETF涨停；华虹宏力涨超17%。上证综指涨1.79%，创业板指涨7.05%。",
-      "why": "A股半导体全线爆发是重大市场事件，若持有半导体相关个股或期权，隐含波动率大涨，sell put方向需警惕短期回调。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "半导体",
-        "科创50",
-        "ETF",
-        "涨停"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-07-21/doc-iniiptrf2611441.shtml",
-      "id": "734f6f9eebb84010",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:35",
-      "group": "大盘头条",
-      "title": "ETF收评：科创50暴力反弹涨超10%，AI硬件反攻，科创半导体ETF涨超19%，集成电路ETF、芯片ETF涨停",
-      "summary": "科创板、创业板强势反弹，多只半导体ETF创历史大涨纪录，AI硬件板块全线上扬。科创半导体ETF单日净值涨幅超19%，上半年该类ETF已累计涨逾177%。",
-      "why": "科创半导体ETF单日大涨19%，短期波动率骤升，持有相关正股或期权需关注次日波动率压缩风险。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "科创50",
-        "半导体ETF",
-        "芯片ETF",
-        "AI硬件"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-21/doc-iniipxxc2565622.shtml",
-      "id": "d48cbc7e71f4e50f",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股收评：恒指跌0.04% 科指涨1.32% 黄金股普涨 半导体、PCB板块大涨 智谱涨超36%",
-      "summary": "港股7月21日三指分化：恒生指数收跌0.04%报25132，恒生科技指数涨1.32%；华虹宏力涨超17%，建滔积层板涨超12%，紫金黄金国际涨超10%，智谱AI涨超36%。",
-      "why": "港股科技指数逆势上扬，华虹宏力创单日大涨，半导体主题继续受资金青睐，对相关港股期权隐含波动率有拉升作用。",
-      "source": "新浪财经港股",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技",
-        "华虹宏力",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-21/doc-iniiqeez2478566.shtml",
-      "id": "ccd25e4c90fad3eb",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "f0727e11a8708974",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "美联储6月会议纪要确认鹰派转向，9月加息概率升至51.5%；7月28-29日FOMC会议临近",
-      "summary": "美联储6月会议纪要显示多数官员对通胀担忧加剧，加息呼声升温；CME FedWatch显示9月会议加息概率已升至51.5%。当前联邦基金利率维持3.50%-3.75%。7月28-29日FOMC会议将发布决议，本次无点阵图更新，市场焦点在声明措辞变化。",
-      "why": "再加息预期是港股美股估值的核心风险因子；利率上行压缩成长股估值倍数，同时提升sell put的安全垫要求，近期业绩期前需审视期权行权价配置。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "FOMC",
-        "加息",
-        "通胀",
-        "3.5-3.75%",
-        "9月加息",
-        "51.5%"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260709/herald/265b3d0e73889b399d3684f5f6f85c05.html",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "72e2be854d2a7957",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "US Strikes Iran for Ninth Straight Night; Iran Signals Possible Talks — Crude Holds Near $82.43",
-      "summary": "The US conducted airstrikes on Iran for a ninth consecutive night; Iran retaliated with missile strikes on US allies. An Iranian Foreign Ministry spokesperson said negotiations with the US could resume if aligned with Iran's national interests. Crude oil steadied near $82.43/bbl, balancing escalation risk against diplomatic signals.",
-      "why": "中东地缘局势是全球通胀的核心变量；若谈判信号落实，油价下行可缓解美联储加息压力、利好风险资产；持续紧张则强化鹰派路径，需关注下周FOMC。",
-      "source": "Investing.com",
-      "verified": false,
-      "keywords": [
-        "Middle East",
-        "Iran",
-        "oil price",
-        "crude",
-        "geopolitical",
-        "US strikes"
-      ],
-      "translated": false,
-      "url": "https://investing.com/news/commodities-news/oil-prices-slide-on-us-rate-jitters-strong-dollar-3402259",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "3290d6e48f65276b",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "证监会主席吴清走进营业部直面散户座谈，聚焦量化交易、分红、中长期资金入市",
-      "summary": "7月20日，证监会党委书记、主席吴清亲赴证券营业部，与8名大中小散户代表面对面座谈，听取投资者对量化交易监管、信披透明度、分红机制和中长期资金入市的意见。吴清表示广大投资者是市场之本，将全力维护资本市场平稳运行。",
-      "why": "监管层主动接触散户传递政策托底信号；量化交易监管预期趋严可能影响市场波动率结构，与sell put策略的隐含波动率敞口相关，需持续关注后续政策落地细节。",
-      "source": "新浪新闻（证监会官方）",
-      "verified": true,
-      "keywords": [
-        "证监会",
-        "吴清",
-        "量化交易",
-        "散户座谈",
-        "分红",
-        "中长期资金"
-      ],
-      "translated": false,
-      "url": "https://news.sina.com.cn/o/2026-07-20/doc-iniimuyk4934808.shtml",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "df447809edbd1eaf",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "月之暗面宣布最快6个月内赴港上市，Kimi K3发布后ARR三个月三倍增至3亿美元",
-      "summary": "月之暗面已向主要投资人提交港股上市议案，预计最快6个月内完成。驱动力是Kimi K3（7月16日发布，2.8万亿参数，当前全球最大开源模型）引发全球关注，ARR从3月1亿、5月2亿到6月3亿美元，三个月实现三倍跃升；API收入占比突破70%。最新参考估值约200亿美元。",
-      "why": "中国AI原生公司快速走向港股上市，为港股科技板块引入新高成长标的；Kimi K3跻身顶级开源模型的商业化进展值得跟踪，也为腾讯阿里等AI布局的相对估值提供新参照。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "月之暗面",
-        "Kimi",
-        "Kimi K3",
-        "港股IPO",
-        "AI大模型",
-        "ARR"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260720/herald/e8e465cd3711e575c7d432295b5c3892.html",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "12712c9661c26ade",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
         "A"
       ],
       "time": "09:15",
       "group": "大盘头条",
-      "title": "花旗将中国股市评级上调至超配，恒生指数年底目标29600点",
-      "summary": "花旗7月20日将新兴市场中国股票评级由战术中性上调至超配，同步将韩国下调至中性。理由为中国股票仓位偏轻、估值合理、宏观环境改善及低油价。设恒生指数年底目标29600点、MSCI中国目标92美元（较当前约31%上行空间）；CSI 300目标5600点。",
-      "why": "花旗超配升评是本轮外资回流港股A股的重要催化；恒指目标29600较当前25127点有约18%空间，消费和互联网重仓股的估值中枢受益，但需注意资金从韩国轮出后芯片板块可能存在分化。",
+      "title": "央行7月26日开展21000亿元7天逆回购操作，净投放约14540亿元，维护月末流动性平稳",
+      "summary": "中国人民银行7月26日以固定利率、数量招标方式开展21000亿元7天期逆回购操作，利率维持2.00%不变，当日到期6460亿元，净投放约14540亿元，为近期单日操作规模较大一次。本次大额注入旨在维护7月末银行间市场流动性平稳，应对季末及财政资金缴库的资金需求高峰。银行间隔夜利率（DR001）和7天加权利率（DR007）在此前几个交易日均有所走高，本次逆回购规模明显加码。",
+      "why": "央行大额净投放14540亿元释放宽松流动性信号，对A股短期资金面有正面支撑；银行间利率回落有助于压低股市波动率，对持有A股相关sell put仓位者（如腾讯、美团等港股期权策略参考A股情绪）是边际利好；若月末流动性恢复平稳，8月初开门红行情概率上升，需持续跟踪央行后续操作节奏。",
       "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "花旗",
-        "Citi",
-        "中国超配",
-        "恒生指数",
-        "29600",
-        "升评"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-07-20/doc-iniimqsk8202190.shtml",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "0e7235ef8d42d46c",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "五大万亿险企（人保、人寿、平安、太保、新华）集体发声支持资本市场，股票投资合计2.5万亿",
-      "summary": "7月20日，中国人保、中国人寿集团、中国平安、中国太保、新华保险五大万亿级保险机构集体公开表态坚定支持资本市场。数据显示，A股五大上市险企2025年末股票投资额合计达2.5万亿元，较2024年末大增逾1万亿元（+75%）。同期，中国诚通已增持近百亿、国新控股已增持超500亿元国资央企股票。",
-      "why": "险资是A股最大长线买家，集体表态与实际大规模增持双管齐下，对重仓的消费和科技核心标的估值构成直接支撑。",
-      "source": "网易订阅（证券时报）",
-      "verified": true,
-      "keywords": [
-        "险资",
-        "保险机构",
-        "中国平安",
-        "国新控股",
-        "国家队",
-        "2.5万亿"
-      ],
-      "translated": false,
-      "url": "https://www.163.com/dy/article/L2APBE870519DDQ2.html",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "3444ec2158e8c1ca",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Alphabet GOOGL Q2 Earnings Wednesday (7/22): Google Cloud 60%+ Growth Eyed, EPS Est. $2.89",
-      "summary": "Alphabet reports Q2 2026 after the bell on July 22. Consensus: EPS $2.89 (+23.8% YoY), revenue $116.84B (+21.2% YoY). Key watch: whether Google Cloud sustains ~60% growth (Q1 was +63%), and whether $190B 2026 capex guidance squeezes margins. Strong AI monetization across Search and Cloud is the bull thesis.",
-      "why": "谷歌是AI广告+云双引擎，明日业绩是美股科技估值中枢的重要锚定；Cloud能否延续60%增速直接影响市场对AI商业化前景的定价，进而传导至港股互联网板块情绪。",
-      "source": "InsiderFinance / IG International",
-      "verified": true,
-      "keywords": [
-        "Alphabet",
-        "Google",
-        "GOOGL",
-        "Q2 earnings",
-        "Google Cloud",
-        "$190B capex"
-      ],
-      "translated": false,
-      "url": "https://www.insiderfinance.io/news/alphabet-q2-2026-earnings-preview",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "id": "ad7edd7747c05cf8",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "7月以来股票型ETF净流入超3200亿元，宽基ETF成交额创2024年10月以来新高",
-      "summary": "7月以来沪深两市股票型ETF净流入超3200亿元，宽基ETF成为核心配置方向；7月20日尾盘多只宽基ETF放量，成交额创2024年10月中旬以来新高，增量资金持续积极布局A股市场。",
-      "why": "国家队加持+ETF资金持续流入是A股当前核心支撑力；3200亿规模较7月初预期大幅超出，市场做多情绪偏强，有助维持消费和科技重仓股估值。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "ETF净流入",
-        "宽基ETF",
-        "3200亿",
-        "国家队",
-        "A股资金"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260718/herald/71dea345e7c1daac1a05643bda0b5363.html",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "ASML Q2 2026 Beats: Net Sales EUR 9.3B, Raises 2026 Outlook to EUR 43-45B; Intel Foundry Confirmed Using High-NA EUV for 18A",
-      "summary": "ASML reported Q2 2026 net sales of EUR 9.3B and net income of EUR 2.9B, raising 2026 full-year net sales guidance to EUR 43B-45B. ASML confirmed Intel Foundry is now mass-producing Panther Lake client CPUs on 18A process using high-NA EUV lithography — a critical milestone for Intel's foundry turnaround ahead of INTC Q2 earnings on July 23.",
-      "why": "ASML业绩验证AI算力资本开支持续景气；英特尔18A量产确认是代工业务拐点信号，关注INTC Q2（7/23）能否引发估值修复行情。",
-      "source": "ASML / SEC EDGAR 6-K",
-      "verified": true,
-      "keywords": [
-        "ASML",
-        "Intel",
-        "INTC",
-        "高NA EUV",
-        "18A",
-        "Panther Lake",
-        "半导体",
-        "代工",
-        "foundry"
-      ],
-      "translated": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026048235/presentationinvestorrela.htm",
-      "id": "7d9be1b0d9f6e7fe",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "美伊军事冲突持续：美国对伊朗沿海防线发动多轮空袭，油价维持近月高位，美股承压",
-      "summary": "美国持续空袭伊朗沿海防线及导弹基地，布伦特原油维持近一个月高位约84美元；标普500于7月20日跌0.19%至7,443，道指跌307点；伊朗警告可能动员胡塞武装封锁红海原油通道，霍尔木兹海峡航运大幅萎缩。",
-      "why": "地缘冲突推升油价与通胀预期，令美联储下周加息概率上升；市场波动率抬头对Sell Put持仓构成Gamma风险，需关注VIX动向。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "美伊冲突",
-        "油价",
-        "标普500",
-        "美股",
-        "地缘风险"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates",
-      "id": "d940b8efe0e566e5",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "英特尔INTC：Q2财报7月23日发布，预期EPS 0.20美元（去年同期-0.10美元），高NA EUV量产确认利多",
-      "summary": "英特尔Q2财报将于7月23日发布：预期营收143亿美元（+11% YoY），EPS 0.20美元 vs 上年-0.10美元；ASML已确认英特尔18A节点采用高NA EUV量产Panther Lake处理器，产能改善；AMD数据中心Q1首超英特尔（58亿 vs 51亿美元）竞争压力持续。",
-      "why": "18A量产落地是代工故事关键拐点，若Q2超预期可带动估值修复；AMD竞争与台积电份额保卫是潜在下行风险。",
-      "source": "The Motley Fool",
       "verified": false,
       "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "18A",
-        "高NA EUV",
-        "财报",
-        "Q2",
-        "代工",
-        "Panther Lake"
+        "央行",
+        "PBoC",
+        "逆回购",
+        "货币政策",
+        "流动性",
+        "A股",
+        "银行间市场"
       ],
       "translated": false,
-      "url": "https://www.fool.com/investing/2026/07/20/asml-has-terrific-news-for-intel-investors-that-co/",
-      "id": "6a2e93b9c1549ed8",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "特斯拉TSLA Q2财报将于7月22日盘后发布：480K交付创纪录，期权隐含波动7.6%超历史均值",
-      "summary": "特斯拉Q2交付量480,126辆（同比+25%）再创历史新高；分析师预期Q2营收约258亿美元、EPS约0.52美元（同比+30%）；财报前期权隐含涨跌幅达7.6%，高于历史均值4.4%；市场重点关注汽车毛利率恢复、Robotaxi扩张及Optimus进展。",
-      "why": "财报前高隐波是Sell Put或Covered Call的时间价值收割窗口；若毛利率改善超预期则下行风险有限，反之需控制仓位。",
-      "source": "TradingKey",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "财报",
-        "Q2",
-        "交付量",
-        "隐含波动",
-        "Robotaxi",
-        "FSD",
-        "马斯克"
-      ],
-      "translated": false,
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262039494-tesla-tsla-q2-2026-earnings-preview-july-22-480k-deliveries-tradingkey",
-      "id": "2a66cd527d237a0d",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股恒生指数7月21日大涨582点（+2.4%）至25,143，中资科技消费全线反弹",
-      "summary": "恒指7月21日急弹582点收于25,143点，为亚洲表现最强主要指数；腾讯涨3.5%、美团涨3.2%、小米涨3.2%、快手涨4.6%；北京宣布两大国有基金新增增持权益，A股情绪联动提振，中资科技与消费板块集体走强。",
-      "why": "核心港股持仓（腾讯、美团、小米等）当日普遍上行，短期Sell Put行权压力缓解；但单日急涨后需注意隐含波动率收缩窗口。",
-      "source": "The Standard HK",
-      "verified": false,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "腾讯",
-        "美团",
-        "小米",
-        "中资科技"
-      ],
-      "translated": false,
-      "url": "https://www.thestandard.com.hk/finance/article/337683/HSI-rises-over-580-points-to-above-25000-mark",
-      "id": "8fe26db1cb828276",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "个股",
-      "title": "阿里巴巴9988.HK：发布通义千问Qwen3.8（2.4万亿参数），盘中涨3.7%，AI溢价尚未充分体现",
-      "summary": "阿里巴巴发布通义千问Qwen3.8开源模型，参数规模达2.4万亿，将开放权重并率先接入代码工具；港股9988当日收涨3.7%至HK$116.80，上周累涨约17.7%；分析师指AI溢价尚未充分体现于当前估值。",
-      "why": "Qwen系列持续迭代强化阿里云护城河，开放权重策略可加速企业渗透；阿里云AI与淘天电商双轮驱动，中期估值重估空间明显。",
-      "source": "ts2.tech",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "BABA",
-        "9988",
-        "Qwen3.8",
-        "通义千问",
-        "阿里云",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://ts2.tech/en/alibaba-hkg9988-shares-gain-3-7-after-qwen3-8-launch-ai-premium-remains-modest/",
-      "id": "3148a83ca2c19270",
-      "is_new": false,
-      "first_seen": "2026-07-21"
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "21:00",
-      "group": "个股",
-      "title": "英伟达NVDA跌破200美元关键支撑；DeepSeek传言自研AI芯片；费城半导体指数确认技术熊市",
-      "summary": "NVDA跌至200美元支撑位附近，据路透社DeepSeek正秘密研发自有AI芯片以减少对Nvidia依赖，为今年第三次国产硅利空；费城半导体指数（SOX）较6月高点累跌逾20%进入技术熊市，本周周线跌约10%；Nvidia 2026财年创纪录营收2,160亿美元（+65% YoY）。",
-      "why": "DeepSeek自研芯片若规模化落地将压制NVDA长期定价权；SOX技术熊市信号影响持有AI芯片期权的仓位管理，需关注Vega风险。",
-      "source": "FX Leaders",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "DeepSeek",
-        "AI芯片",
-        "GPU",
-        "费城半导体指数",
-        "SOX",
-        "Blackwell"
-      ],
-      "translated": false,
-      "url": "https://www.fxleaders.com/news/2026/07/20/nvidia-stock-nvda-tests-200-support-as-chinese-ai-competition-shakes-the-chip-rally/",
-      "id": "b38d8bc2a9f8293d",
-      "is_new": false,
-      "first_seen": "2026-07-21"
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-26/doc-inikeetx0202294.shtml",
+      "published_date": "2026-07-26",
+      "still_developing": true,
+      "first_seen": "2026-07-29",
+      "is_new": true
     },
     {
       "tier": 1,
@@ -2941,6 +2167,159 @@
       "is_new": false
     },
     {
+      "id": "f9d7dbc5de445835",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "超级央行周开幕：美联储FOMC今日起开会，明日公布利率决议；日本央行、英国央行同步登场",
+      "summary": "美联储7月28-29日FOMC议息会议今日开幕，政策决议将于北京时间7月30日凌晨2:00公布。CME Fed Watch显示维持联邦基金利率目标区间（3.50%-3.75%）不变的概率约65%，加息25bp概率约35%。日本央行与英国央行本周亦将相继公布利率决策，本周还将迎来Meta、微软、苹果、亚马逊四大科技公司财报，多重事件叠加构成全周最大不确定因素。",
+      "why": "联储利率决策直接影响美股折现率及港美科技股期权隐含波动率；35%的加息概率高于市场此前预期，若真正加息将对成长股和sell put持仓构成短期压力；同时大型科技财报若AI变现不达标亦将引发估值重置。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "FOMC",
+        "超级央行周",
+        "利率",
+        "宏观",
+        "日本央行"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikezxm3231993.shtml",
+      "published_date": "2026-07-27",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
+      "id": "136dc092058381c7",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "全球AI/芯片股踩踏：韩国股市年内第八次熔断，A股创业板指跌7.35%，港股存储ETF暴跌逾29%",
+      "summary": "今日（7月28日），受英伟达-OpenAI 2500亿美元数据中心担保谈判引发AI资本支出循环逻辑担忧，叠加长鑫科技上市带来DRAM竞争新变量，全球芯片板块遭遇踩踏：韩国KOSPI年内第八次触发熔断，SK海力士ADR跌破发行价；A股创业板指跌7.35%、科创50跌6.33%，通信ETF、中韩半导体ETF跌停，存储芯片股集体走低；港股南方两倍做多海力士暴跌逾29%（较6月底高位回撤近80%），恒指收涨0.41%但存储/AI板块深度回调。",
+      "why": "全球芯片板块单日踩踏，SK海力士/英伟达/美光相关持仓均受波及；AI资本支出循环疑虑是核心叙事变化，短线有超跌反弹空间，但若Meta/微软财报AI变现不达标则二次下跌风险高；持有存储类sell put需紧急评估行权价安全边际。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "芯片",
+        "半导体",
+        "创业板",
+        "韩国熔断",
+        "SK海力士",
+        "英伟达",
+        "存储芯片"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-07-28/doc-inikirnm0361003.shtml",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
+      "id": "98985b641f4b4958",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Nvidia in Talks to Guarantee $250B for OpenAI's $500B Ohio Data Center — Triggered Global Chip Selloff",
+      "summary": "Bloomberg and WSJ reported July 26 that Nvidia is in discussions to backstop $250 billion in financing for OpenAI's planned 10-gigawatt Ohio data center (total project ~$500B, operated by SoftBank SB Energy); Nvidia is also reportedly discussing guaranteeing another $350B for OpenAI chip purchases. The disclosure triggered a global AI chip selloff as markets question whether AI capex cycles can generate sufficient returns to cover Nvidia's potential debt exposure.",
+      "why": "延续报道：英伟达若为OpenAI提供合计约6000亿美元担保，将产生巨额资产负债表风险，市场重新审视AI资本支出循环可持续性，是本轮全球芯片踩踏的核心导火索；对英伟达持仓而言短期情绪最负面，但长期锁定需求是利多；隐含波动率今日将大幅上升。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "OpenAI",
+        "AI",
+        "数据中心",
+        "NVDA"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+      "published_date": "2026-07-26",
+      "still_developing": true,
+      "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
+      "id": "74bdba9f9d9971ae",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "个股",
+      "title": "老铺黄金单日暴跌24.72%，市值蒸发约173亿港元；高盛等大行纷纷下调目标价",
+      "summary": "老铺黄金（06181.HK）7月28日盘中最大跌幅达24.72%，报298.4港元创一年半新低，收盘跌23.76%报302.2港元，市值单日蒸发约173亿港元。此前一日（7月27日）公司发布正面盈利预告：上半年净利润约43.1-43.6亿元（同比增83-85%），但市场拆解后发现Q2单季环比净利润骤降约87%（金价上半年高位后大幅回落所致），远低于预期。高盛随即将目标价大幅下调至650港元，摩根士丹利预计短期股价情绪偏弱。",
+      "why": "盈喜反成出货信号——Q2金价疲弱导致单季利润环比暴跌近九成，打破此前高增长预期；大摩、高盛等大行态度集体转谨慎；若持有06181.HK sell put需立即核查行权价安全边际，今日大幅波动后隐含波动率显著飙升，可考虑买入VIX对冲。",
+      "source": "新浪香港",
+      "verified": true,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "黄金",
+        "暴跌",
+        "高盛",
+        "大摩"
+      ],
+      "translated": false,
+      "url": "https://portal.sina.com.hk/finance/sina/2026/07/28/1867981/%E7%9B%88%E5%96%9C%E5%8F%8D%E6%88%90%E5%87%BA%E8%B2%A8%E4%BF%A1%E8%99%9F%EF%BC%9F%E8%80%81%E9%8B%AA%E9%BB%83%E9%87%91%E6%9A%B4%E8%B7%8C%E9%80%BE20-%E5%A4%A7%E6%91%A9%E6%96%99%E7%9F%AD%E6%9C%9F/",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
+      "id": "61119dcf48b9d269",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "携程接受反垄断行政处罚：罚没合计51.79亿元，需终止排他性分销并退还酒店保证金1.22亿元",
+      "summary": "国家市场监督管理总局（SAMR）7月25日对携程集团作出行政处罚：裁定违反《反垄断法》第22条（排他性交易安排与不合理交易条件），没收违法所得16.58亿元、处以罚款35.21亿元（占2025年国内销售额7.5%），合计51.79亿元；同时要求全额退还强制扣留的酒店订单保证金1.22亿元，并终止排他分销安排。携程集团（TCOM.US/9961.HK）已于7月27日发布港交所公告表示\"诚挚接受\"并承诺整改。",
+      "why": "罚款约等于携程两个月净利润，市场有预期但金额偏高；更关键的是终止排他性分销将改变携程与酒店供应商的谈判筹码，长期可能压缩分佣率并影响ARPU；TCOM期权隐含波动率短期料上升，sell put持仓需评估下行风险。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "9961.HK",
+        "反垄断",
+        "罚款",
+        "监管"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-07-27/doc-inikezxm3141007.shtml",
+      "published_date": "2026-07-27",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
       "id": "2d26b5dc4be10f7a",
       "tier": 1,
       "lang": "en",
@@ -4229,6 +3608,66 @@
       "still_developing": true,
       "id": "04ed00d18c468376",
       "first_seen": "2026-07-27",
+      "is_new": false
+    },
+    {
+      "id": "26cb8500d3a0095e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "长鑫科技（CXMT）昨日科创板上市首日暴涨逾500%，市值一度超3.3万亿元登顶A股，引发全球DRAM竞争格局重估",
+      "summary": "中国存储芯片龙头长鑫科技（CXMT，688825.SH）于7月27日在科创板正式上市，发行价8.66元，开盘价49.50元（涨幅471.59%），总市值一度超3.3万亿元，超越工商银行成为A股市值第一，创科创板史上最大IPO（募资约666亿元）。公司Q1 2026营收508亿元同比增719%、归母净利247亿元。长鑫上市填补A股DRAM制造标的空白，引发市场对美光、SK海力士、三星在全球DRAM市场遭受中国竞争的重新定价，是今日全球存储概念股大跌的触发因素之一。",
+      "why": "延续报道：长鑫科技上市是全球DRAM竞争格局的历史性事件，对美光（MU）、SK海力士形成长期竞争压力；A股半导体赛道资金可能被长鑫大规模吸走，而全球存储股受此冲击；对持有美光/SK海力士相关标的需重新评估DRAM定价权前景。",
+      "source": "新浪新闻",
+      "verified": true,
+      "keywords": [
+        "长鑫科技",
+        "CXMT",
+        "科创板",
+        "存储芯片",
+        "DRAM",
+        "IPO",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://www.sina.cn/news/detail/5325214708663085.html",
+      "published_date": "2026-07-27",
+      "still_developing": true,
+      "first_seen": "2026-07-28",
+      "is_new": false
+    },
+    {
+      "id": "898a420a2f12f13f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "特斯拉FSD v15早期版本已上路，Robotaxi车队率先搭载；无人驾驶累计突破38万英里",
+      "summary": "特斯拉Q2财报电话会披露，Robotaxi改装Model Y已搭载FSD v15早期版本在真实道路行驶，已实现7大核心改进中约40%的功能，内部基准测试表现优异。Robotaxi当前已覆盖两个州六个城市，累计完成逾38万英里无监督自动驾驶里程，零重大事故。本月新增奥兰多和坦帕运营；FSD v15预计2026年底至2027年初向消费者车辆推送。Q2营收282.4亿美元（同比增26%），运营利润率仅1.4%（同比降约57%）受大幅增加研发投入影响。",
+      "why": "FSD v15上路Robotaxi是特斯拉从汽车商转型AI/机器人公司的关键里程碑，Robotaxi商业化规模直接影响TSLA的长期估值逻辑和covered call/sell put策略的行权价设定参考；Q2利润率承压已反映在股价中，长线投资者更关注FSD商业化路径。",
+      "source": "新浪科技",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "FSD",
+        "Robotaxi",
+        "自动驾驶",
+        "FSD v15"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-26/doc-inikasst1056853.shtml",
+      "published_date": "2026-07-26",
+      "still_developing": false,
+      "first_seen": "2026-07-28",
       "is_new": false
     },
     {
