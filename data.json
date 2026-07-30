@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-07-30 13:34 (北京时间)",
+  "updated_at": "2026-07-30 18:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,220 +37,416 @@
   "positions": [],
   "items": [
     {
-      "id": "cdf6e574c22698aa",
+      "id": "263147f368cc2def",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
+      "summary": "美军对伊朗发动大规模空袭（历时两小时，打击数十个伊斯兰革命卫队目标），布伦特原油涨至约92美元/桶，伊朗扬言报复，中东风险溢价骤升，金价同步上行至约4,080美元/盎司。",
+      "why": "地缘冲突升级叠加Fed按兵不动：原油走强推升通胀预期，进一步强化9月加息逻辑；金价上行利好老铺黄金(6181.HK)；整体市场避险情绪推高波动率，卖put需适当收窄delta敞口。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "伊朗",
+        "中东",
+        "原油",
+        "布伦特",
+        "地缘风险",
+        "黄金",
+        "老铺黄金"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
+      "published_date": "2026-07-30",
+      "still_developing": true,
+      "is_new": true,
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "5764ad68fe12cf9e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "05:00",
+      "group": "大盘头条",
+      "title": "Microsoft beats Q4 expectations, as Azure revenue tops $100 billion",
+      "summary": "微软FY26Q4财报全面超预期：EPS $4.74（vs预期$4.33），营收$900亿（vs $893亿）。Azure同比+43%，全年首破1000亿美元。Microsoft 365 Copilot付费席位突破3000万，AI变现提速。股价盘后涨约9%。",
+      "why": "AI大模型落地企业端加速，企业AI付费席位突破对赛道估值逻辑有正面印证；Azure超增验证云+AI双轮驱动，利好整个科技赛道，亦对腾讯云、阿里云等竞品提供对标参考。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "微软",
+        "Microsoft",
+        "MSFT",
+        "Azure",
+        "Copilot",
+        "AI",
+        "云计算",
+        "财报"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "published_date": "2026-07-29",
+      "still_developing": false,
+      "is_new": true,
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "0201cc11493190b6",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "A股收评：创业板指跌3.97%，AI硬件持续回调，白酒股爆发",
+      "summary": "A股收盘：沪指涨0.62%报3804.69点，深证成指跌2.73%，创业板指跌3.97%。白酒股全线上涨，金徽酒、舍得酒业涨停；油气板块走强；AI硬件板块持续回调承压；银行股逆势上涨。",
+      "why": "AI硬件板块调整加剧，对科技相关仓位的A股替代标的有压制；白酒逆势上涨属资金切换防御，消费配置逻辑短期强化；整体市场风格轮动值得关注。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "创业板",
+        "AI硬件",
+        "白酒",
+        "市场综述"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-30/doc-inikqiym5214147.shtml",
+      "published_date": "2026-07-30",
+      "still_developing": false,
+      "is_new": true,
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "e6bf86c17f4aed19",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股收评：恒指涨0.2% 科指跌1.25% 教育股大涨 芯片股下挫 华虹宏力跌超8%",
+      "summary": "港股收盘：恒生指数微涨0.2%，恒生科技指数跌1.25%。教育股领涨，新东方(09901.HK)大涨超15%（FY26Q4财报驱动）；芯片、光通信板块下挫，华虹宏力跌超8%；中际旭创(03308.HK)上市首日跌逾13%。",
+      "why": "科技指数弱于大盘，反映AI叙事阶段性降温；教育股因新东方业绩利好带动整体板块；芯片板块随SK海力士不及预期回落；中际旭创首日破发需关注后续筹码消化压力。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒指",
+        "科技指数",
+        "教育股",
+        "芯片",
+        "市场综述"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikqqhi5119020.shtml",
+      "published_date": "2026-07-30",
+      "still_developing": false,
+      "is_new": true,
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "96ab990ad7da978a",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "US",
-        "HK"
+        "HK",
+        "US"
       ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "美股大幅下挫，韩国KOSPI史上首次二连熔断，7月月内累跌逾20%",
-      "summary": "美股7月29日大幅下跌，债市担忧美联储三票鹰派异议后通胀应对“落后于形势”，道指、标普、纳指均录得较大跌幅。韩国KOSPI7月29日再次触发熔断机制，史上首次连续两交易日熔断，7月月内累跌逾20%；三星、SK海力士各跌逾5%。日经225当日亦下跌约1.5%。",
-      "why": "全球风险情绪急剧转弱，美股与韩国市场双重下跌对持仓组合隐含波动率构成上行压力；Sell Put策略需重新审视近月行权价下行缓冲，芯片/科技仓位尤需警惕。",
-      "source": "Bloomberg",
-      "verified": false,
+      "time": "09:00",
+      "group": "个股",
+      "title": "营收突破56亿美元，经营利润大增50%！新东方2026财年成绩单出炉",
+      "summary": "新东方(EDU/09901.HK) FY26Q4营收15.3亿美元(+23% YoY)，净利润6220万美元(+775.8%)；FY26全年营收56.61亿美元(+15.5%)，净利润4.75亿美元(+27.8%)。FY27全年指引64.5-66.8亿美元(+14-18%)。港股今日涨超15%。",
+      "why": "业绩大幅超预期且利润爆发式增长（净利润+775.8%），教育新业务高速增长；FY27指引稳健确认增长可持续性；教育赛道政策出清完毕，情绪修复利好消费服务类港股估值重估。",
+      "source": "新浪财经",
+      "verified": true,
       "keywords": [
-        "美股",
-        "KOSPI",
-        "韩国",
-        "熔断",
-        "道指",
-        "纳指",
-        "日经"
+        "新东方",
+        "EDU",
+        "教育",
+        "财报",
+        "港股"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/stock-market-today-dow-s-p-live-updates",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikqqhi5163281.shtml",
+      "published_date": "2026-07-30",
+      "still_developing": false,
+      "is_new": true,
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "cad59c19f478a848",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "中际旭创敲锣：港交所今年最大IPO来了",
+      "summary": "光模块龙头中际旭创(03308.HK)今日正式登陆港交所，发行价980港元，募资约534亿港元（今年港股最大IPO）。29家基石投资者包括腾讯、高瓴、淡马锡、贝莱德等。开盘市值超1.1万亿港元，首日收跌约13%。",
+      "why": "中际旭创为AI数据中心光互联核心标的，首日破发13%或释放新股筹码压力，但基石投资者阵容（含腾讯）体现长期产业认可；光通信板块情绪短期受压，需关注后续机构锁定期结束时间。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "中际旭创",
+        "港股IPO",
+        "光模块",
+        "AI数据中心",
+        "腾讯"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikpxkt2040566.shtml",
+      "published_date": "2026-07-30",
+      "still_developing": false,
+      "is_new": true,
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "9638806a9d2eddb9",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "Brent oil jumps back above $90 after Trump threatens to hit Iran hard; gold near record",
+      "summary": "布伦特原油重回90美元/桶上方，WTI同步走强。国际金价涨至约4,080-4,100美元/盎司，Fed维持利率叠加中东冲突推升避险需求。黄金年内累计涨幅约24%。",
+      "why": "金价走强对老铺黄金(6181.HK)形成直接利好，古法金首饰定价与金价高度挂钩；持仓如有相关期权头寸可评估滚动卖call锁定利润；同时需警惕地缘事件降温后金价回落风险。注：金价具体数字来自非白名单信源，供参考。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "黄金",
+        "金价",
+        "老铺黄金",
+        "布伦特",
+        "原油",
+        "避险"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+      "published_date": "2026-07-29",
+      "still_developing": true,
+      "is_new": true,
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "263147f368cc2def",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
+      "summary": "美军对伊朗发动大规模空袭（历时两小时，打击数十个伊斯兰革命卫队目标），布伦特原油涨至约92美元/桶，伊朗扬言报复，中东风险溢价骤升，金价同步上行至约4,080美元/盎司。",
+      "why": "地缘冲突升级叠加Fed按兵不动：原油走强推升通胀预期，进一步强化9月加息逻辑；金价上行利好老铺黄金(6181.HK)；整体市场避险情绪推高波动率，卖put需适当收窄delta敞口。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "伊朗",
+        "中东",
+        "原油",
+        "布伦特",
+        "地缘风险",
+        "黄金",
+        "老铺黄金"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
+      "published_date": "2026-07-30",
+      "still_developing": true,
+      "first_seen": "2026-07-30",
+      "is_new": false
+    },
+    {
+      "id": "5764ad68fe12cf9e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "05:00",
+      "group": "大盘头条",
+      "title": "Microsoft beats Q4 expectations, as Azure revenue tops $100 billion",
+      "summary": "微软FY26Q4财报全面超预期：EPS $4.74（vs预期$4.33），营收$900亿（vs $893亿）。Azure同比+43%，全年首破1000亿美元。Microsoft 365 Copilot付费席位突破3000万，AI变现提速。股价盘后涨约9%。",
+      "why": "AI大模型落地企业端加速，企业AI付费席位突破对赛道估值逻辑有正面印证；Azure超增验证云+AI双轮驱动，利好整个科技赛道，亦对腾讯云、阿里云等竞品提供对标参考。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "微软",
+        "Microsoft",
+        "MSFT",
+        "Azure",
+        "Copilot",
+        "AI",
+        "云计算",
+        "财报"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
       "published_date": "2026-07-29",
       "still_developing": false,
       "first_seen": "2026-07-30",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "ced5406d18934139",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Bloomberg: China state-backed group begins mass production of DUV lithography tools, ASML drops ~8%",
-      "summary": "Bloomberg reported July 28 that a Shanghai state-backed consortium (Shanghai Yuliangsheng / SiCarrier / Huawei) began mass-producing immersion DUV lithography machines, targeting ~5 deliveries in 2026 and ~20 in 2027 to SMIC, Hua Hong Semiconductor and CXMT. ASML shares tumbled as much as 8% on the news. CNBC analysts noted actual impact on ASML would depend on tool performance and production scaling, both still unproven.",
-      "why": "中国DUV光刻机量产突破报道是本轮全球芯片股大抛售的核心叙事触发因素之一；长期对英伟达（NVDA）、SK海力士、美光等在华竞争格局构成结构性压力；短期ASML等设备股隐含波动率急升，持相关Sell Put须留意行权价下行空间。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "ASML",
-        "DUV",
-        "光刻机",
-        "芯片",
-        "中国半导体",
-        "SiCarrier",
-        "英伟达",
-        "NVDA"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/china-duv-chipmaking-how-machine-advances-could-reduce-reliance-on-asml-nvidia",
-      "published_date": "2026-07-28",
-      "still_developing": false,
-      "first_seen": "2026-07-30",
-      "is_new": true
-    },
-    {
-      "id": "d15248f660e74bb5",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "SK hynix Q2 2026: record KRW 79.3T revenue (+257% YoY), 76% op margin — but misses consensus by ~5T, stock falls ~10%",
-      "summary": "SK hynix announced Q2 2026 revenue of KRW 79.32T (+257% YoY) and operating profit of KRW 60.54T (+557% YoY, 76% margin) — both all-time records and first-half cumulative revenue surpassed KRW 100T for the first time. However, results missed analyst consensus of ~KRW 84T revenue and ~KRW 64T operating profit (per LSEG SmartEstimates cited by CNBC). HBM4 mass production began in Q2; capex raised ~50% YoY, fueling supply-glut concerns. Shares fell ~10%.",
-      "why": "SK海力士（对应7709.HK南方两倍做多ETF）业绩虽创纪录但大幅不及预期，Capex上调50%引发存储供应过剩担忧，是本周芯片板块系统性抛售的核心基本面导火索；若持有7709.HK或相关Sell Put，需立即评估行权价安全边际。",
-      "source": "SK hynix Newsroom",
-      "verified": true,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "HBM",
-        "HBM4",
-        "存储芯片",
-        "7709.HK",
-        "DRAM",
-        "高带宽内存"
-      ],
-      "translated": false,
-      "url": "https://news.skhynix.com/en/q2-2026-business-results/",
-      "published_date": "2026-07-28",
-      "still_developing": false,
-      "first_seen": "2026-07-30",
-      "is_new": true
-    },
-    {
-      "id": "9f066b9ab2224781",
+      "id": "96ab990ad7da978a",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK"
+        "HK",
+        "US"
       ],
-      "time": "08:00",
+      "time": "09:00",
       "group": "个股",
-      "title": "老铺黄金（6181.HK）单日暴跌约24%：Q2单季业绩不及预期，高盛目标价由HK$650砍至HK$560",
-      "summary": "老铺黄金7月28日大幅下挫，收报HK$302.2（跌约23.76%），市值单日蒸发约167亿港元，创2025年1月以来新低。公司同时发布正面H1盈利预告（含税收入同比增约60-65%，净利约43亿元+增约83-85%），但Q2单季表现低于市场预期。高盛将目标价由HK$650下调至HK$560（维持买入），花旗由HK$659降至HK$507（维持买入），杰富瑞目标价HK$580。",
-      "why": "三重利空叠加（金价年内下跌约28%+Q2单季不及预期+投行集体降目标价）引发深度修正，股价较历史高点跌约71%；若持有6181.HK或对其Sell Put，需立即检视行权价设置，当前HK$302已大幅低于多数投行目标价，建议暂缓该标的新仓。",
+      "title": "营收突破56亿美元，经营利润大增50%！新东方2026财年成绩单出炉",
+      "summary": "新东方(EDU/09901.HK) FY26Q4营收15.3亿美元(+23% YoY)，净利润6220万美元(+775.8%)；FY26全年营收56.61亿美元(+15.5%)，净利润4.75亿美元(+27.8%)。FY27全年指引64.5-66.8亿美元(+14-18%)。港股今日涨超15%。",
+      "why": "业绩大幅超预期且利润爆发式增长（净利润+775.8%），教育新业务高速增长；FY27指引稳健确认增长可持续性；教育赛道政策出清完毕，情绪修复利好消费服务类港股估值重估。",
       "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "6181.HK",
-        "黄金",
-        "金价",
-        "高盛",
-        "目标价",
-        "古法金",
-        "珠宝"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.cn/stock/ssgs/2026-07-28/detail-inikkhki6331396.d.html",
-      "published_date": "2026-07-28",
-      "still_developing": false,
-      "first_seen": "2026-07-30",
-      "is_new": true
-    },
-    {
-      "id": "6c24496d7b99acea",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "China hits Trip.com with ~US$765M antitrust fine; TCOM/9961.HK shares rise as regulatory overhang clears",
-      "summary": "China's SAMR imposed an antitrust penalty of ~US$765M (approx. RMB 3.52B, ~7.5% of Trip.com's 2025 China revenue) for abusing dominant position in hotel bookings — restricting rival platforms and infringing hotels' pricing rights. Trip.com accepted the fine and committed to ending its delegated distribution programs. Bloomberg reported HK-listed shares rose as the long-running regulatory uncertainty cleared. SCMP independently confirmed the penalty figure.",
-      "why": "延续报道（距今3天，携程合规改造仍在推进）：监管靴子落地、股价逆势上涨是正面信号，对Sell Put策略有利（隐含波动率或回落）；长期需持续关注终止分销业务对携程酒店市场份额的影响，是否影响盈利预期。",
-      "source": "South China Morning Post",
       "verified": true,
       "keywords": [
-        "携程",
-        "Trip.com",
-        "TCOM",
-        "9961.HK",
-        "反垄断",
-        "SAMR",
-        "OTA",
-        "罚款"
+        "新东方",
+        "EDU",
+        "教育",
+        "财报",
+        "港股"
       ],
       "translated": false,
-      "url": "https://www.scmp.com/tech/policy/article/3361818/china-hits-tripcom-us765-million-antitrust-penalty-after-six-month-investigation",
-      "published_date": "2026-07-27",
-      "still_developing": true,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikqqhi5163281.shtml",
+      "published_date": "2026-07-30",
+      "still_developing": false,
       "first_seen": "2026-07-30",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "4d0d33b66bc1f3e4",
+      "id": "0201cc11493190b6",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "A股收评：创业板指跌3.97%，AI硬件持续回调，白酒股爆发",
+      "summary": "A股收盘：沪指涨0.62%报3804.69点，深证成指跌2.73%，创业板指跌3.97%。白酒股全线上涨，金徽酒、舍得酒业涨停；油气板块走强；AI硬件板块持续回调承压；银行股逆势上涨。",
+      "why": "AI硬件板块调整加剧，对科技相关仓位的A股替代标的有压制；白酒逆势上涨属资金切换防御，消费配置逻辑短期强化；整体市场风格轮动值得关注。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "创业板",
+        "AI硬件",
+        "白酒",
+        "市场综述"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-30/doc-inikqiym5214147.shtml",
+      "published_date": "2026-07-30",
+      "still_developing": false,
+      "first_seen": "2026-07-30",
+      "is_new": false
+    },
+    {
+      "id": "e6bf86c17f4aed19",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "08:00",
+      "time": "16:30",
       "group": "大盘头条",
-      "title": "中际旭创（3308.HK）港股上市首日破发收跌约4%：年内港股最大IPO遭遇开门黑",
-      "summary": "光模块龙头中际旭创7月30日登陆港交所，发行价HK$980，开盘HK$971（-0.92%）后续跌至约HK$938（-4.29%，截至盘中）。本次IPO募集约HK$534亿，为年内港股最大规模，亦为今年首家A+H两地上市的万亿市值公司。A股此前于7月28日（H股定价公告当日）已下跌约16%。",
-      "why": "年内最大港股IPO首日破发，反映当前市场对高估值科技硬件板块情绪偏谨慎；与现有持仓无直接关联，但对港股整体风险偏好及相关芯片、科技股估值有边际负面影响。",
+      "title": "港股收评：恒指涨0.2% 科指跌1.25% 教育股大涨 芯片股下挫 华虹宏力跌超8%",
+      "summary": "港股收盘：恒生指数微涨0.2%，恒生科技指数跌1.25%。教育股领涨，新东方(09901.HK)大涨超15%（FY26Q4财报驱动）；芯片、光通信板块下挫，华虹宏力跌超8%；中际旭创(03308.HK)上市首日跌逾13%。",
+      "why": "科技指数弱于大盘，反映AI叙事阶段性降温；教育股因新东方业绩利好带动整体板块；芯片板块随SK海力士不及预期回落；中际旭创首日破发需关注后续筹码消化压力。",
       "source": "新浪财经",
-      "verified": false,
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒指",
+        "科技指数",
+        "教育股",
+        "芯片",
+        "市场综述"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikqqhi5119020.shtml",
+      "published_date": "2026-07-30",
+      "still_developing": false,
+      "first_seen": "2026-07-30",
+      "is_new": false
+    },
+    {
+      "id": "cad59c19f478a848",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "中际旭创敲锣：港交所今年最大IPO来了",
+      "summary": "光模块龙头中际旭创(03308.HK)今日正式登陆港交所，发行价980港元，募资约534亿港元（今年港股最大IPO）。29家基石投资者包括腾讯、高瓴、淡马锡、贝莱德等。开盘市值超1.1万亿港元，首日收跌约13%。",
+      "why": "中际旭创为AI数据中心光互联核心标的，首日破发13%或释放新股筹码压力，但基石投资者阵容（含腾讯）体现长期产业认可；光通信板块情绪短期受压，需关注后续机构锁定期结束时间。",
+      "source": "新浪财经",
+      "verified": true,
       "keywords": [
         "中际旭创",
-        "3308.HK",
         "港股IPO",
         "光模块",
-        "破发",
-        "A+H"
+        "AI数据中心",
+        "腾讯"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/2026-07-30/doc-inikpxkp1204914.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikpxkt2040566.shtml",
       "published_date": "2026-07-30",
       "still_developing": false,
       "first_seen": "2026-07-30",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "4a7c19232f46d0e6",
-      "tier": 2,
-      "lang": "zh",
+      "id": "9638806a9d2eddb9",
+      "tier": 3,
+      "lang": "en",
       "markets": [
         "HK"
       ],
-      "time": "08:00",
+      "time": "07:00",
       "group": "个股",
-      "title": "小米澎程SkyNomad技术发布会今日举行：两款增程大SUV首亮相，8月中下旬正式上市",
-      "summary": "小米汽车今日（7月30日）举行澎程SkyNomad系列技术发布会，正式推出N90 Max（旗舰七座增程大SUV）和N70 Max（五座四驱增程SUV），搭载昆仑技术架构及1.5T增程器，WLTC纯电续航约270公里+。定价暂未公布，预计8月中下旬（成都车展前后）正式上市交付。",
-      "why": "小米第二汽车品牌澎程正式揭幕，定位中高端增程SUV（市场预估价约20-45万元），直接挑战理想L9、华为问界M9；对小米（1810.HK）汽车业务长期叙事构成重大里程碑，关注定价公布后市场订单反应及对1810.HK股价的拉动效应。",
-      "source": "36氪",
+      "title": "Brent oil jumps back above $90 after Trump threatens to hit Iran hard; gold near record",
+      "summary": "布伦特原油重回90美元/桶上方，WTI同步走强。国际金价涨至约4,080-4,100美元/盎司，Fed维持利率叠加中东冲突推升避险需求。黄金年内累计涨幅约24%。",
+      "why": "金价走强对老铺黄金(6181.HK)形成直接利好，古法金首饰定价与金价高度挂钩；持仓如有相关期权头寸可评估滚动卖call锁定利润；同时需警惕地缘事件降温后金价回落风险。注：金价具体数字来自非白名单信源，供参考。",
+      "source": "CNBC",
       "verified": false,
       "keywords": [
-        "小米",
-        "澎程",
-        "SkyNomad",
-        "1810.HK",
-        "增程SUV",
-        "雷军",
-        "小米汽车"
+        "黄金",
+        "金价",
+        "老铺黄金",
+        "布伦特",
+        "原油",
+        "避险"
       ],
       "translated": false,
-      "url": "https://36kr.com/p/3887648675133960",
-      "published_date": "2026-07-30",
-      "still_developing": false,
+      "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+      "published_date": "2026-07-29",
+      "still_developing": true,
       "first_seen": "2026-07-30",
-      "is_new": true
+      "is_new": false
     },
     {
       "tier": 1,
@@ -2709,6 +2905,163 @@
       "is_new": false
     },
     {
+      "id": "cdf6e574c22698aa",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "美股大幅下挫，韩国KOSPI史上首次二连熔断，7月月内累跌逾20%",
+      "summary": "美股7月29日大幅下跌，债市担忧美联储三票鹰派异议后通胀应对“落后于形势”，道指、标普、纳指均录得较大跌幅。韩国KOSPI7月29日再次触发熔断机制，史上首次连续两交易日熔断，7月月内累跌逾20%；三星、SK海力士各跌逾5%。日经225当日亦下跌约1.5%。",
+      "why": "全球风险情绪急剧转弱，美股与韩国市场双重下跌对持仓组合隐含波动率构成上行压力；Sell Put策略需重新审视近月行权价下行缓冲，芯片/科技仓位尤需警惕。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "美股",
+        "KOSPI",
+        "韩国",
+        "熔断",
+        "道指",
+        "纳指",
+        "日经"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-07-29",
+      "still_developing": false,
+      "first_seen": "2026-07-30",
+      "is_new": false
+    },
+    {
+      "id": "ced5406d18934139",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Bloomberg: China state-backed group begins mass production of DUV lithography tools, ASML drops ~8%",
+      "summary": "Bloomberg reported July 28 that a Shanghai state-backed consortium (Shanghai Yuliangsheng / SiCarrier / Huawei) began mass-producing immersion DUV lithography machines, targeting ~5 deliveries in 2026 and ~20 in 2027 to SMIC, Hua Hong Semiconductor and CXMT. ASML shares tumbled as much as 8% on the news. CNBC analysts noted actual impact on ASML would depend on tool performance and production scaling, both still unproven.",
+      "why": "中国DUV光刻机量产突破报道是本轮全球芯片股大抛售的核心叙事触发因素之一；长期对英伟达（NVDA）、SK海力士、美光等在华竞争格局构成结构性压力；短期ASML等设备股隐含波动率急升，持相关Sell Put须留意行权价下行空间。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "ASML",
+        "DUV",
+        "光刻机",
+        "芯片",
+        "中国半导体",
+        "SiCarrier",
+        "英伟达",
+        "NVDA"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/china-duv-chipmaking-how-machine-advances-could-reduce-reliance-on-asml-nvidia",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-30",
+      "is_new": false
+    },
+    {
+      "id": "d15248f660e74bb5",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "SK hynix Q2 2026: record KRW 79.3T revenue (+257% YoY), 76% op margin — but misses consensus by ~5T, stock falls ~10%",
+      "summary": "SK hynix announced Q2 2026 revenue of KRW 79.32T (+257% YoY) and operating profit of KRW 60.54T (+557% YoY, 76% margin) — both all-time records and first-half cumulative revenue surpassed KRW 100T for the first time. However, results missed analyst consensus of ~KRW 84T revenue and ~KRW 64T operating profit (per LSEG SmartEstimates cited by CNBC). HBM4 mass production began in Q2; capex raised ~50% YoY, fueling supply-glut concerns. Shares fell ~10%.",
+      "why": "SK海力士（对应7709.HK南方两倍做多ETF）业绩虽创纪录但大幅不及预期，Capex上调50%引发存储供应过剩担忧，是本周芯片板块系统性抛售的核心基本面导火索；若持有7709.HK或相关Sell Put，需立即评估行权价安全边际。",
+      "source": "SK hynix Newsroom",
+      "verified": true,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "HBM4",
+        "存储芯片",
+        "7709.HK",
+        "DRAM",
+        "高带宽内存"
+      ],
+      "translated": false,
+      "url": "https://news.skhynix.com/en/q2-2026-business-results/",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-30",
+      "is_new": false
+    },
+    {
+      "id": "9f066b9ab2224781",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "老铺黄金（6181.HK）单日暴跌约24%：Q2单季业绩不及预期，高盛目标价由HK$650砍至HK$560",
+      "summary": "老铺黄金7月28日大幅下挫，收报HK$302.2（跌约23.76%），市值单日蒸发约167亿港元，创2025年1月以来新低。公司同时发布正面H1盈利预告（含税收入同比增约60-65%，净利约43亿元+增约83-85%），但Q2单季表现低于市场预期。高盛将目标价由HK$650下调至HK$560（维持买入），花旗由HK$659降至HK$507（维持买入），杰富瑞目标价HK$580。",
+      "why": "三重利空叠加（金价年内下跌约28%+Q2单季不及预期+投行集体降目标价）引发深度修正，股价较历史高点跌约71%；若持有6181.HK或对其Sell Put，需立即检视行权价设置，当前HK$302已大幅低于多数投行目标价，建议暂缓该标的新仓。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "老铺黄金",
+        "6181.HK",
+        "黄金",
+        "金价",
+        "高盛",
+        "目标价",
+        "古法金",
+        "珠宝"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.cn/stock/ssgs/2026-07-28/detail-inikkhki6331396.d.html",
+      "published_date": "2026-07-28",
+      "still_developing": false,
+      "first_seen": "2026-07-30",
+      "is_new": false
+    },
+    {
+      "id": "6c24496d7b99acea",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "China hits Trip.com with ~US$765M antitrust fine; TCOM/9961.HK shares rise as regulatory overhang clears",
+      "summary": "China's SAMR imposed an antitrust penalty of ~US$765M (approx. RMB 3.52B, ~7.5% of Trip.com's 2025 China revenue) for abusing dominant position in hotel bookings — restricting rival platforms and infringing hotels' pricing rights. Trip.com accepted the fine and committed to ending its delegated distribution programs. Bloomberg reported HK-listed shares rose as the long-running regulatory uncertainty cleared. SCMP independently confirmed the penalty figure.",
+      "why": "延续报道（距今3天，携程合规改造仍在推进）：监管靴子落地、股价逆势上涨是正面信号，对Sell Put策略有利（隐含波动率或回落）；长期需持续关注终止分销业务对携程酒店市场份额的影响，是否影响盈利预期。",
+      "source": "South China Morning Post",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "9961.HK",
+        "反垄断",
+        "SAMR",
+        "OTA",
+        "罚款"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/tech/policy/article/3361818/china-hits-tripcom-us765-million-antitrust-penalty-after-six-month-investigation",
+      "published_date": "2026-07-27",
+      "still_developing": true,
+      "first_seen": "2026-07-30",
+      "is_new": false
+    },
+    {
       "id": "f02043c212a01995",
       "tier": 1,
       "lang": "zh",
@@ -2911,140 +3264,6 @@
       "still_developing": true,
       "first_seen": "2026-07-30",
       "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "证监会召开系列座谈会稳定A股市场预期，国有资本及机构投资者集结维稳",
-      "summary": "A股出现较大波动后，证监会召开系列座谈会稳定市场预期；两大国有资本运营公司、上市公司及机构投资者纷纷出手维稳。花旗、渣打、高盛同步看多中国股票。",
-      "why": "政策底信号明确，A股短期下行空间受限；若稳市力量持续入市，有利于A股相关持仓（好未来等）及降低sell put被行权概率。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "证监会",
-        "宏观",
-        "政策"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/cpbd/2026-07-23/doc-iniitvfn7776784.shtml",
-      "id": "a53a046c60a8644c",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Super Micro Discloses Record $60B AI Server Backlog; Gross Margin Guidance Doubles to 15-17%",
-      "summary": "Super Micro announced Q4 FY2026 received over $60B in new orders, pushing backlog to a record. Gross margin guidance raised to 15-17% from prior ~8.4% on favorable customer mix. Stock surged 22%+; Dell gained 9%, HPE +5% on AI server read-through.",
-      "why": "AI服务器需求景气确认，利好英伟达GPU供应链；大盘情绪指标，关注持仓NVDA期权行权价是否需要上移。",
-      "source": "Benzinga",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "GPU",
-        "AI芯片",
-        "数据中心",
-        "Blackwell"
-      ],
-      "translated": false,
-      "url": "https://www.benzinga.com/markets/tech/26/07/60600159/why-is-super-micro-computer-stock-soaring-wednesday",
-      "id": "6b49b6827063472a",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "中际旭创启动港股招股，拟募资约70亿美元，为年内港股最大IPO",
-      "summary": "光互连龙头中际旭创7月22日启动香港公开发售，最高发行价1,010港元，预计7月30日于港交所主板挂牌，募资规模约545亿港元（约70亿美元）。35%资金用于光互连研发，30%用于产能扩充，连续五年全球最大光互连解决方案提供商。",
-      "why": "港股年内最大IPO，AI光模块赛道估值标杆；上市首日可能引发资金再平衡，关注持仓港股科技板块联动。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "IPO",
-        "AI芯片",
-        "光模块"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-22/doc-iniirwqh8847735.shtml",
-      "id": "600ca9c765ba5515",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:30",
-      "group": "个股",
-      "title": "Circle Becomes First Licensed Stablecoin Bank After OCC Federal Trust Charter; CRCL +8%",
-      "summary": "Circle Internet Group received OCC approval to operate as a national trust bank, the first stablecoin issuer with a federal banking charter. USDC circulation grew 19% to $73.2B; Standard Chartered activated institutional minting and redemption. Stock gained 8%.",
-      "why": "监管里程碑消除Circle最大合规风险，联邦银行牌照构建竞争护城河；USDC流通量增长稳固收入基础，Circle仓位长期逻辑增强。",
-      "source": "Seeking Alpha",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "stablecoin",
-        "GENIUS Act",
-        "储备金"
-      ],
-      "translated": false,
-      "url": "https://seekingalpha.com/article/4921363-circle-just-became-the-only-licensed-stablecoin-bank-heres-why-that-matters-rating-upgrade",
-      "id": "97fe70e2a5b67eaa",
-      "is_new": false,
-      "first_seen": "2026-07-23"
-    },
-    {
-      "id": "6a496ec00c0f19c3",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "Investors shift focus to China's July Politburo meeting for stock-stimulus clues",
-      "summary": "China's late-July Politburo meeting is expected to set macro policy direction for H2 2026. Markets anticipate stronger easing language after a weak Q2, with emphasis on domestic demand, tech investment, and faster fiscal implementation — though no large immediate package.",
-      "why": "政治局会议为下半年政策定调，若释放更强宽松信号，对港股消费科技板块（腾讯、美团、泡泡玛特等持仓）有系统性提振；注意会议结果对sell put时机的影响。",
-      "source": "South China Morning Post",
-      "verified": false,
-      "keywords": [
-        "Politburo",
-        "政治局",
-        "stimulus",
-        "China macro",
-        "A股",
-        "港股"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/business/china-business/article/3361430/investors-shift-focus-chinas-july-politburo-meeting-stock-stimulus-clues",
-      "is_new": false,
-      "first_seen": "2026-07-23"
     },
     {
       "id": "c02cb1a2d8b8861d",
@@ -4221,184 +4440,6 @@
       "translated": false,
       "url": "https://finance.sina.com.cn/wm/2026-07-29/doc-iniknmif1609330.shtml",
       "published_date": "2026-07-29",
-      "still_developing": false,
-      "first_seen": "2026-07-29",
-      "is_new": false
-    },
-    {
-      "id": "9b619f15bd3a568c",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "18:30",
-      "group": "大盘头条",
-      "title": "长鑫科技获纳入MSCI中国全股票指数，8月10日生效，市值约3.14万亿元",
-      "summary": "MSCI宣布将长鑫科技（688825.SH）纳入MSCI中国全股票指数，8月10日生效。按最新市值，长鑫科技将成该指数市值第二大成份股，仅次于腾讯。",
-      "why": "MSCI纳入将带来被动资金流入，A股存储芯片板块情绪可能受提振；与SK海力士在港美市场的跌势形成对照，或反映市场对国产DRAM供应链的独立叙事机会。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "长鑫科技",
-        "MSCI",
-        "存储芯片",
-        "DRAM",
-        "A股指数",
-        "688825"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-07-28/doc-inikkhki6288872.shtml",
-      "published_date": "2026-07-28",
-      "still_developing": false,
-      "first_seen": "2026-07-29",
-      "is_new": false
-    },
-    {
-      "id": "6ec1a8a4f9fe90a5",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "小米澎程技术发布会定档7月30日，增程SUV N90/N70亮相；小米港股涨逾7%",
-      "summary": "小米创始人雷军官宣，小米首个增程电动车系列「澎程」技术发布会7月30日举行，搭载自研小米昆仑增程器，将推出大型七座旗舰N90及中型五座N70（N90估价超30万元、N70估价25万元以上），与理想、AITO直面竞争。消息带动小米集团（1810.HK）7月27日盘中涨逾7%。",
-      "why": "小米正式杀入增程SUV赛道，向高端/家庭市场延伸，是1810.HK品牌升级的里程碑；发布会（30日）前后存在短期催化效应；若新车定价超预期，可关注发布后sell put切入机会。",
-      "source": "界面新闻",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "小米汽车",
-        "澎程",
-        "增程",
-        "SUV"
-      ],
-      "translated": false,
-      "url": "https://www.jiemian.com/article/14830337.html",
-      "published_date": "2026-07-27",
-      "still_developing": false,
-      "first_seen": "2026-07-29",
-      "is_new": false
-    },
-    {
-      "id": "a198fe59fa87172a",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "光模块龙头中际旭创（300308.SZ）港股IPO定价980港元/股，募资约534亿港元，7月30日联交所主板上市",
-      "summary": "全球高速光互联模块领导厂商中际旭创（A股300308.SZ）完成港股全球发售，发行价980港元/股，募集资金约534亿港元，预计2026年7月30日（周三）在香港联交所主板正式挂牌交易。公司是800G/1.6T高速光模块的核心供应商，主要客户覆盖微软、谷歌、亚马逊、Meta等全球超大规模云厂商，其产品是AI数据中心光互联基础设施的关键组件。",
-      "why": "中际旭创港股上市验证AI数据中心资本开支链条延伸至光互联层；若港股上市首日表现强劲，可能带动A股300308联动上涨及光通信板块整体情绪改善；对持有MSFT/GOOGL/AMZN头寸的投资者，AI基础设施供应链企业IPO活跃是资本开支大周期持续性的侧面印证；7月30日挂牌是近期HK资本市场值得关注的流动性事件。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "中际旭创",
-        "300308",
-        "光模块",
-        "港股IPO",
-        "光互联",
-        "AI数据中心",
-        "HK IPO"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikfnpm0765462.shtml",
-      "published_date": "2026-07-27",
-      "still_developing": true,
-      "first_seen": "2026-07-29",
-      "is_new": false
-    },
-    {
-      "id": "d15bca9a6bd79acc",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:15",
-      "group": "大盘头条",
-      "title": "央行7月26日开展21000亿元7天逆回购操作，净投放约14540亿元，维护月末流动性平稳",
-      "summary": "中国人民银行7月26日以固定利率、数量招标方式开展21000亿元7天期逆回购操作，利率维持2.00%不变，当日到期6460亿元，净投放约14540亿元，为近期单日操作规模较大一次。本次大额注入旨在维护7月末银行间市场流动性平稳，应对季末及财政资金缴库的资金需求高峰。银行间隔夜利率（DR001）和7天加权利率（DR007）在此前几个交易日均有所走高，本次逆回购规模明显加码。",
-      "why": "央行大额净投放14540亿元释放宽松流动性信号，对A股短期资金面有正面支撑；银行间利率回落有助于压低股市波动率，对持有A股相关sell put仓位者（如腾讯、美团等港股期权策略参考A股情绪）是边际利好；若月末流动性恢复平稳，8月初开门红行情概率上升，需持续跟踪央行后续操作节奏。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "央行",
-        "PBoC",
-        "逆回购",
-        "货币政策",
-        "流动性",
-        "A股",
-        "银行间市场"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-26/doc-inikeetx0202294.shtml",
-      "published_date": "2026-07-26",
-      "still_developing": true,
-      "first_seen": "2026-07-29",
-      "is_new": false
-    },
-    {
-      "id": "cf371853e0982bfd",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "07:30",
-      "group": "个股",
-      "title": "小米集团(1810.HK)涨近9%，澎程增程SUV系列今晚正式发布，第二汽车品牌战略落地",
-      "summary": "小米今晚（7月30日晚7点）举办澎程技术发布会，发布澎程N70 Max（大五座四驱增程SUV）和澎程N90 Max（大七座旗舰增程SUV），搭载自研「昆仑技术架构」（含昆仑整车平台、昆仑超级增程、昆仑全域安全）。雷军7月29日公开回应增程路线：SU7/YU7走纯电主打\"驾驶者之车\"，澎程系列主打\"智能可变大空间\"，形成差异化双线布局，消息刺激股价盘中涨近9%。",
-      "why": "小米汽车产品线从纯电延伸至增程，打开更大市场空间；澎程系列若订单理想将进一步验证小米汽车商业化能力，利好小米(1810.HK)股价及持有sell put的安全边际；关注发布会实际定价及预订情况是否超预期。",
-      "source": "证券时报",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "小米汽车",
-        "增程",
-        "雷军"
-      ],
-      "translated": false,
-      "url": "https://www.stcn.com/article/detail/4047841.html",
-      "published_date": "2026-07-29",
-      "still_developing": true,
-      "first_seen": "2026-07-30",
-      "is_new": false
-    },
-    {
-      "id": "a94f626594e305c9",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "泡泡玛特城市乐园7月30日起涨价：暑期高峰日最高288元，配合LABUBU精灵部落新区全面开放",
-      "summary": "泡泡玛特官方宣布，自7月30日LABUBU精灵部落全面开放起同步提价：标准游乐票平日178元（此前148元），暑期高峰日238元，含嘉年华套票最高288元，全系涨幅30元。此为2026年第二次调价。",
-      "why": "乐园定价权提升是泡泡玛特从IP销售向沉浸式体验货币化的里程碑；新区开放+涨价为Q3乐园收入带来正面催化，关注泡泡玛特（9992.HK）H1财报窗口。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "9992.HK",
-        "LABUBU",
-        "主题乐园",
-        "潮玩"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-28/doc-inikkhkc0344210.shtml",
-      "published_date": "2026-07-28",
       "still_developing": false,
       "first_seen": "2026-07-29",
       "is_new": false
