@@ -8,298 +8,218 @@
       "HK",
       "A"
     ],
-    "time": "02:00",
+    "time": "",
     "group": "大盘头条",
-    "title": "Divided Fed holds interest rates steady, but three members voted to hike",
-    "summary": "美联储以9:3投票维持联邦基金利率3.5%-3.75%不变，三票鹰派异议为2016年以来首次在同一次决议中出现。CME FedWatch显示9月累计加息概率接近80%。",
-    "why": "全球宏观基准利率预期骤然上移，9月加息概率升至约80%；高利率预期压制成长股估值，同时推升隐含波动率；持有卖put头寸时需注意delta风险上升，可择机缩短到期期。",
+    "title": "Fed holds interest rates at 3.5%-3.75% in divided 9-3 vote; Dow sinks 1,153 pts as 30-year yield hits highest since 2007",
+    "summary": "美联储以9比3投票维持联邦基金利率于3.5%-3.75%不变，通胀仍高于2%目标5年有余；3位地区联储行长主张立即降息，Fed主席沃什称这是良性家庭争论。道指当日跌逾1153点，30年期国债收益率升至2007年以来新高。",
+    "why": "偏鹰格局延续，高利率对利率敏感型港股/美股估值构成持续压制；债市抛售带动无风险利率上行，对 sell put 安全垫厚度与行权价选择均有直接影响。延续报道：7月29日议息结果公布后市场仍在消化利率路径分歧。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
       "美联储",
-      "FOMC",
+      "Federal Reserve",
       "利率",
-      "加息",
-      "宏观"
+      "宏观",
+      "macro"
     ],
     "translated": false,
     "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
     "published_date": "2026-07-29",
+    "still_developing": true
+  },
+  {
+    "id": "f532de8fc63a3dd0",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "A"
+    ],
+    "time": "",
+    "group": "大盘头条",
+    "title": "中国7月制造业PMI意外跌至49.2%，2026年2月以来首次重返收缩区间",
+    "summary": "国家统计局公布7月制造业PMI为49.2%，低于6月50.3%及市场预期50.0%，意外跌破荣枯线；生产、新订单、外需三项指数全线回落，台风扰动及外需走弱为主因；综合PMI产出指数49.3%为新冠疫情结束以来最低。",
+    "why": "国内需求端不及预期，对港股/A股消费与科技标的宏观顺风有所削减，可能触发对增长敏感板块的再定价；但弱数据或强化政策宽松预期，对美团/携程/海底捞等内需标的影响偏中性。",
+    "source": "CNBC / 国家统计局",
+    "verified": true,
+    "keywords": [
+      "PMI",
+      "中国制造业",
+      "宏观",
+      "macro",
+      "中国经济"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
+    "published_date": "2026-07-31",
     "still_developing": false
   },
   {
-    "id": "263147f368cc2def",
+    "id": "dc76b11fad8afa33",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "",
+    "group": "大盘头条",
+    "title": "Amazon Q2 2026: revenue $200.6B (+20% YoY), AWS AI and chips each eclipse $25B run rate; stock surges ~13%",
+    "summary": "亚马逊Q2营收200.6亿美元（同比+20%），AWS增速加速至36.7%（年化营收1690亿美元，积压订单4960亿）；AI及芯片业务年化均突破250亿美元；EPS $5.75大超华尔街预期$1.82逾两倍；股价盘后涨约13%，带动7月31日纳指科技板块全面反弹。",
+    "why": "AWS AI基础设施需求第五个季度连续加速，印证AI资本开支超级周期不减；直接利好英伟达GPU需求及SK海力士HBM需求；科技板块情绪修复后对 covered call 时机布局有参考价值。",
+    "source": "CNBC / Amazon IR",
+    "verified": true,
+    "keywords": [
+      "Amazon",
+      "AMZN",
+      "AWS",
+      "AI",
+      "科技",
+      "美股"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+    "published_date": "2026-07-30",
+    "still_developing": false
+  },
+  {
+    "id": "9698e2a2142a0a4f",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US",
-      "HK",
-      "A"
-    ],
-    "time": "06:00",
-    "group": "大盘头条",
-    "title": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
-    "summary": "美军对伊朗发动大规模空袭（历时两小时，打击数十个伊斯兰革命卫队目标），布伦特原油涨至约92美元/桶，伊朗扬言报复，中东风险溢价骤升，金价同步上行至约4,080美元/盎司。",
-    "why": "地缘冲突升级叠加Fed按兵不动：原油走强推升通胀预期，进一步强化9月加息逻辑；金价上行利好老铺黄金(6181.HK)；整体市场避险情绪推高波动率，卖put需适当收窄delta敞口。",
-    "source": "CNBC",
-    "verified": true,
-    "keywords": [
-      "伊朗",
-      "中东",
-      "原油",
-      "布伦特",
-      "地缘风险",
-      "黄金",
-      "老铺黄金"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
-    "published_date": "2026-07-30",
-    "still_developing": true
-  },
-  {
-    "id": "5764ad68fe12cf9e",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "05:00",
-    "group": "大盘头条",
-    "title": "Microsoft beats Q4 expectations, as Azure revenue tops $100 billion",
-    "summary": "微软FY26Q4财报全面超预期：EPS $4.74（vs预期$4.33），营收$900亿（vs $893亿）。Azure同比+43%，全年首破1000亿美元。Microsoft 365 Copilot付费席位突破3000万，AI变现提速。股价盘后涨约9%。",
-    "why": "AI大模型落地企业端加速，企业AI付费席位突破对赛道估值逻辑有正面印证；Azure超增验证云+AI双轮驱动，利好整个科技赛道，亦对腾讯云、阿里云等竞品提供对标参考。",
-    "source": "CNBC",
-    "verified": true,
-    "keywords": [
-      "微软",
-      "Microsoft",
-      "MSFT",
-      "Azure",
-      "Copilot",
-      "AI",
-      "云计算",
-      "财报"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
-    "published_date": "2026-07-29",
-    "still_developing": false
-  },
-  {
-    "id": "cdf6e574c22698aa",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US"
-    ],
-    "time": "05:30",
-    "group": "大盘头条",
-    "title": "Meta Q2 2026财报：营收$608亿(+28%)，净利润降14%至$158亿，AI资本开支再度上调，盘后跌6.2%",
-    "summary": "Meta Q2营收608亿美元同比+28%略超预期，但净利润同比-14%至158亿美元（低于市场预期188亿），总支出+55%至420亿美元（含24亿法律和解费+11.8亿裁员费），全年资本开支指引上调至1300-1450亿美元（25年实际支出722亿），运营利润率从43%跌至31%，股价盘后跌约6.2%。",
-    "why": "AI重投入挤压利润，投资者对AI商业化回报的担忧加剧；作为与腾讯/谷歌广告业务的对标，Meta毛利率压缩对赛道估值有压制效应，同时推高板块隐含波动率，短期covered call机会上升。",
-    "source": "Bloomberg",
-    "verified": false,
-    "keywords": [
-      "Meta",
-      "META",
-      "AI",
-      "资本开支",
-      "财报",
-      "广告"
-    ],
-    "translated": true,
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/stock-market-today-dow-s-p-live-updates",
-    "published_date": "2026-07-29",
-    "still_developing": false
-  },
-  {
-    "id": "000bb588da314576",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
       "HK"
     ],
-    "time": "04:00",
+    "time": "",
     "group": "大盘头条",
-    "title": "SK hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-    "summary": "SK海力士Q2 2026：营收79.3万亿韩元(+257% YoY)，营业利润60.5万亿韩元(+557% YoY)，营业利润率76.3%，双双创历史纪录，HBM4良品率已接近HBM3E水平，HBM4E样品已发出。但均未达分析师预期（预期营收84万亿，营业利润64万亿），股价跌9.6%。",
-    "why": "HBM4良率提升是AI存储赛道核心验证指标；业绩虽创历史高但未达华尔街极高预期引发回调，南方两倍做多SK海力士ETF(7709.HK/CSOP)短期波动加剧，持仓需关注。",
+    "title": "Memory stocks blast off: SanDisk +26%, Micron +18%, SK Hynix +17%; Samsung warns chip shortage extends to 2028",
+    "summary": "三星Q2半导体利润同比暴增约1300%（收入1715万亿韩元，+130% YoY），并警告内存供应短缺将在2027年更趋严峻并延续至2028年；存储板块集体暴涨，SanDisk涨26%、Micron涨18%、SK海力士涨17%，Lam Research涨17%，芯片ETF SOXX单日涨超8%。",
+    "why": "美光/闪迪/SK海力士持仓处于量价双升甜蜜点；三星延伸至2028年的短缺预警强化中期利好逻辑，支持继续持有或在回调时卖 put 布局。",
     "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "Micron",
+      "MU",
+      "SanDisk",
+      "SNDK",
+      "SK海力士",
+      "SK Hynix",
+      "HBM",
+      "存储芯片",
+      "Samsung"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
+    "published_date": "2026-07-30",
+    "still_developing": false
+  },
+  {
+    "id": "d15248f660e74bb5",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "",
+    "group": "个股",
+    "title": "SK hynix Q2 2026: KRW79.3T revenue (+257% YoY), 76% op margin, HBM4 enters mass production; shares drop 9.6% on slight miss",
+    "summary": "SK海力士Q2营收79.32万亿韩元（同比+257%），运营利润60.54万亿（同比+557%），利润率76%，均创历史纪录；HBM4已进入量产并达到接近HBM3E良率水平，签署约10份多年供应协议；因部分HBM4营收确认延迟致略低于市场预期（预期84万亿），股价当日跌9.6%；公司预告下半年业绩将进一步加速。",
+    "why": "持仓SK海力士相关标的（含CSOP南方两倍做多）短期受预期差拖累；但HBM4量产验证与良率提升是中长期确定性信号，下半年指引积极，可评估低点建仓或卖 put 机会。延续报道：业绩于7月29日公布，后续HBM4营收确认进度仍需跟踪。",
+    "source": "SK hynix Newsroom (IR)",
     "verified": true,
     "keywords": [
       "SK海力士",
       "SK Hynix",
-      "HBM",
       "HBM4",
+      "HBM",
       "存储芯片",
-      "AI芯片",
-      "财报"
+      "DRAM",
+      "高带宽内存"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+    "url": "https://news.skhynix.com/en/q2-2026-business-results/",
     "published_date": "2026-07-29",
-    "still_developing": false
+    "still_developing": true
   },
   {
-    "id": "0201cc11493190b6",
+    "id": "f5d5b100ce4fd610",
     "tier": 2,
     "lang": "zh",
     "markets": [
       "A"
     ],
-    "time": "16:00",
+    "time": "",
     "group": "大盘头条",
-    "title": "A股收评：创业板指跌3.97%，AI硬件持续回调，白酒股爆发",
-    "summary": "A股收盘：沪指涨0.62%报3804.69点，深证成指跌2.73%，创业板指跌3.97%。白酒股全线上涨，金徽酒、舍得酒业涨停；油气板块走强；AI硬件板块持续回调承压；银行股逆势上涨。",
-    "why": "AI硬件板块调整加剧，对科技相关仓位的A股替代标的有压制；白酒逆势上涨属资金切换防御，消费配置逻辑短期强化；整体市场风格轮动值得关注。",
+    "title": "A股\"人形机器人第一股\"宇树科技科创板申购日定为8月10日，预计H1营收逾10亿元",
+    "summary": "宇树科技（Unitree Robotics）获证监会批准于科创板上市，拟发行4044万股（占发后总股本10%），初步询价日8月5日，网上网下申购日8月10日；预计H1营收10.52亿-11.28亿元，净利2.58亿-3.06亿元；上市消息带动机器人概念股多只涨停。",
+    "why": "人形机器人/具身智能赛道里程碑事件，A股机器人主题情绪强烈；与腾讯云、阿里云AI基础设施需求间接联动，反映A股科技成长主线仍高度活跃。",
     "source": "新浪财经",
     "verified": true,
     "keywords": [
+      "宇树科技",
+      "人形机器人",
+      "具身智能",
+      "科创板",
+      "IPO",
+      "A股"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/newstock/2026-07-31/doc-iniksxpi1282926.shtml",
+    "published_date": "2026-07-31",
+    "still_developing": false
+  },
+  {
+    "id": "c7e4e3795fe675f0",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "",
+    "group": "大盘头条",
+    "title": "MiniMax H3全模态生成模型发布，A股AI应用板块逾4500股飘红、多股20cm涨停",
+    "summary": "MiniMax于7月31日发布H3全模态生成模型，可统一处理文本/图像/视频/音频，最高支持15秒2K分辨率输出；在模型发布及工信部AI规划双重催化下，A股AI应用方向全面大涨，逾4500只个股飘红，多股以20%涨停封板。",
+    "why": "A股AI应用主题持续高景气，短期动量强劲；对布局腾讯/阿里/美团等互联网AI应用层的港股标的有间接情绪提振；同时AI模型竞争加剧，持续利好AI基础设施层（英伟达、SK海力士）需求。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "MiniMax",
+      "AI",
+      "人工智能",
       "A股",
-      "创业板",
-      "AI硬件",
-      "白酒",
-      "市场综述"
+      "科技",
+      "大模型"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-30/doc-inikqiym5214147.shtml",
-    "published_date": "2026-07-30",
+    "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-31/doc-iniksnxp1305141.shtml",
+    "published_date": "2026-07-31",
     "still_developing": false
   },
   {
-    "id": "e6bf86c17f4aed19",
+    "id": "dab222b0f6db7812",
     "tier": 2,
     "lang": "zh",
     "markets": [
       "HK"
     ],
-    "time": "16:30",
-    "group": "大盘头条",
-    "title": "港股收评：恒指涨0.2% 科指跌1.25% 教育股大涨 芯片股下挫 华虹宏力跌超8%",
-    "summary": "港股收盘：恒生指数微涨0.2%，恒生科技指数跌1.25%。教育股领涨，新东方(09901.HK)大涨超15%（FY26Q4财报驱动）；芯片、光通信板块下挫，华虹宏力跌超8%；中际旭创(03308.HK)上市首日跌逾13%。",
-    "why": "科技指数弱于大盘，反映AI叙事阶段性降温；教育股因新东方业绩利好带动整体板块；芯片板块随SK海力士不及预期回落；中际旭创首日破发需关注后续筹码消化压力。",
+    "time": "",
+    "group": "个股",
+    "title": "泡泡玛特城市乐园7月30日起暑期票价上调最高达288元；Labubu精灵部落新区同步全面开放",
+    "summary": "泡泡玛特城市乐园自7月30日起实施暑期高峰票价，最高游乐套票涨至288元（较前期上调约30元）；同步开放Labubu精灵部落新主题区，7只LABUBU角色首次同台亮相；乐园二期扩建计划2027年启动。",
+    "why": "票价提升验证乐园定价权，暑期旺季叠加新IP区域开放对9992.HK消费端盈利改善有正面信号；LABUBU IP暑假热度维持高位，可结合期权波动率变化评估持仓是否已完全定价该里程碑。延续报道：7月29日前瞻文章，7月30日起正式执行，暑期效应持续发酵中。",
     "source": "新浪财经",
     "verified": true,
     "keywords": [
-      "港股",
-      "恒指",
-      "科技指数",
-      "教育股",
-      "芯片",
-      "市场综述"
+      "泡泡玛特",
+      "Pop Mart",
+      "POPMART",
+      "Labubu",
+      "9992.HK",
+      "城市乐园",
+      "潮玩"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikqqhi5119020.shtml",
-    "published_date": "2026-07-30",
-    "still_developing": false
-  },
-  {
-    "id": "96ab990ad7da978a",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "HK",
-      "US"
-    ],
-    "time": "09:00",
-    "group": "个股",
-    "title": "营收突破56亿美元，经营利润大增50%！新东方2026财年成绩单出炉",
-    "summary": "新东方(EDU/09901.HK) FY26Q4营收15.3亿美元(+23% YoY)，净利润6220万美元(+775.8%)；FY26全年营收56.61亿美元(+15.5%)，净利润4.75亿美元(+27.8%)。FY27全年指引64.5-66.8亿美元(+14-18%)。港股今日涨超15%。",
-    "why": "业绩大幅超预期且利润爆发式增长（净利润+775.8%），教育新业务高速增长；FY27指引稳健确认增长可持续性；教育赛道政策出清完毕，情绪修复利好消费服务类港股估值重估。",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "新东方",
-      "EDU",
-      "教育",
-      "财报",
-      "港股"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikqqhi5163281.shtml",
-    "published_date": "2026-07-30",
-    "still_developing": false
-  },
-  {
-    "id": "cad59c19f478a848",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "09:30",
-    "group": "个股",
-    "title": "中际旭创敲锣：港交所今年最大IPO来了",
-    "summary": "光模块龙头中际旭创(03308.HK)今日正式登陆港交所，发行价980港元，募资约534亿港元（今年港股最大IPO）。29家基石投资者包括腾讯、高瓴、淡马锡、贝莱德等。开盘市值超1.1万亿港元，首日收跌约13%。",
-    "why": "中际旭创为AI数据中心光互联核心标的，首日破发13%或释放新股筹码压力，但基石投资者阵容（含腾讯）体现长期产业认可；光通信板块情绪短期受压，需关注后续机构锁定期结束时间。",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "中际旭创",
-      "港股IPO",
-      "光模块",
-      "AI数据中心",
-      "腾讯"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/tech/roll/2026-07-30/doc-inikpxkt2040566.shtml",
-    "published_date": "2026-07-30",
-    "still_developing": false
-  },
-  {
-    "id": "cf371853e0982bfd",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "10:00",
-    "group": "个股",
-    "title": "小米集团涨近9%，明晚将发布新车：澎程N90/N70增程SUV技术发布会",
-    "summary": "小米(1810.HK)今晚7点举办澎程系列技术发布会，N90 Max（大七座增程SUV）与N70 Max（大五座四驱增程SUV）首次亮相，搭载昆仑技术架构+76kWh电池包+CLTC纯电续航505km，瞄准20-40万元家用SUV市场。正式定价与发售将于8月中下旬。",
-    "why": "延续报道：技术发布会于2026-07-30今晚7点正式举行，填补小米汽车产品线SUV空白。小米从纯电轿车向增程SUV扩线直接进入理想/华为的腹地，若定价20-40万区间竞争将白热化；短期发布催化股价，期权卖方可关注波动率博弈机会。",
-    "source": "证券时报",
-    "verified": true,
-    "keywords": [
-      "小米",
-      "Xiaomi",
-      "1810.HK",
-      "小米汽车",
-      "澎程",
-      "N90",
-      "N70",
-      "增程"
-    ],
-    "translated": false,
-    "url": "https://www.stcn.com/article/detail/4047841.html",
-    "published_date": "2026-07-29",
-    "still_developing": true
-  },
-  {
-    "id": "9638806a9d2eddb9",
-    "tier": 3,
-    "lang": "en",
-    "markets": [
-      "HK"
-    ],
-    "time": "07:00",
-    "group": "个股",
-    "title": "Brent oil jumps back above $90 after Trump threatens to hit Iran hard; gold near record",
-    "summary": "布伦特原油重回90美元/桶上方，WTI同步走强。国际金价涨至约4,080-4,100美元/盎司，Fed维持利率叠加中东冲突推升避险需求。黄金年内累计涨幅约24%。",
-    "why": "金价走强对老铺黄金(6181.HK)形成直接利好，古法金首饰定价与金价高度挂钩；持仓如有相关期权头寸可评估滚动卖call锁定利润；同时需警惕地缘事件降温后金价回落风险。注：金价具体数字来自非白名单信源，供参考。",
-    "source": "CNBC",
-    "verified": false,
-    "keywords": [
-      "黄金",
-      "金价",
-      "老铺黄金",
-      "布伦特",
-      "原油",
-      "避险"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-29/doc-inikmumm0017251.shtml",
     "published_date": "2026-07-29",
     "still_developing": true
   }
