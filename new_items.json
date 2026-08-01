@@ -1,61 +1,31 @@
 [
   {
-    "id": "f02043c212a01995",
+    "id": "000bb588da314576",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US",
-      "HK",
-      "A"
+      "HK"
     ],
-    "time": "02:00",
+    "time": "04:00",
     "group": "大盘头条",
-    "title": "Divided Fed holds interest rates steady, but three members voted to hike",
-    "summary": "美联储以9:3投票维持联邦基金利率3.5%-3.75%不变，三票鹰派异议为2016年以来首次在同一次决议中出现。CME FedWatch显示9月累计加息概率接近80%。",
-    "why": "全球宏观基准利率预期骤然上移，9月加息概率升至约80%；高利率预期压制成长股估值，同时推升隐含波动率；持有卖put头寸时需注意delta风险上升，可择机缩短到期期。",
+    "title": "SK hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+    "summary": "SK海力士Q2 2026：营收79.3万亿韩元(+257% YoY)，营业利润60.5万亿韩元(+557% YoY)，营业利润率76.3%，双双创历史纪录，HBM4良品率已接近HBM3E水平，HBM4E样品已发出。但均未达分析师预期（预期营收84万亿，营业利润64万亿），股价跌9.6%。",
+    "why": "HBM4良率提升是AI存储赛道核心验证指标；业绩虽创历史高但未达华尔街极高预期引发回调，南方两倍做多SK海力士ETF(7709.HK/CSOP)短期波动加剧，持仓需关注。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
-      "美联储",
-      "FOMC",
-      "利率",
-      "加息",
-      "宏观"
+      "SK海力士",
+      "SK Hynix",
+      "HBM",
+      "HBM4",
+      "存储芯片",
+      "AI芯片",
+      "财报"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
+    "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
     "published_date": "2026-07-29",
     "still_developing": false
-  },
-  {
-    "id": "263147f368cc2def",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US",
-      "HK",
-      "A"
-    ],
-    "time": "06:00",
-    "group": "大盘头条",
-    "title": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
-    "summary": "美军对伊朗发动大规模空袭（历时两小时，打击数十个伊斯兰革命卫队目标），布伦特原油涨至约92美元/桶，伊朗扬言报复，中东风险溢价骤升，金价同步上行至约4,080美元/盎司。",
-    "why": "地缘冲突升级叠加Fed按兵不动：原油走强推升通胀预期，进一步强化9月加息逻辑；金价上行利好老铺黄金(6181.HK)；整体市场避险情绪推高波动率，卖put需适当收窄delta敞口。",
-    "source": "CNBC",
-    "verified": true,
-    "keywords": [
-      "伊朗",
-      "中东",
-      "原油",
-      "布伦特",
-      "地缘风险",
-      "黄金",
-      "老铺黄金"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
-    "published_date": "2026-07-30",
-    "still_developing": true
   },
   {
     "id": "5764ad68fe12cf9e",
@@ -114,32 +84,145 @@
     "still_developing": false
   },
   {
-    "id": "000bb588da314576",
+    "id": "263147f368cc2def",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "HK"
+      "US",
+      "HK",
+      "A"
     ],
-    "time": "04:00",
+    "time": "06:00",
     "group": "大盘头条",
-    "title": "SK hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-    "summary": "SK海力士Q2 2026：营收79.3万亿韩元(+257% YoY)，营业利润60.5万亿韩元(+557% YoY)，营业利润率76.3%，双双创历史纪录，HBM4良品率已接近HBM3E水平，HBM4E样品已发出。但均未达分析师预期（预期营收84万亿，营业利润64万亿），股价跌9.6%。",
-    "why": "HBM4良率提升是AI存储赛道核心验证指标；业绩虽创历史高但未达华尔街极高预期引发回调，南方两倍做多SK海力士ETF(7709.HK/CSOP)短期波动加剧，持仓需关注。",
+    "title": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
+    "summary": "美军对伊朗发动大规模空袭（历时两小时，打击数十个伊斯兰革命卫队目标），布伦特原油涨至约92美元/桶，伊朗扬言报复，中东风险溢价骤升，金价同步上行至约4,080美元/盎司。",
+    "why": "地缘冲突升级叠加Fed按兵不动：原油走强推升通胀预期，进一步强化9月加息逻辑；金价上行利好老铺黄金(6181.HK)；整体市场避险情绪推高波动率，卖put需适当收窄delta敞口。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
-      "SK海力士",
-      "SK Hynix",
-      "HBM",
-      "HBM4",
-      "存储芯片",
-      "AI芯片",
-      "财报"
+      "伊朗",
+      "中东",
+      "原油",
+      "布伦特",
+      "地缘风险",
+      "黄金",
+      "老铺黄金"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-    "published_date": "2026-07-29",
+    "url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
+    "published_date": "2026-07-30",
+    "still_developing": true
+  },
+  {
+    "id": "7fd7ea0e1b70278d",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "A",
+      "US"
+    ],
+    "time": "07:00",
+    "group": "大盘头条",
+    "title": "中国7月制造业PMI意外跌至49.2%，时隔5个月重返收缩区；三大官方PMI全线低于50",
+    "summary": "国家统计局7月31日公布，7月制造业PMI为49.2%，较6月骤降1.1个百分点，为2月以来首次跌破荣枯线，低于市场预期的50.1。新订单指数降至48.5%（2023年以来最低），外需亦重陷收缩（49.0%）。非制造业PMI同步回落至49.0%，三大官方PMI全部低于50。国家统计局解读称受季节性淡季和高基数影响，台风扰动也波及部分行业；设备制造业（51.4%）和高技术制造业（53.3%）仍保持扩张。",
+    "why": "三大PMI全线收缩是2026年以来最弱宏观读数，内需疲软对港股消费与互联网板块（腾讯、美团、阿里）构成估值压力；若7月弱势延续，政策刺激预期有望升温，短期波动对持仓sell put策略的行权价选择需谨慎。",
+    "source": "Bloomberg / 国家统计局",
+    "verified": true,
+    "keywords": [
+      "中国",
+      "PMI",
+      "制造业",
+      "宏观",
+      "经济",
+      "macro"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-07-31/china-factory-activity-surprises-with-first-slump-in-five-months",
+    "published_date": "2026-07-31",
     "still_developing": false
+  },
+  {
+    "id": "f02043c212a01995",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "07:10",
+    "group": "大盘头条",
+    "title": "Fed holds rates at 3.5–3.75% in divided 9-3 vote; three dissenters want 25bps hike — first triple hawkish dissent since 2016",
+    "summary": "The FOMC voted 9-3 on July 29 to keep the federal funds rate unchanged at 3.5%–3.75%. Cleveland Fed's Hammack, Minneapolis' Kashkari, and Dallas' Logan all dissented in favor of a 25bps hike — the first time three officials unified in a hawkish dissent since September 2016. Fed Chair Warsh declined to provide forward guidance. Inflation has remained above the 2% target for over five years, partly driven by tariff impacts and energy costs from the Iran conflict.",
+    "why": "9-3分裂投票反映美联储内部对通胀路径的严重分歧，市场担忧9月或更早加息，对成长股估值和卖put策略均有影响——若加息预期升温，卖出put可聚焦高IV机会，但需警惕整体仓位承压。",
+    "source": "CNBC / Federal Reserve",
+    "verified": true,
+    "keywords": [
+      "Federal Reserve",
+      "FOMC",
+      "interest rate",
+      "inflation",
+      "宏观",
+      "macro"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
+    "published_date": "2026-07-29",
+    "still_developing": true
+  },
+  {
+    "id": "8f7983bf5fd1fab6",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "07:20",
+    "group": "大盘头条",
+    "title": "港股7月强势收官：恒生指数单月大涨13%领涨全球，月末报25884点",
+    "summary": "7月31日港股三大指数涨跌不一，恒指微涨0.1%收报25884.43点，科指涨0.53%，国企指数跌0.38%。7月全月：恒指累涨逾13%、科指涨超7%、国企指数涨超13%，全面领涨全球主要市场。存储芯片ETF（南方两倍做多海力士）月内暴涨逾67%；联想月涨超9%；小米7月31日大跌超7%（SkyNomad定价受压）；五大行集体回调。南向资金连续7个交易日净卖出港股逾4亿港元/日。",
+    "why": "港股7月强劲反弹显示机构对中国互联网/消费的重估；但南向连续净卖出是短期警示信号，7月PMI全面收缩后8月初可能出现震荡整理，对持仓的covered call管理窗口打开。",
+    "source": "新浪财经 / 证券时报",
+    "verified": true,
+    "keywords": [
+      "恒生指数",
+      "港股",
+      "月度表现",
+      "HK",
+      "科技股"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikstfm1313976.shtml",
+    "published_date": "2026-07-31",
+    "still_developing": false
+  },
+  {
+    "id": "79fd05badac01911",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "07:30",
+    "group": "大盘头条",
+    "title": "US bans foreign-made humanoid robots targeting China; Beijing threatens retaliation, calls move a 'severe damage' to relations",
+    "summary": "The FCC added foreign-produced advanced robotic devices to its Covered List on July 29, effectively banning new Chinese humanoid robots from US import/sale. Chinese firms Unitree and AGIBOT each shipped 5,000+ humanoid robots globally in 2025, vs. a few hundred each for US rivals Tesla and Figure AI. China's Foreign Ministry condemned the move as 'severely damaging' bilateral relations and threatened countermeasures. The ban affects Xiaomi-linked supply chains and Tesla's Optimus robot program.",
+    "why": "美国机器人禁令是继芯片管制后对华科技脱钩的重大延伸，直接影响特斯拉Optimus人形机器人的供应链；对谷歌DeepMind/英伟达机器人AI生态亦有战略含义；中美科技摩擦加剧将持续影响港股科技板块估值及期权隐含波动率。",
+    "source": "CNBC / CNN Business / PBS News",
+    "verified": true,
+    "keywords": [
+      "humanoid robot",
+      "US-China",
+      "FCC",
+      "Tesla Optimus",
+      "科技战",
+      "geopolitics"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+    "published_date": "2026-07-30",
+    "still_developing": true
   },
   {
     "id": "0201cc11493190b6",
@@ -193,6 +276,122 @@
     "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikqqhi5119020.shtml",
     "published_date": "2026-07-30",
     "still_developing": false
+  },
+  {
+    "id": "d15248f660e74bb5",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "08:00",
+    "group": "个股",
+    "title": "SK hynix Q2 2026: Revenue surges 257% YoY to record KRW 79.3T; HBM4 enters mass shipments; operating margin hits all-time high 76.3%",
+    "summary": "SK hynix reported Q2 2026 revenue of KRW 79.32 trillion (+257% YoY, +51% QoQ) and operating profit of KRW 60.54 trillion (+557% YoY), both all-time highs. Operating margin reached a record 76.3%. HBM4 began mass shipments in Q2. The company secured ~10 multi-year customer agreements for demand visibility. Q3 DRAM shipments guided up ~10% QoQ; 2026 capex to reach high-KRW 40 trillion range. Revenue slightly missed analyst estimates of ~KRW 84 trillion.",
+    "why": "SK海力士Q2业绩直接确认HBM超级周期加速：HBM4量产启动意味着AI存储芯片需求可见度大幅提升，对持仓南方两倍做多海力士ETF（7709.HK）是强力验证；同时为英伟达Blackwell/Rubin芯片需求提供侧证，sell put机会在8月若有回撤时值得积极捕捉。",
+    "source": "SK hynix Newsroom / PR Newswire",
+    "verified": true,
+    "keywords": [
+      "SK海力士",
+      "SK Hynix",
+      "HBM4",
+      "HBM",
+      "存储芯片",
+      "AI",
+      "000660",
+      "7709.HK"
+    ],
+    "translated": false,
+    "url": "https://news.skhynix.com/en/q2-2026-business-results/",
+    "published_date": "2026-07-29",
+    "still_developing": true
+  },
+  {
+    "id": "36cb4a868273f7bd",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "08:30",
+    "group": "个股",
+    "title": "Tesla China spinoff storm: WSJ reports executives told to prepare China exit ahead of SpaceX merger; Musk calls it 'absurdly fake news'",
+    "summary": "The WSJ reported July 30 that Tesla executives have been told to prepare for a separation of China business (spinoff, sale or closure) to clear regulatory hurdles for a potential SpaceX merger. Shanghai factory builds more than half of all Tesla vehicles and exported 228,000+ units in H1 2026. Musk denied the report: 'This has never even come up in a discussion ever.' Tesla shares rose over 3.5% on the denial. Bloomberg noted a China exit would benefit Musk personally more than investors.",
+    "why": "特斯拉中国业务占全球产量超50%，分拆传言触发的剧烈波动显示市场对TSLA高度不确定；持仓的卖put策略需密切跟踪SpaceX合并进展，这是TSLA估值的重大潜在重构因素；相关波动也推高了TSLA期权隐含波动率，创造sell put机会。",
+    "source": "Bloomberg / Wall Street Journal",
+    "verified": true,
+    "keywords": [
+      "特斯拉",
+      "Tesla",
+      "TSLA",
+      "SpaceX",
+      "中国",
+      "分拆",
+      "马斯克",
+      "Musk"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-07-31/tesla-weighs-china-unit-sale-ahead-of-spacex-deal-wsj-says",
+    "published_date": "2026-07-31",
+    "still_developing": false
+  },
+  {
+    "id": "eef2c0bf5f9848f5",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "08:45",
+    "group": "个股",
+    "title": "Xiaomi launches SkyNomad N90/N70 Max EVs at 23% discount to Tesla Model Y; stock plunges ~7% on thin margin fears",
+    "summary": "Xiaomi CEO Lei Jun unveiled the SkyNomad N90 Max (7-seat EREV, CNY 299,900) and N70 Max (5-seat EREV, CNY 259,900) on July 30 — priced 23% below Tesla's equivalent Model Y L. Deliveries expected September; commercial launch at Chengdu Auto Show (Aug 21). Stock (1810.HK) fell ~6.9% to HK$28.90 on July 31 as investors questioned slim margins. Chinese auto market contracted 20% in H1 2026 with Xiaomi selling ~185,000 vehicles — roughly one-third of its annual target.",
+    "why": "小米激进定价打压同业但自损利润率，7月31日单日急跌7%反映市场对电车盈利前景的担忧；对持仓而言，小米股价回撤至合理区间，9月业绩发布前是关注sell put的窗口——需等待8月21日成都车展SkyNomad正式亮相后确认市场反应。",
+    "source": "South China Morning Post",
+    "verified": true,
+    "keywords": [
+      "小米",
+      "Xiaomi",
+      "1810.HK",
+      "SkyNomad",
+      "电动车",
+      "EV",
+      "雷军"
+    ],
+    "translated": false,
+    "url": "https://www.scmp.com/business/china-business/article/3362494/chinas-xiaomi-takes-aim-tesla-staking-23-lower-price-premium-suv",
+    "published_date": "2026-07-31",
+    "still_developing": false
+  },
+  {
+    "id": "a6926388d53f656c",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "NVIDIA sets August 26 earnings call for Q2 FY2027; street guides revenue ~$91B ±2%, data center expected >$80B",
+    "summary": "NVIDIA confirmed August 26, 2026 (2pm PT) as the date for its Q2 FY2027 earnings call (quarter ended July 26). Street consensus guides revenue at ~$91B ±2%, with data center expected to exceed $80B (vs. $75.2B in Q1). EPS consensus: $2.07–$2.09. NVDA rebounded ~3% on Microsoft's strong Q2 results reaffirming AI infrastructure spending. Full-year FY2026 revenue was $215.9B (+65% YoY).",
+    "why": "英伟达8月26日业绩将是本季AI资本支出验证的最终答卷，当日波动将显著影响整个AI/芯片板块。SK海力士Q2强劲侧证已提前验证AI需求不减；8月26日前可考虑在NVDA高位sell covered call，业绩后根据指引再决定是否继续持仓或利用高IV sell put。",
+    "source": "NVIDIA Newsroom / GlobeNewsWire",
+    "verified": true,
+    "keywords": [
+      "英伟达",
+      "Nvidia",
+      "NVDA",
+      "AI芯片",
+      "GPU",
+      "Blackwell",
+      "数据中心",
+      "黄仁勋"
+    ],
+    "translated": false,
+    "url": "https://www.globenewswire.com/news-release/2026/07/29/3335647/0/en/NVIDIA-Sets-Conference-Call-for-Second-Quarter-Financial-Results.html",
+    "published_date": "2026-07-29",
+    "still_developing": true
   },
   {
     "id": "96ab990ad7da978a",
