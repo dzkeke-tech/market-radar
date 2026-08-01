@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-01 13:27 (北京时间)",
+  "updated_at": "2026-08-01 18:22 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,153 +37,117 @@
   "positions": [],
   "items": [
     {
-      "id": "7fd7ea0e1b70278d",
+      "id": "f532de8fc63a3dd0",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "HK",
-        "A",
-        "US"
+        "A"
       ],
-      "time": "07:00",
+      "time": "",
       "group": "大盘头条",
-      "title": "中国7月制造业PMI意外跌至49.2%，时隔5个月重返收缩区；三大官方PMI全线低于50",
-      "summary": "国家统计局7月31日公布，7月制造业PMI为49.2%，较6月骤降1.1个百分点，为2月以来首次跌破荣枯线，低于市场预期的50.1。新订单指数降至48.5%（2023年以来最低），外需亦重陷收缩（49.0%）。非制造业PMI同步回落至49.0%，三大官方PMI全部低于50。国家统计局解读称受季节性淡季和高基数影响，台风扰动也波及部分行业；设备制造业（51.4%）和高技术制造业（53.3%）仍保持扩张。",
-      "why": "三大PMI全线收缩是2026年以来最弱宏观读数，内需疲软对港股消费与互联网板块（腾讯、美团、阿里）构成估值压力；若7月弱势延续，政策刺激预期有望升温，短期波动对持仓sell put策略的行权价选择需谨慎。",
-      "source": "Bloomberg / 国家统计局",
+      "title": "中国7月制造业PMI意外跌至49.2%，2026年2月以来首次重返收缩区间",
+      "summary": "国家统计局公布7月制造业PMI为49.2%，低于6月50.3%及市场预期50.0%，意外跌破荣枯线；生产、新订单、外需三项指数全线回落，台风扰动及外需走弱为主因；综合PMI产出指数49.3%为新冠疫情结束以来最低。",
+      "why": "国内需求端不及预期，对港股/A股消费与科技标的宏观顺风有所削减，可能触发对增长敏感板块的再定价；但弱数据或强化政策宽松预期，对美团/携程/海底捞等内需标的影响偏中性。",
+      "source": "CNBC / 国家统计局",
       "verified": true,
       "keywords": [
-        "中国",
         "PMI",
-        "制造业",
+        "中国制造业",
         "宏观",
-        "经济",
-        "macro"
+        "macro",
+        "中国经济"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/china-factory-activity-surprises-with-first-slump-in-five-months",
+      "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
       "published_date": "2026-07-31",
       "still_developing": false,
       "first_seen": "2026-08-01",
       "is_new": true
     },
     {
-      "id": "79fd05badac01911",
-      "tier": 1,
-      "lang": "en",
+      "id": "f5d5b100ce4fd610",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
-        "US",
-        "HK"
+        "A"
       ],
-      "time": "07:30",
+      "time": "",
       "group": "大盘头条",
-      "title": "US bans foreign-made humanoid robots targeting China; Beijing threatens retaliation, calls move a 'severe damage' to relations",
-      "summary": "The FCC added foreign-produced advanced robotic devices to its Covered List on July 29, effectively banning new Chinese humanoid robots from US import/sale. Chinese firms Unitree and AGIBOT each shipped 5,000+ humanoid robots globally in 2025, vs. a few hundred each for US rivals Tesla and Figure AI. China's Foreign Ministry condemned the move as 'severely damaging' bilateral relations and threatened countermeasures. The ban affects Xiaomi-linked supply chains and Tesla's Optimus robot program.",
-      "why": "美国机器人禁令是继芯片管制后对华科技脱钩的重大延伸，直接影响特斯拉Optimus人形机器人的供应链；对谷歌DeepMind/英伟达机器人AI生态亦有战略含义；中美科技摩擦加剧将持续影响港股科技板块估值及期权隐含波动率。",
-      "source": "CNBC / CNN Business / PBS News",
+      "title": "A股\"人形机器人第一股\"宇树科技科创板申购日定为8月10日，预计H1营收逾10亿元",
+      "summary": "宇树科技（Unitree Robotics）获证监会批准于科创板上市，拟发行4044万股（占发后总股本10%），初步询价日8月5日，网上网下申购日8月10日；预计H1营收10.52亿-11.28亿元，净利2.58亿-3.06亿元；上市消息带动机器人概念股多只涨停。",
+      "why": "人形机器人/具身智能赛道里程碑事件，A股机器人主题情绪强烈；与腾讯云、阿里云AI基础设施需求间接联动，反映A股科技成长主线仍高度活跃。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "humanoid robot",
-        "US-China",
-        "FCC",
-        "Tesla Optimus",
-        "科技战",
-        "geopolitics"
+        "宇树科技",
+        "人形机器人",
+        "具身智能",
+        "科创板",
+        "IPO",
+        "A股"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-      "published_date": "2026-07-30",
-      "still_developing": true,
-      "first_seen": "2026-08-01",
-      "is_new": true
-    },
-    {
-      "id": "36cb4a868273f7bd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "个股",
-      "title": "Tesla China spinoff storm: WSJ reports executives told to prepare China exit ahead of SpaceX merger; Musk calls it 'absurdly fake news'",
-      "summary": "The WSJ reported July 30 that Tesla executives have been told to prepare for a separation of China business (spinoff, sale or closure) to clear regulatory hurdles for a potential SpaceX merger. Shanghai factory builds more than half of all Tesla vehicles and exported 228,000+ units in H1 2026. Musk denied the report: 'This has never even come up in a discussion ever.' Tesla shares rose over 3.5% on the denial. Bloomberg noted a China exit would benefit Musk personally more than investors.",
-      "why": "特斯拉中国业务占全球产量超50%，分拆传言触发的剧烈波动显示市场对TSLA高度不确定；持仓的卖put策略需密切跟踪SpaceX合并进展，这是TSLA估值的重大潜在重构因素；相关波动也推高了TSLA期权隐含波动率，创造sell put机会。",
-      "source": "Bloomberg / Wall Street Journal",
-      "verified": true,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "SpaceX",
-        "中国",
-        "分拆",
-        "马斯克",
-        "Musk"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/tesla-weighs-china-unit-sale-ahead-of-spacex-deal-wsj-says",
+      "url": "https://finance.sina.com.cn/stock/newstock/2026-07-31/doc-iniksxpi1282926.shtml",
       "published_date": "2026-07-31",
       "still_developing": false,
       "first_seen": "2026-08-01",
       "is_new": true
     },
     {
-      "id": "eef2c0bf5f9848f5",
+      "id": "c7e4e3795fe675f0",
       "tier": 2,
-      "lang": "en",
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "",
+      "group": "大盘头条",
+      "title": "MiniMax H3全模态生成模型发布，A股AI应用板块逾4500股飘红、多股20cm涨停",
+      "summary": "MiniMax于7月31日发布H3全模态生成模型，可统一处理文本/图像/视频/音频，最高支持15秒2K分辨率输出；在模型发布及工信部AI规划双重催化下，A股AI应用方向全面大涨，逾4500只个股飘红，多股以20%涨停封板。",
+      "why": "A股AI应用主题持续高景气，短期动量强劲；对布局腾讯/阿里/美团等互联网AI应用层的港股标的有间接情绪提振；同时AI模型竞争加剧，持续利好AI基础设施层（英伟达、SK海力士）需求。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "MiniMax",
+        "AI",
+        "人工智能",
+        "A股",
+        "科技",
+        "大模型"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-31/doc-iniksnxp1305141.shtml",
+      "published_date": "2026-07-31",
+      "still_developing": false,
+      "first_seen": "2026-08-01",
+      "is_new": true
+    },
+    {
+      "id": "dab222b0f6db7812",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "08:45",
+      "time": "",
       "group": "个股",
-      "title": "Xiaomi launches SkyNomad N90/N70 Max EVs at 23% discount to Tesla Model Y; stock plunges ~7% on thin margin fears",
-      "summary": "Xiaomi CEO Lei Jun unveiled the SkyNomad N90 Max (7-seat EREV, CNY 299,900) and N70 Max (5-seat EREV, CNY 259,900) on July 30 — priced 23% below Tesla's equivalent Model Y L. Deliveries expected September; commercial launch at Chengdu Auto Show (Aug 21). Stock (1810.HK) fell ~6.9% to HK$28.90 on July 31 as investors questioned slim margins. Chinese auto market contracted 20% in H1 2026 with Xiaomi selling ~185,000 vehicles — roughly one-third of its annual target.",
-      "why": "小米激进定价打压同业但自损利润率，7月31日单日急跌7%反映市场对电车盈利前景的担忧；对持仓而言，小米股价回撤至合理区间，9月业绩发布前是关注sell put的窗口——需等待8月21日成都车展SkyNomad正式亮相后确认市场反应。",
-      "source": "South China Morning Post",
+      "title": "泡泡玛特城市乐园7月30日起暑期票价上调最高达288元；Labubu精灵部落新区同步全面开放",
+      "summary": "泡泡玛特城市乐园自7月30日起实施暑期高峰票价，最高游乐套票涨至288元（较前期上调约30元）；同步开放Labubu精灵部落新主题区，7只LABUBU角色首次同台亮相；乐园二期扩建计划2027年启动。",
+      "why": "票价提升验证乐园定价权，暑期旺季叠加新IP区域开放对9992.HK消费端盈利改善有正面信号；LABUBU IP暑假热度维持高位，可结合期权波动率变化评估持仓是否已完全定价该里程碑。延续报道：7月29日前瞻文章，7月30日起正式执行，暑期效应持续发酵中。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "SkyNomad",
-        "电动车",
-        "EV",
-        "雷军"
+        "泡泡玛特",
+        "Pop Mart",
+        "POPMART",
+        "Labubu",
+        "9992.HK",
+        "城市乐园",
+        "潮玩"
       ],
       "translated": false,
-      "url": "https://www.scmp.com/business/china-business/article/3362494/chinas-xiaomi-takes-aim-tesla-staking-23-lower-price-premium-suv",
-      "published_date": "2026-07-31",
-      "still_developing": false,
-      "first_seen": "2026-08-01",
-      "is_new": true
-    },
-    {
-      "id": "a6926388d53f656c",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "NVIDIA sets August 26 earnings call for Q2 FY2027; street guides revenue ~$91B ±2%, data center expected >$80B",
-      "summary": "NVIDIA confirmed August 26, 2026 (2pm PT) as the date for its Q2 FY2027 earnings call (quarter ended July 26). Street consensus guides revenue at ~$91B ±2%, with data center expected to exceed $80B (vs. $75.2B in Q1). EPS consensus: $2.07–$2.09. NVDA rebounded ~3% on Microsoft's strong Q2 results reaffirming AI infrastructure spending. Full-year FY2026 revenue was $215.9B (+65% YoY).",
-      "why": "英伟达8月26日业绩将是本季AI资本支出验证的最终答卷，当日波动将显著影响整个AI/芯片板块。SK海力士Q2强劲侧证已提前验证AI需求不减；8月26日前可考虑在NVDA高位sell covered call，业绩后根据指引再决定是否继续持仓或利用高IV sell put。",
-      "source": "NVIDIA Newsroom / GlobeNewsWire",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI芯片",
-        "GPU",
-        "Blackwell",
-        "数据中心",
-        "黄仁勋"
-      ],
-      "translated": false,
-      "url": "https://www.globenewswire.com/news-release/2026/07/29/3335647/0/en/NVIDIA-Sets-Conference-Call-for-Second-Quarter-Financial-Results.html",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-29/doc-inikmumm0017251.shtml",
       "published_date": "2026-07-29",
       "still_developing": true,
       "first_seen": "2026-08-01",
@@ -2871,6 +2835,98 @@
       "is_new": false
     },
     {
+      "id": "7fd7ea0e1b70278d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A",
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "中国7月制造业PMI意外跌至49.2%，时隔5个月重返收缩区；三大官方PMI全线低于50",
+      "summary": "国家统计局7月31日公布，7月制造业PMI为49.2%，较6月骤降1.1个百分点，为2月以来首次跌破荣枯线，低于市场预期的50.1。新订单指数降至48.5%（2023年以来最低），外需亦重陷收缩（49.0%）。非制造业PMI同步回落至49.0%，三大官方PMI全部低于50。国家统计局解读称受季节性淡季和高基数影响，台风扰动也波及部分行业；设备制造业（51.4%）和高技术制造业（53.3%）仍保持扩张。",
+      "why": "三大PMI全线收缩是2026年以来最弱宏观读数，内需疲软对港股消费与互联网板块（腾讯、美团、阿里）构成估值压力；若7月弱势延续，政策刺激预期有望升温，短期波动对持仓sell put策略的行权价选择需谨慎。",
+      "source": "Bloomberg / 国家统计局",
+      "verified": true,
+      "keywords": [
+        "中国",
+        "PMI",
+        "制造业",
+        "宏观",
+        "经济",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/china-factory-activity-surprises-with-first-slump-in-five-months",
+      "published_date": "2026-07-31",
+      "still_developing": false,
+      "first_seen": "2026-08-01",
+      "is_new": false
+    },
+    {
+      "id": "79fd05badac01911",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "US bans foreign-made humanoid robots targeting China; Beijing threatens retaliation, calls move a 'severe damage' to relations",
+      "summary": "The FCC added foreign-produced advanced robotic devices to its Covered List on July 29, effectively banning new Chinese humanoid robots from US import/sale. Chinese firms Unitree and AGIBOT each shipped 5,000+ humanoid robots globally in 2025, vs. a few hundred each for US rivals Tesla and Figure AI. China's Foreign Ministry condemned the move as 'severely damaging' bilateral relations and threatened countermeasures. The ban affects Xiaomi-linked supply chains and Tesla's Optimus robot program.",
+      "why": "美国机器人禁令是继芯片管制后对华科技脱钩的重大延伸，直接影响特斯拉Optimus人形机器人的供应链；对谷歌DeepMind/英伟达机器人AI生态亦有战略含义；中美科技摩擦加剧将持续影响港股科技板块估值及期权隐含波动率。",
+      "source": "CNBC / CNN Business / PBS News",
+      "verified": true,
+      "keywords": [
+        "humanoid robot",
+        "US-China",
+        "FCC",
+        "Tesla Optimus",
+        "科技战",
+        "geopolitics"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+      "published_date": "2026-07-30",
+      "still_developing": true,
+      "first_seen": "2026-08-01",
+      "is_new": false
+    },
+    {
+      "id": "36cb4a868273f7bd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "个股",
+      "title": "Tesla China spinoff storm: WSJ reports executives told to prepare China exit ahead of SpaceX merger; Musk calls it 'absurdly fake news'",
+      "summary": "The WSJ reported July 30 that Tesla executives have been told to prepare for a separation of China business (spinoff, sale or closure) to clear regulatory hurdles for a potential SpaceX merger. Shanghai factory builds more than half of all Tesla vehicles and exported 228,000+ units in H1 2026. Musk denied the report: 'This has never even come up in a discussion ever.' Tesla shares rose over 3.5% on the denial. Bloomberg noted a China exit would benefit Musk personally more than investors.",
+      "why": "特斯拉中国业务占全球产量超50%，分拆传言触发的剧烈波动显示市场对TSLA高度不确定；持仓的卖put策略需密切跟踪SpaceX合并进展，这是TSLA估值的重大潜在重构因素；相关波动也推高了TSLA期权隐含波动率，创造sell put机会。",
+      "source": "Bloomberg / Wall Street Journal",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "SpaceX",
+        "中国",
+        "分拆",
+        "马斯克",
+        "Musk"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/tesla-weighs-china-unit-sale-ahead-of-spacex-deal-wsj-says",
+      "published_date": "2026-07-31",
+      "still_developing": false,
+      "first_seen": "2026-08-01",
+      "is_new": false
+    },
+    {
       "id": "dc76b11fad8afa33",
       "tier": 1,
       "lang": "en",
@@ -3965,6 +4021,67 @@
       "published_date": "2026-07-30",
       "still_developing": false,
       "first_seen": "2026-07-31",
+      "is_new": false
+    },
+    {
+      "id": "eef2c0bf5f9848f5",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:45",
+      "group": "个股",
+      "title": "Xiaomi launches SkyNomad N90/N70 Max EVs at 23% discount to Tesla Model Y; stock plunges ~7% on thin margin fears",
+      "summary": "Xiaomi CEO Lei Jun unveiled the SkyNomad N90 Max (7-seat EREV, CNY 299,900) and N70 Max (5-seat EREV, CNY 259,900) on July 30 — priced 23% below Tesla's equivalent Model Y L. Deliveries expected September; commercial launch at Chengdu Auto Show (Aug 21). Stock (1810.HK) fell ~6.9% to HK$28.90 on July 31 as investors questioned slim margins. Chinese auto market contracted 20% in H1 2026 with Xiaomi selling ~185,000 vehicles — roughly one-third of its annual target.",
+      "why": "小米激进定价打压同业但自损利润率，7月31日单日急跌7%反映市场对电车盈利前景的担忧；对持仓而言，小米股价回撤至合理区间，9月业绩发布前是关注sell put的窗口——需等待8月21日成都车展SkyNomad正式亮相后确认市场反应。",
+      "source": "South China Morning Post",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "SkyNomad",
+        "电动车",
+        "EV",
+        "雷军"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/china-business/article/3362494/chinas-xiaomi-takes-aim-tesla-staking-23-lower-price-premium-suv",
+      "published_date": "2026-07-31",
+      "still_developing": false,
+      "first_seen": "2026-08-01",
+      "is_new": false
+    },
+    {
+      "id": "a6926388d53f656c",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "NVIDIA sets August 26 earnings call for Q2 FY2027; street guides revenue ~$91B ±2%, data center expected >$80B",
+      "summary": "NVIDIA confirmed August 26, 2026 (2pm PT) as the date for its Q2 FY2027 earnings call (quarter ended July 26). Street consensus guides revenue at ~$91B ±2%, with data center expected to exceed $80B (vs. $75.2B in Q1). EPS consensus: $2.07–$2.09. NVDA rebounded ~3% on Microsoft's strong Q2 results reaffirming AI infrastructure spending. Full-year FY2026 revenue was $215.9B (+65% YoY).",
+      "why": "英伟达8月26日业绩将是本季AI资本支出验证的最终答卷，当日波动将显著影响整个AI/芯片板块。SK海力士Q2强劲侧证已提前验证AI需求不减；8月26日前可考虑在NVDA高位sell covered call，业绩后根据指引再决定是否继续持仓或利用高IV sell put。",
+      "source": "NVIDIA Newsroom / GlobeNewsWire",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "GPU",
+        "Blackwell",
+        "数据中心",
+        "黄仁勋"
+      ],
+      "translated": false,
+      "url": "https://www.globenewswire.com/news-release/2026/07/29/3335647/0/en/NVIDIA-Sets-Conference-Call-for-Second-Quarter-Financial-Results.html",
+      "published_date": "2026-07-29",
+      "still_developing": true,
+      "first_seen": "2026-08-01",
       "is_new": false
     },
     {
