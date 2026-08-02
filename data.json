@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-02 13:15 (北京时间)",
+  "updated_at": "2026-08-02 18:34 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,129 +37,169 @@
   "positions": [],
   "items": [
     {
-      "id": "540eccf91f6a37b1",
+      "id": "6c5b68184de27625",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "美联储7月会议9-3票维持利率3.50%-3.75%，三票反对加息创2016年来纪录",
+      "summary": "美联储FOMC以9票赞成、3票反对维持联邦基金利率目标区间在3.50%-3.75%不变，为连续第五次按兵不动。克利夫兰、明尼阿波利斯、达拉斯三位地区联储主席投票支持加息25bp，这是自2016年以来首次出现三张方向一致的反对票；9月是否加息仍存博弈。",
+      "why": "内部分歧罕见升温，9月加息概率仍在发酵，对期权隐含波动率及估值折现率均有直接影响；sell put策略建仓需关注利率预期再定价风险",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Fed",
+        "利率",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikphnz2235687.shtml",
+      "published_date": "2026-07-30",
+      "still_developing": true,
+      "first_seen": "2026-08-02",
+      "is_new": true
+    },
+    {
+      "id": "0861dab8469325da",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "美国Q2 GDP初值1.5%弱于2%预期，6月PCE 3.7%符合预期；消费强劲对冲整体降速",
+      "summary": "美国2026年二季度实际GDP环比折年率初值1.5%，低于市场预期的2%，较Q1的2.1%进一步放缓；但个人消费支出环比折年率3.2%超预期，私人部门最终需求PDFP达3.9%创2023年Q1来新高。6月PCE同比3.7%较前值4.1%明显回落，通胀降温与消费韧性并存。",
+      "why": "GDP弱+通胀降温组合有利于美联储转鸽，长期持仓估值修复预期增强；波动率环境料阶段性趋于平稳，对sell put策略有利",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "GDP",
+        "PCE",
+        "美联储",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/cj/2026-07-31/doc-iniksnxm4508897.shtml",
+      "published_date": "2026-07-31",
+      "still_developing": false,
+      "first_seen": "2026-08-02",
+      "is_new": true
+    },
+    {
+      "id": "8f407ff2635803a0",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Big Tech earnings week: Microsoft surges record +15.5% (adds $450B market cap), Nasdaq snaps 6-day losing streak +2.8%",
+      "summary": "U.S. tech stocks staged a major rebound on July 30 as Microsoft beat Q4 FY2026 estimates and surged 15.5%, its largest-ever single-day gain, adding ~$450B in market cap. Amazon (AWS +37% YoY) continued the rally into July 31. Nasdaq +2.8%, S&P 500 +1.7%, Dow +1.2% on July 30. Full Big Tech AI capex 2026 guidance: Microsoft ~$175B, Meta $130-145B, Alphabet $195-205B, total $500-525B.",
+      "why": "AI资本支出持续超预期巩固科技估值；纳指大涨直接提振持仓；但AI投入vs回报的市场分歧令科技期权隐含波动率高企，covered call机会值得关注",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Nasdaq",
+        "Microsoft",
+        "Amazon",
+        "AI芯片",
+        "大盘"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
+      "published_date": "2026-07-30",
+      "still_developing": true,
+      "first_seen": "2026-08-02",
+      "is_new": true
+    },
+    {
+      "id": "e331abe546d4e639",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "14:00",
+      "time": "09:30",
       "group": "大盘头条",
-      "title": "美联储7月会议维持利率3.5-3.75%不变，三位委员异见主张加息；主席Warsh称Jackson Hole演讲尚无定案，8月27-29日为下一政策节点",
-      "summary": "美联储FOMC于7月29日投票维持联邦基金利率目标区间3.5-3.75%，但三位委员对此持异见，主张立即加息以应对通胀。通胀仍明显高于2%目标，7月就业数据偏弱，且5、6月数据遭下修，显示劳动力市场接近停滞。Fed主席Warsh表示Jackson Hole年会（8月27-29日）主旨演讲目前'仍是空白页'，下次FOMC会议定于9月16日，届时政策路径将进一步明朗。香港金管局相应维持基准利率4.0%不变。",
-      "why": "延续报道：三位委员异见释放明显鹰派信号，利率上行风险较此前更为显著；Jackson Hole（8月27-29日）Warsh演讲将是短期内最重要的利率政策信号，可能影响港股/美股估值及sell put策略的安全垫；建议在Jackson Hole前谨慎管理期限较长的期权敞口。",
-      "source": "CNBC",
+      "title": "国际金价重上4100美元关口，PCE降温与中东局势阶段性缓和双重驱动",
+      "summary": "7月31日，受美国6月PCE同比降至3.7%及美军阶段性暂停中东空袭消息提振，伦敦现货金价突破4100美元/盎司，盘中触及4111美元，收于4103美元附近。高盛年内目标已上调至4900美元；摩根大通预测金价有望挑战6300美元。",
+      "why": "金价反弹直接利好老铺黄金（6181.HK），该公司已于年初上调产品售价20%-30%；期权定价中黄金相关标的波动率需关注后续中东局势走向",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "美联储",
-        "Fed",
-        "FOMC",
-        "利率",
-        "Jackson Hole",
-        "Warsh",
-        "通胀",
-        "加息",
-        "鹰派"
+        "黄金",
+        "老铺黄金",
+        "金价",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html",
-      "published_date": "2026-07-29",
-      "still_developing": true,
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-07-31/doc-iniksaip0888605.shtml",
+      "published_date": "2026-07-31",
+      "still_developing": false,
       "first_seen": "2026-08-02",
       "is_new": true
     },
     {
-      "id": "ce54adfa24e000bc",
-      "tier": 2,
-      "lang": "zh",
+      "id": "c914ca9473fb42c3",
+      "tier": 1,
+      "lang": "en",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "港交所最低上落价位第二阶段明日生效，涉及1345只证券，0.5-10港元股票价位降50%",
-      "summary": "香港联合交易所将于2026年8月3日（周一）实施股票最低上落价位调整第二阶段。受影响证券共1345只（约占2600只适用证券的51%），其中股价0.5至10港元区间的最低上落价位由0.01港元下调50%至0.005港元，旨在收窄买卖差价、降低散户与机构的交易成本。港交所于8月1日安排非强制性推出前测试。",
-      "why": "港股交易成本结构性下降，直接利好流动性，期权行权价精度亦可能因价位细化而改善；持仓港股标的如腾讯(466港元)、小米(30港元以下价位)区间的投资者需关注明日开市后价格波动机制变化。",
-      "source": "证券时报/新浪财经",
-      "verified": true,
+      "time": "11:00",
+      "group": "个股",
+      "title": "Palantir (PLTR) Q2 2026 earnings after-bell tomorrow (Aug 3): consensus $1.81B revenue +81% YoY, EPS $0.35 +119%",
+      "summary": "Palantir Technologies reports Q2 2026 after market close Aug 3, followed by 5pm ET webcast. Consensus: revenue ~$1.81B (+81% YoY), EPS $0.35 (+119%). Company guidance: $1.797-$1.801B. Government revenue expected $916M (+66%), Commercial $892M (+98%). Oppenheimer sees potential 85% YoY growth and upward FY guide. Stock trades at ~71x sales and 113x forward earnings — requires flawless execution. Palantir raised full-year 2026 revenue guidance to $7.650-$7.662B (71% growth) in Q1.",
+      "why": "明日盘后财报是近期最大单股期权波动率事件；若财报超预期且上调指引，高估值亦可能维持；持有仓位需评估财报前IV水平，考虑平仓或对冲保护",
+      "source": "StockStory / FinancialContent",
+      "verified": false,
       "keywords": [
-        "港交所",
-        "最低上落价位",
-        "tick size",
-        "港股",
-        "流动性改善",
-        "第二阶段"
+        "Palantir",
+        "PLTR",
+        "AI平台",
+        "政府合同",
+        "AIP",
+        "Foundry"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-02/doc-inikwqpq9950188.shtml",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-2-palantir-technologies-pltr-q2-earnings-what-to-expect",
       "published_date": "2026-08-02",
       "still_developing": false,
       "first_seen": "2026-08-02",
       "is_new": true
     },
     {
-      "id": "7f68dc427c8aef2b",
+      "id": "0de7a292d8f07afa",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "17:00",
+      "time": "12:30",
       "group": "个股",
-      "title": "Palantir (PLTR) Q2 2026 Earnings Due Monday Aug 3 After-Close: Company Guided $1.797–1.801B Revenue, Analysts Expect ~81% YoY Growth",
-      "summary": "Palantir Technologies (PLTR) will release Q2 2026 financial results after market close on Monday, August 3, followed by a webcast at 5 PM ET. Company guidance for Q2 stands at $1.797–1.801B revenue. Analyst consensus is ~$1.81B, implying ~81% year-over-year growth. Q1 2026 revenue was $1.633B (+85% YoY), beating estimates. Full-year 2026 guidance is $7.65–7.66B (~71% growth), which management is expected to raise. Palantir has beaten revenue and EPS estimates for eight consecutive quarters. Oppenheimer expects a 'solid beat and raise.'",
-      "why": "持有PLTR多头或sell put期权：财报前48小时隐含波动率通常大幅溢价，财报后即时收缩（IV crush）；重点关注U.S. Government收入增速和U.S. Commercial AIP平台进展；若beat & raise，股价或延续今年AI溢价趋势，反之警惕大幅回调。",
-      "source": "Yahoo Finance / Palantir Investor Relations",
+      "title": "TAL Education (好未来) Q1 FY2027: revenue $758.4M +31.9% YoY, EPS $0.75 crushes $0.35 consensus — massive beat",
+      "summary": "TAL Education Group (NYSE: TAL) Q1 FY2027 (quarter ended May 31, 2026) results: net revenue $758.4M (+31.9% YoY from $575M), operating income $137.2M (vs $14.3M prior year), non-GAAP net income $420M, EPS $0.75 vs $0.35 consensus. Gross margin expanded to 57.8% from 54.9%. Strong growth in both learning services and content solutions.",
+      "why": "延续报道：好未来业绩大幅超预期，AI教育+学习机双轮驱动增长可见度显著提升；持仓标的基本面改善，期权行权价可相应上移，sell put安全边际增大",
+      "source": "SEC EDGAR (Form 6-K, primary_official)",
       "verified": true,
       "keywords": [
-        "Palantir",
-        "PLTR",
-        "Q2 2026",
-        "财报",
-        "AI",
-        "AIP",
-        "Foundry",
-        "defense",
-        "收入增速"
+        "好未来",
+        "TAL",
+        "学而思",
+        "AI教育",
+        "TAL Education"
       ],
       "translated": false,
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-q2-earnings-preview-ahead-195313903.html",
-      "published_date": "2026-08-02",
-      "still_developing": false,
-      "first_seen": "2026-08-02",
-      "is_new": true
-    },
-    {
-      "id": "b7ccc55eb2bb3b08",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "腾讯(0700.HK)Q2 2026业绩8月19日发布前瞻：Q1营收+9%稳健，AI货币化能见度待提升，分析师关注游戏增长延续性",
-      "summary": "腾讯将于2026年8月19日（周三）发布Q2财务业绩。Q1 2026参考数据：营收1965亿元（+9% YoY），non-IFRS净利润679亿元（+11% YoY），自由现金流567亿元（+20% YoY）；混元Hy3推理模型自4月28日起在OpenRouter稳居首位。分析师整体评级持有，关注视频号广告增量与元宝AI应用的货币化突破；游戏方面，王者荣耀、三角洲行动支撑短期营收，但AI游戏创新节奏不确定。",
-      "why": "腾讯为核心长仓，Q2财报前两周宜评估：①若Q2游戏收入维持高增速，covered call可考虑适当行权价；②AI云收入与广告增量若超预期，估值重估空间较大；③若Q1趋势延续，非IFRS净利润环比应接近700亿，可据此设定合理行权价区间。",
-      "source": "富途牛牛",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "Q2 2026",
-        "财报",
-        "混元",
-        "AI",
-        "视频号",
-        "游戏",
-        "王者荣耀"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/75946944/tencent-00700-hk-q2-2026-earnings-preview-core-business-growth",
-      "published_date": "2026-08-01",
-      "still_developing": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001499620/000110465926088660/tm2621668d1_ex99-1.htm",
+      "published_date": "2026-07-30",
+      "still_developing": true,
       "first_seen": "2026-08-02",
       "is_new": true
     },
@@ -2780,6 +2820,39 @@
       "is_new": false
     },
     {
+      "id": "540eccf91f6a37b1",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "美联储7月会议维持利率3.5-3.75%不变，三位委员异见主张加息；主席Warsh称Jackson Hole演讲尚无定案，8月27-29日为下一政策节点",
+      "summary": "美联储FOMC于7月29日投票维持联邦基金利率目标区间3.5-3.75%，但三位委员对此持异见，主张立即加息以应对通胀。通胀仍明显高于2%目标，7月就业数据偏弱，且5、6月数据遭下修，显示劳动力市场接近停滞。Fed主席Warsh表示Jackson Hole年会（8月27-29日）主旨演讲目前'仍是空白页'，下次FOMC会议定于9月16日，届时政策路径将进一步明朗。香港金管局相应维持基准利率4.0%不变。",
+      "why": "延续报道：三位委员异见释放明显鹰派信号，利率上行风险较此前更为显著；Jackson Hole（8月27-29日）Warsh演讲将是短期内最重要的利率政策信号，可能影响港股/美股估值及sell put策略的安全垫；建议在Jackson Hole前谨慎管理期限较长的期权敞口。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Fed",
+        "FOMC",
+        "利率",
+        "Jackson Hole",
+        "Warsh",
+        "通胀",
+        "加息",
+        "鹰派"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html",
+      "published_date": "2026-07-29",
+      "still_developing": true,
+      "first_seen": "2026-08-02",
+      "is_new": false
+    },
+    {
       "id": "177c609f8ca1b94a",
       "tier": 1,
       "lang": "zh",
@@ -3908,6 +3981,100 @@
       "published_date": "2026-07-30",
       "still_developing": false,
       "first_seen": "2026-08-01",
+      "is_new": false
+    },
+    {
+      "id": "ce54adfa24e000bc",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "港交所最低上落价位第二阶段明日生效，涉及1345只证券，0.5-10港元股票价位降50%",
+      "summary": "香港联合交易所将于2026年8月3日（周一）实施股票最低上落价位调整第二阶段。受影响证券共1345只（约占2600只适用证券的51%），其中股价0.5至10港元区间的最低上落价位由0.01港元下调50%至0.005港元，旨在收窄买卖差价、降低散户与机构的交易成本。港交所于8月1日安排非强制性推出前测试。",
+      "why": "港股交易成本结构性下降，直接利好流动性，期权行权价精度亦可能因价位细化而改善；持仓港股标的如腾讯(466港元)、小米(30港元以下价位)区间的投资者需关注明日开市后价格波动机制变化。",
+      "source": "证券时报/新浪财经",
+      "verified": true,
+      "keywords": [
+        "港交所",
+        "最低上落价位",
+        "tick size",
+        "港股",
+        "流动性改善",
+        "第二阶段"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-02/doc-inikwqpq9950188.shtml",
+      "published_date": "2026-08-02",
+      "still_developing": false,
+      "first_seen": "2026-08-02",
+      "is_new": false
+    },
+    {
+      "id": "7f68dc427c8aef2b",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "17:00",
+      "group": "个股",
+      "title": "Palantir (PLTR) Q2 2026 Earnings Due Monday Aug 3 After-Close: Company Guided $1.797–1.801B Revenue, Analysts Expect ~81% YoY Growth",
+      "summary": "Palantir Technologies (PLTR) will release Q2 2026 financial results after market close on Monday, August 3, followed by a webcast at 5 PM ET. Company guidance for Q2 stands at $1.797–1.801B revenue. Analyst consensus is ~$1.81B, implying ~81% year-over-year growth. Q1 2026 revenue was $1.633B (+85% YoY), beating estimates. Full-year 2026 guidance is $7.65–7.66B (~71% growth), which management is expected to raise. Palantir has beaten revenue and EPS estimates for eight consecutive quarters. Oppenheimer expects a 'solid beat and raise.'",
+      "why": "持有PLTR多头或sell put期权：财报前48小时隐含波动率通常大幅溢价，财报后即时收缩（IV crush）；重点关注U.S. Government收入增速和U.S. Commercial AIP平台进展；若beat & raise，股价或延续今年AI溢价趋势，反之警惕大幅回调。",
+      "source": "Yahoo Finance / Palantir Investor Relations",
+      "verified": true,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "Q2 2026",
+        "财报",
+        "AI",
+        "AIP",
+        "Foundry",
+        "defense",
+        "收入增速"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-q2-earnings-preview-ahead-195313903.html",
+      "published_date": "2026-08-02",
+      "still_developing": false,
+      "first_seen": "2026-08-02",
+      "is_new": false
+    },
+    {
+      "id": "b7ccc55eb2bb3b08",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "腾讯(0700.HK)Q2 2026业绩8月19日发布前瞻：Q1营收+9%稳健，AI货币化能见度待提升，分析师关注游戏增长延续性",
+      "summary": "腾讯将于2026年8月19日（周三）发布Q2财务业绩。Q1 2026参考数据：营收1965亿元（+9% YoY），non-IFRS净利润679亿元（+11% YoY），自由现金流567亿元（+20% YoY）；混元Hy3推理模型自4月28日起在OpenRouter稳居首位。分析师整体评级持有，关注视频号广告增量与元宝AI应用的货币化突破；游戏方面，王者荣耀、三角洲行动支撑短期营收，但AI游戏创新节奏不确定。",
+      "why": "腾讯为核心长仓，Q2财报前两周宜评估：①若Q2游戏收入维持高增速，covered call可考虑适当行权价；②AI云收入与广告增量若超预期，估值重估空间较大；③若Q1趋势延续，非IFRS净利润环比应接近700亿，可据此设定合理行权价区间。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "Q2 2026",
+        "财报",
+        "混元",
+        "AI",
+        "视频号",
+        "游戏",
+        "王者荣耀"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/75946944/tencent-00700-hk-q2-2026-earnings-preview-core-business-growth",
+      "published_date": "2026-08-01",
+      "still_developing": false,
+      "first_seen": "2026-08-02",
       "is_new": false
     },
     {
