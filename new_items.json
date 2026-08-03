@@ -1,264 +1,320 @@
 [
   {
-    "id": "6c5b68184de27625",
     "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US"
-    ],
-    "time": "07:00",
-    "group": "大盘头条",
-    "title": "美联储7月会议9-3票维持利率3.50%-3.75%，三票反对加息创2016年来纪录",
-    "summary": "美联储FOMC以9票赞成、3票反对维持联邦基金利率目标区间在3.50%-3.75%不变，为连续第五次按兵不动。克利夫兰、明尼阿波利斯、达拉斯三位地区联储主席投票支持加息25bp，这是自2016年以来首次出现三张方向一致的反对票；9月是否加息仍存博弈。",
-    "why": "内部分歧罕见升温，9月加息概率仍在发酵，对期权隐含波动率及估值折现率均有直接影响；sell put策略建仓需关注利率预期再定价风险",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "美联储",
-      "Fed",
-      "利率",
-      "宏观"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikphnz2235687.shtml",
-    "published_date": "2026-07-30",
-    "still_developing": true
-  },
-  {
-    "id": "0861dab8469325da",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US"
-    ],
-    "time": "08:00",
-    "group": "大盘头条",
-    "title": "美国Q2 GDP初值1.5%弱于2%预期，6月PCE 3.7%符合预期；消费强劲对冲整体降速",
-    "summary": "美国2026年二季度实际GDP环比折年率初值1.5%，低于市场预期的2%，较Q1的2.1%进一步放缓；但个人消费支出环比折年率3.2%超预期，私人部门最终需求PDFP达3.9%创2023年Q1来新高。6月PCE同比3.7%较前值4.1%明显回落，通胀降温与消费韧性并存。",
-    "why": "GDP弱+通胀降温组合有利于美联储转鸽，长期持仓估值修复预期增强；波动率环境料阶段性趋于平稳，对sell put策略有利",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "GDP",
-      "PCE",
-      "美联储",
-      "宏观"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/cj/2026-07-31/doc-iniksnxm4508897.shtml",
-    "published_date": "2026-07-31",
-    "still_developing": false
-  },
-  {
-    "id": "8f407ff2635803a0",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "09:00",
-    "group": "大盘头条",
-    "title": "Big Tech earnings week: Microsoft surges record +15.5% (adds $450B market cap), Nasdaq snaps 6-day losing streak +2.8%",
-    "summary": "U.S. tech stocks staged a major rebound on July 30 as Microsoft beat Q4 FY2026 estimates and surged 15.5%, its largest-ever single-day gain, adding ~$450B in market cap. Amazon (AWS +37% YoY) continued the rally into July 31. Nasdaq +2.8%, S&P 500 +1.7%, Dow +1.2% on July 30. Full Big Tech AI capex 2026 guidance: Microsoft ~$175B, Meta $130-145B, Alphabet $195-205B, total $500-525B.",
-    "why": "AI资本支出持续超预期巩固科技估值；纳指大涨直接提振持仓；但AI投入vs回报的市场分歧令科技期权隐含波动率高企，covered call机会值得关注",
-    "source": "CNBC",
-    "verified": true,
-    "keywords": [
-      "Nasdaq",
-      "Microsoft",
-      "Amazon",
-      "AI芯片",
-      "大盘"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
-    "published_date": "2026-07-30",
-    "still_developing": true
-  },
-  {
-    "id": "e331abe546d4e639",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US",
-      "HK"
-    ],
-    "time": "09:30",
-    "group": "大盘头条",
-    "title": "国际金价重上4100美元关口，PCE降温与中东局势阶段性缓和双重驱动",
-    "summary": "7月31日，受美国6月PCE同比降至3.7%及美军阶段性暂停中东空袭消息提振，伦敦现货金价突破4100美元/盎司，盘中触及4111美元，收于4103美元附近。高盛年内目标已上调至4900美元；摩根大通预测金价有望挑战6300美元。",
-    "why": "金价反弹直接利好老铺黄金（6181.HK），该公司已于年初上调产品售价20%-30%；期权定价中黄金相关标的波动率需关注后续中东局势走向",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "黄金",
-      "老铺黄金",
-      "金价",
-      "宏观"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-07-31/doc-iniksaip0888605.shtml",
-    "published_date": "2026-07-31",
-    "still_developing": false
-  },
-  {
-    "id": "ce54adfa24e000bc",
-    "tier": 2,
     "lang": "zh",
     "markets": [
       "HK"
     ],
     "time": "10:00",
     "group": "大盘头条",
-    "title": "港交所明日（8月3日）推出最低上落价位下调第二阶段，涉1345只证券",
-    "summary": "香港联合交易所宣布将于2026年8月3日正式实施下调股票最低上落价位第二阶段安排，涉及1345只证券，占适用证券日均成交额约24%，最低上落价位由0.01港元下调至0.005港元，旨在提升市场流动性与定价效率。第一阶段已于2025年8月4日实施。",
-    "why": "港股制度性改革提升中小市值流动性及买卖价差效率；港股期权标的报价颗粒度增加，对sell put/covered call订单执行精度有正面影响",
+    "title": "港股8月行情开门红！恒指突破26000点再创反弹新高，科网股全线大涨",
+    "summary": "8月3日，港股全面走强，恒指突破26000点再创反弹新高，科网股普涨。阿里巴巴涨超6%、腾讯涨超3%、百度涨超2%；AI股小幅分化，光伏股活跃，存储概念延续走弱。全球资金再平衡带动港股科技估值修复。",
+    "why": "持仓阿里巴巴(9988)、腾讯(0700)今日均大幅上涨，做多方向顺风；注意短期波动率是否已收缩至适合covered call的区间",
     "source": "新浪财经",
     "verified": true,
     "keywords": [
+      "恒指",
+      "26000点",
       "港股",
-      "港交所",
-      "HKEX"
+      "阿里巴巴",
+      "腾讯",
+      "科网股",
+      "8月"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/jjxw/2026-08-02/doc-inikwqpq9950188.shtml",
-    "published_date": "2026-08-02",
-    "still_developing": false
+    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-03/doc-inikzeam4685145.shtml",
+    "published_date": "2026-08-03",
+    "still_developing": false,
+    "id": "57d4a85d18cbbe5d"
   },
   {
-    "id": "d15248f660e74bb5",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "HK",
-      "US"
-    ],
-    "time": "10:30",
-    "group": "个股",
-    "title": "SK hynix Q2 2026 all-time record: revenue +257% YoY to KRW 79.3T, HBM4 mass production begins, 76% operating margin",
-    "summary": "SK hynix reported record Q2 2026: revenue KRW 79.3T (+257% YoY, +51% QoQ), operating profit KRW 60.5T (+557% YoY), operating margin 76% — all-time highs. HBM4 entered mass production in Q2 with yields near mature HBM3E levels; HBM4E samples shipped to key customers. Enterprise SSD revenue doubled, DRAM ASP +~30% QoQ. FY2026 capex guidance raised to high-KRW 40T range; multi-year supply agreements signed with ~10 customers.",
-    "why": "延续报道：HBM4量产确认AI存储超级周期加速，CSOP南方两倍做多SK海力士（7709.HK）直接受益；DRAM ASP大涨30%亦验证存储周期，对美光MU有正面参考",
-    "source": "SK hynix Newsroom (official)",
-    "verified": true,
-    "keywords": [
-      "SK海力士",
-      "SK Hynix",
-      "HBM4",
-      "HBM",
-      "DRAM",
-      "存储芯片",
-      "高带宽内存"
-    ],
-    "translated": false,
-    "url": "https://news.skhynix.com/en/q2-2026-business-results/",
-    "published_date": "2026-07-29",
-    "still_developing": true
-  },
-  {
-    "id": "c914ca9473fb42c3",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "11:00",
-    "group": "个股",
-    "title": "Palantir (PLTR) Q2 2026 earnings after-bell tomorrow (Aug 3): consensus $1.81B revenue +81% YoY, EPS $0.35 +119%",
-    "summary": "Palantir Technologies reports Q2 2026 after market close Aug 3, followed by 5pm ET webcast. Consensus: revenue ~$1.81B (+81% YoY), EPS $0.35 (+119%). Company guidance: $1.797-$1.801B. Government revenue expected $916M (+66%), Commercial $892M (+98%). Oppenheimer sees potential 85% YoY growth and upward FY guide. Stock trades at ~71x sales and 113x forward earnings — requires flawless execution. Palantir raised full-year 2026 revenue guidance to $7.650-$7.662B (71% growth) in Q1.",
-    "why": "明日盘后财报是近期最大单股期权波动率事件；若财报超预期且上调指引，高估值亦可能维持；持有仓位需评估财报前IV水平，考虑平仓或对冲保护",
-    "source": "StockStory / FinancialContent",
-    "verified": false,
-    "keywords": [
-      "Palantir",
-      "PLTR",
-      "AI平台",
-      "政府合同",
-      "AIP",
-      "Foundry"
-    ],
-    "translated": false,
-    "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-2-palantir-technologies-pltr-q2-earnings-what-to-expect",
-    "published_date": "2026-08-02",
-    "still_developing": false
-  },
-  {
-    "id": "add90be258d53332",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "11:30",
-    "group": "个股",
-    "title": "Circle (CRCL) secures New York trust charter, completing dual state+federal USDC oversight; stock volatile on Bernstein downgrade",
-    "summary": "Circle Internet Group (CRCL) received a limited-purpose trust charter from NYDFS on July 31, creating a dual state+federal regulatory framework for USDC — the first stablecoin issuer to achieve this. Combined with the earlier OCC national trust bank approval, Circle can now formally custody USDC reserves under NY Banking Law. Stock initially rallied but closed lower ~5-7% as Bernstein cut its price target from $190 to $140. Q2 2026 earnings are scheduled for August 5.",
-    "why": "双重监管认证长期利好USDC机构化采用；但Bernstein降评及Open USD联盟竞争压制短期股价；8月5日财报是近期关键催化剂，可关注财报前IV及sell put机会",
-    "source": "CoinDesk",
-    "verified": true,
-    "keywords": [
-      "Circle",
-      "CRCL",
-      "USDC",
-      "稳定币",
-      "stablecoin",
-      "GENIUS Act"
-    ],
-    "translated": false,
-    "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-    "published_date": "2026-07-31",
-    "still_developing": false
-  },
-  {
-    "id": "03c0b322ea3890ff",
     "tier": 2,
     "lang": "zh",
     "markets": [
       "HK"
     ],
-    "time": "12:00",
-    "group": "个股",
-    "title": "小米SU7/YU7累计交付突破70万辆，雷军发布昆仑技术架构平台战略",
-    "summary": "雷军在7月30日澎程技术发布会上宣布，小米SU7和YU7累计交付量突破70万辆，历时约3.5年。同时发布全新小米昆仑技术架构，涵盖昆仑整车平台、昆仑超级增程及昆仑全域安全三大系统，为后续车型提供技术底座。新款SU7 Ultra亦在推进中。",
-    "why": "延续报道：70万辆里程碑强化小米在新能源赛道竞争地位，有助于1810.HK估值重估；品牌里程碑利好长期持有信心，可适当提高sell put行权价",
-    "source": "新浪科技",
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "香港交易所5年期中国国债期货今日正式推出，境外投资者获利率风险管理新工具",
+    "summary": "港交所于8月3日推出5年期人民币国债期货，境外机构可藉此对冲约2万亿元人民币国债的利率风险，进一步巩固香港离岸人民币枢纽地位，扩大国际投资者在离岸市场的风险管理工具箱。",
+    "why": "新衍生品丰富港市生态，有助于境外资金更积极配置人民币资产，间接利好港股整体估值与流动性环境",
+    "source": "新浪财经",
     "verified": true,
     "keywords": [
-      "小米",
-      "Xiaomi",
-      "SU7",
-      "YU7",
-      "小米汽车",
-      "雷军"
+      "国债期货",
+      "港交所",
+      "HKEX",
+      "人民币",
+      "离岸债市",
+      "利率"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikqupy9660465.shtml",
-    "published_date": "2026-07-30",
-    "still_developing": true
+    "url": "https://finance.sina.com.cn/stock/y/2026-08-03/doc-inikytnt6334986.shtml",
+    "published_date": "2026-08-03",
+    "still_developing": false,
+    "id": "9627b48ccaf5847b"
   },
   {
-    "id": "0de7a292d8f07afa",
     "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "港交所下调证券最低上落价位第二阶段今日实施，流动性有望进一步改善",
+    "summary": "香港联合交易所8月3日实施下调最低上落价位第二阶段安排，进一步缩小低价股的最小报价单位，旨在提升相关股份的交投活跃度、降低买卖差价，改善整体市场流动性。",
+    "why": "制度改善利好港股流动性整体提升，对低价港股标的交易成本有所下降，有助于市场深度改善",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "港交所",
+      "最低上落价位",
+      "流动性",
+      "制度调整",
+      "港股"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/jjxw/2026-08-02/doc-inikwqpq9950188.shtml",
+    "published_date": "2026-08-02",
+    "still_developing": false,
+    "id": "ce54adfa24e000bc"
+  },
+  {
+    "tier": 1,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "12:30",
-    "group": "个股",
-    "title": "TAL Education (好未来) Q1 FY2027: revenue $758.4M +31.9% YoY, EPS $0.75 crushes $0.35 consensus — massive beat",
-    "summary": "TAL Education Group (NYSE: TAL) Q1 FY2027 (quarter ended May 31, 2026) results: net revenue $758.4M (+31.9% YoY from $575M), operating income $137.2M (vs $14.3M prior year), non-GAAP net income $420M, EPS $0.75 vs $0.35 consensus. Gross margin expanded to 57.8% from 54.9%. Strong growth in both learning services and content solutions.",
-    "why": "延续报道：好未来业绩大幅超预期，AI教育+学习机双轮驱动增长可见度显著提升；持仓标的基本面改善，期权行权价可相应上移，sell put安全边际增大",
-    "source": "SEC EDGAR (Form 6-K, primary_official)",
+    "time": "07:00",
+    "group": "大盘头条",
+    "title": "Big Earnings Week: Palantir (PLTR) Tonight, AMD Tuesday, Disney+SanDisk (SNDK) Wednesday; July Jobs Report Friday",
+    "summary": "Key events for the Aug 3-7 week: Palantir Q2 results after today's close (consensus: ~$1.81B rev, +80% YoY); AMD Q2 Tuesday ($11.3B expected); Walt Disney Q3 FY26 and SanDisk full-year FY26 on Wednesday; Tencent Q2 on Aug 12. Friday's July nonfarm payrolls is the macro anchor — June printed a weak +57K vs. +115K expected, raising September rate-cut odds.",
+    "why": "Palantir/SanDisk直接持仓，本周业绩是期权策略的关键触发点；非农决定Fed 9月降息预期，影响整体估值水位；Tencent Aug 12业绩也需提前布局",
+    "source": "CNBC",
     "verified": true,
     "keywords": [
-      "好未来",
-      "TAL",
-      "学而思",
-      "AI教育",
-      "TAL Education"
+      "Palantir",
+      "PLTR",
+      "AMD",
+      "Disney",
+      "DIS",
+      "SanDisk",
+      "SNDK",
+      "nonfarm payrolls",
+      "earnings",
+      "Tencent"
     ],
     "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/0001499620/000110465926088660/tm2621668d1_ex99-1.htm",
+    "url": "https://www.cnbc.com/2026/07/31/stock-market-next-week-outlook-for-aug-3-7-2026.html",
+    "published_date": "2026-07-31",
+    "still_developing": true,
+    "id": "5926aa8779a35a95"
+  },
+  {
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "US"
+    ],
+    "time": "08:30",
+    "group": "大盘头条",
+    "title": "美国Q2 GDP初值年化+1.5%，大幅低于预期+2.1%，增速放缓强化9月降息预期",
+    "summary": "美国商务部经济分析局(BEA)7月30日公布，Q2 GDP年化增速初值为+1.5%，低于市场预期的+2.1%，较Q1的+2.1%明显放缓。同期PCE通胀率3.7%。GDP第二次估算将于8月26日公布，届时还将同步发布企业利润数据。",
+    "why": "GDP低于预期强化9月降息预期，短期利好估值；但经济增速放缓暗示消费与企业支出趋弱——需关注持仓消费类标的的业绩指引；sell put 策略在降息预期下隐含波动率可能回落",
+    "source": "美国商务部经济分析局(BEA)",
+    "verified": true,
+    "keywords": [
+      "GDP",
+      "美国",
+      "经济增长",
+      "降息预期",
+      "PCE",
+      "美联储",
+      "Fed"
+    ],
+    "translated": false,
+    "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-2nd-quarter-2026",
     "published_date": "2026-07-30",
-    "still_developing": true
+    "still_developing": true,
+    "id": "1b11689492df17f3"
+  },
+  {
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "阿里巴巴发布2.4万亿参数大模型Qwen3.8-Max，千问办公QwenWork同日开启公测",
+    "summary": "8月3日，阿里巴巴发布新一代旗舰基座模型Qwen3.8-Max，参数规模达2.4万亿，编程与Agent能力大幅提升，成为\"两万亿参数俱乐部\"最新成员。同日，企业级AI Agent平台\"千问办公(QwenWork)\"开启公测，整合QoderWork/MuleRun/悟空三款产品，深度绑定钉钉生态，支持桌面Agent、云Agent及企业协作Agent。",
+    "why": "双重AI产品落地是今日阿里港股涨超6%的重要催化；直接利好阿里云AI收入加速，长期看能否从模型到变现是核心；重点关注云API收入及企业采购合同数据",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "阿里巴巴",
+      "Qwen3.8",
+      "千问",
+      "QwenWork",
+      "AI",
+      "大模型",
+      "通义千问",
+      "钉钉",
+      "BABA",
+      "9988"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikzeat6121858.shtml",
+    "published_date": "2026-08-03",
+    "still_developing": false,
+    "id": "b0dddbb16b1f8e64"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "08:00",
+    "group": "个股",
+    "title": "Moonshot's Kimi K3 Built on 20,000 Nvidia Chip Cluster From Alibaba; White House Alleges Export Control Breach",
+    "summary": "Bloomberg reported that Moonshot AI used ~20,000 Nvidia chips (H200 accelerators) provided via Alibaba's cloud to train Kimi K3, a 2.8-trillion-parameter open-source model. Kimi K3 outperforms Alibaba's own Qwen models on key benchmarks. White House OSTP director Michael Kratsios separately alleged Moonshot may have obtained Nvidia Blackwell chips via a Southeast Asia intermediary in breach of US export controls.",
+    "why": "延续报道：事件于7月31日由Bloomberg首发，今日(8月3日)仍是阿里港股上涨的重要驱动因素，同时触发中美芯片出口管制风险——密切关注管制升级是否殃及英伟达持仓；若白宫指控坐实，阿里作为算力提供方或面临合规压力",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "月之暗面",
+      "Kimi",
+      "Moonshot",
+      "阿里巴巴",
+      "英伟达",
+      "Nvidia",
+      "出口管制",
+      "HBM",
+      "BABA"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+    "published_date": "2026-07-31",
+    "still_developing": true,
+    "id": "99968ecdb7c2d5d8"
+  },
+  {
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "08:00",
+    "group": "个股",
+    "title": "阿里巴巴主席蔡崇信宣布离婚，声明不涉及出售任何阿里股份",
+    "summary": "8月1日，阿里巴巴集团主席蔡崇信与妻子吴明华联合宣布结束近30年婚姻。双方发表声明称，此次分手系\"相互尊重\"决定，且不涉及任何出售阿里巴巴股份的计划，蔡崇信将继续履行董事会主席职责。",
+    "why": "消除市场对大股东离婚可能引发减持的担忧，有利于股价稳定；需持续关注公司治理动态与大股东持仓变化",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "蔡崇信",
+      "阿里巴巴",
+      "离婚",
+      "股份",
+      "公司治理",
+      "BABA",
+      "9988"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0584817.shtml",
+    "published_date": "2026-08-01",
+    "still_developing": false,
+    "id": "877e8bebd307fc07"
+  },
+  {
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "老铺黄金盈喜远低于市场预期，Q2收入断崖式下滑，股价自高位累跌约73%",
+    "summary": "老铺黄金(6181.HK)公告H1 2026净利约43.1-43.6亿元（同比+83-85%），但Q2收入约33亿元较Q1大幅萎缩，远低于市场预期。7月28日股价单日跌23.76%，机构密集下调目标价：高盛至560港元、招商证券国际至304港元、中金至604港元。截至8月3日，股价已自历史高位累跌约73%。",
+    "why": "延续报道：增长神话破灭后估值重构仍在持续，今日股价仍微幅下跌；黄金赛道走势分化——金价高位回落导致黄金珠宝需求承压，持有黄金相关衍生品者需重新评估行权价",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "老铺黄金",
+      "6181.HK",
+      "盈喜",
+      "黄金",
+      "机构下调",
+      "目标价",
+      "暴跌"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/roll/2026-07-30/doc-inikpxkt1961950.shtml",
+    "published_date": "2026-07-30",
+    "still_developing": true,
+    "id": "c2e33cc1e19739fc"
+  },
+  {
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "05:00",
+    "group": "个股",
+    "title": "Palantir (PLTR) Q2 2026 Reports Tonight After Close — Consensus $1.81B Revenue (+80% YoY), 9th Straight Beat Sought",
+    "summary": "Palantir reports Q2 2026 results after today's close with a 5pm ET webcast. Wall Street expects revenue of ~$1.81B (+80% YoY) and adj. EPS of ~$0.35. PLTR has beaten estimates for 8 consecutive quarters (avg. +14.6% EPS surprise). Stock has shed ~40% from its peak, trading at ~$123. Options market implies ~12% post-earnings move.",
+    "why": "直接持仓Palantir；期权方向重点：12%隐含摆幅是否合理？关注US Government vs. Commercial收入结构、AIP平台增速及全年收入指引是否调升至$7.65B以上",
+    "source": "CNBC",
+    "verified": false,
+    "keywords": [
+      "Palantir",
+      "PLTR",
+      "Q2 2026",
+      "earnings",
+      "AIP",
+      "AI",
+      "revenue",
+      "EPS"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
+    "published_date": "2026-08-02",
+    "still_developing": false,
+    "id": "1e487d96901810c0"
+  },
+  {
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "A"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "SK海力士Q2营收历史新高仍不及预期，港股存储板块持续重挫，今日南方两倍做多海力士再跌逾13%",
+    "summary": "SK海力士Q2 2026营收约79.3万亿韩元（同比+257%）、HBM4进入量产，但业绩仍不及市场高预期。7月28日财报公布后，港股存储概念急挫，南方两倍做多海力士单日跌超30%；8月3日延续跌势（再跌超13%），A股科创50跌超3.7%，兆易创新等存储个股持续承压。",
+    "why": "延续报道：SK海力士杠杆ETP的连续大跌警示存储周期转折风险；若HBM增长预期进一步下修，将波及英伟达配套供应链；建议检视存储赛道敞口并评估是否需要期权对冲",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "SK海力士",
+      "SK Hynix",
+      "HBM",
+      "存储",
+      "科创50",
+      "南方两倍做多海力士",
+      "7709.HK"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/hkstock/2026-07-29/doc-inikmqcr1710338.shtml",
+    "published_date": "2026-07-29",
+    "still_developing": true,
+    "id": "cf8dc17a1cf8522c"
   }
 ]
