@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-06 13:25 (北京时间)",
+  "updated_at": "2026-08-06 18:23 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,240 +37,229 @@
   "positions": [],
   "items": [
     {
-      "id": "e598d9e97833efbc",
+      "id": "443b98276d3c237b",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "12:30",
+      "time": "07:00",
       "group": "大盘头条",
-      "title": "港股午评：恒指跌1.75% 科指跌1.87% 科网股、保险股普跌 黄金股逆势上涨",
-      "summary": "8月6日午间，港股三大指数集体下挫，恒生指数跌1.75%至25,463点，恒生科技指数跌1.87%。科网股普跌：阿里巴巴、百度跌超3%，小米、京东跌超2%；黄金股逆势走强，潼关黄金涨超6%。",
-      "why": "科网板块普跌直接压制持仓中的腾讯、阿里、美团、携程等港股仓位；触发原因为美国7月ADP就业大幅不及预期（仅增4.4万），降息预期升温但对科技股短期构成情绪性抛压。Sell put 持仓需关注行权价保护空间。",
-      "source": "新浪财经",
+      "title": "SpaceX Unlocks $101B in Shares on Aug. 6 as Stock Tumbles 43% From Post-IPO Peak",
+      "summary": "911.5M SpaceX shares (est. $101B) become eligible to trade on Aug. 6 — exceeding the current 640M float. The stock fell ~14% post-earnings and is ~43% below its post-IPO peak at ~$114.53, wiping ~$225B in market value.",
+      "why": "解禁规模超现有流通盘，潜在卖压放大；美科技板块情绪承压，可关注整体市场隐含波动率变化。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "港股",
-        "恒生指数",
-        "科网股",
-        "黄金股"
+        "SpaceX",
+        "lockup expiry",
+        "IPO",
+        "shares unlock"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-06/doc-inimizpr0719930.shtml",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/spacex-s-101-billion-unlock-heaps-pressure-on-battered-shares",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": true
+    },
+    {
+      "id": "85e2166139bae21e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "China Retaliates Against US With Tighter Drone Export Curbs, Sanctions on 6 US Entities",
+      "summary": "China's Commerce Ministry announced four sets of countermeasures on Aug. 5: tightened export controls on drones and key components to the US (case-by-case review); suspension of dealings with 6 American compliance-testing companies; and suspension of CCC certification inspections at US-delegated agencies — in response to FCC bans on Chinese robots/inverters and new forced-labor blacklistings.",
+      "why": "中美科技脱钩再升级；无人机零部件出口管制影响供应链；消费电子、科技赛道标的需关注地缘摩擦对港股、A股的情绪传导。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "中美贸易",
+        "无人机出口管制",
+        "反制措施",
+        "供应链"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/china-hits-back-at-us-with-tighter-drone-export-curbs-sanctions",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": true
+    },
+    {
+      "id": "6da02406f83e3d3c",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "A股8月5日放量反攻：上证+1.47%至3878点，科创50+4.78%，成交2.66万亿",
+      "summary": "8月5日A股全线大涨：上证指数+1.47%（3878.43点），深证成指+1.86%（14144.2点），创业板指+1.32%（3535.14点），科创50+4.78%；两市合计成交26596亿元，较前日大幅放量4460亿元，半导体及科技板块领涨。",
+      "why": "科创50大涨4.78%显示AI/半导体板块资金情绪强烈修复；成交量大幅放量是持续性信号，需跟踪今日（8月6日）能否延续。",
+      "source": "新浪财经/四大证券报",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "科创50",
+        "上证指数",
+        "成交额",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/y/2026-08-06/doc-inimiqxt4019954.shtml",
       "published_date": "2026-08-06",
       "still_developing": false,
       "first_seen": "2026-08-06",
       "is_new": true
     },
     {
-      "id": "d2afbea4cbacf451",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:15",
-      "group": "大盘头条",
-      "title": "U.S. July ADP Employment: Private Sector Adds Only 44,000 Jobs, Far Below 75,000 Estimate",
-      "summary": "ADP National Employment Report shows U.S. private payrolls grew by just 44,000 in July 2026, sharply missing the 75,000 consensus forecast and down from June's 95,000. Services added 47,000 while goods-producing sectors shed 3,000 jobs. Annual pay growth held at 4.4% for job-stayers.",
-      "why": "就业数据骤降强化市场降息预期，短期利多美债、压制美元，但港股科技股当日跟跌体现情绪传导。Sell put 策略中美股标的（NVDA、TSLA、COST 等）短期隐含波动率或受宏观不确定性推升，有利于期权权利金。",
-      "source": "ADP Official / Fox Business",
-      "verified": true,
-      "keywords": [
-        "ADP",
-        "美国就业",
-        "非农",
-        "降息预期",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-preliminary-estimate-for-july-4-2026-302829949.html",
-      "published_date": "2026-08-05",
-      "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": true
-    },
-    {
-      "id": "00cc5005c6d1bfff",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "06:30",
-      "group": "大盘头条",
-      "title": "Oil Holds Three-Day Drop as Iran, Oman Reach Hormuz Shipping Agreement; WTI Near $75",
-      "summary": "Iran and Oman agreed on a proposed shipping corridor through the Strait of Hormuz, raising hopes of partial energy flow resumption. West Texas Intermediate held near $75/barrel after losing 11% in the week's first three sessions. Oil markets cautious as real-world implementation of the deal remains unclear.",
-      "why": "霍尔木兹局势缓和使油价从高位回落，降低通胀预期，间接支持美联储降息路径，有利于估值敏感的科技股和消费股。同时，能源成本下行对港股互联网/消费板块（美团、携程）的经营环境为正面影响。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "霍尔木兹海峡",
-        "Hormuz",
-        "油价",
-        "伊朗",
-        "宏观",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/latest-oil-market-news-and-analysis-for-aug-6",
-      "published_date": "2026-08-05",
-      "still_developing": true,
-      "first_seen": "2026-08-06",
-      "is_new": true
-    },
-    {
-      "id": "9982d68ec73faf8f",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Samsung, SK Hynix, Micron Sell Out 2027 DRAM and HBM Capacity; AI Demand Absorbs 70% of Output",
-      "summary": "Per industry sources cited by DigiTimes, all three major memory makers — Samsung, SK Hynix, and Micron — have booked their entire 2027 DRAM and HBM capacity, with AI demand consuming ~70% of total DRAM output. NAND Flash is also nearing full booking through August 2026. Apple reportedly failed to secure a fourth DRAM supplier as the 2027 market closed. Consumer device DRAM allocations for 2027 will shrink noticeably as AI continues to crowd out mobile/PC demand.",
-      "why": "2027年产能全部售罄意味着SK海力士（HBM龙头）和美光/闪迪的利润能见度极高，支持估值上行；期权策略中相关标的隐含波动率或因供需紧缺持续走高，sell put 收益率保持有吸引力。供给瓶颈还将推高HBM均价，利好SK海力士做多方向。",
-      "source": "Seeking Alpha (DigiTimes原始报告)",
-      "verified": false,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "美光",
-        "Micron",
-        "闪迪",
-        "SanDisk",
-        "HBM",
-        "DRAM",
-        "存储芯片",
-        "AI芯片"
-      ],
-      "translated": false,
-      "url": "https://seekingalpha.com/news/4625688-samsung-sk-hynix-micron-sell-out-2027-memory-chip-supply-report",
-      "published_date": "2026-08-04",
-      "still_developing": true,
-      "first_seen": "2026-08-06",
-      "is_new": true
-    },
-    {
-      "id": "e98819576010aa92",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "AMD Q2 2026: Record Revenue $11.5B, Data Center Doubles to $6.7B — Q3 Guided to $13B on AI Demand",
-      "summary": "AMD reported record Q2 2026 revenue of $11.5B (+50% YoY), with data center revenue surging 107% to $6.7B driven by EPYC server CPUs and Instinct AI GPUs. Q3 revenue guided to $13B, 2.9% above consensus. Helios rack-scale AI system (Venice CPU + MI455X GPU) entering production, with Meta and OpenAI as launch customers.",
-      "why": "AMD业绩大超预期，确认AI算力需求仍极强劲，是8月26日英伟达(NVDA)财报超预期的有力先行指标。数据中心GPU翻倍增长直接支撑SK海力士/美光的HBM需求叙事；NVDA covered call 时机可继续持守。",
-      "source": "SEC EDGAR (AMD Form 8-K)",
-      "verified": true,
-      "keywords": [
-        "AMD",
-        "AI芯片",
-        "数据中心",
-        "GPU",
-        "HBM",
-        "英伟达"
-      ],
-      "translated": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000121/amdq22026earningsslidesf.htm",
-      "published_date": "2026-08-04",
-      "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": true
-    },
-    {
-      "id": "42a06fabf7a64809",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "阿里巴巴发布最强千问模型Qwen3.8-Max：2.4万亿参数，全球第三方榜单排名仅次于Claude",
-      "summary": "阿里巴巴于8月3日正式发布Qwen3.8-Max，参数量达2.4万亿，采用稀疏MoE架构，是千问系列首个突破万亿参数的模型，也是首个承诺开源权重的Max级模型。128K标准上下文，特殊场景可无损扩展至1M tokens。权威第三方榜单Arena排名全球第二，仅次于Anthropic Claude系列。API已上线：输入12元/百万token。",
-      "why": "阿里AI技术突破缩小与国际顶尖模型差距，有望重估阿里云估值；持仓9988.HK/BABA方向正面，Sell put 行权价可适度下调提供安全垫。当日港股阿里逆势大涨6%，需关注后续能否持续。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "千问",
-        "Qwen",
-        "AI",
-        "通义千问",
-        "阿里云"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-04/doc-inimchzp5738576.shtml",
-      "published_date": "2026-08-04",
-      "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": true
-    },
-    {
-      "id": "c041b93e235ef3cc",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "SanDisk and SK Hynix Unveil Industry-First High Bandwidth Flash (HBF) Standard at FMS 2026",
-      "summary": "SanDisk and SK Hynix released the first OCP technical specification for High Bandwidth Flash (HBF) — a new memory tier positioned between HBM and SSDs for AI inference workloads. HBF supports up to 512GB capacity using 8-high/16-high NAND die stacks with three bandwidth grades (0.4–3.0 TB/s). Consortium includes Google and Tenstorrent. Announced at the Future of Memory and Storage conference (FMS 2026, Santa Clara, Aug 4–6).",
-      "why": "HBF标准确立标志着SanDisk（SNDK）在AI存储生态的战略地位提升，拓展其产品线从消费级NAND向高利润AI基础设施层迁移；SK海力士（南方两倍做多）是联合制定者，有望在AI推理市场获得新营收来源。此次技术标准化是长期利多，但短期催化有限。",
-      "source": "SanDisk Investor Relations (Primary Official)",
-      "verified": true,
-      "keywords": [
-        "闪迪",
-        "SanDisk",
-        "SK海力士",
-        "SK Hynix",
-        "HBM",
-        "NAND",
-        "闪存",
-        "AI芯片",
-        "存储"
-      ],
-      "translated": false,
-      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-and-sk-hynix-advance-global-standardization-high",
-      "published_date": "2026-08-03",
-      "still_developing": true,
-      "first_seen": "2026-08-06",
-      "is_new": true
-    },
-    {
-      "id": "1b69be34e91c50e5",
+      "id": "a43cff30b7448581",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "老铺黄金：跌没一个周大福——中期利润预增83%但增速骤降，股价从高点累计跌73%",
-      "summary": "老铺黄金（06181.HK）2026年上半年经调整净利润预计增长83%–85%至43.1亿–43.6亿元，营收增长60%–66%至198亿–204.5亿元；但增速较2025H1（净利润超2倍）大幅放缓，且二季度收入环比大幅下滑，触发市场失望情绪。7月28日单日股价暴跌23.76%，29日再跌4.83%，自2025年7月历史高点（1108港元）已累计下跌约73%，市值蒸发超一个周大福。",
-      "why": "高增长故事被打破，黄金价格从高点回落（近期在4000美元/盎司附近波动）叠加需求疲软，未来增长预期被重新定价。若持有老铺黄金相关期权或正股，行权价/止损需重新评估。机构纷纷下调目标价（海通国际目标553港元），当前股价仍有进一步寻底可能；延续报道：8月正式中期业绩即将发布。",
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "财政部8月5日香港发行150亿元人民币国债，认购倍数4.67倍创2025年6月以来新高",
+      "summary": "中国财政部8月5日在港发行150亿元人民币国债（含2年/3年/5年/15年/30年五档），整体认购倍数4.67倍，为2025年6月以来最高；发行利率：2年期1.27%、5年期1.43%、30年期2.24%。全年计划在港共发行840亿元。",
+      "why": "超额认购创新高，显示国际机构对人民币资产配置意愿持续上升；有助于港股人民币流动性，也是人民币国际化进展的正面信号。",
       "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "老铺黄金",
-        "Laopu Gold",
-        "黄金",
-        "金价",
-        "珠宝",
-        "古法金"
+        "人民币国债",
+        "香港",
+        "财政部",
+        "认购倍数",
+        "人民币国际化"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikzzhm2651202.shtml",
-      "published_date": "2026-08-03",
-      "still_developing": true,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimivfi3081438.shtml",
+      "published_date": "2026-08-06",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": true
+    },
+    {
+      "id": "760df4965bd80f41",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "MLCC超级景气周期确立：三星SM从8月1日起全线涨价30%，AI服务器需求引爆供需失衡",
+      "summary": "村田、三星电机（8月1日起全线+30%）、TDK（9月1日跟进）三大MLCC龙头接力涨价；8颗GPU的AI训练服务器需约4.8万颗高端MLCC，旗舰服务器机柜超44万颗；中金预计此轮价格上涨持续时间可能超过1年，A股国产MLCC替代窗口打开。",
+      "why": "MLCC是AI服务器及新能源汽车核心被动元件，龙头涨价落实后国内替代标的利润弹性大；AI算力基建持续扩张对相关持仓构成长期利好。",
+      "source": "新浪科技",
+      "verified": false,
+      "keywords": [
+        "MLCC",
+        "涨价",
+        "AI服务器",
+        "三星电机",
+        "被动元件"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-05/doc-inimhiec5141998.shtml",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": true
+    },
+    {
+      "id": "ace296dea929cb07",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:30",
+      "group": "个股",
+      "title": "Disney Q3 2026 Beats: Streaming Profit Doubles to $712M, EPS $2.06 (+28%), Parks +10%; Buyback Raised to $9B+",
+      "summary": "迪士尼FQ3 2026流媒体运营利润7.12亿美元（较去年3.29亿美元翻倍，利润率12.9%），调整EPS 2.06美元（+28%，超预期1.86美元），总收入252亿美元（+7%），主题公园收入近100亿（+10%）；《玩具总动员5》全球票房破10亿；回购计划上调至全年至少90亿美元。",
+      "why": "流媒体首次实现双位数利润率是长期估值修复关键里程碑；回购加码支撑股价；持有DIS仓位或卖put策略信号积极。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Disney",
+        "DIS",
+        "streaming",
+        "Disney+",
+        "earnings beat",
+        "buyback"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": true
+    },
+    {
+      "id": "9db20476b5e785b0",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "Circle Q2 2026: USDC Circulation $73.3B (+19%), Revenue $701M; Wins US National Trust Bank Charter",
+      "summary": "Circle Q2 2026营收及储备收入7.01亿美元（+7% YoY），USDC流通量733亿美元（+19%），链上交易量14.8万亿美元（+151%）；公司获得美国货币监理署（OCC）批准设立国家信托银行Circle National Trust，成为首批获联邦银行牌照的稳定币发行商；2026年'其他收入'指引近乎翻倍。",
+      "why": "国家银行牌照是重大里程碑，长期合规空间打开；USDC增长稳健；但注意同期摩根士丹利大幅下调评级（见另条），股价短期仍有下行压力。",
+      "source": "Circle（官方新闻稿）",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "stablecoin",
+        "稳定币",
+        "Q2 2026"
+      ],
+      "translated": false,
+      "url": "https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": true
+    },
+    {
+      "id": "aee84a4823a867e1",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "Costco Reports July 2026 Net Sales $23.12B, Up 10.7% YoY; 48-Week Total +10.1%",
+      "summary": "好市多2026年7月零售月（截至8月2日的4周）净销售额231.2亿美元，同比增长10.7%；前48周净销售额2735.5亿美元（+10.1%）；全球共933家仓储超市运营，其中美国及波多黎各641家。",
+      "why": "月度销售数据持续双位数增长显示消费韧性；好市多是消费赛道护城河标的，卖put策略可在合适行权价布局。",
+      "source": "Costco Investor Relations",
+      "verified": true,
+      "keywords": [
+        "Costco",
+        "COST",
+        "好市多",
+        "月度销售",
+        "会员制"
+      ],
+      "translated": false,
+      "url": "https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Reports-July-Sales-Results/default.aspx",
+      "published_date": "2026-08-05",
+      "still_developing": false,
       "first_seen": "2026-08-06",
       "is_new": true
     },
@@ -2371,6 +2360,123 @@
       "is_new": false
     },
     {
+      "id": "e598d9e97833efbc",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午评：恒指跌1.75% 科指跌1.87% 科网股、保险股普跌 黄金股逆势上涨",
+      "summary": "8月6日午间，港股三大指数集体下挫，恒生指数跌1.75%至25,463点，恒生科技指数跌1.87%。科网股普跌：阿里巴巴、百度跌超3%，小米、京东跌超2%；黄金股逆势走强，潼关黄金涨超6%。",
+      "why": "科网板块普跌直接压制持仓中的腾讯、阿里、美团、携程等港股仓位；触发原因为美国7月ADP就业大幅不及预期（仅增4.4万），降息预期升温但对科技股短期构成情绪性抛压。Sell put 持仓需关注行权价保护空间。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "科网股",
+        "黄金股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-06/doc-inimizpr0719930.shtml",
+      "published_date": "2026-08-06",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "d2afbea4cbacf451",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:15",
+      "group": "大盘头条",
+      "title": "U.S. July ADP Employment: Private Sector Adds Only 44,000 Jobs, Far Below 75,000 Estimate",
+      "summary": "ADP National Employment Report shows U.S. private payrolls grew by just 44,000 in July 2026, sharply missing the 75,000 consensus forecast and down from June's 95,000. Services added 47,000 while goods-producing sectors shed 3,000 jobs. Annual pay growth held at 4.4% for job-stayers.",
+      "why": "就业数据骤降强化市场降息预期，短期利多美债、压制美元，但港股科技股当日跟跌体现情绪传导。Sell put 策略中美股标的（NVDA、TSLA、COST 等）短期隐含波动率或受宏观不确定性推升，有利于期权权利金。",
+      "source": "ADP Official / Fox Business",
+      "verified": true,
+      "keywords": [
+        "ADP",
+        "美国就业",
+        "非农",
+        "降息预期",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-preliminary-estimate-for-july-4-2026-302829949.html",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "00cc5005c6d1bfff",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06:30",
+      "group": "大盘头条",
+      "title": "Oil Holds Three-Day Drop as Iran, Oman Reach Hormuz Shipping Agreement; WTI Near $75",
+      "summary": "Iran and Oman agreed on a proposed shipping corridor through the Strait of Hormuz, raising hopes of partial energy flow resumption. West Texas Intermediate held near $75/barrel after losing 11% in the week's first three sessions. Oil markets cautious as real-world implementation of the deal remains unclear.",
+      "why": "霍尔木兹局势缓和使油价从高位回落，降低通胀预期，间接支持美联储降息路径，有利于估值敏感的科技股和消费股。同时，能源成本下行对港股互联网/消费板块（美团、携程）的经营环境为正面影响。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "霍尔木兹海峡",
+        "Hormuz",
+        "油价",
+        "伊朗",
+        "宏观",
+        "地缘"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/latest-oil-market-news-and-analysis-for-aug-6",
+      "published_date": "2026-08-05",
+      "still_developing": true,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "9982d68ec73faf8f",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Samsung, SK Hynix, Micron Sell Out 2027 DRAM and HBM Capacity; AI Demand Absorbs 70% of Output",
+      "summary": "Per industry sources cited by DigiTimes, all three major memory makers — Samsung, SK Hynix, and Micron — have booked their entire 2027 DRAM and HBM capacity, with AI demand consuming ~70% of total DRAM output. NAND Flash is also nearing full booking through August 2026. Apple reportedly failed to secure a fourth DRAM supplier as the 2027 market closed. Consumer device DRAM allocations for 2027 will shrink noticeably as AI continues to crowd out mobile/PC demand.",
+      "why": "2027年产能全部售罄意味着SK海力士（HBM龙头）和美光/闪迪的利润能见度极高，支持估值上行；期权策略中相关标的隐含波动率或因供需紧缺持续走高，sell put 收益率保持有吸引力。供给瓶颈还将推高HBM均价，利好SK海力士做多方向。",
+      "source": "Seeking Alpha (DigiTimes原始报告)",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "美光",
+        "Micron",
+        "闪迪",
+        "SanDisk",
+        "HBM",
+        "DRAM",
+        "存储芯片",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://seekingalpha.com/news/4625688-samsung-sk-hynix-micron-sell-out-2027-memory-chip-supply-report",
+      "published_date": "2026-08-04",
+      "still_developing": true,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
       "id": "5258ab58d8a2bedd",
       "tier": 1,
       "lang": "en",
@@ -3797,6 +3903,127 @@
         "insider sale"
       ],
       "first_seen": "2026-08-05",
+      "is_new": false
+    },
+    {
+      "id": "e98819576010aa92",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:00",
+      "group": "大盘头条",
+      "title": "AMD Q2 2026: Record Revenue $11.5B, Data Center Doubles to $6.7B — Q3 Guided to $13B on AI Demand",
+      "summary": "AMD reported record Q2 2026 revenue of $11.5B (+50% YoY), with data center revenue surging 107% to $6.7B driven by EPYC server CPUs and Instinct AI GPUs. Q3 revenue guided to $13B, 2.9% above consensus. Helios rack-scale AI system (Venice CPU + MI455X GPU) entering production, with Meta and OpenAI as launch customers.",
+      "why": "AMD业绩大超预期，确认AI算力需求仍极强劲，是8月26日英伟达(NVDA)财报超预期的有力先行指标。数据中心GPU翻倍增长直接支撑SK海力士/美光的HBM需求叙事；NVDA covered call 时机可继续持守。",
+      "source": "SEC EDGAR (AMD Form 8-K)",
+      "verified": true,
+      "keywords": [
+        "AMD",
+        "AI芯片",
+        "数据中心",
+        "GPU",
+        "HBM",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000121/amdq22026earningsslidesf.htm",
+      "published_date": "2026-08-04",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "42a06fabf7a64809",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "阿里巴巴发布最强千问模型Qwen3.8-Max：2.4万亿参数，全球第三方榜单排名仅次于Claude",
+      "summary": "阿里巴巴于8月3日正式发布Qwen3.8-Max，参数量达2.4万亿，采用稀疏MoE架构，是千问系列首个突破万亿参数的模型，也是首个承诺开源权重的Max级模型。128K标准上下文，特殊场景可无损扩展至1M tokens。权威第三方榜单Arena排名全球第二，仅次于Anthropic Claude系列。API已上线：输入12元/百万token。",
+      "why": "阿里AI技术突破缩小与国际顶尖模型差距，有望重估阿里云估值；持仓9988.HK/BABA方向正面，Sell put 行权价可适度下调提供安全垫。当日港股阿里逆势大涨6%，需关注后续能否持续。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "千问",
+        "Qwen",
+        "AI",
+        "通义千问",
+        "阿里云"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-04/doc-inimchzp5738576.shtml",
+      "published_date": "2026-08-04",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "c041b93e235ef3cc",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "SanDisk and SK Hynix Unveil Industry-First High Bandwidth Flash (HBF) Standard at FMS 2026",
+      "summary": "SanDisk and SK Hynix released the first OCP technical specification for High Bandwidth Flash (HBF) — a new memory tier positioned between HBM and SSDs for AI inference workloads. HBF supports up to 512GB capacity using 8-high/16-high NAND die stacks with three bandwidth grades (0.4–3.0 TB/s). Consortium includes Google and Tenstorrent. Announced at the Future of Memory and Storage conference (FMS 2026, Santa Clara, Aug 4–6).",
+      "why": "HBF标准确立标志着SanDisk（SNDK）在AI存储生态的战略地位提升，拓展其产品线从消费级NAND向高利润AI基础设施层迁移；SK海力士（南方两倍做多）是联合制定者，有望在AI推理市场获得新营收来源。此次技术标准化是长期利多，但短期催化有限。",
+      "source": "SanDisk Investor Relations (Primary Official)",
+      "verified": true,
+      "keywords": [
+        "闪迪",
+        "SanDisk",
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "NAND",
+        "闪存",
+        "AI芯片",
+        "存储"
+      ],
+      "translated": false,
+      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-and-sk-hynix-advance-global-standardization-high",
+      "published_date": "2026-08-03",
+      "still_developing": true,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "1b69be34e91c50e5",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "老铺黄金：跌没一个周大福——中期利润预增83%但增速骤降，股价从高点累计跌73%",
+      "summary": "老铺黄金（06181.HK）2026年上半年经调整净利润预计增长83%–85%至43.1亿–43.6亿元，营收增长60%–66%至198亿–204.5亿元；但增速较2025H1（净利润超2倍）大幅放缓，且二季度收入环比大幅下滑，触发市场失望情绪。7月28日单日股价暴跌23.76%，29日再跌4.83%，自2025年7月历史高点（1108港元）已累计下跌约73%，市值蒸发超一个周大福。",
+      "why": "高增长故事被打破，黄金价格从高点回落（近期在4000美元/盎司附近波动）叠加需求疲软，未来增长预期被重新定价。若持有老铺黄金相关期权或正股，行权价/止损需重新评估。机构纷纷下调目标价（海通国际目标553港元），当前股价仍有进一步寻底可能；延续报道：8月正式中期业绩即将发布。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "黄金",
+        "金价",
+        "珠宝",
+        "古法金"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikzzhm2651202.shtml",
+      "published_date": "2026-08-03",
+      "still_developing": true,
+      "first_seen": "2026-08-06",
       "is_new": false
     },
     {
