@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-06 08:17 (北京时间)",
+  "updated_at": "2026-08-06 13:25 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,238 +37,240 @@
   "positions": [],
   "items": [
     {
-      "id": "5258ab58d8a2bedd",
+      "id": "e598d9e97833efbc",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午评：恒指跌1.75% 科指跌1.87% 科网股、保险股普跌 黄金股逆势上涨",
+      "summary": "8月6日午间，港股三大指数集体下挫，恒生指数跌1.75%至25,463点，恒生科技指数跌1.87%。科网股普跌：阿里巴巴、百度跌超3%，小米、京东跌超2%；黄金股逆势走强，潼关黄金涨超6%。",
+      "why": "科网板块普跌直接压制持仓中的腾讯、阿里、美团、携程等港股仓位；触发原因为美国7月ADP就业大幅不及预期（仅增4.4万），降息预期升温但对科技股短期构成情绪性抛压。Sell put 持仓需关注行权价保护空间。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "科网股",
+        "黄金股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-06/doc-inimizpr0719930.shtml",
+      "published_date": "2026-08-06",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": true
+    },
+    {
+      "id": "d2afbea4cbacf451",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08:00",
+      "time": "08:15",
       "group": "大盘头条",
-      "title": "Google shakes up AI leadership as DeepMind chief Hassabis moves to chairman; Jeff Dean departs",
-      "summary": "Alphabet CEO Sundar Pichai announced major AI leadership overhaul on Aug 5: DeepMind CEO Demis Hassabis moves to chairman role; 27-year veteran and chief scientist Jeff Dean exits to launch AI startup Discovery Loop. GOOGL shares fell ~4-5%, briefly erasing ~$190B in market cap. Background: Gemini flagship model has missed its June launch date, sparking concerns Google is falling behind OpenAI and Anthropic.",
-      "why": "Google AI核心人才大规模流失，市场对其AI竞争力的担忧明显升温；GOOGL单日蒸发约1900亿美元市值，持有GOOGL期权者需关注隐含波动率上升及短期下行风险。",
-      "source": "Bloomberg / Yahoo Finance",
+      "title": "U.S. July ADP Employment: Private Sector Adds Only 44,000 Jobs, Far Below 75,000 Estimate",
+      "summary": "ADP National Employment Report shows U.S. private payrolls grew by just 44,000 in July 2026, sharply missing the 75,000 consensus forecast and down from June's 95,000. Services added 47,000 while goods-producing sectors shed 3,000 jobs. Annual pay growth held at 4.4% for job-stayers.",
+      "why": "就业数据骤降强化市场降息预期，短期利多美债、压制美元，但港股科技股当日跟跌体现情绪传导。Sell put 策略中美股标的（NVDA、TSLA、COST 等）短期隐含波动率或受宏观不确定性推升，有利于期权权利金。",
+      "source": "ADP Official / Fox Business",
       "verified": true,
       "keywords": [
-        "谷歌",
-        "Google",
-        "Alphabet",
-        "GOOGL",
-        "Gemini",
-        "DeepMind",
-        "AI芯片"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
-      "published_date": "2026-08-05",
-      "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": true
-    },
-    {
-      "id": "efb00496f0e51cf7",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "Fed Governor Cook: 'Prepared to raise rates if inflation doesn't cool'; warns risk of entrenched inflation",
-      "summary": "Fed Governor Lisa Cook, speaking in Anchorage on Aug 5, said she is 'prepared to act by raising rates, if necessary,' warning that five years of above-target inflation risk entrenching inflation expectations. The FOMC held rates at 3.50%-3.75% at its July 29 meeting with 3 members voting to hike. New Fed Chair Kevin Warsh's median projection also points to one rate hike in 2026.",
-      "why": "美联储鹰派信号明确，加息预期升温将压制高估值成长股（港股科技/A股半导体）；sell put策略需关注行权价附近Delta风险；利率敏感型资产面临调整压力。",
-      "source": "CNBC / Bloomberg",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "Federal Reserve",
-        "加息",
-        "通胀",
+        "ADP",
+        "美国就业",
+        "非农",
+        "降息预期",
         "宏观"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
+      "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-preliminary-estimate-for-july-4-2026-302829949.html",
       "published_date": "2026-08-05",
       "still_developing": false,
       "first_seen": "2026-08-06",
       "is_new": true
     },
     {
-      "id": "eb11d1de6200ff19",
+      "id": "00cc5005c6d1bfff",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US",
-        "HK",
-        "A"
+        "US"
       ],
-      "time": "07:30",
+      "time": "06:30",
       "group": "大盘头条",
-      "title": "Strait of Hormuz: US-Iran deal talks continue; Brent swings between $80-$83 on conflicting signals",
-      "summary": "Oil prices have been whipsawing as diplomatic efforts to reopen the Strait of Hormuz proceed. Trump paused a planned military strike following Gulf state appeals; new talks announced. However, tanker attacks continue and the Strait remains largely closed. Brent crude has swung from ~$80 on deal optimism to ~$83 on Houthi attack claims. The Strait carries ~27% of global seaborne crude trade. Asia markets Thursday watching for fresh deal signals.",
-      "why": "延续报道：霍尔木兹海峡自3月4日关闭以来持续是全球最大宏观风险，谈判进展直接牵动油价与全球通胀预期，影响中国进口原油成本；本周谈判仍处关键节点，事件高度发酵中，油价每日剧烈波动。",
-      "source": "The National / Reuters",
+      "title": "Oil Holds Three-Day Drop as Iran, Oman Reach Hormuz Shipping Agreement; WTI Near $75",
+      "summary": "Iran and Oman agreed on a proposed shipping corridor through the Strait of Hormuz, raising hopes of partial energy flow resumption. West Texas Intermediate held near $75/barrel after losing 11% in the week's first three sessions. Oil markets cautious as real-world implementation of the deal remains unclear.",
+      "why": "霍尔木兹局势缓和使油价从高位回落，降低通胀预期，间接支持美联储降息路径，有利于估值敏感的科技股和消费股。同时，能源成本下行对港股互联网/消费板块（美团、携程）的经营环境为正面影响。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "宏观",
+        "霍尔木兹海峡",
+        "Hormuz",
         "油价",
-        "霍尔木兹",
-        "macro",
+        "伊朗",
+        "宏观",
         "地缘"
       ],
       "translated": false,
-      "url": "https://www.thenationalnews.com/business/energy/2026/08/03/oil-prices-slump-on-potential-us-iran-deal-to-open-strait-of-hormuz/",
-      "published_date": "2026-08-03",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/latest-oil-market-news-and-analysis-for-aug-6",
+      "published_date": "2026-08-05",
       "still_developing": true,
       "first_seen": "2026-08-06",
       "is_new": true
     },
     {
-      "id": "b14736ea88ec2e4c",
+      "id": "9982d68ec73faf8f",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Samsung, SK Hynix, Micron Sell Out 2027 DRAM and HBM Capacity; AI Demand Absorbs 70% of Output",
+      "summary": "Per industry sources cited by DigiTimes, all three major memory makers — Samsung, SK Hynix, and Micron — have booked their entire 2027 DRAM and HBM capacity, with AI demand consuming ~70% of total DRAM output. NAND Flash is also nearing full booking through August 2026. Apple reportedly failed to secure a fourth DRAM supplier as the 2027 market closed. Consumer device DRAM allocations for 2027 will shrink noticeably as AI continues to crowd out mobile/PC demand.",
+      "why": "2027年产能全部售罄意味着SK海力士（HBM龙头）和美光/闪迪的利润能见度极高，支持估值上行；期权策略中相关标的隐含波动率或因供需紧缺持续走高，sell put 收益率保持有吸引力。供给瓶颈还将推高HBM均价，利好SK海力士做多方向。",
+      "source": "Seeking Alpha (DigiTimes原始报告)",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "美光",
+        "Micron",
+        "闪迪",
+        "SanDisk",
+        "HBM",
+        "DRAM",
+        "存储芯片",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://seekingalpha.com/news/4625688-samsung-sk-hynix-micron-sell-out-2027-memory-chip-supply-report",
+      "published_date": "2026-08-04",
+      "still_developing": true,
+      "first_seen": "2026-08-06",
+      "is_new": true
+    },
+    {
+      "id": "e98819576010aa92",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08:30",
+      "time": "18:00",
       "group": "大盘头条",
-      "title": "AMD Q2 CY2026: Revenue $11.54B (+50% YoY) beat — but stock slumped ~9% on gross margin miss",
-      "summary": "AMD reported Q2 2026 revenue of $11.54B (+50.1% YoY), non-GAAP EPS of $1.66, both beating consensus. Q3 guidance midpoint of $13B (2.9% above estimates). Despite the beat, shares fell ~8-9%: gross margin came in at 54% vs the 56% consensus, weighed down by Helios AI infrastructure ramp-up costs. Market had priced in perfection.",
-      "why": "AMD毛利率未达预期引发芯片板块情绪承压；AI基建投入拖累盈利质量是本轮财报期新变量，对持有AMD或同类半导体标的期权者需注意短期负面溢出效应。",
-      "source": "StockStory / FinancialContent",
+      "title": "AMD Q2 2026: Record Revenue $11.5B, Data Center Doubles to $6.7B — Q3 Guided to $13B on AI Demand",
+      "summary": "AMD reported record Q2 2026 revenue of $11.5B (+50% YoY), with data center revenue surging 107% to $6.7B driven by EPYC server CPUs and Instinct AI GPUs. Q3 revenue guided to $13B, 2.9% above consensus. Helios rack-scale AI system (Venice CPU + MI455X GPU) entering production, with Meta and OpenAI as launch customers.",
+      "why": "AMD业绩大超预期，确认AI算力需求仍极强劲，是8月26日英伟达(NVDA)财报超预期的有力先行指标。数据中心GPU翻倍增长直接支撑SK海力士/美光的HBM需求叙事；NVDA covered call 时机可继续持守。",
+      "source": "SEC EDGAR (AMD Form 8-K)",
       "verified": true,
       "keywords": [
-        "半导体",
+        "AMD",
         "AI芯片",
+        "数据中心",
         "GPU",
-        "宏观",
-        "semiconductor"
+        "HBM",
+        "英伟达"
       ],
       "translated": false,
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-4-amds-nasdaqamd-q2-sales-top-estimates-but-stock-drops",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000121/amdq22026earningsslidesf.htm",
       "published_date": "2026-08-04",
       "still_developing": false,
       "first_seen": "2026-08-06",
       "is_new": true
     },
     {
-      "id": "4b5a990ef38a15d5",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "05:30",
-      "group": "大盘头条",
-      "title": "US stocks score new record highs on Aug 5 led by Palantir surge; HSI +0.24% on Aug 6",
-      "summary": "US equity markets scored new all-time highs on Wednesday Aug 5, driven by Palantir (+30%) and broader tech. Hang Seng Index closed Aug 6 at 25,915 (+0.24%), holding gains as Asia digested US earnings. S&P 500 rising ~0.6% to fresh high. Oil nudged ~1% higher on renewed Houthi attack claims in the Red Sea.",
-      "why": "美股屡创新高提振市场情绪，港股跟随温和上涨；但美股估值偏高叠加Fed加息信号，需警惕回调风险；持有covered call的投资者或面临被动行权压力。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro",
-        "S&P500",
-        "道指",
-        "港股",
-        "HSI"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/stock-market-today-dow-s-p-live-updates",
-      "published_date": "2026-08-05",
-      "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": true
-    },
-    {
-      "id": "f0601ca94d6490b9",
+      "id": "42a06fabf7a64809",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "A"
+        "HK",
+        "US"
       ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "A股放量反攻：创业板指涨5.64%，半导体芯片板块强势领涨，科创50涨4.09%",
-      "summary": "2026年8月4日A股市场全天震荡走高。上证指数收报3822.28点（+0.33%）；深证成指涨3.25%；创业板指涨5.64%；科创50指数涨4.09%。半导体、AI相关个股领涨，有AI概念股8个交易日翻倍。7月新增股民266万人，市场活跃度持续提升。",
-      "why": "A股半导体与AI板块强势反弹，联动海外SK海力士、美光等存储标的估值逻辑；创业板指单日涨幅显著，市场情绪乐观，但需警惕短期过热。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "半导体",
-        "A股",
-        "AI芯片",
-        "semiconductor",
-        "消费",
-        "科技"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-08-05/doc-inimhawf5195492.shtml",
-      "published_date": "2026-08-05",
-      "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": true
-    },
-    {
-      "id": "c03953eca5f39eef",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:30",
+      "time": "10:00",
       "group": "个股",
-      "title": "段永平持仓从7.65%降至5.55%，泡泡玛特澄清：不是主动减持，系期权行权交割",
-      "summary": "港交所披露，段永平旗下H&H International Investment对泡泡玛特持仓于2026年7月30日由7.65%降至5.55%。泡泡玛特公司随即澄清：该变动并非主动减持，而是段永平此前售出的看涨期权（call options）在相应价位行权后的股份交割行为，属正常期权合约履行。值得注意的是，段永平7月23日刚在雪球表示\"刚开始买泡泡玛特，大概率10年不卖\"。",
-      "why": "港交所持仓披露引发市场短期情绪波动，但公司澄清系期权行权（非主动看空），事件本质为covered call策略的股份交割；从期权角度看，若行权价附近股价承压，是评估新一轮sell put的观察机会。",
-      "source": "新浪财经 / 21世纪经济报道",
+      "title": "阿里巴巴发布最强千问模型Qwen3.8-Max：2.4万亿参数，全球第三方榜单排名仅次于Claude",
+      "summary": "阿里巴巴于8月3日正式发布Qwen3.8-Max，参数量达2.4万亿，采用稀疏MoE架构，是千问系列首个突破万亿参数的模型，也是首个承诺开源权重的Max级模型。128K标准上下文，特殊场景可无损扩展至1M tokens。权威第三方榜单Arena排名全球第二，仅次于Anthropic Claude系列。API已上线：输入12元/百万token。",
+      "why": "阿里AI技术突破缩小与国际顶尖模型差距，有望重估阿里云估值；持仓9988.HK/BABA方向正面，Sell put 行权价可适度下调提供安全垫。当日港股阿里逆势大涨6%，需关注后续能否持续。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "POPMART",
-        "9992.HK",
-        "盲盒",
-        "期权"
+        "阿里巴巴",
+        "Alibaba",
+        "千问",
+        "Qwen",
+        "AI",
+        "通义千问",
+        "阿里云"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-08-05/doc-inimhpnf4464271.shtml",
-      "published_date": "2026-08-05",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-04/doc-inimchzp5738576.shtml",
+      "published_date": "2026-08-04",
       "still_developing": false,
       "first_seen": "2026-08-06",
       "is_new": true
     },
     {
-      "id": "91f363d2fe649d0d",
+      "id": "c041b93e235ef3cc",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "09:30",
+      "time": "09:00",
       "group": "个股",
-      "title": "SanDisk (SNDK) Q4 FY2026: Revenue $8.97B (beat $8.42B), gross margin 84.6%, authorized $14B buyback",
-      "summary": "SanDisk (SNDK) reported Q4 FY2026 results (Aug 5): revenue $8.97B vs $8.42B estimate; non-GAAP EPS $39.25 vs $34.59 estimate (beat ~13%). Gross margin reached a record 84.6%; operating cash flow $7.1B (+135% QoQ). Board authorized additional $14B share buyback. Q1 FY2027 revenue guidance midpoint ~$10.55B. Growth driven by Datacenter and Edge segments.",
-      "why": "NAND存储超级周期强劲兑现，闪迪创纪录毛利率与140亿美元回购印证存储行业盈利能力；此数据亦支撑A股存储/半导体板块估值逻辑，及SK海力士等HBM相关标的情绪；高回购有助股价支撑。",
-      "source": "SanDisk IR / StockTitan",
+      "title": "SanDisk and SK Hynix Unveil Industry-First High Bandwidth Flash (HBF) Standard at FMS 2026",
+      "summary": "SanDisk and SK Hynix released the first OCP technical specification for High Bandwidth Flash (HBF) — a new memory tier positioned between HBM and SSDs for AI inference workloads. HBF supports up to 512GB capacity using 8-high/16-high NAND die stacks with three bandwidth grades (0.4–3.0 TB/s). Consortium includes Google and Tenstorrent. Announced at the Future of Memory and Storage conference (FMS 2026, Santa Clara, Aug 4–6).",
+      "why": "HBF标准确立标志着SanDisk（SNDK）在AI存储生态的战略地位提升，拓展其产品线从消费级NAND向高利润AI基础设施层迁移；SK海力士（南方两倍做多）是联合制定者，有望在AI推理市场获得新营收来源。此次技术标准化是长期利多，但短期催化有限。",
+      "source": "SanDisk Investor Relations (Primary Official)",
       "verified": true,
       "keywords": [
         "闪迪",
         "SanDisk",
-        "SNDK",
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
         "NAND",
         "闪存",
-        "存储",
-        "flash"
+        "AI芯片",
+        "存储"
       ],
       "translated": false,
-      "url": "https://www.stocktitan.net/news/SNDK/sandisk-reports-fiscal-fourth-quarter-2026-financial-kc0v6ojj1c1u.html",
-      "published_date": "2026-08-05",
-      "still_developing": false,
+      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-and-sk-hynix-advance-global-standardization-high",
+      "published_date": "2026-08-03",
+      "still_developing": true,
+      "first_seen": "2026-08-06",
+      "is_new": true
+    },
+    {
+      "id": "1b69be34e91c50e5",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "老铺黄金：跌没一个周大福——中期利润预增83%但增速骤降，股价从高点累计跌73%",
+      "summary": "老铺黄金（06181.HK）2026年上半年经调整净利润预计增长83%–85%至43.1亿–43.6亿元，营收增长60%–66%至198亿–204.5亿元；但增速较2025H1（净利润超2倍）大幅放缓，且二季度收入环比大幅下滑，触发市场失望情绪。7月28日单日股价暴跌23.76%，29日再跌4.83%，自2025年7月历史高点（1108港元）已累计下跌约73%，市值蒸发超一个周大福。",
+      "why": "高增长故事被打破，黄金价格从高点回落（近期在4000美元/盎司附近波动）叠加需求疲软，未来增长预期被重新定价。若持有老铺黄金相关期权或正股，行权价/止损需重新评估。机构纷纷下调目标价（海通国际目标553港元），当前股价仍有进一步寻底可能；延续报道：8月正式中期业绩即将发布。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "黄金",
+        "金价",
+        "珠宝",
+        "古法金"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikzzhm2651202.shtml",
+      "published_date": "2026-08-03",
+      "still_developing": true,
       "first_seen": "2026-08-06",
       "is_new": true
     },
@@ -2369,6 +2371,96 @@
       "is_new": false
     },
     {
+      "id": "5258ab58d8a2bedd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Google shakes up AI leadership as DeepMind chief Hassabis moves to chairman; Jeff Dean departs",
+      "summary": "Alphabet CEO Sundar Pichai announced major AI leadership overhaul on Aug 5: DeepMind CEO Demis Hassabis moves to chairman role; 27-year veteran and chief scientist Jeff Dean exits to launch AI startup Discovery Loop. GOOGL shares fell ~4-5%, briefly erasing ~$190B in market cap. Background: Gemini flagship model has missed its June launch date, sparking concerns Google is falling behind OpenAI and Anthropic.",
+      "why": "Google AI核心人才大规模流失，市场对其AI竞争力的担忧明显升温；GOOGL单日蒸发约1900亿美元市值，持有GOOGL期权者需关注隐含波动率上升及短期下行风险。",
+      "source": "Bloomberg / Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "Gemini",
+        "DeepMind",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "efb00496f0e51cf7",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "Fed Governor Cook: 'Prepared to raise rates if inflation doesn't cool'; warns risk of entrenched inflation",
+      "summary": "Fed Governor Lisa Cook, speaking in Anchorage on Aug 5, said she is 'prepared to act by raising rates, if necessary,' warning that five years of above-target inflation risk entrenching inflation expectations. The FOMC held rates at 3.50%-3.75% at its July 29 meeting with 3 members voting to hike. New Fed Chair Kevin Warsh's median projection also points to one rate hike in 2026.",
+      "why": "美联储鹰派信号明确，加息预期升温将压制高估值成长股（港股科技/A股半导体）；sell put策略需关注行权价附近Delta风险；利率敏感型资产面临调整压力。",
+      "source": "CNBC / Bloomberg",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Federal Reserve",
+        "加息",
+        "通胀",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "eb11d1de6200ff19",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Strait of Hormuz: US-Iran deal talks continue; Brent swings between $80-$83 on conflicting signals",
+      "summary": "Oil prices have been whipsawing as diplomatic efforts to reopen the Strait of Hormuz proceed. Trump paused a planned military strike following Gulf state appeals; new talks announced. However, tanker attacks continue and the Strait remains largely closed. Brent crude has swung from ~$80 on deal optimism to ~$83 on Houthi attack claims. The Strait carries ~27% of global seaborne crude trade. Asia markets Thursday watching for fresh deal signals.",
+      "why": "延续报道：霍尔木兹海峡自3月4日关闭以来持续是全球最大宏观风险，谈判进展直接牵动油价与全球通胀预期，影响中国进口原油成本；本周谈判仍处关键节点，事件高度发酵中，油价每日剧烈波动。",
+      "source": "The National / Reuters",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "油价",
+        "霍尔木兹",
+        "macro",
+        "地缘"
+      ],
+      "translated": false,
+      "url": "https://www.thenationalnews.com/business/energy/2026/08/03/oil-prices-slump-on-potential-us-iran-deal-to-open-strait-of-hormuz/",
+      "published_date": "2026-08-03",
+      "still_developing": true,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
       "id": "0201cc11493190b6",
       "tier": 2,
       "lang": "zh",
@@ -3705,6 +3797,152 @@
         "insider sale"
       ],
       "first_seen": "2026-08-05",
+      "is_new": false
+    },
+    {
+      "id": "b14736ea88ec2e4c",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "AMD Q2 CY2026: Revenue $11.54B (+50% YoY) beat — but stock slumped ~9% on gross margin miss",
+      "summary": "AMD reported Q2 2026 revenue of $11.54B (+50.1% YoY), non-GAAP EPS of $1.66, both beating consensus. Q3 guidance midpoint of $13B (2.9% above estimates). Despite the beat, shares fell ~8-9%: gross margin came in at 54% vs the 56% consensus, weighed down by Helios AI infrastructure ramp-up costs. Market had priced in perfection.",
+      "why": "AMD毛利率未达预期引发芯片板块情绪承压；AI基建投入拖累盈利质量是本轮财报期新变量，对持有AMD或同类半导体标的期权者需注意短期负面溢出效应。",
+      "source": "StockStory / FinancialContent",
+      "verified": true,
+      "keywords": [
+        "半导体",
+        "AI芯片",
+        "GPU",
+        "宏观",
+        "semiconductor"
+      ],
+      "translated": false,
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-4-amds-nasdaqamd-q2-sales-top-estimates-but-stock-drops",
+      "published_date": "2026-08-04",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "4b5a990ef38a15d5",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "05:30",
+      "group": "大盘头条",
+      "title": "US stocks score new record highs on Aug 5 led by Palantir surge; HSI +0.24% on Aug 6",
+      "summary": "US equity markets scored new all-time highs on Wednesday Aug 5, driven by Palantir (+30%) and broader tech. Hang Seng Index closed Aug 6 at 25,915 (+0.24%), holding gains as Asia digested US earnings. S&P 500 rising ~0.6% to fresh high. Oil nudged ~1% higher on renewed Houthi attack claims in the Red Sea.",
+      "why": "美股屡创新高提振市场情绪，港股跟随温和上涨；但美股估值偏高叠加Fed加息信号，需警惕回调风险；持有covered call的投资者或面临被动行权压力。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro",
+        "S&P500",
+        "道指",
+        "港股",
+        "HSI"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "f0601ca94d6490b9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股放量反攻：创业板指涨5.64%，半导体芯片板块强势领涨，科创50涨4.09%",
+      "summary": "2026年8月4日A股市场全天震荡走高。上证指数收报3822.28点（+0.33%）；深证成指涨3.25%；创业板指涨5.64%；科创50指数涨4.09%。半导体、AI相关个股领涨，有AI概念股8个交易日翻倍。7月新增股民266万人，市场活跃度持续提升。",
+      "why": "A股半导体与AI板块强势反弹，联动海外SK海力士、美光等存储标的估值逻辑；创业板指单日涨幅显著，市场情绪乐观，但需警惕短期过热。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "半导体",
+        "A股",
+        "AI芯片",
+        "semiconductor",
+        "消费",
+        "科技"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/wm/2026-08-05/doc-inimhawf5195492.shtml",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "c03953eca5f39eef",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:30",
+      "group": "个股",
+      "title": "段永平持仓从7.65%降至5.55%，泡泡玛特澄清：不是主动减持，系期权行权交割",
+      "summary": "港交所披露，段永平旗下H&H International Investment对泡泡玛特持仓于2026年7月30日由7.65%降至5.55%。泡泡玛特公司随即澄清：该变动并非主动减持，而是段永平此前售出的看涨期权（call options）在相应价位行权后的股份交割行为，属正常期权合约履行。值得注意的是，段永平7月23日刚在雪球表示\"刚开始买泡泡玛特，大概率10年不卖\"。",
+      "why": "港交所持仓披露引发市场短期情绪波动，但公司澄清系期权行权（非主动看空），事件本质为covered call策略的股份交割；从期权角度看，若行权价附近股价承压，是评估新一轮sell put的观察机会。",
+      "source": "新浪财经 / 21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "POPMART",
+        "9992.HK",
+        "盲盒",
+        "期权"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-08-05/doc-inimhpnf4464271.shtml",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
+      "is_new": false
+    },
+    {
+      "id": "91f363d2fe649d0d",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "SanDisk (SNDK) Q4 FY2026: Revenue $8.97B (beat $8.42B), gross margin 84.6%, authorized $14B buyback",
+      "summary": "SanDisk (SNDK) reported Q4 FY2026 results (Aug 5): revenue $8.97B vs $8.42B estimate; non-GAAP EPS $39.25 vs $34.59 estimate (beat ~13%). Gross margin reached a record 84.6%; operating cash flow $7.1B (+135% QoQ). Board authorized additional $14B share buyback. Q1 FY2027 revenue guidance midpoint ~$10.55B. Growth driven by Datacenter and Edge segments.",
+      "why": "NAND存储超级周期强劲兑现，闪迪创纪录毛利率与140亿美元回购印证存储行业盈利能力；此数据亦支撑A股存储/半导体板块估值逻辑，及SK海力士等HBM相关标的情绪；高回购有助股价支撑。",
+      "source": "SanDisk IR / StockTitan",
+      "verified": true,
+      "keywords": [
+        "闪迪",
+        "SanDisk",
+        "SNDK",
+        "NAND",
+        "闪存",
+        "存储",
+        "flash"
+      ],
+      "translated": false,
+      "url": "https://www.stocktitan.net/news/SNDK/sandisk-reports-fiscal-fourth-quarter-2026-financial-kc0v6ojj1c1u.html",
+      "published_date": "2026-08-05",
+      "still_developing": false,
+      "first_seen": "2026-08-06",
       "is_new": false
     },
     {
