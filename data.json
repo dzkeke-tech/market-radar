@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-08 08:23 (北京时间)",
+  "updated_at": "2026-08-08 13:00 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,123 +37,152 @@
   "positions": [],
   "items": [
     {
-      "id": "25a04a8b4d9bd6b6",
-      "tier": 1,
+      "id": "4e6afe384c1ee45a",
+      "tier": 2,
       "lang": "zh",
       "markets": [
-        "US",
-        "HK",
-        "A"
+        "HK"
       ],
-      "time": "20:30",
+      "time": "16:30",
       "group": "大盘头条",
-      "title": "美国7月非农就业意外转负2.3万人，大幅不及预期，劳动力市场显著降温",
-      "summary": "美国7月非农就业人数减少2.3万（预期+8.3万），5月、6月合计下修10.3万，失业率4.1%；地方政府教育、零售与金融就业均下滑。劳动参与率降至61.4%。数据公布后美联储9月加息预期概率降至约44%，美元直线下跌，黄金大涨。",
-      "why": "美国就业数据是美联储最重要政策参考，本次大幅转负大幅压低加息预期，推动全球风险偏好回升；对持仓期权策略（sell put）有利，隐含波动率或随市场乐观情绪温和收窄。",
+      "title": "港股8月6日大幅回调：恒指失守25500点，科指跌逾2%",
+      "summary": "8月6日港股全线下跌，恒生指数收跌约1.8%至25480点附近，恒生科技指数跌2.28%；半导体板块领跌，中芯国际、华虹半导体等跌幅居前。市场将下跌归因于美联储官员鹰派表态叠加地缘局势阶段性不确定性，此后因非农数据（8月7日）好转而企稳。",
+      "why": "港股8月6日大跌是本周行情波动的关键节点，了解调整幅度有助于评估sell put持仓的cushion空间；此后随8月7日美国非农意外转负、风险情绪回暖，跌幅已基本修复。",
       "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "非农就业",
-        "美联储",
-        "利率",
-        "美国经济",
+        "港股",
+        "恒生指数",
+        "恒生科技",
+        "半导体",
+        "回调",
         "宏观"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/money/bond/2026-08-07/doc-inimnzsi3149009.shtml",
-      "published_date": "2026-08-07",
+      "url": "https://finance.sina.com.cn/wm/2026-08-06/doc-inimknaz2986704.shtml",
+      "published_date": "2026-08-06",
       "still_developing": false,
       "first_seen": "2026-08-08",
       "is_new": true
     },
     {
-      "id": "327d9e603aabc60e",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "22:30",
-      "group": "大盘头条",
-      "title": "SpaceX's earnings are not helping its stock, but Nvidia is getting a boost",
-      "summary": "SpaceX CEO Musk said the company will 'exclusively' build AI infrastructure on Nvidia's Vera Rubin architecture; SpaceX plans 2 GW of compute by end-2026, growing to ~10 GW by end-2027. NVDA surged 4%+ on Aug 5, extending its 5-day winning streak to +10.47% and closing at $219.22.",
-      "why": "SpaceX独家押注Nvidia Vera Rubin刷新AI基础设施订单格局，英伟达5日累涨逾10%；8月26日财报前市场预期营收翻倍至$91.8亿，是目前最强AI硬件催化剂，支撑持仓整体估值。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "SpaceX",
-        "Vera Rubin",
-        "AI芯片",
-        "GPU",
-        "Blackwell"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/05/spacexs-earnings-are-not-helping-its-stock-but-nvidia-is-getting-a-boost.html",
-      "published_date": "2026-08-05",
-      "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": true
-    },
-    {
-      "id": "f6892c0b1a346945",
+      "id": "59758f490839d0c0",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "20:00",
-      "group": "大盘头条",
-      "title": "S&P 500 Poised for Another Record as AI Spending Narrative Holds",
-      "summary": "US stocks on course for their best week since April as major cloud providers' AI capex pledges keep reinvigorating the bull thesis. S&P 500 weekly gain propelled by AI demand, easing Middle East tensions, and upbeat corporate earnings including Palantir and Disney.",
-      "why": "AI资本开支大叙事持续强化（科技巨头竞相扩产），为持仓的AI/半导体/科技类标的提供顺风；美股周线超强表现对港股风险情绪也有溢出支撑。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "S&P 500",
-        "AI",
-        "云计算",
-        "资本开支",
-        "美股",
-        "科技板块"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/s-p-500-poised-for-another-record-as-ai-spending-narrative-holds",
-      "published_date": "2026-08-05",
-      "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": true
-    },
-    {
-      "id": "6a845f5deacc75ea",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "22:00",
+      "time": "21:00",
       "group": "个股",
-      "title": "Disney (DIS) earnings Q3 2026: EPS beats on parks and streaming strength",
-      "summary": "Disney Q3 FY26 (ended June 30): EPS $2.06 adj. (+$0.18 beat), revenue $25.25B (slight miss vs $25.66B). Experiences (parks/cruises) +10% YoY to $9.97B; Entertainment streaming +11% to $5.53B. Toy Story 5 surpassed $1B at global box office.",
-      "why": "延续报道：迪士尼Q3连续超预期；主题公园与流媒体双轮驱动，Toy Story 5破10亿验证IP变现；业绩稳健有助于维持卖出期权（sell put）时间价值，中长期持有逻辑不变。",
-      "source": "CNBC",
+      "title": "Circle (CRCL) Q2 2026: USDC volume +151%, revenue $701M, raises full-year guidance",
+      "summary": "Circle Q2 2026: revenue $701M (+7% QoQ), adj. EPS $0.18. USDC circulating supply reached $73.3B (+38% YoY); on-chain transaction volume +151% YoY. Full-year revenue guidance raised to $2.85–2.95B. Stable reserve income remains the dominant revenue driver amid GENIUS Act stablecoin regulatory clarity.",
+      "why": "USDC流通量与链上交易量双创新高，Circle营收指引上调，稳定币赛道监管框架逐步明确；对持有CRCL的中长期逻辑是正向催化。",
+      "source": "Circle IR",
       "verified": true,
       "keywords": [
-        "迪士尼",
-        "Disney",
-        "DIS",
-        "Disney+",
-        "streaming",
-        "流媒体",
-        "主题公园",
-        "票房"
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "stablecoin",
+        "GENIUS Act",
+        "加密"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/amp/2026/08/05/disney-dis-earnings-q3-2026.html",
+      "url": "https://s206.q4cdn.com/265218871/files/doc_news/2026/Aug/05/CIRCLE_Q2-2026.pdf",
       "published_date": "2026-08-05",
       "still_developing": true,
+      "first_seen": "2026-08-08",
+      "is_new": true
+    },
+    {
+      "id": "8694202e46eab1a1",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "老铺黄金(6181.HK)涨3.41%，财通证券维持买入，上海新天地等新店持续扩张",
+      "summary": "8月6日老铺黄金(6181.HK)收涨3.41%至HK$354，成交额约2.1亿港元；财通证券重申买入评级，目标价HK$420，并指出上海新天地、北京SKP等高端商场新店即将开业，门店总数将在年内突破40家。金价强势为古法金产品ASP提供支撑。",
+      "why": "老铺黄金涨幅领先港股黄金板块，财通证券继续维持买入；实体门店加速扩张叠加金价高位，为下半年营收增长提供确定性；对持有6181.HK sell put策略，短期正股走势有利。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "古法金",
+        "黄金",
+        "珠宝",
+        "门店扩张"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-06/doc-inimizpp3944840.shtml",
+      "published_date": "2026-08-06",
+      "still_developing": false,
+      "first_seen": "2026-08-08",
+      "is_new": true
+    },
+    {
+      "id": "ae8d1e33c2175f80",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Micron & Microchip demo PCIe Gen 6 storage for AI datacenters; MU +2.65% on Aug 7",
+      "summary": "Microchip Technology and Micron Technology demonstrated the industry's first PCIe Gen 6 NVMe storage solution targeting AI and data center workloads (Aug 4). The collaboration pairs Micron's 232-layer NAND with Microchip's PCIe Gen 6 controller, delivering ~24 GB/s sequential read. MU stock gained +2.65% on Aug 7 as the news circulated broadly.",
+      "why": "延续报道：Micron与Microchip的PCIe Gen 6存储联合发布是AI数据中心存储升级周期的前沿信号，Micron作为NAND核心供应商受益；配合英伟达Vera Rubin平台的算力扩张，存储带宽瓶颈打开将提升Micron订单能见度；对持仓MU sell put策略正向。",
+      "source": "GlobeNewswire (Microchip Technology official PR)",
+      "verified": true,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "PCIe Gen 6",
+        "NAND",
+        "存储",
+        "AI数据中心",
+        "Microchip Technology"
+      ],
+      "translated": false,
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338174/0/en/microchip-technology-in-collaboration-with-micron-technology-demonstrates-high-performance-pcie-gen-6-storage-architecture-for-ai-and-data-center-infrastructure.html",
+      "published_date": "2026-08-04",
+      "still_developing": true,
+      "first_seen": "2026-08-08",
+      "is_new": true
+    },
+    {
+      "id": "212b3235abd4e4a7",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "Futu Holdings (FUTU) to report Q2 2026 results on August 20 before market open",
+      "summary": "Futu Holdings announced it will release Q2 2026 financial results on August 20, 2026, before the US market opens, followed by a management conference call at 8:00 AM ET.",
+      "why": "富途8月20日财报为近期催化剂；关注新开户数、付费客户数及境外市场（moomoo）增速；同日阿里巴巴亦发布财报，市场情绪集中释放日，需关注波动率变化。",
+      "source": "Futu IR",
+      "verified": true,
+      "keywords": [
+        "富途",
+        "Futu",
+        "FUTU",
+        "富途控股",
+        "moomoo",
+        "财报",
+        "港美股券商"
+      ],
+      "translated": false,
+      "url": "https://www.globenewswire.com/news-release/2026/08/07/3340941/0/en/futu-to-report-second-quarter-2026-financial-results-on-august-20-2026.html",
+      "published_date": "2026-08-07",
+      "still_developing": false,
       "first_seen": "2026-08-08",
       "is_new": true
     },
@@ -1797,6 +1826,67 @@
       "is_new": false
     },
     {
+      "id": "25a04a8b4d9bd6b6",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "20:30",
+      "group": "大盘头条",
+      "title": "美国7月非农就业意外转负2.3万人，大幅不及预期，劳动力市场显著降温",
+      "summary": "美国7月非农就业人数减少2.3万（预期+8.3万），5月、6月合计下修10.3万，失业率4.1%；地方政府教育、零售与金融就业均下滑。劳动参与率降至61.4%。数据公布后美联储9月加息预期概率降至约44%，美元直线下跌，黄金大涨。",
+      "why": "美国就业数据是美联储最重要政策参考，本次大幅转负大幅压低加息预期，推动全球风险偏好回升；对持仓期权策略（sell put）有利，隐含波动率或随市场乐观情绪温和收窄。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "非农就业",
+        "美联储",
+        "利率",
+        "美国经济",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/money/bond/2026-08-07/doc-inimnzsi3149009.shtml",
+      "published_date": "2026-08-07",
+      "still_developing": false,
+      "first_seen": "2026-08-08",
+      "is_new": false
+    },
+    {
+      "id": "327d9e603aabc60e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "22:30",
+      "group": "大盘头条",
+      "title": "SpaceX's earnings are not helping its stock, but Nvidia is getting a boost",
+      "summary": "SpaceX CEO Musk said the company will 'exclusively' build AI infrastructure on Nvidia's Vera Rubin architecture; SpaceX plans 2 GW of compute by end-2026, growing to ~10 GW by end-2027. NVDA surged 4%+ on Aug 5, extending its 5-day winning streak to +10.47% and closing at $219.22.",
+      "why": "SpaceX独家押注Nvidia Vera Rubin刷新AI基础设施订单格局，英伟达5日累涨逾10%；8月26日财报前市场预期营收翻倍至$91.8亿，是目前最强AI硬件催化剂，支撑持仓整体估值。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "SpaceX",
+        "Vera Rubin",
+        "AI芯片",
+        "GPU",
+        "Blackwell"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/05/spacexs-earnings-are-not-helping-its-stock-but-nvidia-is-getting-a-boost.html",
+      "published_date": "2026-08-05",
+      "still_developing": true,
+      "first_seen": "2026-08-08",
+      "is_new": false
+    },
+    {
       "id": "f5d5b100ce4fd610",
       "tier": 2,
       "lang": "zh",
@@ -3396,6 +3486,66 @@
       "published_date": "2026-08-06",
       "still_developing": false,
       "first_seen": "2026-08-07",
+      "is_new": false
+    },
+    {
+      "id": "f6892c0b1a346945",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "20:00",
+      "group": "大盘头条",
+      "title": "S&P 500 Poised for Another Record as AI Spending Narrative Holds",
+      "summary": "US stocks on course for their best week since April as major cloud providers' AI capex pledges keep reinvigorating the bull thesis. S&P 500 weekly gain propelled by AI demand, easing Middle East tensions, and upbeat corporate earnings including Palantir and Disney.",
+      "why": "AI资本开支大叙事持续强化（科技巨头竞相扩产），为持仓的AI/半导体/科技类标的提供顺风；美股周线超强表现对港股风险情绪也有溢出支撑。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "AI",
+        "云计算",
+        "资本开支",
+        "美股",
+        "科技板块"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/s-p-500-poised-for-another-record-as-ai-spending-narrative-holds",
+      "published_date": "2026-08-05",
+      "still_developing": true,
+      "first_seen": "2026-08-08",
+      "is_new": false
+    },
+    {
+      "id": "6a845f5deacc75ea",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "22:00",
+      "group": "个股",
+      "title": "Disney (DIS) earnings Q3 2026: EPS beats on parks and streaming strength",
+      "summary": "Disney Q3 FY26 (ended June 30): EPS $2.06 adj. (+$0.18 beat), revenue $25.25B (slight miss vs $25.66B). Experiences (parks/cruises) +10% YoY to $9.97B; Entertainment streaming +11% to $5.53B. Toy Story 5 surpassed $1B at global box office.",
+      "why": "延续报道：迪士尼Q3连续超预期；主题公园与流媒体双轮驱动，Toy Story 5破10亿验证IP变现；业绩稳健有助于维持卖出期权（sell put）时间价值，中长期持有逻辑不变。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "迪士尼",
+        "Disney",
+        "DIS",
+        "Disney+",
+        "streaming",
+        "流媒体",
+        "主题公园",
+        "票房"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/amp/2026/08/05/disney-dis-earnings-q3-2026.html",
+      "published_date": "2026-08-05",
+      "still_developing": true,
+      "first_seen": "2026-08-08",
       "is_new": false
     },
     {
