@@ -1,201 +1,245 @@
 [
   {
-    "id": "25a04a8b4d9bd6b6",
+    "id": "b89284c24a1e2acb",
     "tier": 1,
-    "lang": "zh",
+    "lang": "en",
     "markets": [
       "US",
-      "HK",
-      "A"
+      "HK"
     ],
-    "time": "20:30",
+    "time": "08:30",
     "group": "大盘头条",
-    "title": "美国7月非农就业意外转负2.3万人，大幅不及预期，劳动力市场显著降温",
-    "summary": "美国7月非农就业人数减少2.3万（预期+8.3万），5月、6月合计下修10.3万，失业率4.1%；地方政府教育、零售与金融就业均下滑。劳动参与率降至61.4%。数据公布后美联储9月加息预期概率降至约44%，美元直线下跌，黄金大涨。",
-    "why": "美国就业数据是美联储最重要政策参考，本次大幅转负大幅压低加息预期，推动全球风险偏好回升；对持仓期权策略（sell put）有利，隐含波动率或随市场乐观情绪温和收窄。",
-    "source": "新浪财经",
+    "title": "US July Jobs Report: Nonfarm Payrolls Fall 23,000 — S&P 500 Hits Record 7,757.64",
+    "summary": "July nonfarm payrolls fell 23,000 (vs. +83,000 consensus), dragged by a drop of 53,000 government jobs. Unemployment edged down to 4.1%. The S&P 500 closed at a record 7,757.64 (+0.62%), Nasdaq rose 1.3% to 26,690.62, Dow added 0.28% to 54,036.93. Odds of a September Fed rate hike fell from 57% to 44% within hours.",
+    "why": "非农数据超预期走弱令9月加息概率骤降至44%，美股S&P 500刷新历史收盘纪录；全球风险情绪改善，利多港股科技持仓；卖出期权（sell put）一方在市场大涨环境下需关注delta变化与潜在补仓",
+    "source": "CNBC",
     "verified": true,
     "keywords": [
-      "非农就业",
-      "美联储",
-      "利率",
-      "美国经济",
-      "宏观"
+      "nonfarm payrolls",
+      "jobs report",
+      "Federal Reserve",
+      "S&P 500",
+      "rate hike"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/money/bond/2026-08-07/doc-inimnzsi3149009.shtml",
+    "url": "https://www.cnbc.com/amp/2026/08/07/jobs-report-july-2026.html",
     "published_date": "2026-08-07",
     "still_developing": false
   },
   {
-    "id": "4bcf4f10f5bab82c",
+    "id": "7a851cc9862eb5f4",
     "tier": 1,
-    "lang": "en",
+    "lang": "zh",
     "markets": [
-      "US"
+      "HK"
     ],
-    "time": "21:00",
+    "time": "16:05",
     "group": "大盘头条",
-    "title": "S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap",
-    "summary": "S&P 500 hit a record 7,737 (+1.79%), Dow surged 907 pts to 54,086 for the first time, Nasdaq +3.3% — chipmakers' best 4-day rally since 2020. US Treasury Secretary Bessent said a Strait of Hormuz deal could come 'today or tomorrow'; Brent crude fell below $80.",
-    "why": "美股创历史新高叠加油价回落，全球风险情绪大幅改善；芯片板块四日最强反弹为科技持仓提供估值重估动力；地缘风险溢价压缩对sell put策略的隐含波动率下行有利。",
-    "source": "Bloomberg",
+    "title": "香港恒生指数收涨0.54%，生物医药板块领涨",
+    "summary": "8月7日（周五），恒生指数收报25,668.03点（+0.54%，+137.75点），恒生科技指数涨0.78%至4,858.29点，恒生中国企业指数涨0.39%。全天成交2,596.86亿港元。生物医药与CXO板块领涨，PCB概念股强势，AI大模型概念股活跃。",
+    "why": "港股周五整体上涨，科技指数跑赢大市；周五收盘后ADR显示腾讯控股隐含涨幅+1.46%，恒指ADR报25,831点，预示下周一开市有望高开；生物医药板块催化独立于科技持仓，但整体情绪有助于减小sell put策略被击穿的概率",
+    "source": "财联社",
     "verified": true,
     "keywords": [
-      "S&P 500",
-      "道指",
-      "纳斯达克",
-      "霍尔木兹",
-      "原油",
-      "宏观",
-      "美股"
+      "恒生指数",
+      "恒生科技指数",
+      "港股",
+      "生物医药",
+      "CXO"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-    "published_date": "2026-08-04",
-    "still_developing": true
+    "url": "https://m.cls.cn/detail/2448413",
+    "published_date": "2026-08-07",
+    "still_developing": false
   },
   {
-    "id": "327d9e603aabc60e",
-    "tier": 1,
-    "lang": "en",
+    "id": "c3b6727042deb87d",
+    "tier": 2,
+    "lang": "zh",
     "markets": [
-      "US"
+      "HK"
     ],
-    "time": "22:30",
+    "time": "16:30",
     "group": "大盘头条",
-    "title": "SpaceX's earnings are not helping its stock, but Nvidia is getting a boost",
-    "summary": "SpaceX CEO Musk said the company will 'exclusively' build AI infrastructure on Nvidia's Vera Rubin architecture; SpaceX plans 2 GW of compute by end-2026, growing to ~10 GW by end-2027. NVDA surged 4%+ on Aug 5, extending its 5-day winning streak to +10.47% and closing at $219.22.",
-    "why": "SpaceX独家押注Nvidia Vera Rubin刷新AI基础设施订单格局，英伟达5日累涨逾10%；8月26日财报前市场预期营收翻倍至$91.8亿，是目前最强AI硬件催化剂，支撑持仓整体估值。",
-    "source": "CNBC",
+    "title": "创新药出海金额近千亿美元达去年两倍，百济神州净利同比增超6倍，药明康德上调全年收入指引",
+    "summary": "8月7日，港股创新药产业链业绩密集兑现：百济神州净利润同比增超6倍，药明康德大幅上调全年收入指引，信达生物、荣昌生物各自兑现增长逻辑。年内中国创新药出海金额接近千亿美元，约为去年全年的两倍。恒生生物科技ETF涨3%。",
+    "why": "创新药业绩爆发为港股医药板块提供强催化，出海逻辑持续验证；当前投资组合中无直接CXO持仓，但此类赛道行情有助于提振港股整体Beta与市场情绪，间接利好消费科技标的估值",
+    "source": "新浪财经",
     "verified": true,
     "keywords": [
-      "英伟达",
-      "Nvidia",
-      "NVDA",
-      "SpaceX",
-      "Vera Rubin",
-      "AI芯片",
-      "GPU",
-      "Blackwell"
+      "创新药",
+      "出海",
+      "CXO",
+      "百济神州",
+      "药明康德",
+      "港股"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/05/spacexs-earnings-are-not-helping-its-stock-but-nvidia-is-getting-a-boost.html",
-    "published_date": "2026-08-05",
-    "still_developing": true
+    "url": "https://finance.sina.com.cn/jjxw/2026-08-07/doc-inimnenp3333407.shtml",
+    "published_date": "2026-08-07",
+    "still_developing": false
   },
   {
-    "id": "f6892c0b1a346945",
+    "id": "6d8519fbad36780f",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "12:05",
+    "group": "大盘头条",
+    "title": "港股午评：AI应用股活跃，智谱、MINIMAX涨超17%，恒生科技指数午盘涨0.34%",
+    "summary": "8月7日午盘，港股AI大模型概念持续活跃，智谱AI与MiniMax涨幅均超17%，领涨恒生科技指数成份股。科网股走势分化，AI应用端大涨，传统互联网股表现相对平淡。恒指午盘涨0.15%，科技指数涨0.34%。",
+    "why": "AI大模型概念在港股活跃，与持仓中腾讯（混元/元宝）、阿里巴巴（通义千问）等AI布局形成情绪共振；AI应用层独立于基础层估值逻辑，有助于互联网标的整体估值修复，利好卖出期权策略中较高行权价的选取",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "AI大模型",
+      "智谱",
+      "MiniMax",
+      "恒生科技",
+      "港股",
+      "AI应用"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-07/doc-inimnenr0116464.shtml",
+    "published_date": "2026-08-07",
+    "still_developing": false
+  },
+  {
+    "id": "713a3ba5f4a246a2",
     "tier": 2,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "20:00",
+    "time": "16:00",
     "group": "大盘头条",
-    "title": "S&P 500 Poised for Another Record as AI Spending Narrative Holds",
-    "summary": "US stocks on course for their best week since April as major cloud providers' AI capex pledges keep reinvigorating the bull thesis. S&P 500 weekly gain propelled by AI demand, easing Middle East tensions, and upbeat corporate earnings including Palantir and Disney.",
-    "why": "AI资本开支大叙事持续强化（科技巨头竞相扩产），为持仓的AI/半导体/科技类标的提供顺风；美股周线超强表现对港股风险情绪也有溢出支撑。",
+    "title": "Stock Market Today: Atlassian Surges 35% on Earnings, S&P 500 Gains 3.6% for the Week",
+    "summary": "Atlassian (TEAM) surged ~35% after strong Q4 earnings, boosting enterprise SaaS sentiment. Combined with the weak jobs report, the S&P 500 rose 3.6% for the week and the Nasdaq gained 5.2%, with chip stocks rebounding strongly. Approximately 336 S&P 500 stocks advanced vs. 167 declined.",
+    "why": "Atlassian业绩超预期验证企业SaaS/AI需求旺盛，提振Palantir等企业软件持仓的估值逻辑；美股连续周涨令sell put策略隐含波动率（IV）可能下行，需关注下周一是否出现IV回调至合理卖权时机",
     "source": "Bloomberg",
     "verified": true,
     "keywords": [
+      "Atlassian",
+      "TEAM",
       "S&P 500",
-      "AI",
-      "云计算",
-      "资本开支",
-      "美股",
-      "科技板块"
+      "Nasdaq",
+      "enterprise SaaS",
+      "AI"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-05/s-p-500-poised-for-another-record-as-ai-spending-narrative-holds",
-    "published_date": "2026-08-05",
-    "still_developing": true
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
+    "published_date": "2026-08-06",
+    "still_developing": false
   },
   {
-    "id": "c8dc1183ba885e6c",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "HK",
-      "US"
-    ],
-    "time": "09:00",
-    "group": "个股",
-    "title": "Alibaba's Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic",
-    "summary": "Alibaba unveiled Qwen3.8-Max on Aug 3 — a 2.4 trillion-parameter open-source model with 1M-token context, the first Max-class Qwen to release weights. Performance claimed to trail only Anthropic's Claude family; API priced ~40% of Claude Opus 5 (input), ~24% (output). BABA/9988.HK shares jumped sharply. Q1 FY27 earnings scheduled Aug 20.",
-    "why": "延续报道：Qwen3.8-Max发布后API仍在向全球开发者陆续开放，模型权重将于本周内开源；8月20日财报为近期催化剂，云收入增速和AI变现进展是核心看点；持仓期间有利于sell put保持较低行权价。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "阿里巴巴",
-      "Alibaba",
-      "BABA",
-      "9988",
-      "通义千问",
-      "Qwen",
-      "阿里云",
-      "AI模型"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
-    "published_date": "2026-08-03",
-    "still_developing": true
-  },
-  {
-    "id": "25d5532ae5ba896e",
+    "id": "5e6fac5b8cb6a0f7",
     "tier": 2,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "21:30",
+    "time": "09:30",
     "group": "个股",
-    "title": "Palantir (PLTR) earnings Q2 2026: Revenue up 93%, guidance raised",
-    "summary": "Palantir Q2 2026: revenue $1.94B (+93% YoY, beat $1.80B est.), EPS $0.41 (beat $0.35 est.). US commercial rev +149% to $764M; US govt rev +90% to $809M. Total contract value $3.37B (+49%). FY2026 guidance raised to $8.15–8.16B (82% growth), Q3 guidance ~$2.16B.",
-    "why": "延续报道：Palantir政府+商业双轮在Q2同步加速，AIP平台商业化超预期；全年指引大幅上调增强增长可见度；是AI政府/商业赛道的典型标的，股价上涨有利于sell put期权存续。",
+    "title": "Palantir earns an upgrade after its big second quarter, as analysts get bullish on its AI business",
+    "summary": "Palantir Q2 2026: revenue $1.94B (+93% YoY, beat $1.80B est.), EPS $0.41 (beat $0.35 est.), US commercial revenue +149% to $764M. Bank of America reiterated Buy, raised target to $255 (implying ~50% upside). PLTR closed at $172.01 (+10.32%) on Aug. 7, extending post-earnings gains. Full-year 2026 revenue guided at $8.15–8.16B (+82% YoY).",
+    "why": "Palantir Q2业绩大超预期，美国商业端两年涨380%；BofA目标$255暗示50%上行；对持仓期权策略而言，IV上升后卖出covered call或put时需重置行权价；延续报道：8月3日财报发布后机构持续上调，8月7日PLTR再涨10%",
     "source": "CNBC",
     "verified": true,
     "keywords": [
       "Palantir",
       "PLTR",
-      "AIP",
-      "Foundry",
-      "国防AI",
-      "政府合同",
-      "AI平台"
+      "Q2 2026",
+      "earnings",
+      "Bank of America",
+      "AI"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
-    "published_date": "2026-08-03",
+    "url": "https://www.cnbc.com/2026/08/04/palantir-earns-an-upgrade-after-its-big-second-quarter.html",
+    "published_date": "2026-08-04",
     "still_developing": true
   },
   {
-    "id": "6a845f5deacc75ea",
+    "id": "aee84a4823a867e1",
+    "tier": 3,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "16:00",
+    "group": "个股",
+    "title": "Costco Wholesale Corporation Reports July Sales Results",
+    "summary": "Costco July net sales: $23.12B (+10.7% YoY). U.S. comparable sales +10.3%, Canada +4.2%, Other International +6.0%, company-wide comps +8.9%. Digitally-enabled comparable sales +17.7%. Quarterly cash dividend of $1.47/share was paid August 7, 2026.",
+    "why": "Costco月销售持续强劲，数字化渗透加速（+17.7%），消费韧性延续；8月7日季度分红兑现确认现金流稳健；对sell put策略而言，COST基本面稳固支撑行权价区间；延续报道：8月5日官方发布后，8月7日分红兑现提供正催化",
+    "source": "Costco IR",
+    "verified": true,
+    "keywords": [
+      "Costco",
+      "COST",
+      "monthly sales",
+      "comparable sales",
+      "dividend"
+    ],
+    "translated": false,
+    "url": "https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Reports-July-Sales-Results/default.aspx",
+    "published_date": "2026-08-05",
+    "still_developing": true
+  },
+  {
+    "id": "0d0d9199b244e4fa",
     "tier": 2,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "22:00",
+    "time": "10:00",
     "group": "个股",
-    "title": "Disney (DIS) earnings Q3 2026: EPS beats on parks and streaming strength",
-    "summary": "Disney Q3 FY26 (ended June 30): EPS $2.06 adj. (+$0.18 beat), revenue $25.25B (slight miss vs $25.66B). Experiences (parks/cruises) +10% YoY to $9.97B; Entertainment streaming +11% to $5.53B. Toy Story 5 surpassed $1B at global box office.",
-    "why": "延续报道：迪士尼Q3连续超预期；主题公园与流媒体双轮驱动，Toy Story 5破10亿验证IP变现；业绩稳健有助于维持卖出期权（sell put）时间价值，中长期持有逻辑不变。",
-    "source": "CNBC",
+    "title": "Circle (CRCL) slides after Morgan Stanley slashes price target to $38 from $106",
+    "summary": "Morgan Stanley downgraded Circle (CRCL) to Underweight from Equal-Weight, cutting its price target from $106 to $38, citing weaker long-term earnings as tokenized-cash competition erodes USDC reserve income. USDC commands 62% of the $1.36T stablecoin market by volume. Q2 2026 earnings were released August 5.",
+    "why": "Morgan Stanley大幅下调Circle目标价至$38（隐含较$62约39%下行），稳定币赛道竞争加剧威胁USDC利差收入；若持仓有CRCL的卖put，需重新评估安全行权价；延续报道：8月3日降级后，8月5日Q2财报揭示USDC供应竞争压力持续",
+    "source": "CoinDesk",
     "verified": true,
     "keywords": [
-      "迪士尼",
-      "Disney",
-      "DIS",
-      "Disney+",
-      "streaming",
-      "流媒体",
-      "主题公园",
-      "票房"
+      "Circle",
+      "CRCL",
+      "USDC",
+      "Morgan Stanley",
+      "stablecoin",
+      "downgrade"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/amp/2026/08/05/disney-dis-earnings-q3-2026.html",
-    "published_date": "2026-08-05",
+    "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+    "published_date": "2026-08-03",
+    "still_developing": true
+  },
+  {
+    "id": "b8c8af1f9726408d",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "20:00",
+    "group": "个股",
+    "title": "Qwen3.8-Max首发上线阿里千问AI平台，总参数量2.4万亿首次开源权重",
+    "summary": "8月3日，阿里巴巴发布Qwen 3.8-Max，总参数2.4万亿（激活参数950亿），上下文窗口100万tokens，为千问家族旗舰模型并首次开源权重。支持coding与长周期自主任务，上线千问AI平台。阿里港股（9988）当日收涨7.01%，AI情绪推动。",
+    "why": "Qwen 3.8-Max为阿里AI战略里程碑，参数规模全球顶尖且首次开源，大幅提升阿里云竞争力；8月6日AGM进一步讨论AI资本化路径；延续报道：模型发布后持续引发市场关注，8月7日港股AI题材全面活跃，阿里系股价仍在主题催化下",
+    "source": "新浪财经",
+    "verified": false,
+    "keywords": [
+      "阿里巴巴",
+      "Qwen",
+      "通义千问",
+      "Qwen3.8-Max",
+      "AI",
+      "9988.HK",
+      "BABA"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikzeat6112453.shtml",
+    "published_date": "2026-08-03",
     "still_developing": true
   }
 ]
