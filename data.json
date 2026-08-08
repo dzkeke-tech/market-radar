@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-08 13:00 (北京时间)",
+  "updated_at": "2026-08-08 18:25 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,7 +37,64 @@
   "positions": [],
   "items": [
     {
-      "id": "4e6afe384c1ee45a",
+      "id": "b89284c24a1e2acb",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "US July Jobs Report: Nonfarm Payrolls Fall 23,000 — S&P 500 Hits Record 7,757.64",
+      "summary": "July nonfarm payrolls fell 23,000 (vs. +83,000 consensus), dragged by a drop of 53,000 government jobs. Unemployment edged down to 4.1%. The S&P 500 closed at a record 7,757.64 (+0.62%), Nasdaq rose 1.3% to 26,690.62, Dow added 0.28% to 54,036.93. Odds of a September Fed rate hike fell from 57% to 44% within hours.",
+      "why": "非农数据超预期走弱令9月加息概率骤降至44%，美股S&P 500刷新历史收盘纪录；全球风险情绪改善，利多港股科技持仓；卖出期权（sell put）一方在市场大涨环境下需关注delta变化与潜在补仓",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "nonfarm payrolls",
+        "jobs report",
+        "Federal Reserve",
+        "S&P 500",
+        "rate hike"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/amp/2026/08/07/jobs-report-july-2026.html",
+      "published_date": "2026-08-07",
+      "still_developing": false,
+      "first_seen": "2026-08-08",
+      "is_new": true
+    },
+    {
+      "id": "7a851cc9862eb5f4",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:05",
+      "group": "大盘头条",
+      "title": "香港恒生指数收涨0.54%，生物医药板块领涨",
+      "summary": "8月7日（周五），恒生指数收报25,668.03点（+0.54%，+137.75点），恒生科技指数涨0.78%至4,858.29点，恒生中国企业指数涨0.39%。全天成交2,596.86亿港元。生物医药与CXO板块领涨，PCB概念股强势，AI大模型概念股活跃。",
+      "why": "港股周五整体上涨，科技指数跑赢大市；周五收盘后ADR显示腾讯控股隐含涨幅+1.46%，恒指ADR报25,831点，预示下周一开市有望高开；生物医药板块催化独立于科技持仓，但整体情绪有助于减小sell put策略被击穿的概率",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "恒生科技指数",
+        "港股",
+        "生物医药",
+        "CXO"
+      ],
+      "translated": false,
+      "url": "https://m.cls.cn/detail/2448413",
+      "published_date": "2026-08-07",
+      "still_developing": false,
+      "first_seen": "2026-08-08",
+      "is_new": true
+    },
+    {
+      "id": "c3b6727042deb87d",
       "tier": 2,
       "lang": "zh",
       "markets": [
@@ -45,144 +102,112 @@
       ],
       "time": "16:30",
       "group": "大盘头条",
-      "title": "港股8月6日大幅回调：恒指失守25500点，科指跌逾2%",
-      "summary": "8月6日港股全线下跌，恒生指数收跌约1.8%至25480点附近，恒生科技指数跌2.28%；半导体板块领跌，中芯国际、华虹半导体等跌幅居前。市场将下跌归因于美联储官员鹰派表态叠加地缘局势阶段性不确定性，此后因非农数据（8月7日）好转而企稳。",
-      "why": "港股8月6日大跌是本周行情波动的关键节点，了解调整幅度有助于评估sell put持仓的cushion空间；此后随8月7日美国非农意外转负、风险情绪回暖，跌幅已基本修复。",
+      "title": "创新药出海金额近千亿美元达去年两倍，百济神州净利同比增超6倍，药明康德上调全年收入指引",
+      "summary": "8月7日，港股创新药产业链业绩密集兑现：百济神州净利润同比增超6倍，药明康德大幅上调全年收入指引，信达生物、荣昌生物各自兑现增长逻辑。年内中国创新药出海金额接近千亿美元，约为去年全年的两倍。恒生生物科技ETF涨3%。",
+      "why": "创新药业绩爆发为港股医药板块提供强催化，出海逻辑持续验证；当前投资组合中无直接CXO持仓，但此类赛道行情有助于提振港股整体Beta与市场情绪，间接利好消费科技标的估值",
       "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技",
-        "半导体",
-        "回调",
-        "宏观"
+        "创新药",
+        "出海",
+        "CXO",
+        "百济神州",
+        "药明康德",
+        "港股"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-08-06/doc-inimknaz2986704.shtml",
-      "published_date": "2026-08-06",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-07/doc-inimnenp3333407.shtml",
+      "published_date": "2026-08-07",
       "still_developing": false,
       "first_seen": "2026-08-08",
       "is_new": true
     },
     {
-      "id": "59758f490839d0c0",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "21:00",
-      "group": "个股",
-      "title": "Circle (CRCL) Q2 2026: USDC volume +151%, revenue $701M, raises full-year guidance",
-      "summary": "Circle Q2 2026: revenue $701M (+7% QoQ), adj. EPS $0.18. USDC circulating supply reached $73.3B (+38% YoY); on-chain transaction volume +151% YoY. Full-year revenue guidance raised to $2.85–2.95B. Stable reserve income remains the dominant revenue driver amid GENIUS Act stablecoin regulatory clarity.",
-      "why": "USDC流通量与链上交易量双创新高，Circle营收指引上调，稳定币赛道监管框架逐步明确；对持有CRCL的中长期逻辑是正向催化。",
-      "source": "Circle IR",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "stablecoin",
-        "GENIUS Act",
-        "加密"
-      ],
-      "translated": false,
-      "url": "https://s206.q4cdn.com/265218871/files/doc_news/2026/Aug/05/CIRCLE_Q2-2026.pdf",
-      "published_date": "2026-08-05",
-      "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": true
-    },
-    {
-      "id": "8694202e46eab1a1",
+      "id": "6d8519fbad36780f",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "老铺黄金(6181.HK)涨3.41%，财通证券维持买入，上海新天地等新店持续扩张",
-      "summary": "8月6日老铺黄金(6181.HK)收涨3.41%至HK$354，成交额约2.1亿港元；财通证券重申买入评级，目标价HK$420，并指出上海新天地、北京SKP等高端商场新店即将开业，门店总数将在年内突破40家。金价强势为古法金产品ASP提供支撑。",
-      "why": "老铺黄金涨幅领先港股黄金板块，财通证券继续维持买入；实体门店加速扩张叠加金价高位，为下半年营收增长提供确定性；对持有6181.HK sell put策略，短期正股走势有利。",
+      "time": "12:05",
+      "group": "大盘头条",
+      "title": "港股午评：AI应用股活跃，智谱、MINIMAX涨超17%，恒生科技指数午盘涨0.34%",
+      "summary": "8月7日午盘，港股AI大模型概念持续活跃，智谱AI与MiniMax涨幅均超17%，领涨恒生科技指数成份股。科网股走势分化，AI应用端大涨，传统互联网股表现相对平淡。恒指午盘涨0.15%，科技指数涨0.34%。",
+      "why": "AI大模型概念在港股活跃，与持仓中腾讯（混元/元宝）、阿里巴巴（通义千问）等AI布局形成情绪共振；AI应用层独立于基础层估值逻辑，有助于互联网标的整体估值修复，利好卖出期权策略中较高行权价的选取",
       "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "老铺黄金",
-        "Laopu Gold",
-        "6181.HK",
-        "古法金",
-        "黄金",
-        "珠宝",
-        "门店扩张"
+        "AI大模型",
+        "智谱",
+        "MiniMax",
+        "恒生科技",
+        "港股",
+        "AI应用"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-06/doc-inimizpp3944840.shtml",
-      "published_date": "2026-08-06",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-07/doc-inimnenr0116464.shtml",
+      "published_date": "2026-08-07",
       "still_developing": false,
       "first_seen": "2026-08-08",
       "is_new": true
     },
     {
-      "id": "ae8d1e33c2175f80",
+      "id": "5e6fac5b8cb6a0f7",
       "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Micron & Microchip demo PCIe Gen 6 storage for AI datacenters; MU +2.65% on Aug 7",
-      "summary": "Microchip Technology and Micron Technology demonstrated the industry's first PCIe Gen 6 NVMe storage solution targeting AI and data center workloads (Aug 4). The collaboration pairs Micron's 232-layer NAND with Microchip's PCIe Gen 6 controller, delivering ~24 GB/s sequential read. MU stock gained +2.65% on Aug 7 as the news circulated broadly.",
-      "why": "延续报道：Micron与Microchip的PCIe Gen 6存储联合发布是AI数据中心存储升级周期的前沿信号，Micron作为NAND核心供应商受益；配合英伟达Vera Rubin平台的算力扩张，存储带宽瓶颈打开将提升Micron订单能见度；对持仓MU sell put策略正向。",
-      "source": "GlobeNewswire (Microchip Technology official PR)",
-      "verified": true,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "PCIe Gen 6",
-        "NAND",
-        "存储",
-        "AI数据中心",
-        "Microchip Technology"
-      ],
-      "translated": false,
-      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338174/0/en/microchip-technology-in-collaboration-with-micron-technology-demonstrates-high-performance-pcie-gen-6-storage-architecture-for-ai-and-data-center-infrastructure.html",
-      "published_date": "2026-08-04",
-      "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": true
-    },
-    {
-      "id": "212b3235abd4e4a7",
-      "tier": 3,
       "lang": "en",
       "markets": [
         "US"
       ],
       "time": "09:30",
       "group": "个股",
-      "title": "Futu Holdings (FUTU) to report Q2 2026 results on August 20 before market open",
-      "summary": "Futu Holdings announced it will release Q2 2026 financial results on August 20, 2026, before the US market opens, followed by a management conference call at 8:00 AM ET.",
-      "why": "富途8月20日财报为近期催化剂；关注新开户数、付费客户数及境外市场（moomoo）增速；同日阿里巴巴亦发布财报，市场情绪集中释放日，需关注波动率变化。",
-      "source": "Futu IR",
+      "title": "Palantir earns an upgrade after its big second quarter, as analysts get bullish on its AI business",
+      "summary": "Palantir Q2 2026: revenue $1.94B (+93% YoY, beat $1.80B est.), EPS $0.41 (beat $0.35 est.), US commercial revenue +149% to $764M. Bank of America reiterated Buy, raised target to $255 (implying ~50% upside). PLTR closed at $172.01 (+10.32%) on Aug. 7, extending post-earnings gains. Full-year 2026 revenue guided at $8.15–8.16B (+82% YoY).",
+      "why": "Palantir Q2业绩大超预期，美国商业端两年涨380%；BofA目标$255暗示50%上行；对持仓期权策略而言，IV上升后卖出covered call或put时需重置行权价；延续报道：8月3日财报发布后机构持续上调，8月7日PLTR再涨10%",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "富途",
-        "Futu",
-        "FUTU",
-        "富途控股",
-        "moomoo",
-        "财报",
-        "港美股券商"
+        "Palantir",
+        "PLTR",
+        "Q2 2026",
+        "earnings",
+        "Bank of America",
+        "AI"
       ],
       "translated": false,
-      "url": "https://www.globenewswire.com/news-release/2026/08/07/3340941/0/en/futu-to-report-second-quarter-2026-financial-results-on-august-20-2026.html",
-      "published_date": "2026-08-07",
-      "still_developing": false,
+      "url": "https://www.cnbc.com/2026/08/04/palantir-earns-an-upgrade-after-its-big-second-quarter.html",
+      "published_date": "2026-08-04",
+      "still_developing": true,
+      "first_seen": "2026-08-08",
+      "is_new": true
+    },
+    {
+      "id": "b8c8af1f9726408d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "20:00",
+      "group": "个股",
+      "title": "Qwen3.8-Max首发上线阿里千问AI平台，总参数量2.4万亿首次开源权重",
+      "summary": "8月3日，阿里巴巴发布Qwen 3.8-Max，总参数2.4万亿（激活参数950亿），上下文窗口100万tokens，为千问家族旗舰模型并首次开源权重。支持coding与长周期自主任务，上线千问AI平台。阿里港股（9988）当日收涨7.01%，AI情绪推动。",
+      "why": "Qwen 3.8-Max为阿里AI战略里程碑，参数规模全球顶尖且首次开源，大幅提升阿里云竞争力；8月6日AGM进一步讨论AI资本化路径；延续报道：模型发布后持续引发市场关注，8月7日港股AI题材全面活跃，阿里系股价仍在主题催化下",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "Qwen",
+        "通义千问",
+        "Qwen3.8-Max",
+        "AI",
+        "9988.HK",
+        "BABA"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikzeat6112453.shtml",
+      "published_date": "2026-08-03",
+      "still_developing": true,
       "first_seen": "2026-08-08",
       "is_new": true
     },
@@ -3489,6 +3514,126 @@
       "is_new": false
     },
     {
+      "id": "4e6afe384c1ee45a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股8月6日大幅回调：恒指失守25500点，科指跌逾2%",
+      "summary": "8月6日港股全线下跌，恒生指数收跌约1.8%至25480点附近，恒生科技指数跌2.28%；半导体板块领跌，中芯国际、华虹半导体等跌幅居前。市场将下跌归因于美联储官员鹰派表态叠加地缘局势阶段性不确定性，此后因非农数据（8月7日）好转而企稳。",
+      "why": "港股8月6日大跌是本周行情波动的关键节点，了解调整幅度有助于评估sell put持仓的cushion空间；此后随8月7日美国非农意外转负、风险情绪回暖，跌幅已基本修复。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "恒生科技",
+        "半导体",
+        "回调",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/wm/2026-08-06/doc-inimknaz2986704.shtml",
+      "published_date": "2026-08-06",
+      "still_developing": false,
+      "first_seen": "2026-08-08",
+      "is_new": false
+    },
+    {
+      "id": "59758f490839d0c0",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "个股",
+      "title": "Circle (CRCL) Q2 2026: USDC volume +151%, revenue $701M, raises full-year guidance",
+      "summary": "Circle Q2 2026: revenue $701M (+7% QoQ), adj. EPS $0.18. USDC circulating supply reached $73.3B (+38% YoY); on-chain transaction volume +151% YoY. Full-year revenue guidance raised to $2.85–2.95B. Stable reserve income remains the dominant revenue driver amid GENIUS Act stablecoin regulatory clarity.",
+      "why": "USDC流通量与链上交易量双创新高，Circle营收指引上调，稳定币赛道监管框架逐步明确；对持有CRCL的中长期逻辑是正向催化。",
+      "source": "Circle IR",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "stablecoin",
+        "GENIUS Act",
+        "加密"
+      ],
+      "translated": false,
+      "url": "https://s206.q4cdn.com/265218871/files/doc_news/2026/Aug/05/CIRCLE_Q2-2026.pdf",
+      "published_date": "2026-08-05",
+      "still_developing": true,
+      "first_seen": "2026-08-08",
+      "is_new": false
+    },
+    {
+      "id": "8694202e46eab1a1",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "老铺黄金(6181.HK)涨3.41%，财通证券维持买入，上海新天地等新店持续扩张",
+      "summary": "8月6日老铺黄金(6181.HK)收涨3.41%至HK$354，成交额约2.1亿港元；财通证券重申买入评级，目标价HK$420，并指出上海新天地、北京SKP等高端商场新店即将开业，门店总数将在年内突破40家。金价强势为古法金产品ASP提供支撑。",
+      "why": "老铺黄金涨幅领先港股黄金板块，财通证券继续维持买入；实体门店加速扩张叠加金价高位，为下半年营收增长提供确定性；对持有6181.HK sell put策略，短期正股走势有利。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "古法金",
+        "黄金",
+        "珠宝",
+        "门店扩张"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-06/doc-inimizpp3944840.shtml",
+      "published_date": "2026-08-06",
+      "still_developing": false,
+      "first_seen": "2026-08-08",
+      "is_new": false
+    },
+    {
+      "id": "ae8d1e33c2175f80",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Micron & Microchip demo PCIe Gen 6 storage for AI datacenters; MU +2.65% on Aug 7",
+      "summary": "Microchip Technology and Micron Technology demonstrated the industry's first PCIe Gen 6 NVMe storage solution targeting AI and data center workloads (Aug 4). The collaboration pairs Micron's 232-layer NAND with Microchip's PCIe Gen 6 controller, delivering ~24 GB/s sequential read. MU stock gained +2.65% on Aug 7 as the news circulated broadly.",
+      "why": "延续报道：Micron与Microchip的PCIe Gen 6存储联合发布是AI数据中心存储升级周期的前沿信号，Micron作为NAND核心供应商受益；配合英伟达Vera Rubin平台的算力扩张，存储带宽瓶颈打开将提升Micron订单能见度；对持仓MU sell put策略正向。",
+      "source": "GlobeNewswire (Microchip Technology official PR)",
+      "verified": true,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "PCIe Gen 6",
+        "NAND",
+        "存储",
+        "AI数据中心",
+        "Microchip Technology"
+      ],
+      "translated": false,
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338174/0/en/microchip-technology-in-collaboration-with-micron-technology-demonstrates-high-performance-pcie-gen-6-storage-architecture-for-ai-and-data-center-infrastructure.html",
+      "published_date": "2026-08-04",
+      "still_developing": true,
+      "first_seen": "2026-08-08",
+      "is_new": false
+    },
+    {
       "id": "f6892c0b1a346945",
       "tier": 2,
       "lang": "en",
@@ -3661,6 +3806,36 @@
       "published_date": "2026-08-06",
       "still_developing": false,
       "first_seen": "2026-08-07",
+      "is_new": false
+    },
+    {
+      "id": "212b3235abd4e4a7",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "Futu Holdings (FUTU) to report Q2 2026 results on August 20 before market open",
+      "summary": "Futu Holdings announced it will release Q2 2026 financial results on August 20, 2026, before the US market opens, followed by a management conference call at 8:00 AM ET.",
+      "why": "富途8月20日财报为近期催化剂；关注新开户数、付费客户数及境外市场（moomoo）增速；同日阿里巴巴亦发布财报，市场情绪集中释放日，需关注波动率变化。",
+      "source": "Futu IR",
+      "verified": true,
+      "keywords": [
+        "富途",
+        "Futu",
+        "FUTU",
+        "富途控股",
+        "moomoo",
+        "财报",
+        "港美股券商"
+      ],
+      "translated": false,
+      "url": "https://www.globenewswire.com/news-release/2026/08/07/3340941/0/en/futu-to-report-second-quarter-2026-financial-results-on-august-20-2026.html",
+      "published_date": "2026-08-07",
+      "still_developing": false,
+      "first_seen": "2026-08-08",
       "is_new": false
     }
   ]
