@@ -1,163 +1,245 @@
 [
   {
-    "id": "12bdde548e025f41",
     "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "HK",
-      "A",
-      "CN"
-    ],
-    "time": "09:30",
-    "group": "大盘头条",
-    "title": "中国7月CPI同比涨0.5%、PPI同比涨3.5%，通胀延续温和回升但双双不及预期",
-    "summary": "国家统计局8月9日公布：7月CPI同比+0.5%（低于预期0.8%，前值1.0%）；PPI同比+3.5%（低于前值4.1%，环比-0.7%）。核心CPI同比+0.9%，猪肉价格连续下跌拖累食品分项。",
-    "why": "通胀低于预期，为央行保持宽松政策提供空间，对港股/A股消费与科技板块整体偏利好；PPI回落幅度值得关注，或反映大宗需求偏弱。",
-    "source": "South China Morning Post",
-    "verified": true,
-    "keywords": [
-      "CPI",
-      "PPI",
-      "通胀",
-      "宏观",
-      "inflation"
-    ],
-    "translated": false,
-    "url": "https://www.scmp.com/economy/china-economy/article/3363421/chinas-factory-gate-prices-growth-slow-35-july-amid-lower-fuel-prices",
-    "published_date": "2026-08-09",
-    "still_developing": false
-  },
-  {
-    "id": "cc540691c93b5102",
-    "tier": 1,
-    "lang": "zh",
+    "lang": "en",
     "markets": [
       "US",
       "HK"
     ],
-    "time": "09:00",
+    "time": "20:30",
     "group": "大盘头条",
-    "title": "伊朗发布霍尔木兹海峡限制草案：拟禁美以船只过境，油价较战前已涨约16%，谈判仍未完成",
-    "summary": "伊朗公布初步草案拟禁止美、以船只过境霍尔木兹海峡，并对有损伊朗国家征收货物价值20%罚款。布伦特原油约3.77/桶，较2月US-以色列袭伊战前涨约16%。伊朗-阿曼谈判进行中，伊方要求美方解除制裁并赔偿为前提。",
-    "why": "能源价格持续高位推升全球通胀并影响央行路径；对中国制造业供应链构成隐性成本压力；地缘风险尚未出清，关注布伦特原油对隐含波动率的传导。延续报道：8月10日油价仍在攀升，谈判未达成共识。",
+    "title": "U.S. July Nonfarm Payrolls Fall 23,000 — First Decline Since 2020; September Rate-Hike Odds Drop to 44%",
+    "summary": "U.S. nonfarm payrolls fell 23,000 in July, sharply missing the +83,000 consensus estimate. A loss of 53,000 government workers drove the headline negative while private payrolls rose 30,000. CME FedWatch odds for a September Fed rate hike fell to 44%.",
+    "why": "非农数据爆冷是本周全球市场最关键驱动力：港股今日全线上涨、黄金股走强、美元回调；sell put策略者短期IV压力下行，但若本周通胀数据意外上行，降息预期可能快速逆转。",
     "source": "CNBC",
-    "verified": false,
+    "verified": true,
     "keywords": [
-      "油价",
-      "地缘",
-      "霍尔木兹",
-      "Iran",
-      "中东",
-      "crude oil"
+      "Federal Reserve",
+      "macro",
+      "US",
+      "nonfarm payrolls"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/06/oil-price-iran-war-strait-hormuz-oman-deal.html",
-    "published_date": "2026-08-06",
-    "still_developing": true
+    "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+    "published_date": "2026-08-07",
+    "still_developing": true,
+    "id": "8ff1f6f3e156b866"
   },
   {
-    "id": "e4c6ddbd0a60ff72",
     "tier": 1,
     "lang": "zh",
     "markets": [
+      "HK"
+    ],
+    "time": "16:10",
+    "group": "大盘头条",
+    "title": "港股收评：恒指涨1.05%至25937点，科指涨1.26%；黄金科网普涨，光通信跌逾6%",
+    "summary": "非农数据爆冷带动加息预期降温，港股周一全线走强。恒生指数涨1.05%报25937.49点，恒生科技指数涨1.26%，国企指数涨1.06%。联想涨超3%，京东、哔哩哔哩、阿里巴巴、小米涨超2%；黄金股紫金黄金国际涨超5%。光通信板块因FCC禁令消息逆市大跌，中际旭创跌超6%。国泰君安国际受私有化消息刺激复牌涨逾36%。",
+    "why": "港股整体风险偏好回升，科网配置机会凸显；光通信板块跌势提示FCC禁令风险仍发酵，须警惕相关标的IV异动；国泰君安国际私有化套利空间约6%。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "港股",
+      "恒生指数",
+      "HK",
+      "市场"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-10/doc-inimvnpm2814282.shtml",
+    "published_date": "2026-08-10",
+    "still_developing": false,
+    "id": "27a7750b9c6f0715"
+  },
+  {
+    "tier": 1,
+    "lang": "en",
+    "markets": [
       "US"
     ],
-    "time": "07:00",
+    "time": "20:00",
     "group": "大盘头条",
-    "title": "美股标普500创历史新高至7757，本周CPI（8月12日）、PPI、零售数据将定价联储走向",
-    "summary": "上周标普500累计+3.6%至历史新高7757.64，纳斯达克+5.2%，道指首破54000点。本周关键时间表：8月12日美国7月CPI（8:30 ET）、8月13日PPI、8月14日零售销售。美债10年收益率降至4.64%，市场对9月加息由>50%概率转为约44%。",
-    "why": "本周CPI数据是美股与期权市场的核心变量：若低于预期（当前预期约2.7%），Sell Put策略风险-收益比改善；若超预期，加息预期重燃将抬升波动率。此外腾讯（8月12日）、腾讯音乐（8月11日）财报同日发布，需警惕叠加波动。延续报道：本周为CPI+财报双重高波动窗口期。",
+    "title": "S&P 500 Closes at Record 7,758; Nasdaq Gains 1.3% as Weak Jobs Data Cools Fed Hike Bets",
+    "summary": "U.S. equities rallied on Friday after the surprise July jobs miss reduced Federal Reserve rate-hike expectations. The S&P 500 rose 0.6% to a record closing high of 7,758, the Nasdaq gained 1.3%, and the Dow Jones added 152 points. Trading Economics shows the index edged to 7,766 on August 10.",
+    "why": "美股续创历史新高，全球风险偏好提升；对持有美股期权（英伟达、特斯拉、迪士尼等）的sell put策略，短期IV继续压缩，但高位估值风险不可忽视，建议适当提高行权价保护。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
       "S&P 500",
-      "CPI",
-      "标普",
-      "纳斯达克",
-      "美联储",
-      "波动率"
+      "Nasdaq",
+      "US",
+      "macro",
+      "stock market"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/07/stock-market-next-week-outlook-for-aug-10-14-2026-.html",
+    "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html",
     "published_date": "2026-08-07",
-    "still_developing": true
+    "still_developing": true,
+    "id": "8d3f7af71c2ce0e3"
   },
   {
-    "id": "0cf127bac99c8560",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "19:00",
-    "group": "个股",
-    "title": "国泰君安国际（01788.HK）8月10日复牌涨超36%：国泰海通金控以3港元/股溢价44.2%提私有化退市",
-    "summary": "国泰海通金控宣布通过协议安排方式，以3港元/股收购国泰君安国际（01788.HK）全部流通股，注销价较停牌前收盘价2.08港元溢价约44.2%，完成后国泰君安国际将从联交所退市。",
-    "why": "私有化溢价44.2%为本日港股最大事件性催化；合并整合有助国泰海通建立更强境外业务平台；关注港股券商板块是否引发并购想象空间。延续报道：股票今日（8月10日）复牌，市场正在消化收购溢价。",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "私有化",
-      "并购",
-      "港股券商",
-      "国泰君安"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-07/doc-inimnvkm3183140.shtml",
-    "published_date": "2026-08-07",
-    "still_developing": true
-  },
-  {
-    "id": "04b824858f8e92a2",
     "tier": 2,
-    "lang": "zh",
+    "lang": "en",
     "markets": [
-      "HK"
+      "HK",
+      "A"
     ],
-    "time": "12:15",
+    "time": "11:00",
     "group": "大盘头条",
-    "title": "港股午盘：恒指涨0.72%报25853点，科网股活跃（阿里+2%、京东+1%），国泰君安国际私有化复牌涨超36%",
-    "summary": "8月10日午盘，恒生指数+0.72%报25853.69，恒生科技指数+0.37%，国企指数+0.66%。科网股普涨，生物医药板块强势（药明康德+3%）；半导体板块承压（天数智芯-8%）。国泰君安国际因私有化消息复牌跳涨逾36%。",
-    "why": "港股今日整体偏暖，科技权重股上行有助于持仓估值；半导体板块回调值得关注（与SK海力士相关ETF有间接敞口）。",
+    "title": "China July Trade Beats Forecasts: Exports +23.9% to $397.85B, Imports +27.5%; AI Demand Sustains Edge",
+    "summary": "China's July exports rose 23.9% year-on-year to $397.85 billion while imports climbed 27.5% to $285.35 billion, both exceeding estimates. The trade surplus narrowed to $112.5 billion from $125.62 billion in June. Bloomberg attributed resilience partly to a global AI infrastructure investment boom driving overseas demand for Chinese tech components.",
+    "why": "出口超预期显示中国产业链在贸易摩擦下的韧性，对港股/A股科技出口概念股构成潜在利好；顺差收窄或缓和中美/中欧贸易谈判中的贸易失衡分歧。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "China",
+      "exports",
+      "trade",
+      "macro",
+      "宏观"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-07/china-exports-imports-post-double-digit-gains-but-growth-slows",
+    "published_date": "2026-08-07",
+    "still_developing": true,
+    "id": "3d477bbf0c83ab91"
+  },
+  {
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "07:00",
+    "group": "大盘头条",
+    "title": "国泰君安国际获国泰海通溢价44.2%私有化建议，今日复牌涨逾36%",
+    "summary": "国泰海通金控宣布以每股3港元、较停牌价2.08港元溢价约44.23%，通过协议安排方式私有化并撤销国泰君安国际上市地位。国泰君安国际今日复牌后大涨逾36%。当前约6%折价对应年化约12%套利收益（若私有化半年内完成）。",
+    "why": "港股大型券商整合加速，反映内地金融机构对港上市子公司估值修复的信心；私有化套利空间为期权卖方策略提供明确收益锚点参考。",
     "source": "新浪财经",
     "verified": true,
     "keywords": [
-      "恒指",
       "港股",
-      "科技股",
-      "HSI",
-      "Hang Seng"
+      "私有化",
+      "HK",
+      "broker",
+      "merger"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-10/doc-inimuzxr8221088.shtml",
-    "published_date": "2026-08-10",
-    "still_developing": false
+    "url": "https://finance.sina.com.cn/jjxw/2026-08-07/doc-inimnvkm3192412.shtml",
+    "published_date": "2026-08-07",
+    "still_developing": true,
+    "id": "448d853f27eb2b9c"
   },
   {
-    "id": "25b75c7d3f899904",
     "tier": 2,
-    "lang": "zh",
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK",
+      "A"
+    ],
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "FCC Drafts Ban on New Chinese-Made Optical Modules for U.S. Data Centers; Chinese Firms Hold 60%+ of Market",
+    "summary": "The U.S. FCC is drafting rules to bar imports of new-model Chinese optical transceivers used inside AI data centers. Chinese manufacturers — led by Innolight and Eoptolink — hold over 60% of global high-bandwidth (800G+) optical module supply. The proposal is not yet final. A separate report warned the ban could cut 60% of AI data center optical supply if enacted.",
+    "why": "直接利空A股光模块龙头（中际旭创、华工科技等）及相关港股，今日港股光通信板块已跌逾6%；对美国数据中心AI基础设施构成短期供应风险；sell put策略需关注相关板块IV上升。延续报道：自8月4日彭博最初报道以来，港股光通信板块持续承压至今（8月10日）。",
+    "source": "Caixin Global",
+    "verified": true,
+    "keywords": [
+      "FCC",
+      "optical modules",
+      "AI",
+      "data center",
+      "China tech",
+      "semiconductor"
+    ],
+    "translated": false,
+    "url": "https://www.caixinglobal.com/2026-08-05/us-drafts-ban-on-chinese-optical-modules-exposing-mutual-supply-chain-risks-102471268.html",
+    "published_date": "2026-08-05",
+    "still_developing": true,
+    "id": "4f970144e7972810"
+  },
+  {
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "Tencent and Alibaba Q2 2026 Earnings Preview: Key Things to Watch",
+    "summary": "Tencent (0700.HK) reports Q2 2026 results on August 12 after Hong Kong market close; Alibaba (9988.HK) reports August 20. Key focus areas: Tencent's AI capex trajectory (guided 'substantial H2 increase'), domestic gaming deceleration, and marketing-services growth. For Alibaba: AI cloud revenue acceleration, Qwen model commercialization, and progress ahead of its August 22 annual general meeting.",
+    "why": "腾讯明日公布Q2业绩，期权隐含波动率处于偏高位，结果公布后料回落；阿里巴巴八月下旬两大事件（财报+股东大会）叠加，为短期重要催化剂。两大龙头业绩对恒生科技指数走向有决定性影响。",
+    "source": "South China Morning Post",
+    "verified": false,
+    "keywords": [
+      "腾讯",
+      "Tencent",
+      "0700.HK",
+      "阿里巴巴",
+      "Alibaba",
+      "9988.HK",
+      "earnings",
+      "业绩"
+    ],
+    "translated": false,
+    "url": "https://www.scmp.com/tech/article/3346920/tencent-and-alibaba-quarterly-earnings-preview-key-things-watch",
+    "published_date": "2026-08-08",
+    "still_developing": false,
+    "id": "5d9f320c378ac1e6"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
     "markets": [
       "US"
     ],
     "time": "09:00",
     "group": "个股",
-    "title": "Google AI大换血：Hassabis卸任DeepMind CEO转任主席，Jeff Dean离职，Alphabet股价当日跌约5%",
-    "summary": "DeepMind联合创始人Demis Hassabis不再担任日常CEO，转任DeepMind主席并兼任Alphabet首席科学家；CTO Koray Kavukcuoglu接任日常运营汇报给Pichai。AI泰斗Jeff Dean在谷歌工作27年后离职，联合创办公益AI机构Discovery Loop（谷歌入股）。Gemini 3.5 Pro已延期，公司正全力押注Gemini 4。",
-    "why": "GOOGL是持仓标的；核心AI研究团队在关键竞争节点震荡，市场已用股价-5%表态担忧；若Gemini 4无法在2026年内证明竞争力，估值承压风险上升；持有GOOGL者需持续关注AI领导力与Gemini路线图进展。延续报道：人事变动影响深远，市场仍在评估对产品路线的影响。",
+    "title": "SpaceX to Build On-Site Power Plants for Terafab Chip Factory in Texas, Advancing Joint Tesla-SpaceX Project",
+    "summary": "SpaceX plans to construct natural gas-fired power plants and large battery storage arrays to supply electricity for the Terafab chip factory it is co-developing with Tesla in Grimes County, Texas. The facility will produce chips for Tesla Optimus robots, Cybercabs, and SpaceX space-based data centers. Earlier SpaceX IPO filings flagged the project could involve at least $55 billion in investment.",
+    "why": "Terafab自建供电设施标志着项目实质推进加快，将Tesla/SpaceX定位从汽车+火箭升维为AI芯片+机器人综合体，潜在估值重估；但Jefferies已将Tesla 2026年EBIT预测下调37%至39亿美元，短期基本面压力仍大。持有TSLA期权的卖方需警惕事件驱动波动。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "特斯拉",
+      "Tesla",
+      "TSLA",
+      "SpaceX",
+      "Terafab",
+      "semiconductor",
+      "AI"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/spacex-to-build-natural-gas-power-plants-for-texas-chip-factory",
+    "published_date": "2026-08-06",
+    "still_developing": true,
+    "id": "073a4a9797e84317"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "21:00",
+    "group": "个股",
+    "title": "Disney Q3 FY2026 Beats on EPS: $2.06 vs. $1.86 Expected; Parks Revenue +10%, Streaming +11%",
+    "summary": "Walt Disney reported fiscal Q3 2026 adjusted EPS of $2.06, beating analyst estimates of $1.86. Total revenue of $25.2 billion rose 7% year-on-year. Experiences (theme parks & cruises) revenue grew 10% to $9.97 billion; entertainment streaming climbed 11% to $5.53 billion. Operating income rose 21% to $5.6 billion. Several analysts including Wells Fargo and Barclays raised price targets after the report.",
+    "why": "迪士尼主题乐园+流媒体协同效应验证，盈利质量超预期，成本控制良好；多家大行上调目标价。延续报道：8月5日业绩发布后，analyst升级持续至8月6-7日，IV已回落。对DIS期权卖方，当前Premium已收窄，继续卖出需提高行权价保护。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
-      "谷歌",
-      "Google",
-      "Alphabet",
-      "GOOGL",
-      "Gemini",
-      "DeepMind"
+      "迪士尼",
+      "Disney",
+      "DIS",
+      "earnings",
+      "streaming",
+      "parks"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+    "url": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
     "published_date": "2026-08-05",
-    "still_developing": true
+    "still_developing": true,
+    "id": "ace296dea929cb07"
   }
 ]
