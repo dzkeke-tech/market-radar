@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-10 08:22 (北京时间)",
+  "updated_at": "2026-08-10 13:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -37,6 +37,179 @@
   "positions": [],
   "items": [
     {
+      "id": "12bdde548e025f41",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A",
+        "CN"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "中国7月CPI同比涨0.5%、PPI同比涨3.5%，通胀延续温和回升但双双不及预期",
+      "summary": "国家统计局8月9日公布：7月CPI同比+0.5%（低于预期0.8%，前值1.0%）；PPI同比+3.5%（低于前值4.1%，环比-0.7%）。核心CPI同比+0.9%，猪肉价格连续下跌拖累食品分项。",
+      "why": "通胀低于预期，为央行保持宽松政策提供空间，对港股/A股消费与科技板块整体偏利好；PPI回落幅度值得关注，或反映大宗需求偏弱。",
+      "source": "South China Morning Post",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "PPI",
+        "通胀",
+        "宏观",
+        "inflation"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/economy/china-economy/article/3363421/chinas-factory-gate-prices-growth-slow-35-july-amid-lower-fuel-prices",
+      "published_date": "2026-08-09",
+      "still_developing": false,
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "id": "cc540691c93b5102",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "伊朗发布霍尔木兹海峡限制草案：拟禁美以船只过境，油价较战前已涨约16%，谈判仍未完成",
+      "summary": "伊朗公布初步草案拟禁止美、以船只过境霍尔木兹海峡，并对有损伊朗国家征收货物价值20%罚款。布伦特原油约3.77/桶，较2月US-以色列袭伊战前涨约16%。伊朗-阿曼谈判进行中，伊方要求美方解除制裁并赔偿为前提。",
+      "why": "能源价格持续高位推升全球通胀并影响央行路径；对中国制造业供应链构成隐性成本压力；地缘风险尚未出清，关注布伦特原油对隐含波动率的传导。延续报道：8月10日油价仍在攀升，谈判未达成共识。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "油价",
+        "地缘",
+        "霍尔木兹",
+        "Iran",
+        "中东",
+        "crude oil"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/06/oil-price-iran-war-strait-hormuz-oman-deal.html",
+      "published_date": "2026-08-06",
+      "still_developing": true,
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "id": "e4c6ddbd0a60ff72",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "美股标普500创历史新高至7757，本周CPI（8月12日）、PPI、零售数据将定价联储走向",
+      "summary": "上周标普500累计+3.6%至历史新高7757.64，纳斯达克+5.2%，道指首破54000点。本周关键时间表：8月12日美国7月CPI（8:30 ET）、8月13日PPI、8月14日零售销售。美债10年收益率降至4.64%，市场对9月加息由>50%概率转为约44%。",
+      "why": "本周CPI数据是美股与期权市场的核心变量：若低于预期（当前预期约2.7%），Sell Put策略风险-收益比改善；若超预期，加息预期重燃将抬升波动率。此外腾讯（8月12日）、腾讯音乐（8月11日）财报同日发布，需警惕叠加波动。延续报道：本周为CPI+财报双重高波动窗口期。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "CPI",
+        "标普",
+        "纳斯达克",
+        "美联储",
+        "波动率"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/07/stock-market-next-week-outlook-for-aug-10-14-2026-.html",
+      "published_date": "2026-08-07",
+      "still_developing": true,
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "id": "0cf127bac99c8560",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "19:00",
+      "group": "个股",
+      "title": "国泰君安国际（01788.HK）8月10日复牌涨超36%：国泰海通金控以3港元/股溢价44.2%提私有化退市",
+      "summary": "国泰海通金控宣布通过协议安排方式，以3港元/股收购国泰君安国际（01788.HK）全部流通股，注销价较停牌前收盘价2.08港元溢价约44.2%，完成后国泰君安国际将从联交所退市。",
+      "why": "私有化溢价44.2%为本日港股最大事件性催化；合并整合有助国泰海通建立更强境外业务平台；关注港股券商板块是否引发并购想象空间。延续报道：股票今日（8月10日）复牌，市场正在消化收购溢价。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "私有化",
+        "并购",
+        "港股券商",
+        "国泰君安"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-07/doc-inimnvkm3183140.shtml",
+      "published_date": "2026-08-07",
+      "still_developing": true,
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "id": "04b824858f8e92a2",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:15",
+      "group": "大盘头条",
+      "title": "港股午盘：恒指涨0.72%报25853点，科网股活跃（阿里+2%、京东+1%），国泰君安国际私有化复牌涨超36%",
+      "summary": "8月10日午盘，恒生指数+0.72%报25853.69，恒生科技指数+0.37%，国企指数+0.66%。科网股普涨，生物医药板块强势（药明康德+3%）；半导体板块承压（天数智芯-8%）。国泰君安国际因私有化消息复牌跳涨逾36%。",
+      "why": "港股今日整体偏暖，科技权重股上行有助于持仓估值；半导体板块回调值得关注（与SK海力士相关ETF有间接敞口）。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "恒指",
+        "港股",
+        "科技股",
+        "HSI",
+        "Hang Seng"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-10/doc-inimuzxr8221088.shtml",
+      "published_date": "2026-08-10",
+      "still_developing": false,
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
+      "id": "25b75c7d3f899904",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Google AI大换血：Hassabis卸任DeepMind CEO转任主席，Jeff Dean离职，Alphabet股价当日跌约5%",
+      "summary": "DeepMind联合创始人Demis Hassabis不再担任日常CEO，转任DeepMind主席并兼任Alphabet首席科学家；CTO Koray Kavukcuoglu接任日常运营汇报给Pichai。AI泰斗Jeff Dean在谷歌工作27年后离职，联合创办公益AI机构Discovery Loop（谷歌入股）。Gemini 3.5 Pro已延期，公司正全力押注Gemini 4。",
+      "why": "GOOGL是持仓标的；核心AI研究团队在关键竞争节点震荡，市场已用股价-5%表态担忧；若Gemini 4无法在2026年内证明竞争力，估值承压风险上升；持有GOOGL者需持续关注AI领导力与Gemini路线图进展。延续报道：人事变动影响深远，市场仍在评估对产品路线的影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "Gemini",
+        "DeepMind"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+      "published_date": "2026-08-05",
+      "still_developing": true,
+      "first_seen": "2026-08-10",
+      "is_new": true
+    },
+    {
       "id": "0d3995ad493e076d",
       "tier": 1,
       "lang": "zh",
@@ -62,8 +235,7 @@
       "url": "https://www.hstong.com/news/detail/26080618044197354",
       "published_date": "2026-08-06",
       "still_developing": true,
-      "first_seen": "2026-08-10",
-      "is_new": true
+      "first_seen": "2026-08-10"
     },
     {
       "id": "8ac960ade239a4df",
@@ -91,8 +263,7 @@
       "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965008.html",
       "published_date": "2026-08-09",
       "still_developing": false,
-      "first_seen": "2026-08-10",
-      "is_new": true
+      "first_seen": "2026-08-10"
     },
     {
       "id": "6522f97742b3ccf5",
@@ -119,36 +290,7 @@
       "url": "https://finance.sina.com.cn/stock/y/2026-08-10/doc-inimuriv8273588.shtml",
       "published_date": "2026-08-10",
       "still_developing": false,
-      "first_seen": "2026-08-10",
-      "is_new": true
-    },
-    {
-      "id": "e33989a8121f1b68",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "13:00",
-      "group": "大盘头条",
-      "title": "Hong Kong H1 2026 GDP +5.1% YoY, government raises full-year forecast; Q1 +5.9%, Q2 +4.3% on export surge",
-      "summary": "Hong Kong's economy grew +5.1% YoY in H1 2026 (Q1 +5.9%, Q2 +4.3%), driven by a 39.1% surge in exports in the first half. The government revised its full-year 2026 GDP forecast upward given robust growth momentum. Domestic demand remained resilient alongside the trade contribution. The HKEX also launched phase 2 of its minimum tick size reduction on August 3, covering 1,345 securities and aimed at improving market liquidity.",
-      "why": "港股宏观底色改善，H1 GDP超预期为港股估值提供宏观支撑；出口韧性对贸易/物流板块正面；港交所流动性改革同步落地，整体有利于持仓组合",
-      "source": "South China Morning Post",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "香港GDP",
-        "宏观",
-        "HK",
-        "经济"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362688/hong-kong-raise-annual-gdp-forecast-after-robust-growth-first-half-2026",
-      "published_date": "2026-08-02",
-      "still_developing": false,
-      "first_seen": "2026-08-03",
-      "is_new": false
+      "first_seen": "2026-08-10"
     },
     {
       "tier": 1,
@@ -177,8 +319,7 @@
       "published_date": "2026-08-03",
       "still_developing": false,
       "id": "57d4a85d18cbbe5d",
-      "first_seen": "2026-08-03",
-      "is_new": false
+      "first_seen": "2026-08-03"
     },
     {
       "tier": 1,
@@ -208,37 +349,7 @@
       "published_date": "2026-07-29",
       "still_developing": true,
       "id": "cf8dc17a1cf8522c",
-      "first_seen": "2026-08-03",
-      "is_new": false
-    },
-    {
-      "id": "4041e247d4e52630",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "股票ETF 7月净流入4778亿创历史峰值，较此前月度纪录增逾160%",
-      "summary": "截至7月31日，全市场股票ETF单月净流入4778.36亿元，创单月历史新高，较此前历史峰值（2025年4月1835亿元）增幅逾160%。宽基ETF单月吸金3157.2亿元亦创历史峰值；科创50挂钩ETF吸金587.81亿元、创业板指ETF吸金377.37亿元位列前茅。",
-      "why": "A股被动资金流入规模再创历史纪录，市场底部承接力明显增强；科技/消费赛道ETF配置需求同步放大，对相关港股及A股持仓标的具有正面提振效应。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "ETF",
-        "A股",
-        "资金流入",
-        "宽基ETF",
-        "科创50",
-        "创业板"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikvhuf0513693.shtml",
-      "published_date": "2026-08-01",
-      "still_developing": false,
-      "first_seen": "2026-08-03",
-      "is_new": false
+      "first_seen": "2026-08-03"
     },
     {
       "tier": 1,
@@ -271,37 +382,7 @@
       "published_date": "2026-08-03",
       "still_developing": false,
       "id": "b0dddbb16b1f8e64",
-      "first_seen": "2026-08-03",
-      "is_new": false
-    },
-    {
-      "id": "1745dfb237260019",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Oil Drops on Iran Deal Optimism as Trump Pauses Strikes; US Futures Rise",
-      "summary": "Oil prices slumped sharply after Trump paused a planned military strike on Iran and announced new negotiations to reopen the Strait of Hormuz. Brent crude, which surged past $126 in April on war premium, retreated. US stock futures rose as geopolitical risk premium unwound.",
-      "why": "油价暴跌降低全球能源成本，利好消费/科技/交运等板块整体估值；美伊谈判进展令市场风险偏好明显改善，美股期货走高，对港股科技持仓短期正面。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "美伊谈判",
-        "oil price",
-        "Iran",
-        "Strait of Hormuz",
-        "geopolitics"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
-      "published_date": "2026-08-02",
-      "still_developing": false,
-      "first_seen": "2026-08-03",
-      "is_new": false
+      "first_seen": "2026-08-03"
     },
     {
       "tier": 1,
@@ -333,39 +414,7 @@
       "published_date": "2026-07-31",
       "still_developing": true,
       "id": "5926aa8779a35a95",
-      "first_seen": "2026-08-03",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "05:00",
-      "group": "个股",
-      "title": "Palantir (PLTR) Q2 2026 Reports Tonight After Close — Consensus $1.81B Revenue (+80% YoY), 9th Straight Beat Sought",
-      "summary": "Palantir reports Q2 2026 results after today's close with a 5pm ET webcast. Wall Street expects revenue of ~$1.81B (+80% YoY) and adj. EPS of ~$0.35. PLTR has beaten estimates for 8 consecutive quarters (avg. +14.6% EPS surprise). Stock has shed ~40% from its peak, trading at ~$123. Options market implies ~12% post-earnings move.",
-      "why": "直接持仓Palantir；期权方向重点：12%隐含摆幅是否合理？关注US Government vs. Commercial收入结构、AIP平台增速及全年收入指引是否调升至$7.65B以上",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Palantir",
-        "PLTR",
-        "Q2 2026",
-        "earnings",
-        "AIP",
-        "AI",
-        "revenue",
-        "EPS"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
-      "published_date": "2026-08-02",
-      "still_developing": false,
-      "id": "1e487d96901810c0",
-      "first_seen": "2026-08-03",
-      "is_new": false
+      "first_seen": "2026-08-03"
     },
     {
       "tier": 1,
@@ -397,8 +446,7 @@
       "published_date": "2026-08-03",
       "still_developing": false,
       "id": "05576edf7469aff8",
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "4bcf4f10f5bab82c",
@@ -426,8 +474,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
       "published_date": "2026-08-03",
       "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "7d9a655caf37e91c",
@@ -452,8 +499,7 @@
       "url": "https://www.stcn.com/article/detail/4057128.html",
       "published_date": "2026-08-04",
       "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "147a8e9eb927b7cb",
@@ -481,8 +527,7 @@
       "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-6-july-2026-ism-manufacturing-pmi-report-302840669.html",
       "published_date": "2026-08-03",
       "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "32e8d2c503422826",
@@ -509,8 +554,7 @@
       "url": "https://finance.sina.com.cn/money/bond/2026-08-03/doc-inikytnr4734382.shtml",
       "published_date": "2026-08-03",
       "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "3054b022ba7995bc",
@@ -538,8 +582,7 @@
       "url": "https://www.prnewswire.com/news-releases/hkex-launches-5-year-china-government-bond-futures-302840935.html",
       "published_date": "2026-08-03",
       "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "c8dc1183ba885e6c",
@@ -570,8 +613,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
       "published_date": "2026-08-03",
       "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "tier": 1,
@@ -602,8 +644,7 @@
       "published_date": "2026-08-03",
       "still_developing": false,
       "id": "25d5532ae5ba896e",
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "tier": 1,
@@ -633,8 +674,7 @@
       "published_date": "2026-08-04",
       "still_developing": false,
       "id": "d6a5806096a5f3e1",
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "tier": 1,
@@ -664,8 +704,7 @@
       "published_date": "2026-08-03",
       "still_developing": false,
       "id": "fc65f41112925302",
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "d21058c652c4572d",
@@ -693,8 +732,7 @@
         "Nasdaq",
         "US market"
       ],
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "id": "80b4dcdca9960234",
@@ -722,8 +760,7 @@
         "CPO",
         "成交额"
       ],
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "tier": 1,
@@ -752,8 +789,7 @@
       "published_date": "2026-08-05",
       "still_developing": false,
       "id": "24b358710ae1dab5",
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "tier": 1,
@@ -784,8 +820,7 @@
       "published_date": "2026-08-03",
       "still_developing": false,
       "id": "b933635f87d28cc5",
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "tier": 1,
@@ -814,8 +849,7 @@
       "published_date": "2026-08-04",
       "still_developing": false,
       "id": "9f8c701cc6d8bc50",
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "tier": 1,
@@ -843,8 +877,7 @@
       "published_date": "2026-08-04",
       "still_developing": false,
       "id": "c666576e410246fd",
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "id": "074b3b3bdfed6696",
@@ -873,8 +906,7 @@
       "url": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
       "published_date": "2026-08-04",
       "still_developing": false,
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "id": "ec752d234caca87a",
@@ -903,8 +935,7 @@
       "url": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
       "published_date": "2026-08-04",
       "still_developing": false,
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "id": "e598d9e97833efbc",
@@ -930,8 +961,7 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-06/doc-inimizpr0719930.shtml",
       "published_date": "2026-08-06",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "9982d68ec73faf8f",
@@ -963,8 +993,7 @@
       "url": "https://seekingalpha.com/news/4625688-samsung-sk-hynix-micron-sell-out-2027-memory-chip-supply-report",
       "published_date": "2026-08-04",
       "still_developing": true,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "d2afbea4cbacf451",
@@ -991,8 +1020,7 @@
       "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-preliminary-estimate-for-july-4-2026-302829949.html",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "85e2166139bae21e",
@@ -1020,8 +1048,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/china-hits-back-at-us-with-tighter-drone-export-curbs-sanctions",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "5258ab58d8a2bedd",
@@ -1050,8 +1077,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "eb11d1de6200ff19",
@@ -1080,8 +1106,7 @@
       "url": "https://www.thenationalnews.com/business/energy/2026/08/03/oil-prices-slump-on-potential-us-iran-deal-to-open-strait-of-hormuz/",
       "published_date": "2026-08-03",
       "still_developing": true,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "443b98276d3c237b",
@@ -1107,8 +1132,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/spacex-s-101-billion-unlock-heaps-pressure-on-battered-shares",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "00cc5005c6d1bfff",
@@ -1136,8 +1160,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/latest-oil-market-news-and-analysis-for-aug-6",
       "published_date": "2026-08-05",
       "still_developing": true,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "efb00496f0e51cf7",
@@ -1166,8 +1189,7 @@
       "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "3d6da793b44d6478",
@@ -1195,8 +1217,7 @@
       "url": "https://finance.sina.com.cn/tob/2026-08-07/doc-inimnrai3181909.shtml",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "79133b595250a2c6",
@@ -1225,8 +1246,7 @@
       "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-fourth-quarter-2026-financial-results",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "da7386551589b336",
@@ -1254,8 +1274,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-06/trump-signed-order-on-tariffs-trade-actions-on-polysilicon",
       "published_date": "2026-08-06",
       "still_developing": false,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "1a83c964c76e3f46",
@@ -1283,8 +1302,7 @@
       "url": "https://www.bls.gov/news.release/archives/empsit_08072026.htm",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "713a3ba5f4a246a2",
@@ -1317,8 +1335,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
       "published_date": "2026-08-06",
       "still_developing": true,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "b89284c24a1e2acb",
@@ -1346,8 +1363,7 @@
       "url": "https://www.cnbc.com/amp/2026/08/07/jobs-report-july-2026.html",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "7a851cc9862eb5f4",
@@ -1374,8 +1390,7 @@
       "url": "https://m.cls.cn/detail/2448413",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "25a04a8b4d9bd6b6",
@@ -1404,8 +1419,7 @@
       "url": "https://finance.sina.com.cn/money/bond/2026-08-07/doc-inimnzsi3149009.shtml",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "327d9e603aabc60e",
@@ -1435,8 +1449,7 @@
       "url": "https://www.cnbc.com/2026/08/05/spacexs-earnings-are-not-helping-its-stock-but-nvidia-is-getting-a-boost.html",
       "published_date": "2026-08-05",
       "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "1fae30f22379df90",
@@ -1465,8 +1478,7 @@
       "url": "https://finance.sina.com.cn/stock/relnews/2026-08-09/doc-inimsssv5740113.shtml",
       "published_date": "2026-08-09",
       "still_developing": false,
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "a4533fb314de3870",
@@ -1488,8 +1500,7 @@
         "jobs-report",
         "macro"
       ],
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "f4297d4b3e3a8456",
@@ -1514,8 +1525,7 @@
         "A股",
         "港股"
       ],
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "a6aeeb3bbf4d84dc",
@@ -1540,8 +1550,7 @@
         "A股",
         "科技"
       ],
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "8d3f7af71c2ce0e3",
@@ -1564,8 +1573,7 @@
         "US-markets",
         "weekly-recap"
       ],
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "a479f8aa5fee651d",
@@ -1589,8 +1597,7 @@
         "港股",
         "AI"
       ],
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "33f01a5236e61ab4",
@@ -1614,8 +1621,7 @@
         "AI",
         "半导体"
       ],
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "8ff1f6f3e156b866",
@@ -1642,8 +1648,7 @@
       "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "a77c7d9c7c803258",
@@ -1673,8 +1678,7 @@
       "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "efc83e8f23a1f186",
@@ -1704,38 +1708,7 @@
       "url": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
       "published_date": "2026-08-04",
       "still_developing": true,
-      "first_seen": "2026-08-09",
-      "is_new": false
-    },
-    {
-      "id": "f787cccbc8209b2d",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:30",
-      "group": "个股",
-      "title": "小米多款手机今起正式涨价，小米17、REDMI K90/Turbo 5全系上调300-500元",
-      "summary": "2026年8月2日，小米商城多款主力机型价格上调300至500元，为今年以来第三轮涨价。小米17 Pro Max最高涨500元至6499元起，Turbo 5从2299元涨至2599元起，REDMI K90全系普涨300元。小米集团合伙人卢伟冰此前表示内存成本大涨是主因。",
-      "why": "连续第三轮涨价有助改善小米手机毛利率，缓解内存/零部件成本压力，对1810.HK盈利能力回升具有正面信号；叠加澎程SUV新产品线开启，手机+汽车双线并进支撑收入增长预期。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "涨价",
-        "小米17",
-        "REDMI K90",
-        "Turbo 5",
-        "1810.HK"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260802/herald/24d31bf2b5df33ad26ac592d3c221937.html",
-      "published_date": "2026-08-02",
-      "still_developing": false,
-      "first_seen": "2026-08-03",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "tier": 2,
@@ -1763,8 +1736,7 @@
       "published_date": "2026-08-03",
       "still_developing": false,
       "id": "9627b48ccaf5847b",
-      "first_seen": "2026-08-03",
-      "is_new": false
+      "first_seen": "2026-08-03"
     },
     {
       "tier": 2,
@@ -1793,8 +1765,7 @@
       "published_date": "2026-07-30",
       "still_developing": true,
       "id": "1b11689492df17f3",
-      "first_seen": "2026-08-03",
-      "is_new": false
+      "first_seen": "2026-08-03"
     },
     {
       "tier": 2,
@@ -1826,39 +1797,7 @@
       "published_date": "2026-07-31",
       "still_developing": true,
       "id": "99968ecdb7c2d5d8",
-      "first_seen": "2026-08-03",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "阿里巴巴主席蔡崇信宣布离婚，声明不涉及出售任何阿里股份",
-      "summary": "8月1日，阿里巴巴集团主席蔡崇信与妻子吴明华联合宣布结束近30年婚姻。双方发表声明称，此次分手系\"相互尊重\"决定，且不涉及任何出售阿里巴巴股份的计划，蔡崇信将继续履行董事会主席职责。",
-      "why": "消除市场对大股东离婚可能引发减持的担忧，有利于股价稳定；需持续关注公司治理动态与大股东持仓变化",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "蔡崇信",
-        "阿里巴巴",
-        "离婚",
-        "股份",
-        "公司治理",
-        "BABA",
-        "9988"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/shenji/2026-08-01/doc-inikumqm0584817.shtml",
-      "published_date": "2026-08-01",
-      "still_developing": false,
-      "id": "877e8bebd307fc07",
-      "first_seen": "2026-08-03",
-      "is_new": false
+      "first_seen": "2026-08-03"
     },
     {
       "tier": 2,
@@ -1888,8 +1827,7 @@
       "published_date": "2026-08-03",
       "still_developing": true,
       "id": "b590f3e8a9abead7",
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "a183c35b9bbc5910",
@@ -1916,35 +1854,7 @@
       "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-04/doc-inimctri5756951.shtml",
       "published_date": "2026-08-04",
       "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
-    },
-    {
-      "id": "4d93915a1bbbd84e",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "小米旗舰手机全线涨价300-500元，DRAM/NAND因AI需求挤占产能年内涨近4倍为主因",
-      "summary": "小米宣布旗舰系列手机全线上调售价300-500元人民币，官方解释称DRAM和NAND闪存受AI服务器需求挤占产能，年内已涨价近4倍，导致BOM成本显著上升。此为小米年内第三轮涨价。",
-      "why": "直接关联小米（1810.HK）：成本压力上升叠加主动涨价，短期影响出货量预期，关注Q3销量指引。同时印证存储芯片（SK海力士、美光）景气度持续高涨。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "SK海力士",
-        "美光",
-        "闪迪"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-08-02/doc-inikxfmh9709626.shtml",
-      "published_date": "2026-08-02",
-      "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "0f35e1b62f2e051e",
@@ -1968,8 +1878,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-03/amazon-joins-elite-list-of-stocks-to-top-3-trillion-in-value",
       "published_date": "2026-08-03",
       "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "tier": 2,
@@ -2000,38 +1909,7 @@
       "published_date": "2026-08-03",
       "still_developing": false,
       "id": "0d0d9199b244e4fa",
-      "first_seen": "2026-08-04",
-      "is_new": false
-    },
-    {
-      "id": "c6823df17eddbb99",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "08:30",
-      "group": "个股",
-      "title": "小米手机正式涨价300-500元，年内第三轮调价；存储芯片成本失控是根源",
-      "summary": "8月2日，小米商城多款旗舰机型价格上调300至500元：小米17系列涨300-500元，Redmi K90系列及Turbo 5各版本涨300元。这是小米年内第三轮提价，直接原因是AI算力爆发导致DRAM/NAND存储芯片被服务器端虹吸，手机存储合同价同比涨逾90%。",
-      "why": "存储成本失控正压缩小米手机利润率；涨价若引发消费者抵制则Q3出货量承压，对持有小米卖出期权者需警惕。反面利好：验证存储超级周期延续逻辑，利好美光（MU）、SK海力士。搭配澎程新车系待发（8月中下旬），小米近期催化剂密集。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "手机涨价",
-        "DRAM",
-        "存储芯片",
-        "澎程",
-        "1810.HK"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-08-02/doc-inikvxrx0219214.shtml",
-      "published_date": "2026-08-02",
-      "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "57507c7e1fd43b8d",
@@ -2059,8 +1937,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-03/oil-slips-as-trump-holds-off-iran-attack-says-talks-to-resume-msdeau9b",
       "published_date": "2026-08-03",
       "still_developing": true,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "tier": 2,
@@ -2091,8 +1968,7 @@
       "published_date": "2026-07-30",
       "still_developing": true,
       "id": "62f1d3cf25db22d6",
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "tier": 2,
@@ -2123,8 +1999,7 @@
       "published_date": "2026-08-04",
       "still_developing": false,
       "id": "163df098996c361d",
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "tier": 2,
@@ -2154,8 +2029,7 @@
       "published_date": "2026-08-05",
       "still_developing": false,
       "id": "5927b82fd851aee9",
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "id": "4fae234b4165df3d",
@@ -2182,8 +2056,7 @@
         "南向资金",
         "8月4日"
       ],
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "id": "3c3613f5fb9a3eee",
@@ -2211,8 +2084,7 @@
         "market cap",
         "insider sale"
       ],
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "id": "af49bd64d53cde46",
@@ -2240,8 +2112,7 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-05/doc-inimfshr4757716.shtml",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "tier": 2,
@@ -2271,8 +2142,7 @@
       "published_date": "2026-08-01",
       "still_developing": true,
       "id": "2d31cb7969e61c36",
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "id": "950c37d5fcb75dbc",
@@ -2303,8 +2173,7 @@
       "url": "https://news.skhynix.com/en/hbf-at-fms-2026/",
       "published_date": "2026-08-04",
       "still_developing": false,
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "id": "8cc35de20b7045c6",
@@ -2332,8 +2201,7 @@
       "url": "https://www.cnbc.com/amp/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html",
       "published_date": "2026-08-04",
       "still_developing": true,
-      "first_seen": "2026-08-05",
-      "is_new": false
+      "first_seen": "2026-08-05"
     },
     {
       "id": "e98819576010aa92",
@@ -2361,8 +2229,7 @@
       "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000121/amdq22026earningsslidesf.htm",
       "published_date": "2026-08-04",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "f0601ca94d6490b9",
@@ -2390,8 +2257,7 @@
       "url": "https://finance.sina.com.cn/wm/2026-08-05/doc-inimhawf5195492.shtml",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "9db20476b5e785b0",
@@ -2419,8 +2285,7 @@
       "url": "https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "1b69be34e91c50e5",
@@ -2448,8 +2313,7 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikzzhm2651202.shtml",
       "published_date": "2026-08-03",
       "still_developing": true,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "ace296dea929cb07",
@@ -2477,8 +2341,7 @@
       "url": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "c03953eca5f39eef",
@@ -2506,8 +2369,7 @@
       "url": "https://finance.sina.com.cn/roll/2026-08-05/doc-inimhpnf4464271.shtml",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "42a06fabf7a64809",
@@ -2537,8 +2399,7 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-08-04/doc-inimchzp5738576.shtml",
       "published_date": "2026-08-04",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "760df4965bd80f41",
@@ -2566,8 +2427,7 @@
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-05/doc-inimhiec5141998.shtml",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "91f363d2fe649d0d",
@@ -2596,8 +2456,7 @@
       "url": "https://www.stocktitan.net/news/SNDK/sandisk-reports-fiscal-fourth-quarter-2026-financial-kc0v6ojj1c1u.html",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "a43cff30b7448581",
@@ -2624,8 +2483,7 @@
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimivfi3081438.shtml",
       "published_date": "2026-08-06",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "c041b93e235ef3cc",
@@ -2656,8 +2514,7 @@
       "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-and-sk-hynix-advance-global-standardization-high",
       "published_date": "2026-08-03",
       "still_developing": true,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "6da02406f83e3d3c",
@@ -2684,8 +2541,7 @@
       "url": "https://finance.sina.com.cn/stock/y/2026-08-06/doc-inimiqxt4019954.shtml",
       "published_date": "2026-08-06",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "b14736ea88ec2e4c",
@@ -2712,8 +2568,7 @@
       "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-4-amds-nasdaqamd-q2-sales-top-estimates-but-stock-drops",
       "published_date": "2026-08-04",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "4b5a990ef38a15d5",
@@ -2742,8 +2597,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/stock-market-today-dow-s-p-live-updates",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "8b35dfdd05b8b955",
@@ -2771,8 +2625,7 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-07/doc-inimnrai3249015.shtml",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "d189b53927dcbba7",
@@ -2798,8 +2651,7 @@
       "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
       "published_date": "2026-08-06",
       "still_developing": false,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "eee4ce2fad339b7b",
@@ -2826,8 +2678,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-06/cloudflare-lifts-annual-profit-outlook-beats-wall-street-target",
       "published_date": "2026-08-06",
       "still_developing": false,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "b20360f3b3ff542e",
@@ -2855,8 +2706,7 @@
       "url": "https://investor.sandisk.com/news-events/news-releases",
       "published_date": "2026-08-05",
       "still_developing": true,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "c2e8e6a14b25a13a",
@@ -2886,8 +2736,7 @@
       "url": "https://finance.sina.com.cn/wm/2026-08-06/doc-inimkfvc3056603.shtml",
       "published_date": "2026-08-06",
       "still_developing": false,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "c3b6727042deb87d",
@@ -2915,8 +2764,7 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-08-07/doc-inimnenp3333407.shtml",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "6d8519fbad36780f",
@@ -2944,8 +2792,7 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-07/doc-inimnenr0116464.shtml",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "5e6fac5b8cb6a0f7",
@@ -2973,8 +2820,7 @@
       "url": "https://www.cnbc.com/2026/08/04/palantir-earns-an-upgrade-after-its-big-second-quarter.html",
       "published_date": "2026-08-04",
       "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "b8c8af1f9726408d",
@@ -3004,8 +2850,7 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikzeat6112453.shtml",
       "published_date": "2026-08-03",
       "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "4e6afe384c1ee45a",
@@ -3033,8 +2878,7 @@
       "url": "https://finance.sina.com.cn/wm/2026-08-06/doc-inimknaz2986704.shtml",
       "published_date": "2026-08-06",
       "still_developing": false,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "59758f490839d0c0",
@@ -3063,8 +2907,7 @@
       "url": "https://s206.q4cdn.com/265218871/files/doc_news/2026/Aug/05/CIRCLE_Q2-2026.pdf",
       "published_date": "2026-08-05",
       "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "8694202e46eab1a1",
@@ -3093,8 +2936,7 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-06/doc-inimizpp3944840.shtml",
       "published_date": "2026-08-06",
       "still_developing": false,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "ae8d1e33c2175f80",
@@ -3124,8 +2966,7 @@
       "url": "https://www.globenewswire.com/news-release/2026/08/04/3338174/0/en/microchip-technology-in-collaboration-with-micron-technology-demonstrates-high-performance-pcie-gen-6-storage-architecture-for-ai-and-data-center-infrastructure.html",
       "published_date": "2026-08-04",
       "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "f6892c0b1a346945",
@@ -3153,8 +2994,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/s-p-500-poised-for-another-record-as-ai-spending-narrative-holds",
       "published_date": "2026-08-05",
       "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "6a845f5deacc75ea",
@@ -3184,8 +3024,7 @@
       "url": "https://www.cnbc.com/amp/2026/08/05/disney-dis-earnings-q3-2026.html",
       "published_date": "2026-08-05",
       "still_developing": true,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "c0b674a48c9310eb",
@@ -3214,8 +3053,7 @@
       "url": "https://www.cnbc.com/2026/08/07/gold-heads-for-best-week-since-january-us-jobs-data-in-focus.html",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "2e93c62a935ebd97",
@@ -3243,8 +3081,7 @@
       "url": "https://caifuhao.eastmoney.com/news/20260807152921430541800",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "91890ccf86f6a23c",
@@ -3274,8 +3111,7 @@
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimshax3741936.shtml",
       "published_date": "2026-08-09",
       "still_developing": false,
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "ee81b1dc16480c19",
@@ -3298,8 +3134,7 @@
         "commodities",
         "老铺黄金"
       ],
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "494331710b4abf0d",
@@ -3329,8 +3164,7 @@
       "url": "https://finance.sina.com.cn/world/2026-08-08/doc-inimqccv2756070.shtml",
       "published_date": "2026-08-08",
       "still_developing": false,
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "4097160f0e9c75d4",
@@ -3360,8 +3194,7 @@
       "url": "https://www.alibabagroup.com/en-US/document-2022412636729114624",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "38433f12b6cdb26a",
@@ -3391,8 +3224,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/disney-s-streaming-and-parks-drive-third-quarter-profit-growth",
       "published_date": "2026-08-05",
       "still_developing": true,
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     },
     {
       "id": "64fb6c2620391758",
@@ -3422,8 +3254,7 @@
       "url": "https://finance.sina.com.cn/stock/t/2026-07-30/doc-inikqywf1782668.shtml",
       "published_date": "2026-07-30",
       "still_developing": true,
-      "first_seen": "2026-08-03",
-      "is_new": false
+      "first_seen": "2026-08-03"
     },
     {
       "id": "1f19893dc1499919",
@@ -3449,8 +3280,7 @@
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimcatp4193027.shtml",
       "published_date": "2026-08-04",
       "still_developing": false,
-      "first_seen": "2026-08-04",
-      "is_new": false
+      "first_seen": "2026-08-04"
     },
     {
       "id": "aee84a4823a867e1",
@@ -3477,8 +3307,7 @@
       "url": "https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Reports-July-Sales-Results/default.aspx",
       "published_date": "2026-08-05",
       "still_developing": false,
-      "first_seen": "2026-08-06",
-      "is_new": false
+      "first_seen": "2026-08-06"
     },
     {
       "id": "28df182c59e7c0bd",
@@ -3506,8 +3335,7 @@
       "url": "https://finance.sina.com.cn/tech/discovery/2026-08-06/doc-inimkncm0649702.shtml",
       "published_date": "2026-08-06",
       "still_developing": false,
-      "first_seen": "2026-08-07",
-      "is_new": false
+      "first_seen": "2026-08-07"
     },
     {
       "id": "212b3235abd4e4a7",
@@ -3536,8 +3364,7 @@
       "url": "https://www.globenewswire.com/news-release/2026/08/07/3340941/0/en/futu-to-report-second-quarter-2026-financial-results-on-august-20-2026.html",
       "published_date": "2026-08-07",
       "still_developing": false,
-      "first_seen": "2026-08-08",
-      "is_new": false
+      "first_seen": "2026-08-08"
     },
     {
       "id": "29db096cf3f343a4",
@@ -3566,8 +3393,7 @@
       "url": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
       "published_date": "2026-08-04",
       "still_developing": true,
-      "first_seen": "2026-08-09",
-      "is_new": false
+      "first_seen": "2026-08-09"
     }
   ]
 }
