@@ -1,163 +1,117 @@
 [
   {
-    "id": "12bdde548e025f41",
+    "id": "6ce21c2ab7aeee24",
     "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "HK",
-      "A",
-      "CN"
-    ],
-    "time": "09:30",
-    "group": "大盘头条",
-    "title": "中国7月CPI同比涨0.5%、PPI同比涨3.5%，通胀延续温和回升但双双不及预期",
-    "summary": "国家统计局8月9日公布：7月CPI同比+0.5%（低于预期0.8%，前值1.0%）；PPI同比+3.5%（低于前值4.1%，环比-0.7%）。核心CPI同比+0.9%，猪肉价格连续下跌拖累食品分项。",
-    "why": "通胀低于预期，为央行保持宽松政策提供空间，对港股/A股消费与科技板块整体偏利好；PPI回落幅度值得关注，或反映大宗需求偏弱。",
-    "source": "South China Morning Post",
+    "type": "大盘头条",
+    "lang": "en",
+    "entry": null,
+    "title": "英伟达联合华尔街资管巨头承诺逾5000亿美元AI基础设施投资",
+    "summary": "英伟达与Apollo、BlackRock等华尔街资管巨头宣布共同出资逾5000亿美元用于AI基础设施，涵盖数据中心、能源及融资安排；黄仁勋表示AI算力正成为可投资资产类别，将改变资本市场格局。",
+    "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+    "source": "CNBC",
+    "published_date": "2026-08-10",
     "verified": true,
-    "keywords": [
-      "CPI",
-      "PPI",
-      "通胀",
-      "宏观",
-      "inflation"
-    ],
-    "translated": false,
-    "url": "https://www.scmp.com/economy/china-economy/article/3363421/chinas-factory-gate-prices-growth-slow-35-july-amid-lower-fuel-prices",
-    "published_date": "2026-08-09",
-    "still_developing": false
+    "tags": ["AI基础设施", "英伟达", "NVDA", "数据中心"]
   },
   {
-    "id": "cc540691c93b5102",
+    "id": "25a711f1aaf66e0c",
     "tier": 1,
+    "type": "大盘头条",
     "lang": "zh",
-    "markets": [
-      "US",
-      "HK"
-    ],
-    "time": "09:00",
-    "group": "大盘头条",
-    "title": "伊朗发布霍尔木兹海峡限制草案：拟禁美以船只过境，油价较战前已涨约16%，谈判仍未完成",
-    "summary": "伊朗公布初步草案拟禁止美、以船只过境霍尔木兹海峡，并对有损伊朗国家征收货物价值20%罚款。布伦特原油约3.77/桶，较2月US-以色列袭伊战前涨约16%。伊朗-阿曼谈判进行中，伊方要求美方解除制裁并赔偿为前提。",
-    "why": "能源价格持续高位推升全球通胀并影响央行路径；对中国制造业供应链构成隐性成本压力；地缘风险尚未出清，关注布伦特原油对隐含波动率的传导。延续报道：8月10日油价仍在攀升，谈判未达成共识。",
-    "source": "CNBC",
-    "verified": false,
-    "keywords": [
-      "油价",
-      "地缘",
-      "霍尔木兹",
-      "Iran",
-      "中东",
-      "crude oil"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/08/06/oil-price-iran-war-strait-hormuz-oman-deal.html",
-    "published_date": "2026-08-06",
-    "still_developing": true
+    "entry": null,
+    "title": "霍尔木兹海峡局势升温，国际油价单日涨逾4%",
+    "summary": "中东紧张态势持续，霍尔木兹海峡断航风险上升，布伦特原油及WTI原油期货当日涨幅均超4%，能源股受提振，对通胀预期形成新压力。",
+    "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimwckz1104679.shtml",
+    "source": "新浪财经",
+    "published_date": "2026-08-11",
+    "verified": true,
+    "tags": ["原油", "大宗商品", "中东", "通胀"]
+  },
+  {
+    "id": "fbf2fe9531152447",
+    "tier": 2,
+    "type": "大盘头条",
+    "lang": "zh",
+    "entry": null,
+    "title": "美股周五下跌，费城半导体指数跌逾3%",
+    "summary": "受科技股与芯片股回调拖累，美股三大指数集体收跌，费城半导体指数单日跌幅超3%；英伟达、AMD等AI芯片龙头较高位回落，市场消化前期涨幅。",
+    "url": "https://finance.sina.com.cn/stock/cpbd/2026-08-11/doc-inimwuhv7728993.shtml",
+    "source": "新浪财经",
+    "published_date": "2026-08-11",
+    "verified": true,
+    "tags": ["美股", "半导体", "SOX", "科技股"]
   },
   {
     "id": "e4c6ddbd0a60ff72",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US"
-    ],
-    "time": "07:00",
-    "group": "大盘头条",
-    "title": "美股标普500创历史新高至7757，本周CPI（8月12日）、PPI、零售数据将定价联储走向",
-    "summary": "上周标普500累计+3.6%至历史新高7757.64，纳斯达克+5.2%，道指首破54000点。本周关键时间表：8月12日美国7月CPI（8:30 ET）、8月13日PPI、8月14日零售销售。美债10年收益率降至4.64%，市场对9月加息由>50%概率转为约44%。",
-    "why": "本周CPI数据是美股与期权市场的核心变量：若低于预期（当前预期约2.7%），Sell Put策略风险-收益比改善；若超预期，加息预期重燃将抬升波动率。此外腾讯（8月12日）、腾讯音乐（8月11日）财报同日发布，需警惕叠加波动。延续报道：本周为CPI+财报双重高波动窗口期。",
-    "source": "CNBC",
-    "verified": true,
-    "keywords": [
-      "S&P 500",
-      "CPI",
-      "标普",
-      "纳斯达克",
-      "美联储",
-      "波动率"
-    ],
-    "translated": false,
+    "tier": 2,
+    "type": "大盘头条",
+    "lang": "en",
+    "entry": null,
+    "title": "本周关键：7月CPI（8/12发布）+ 1250亿美元国债拍卖",
+    "summary": "本周美股焦点为8月12日发布的7月CPI数据（市场预期同比+2.7%）及规模1250亿美元的国债拍卖；若CPI超预期将压制降息预期，对估值敏感的科技股形成压力。事件仍在演进中。",
     "url": "https://www.cnbc.com/2026/08/07/stock-market-next-week-outlook-for-aug-10-14-2026-.html",
-    "published_date": "2026-08-07",
-    "still_developing": true
-  },
-  {
-    "id": "0cf127bac99c8560",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "19:00",
-    "group": "个股",
-    "title": "国泰君安国际（01788.HK）8月10日复牌涨超36%：国泰海通金控以3港元/股溢价44.2%提私有化退市",
-    "summary": "国泰海通金控宣布通过协议安排方式，以3港元/股收购国泰君安国际（01788.HK）全部流通股，注销价较停牌前收盘价2.08港元溢价约44.2%，完成后国泰君安国际将从联交所退市。",
-    "why": "私有化溢价44.2%为本日港股最大事件性催化；合并整合有助国泰海通建立更强境外业务平台；关注港股券商板块是否引发并购想象空间。延续报道：股票今日（8月10日）复牌，市场正在消化收购溢价。",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "私有化",
-      "并购",
-      "港股券商",
-      "国泰君安"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-07/doc-inimnvkm3183140.shtml",
-    "published_date": "2026-08-07",
-    "still_developing": true
-  },
-  {
-    "id": "04b824858f8e92a2",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "12:15",
-    "group": "大盘头条",
-    "title": "港股午盘：恒指涨0.72%报25853点，科网股活跃（阿里+2%、京东+1%），国泰君安国际私有化复牌涨超36%",
-    "summary": "8月10日午盘，恒生指数+0.72%报25853.69，恒生科技指数+0.37%，国企指数+0.66%。科网股普涨，生物医药板块强势（药明康德+3%）；半导体板块承压（天数智芯-8%）。国泰君安国际因私有化消息复牌跳涨逾36%。",
-    "why": "港股今日整体偏暖，科技权重股上行有助于持仓估值；半导体板块回调值得关注（与SK海力士相关ETF有间接敞口）。",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "恒指",
-      "港股",
-      "科技股",
-      "HSI",
-      "Hang Seng"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-10/doc-inimuzxr8221088.shtml",
-    "published_date": "2026-08-10",
-    "still_developing": false
-  },
-  {
-    "id": "25b75c7d3f899904",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "US"
-    ],
-    "time": "09:00",
-    "group": "个股",
-    "title": "Google AI大换血：Hassabis卸任DeepMind CEO转任主席，Jeff Dean离职，Alphabet股价当日跌约5%",
-    "summary": "DeepMind联合创始人Demis Hassabis不再担任日常CEO，转任DeepMind主席并兼任Alphabet首席科学家；CTO Koray Kavukcuoglu接任日常运营汇报给Pichai。AI泰斗Jeff Dean在谷歌工作27年后离职，联合创办公益AI机构Discovery Loop（谷歌入股）。Gemini 3.5 Pro已延期，公司正全力押注Gemini 4。",
-    "why": "GOOGL是持仓标的；核心AI研究团队在关键竞争节点震荡，市场已用股价-5%表态担忧；若Gemini 4无法在2026年内证明竞争力，估值承压风险上升；持有GOOGL者需持续关注AI领导力与Gemini路线图进展。延续报道：人事变动影响深远，市场仍在评估对产品路线的影响。",
     "source": "CNBC",
+    "published_date": "2026-08-07",
+    "still_developing": true,
     "verified": true,
-    "keywords": [
-      "谷歌",
-      "Google",
-      "Alphabet",
-      "GOOGL",
-      "Gemini",
-      "DeepMind"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
-    "published_date": "2026-08-05",
-    "still_developing": true
+    "tags": ["CPI", "美联储", "宏观", "利率", "国债"]
+  },
+  {
+    "id": "9837042508dedd43",
+    "tier": 2,
+    "type": "大盘头条",
+    "lang": "zh",
+    "entry": null,
+    "title": "对冲基金重返做空，科技与消费板块空头仓位创近期高位",
+    "summary": "华尔街见闻援引机构数据显示，对冲基金近期明显增加科技及消费类股空头头寸，空头仓位升至近期新高；分析人士认为市场情绪趋于谨慎，隐含波动率有走升风险。",
+    "url": "https://wallstreetcn.com/articles/3747499",
+    "source": "华尔街见闻",
+    "published_date": "2026-08-10",
+    "verified": false,
+    "tags": ["对冲基金", "做空", "波动率", "市场情绪"]
+  },
+  {
+    "id": "2a3b1b42135b514e",
+    "tier": 2,
+    "type": "个股",
+    "lang": "en",
+    "entry": "腾讯",
+    "title": "腾讯音乐(TME) Q2业绩超预期：收入+18% YoY，付费用户+630万",
+    "summary": "腾讯音乐娱乐Q2营收同比增长18%，付费订阅用户净增630万至1.22亿；在线音乐收入占比提升，广告及社交娱乐业务亦保持增长，业绩好于市场一致预期。数据来源：SEC EDGAR 6-K文件。",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001744676/000095010326010575/dp249944_ex9901.htm",
+    "source": "SEC EDGAR",
+    "published_date": "2026-08-11",
+    "verified": true,
+    "tags": ["TME", "腾讯音乐", "业绩", "Q2", "0700.HK"]
+  },
+  {
+    "id": "3301e04072f88a15",
+    "tier": 1,
+    "type": "个股",
+    "lang": "zh",
+    "entry": "腾讯",
+    "title": "腾讯明日(8/12)发布Q2业绩，市场预期收入同比增约10%",
+    "summary": "腾讯控股将于2026年8月12日盘后发布2026年Q2业绩。市场预期季度收入同比增长约10%，净利润维持稳健；游戏（王者荣耀、和平精英）及微信生态广告为主要增长驱动。业绩会及指引为核心关注点，事件仍在演进。",
+    "url": "https://www.tencent.com/zh-hk/investors.html",
+    "source": "腾讯 IR",
+    "published_date": "2026-08-11",
+    "still_developing": true,
+    "verified": true,
+    "tags": ["腾讯", "0700.HK", "业绩", "Q2", "游戏", "广告"]
+  },
+  {
+    "id": "dad452ac3f262470",
+    "tier": 3,
+    "type": "个股",
+    "lang": "zh",
+    "entry": null,
+    "title": "16家基金公司申报创业板AI主题ETF，监管快速受理",
+    "summary": "21世纪经济报道：已有16家基金公司向监管机构申报以创业板AI相关指数为标的的ETF产品，证监会快速受理；若获批将为AI科技方向的A股ETF市场带来增量资金，利好相关概念龙头。事件仍在演进中。",
+    "url": "https://m.21jingji.com/article/20260807/herald/ca43a8e1f0353e3afdf0c144a51cb7e2.html",
+    "source": "21世纪经济报道",
+    "published_date": "2026-08-07",
+    "still_developing": true,
+    "verified": true,
+    "tags": ["ETF", "创业板", "AI", "A股", "基金"]
   }
 ]
