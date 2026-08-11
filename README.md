@@ -9,7 +9,10 @@
 - `keywords.json` — **关键词库 / 筛选标准**，可随时改
 - `sources.json` — **信源白名单**（官方披露优先，其次中英媒体）
 - `seen.json` — **去重**存储（Routine 自动维护）
-- `routine-prompt.md` — 粘贴进云端 Routine 的指令
+- `routine-prompt.md` — 粘贴进云端 Routine 的指令（**唯一事实来源**：改了这里就要同步改
+  云端 Routine 的 prompt，两边不同步会导致输出字段和前端对不上）
+- `merge_radar.py` — 合并/剪枝/发布脚本，内含 **schema 校验闸门**：候选缺 `why`/`markets`
+  等前端必需字段会被拒绝并以非 0 退出码告警，全部不合格则中止发布
 
 ---
 

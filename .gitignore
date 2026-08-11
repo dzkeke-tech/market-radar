@@ -1,0 +1,8 @@
+# 每轮由 Routine 重新生成的临时产物，不进版本库。
+# 若把它提交进来，某轮 Routine 崩在写文件之前时，merge_radar.py 会读到上一轮
+# 遗留的旧条目并把旧闻当新闻重新发布。
+new_items.json
+
+__pycache__/
+*.pyc
+.DS_Store

@@ -431,26 +431,19 @@ function paint(){
   else{const nc=(DATA.items||[]).filter(it=>it.is_new).length; b.innerHTML='实时数据 · 本次新增 <b>'+nc+'</b> 条 · 下次更新 <b>'+( (DATA.next_runs&&DATA.next_runs[0])||"" )+'</b>';}
 }
 
-/* 数据源：claude/radar-data 分支的 raw 文件 + 同目录 data.json（main 分支）两个都取，
-   谁的 updated_at 更新就用谁——避免其中一条发布链路卡住时页面一直显示旧数据。 */
-const RADAR_DATA_SOURCES = [
-  "https://raw.githubusercontent.com/dzkeke-tech/market-radar/claude/radar-data/data.json",
-  "data.json"
-];
-async function fetchOne(base){
-  try{
-    const r=await fetch(base+"?t="+Date.now(),{cache:"no-store"});
-    if(r.ok){const j=await r.json(); if(j&&j.items) return j;}
-  }catch(e){/* 该源失败，忽略 */}
-  return null;
-}
+/* 数据源：只读同目录的 data.json（Pages 从 main 分支发布，merge_radar.py 也写 main）。
+
+   历史：这里曾同时拉 claude/radar-data 分支的 raw 文件，靠比较 updated_at 字符串
+   决定用哪份。但那条链路自 2026-07-25 起就没再写过，等于每次多发一个必然失败的
+   请求；更糟的是两个分支各自独立累积历史，一旦哪天那个分支又被写一次，就会和
+   main 抢着当数据源（2026-07-25 的"历史推送全没了"就是这么来的）。
+   2026-08-11 起收敛为单一数据源。 */
 async function fetchRadarData(){
-  const results=await Promise.all(RADAR_DATA_SOURCES.map(fetchOne));
-  const valid=results.filter(Boolean);
-  if(!valid.length) return null;
-  // updated_at 形如 "2026-07-23 08:11 (北京时间)"，字符串比较即可得出更新的一份
-  valid.sort((a,b)=>String(b.updated_at||"").localeCompare(String(a.updated_at||"")));
-  return valid[0];
+  try{
+    const r=await fetch("data.json?t="+Date.now(),{cache:"no-store"});
+    if(r.ok){const j=await r.json(); if(j&&j.items) return j;}
+  }catch(e){/* 取数失败：返回 null，loadData 会保留上一次的数据 */}
+  return null;
 }
 
 async function loadData(){

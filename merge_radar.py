@@ -12,7 +12,18 @@ v4 改动（2026-07-25 上午）：新增发布日期硬性过滤，防止把过
 当作"新增"收录进雷达。触发原因：2026-07-25 发现"阿里巴巴全年收入首破1万亿元"
 （原文发布于 2026-05-13）、"小米汽车6月销量"（原文 2026-07-08）、"腾讯混元Hy3"
 （原文 2026-07-07）三条新闻被当作当日新增收录，实际都是旧闻。
-详见 routine-prompt-fixed.md 2.6/2.7 节。
+详见 routine-prompt.md 2.6/2.7 节。
+
+v6 改动（2026-08-11）：新增 schema 校验闸门 validate_item_schema()。触发原因：
+2026-08-11 08:11 那轮 Routine 输出用了另一套字段名（type/entry/tags），漏掉了
+why/markets/keywords/group，脚本原样发布、前端又是 `${it.why ? ... : ""}` 这种
+写法——缺字段不报错、只安静地少渲染一块，结果当天 7 条新闻全都没有"为何相关"，
+市场标签和关键词筛选也一并失效，直到用户自己打开 App 才发现。根因是 Routine 的
+prompt 与 routine-prompt.md §6 脱节，而脚本这层完全没有把关。修复：
+  (a) 发布前逐条校验前端必需字段，缺失即拒绝该条；
+  (b) type→group、tags→keywords 做别名兼容，能救的先救；
+  (c) 全部候选都不合格 → 判定为系统性漂移，联网写入前直接 exit(1)，不推降级数据；
+      仅部分不合格 → 好的照常发布，末尾以非 0 退出码告警，当天就能发现。
 
 v5 改动（2026-07-25 下午）：把发布目标分支从 claude/radar-data 改回 main，并新增
 "陈旧分支保护"。触发原因：v4 上线后 Routine 当天首次真正跑通 merge_radar.py，
@@ -163,6 +174,95 @@ def validate_new_items(items, today_str):
     return valid, dropped
 
 
+# ── Schema 校验闸门（v6 新增）────────────────────────────────────────────────
+
+# 前端 index.html 渲染每张卡片时依赖的字段。缺任何一个都会导致该条静默降级
+# （最典型的是 why 缺失 → "为何相关"整块不渲染，markets 缺失 → 市场标签消失、
+# 港股/美股/A股筛选页漏掉这条）。因为前端是 `${it.why ? ... : ""}` 这种写法，
+# 缺字段不会报错、只会安静地少一块，所以必须在发布前拦住。
+REQUIRED_FIELDS = ["id", "tier", "title", "summary", "why", "source", "url", "markets", "keywords"]
+
+# 机械可推导的字段：缺了不算错，自动补上并打印提示，不阻断发布。
+AUTOFILL_DEFAULTS = {"group": "个股", "translated": False, "verified": False}
+
+# 历史别名 → 规范字段名。2026-08-11 那次 Routine 漂移写的是 type/tags，
+# 这里做一次兼容映射，能救回来的就救，救不回来的（why/markets）交给下面拦截。
+FIELD_ALIASES = {"type": "group", "tags": "keywords"}
+
+VALID_MARKETS = {"HK", "US", "A"}
+MIN_WHY_LEN = 8  # 挡住 why 为 ""、"-"、"n/a" 这种敷衍值
+
+
+def _has_cjk(s):
+    return any("\u4e00" <= ch <= "\u9fff" for ch in str(s))
+
+
+def validate_item_schema(items, now_bj):
+    """校验每条候选是否具备前端渲染所需的全部字段。
+
+    返回 (valid, rejected)，rejected 为 [(item, [问题描述, ...]), ...]。
+
+    设计取舍：不是一有问题就整轮 exit(1)。
+      - 少数条目有问题 → 丢弃这几条，其余照常发布，最后以非 0 退出码报警；
+        否则一条坏数据就会害得当天整份雷达都推不出来。
+      - 全部条目都有问题 → 判定为 schema 系统性漂移（就像 2026-08-11 那次
+        7/7 全错），在联网写入前直接 exit(1)，绝不把整份降级数据推上线。
+    """
+    valid, rejected = [], []
+
+    for it in items:
+        # 1) 别名兼容：canonical 字段缺失时，从旧字段名搬过来
+        for old, new in FIELD_ALIASES.items():
+            if old in it and not it.get(new):
+                it[new] = it.pop(old)
+                print(f"  ⚠ [{it.get('id','?')}] 字段别名 {old} → {new}（Routine prompt 可能已漂移，请核对 routine-prompt.md §6）")
+
+        problems = []
+
+        # 2) 必填字段检查
+        for f in REQUIRED_FIELDS:
+            v = it.get(f)
+            if v is None or (isinstance(v, str) and not v.strip()) or (isinstance(v, list) and not v):
+                problems.append(f"缺少必填字段 {f}")
+
+        # 3) 关键字段的取值合法性
+        if it.get("tier") not in (1, 2, 3, "1", "2", "3"):
+            problems.append(f"tier 非法: {it.get('tier')!r}（应为 1/2/3）")
+
+        why = it.get("why")
+        if isinstance(why, str) and 0 < len(why.strip()) < MIN_WHY_LEN:
+            problems.append(f"why 过短（{len(why.strip())} 字符），疑似占位值: {why!r}")
+
+        mk = it.get("markets")
+        if isinstance(mk, list) and mk:
+            bad = [m for m in mk if m not in VALID_MARKETS]
+            if bad:
+                problems.append(f"markets 含非法值 {bad}（只允许 HK/US/A）")
+
+        url = it.get("url")
+        if isinstance(url, str) and url.strip() and not url.strip().startswith("http"):
+            problems.append(f"url 不是可点击链接: {url!r}")
+
+        if problems:
+            rejected.append((it, problems))
+            continue
+
+        # 4) 可推导字段自动补齐（不阻断）
+        for f, default in AUTOFILL_DEFAULTS.items():
+            if f not in it:
+                it[f] = default
+                print(f"  · [{it.get('id','?')}] 自动补 {f}={default!r}")
+        if not it.get("lang"):
+            it["lang"] = "zh" if _has_cjk(it.get("title", "")) else "en"
+            print(f"  · [{it.get('id','?')}] 自动补 lang={it['lang']!r}")
+        if not it.get("time"):
+            it["time"] = now_bj.strftime("%H:%M")
+            print(f"  · [{it.get('id','?')}] 自动补 time={it['time']!r}")
+
+        valid.append(it)
+
+    return valid, rejected
+
 def is_stale_branch(existing_items, today_str):
     """陈旧分支保护（v5 新增）。
 
@@ -242,6 +342,27 @@ def main():
     today_str = now_bj.strftime("%Y-%m-%d")
     updated_at = now_bj.strftime("%Y-%m-%d %H:%M") + " (北京时间)"
 
+    # Schema 校验闸门（v6 新增）——必须在任何联网写入之前，见 validate_item_schema 说明
+    candidate_count = len(new_items)
+    new_items, rejected = validate_item_schema(new_items, now_bj)
+    if rejected:
+        print(f"\nSchema 校验拒绝 {len(rejected)}/{candidate_count} 条候选：")
+        for it, problems in rejected:
+            print(f"  ✗ [{it.get('id','?')}] {str(it.get('title',''))[:40]}")
+            for p in problems:
+                print(f"      → {p}")
+    if candidate_count and not new_items:
+        print(
+            "\n" + "=" * 68
+            + f"\n✗ 中止发布：{candidate_count} 条候选全部未通过 schema 校验。"
+              "\n  这通常意味着 Routine 的 prompt 已经漂移，输出结构和前端对不上了。"
+              "\n  请照 routine-prompt.md §6 的字段结构核对 Routine prompt 后重跑。"
+              "\n  （本轮未写入任何数据，线上仍是上一轮的完好数据。）\n"
+            + "=" * 68,
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
     # 发布日期硬性过滤（v4 新增）——见 validate_new_items 说明
     new_items, dropped = validate_new_items(new_items, today_str)
     if dropped:
@@ -284,7 +405,9 @@ def main():
     merged = sort_items(merged)
 
     # Update seen IDs（校验环节丢弃的候选也一并计入 seen，避免下一轮重复抓取/重复丢弃同一条）
-    all_candidate_ids = {i["id"] for i in new_items if i.get("id")} | {i["id"] for i, _ in dropped if i.get("id")}
+    all_candidate_ids = ({i["id"] for i in new_items if i.get("id")}
+                         | {i["id"] for i, _ in dropped if i.get("id")}
+                         | {i["id"] for i, _ in rejected if i.get("id")})
     new_seen_ids = list(seen_ids | all_candidate_ids)
     if len(new_seen_ids) > 1000:
         new_seen_ids = new_seen_ids[-1000:]
@@ -313,7 +436,21 @@ def main():
            f"chore(radar): update seen {date_tag}")
 
     print(f"\n✓ +{len(truly_new)} new | {len(existing_items)} existing | {len(merged)} total in data.json"
-          + (f" | {len(dropped)} dropped by date-validation" if dropped else ""))
+          + (f" | {len(dropped)} dropped by date-validation" if dropped else "")
+          + (f" | {len(rejected)} rejected by schema-gate" if rejected else ""))
+
+    # 部分条目被 schema 闸门拒绝：好的条目已经发出去了，但仍以非 0 退出码报警，
+    # 让 Routine 的运行自检当天就暴露问题，而不是攒着等用户自己发现少了内容。
+    if rejected:
+        print(
+            "\n" + "=" * 68
+            + f"\n⚠ 本轮有 {len(rejected)} 条候选因字段缺失被拒绝（其余已正常发布）。"
+              "\n  请照 routine-prompt.md §6 核对 Routine prompt 的输出字段。"
+              "\n  退出码置为 1 仅作告警，data.json 已成功写入。\n"
+            + "=" * 68,
+            file=sys.stderr,
+        )
+        sys.exit(1)
 
 
 if __name__ == "__main__":
