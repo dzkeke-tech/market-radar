@@ -200,15 +200,24 @@ def _has_cjk(s):
 def validate_item_schema(items, now_bj):
     """校验每条候选是否具备前端渲染所需的全部字段。
 
-    返回 (valid, rejected)，rejected 为 [(item, [问题描述, ...]), ...]。
+    返回 (items, degraded)，items 含全部条目（合格的 + 已修复标注的），
+    degraded 为 [(item, [问题描述, ...]), ...]。
 
-    设计取舍：不是一有问题就整轮 exit(1)。
-      - 少数条目有问题 → 丢弃这几条，其余照常发布，最后以非 0 退出码报警；
-        否则一条坏数据就会害得当天整份雷达都推不出来。
-      - 全部条目都有问题 → 判定为 schema 系统性漂移（就像 2026-08-11 那次
-        7/7 全错），在联网写入前直接 exit(1)，绝不把整份降级数据推上线。
+    设计取舍（v7 修正，很重要）：**这一层永远不阻断发布**。
+
+    v6 的做法是「全部条目不合格就在发布前 exit(1)」，理由是"降级数据不如不发"。
+    实践证明这个判断是错的：2026-08-11 上线后，Routine 的 prompt 依然是漂移的，
+    于是每一轮都走"全部不合格"分支直接中止，连续两天六轮一条都没发出去，而用户
+    完全不知情——因为 Routine 的退出码只在运行日志里，用户看的是 App。结果是
+    「静默降级」被我换成了「静默停摆」，反而更糟。
+
+    现在的原则：
+      - 缺字段的条目照常发布，但打 `_schema_issues` 标记、并把 why 换成醒目提示，
+        让问题直接显示在用户真正会看的页面上；
+      - 退出码仍置非 0，但只作为事后信号，且一定在写入成功之后；
+      - 任何情况下都不在发布前中止。
     """
-    valid, rejected = [], []
+    out, degraded = [], []
 
     for it in items:
         # 1) 别名兼容：canonical 字段缺失时，从旧字段名搬过来
@@ -244,8 +253,20 @@ def validate_item_schema(items, now_bj):
             problems.append(f"url 不是可点击链接: {url!r}")
 
         if problems:
-            rejected.append((it, problems))
-            continue
+            # v7：不再剔除。缺字段的条目照常发布，但打上标记让前端显示"字段缺失"，
+            # 并给 why 补一个明确的占位——降级展示远好过整轮不发。
+            it["_schema_issues"] = problems
+            if not (isinstance(it.get("why"), str) and it["why"].strip()):
+                it["why"] = "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。"
+            if not it.get("markets"):
+                it["markets"] = []
+            if not it.get("keywords"):
+                it["keywords"] = []
+            if it.get("tier") not in (1, 2, 3, "1", "2", "3"):
+                it["tier"] = 3
+            degraded.append((it, problems))
+            # 注意：这里不能 continue —— 下面的可推导字段补齐（lang/time/group）
+            # 对降级条目同样要跑，否则前端拿到的仍是残缺结构。补完统一进 out。
 
         # 4) 可推导字段自动补齐（不阻断）
         for f, default in AUTOFILL_DEFAULTS.items():
@@ -259,9 +280,10 @@ def validate_item_schema(items, now_bj):
             it["time"] = now_bj.strftime("%H:%M")
             print(f"  · [{it.get('id','?')}] 自动补 time={it['time']!r}")
 
-        valid.append(it)
+        out.append(it)
 
-    return valid, rejected
+    # out 含全部条目（合格的 + 已修复标注的）；degraded 只是其中问题条目的索引
+    return out, degraded
 
 def is_stale_branch(existing_items, today_str):
     """陈旧分支保护（v5 新增）。
@@ -330,38 +352,34 @@ def main():
     # new_items.json lives next to this script
     here = os.path.dirname(os.path.abspath(__file__))
     new_items_path = os.path.join(here, "new_items.json")
+    missing_input = False
     if not os.path.exists(new_items_path):
-        print(f"Error: {new_items_path} not found.", file=sys.stderr)
-        sys.exit(1)
-
-    with open(new_items_path, encoding="utf-8") as f:
-        new_items = json.load(f)
+        # v7：不再 exit(1)。这里中止过一次就意味着整轮不发布，而这个文件是否存在
+        # 取决于 Routine 当轮有没有写成功——不该由它决定用户能不能看到雷达。
+        print(f"⚠ {new_items_path} 不存在，本轮按「0 条新增」处理并继续发布。", file=sys.stderr)
+        new_items, missing_input = [], True
+    else:
+        try:
+            with open(new_items_path, encoding="utf-8") as f:
+                new_items = json.load(f)
+        except json.JSONDecodeError as e:
+            print(f"⚠ new_items.json 解析失败（{e}），本轮按「0 条新增」处理并继续发布。", file=sys.stderr)
+            new_items, missing_input = [], True
     print(f"Loaded {len(new_items)} candidate new items from new_items.json")
 
     now_bj    = datetime.now(TZ_BJ)
     today_str = now_bj.strftime("%Y-%m-%d")
     updated_at = now_bj.strftime("%Y-%m-%d %H:%M") + " (北京时间)"
 
-    # Schema 校验闸门（v6 新增）——必须在任何联网写入之前，见 validate_item_schema 说明
+    # Schema 闸门（v7）：只修复与标注，绝不阻断发布。见 validate_item_schema 说明。
     candidate_count = len(new_items)
-    new_items, rejected = validate_item_schema(new_items, now_bj)
-    if rejected:
-        print(f"\nSchema 校验拒绝 {len(rejected)}/{candidate_count} 条候选：")
-        for it, problems in rejected:
-            print(f"  ✗ [{it.get('id','?')}] {str(it.get('title',''))[:40]}")
+    new_items, degraded = validate_item_schema(new_items, now_bj)
+    if degraded:
+        print(f"\n⚠ Schema 降级 {len(degraded)}/{candidate_count} 条（仍会照常发布，并在页面上标记）：")
+        for it, problems in degraded:
+            print(f"  ! [{it.get('id','?')}] {str(it.get('title',''))[:40]}")
             for p in problems:
                 print(f"      → {p}")
-    if candidate_count and not new_items:
-        print(
-            "\n" + "=" * 68
-            + f"\n✗ 中止发布：{candidate_count} 条候选全部未通过 schema 校验。"
-              "\n  这通常意味着 Routine 的 prompt 已经漂移，输出结构和前端对不上了。"
-              "\n  请照 routine-prompt.md §6 的字段结构核对 Routine prompt 后重跑。"
-              "\n  （本轮未写入任何数据，线上仍是上一轮的完好数据。）\n"
-            + "=" * 68,
-            file=sys.stderr,
-        )
-        sys.exit(1)
 
     # 发布日期硬性过滤（v4 新增）——见 validate_new_items 说明
     new_items, dropped = validate_new_items(new_items, today_str)
@@ -407,7 +425,7 @@ def main():
     # Update seen IDs（校验环节丢弃的候选也一并计入 seen，避免下一轮重复抓取/重复丢弃同一条）
     all_candidate_ids = ({i["id"] for i in new_items if i.get("id")}
                          | {i["id"] for i, _ in dropped if i.get("id")}
-                         | {i["id"] for i, _ in rejected if i.get("id")})
+                         | {i["id"] for i, _ in degraded if i.get("id")})
     new_seen_ids = list(seen_ids | all_candidate_ids)
     if len(new_seen_ids) > 1000:
         new_seen_ids = new_seen_ids[-1000:]
@@ -420,6 +438,14 @@ def main():
         "next_runs":  meta.get("next_runs", ["08:00", "13:00", "18:00"]),
         "watchlist":  meta.get("watchlist", []),
         "positions":  [],
+        # 本轮运行元信息：让前端能区分「没新闻」和「管线坏了」——只看 updated_at
+        # 是看不出来的，因为即使 0 新增 updated_at 也会前进。
+        "last_run": {
+            "at":          updated_at,
+            "new_count":   len(truly_new),
+            "degraded":    len(degraded),
+            "input_missing": missing_input,
+        },
         "items":      merged,
     }
     new_seen = {
@@ -437,16 +463,16 @@ def main():
 
     print(f"\n✓ +{len(truly_new)} new | {len(existing_items)} existing | {len(merged)} total in data.json"
           + (f" | {len(dropped)} dropped by date-validation" if dropped else "")
-          + (f" | {len(rejected)} rejected by schema-gate" if rejected else ""))
+          + (f" | {len(degraded)} degraded by schema-gate" if degraded else ""))
 
-    # 部分条目被 schema 闸门拒绝：好的条目已经发出去了，但仍以非 0 退出码报警，
-    # 让 Routine 的运行自检当天就暴露问题，而不是攒着等用户自己发现少了内容。
-    if rejected:
+    # 注意退出码语义：非 0 只表示"有条目字段不全"，**数据已经成功发布**。
+    # 绝不能因为这个提前 return / 跳过发布——v6 就是栽在这里，连停两天。
+    if degraded:
         print(
             "\n" + "=" * 68
-            + f"\n⚠ 本轮有 {len(rejected)} 条候选因字段缺失被拒绝（其余已正常发布）。"
+            + f"\n⚠ 本轮有 {len(degraded)} 条字段不全，已降级发布并在页面上标记。"
               "\n  请照 routine-prompt.md §6 核对 Routine prompt 的输出字段。"
-              "\n  退出码置为 1 仅作告警，data.json 已成功写入。\n"
+              "\n  data.json 已成功写入；退出码 1 仅作告警。\n"
             + "=" * 68,
             file=sys.stderr,
         )

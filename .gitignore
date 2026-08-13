@@ -1,8 +1,6 @@
-# 每轮由 Routine 重新生成的临时产物，不进版本库。
-# 若把它提交进来，某轮 Routine 崩在写文件之前时，merge_radar.py 会读到上一轮
-# 遗留的旧条目并把旧闻当新闻重新发布。
-new_items.json
-
+# 说明：new_items.json 曾被放进这里，结果是仓库里没有这个文件时
+# merge_radar.py 会直接 exit(1) 整轮不发布。现在改回受版本控制的空数组占位，
+# 重复发布的风险本来就由 seen.json 去重兜住，不需要靠删文件来防。
 __pycache__/
 *.pyc
 .DS_Store

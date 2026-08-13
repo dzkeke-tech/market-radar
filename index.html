@@ -163,6 +163,16 @@
     padding:7px 14px;border-radius:999px}
   .sample b{color:var(--gold)}
 
+  /* 管线故障横幅：让"没更新/字段异常"直接出现在用户真正会看的地方，
+     而不是只躺在 Routine 的运行日志里（2026-08-11~13 停摆两天没人发现，
+     就是因为唯一的信号是脚本退出码）。 */
+  #healthBar{margin:10px 0 2px;border-radius:10px;padding:10px 13px;font-size:12.5px;line-height:1.6;display:none}
+  #healthBar.warn{display:block;background:var(--gold-soft);border:1px solid var(--gold);color:var(--gold)}
+  #healthBar.bad{display:block;background:#2a1618;border:1px solid var(--down);color:#f0b8ba}
+  #healthBar b{font-weight:700}
+  .card[data-degraded="1"]{border-color:#5c3a1e}
+  .card .why.degraded{background:#2a1618;color:#f0b8ba}
+
   @media(min-width:560px){h1{font-size:48px}h1 .en{font-size:22px}}
 
   /* ---------- 关键词编辑面板 ---------- */
@@ -224,6 +234,8 @@
       <span>消费 · 科技</span>
     </div>
   </header>
+
+  <div id="healthBar"></div>
 
   <div class="controls">
     <div class="tabs" id="tabs"></div>
@@ -378,11 +390,12 @@ function card(it){
   const badge=it.verified?'<span class="badge">已核实</span>':'<span class="badge" style="color:var(--ink-faint);border-color:var(--ink-faint)">待核实</span>';
   const on=Fav.has(it.id)?1:0;
   const newPill=it.is_new?'<span class="new-pill">最新</span>':"";
-  return `<article class="card" data-tier="${it.tier}" data-new="${it.is_new?1:0}" lang="${it.lang}">
+  const deg=it._schema_issues&&it._schema_issues.length?1:0;
+  return `<article class="card" data-tier="${it.tier}" data-new="${it.is_new?1:0}" data-degraded="${deg}" lang="${it.lang}">
     <div class="toprow">${mkts}${tier}${newPill}${trans}<span class="time">${esc(it.time||"")}</span></div>
     <div class="title">${esc(it.title)}</div>
     <div class="summary">${esc(it.summary||"")}</div>
-    ${it.why?`<div class="why"><span>为何相关</span>${esc(it.why)}</div>`:""}
+    ${it.why?`<div class="why${deg?" degraded":""}"><span>为何相关</span>${esc(it.why)}</div>`:""}
     <div class="botrow">
       <span class="src">${esc(it.source||"")}${badge}</span>
       <div class="kw">${kw}</div>
@@ -422,10 +435,42 @@ function renderWL(){
 let wlOpen=true;
 function toggleWL(){wlOpen=!wlOpen;document.getElementById("wlbox").style.display=wlOpen?"block":"none";document.getElementById("wlchev").style.transform=wlOpen?"none":"rotate(-90deg)";}
 
+/* 解析 "2026-08-13 08:11 (北京时间)" → Date（按北京时间 UTC+8 处理） */
+function parseUpdatedAt(s){
+  const m=String(s||"").match(/(\d{4})-(\d{2})-(\d{2})[ T](\d{2}):(\d{2})/);
+  if(!m) return null;
+  return new Date(Date.UTC(+m[1],+m[2]-1,+m[3],+m[4]-8,+m[5]));
+}
+
+function renderHealth(){
+  const bar=document.getElementById("healthBar");
+  if(!bar) return;
+  if(DATA.is_sample){bar.className="";bar.innerHTML="";return;}
+
+  const msgs=[]; let bad=false;
+  const t=parseUpdatedAt(DATA.updated_at);
+  if(t){
+    const hrs=(Date.now()-t.getTime())/36e5;
+    // 正常每天 08:00/13:00/18:00 三推，最长间隔 14 小时；超过 20 小时即异常
+    if(hrs>=20){
+      bad=true;
+      const d=Math.floor(hrs/24);
+      msgs.push(`雷达已 <b>${d>=1?d+" 天 ":""}${Math.floor(hrs%24)} 小时</b>没有更新（最后一次 ${esc(DATA.updated_at)}）。云端 Routine 可能报错了，去 claude.ai/code/routines 看这个任务的最近运行日志。`);
+    }
+  }
+  const degraded=(DATA.items||[]).filter(it=>it._schema_issues&&it._schema_issues.length).length;
+  if(degraded) msgs.push(`有 <b>${degraded}</b> 条新闻字段不全（已降级显示）。请照 routine-prompt.md §6 核对 Routine prompt 的输出字段。`);
+  const lr=DATA.last_run;
+  if(lr&&lr.input_missing) msgs.push(`最近一轮没有拿到 new_items.json，本轮 <b>0 条新增</b>。`);
+
+  bar.className=msgs.length?(bad?"bad":"warn"):"";
+  bar.innerHTML=msgs.length?("⚠ "+msgs.join("<br>")):"";
+}
+
 function paint(){
   document.getElementById("updated").textContent=DATA.updated_at||"—";
   document.getElementById("count").textContent=DATA.items.length;
-  renderTabs();renderFeed();renderWL();
+  renderTabs();renderFeed();renderWL();renderHealth();
   const b=document.getElementById("banner");
   if(DATA.is_sample){b.innerHTML='当前为 <b>示例数据</b> · 接入云端后自动刷新';}
   else{const nc=(DATA.items||[]).filter(it=>it.is_new).length; b.innerHTML='实时数据 · 本次新增 <b>'+nc+'</b> 条 · 下次更新 <b>'+( (DATA.next_runs&&DATA.next_runs[0])||"" )+'</b>';}
