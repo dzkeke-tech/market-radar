@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-16 08:25 (北京时间)",
+  "updated_at": "2026-08-16 18:37 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -36,97 +36,42 @@
   ],
   "positions": [],
   "last_run": {
-    "at": "2026-08-16 08:25 (北京时间)",
-    "new_count": 8,
+    "at": "2026-08-16 18:37 (北京时间)",
+    "new_count": 7,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "dc79ebc23ffb1b8a",
+      "id": "eb8cc49f6d7b289a",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "08:30",
+      "time": "20:30",
       "group": "大盘头条",
-      "title": "U.S. Retail Sales Dropped 0.6% in July 2026, Biggest Monthly Decline Since May 2025",
-      "summary": "US July retail sales fell 0.6% month-over-month versus expectations of +0.1%, the largest monthly drop since May 2025. Motor vehicle dealers (-1.8%) and nonstore retailers (-2.2%) led the decline; year-over-year sales still up 5.0%.",
-      "why": "消费疲软数据当日直接压低美股（标普道指当日均收跌），凸显关税与通胀双重夹击对美国消费者的侵蚀；对 sell-put 策略者意味着市场波动率或边际走高，短端期权隐波需留意。",
-      "source": "Yahoo Finance / US Census Bureau",
+      "title": "关键CPI数据拉低美联储加息概率：美国7月CPI环比仅+0.1%，核心CPI同比2.5%",
+      "summary": "美国7月CPI环比仅+0.1%、同比3.4%；核心CPI环比+0.2%、同比2.5%，回到伊朗战争前水平。数据温和超市场预期，美联储9月加息概率进一步下降，美债收益率回落，市场押注加息时点推后至10月或12月。",
+      "why": "通胀降温叠加PPI和零售数据偏弱，9月15-16日FOMC加息概率降至约30%；有利于整体估值扩张，特别利好港股科技及美股高成长标的；sell put隐含波动率偏低，期权费收入相对缩减需留意。",
+      "source": "21世纪经济报道",
       "verified": true,
       "keywords": [
-        "retail sales",
-        "consumer",
-        "US economy",
-        "macro"
+        "CPI",
+        "通胀",
+        "美联储",
+        "货币政策",
+        "加息"
       ],
       "translated": false,
-      "url": "https://finance.yahoo.com/economy/articles/u-retail-sales-dropped-0-124445798.html",
-      "published_date": "2026-08-14",
-      "still_developing": false,
-      "first_seen": "2026-08-16",
-      "is_new": true
-    },
-    {
-      "id": "a48fefb46c8cf33a",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "US Consumer Sentiment Declines for First Time in Three Months, Drops to 51.0 in August",
-      "summary": "University of Michigan preliminary August Consumer Sentiment fell to 51.0 (est. 54.5, prior 55.2), ending a two-month recovery. Short-term business expectations slumped 11%, long-run outlook dropped 17%. Inflation expectations rose to 4.3%, with households citing Middle East conflict-driven energy prices.",
-      "why": "信心急跌叠加零售销售走弱，市场对美联储9月加息押注骤降至34%（上周约55%），整体降低市场加息预期，有利于持股但期权卖出者需注意波动率放大风险。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "consumer sentiment",
-        "Michigan",
-        "inflation",
-        "Fed",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-consumer-sentiment-declines-for-first-time-in-three-months",
-      "published_date": "2026-08-14",
-      "still_developing": false,
-      "first_seen": "2026-08-16",
-      "is_new": true
-    },
-    {
-      "id": "4e72a77f7b052450",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Goldman's Kaplan Backs 'Kick-the-Can' Fed Caution on Rate Hikes",
-      "summary": "Goldman Sachs' Robert Kaplan endorsed the Fed's hold decision at the July 28-29 FOMC and urged policymakers to keep an open mind through September, citing a complex mix of inflationary and disinflationary pressures. Three FOMC members had dissented in favor of a hike (Hammack, Kashkari, Logan).",
-      "why": "高盛前达拉斯联储主席力挺暂停加息，与当日零售与信心数据共振，推动9月加息概率跌至34%；Fed会议纪要定于8月19日发布，持续发酵中。sell-put策略者短期内降息路径不明朗，维持对冲建议。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Federal Reserve",
-        "rate hike",
-        "Fed",
-        "Goldman Sachs",
-        "FOMC"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/goldman-s-kaplan-backs-kick-the-can-fed-caution-on-rate-hikes",
+      "url": "https://m.21jingji.com/article/20260813/herald/e9a6a4c00304a57381cc8e74486f7e9c.html",
       "published_date": "2026-08-13",
       "still_developing": true,
       "first_seen": "2026-08-16",
       "is_new": true
     },
     {
-      "id": "83d88e72a53be9a0",
+      "id": "eade79be6fa3ea28",
       "tier": 1,
       "lang": "en",
       "markets": [
@@ -134,139 +79,169 @@
       ],
       "time": "08:30",
       "group": "大盘头条",
-      "title": "US July CPI Cools to 3.4% Annual Rate, Matching Expectations",
-      "summary": "US July CPI rose 0.1% month-over-month; annual rate eased from 3.5% to 3.4%, both headline and core in line with Dow Jones consensus. Shelter costs rose 0.1%, energy fell 1.5%. Core CPI at 2.5% annualized.",
-      "why": "延续报道：通胀降温数据释出后9月加息概率一度跌至42%，随后8月14日零售和信心数据进一步压低至34%，构成本周最重要宏观叙事主线，影响期权定价与sell-put时间窗口判断。",
-      "source": "CNBC",
+      "title": "US Retail Sales Fall 0.6% in July, Biggest Drop in Over a Year; Consumer Sentiment Slides to 51",
+      "summary": "US retail sales fell 0.6% m/m in July (vs. +0.1% consensus), the first decline in nine months and sharpest since May 2025. Motor vehicles -1.8%, e-commerce -2.2%. University of Michigan August consumer sentiment dropped to 51 preliminary, well below expectations. US stocks closed lower on Friday August 15 on combined economic concerns.",
+      "why": "美国消费走弱叠加信心下滑，Q3经济动能面临考验；9月联储加息预期进一步降温，对整体风险资产偏多；持仓WMT需关注零售消费疲软对下半年指引的影响；VIX可能在Jackson Hole前后升温。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "CPI",
-        "inflation",
+        "retail sales",
+        "consumer sentiment",
+        "US economy",
         "Federal Reserve",
-        "macro",
-        "US economy"
+        "Walmart"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-      "published_date": "2026-08-12",
-      "still_developing": true,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-retail-sales-fall-by-most-in-more-than-a-year",
+      "published_date": "2026-08-14",
+      "still_developing": false,
       "first_seen": "2026-08-16",
       "is_new": true
     },
     {
-      "id": "a7cec2ad903ea3e5",
+      "id": "354e0022e5cc10bd",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "20:30",
+      "time": "20:00",
       "group": "个股",
-      "title": "腾讯控股 2026 年第二季度业绩：营收 2048 亿元同比增 11% 超预期，净利润小幅增长未达预期，AI 资本开支飙升 176%，自由现金流 21 年来首转负",
-      "summary": "腾讯Q2营收2047.9亿元（+11% YoY，超预期2%），Non-IFRS净利润684亿元（+9%）；IFRS净利润560亿元仅增不足1%，较市场预期低约4%。国内游戏+17%、营销服务+22%。AI资本开支527.8亿元（+176% YoY），季度自由现金流-138亿元，为2005年以来首次转负。摩根士丹利随后下调目标价至550港元（原650），维持超配。",
-      "why": "利润端不及预期叠加FCF转负引发市场担忧；港股0700连续四个交易日下跌，拖累恒指录得逾一年最差单周表现。对持仓者：近期AI capex压制利润，covered call策略应关注波动率偏高窗口；sell-put执行价宜保留更大缓冲。",
-      "source": "腾讯 PR Newswire / CNBC",
+      "title": "腾讯Q2营收2048亿增11%，AI资本开支暴增176%至528亿，自由现金流转负",
+      "summary": "腾讯2026年Q2营收2047.9亿元同比+11%，Non-IFRS经营利润756.4亿元+9%。游戏659亿+11%，广告435.7亿+22%，云及金融科技602.9亿+9%。资本开支527.8亿元同比+176%（环比+65%），上半年合计超800亿，大幅加码AI算力采购，致使自由现金流转负。研发支出272.8亿+35%。",
+      "why": "主营增速稳健但AI资本开支骤增侵蚀现金流，分红/回购空间受压；绩后股价次日跌超4%，波动率短暂抬升，可关注sell put策略在支撑位附近的布局窗口；长期AI投入路径需持续跟踪。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
         "腾讯",
         "Tencent",
         "0700.HK",
-        "Q2 2026",
+        "Q2财报",
         "业绩",
-        "AI资本开支",
-        "游戏",
-        "微信"
+        "资本开支",
+        "AI",
+        "游戏"
       ],
       "translated": false,
-      "url": "https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-second-quarter-results-302849608.html",
+      "url": "https://finance.sina.com.cn/stock/t/2026-08-12/doc-ininaezi3541809.shtml",
       "published_date": "2026-08-12",
       "still_developing": true,
       "first_seen": "2026-08-16",
       "is_new": true
     },
     {
-      "id": "f2c82f090f6d810c",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "S&P 500 Slips from Record High on Weak Data but Posts Third Straight Weekly Gain",
-      "summary": "S&P 500 fell 13.23 pts to 7,785.76 on Friday after weak retail sales and Michigan confidence data, but capped a third consecutive weekly gain. The index had reached an intraday record high of 7,800+ on Thursday. Dow and Nasdaq also finished lower on Friday. World shares broadly fell on the data.",
-      "why": "大盘在创历史高位后因消费数据回落，本周三连阳，加息预期下降有助于科技成长股估值，但宏观走弱信号对持仓偏消费的港股拖累更直接；短期covered call策略隐波收益或有限。",
-      "source": "Yahoo Finance",
-      "verified": true,
-      "keywords": [
-        "S&P 500",
-        "stock market",
-        "weekly gain",
-        "US market",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
-      "published_date": "2026-08-14",
-      "still_developing": false,
-      "first_seen": "2026-08-16",
-      "is_new": true
-    },
-    {
-      "id": "23d3764e59e174f3",
+      "id": "61d0a496aab3ef0d",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "美团「等灯停表」功能 8 月 13 日在北京正式试点，骑手等红灯时间不计入配送考核，预计年内覆盖逾百万骑手",
-      "summary": "美团在北京朝阳区、通州区等区域正式路测「等灯停表」功能：骑手等红灯时系统显示「红灯暂停」并顺延配送时间，功能完善后将逐步推向超百万骑手；淘宝闪购、京东外卖同日在京落地同类措施。",
-      "why": "三平台协同推进骑手权益保护，政策层面监管善意信号明确，有助于改善美团在劳动合规方面的声誉风险与监管预期，中长期对估值偏正面；Keeta国际化扩张亦在同步推进（已进入沙特、巴西等市场）。",
+      "time": "20:30",
+      "group": "大盘头条",
+      "title": "美国7月PPI同比4.7%低于预期、环比持平，9月加息压力进一步减轻",
+      "summary": "美国7月生产者价格指数同比4.7%（预期4.9%），环比持平（预期+0.2%）。数据公布后美债收益率回落，市场加息预期继续降温。结合前日CPI数据，连续两项通胀指标均低于预期，交易员将加息时点主要押注推至10月或12月。",
+      "why": "上游通胀降温确认CPI趋势，联储9月暂停加息概率上升；Jackson Hole（8月27-29日）Warsh首次演讲前，市场整体风险偏好边际改善；VIX维持低位约14，做空波动率获利空间有限。",
       "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "骑手",
-        "等灯停表",
-        "劳工",
-        "外卖"
+        "PPI",
+        "通胀",
+        "美联储",
+        "货币政策",
+        "Jackson Hole"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininecss3289171.shtml",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-inineuqi3302848.shtml",
       "published_date": "2026-08-13",
       "still_developing": true,
       "first_seen": "2026-08-16",
       "is_new": true
     },
     {
-      "id": "067c986d84b48dd2",
-      "tier": 3,
+      "id": "4718415ae2721a1c",
+      "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "小米集团-W(01810.HK)8 月 12 日耗资约 4989 万港元回购 189.8 万股",
-      "summary": "小米集团于8月12日以每股26.26至26.34港元区间回购189.8万股，合计耗资约4989万港元，延续近期持续回购计划。同日小米澎湃OS 4正式开启Beta测试，完成10年MIUI遗留代码清零，代码量从8000万行压缩至约4000万行。",
-      "why": "回购彰显管理层对股价信心，配合澎湃OS 4发布（底层重构、液态玻璃UI、内置端侧AI大模型），是典型的「产品+股东回报」双催化时点。持仓者可关注波动率变化；sell-put可酌情降低行权价保护缓冲。",
-      "source": "富途牛牛 moomoo",
-      "verified": false,
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股科网股集体调整，恒指跌1.1%、恒科指跌1.77%，腾讯绩后跌超4%，MiniMax大跌12%",
+      "summary": "8月14日港股收盘，恒生指数下跌1.1%，恒生科技指数跌1.77%。腾讯Q2财报发布后次交易日股价跌超4%；科网股全线承压：京东跌超10%，美团跌超4%，阿里跌超1.6%；AI独角兽MiniMax跌超12%。黄金股与消费板块逆势走强。",
+      "why": "腾讯资本开支大增176%触发科网板块估值重审；叠加美股外围弱势（消费数据拖累），港股科技持仓短期承压；短期波动率提升或为sell put仓位加仓机会，但需确认科网基本面未恶化。",
+      "source": "新浪财经",
+      "verified": true,
       "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "回购",
-        "澎湃OS",
-        "SU7",
-        "YU7"
+        "港股",
+        "恒生指数",
+        "恒生科技",
+        "科网股",
+        "腾讯",
+        "京东",
+        "美团"
       ],
       "translated": false,
-      "url": "https://www.moomoo.com/news/post/74556444",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhnxp2874803.shtml",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": true
+    },
+    {
+      "id": "381fe88106d98507",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "中国人民银行Q2货币政策报告：谋划推出增量政策、加大逆周期调节，继续适度宽松",
+      "summary": "中国人民银行8月12日发布2026年第二季度货币政策执行报告，明确继续实施适度宽松货币政策，提出谋划推出增量政策、加大逆周期调节力度、加力扩大内需，并逐步增加隔夜逆回购操作频率。人民币汇率上半年对一篮子货币小幅升值，维持合理均衡基本稳定。",
+      "why": "PBOC明确推增量宽松政策，为A股/港股提供额外流动性预期支撑；逆周期调节信号有助于稳定市场信心；人民币稳定降低汇率对港股持仓的冲击；中美货币政策均偏宽松方向，对估值整体正面。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "央行",
+        "货币政策",
+        "人民币",
+        "流动性",
+        "逆周期",
+        "增量政策"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininffec3163744.shtml",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": true
+    },
+    {
+      "id": "26293ccd0b9c001a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "Manus宣布恢复独立运营，腾讯等股东以20亿美元估值从Meta购回，目标港股上市",
+      "summary": "AI Agent公司Manus于8月11日宣布恢复独立公司运营。腾讯、真格基金、红杉中国等原股东以20亿美元估值向Meta购回Manus股份。中国发改委4月叫停Meta收购，系外商投资安全审查以来首个公开叫停的AI领域外资并购案。Manus未来目标赴港上市。",
+      "why": "腾讯作为最大股东获Manus通用AI Agent技术，接入微信/腾讯云生态想象空间大；中国监管明确保护AI战略资产不被外资并购，国内AI生态估值逻辑强化；Manus IPO预期为腾讯提供中期催化剂。",
+      "source": "财新",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Manus",
+        "AI Agent",
+        "外商投资",
+        "外资并购",
+        "Meta",
+        "港股上市"
+      ],
+      "translated": false,
+      "url": "https://companies.caixin.com/m/2026-08-12/102473269.html",
       "published_date": "2026-08-12",
       "still_developing": true,
       "first_seen": "2026-08-16",
@@ -1408,6 +1383,148 @@
       "is_new": false
     },
     {
+      "id": "dc79ebc23ffb1b8a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "U.S. Retail Sales Dropped 0.6% in July 2026, Biggest Monthly Decline Since May 2025",
+      "summary": "US July retail sales fell 0.6% month-over-month versus expectations of +0.1%, the largest monthly drop since May 2025. Motor vehicle dealers (-1.8%) and nonstore retailers (-2.2%) led the decline; year-over-year sales still up 5.0%.",
+      "why": "消费疲软数据当日直接压低美股（标普道指当日均收跌），凸显关税与通胀双重夹击对美国消费者的侵蚀；对 sell-put 策略者意味着市场波动率或边际走高，短端期权隐波需留意。",
+      "source": "Yahoo Finance / US Census Bureau",
+      "verified": true,
+      "keywords": [
+        "retail sales",
+        "consumer",
+        "US economy",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/economy/articles/u-retail-sales-dropped-0-124445798.html",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "a48fefb46c8cf33a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "US Consumer Sentiment Declines for First Time in Three Months, Drops to 51.0 in August",
+      "summary": "University of Michigan preliminary August Consumer Sentiment fell to 51.0 (est. 54.5, prior 55.2), ending a two-month recovery. Short-term business expectations slumped 11%, long-run outlook dropped 17%. Inflation expectations rose to 4.3%, with households citing Middle East conflict-driven energy prices.",
+      "why": "信心急跌叠加零售销售走弱，市场对美联储9月加息押注骤降至34%（上周约55%），整体降低市场加息预期，有利于持股但期权卖出者需注意波动率放大风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "consumer sentiment",
+        "Michigan",
+        "inflation",
+        "Fed",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-consumer-sentiment-declines-for-first-time-in-three-months",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "4e72a77f7b052450",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Goldman's Kaplan Backs 'Kick-the-Can' Fed Caution on Rate Hikes",
+      "summary": "Goldman Sachs' Robert Kaplan endorsed the Fed's hold decision at the July 28-29 FOMC and urged policymakers to keep an open mind through September, citing a complex mix of inflationary and disinflationary pressures. Three FOMC members had dissented in favor of a hike (Hammack, Kashkari, Logan).",
+      "why": "高盛前达拉斯联储主席力挺暂停加息，与当日零售与信心数据共振，推动9月加息概率跌至34%；Fed会议纪要定于8月19日发布，持续发酵中。sell-put策略者短期内降息路径不明朗，维持对冲建议。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Federal Reserve",
+        "rate hike",
+        "Fed",
+        "Goldman Sachs",
+        "FOMC"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/goldman-s-kaplan-backs-kick-the-can-fed-caution-on-rate-hikes",
+      "published_date": "2026-08-13",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "83d88e72a53be9a0",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "US July CPI Cools to 3.4% Annual Rate, Matching Expectations",
+      "summary": "US July CPI rose 0.1% month-over-month; annual rate eased from 3.5% to 3.4%, both headline and core in line with Dow Jones consensus. Shelter costs rose 0.1%, energy fell 1.5%. Core CPI at 2.5% annualized.",
+      "why": "延续报道：通胀降温数据释出后9月加息概率一度跌至42%，随后8月14日零售和信心数据进一步压低至34%，构成本周最重要宏观叙事主线，影响期权定价与sell-put时间窗口判断。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "inflation",
+        "Federal Reserve",
+        "macro",
+        "US economy"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "a7cec2ad903ea3e5",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "20:30",
+      "group": "个股",
+      "title": "腾讯控股 2026 年第二季度业绩：营收 2048 亿元同比增 11% 超预期，净利润小幅增长未达预期，AI 资本开支飙升 176%，自由现金流 21 年来首转负",
+      "summary": "腾讯Q2营收2047.9亿元（+11% YoY，超预期2%），Non-IFRS净利润684亿元（+9%）；IFRS净利润560亿元仅增不足1%，较市场预期低约4%。国内游戏+17%、营销服务+22%。AI资本开支527.8亿元（+176% YoY），季度自由现金流-138亿元，为2005年以来首次转负。摩根士丹利随后下调目标价至550港元（原650），维持超配。",
+      "why": "利润端不及预期叠加FCF转负引发市场担忧；港股0700连续四个交易日下跌，拖累恒指录得逾一年最差单周表现。对持仓者：近期AI capex压制利润，covered call策略应关注波动率偏高窗口；sell-put执行价宜保留更大缓冲。",
+      "source": "腾讯 PR Newswire / CNBC",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "Q2 2026",
+        "业绩",
+        "AI资本开支",
+        "游戏",
+        "微信"
+      ],
+      "translated": false,
+      "url": "https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-second-quarter-results-302849608.html",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
       "id": "c0b674a48c9310eb",
       "tier": 2,
       "lang": "en",
@@ -2536,6 +2653,64 @@
       "is_new": false
     },
     {
+      "id": "f2c82f090f6d810c",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "S&P 500 Slips from Record High on Weak Data but Posts Third Straight Weekly Gain",
+      "summary": "S&P 500 fell 13.23 pts to 7,785.76 on Friday after weak retail sales and Michigan confidence data, but capped a third consecutive weekly gain. The index had reached an intraday record high of 7,800+ on Thursday. Dow and Nasdaq also finished lower on Friday. World shares broadly fell on the data.",
+      "why": "大盘在创历史高位后因消费数据回落，本周三连阳，加息预期下降有助于科技成长股估值，但宏观走弱信号对持仓偏消费的港股拖累更直接；短期covered call策略隐波收益或有限。",
+      "source": "Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "stock market",
+        "weekly gain",
+        "US market",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "23d3764e59e174f3",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "美团「等灯停表」功能 8 月 13 日在北京正式试点，骑手等红灯时间不计入配送考核，预计年内覆盖逾百万骑手",
+      "summary": "美团在北京朝阳区、通州区等区域正式路测「等灯停表」功能：骑手等红灯时系统显示「红灯暂停」并顺延配送时间，功能完善后将逐步推向超百万骑手；淘宝闪购、京东外卖同日在京落地同类措施。",
+      "why": "三平台协同推进骑手权益保护，政策层面监管善意信号明确，有助于改善美团在劳动合规方面的声誉风险与监管预期，中长期对估值偏正面；Keeta国际化扩张亦在同步推进（已进入沙特、巴西等市场）。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "骑手",
+        "等灯停表",
+        "劳工",
+        "外卖"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininecss3289171.shtml",
+      "published_date": "2026-08-13",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
       "id": "29db096cf3f343a4",
       "tier": 3,
       "lang": "en",
@@ -2754,6 +2929,36 @@
       "published_date": "2026-08-12",
       "still_developing": true,
       "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "067c986d84b48dd2",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "小米集团-W(01810.HK)8 月 12 日耗资约 4989 万港元回购 189.8 万股",
+      "summary": "小米集团于8月12日以每股26.26至26.34港元区间回购189.8万股，合计耗资约4989万港元，延续近期持续回购计划。同日小米澎湃OS 4正式开启Beta测试，完成10年MIUI遗留代码清零，代码量从8000万行压缩至约4000万行。",
+      "why": "回购彰显管理层对股价信心，配合澎湃OS 4发布（底层重构、液态玻璃UI、内置端侧AI大模型），是典型的「产品+股东回报」双催化时点。持仓者可关注波动率变化；sell-put可酌情降低行权价保护缓冲。",
+      "source": "富途牛牛 moomoo",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "回购",
+        "澎湃OS",
+        "SU7",
+        "YU7"
+      ],
+      "translated": false,
+      "url": "https://www.moomoo.com/news/post/74556444",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
       "is_new": false
     }
   ]
