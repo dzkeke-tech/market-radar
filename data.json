@@ -1,1 +1,2597 @@
-see below
+{
+  "is_sample": false,
+  "updated_at": "2026-08-17 18:28 (北京时间)",
+  "next_runs": [
+    "08:00",
+    "13:00",
+    "18:00"
+  ],
+  "watchlist": [],
+  "positions": [],
+  "last_run": {
+    "at": "2026-08-17 18:28 (北京时间)",
+    "new_count": 8,
+    "degraded": 0,
+    "input_missing": false
+  },
+  "items": [
+    {
+      "id": "7a0d577fc8fd7460",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A",
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
+      "summary": "China July retail sales grew just 0.6% YoY vs. +1.5% estimate; fixed-asset investment contracted 6.7% YTD (est. -6%), worse than expected. Urban unemployment ticked higher, intensifying calls for Beijing to step up stimulus.",
+      "why": "中国7月经济数据全线大幅不及预期，消费+投资双弱，直接压制港股及A股消费/科技板块短期表现。持有腾讯、美团、阿里等中概标的需关注政策宽松提速节奏；期权层面相关不确定性或推高隐含波动率，sell put行权价选择宜偏保守。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "中国经济",
+        "零售额",
+        "固定资产投资",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
+      "published_date": "2026-08-17",
+      "still_developing": false,
+      "first_seen": "2026-08-17",
+      "is_new": true
+    },
+    {
+      "id": "5a07e7975d3eeebd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Retail sales unexpectedly fell in July",
+      "summary": "US July retail sales fell 0.6% MoM, badly missing the +0.1% consensus estimate—the biggest monthly drop since May 2025. Non-auto sales fell 0.3%; nonstore retailers dropped 2.2% (Amazon Prime Day pulled spending forward to June).",
+      "why": "延续报道：零售数据大幅不及预期后市场持续博弈联储加息路径，距Jackson Hole（8月27-29日）新主席沃什首次讲话仅10天，数据令鸽派预期升温。sell put策略受益于利率预期下行带来的科技/成长股估值支撑；但VIX已在年内低位，期权金偏薄，需评估是否等待JH后再布局。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "零售销售",
+        "consumer spending",
+        "宏观",
+        "Fed",
+        "Jackson Hole"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/video/2026/08/14/retail-sales-unexpectedly-fell-in-july.html",
+      "published_date": "2026-08-14",
+      "still_developing": true,
+      "first_seen": "2026-08-17",
+      "is_new": true
+    },
+    {
+      "id": "710dbc776edb6ce0",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "21:00",
+      "group": "个股",
+      "title": "腾讯上半年资本开支增长82% 二季度达到527.84亿元",
+      "summary": "腾讯Q2 2026营收2048亿元（YoY+11%，超预期）；资本开支527.84亿元（YoY+176%，超市场预期321亿元约60%），导致单季自由现金流-138亿元，为21年来首次转负。主因为AI算力基础设施采购大规模预付款。",
+      "why": "延续报道：腾讯Q2财报（8月12日发布）引发的资本开支争议与股价调整持续发酵。空头担忧短期利润稀释，多头认为AI投入将重构估值体系。对持有腾讯(0700.HK)的仓位：当前隐含波动率可能偏高，sell put行权价选择宜更保守；中长期需跟踪AI变现（元宝/混元/WeChat AI等）的收入贡献节奏。",
+      "source": "证券时报",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "资本开支",
+        "AI",
+        "自由现金流",
+        "Q2财报",
+        "0700.HK"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/4071677.html",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-17",
+      "is_new": true
+    },
+    {
+      "id": "e2a0de55e90f6304",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "Gold Rises to Near $4,400 as Weak Retail Data Weighs on Dollar",
+      "summary": "Spot gold hovered near $4,400/oz after weak US July retail sales reduced rate-hike bets and pressured the dollar. Gold is up ~8% in August alone; last week was its best weekly gain since January, driven by FOMO and short-covering.",
+      "why": "金价8月强势反弹至4400美元区间，对持有老铺黄金(6181.HK)直接形成利好支撑；美元相对疲弱亦利好港股。但金价已进入技术超买区间（偏离50日均线逾1个标准差），后续需关注能否持稳。期权角度：黄金相关标的隐含波动率可能走高，可考虑covered call。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "黄金",
+        "gold",
+        "美元",
+        "宏观",
+        "老铺黄金"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/gold-steady-near-4-400-as-traders-weigh-us-data-and-rate-path",
+      "published_date": "2026-08-16",
+      "still_developing": false,
+      "first_seen": "2026-08-17",
+      "is_new": true
+    },
+    {
+      "id": "75f9598bdf6324ea",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "06:30",
+      "group": "大盘头条",
+      "title": "S&P near all-time high; VIX at 2026 low; Jackson Hole Fed symposium in 10 days",
+      "summary": "S&P 500 hit a fresh ATH last week post-earnings season. VIX fell to 2026 lows at ~14.5. Jackson Hole (Aug 27-29) looms: new Fed Chair Warsh's first keynote on Aug 28 may set September rate-decision tone. Asia mixed: Nikkei +0.74%, CSI 300 +1.61%, Hang Seng +1.5%.",
+      "why": "VIX处于年内低位令sell put/covered call策略收入偏薄。Jackson Hole是本月最大宏观风险点，若沃什偏鹰可能导致VIX跳升至20+区间；若偏鸽则进一步支撑科技/成长估值。建议密切跟踪8月27-29日讲话信号，提前评估是否需调整期权行权价或delta对冲比例。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "VIX",
+        "Jackson Hole",
+        "Fed",
+        "S&P 500",
+        "市场",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-08-16",
+      "still_developing": false,
+      "first_seen": "2026-08-17",
+      "is_new": true
+    },
+    {
+      "id": "a730321591ffdf26",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股收评：恒指涨1.34% 科指涨1.58% 光通信、芯片股大涨",
+      "summary": "8月17日恒生指数收报25453.23点（+336.38点，+1.34%）；恒生科技指数+1.58%。光通信板块领涨（长飞光纤光缆+12%），中芯国际+7%，商汤+9%。A股CSI 300+1.61%，日经225+0.74%。",
+      "why": "港股今日普涨，AI算力基础设施需求带动光通信/芯片股强势。持有腾讯、阿里、美团等科网仓位者，可关注科技板块情绪改善能否持续；但今日领涨的是半导体基础设施方向，与直接持仓核心标的（腾讯0700/阿里9988）有所区别。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "科技股",
+        "光通信",
+        "芯片"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-17/doc-ininrkkk0107760.shtml",
+      "published_date": "2026-08-17",
+      "still_developing": false,
+      "first_seen": "2026-08-17",
+      "is_new": true
+    },
+    {
+      "id": "ac49575d5905dd62",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "A",
+        "HK"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "美国将对加拿大部分产品额外加征50%关税，8月19日凌晨起生效",
+      "summary": "美国依据《1930年关税法》第338条，对加拿大乳制品、酒精、服装、家具等部分产品加征50%关税，自美东时间8月19日00:01起生效。美加谈判仍有重大分歧，加方乐观情绪消退。",
+      "why": "美加贸易摩擦升级短期扰动全球风险情绪；目前对中国出口的直接关税无变化，对港股/A股间接冲击有限。但需警惕贸易对抗蔓延引发更广泛的市场避险情绪，进而影响全球消费及科技供应链。",
+      "source": "新浪财经（四大证券报头版摘要）",
+      "verified": true,
+      "keywords": [
+        "关税",
+        "贸易战",
+        "美加贸易",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/y/2026-08-17/doc-ininqpez7893983.shtml",
+      "published_date": "2026-08-17",
+      "still_developing": false,
+      "first_seen": "2026-08-17",
+      "is_new": true
+    },
+    {
+      "id": "34666469e6ed1153",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "贵州茅台：上半年净利润445.17亿元 同比下降1.95%",
+      "summary": "贵州茅台发布2026年中报：营收907.03亿元（+1.47%），归母净利润445.17亿元（-1.95%），为上市以来罕见的净利润同比下滑。基本每股收益35.57元。",
+      "why": "延续报道：茅台H1净利润罕见下滑印证A股消费龙头盈利承压，与当日公布的中国7月消费数据形成共振，共同指向高端消费需求走弱。茅台为A股最重要晴雨表，其业绩转弱将进一步压制消费板块整体估值修复预期。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "贵州茅台",
+        "消费",
+        "白酒",
+        "A股",
+        "业绩",
+        "净利润"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260814/herald/56487463074b8f12e1fdc8070218b487.html",
+      "published_date": "2026-08-14",
+      "still_developing": true,
+      "first_seen": "2026-08-17",
+      "is_new": true
+    },
+    {
+      "id": "12bdde548e025f41",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A",
+        "CN"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "中国7月CPI同比涨0.5%、PPI同比涨3.5%，通胀延续温和回升但双双不及预期",
+      "summary": "国家统计局8月9日公布：7月CPI同比+0.5%（低于预期0.8%，前值1.0%）；PPI同比+3.5%（低于前值4.1%，环比-0.7%）。核心CPI同比+0.9%，猪肉价格连续下跌拖累食品分项。",
+      "why": "通胀低于预期，为央行保持宽松政策提供空间，对港股/A股消费与科技板块整体偏利好；PPI回落幅度值得关注，或反映大宗需求偏弱。",
+      "source": "South China Morning Post",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "PPI",
+        "通胀",
+        "宏观",
+        "inflation"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/economy/china-economy/article/3363421/chinas-factory-gate-prices-growth-slow-35-july-amid-lower-fuel-prices",
+      "published_date": "2026-08-09",
+      "still_developing": false,
+      "first_seen": "2026-08-10",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:10",
+      "group": "大盘头条",
+      "title": "港股收评：恒指涨1.05%至25937点，科指涨1.26%；黄金科网普涨，光通信跌逾6%",
+      "summary": "非农数据爆冷带动加息预期降温，港股周一全线走强。恒生指数涨1.05%报25937.49点，恒生科技指数涨1.26%，国企指数涨1.06%。联想涨超3%，京东、哔哩哔哩、阿里巴巴、小米涨超2%；黄金股紫金黄金国际涨超5%。光通信板块因FCC禁令消息逆市大跌，中际旭创跌超6%。国泰君安国际受私有化消息刺激复牌涨逾36%。",
+      "why": "港股整体风险偏好回升，科网配置机会凸显；光通信板块跌势提示FCC禁令风险仍发酵，须警惕相关标的IV异动；国泰君安国际私有化套利空间约6%。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "HK",
+        "市场"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-10/doc-inimvnpm2814282.shtml",
+      "published_date": "2026-08-10",
+      "still_developing": false,
+      "id": "27a7750b9c6f0715",
+      "first_seen": "2026-08-10",
+      "is_new": false
+    },
+    {
+      "id": "6ce21c2ab7aeee24",
+      "tier": 1,
+      "lang": "en",
+      "title": "英伟达联合华尔街资管巨头承诺逾5000亿美元AI基础设施投资",
+      "summary": "英伟达与Apollo、BlackRock等华尔街资管巨头宣布共同出资逾5000亿美元用于AI基础设施，涵盖数据中心、能源及融资安排；黄仁勋表示AI算力正成为可投资资产类别，将改变资本市场格局。",
+      "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+      "source": "CNBC",
+      "published_date": "2026-08-10",
+      "verified": true,
+      "first_seen": "2026-08-11",
+      "is_new": false,
+      "group": "大盘头条",
+      "markets": [
+        "US"
+      ],
+      "time": "07:30",
+      "why": "机构资金以空前规模绑定AI算力基础设施建设，强化英伟达在AI硬件供应链的核心地位；对持仓中的英伟达、SK海力士、美光等AI算力链标的构成中长期利好，可作为逢低布局或sell put的参考背景。",
+      "keywords": [
+        "AI基础设施",
+        "英伟达",
+        "NVDA",
+        "数据中心"
+      ],
+      "translated": false
+    },
+    {
+      "id": "c957fe0fa64de911",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Oil Prices Jump on Iran Demands as Hormuz Talks Stall; WTI Closes at $82",
+      "summary": "Iran's Foreign Ministry said the U.S. must lift its naval blockade before Tehran would agree to fully reopen the Strait of Hormuz, dashing hopes for an imminent deal brokered via Oman. WTI crude rose about 5% to close near $82/bbl. The strait — conduit for ~20% of global oil supplies — has seen daily transits collapse from ~130 to just 8-15 vessels since the conflict began in late February.",
+      "why": "霍尔木兹谈判破裂令油价跳涨约5%，能源成本上行压力再度升温，叠加明日(8/12)CPI数据，对美联储9月政策路径构成双重不确定性；期权卖方需关注能源板块隐含波动率重定价风险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Strait of Hormuz",
+        "Iran",
+        "oil",
+        "WTI",
+        "macro",
+        "geopolitical"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+      "published_date": "2026-08-10",
+      "still_developing": true,
+      "first_seen": "2026-08-11",
+      "is_new": false
+    },
+    {
+      "id": "5f51942a529dfd0f",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Gold Rallies to $4,400 Futures Open, Highest Since Early June, as Central Banks Pile In",
+      "summary": "Gold December futures opened at $4,400/oz on Monday August 10, with spot prices around $4,342 — the highest opening since early June — fueled by fading rate-hike expectations after the weak July jobs report and central bank safe-haven demand. Global central banks net-purchased 289 tons in Q2 2026, up 62% YoY. HK gold jewelry stocks (Laopu Gold, Chow Tai Fook, Chow Sang Sang) surged in tandem.",
+      "why": "金价创近两月新高，直接利好持仓中老铺黄金(6181.HK)等贵金属相关标的；7月就业疲软令市场降息预期升温是主要驱动；央行持续购金提供中线支撑，黄金方向性判断对covered call执行价选择至关重要。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "gold",
+        "黄金",
+        "precious metals",
+        "贵金属",
+        "老铺黄金",
+        "Laopu Gold",
+        "central bank",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-10/gold-is-rallying-again-thanks-to-some-deep-pocketed-buyers",
+      "published_date": "2026-08-10",
+      "still_developing": false,
+      "first_seen": "2026-08-11",
+      "is_new": false
+    },
+    {
+      "id": "06fafbcce9b9816f",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Samsung HBM4 Hits 80% 'Golden Yield,' Targeting 38% HBM Market Share by Year-End",
+      "summary": "Samsung reached an 80% production yield on HBM4 memory chips — the industry's 'golden yield' for profitability — just six months into mass production and ahead of its own schedule. Samsung is now targeting a 38% HBM market share by year-end and expects HBM4 to account for over 60% of its HBM revenue in H2 2026. Analysts expect Samsung to slightly surpass SK Hynix in HBM volume share in 2027. Separately, SK Hynix labor talks stalled Monday over stock-based bonus disputes.",
+      "why": "三星HBM4良率快速提升对SK海力士(7709.HK南方两倍做多ETF)的HBM领导地位构成实质挑战；英伟达Blackwell平台HBM供应商格局或生变，美光HBM定价权亦受影响；SK海力士劳资僵局若升级将进一步加剧供应侧风险，HBM/AI芯片板块波动率升高。",
+      "source": "Seoul Economic Daily",
+      "verified": false,
+      "keywords": [
+        "Samsung",
+        "SK Hynix",
+        "SK海力士",
+        "HBM4",
+        "HBM",
+        "memory",
+        "AI chip",
+        "存储芯片",
+        "英伟达",
+        "Nvidia"
+      ],
+      "translated": false,
+      "url": "https://en.sedaily.com/finance/2026/08/10/samsung-cracks-hbm4-yields-set-to-overtake-sk-hynix-next",
+      "published_date": "2026-08-10",
+      "still_developing": false,
+      "first_seen": "2026-08-11",
+      "is_new": false
+    },
+    {
+      "id": "25a711f1aaf66e0c",
+      "tier": 1,
+      "lang": "zh",
+      "title": "霍尔木兹海峡局势升温，国际油价单日涨逾4%",
+      "summary": "中东紧张态势持续，霍尔木兹海峡断航风险上升，布伦特原油及WTI原油期货当日涨幅均超4%，能源股受提振，对通胀预期形成新压力。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimwckz1104679.shtml",
+      "source": "新浪财经",
+      "published_date": "2026-08-11",
+      "verified": true,
+      "first_seen": "2026-08-11",
+      "is_new": false,
+      "group": "大盘头条",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "why": "地缘风险溢价推高油价将放大全球通胀预期，可能延后美联储降息路径，对港股/A股及美股风险资产估值形成压制；持有期权仓位需留意隐含波动率随地缘风险上行。",
+      "keywords": [
+        "原油",
+        "大宗商品",
+        "中东",
+        "通胀"
+      ],
+      "translated": false
+    },
+    {
+      "id": "3301e04072f88a15",
+      "tier": 1,
+      "lang": "zh",
+      "title": "腾讯明日(8/12)发布Q2业绩，市场预期收入同比增约10%",
+      "summary": "腾讯控股将于2026年8月12日盘后发布2026年Q2业绩。市场预期季度收入同比增长约10%，净利润维持稳健；游戏（王者荣耀、和平精英）及微信生态广告为主要增长驱动。业绩会及指引为核心关注点，事件仍在演进。",
+      "url": "https://www.tencent.com/zh-hk/investors.html",
+      "source": "腾讯 IR",
+      "published_date": "2026-08-11",
+      "still_developing": true,
+      "verified": true,
+      "first_seen": "2026-08-11",
+      "is_new": false,
+      "group": "个股",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "why": "核心持仓腾讯即将公布财报，游戏及广告收入增速是股价短期最大变量；若sell put行权价临近财报窗口，需评估隐含波动率上升后的保证金及行权风险。",
+      "keywords": [
+        "腾讯",
+        "0700.HK",
+        "业绩",
+        "Q2",
+        "游戏",
+        "广告"
+      ],
+      "translated": false
+    },
+    {
+      "id": "6f660b6f51f8a4b5",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "CoreWeave (CRWV) Reports Q2 2026 Earnings Today After Close: $2.55B Revenue Expected, 15.5% Options Swing Priced",
+      "summary": "CoreWeave (CRWV) reports Q2 2026 results after market close today. Consensus expects revenue of $2.55 billion (+111% YoY vs. $1.21B a year ago), with a loss of ~$1.22/share as the AI cloud provider continues aggressive GPU and data-center capex ($31-35B plan for 2026). Key watch items: $99.4B revenue backlog sustainability, margin improvement from Q1 lows, and customer concentration risk. Options imply a 15.5% move in either direction.",
+      "why": "CoreWeave是AI算力云基础设施核心供应商，其Q2业绩直接验证超大规模算力投资景气度；强劲结果将提振英伟达GPU需求叙事及AI整体板块估值，疲软则引发AI资本开支可持续性质疑，对英伟达及AI关联持仓波动率影响显著。",
+      "source": "Stocks Down Under / Benzinga",
+      "verified": false,
+      "keywords": [
+        "CoreWeave",
+        "CRWV",
+        "AI cloud",
+        "AI chip",
+        "earnings",
+        "英伟达",
+        "Nvidia",
+        "GPU"
+      ],
+      "translated": false,
+      "url": "https://stocksdownunder.com/ai-earnings-week-nasdaq-coreweave-supermicro/",
+      "published_date": "2026-08-11",
+      "still_developing": false,
+      "first_seen": "2026-08-11",
+      "is_new": false
+    },
+    {
+      "id": "f4e8a216b5c7d309",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "昨 20:30",
+      "title": "CPI inflation report July 2026: Prices rose 0.1% MoM, +3.4% YoY; nonfarm payrolls shed 23,000 jobs",
+      "summary": "U.S. July CPI +0.1% MoM, +3.4% YoY; core CPI +0.2% MoM, +2.5% YoY — both above the Fed's 2% target. July nonfarm payrolls fell 23,000 (prior two months revised -103k), deepening the stagflation dilemma. CME FedWatch now prices 45.9% probability of a September rate hike. Key upcoming: FOMC minutes Aug 19, Jackson Hole symposium Aug 27-29.",
+      "why": "通胀黏性叠加就业走弱构成美联储两难困境，9月加息概率升至46%；IV走高短期利好Sell Put溢价，但美股成长/消费赛道估值承压；留意8/19 FOMC纪要及8/27鲍威尔Jackson Hole讲话对行权价选择和IV走势的影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "通胀",
+        "美联储",
+        "macro",
+        "宏观",
+        "Jackson Hole",
+        "FOMC"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+      "published_date": "2026-08-12",
+      "first_seen": "2026-08-13",
+      "is_new": false,
+      "group": "大盘头条",
+      "_recovered_from": "abpjnj"
+    },
+    {
+      "id": "b2a7f3e1c9d5840e",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "昨 20:00",
+      "title": "腾讯Q2 2026实际业绩：营收¥2047.9亿首破单季2000亿，资本开支¥527.8亿(+176%)远超预期，自由现金流2005年来首次转负",
+      "summary": "Q2营收¥2047.9亿(+11% YoY)创历史单季新高，非IFRS经营利润¥756.4亿(+9%)；净利润¥560亿仅+0.7%，低于市场预期¥584亿。资本开支¥527.8亿(+176% YoY)远超预期¥321亿，致自由现金流-¥138亿（2005年来首次转负）；管理层解释：若剔除算力采购预付款，调整后FCF为+¥376亿。研发支出¥272.8亿(+35%)，混元Hy3正式版7月上线，WorkBuddy/CodeBuddy用户激增。",
+      "why": "腾讯为核心watchlist港股标的，资本开支骤增致盈利质量短期承压，股价8月13日午盘收跌3.7%至HK$444.4；Morgan Stanley将目标价从HK$650下调至HK$550（维持超配），Citi上调至HK$765；期权持有者需重新评估Sell Put行权价支撑，中长期AI商业化逻辑不变但短期波动加剧。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "0700.HK",
+        "业绩",
+        "资本开支",
+        "自由现金流",
+        "AI",
+        "混元",
+        "回购"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/t/2026-08-12/doc-ininaezi3541809.shtml",
+      "published_date": "2026-08-12",
+      "first_seen": "2026-08-13",
+      "is_new": false,
+      "group": "个股",
+      "_recovered_from": "abpjnj"
+    },
+    {
+      "id": "e9a2f4c7b8310d6a",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08月12日",
+      "title": "腾讯Q2营收2048亿同比增11%，算力资本开支飙升至527.8亿致自由现金流转负138亿",
+      "summary": "腾讯2026年Q2总收入2047.9亿元(+11% YoY)，归母净利560亿元(+0.7%)；资本开支527.8亿元同比近三倍，远超市场预期321亿元，导致自由现金流录得-138亿元。上半年合计回购约50.03百万股、总代价约244亿港元并已全数注销；管理层将资本开支定性为AI基础设施战略性前期投入。",
+      "why": "capex三倍跳升压缩FCF、短期影响回购持续性与持仓估值逻辑；回购注销支撑EPS，但FCF转负需跟踪是否持续；对0700.HK sell put前应评估隐含波动率是否已充分反映这一不确定性。",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "回购",
+        "业绩",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2452777",
+      "is_new": false,
+      "first_seen": "2026-08-14",
+      "_recovered_from": "sh0pzm"
+    },
+    {
+      "id": "b4d7a0e3f926c851",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08月13日",
+      "title": "SanDisk Surges 13.67% on AI Storage Investor Day: $15.5B Buyback, 80% Gross Margin Target",
+      "summary": "SanDisk (SNDK) jumped 13.67% on Aug 14 following its investor day (Aug 12-13): announced $15.5B share buyback authorization and long-term targets of ~80% adjusted gross margins and ~75% operating margins. The company unveiled a 9th-gen high-performance flash co-developed with Kioxia aimed at AI data center inference workloads. Stock is up ~429% YTD and ~3,000%+ since its Feb 2025 spin-off at $52.",
+      "why": "SNDK单日+14%、$15.5B回购规模巨大，存储板块（美光/SK海力士同步走强）整体估值重估；今日隐含波动率大幅跳升，已持有SNDK call须锁定收益；若考虑sell put须等IV回落后操作。",
+      "source": "SanDisk IR",
+      "verified": true,
+      "keywords": [
+        "闪迪",
+        "NAND",
+        "回购",
+        "AI芯片",
+        "存储芯片"
+      ],
+      "translated": false,
+      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-fourth-quarter-2026-financial-results",
+      "is_new": false,
+      "first_seen": "2026-08-14",
+      "_recovered_from": "sh0pzm"
+    },
+    {
+      "id": "7c4d8e9b2f1a3056",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "07:30",
+      "group": "个股",
+      "title": "腾讯Q2 2026业绩：营收2048亿元+11%超预期，AI资本开支+176%，港股次日涨逾4%",
+      "summary": "腾讯控股（0700.HK）8月12日收市后公布Q2 2026业绩：季度营收2048亿元人民币，同比增长11%，超市场共识约10%的预期；游戏（王者荣耀、和平精英）与微信生态广告收入为主要驱动力；AI资本开支同比增逾176%，全年资本开支有望冲击2000亿元高位；自由现金流（FCF）因高强度AI投入同比明显收窄。业绩超预期后次日腾讯港股大涨逾4%。",
+      "why": "核心持仓腾讯业绩超预期，营收和盈利稳健，短期有助于提振持仓估值；AI资本开支大幅跃升意味着货币化路径进入新阶段，市场重新定价AI变现逻辑；业绩公布后隐含波动率应有明显回落，对到期在即的sell put策略为利好。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "Q2业绩",
+        "AI资本开支",
+        "营收"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/12/tencent-q2-2026-earnings-revenue-ai-capex.html",
+      "published_date": "2026-08-12",
+      "still_developing": false,
+      "first_seen": "2026-08-14",
+      "is_new": false,
+      "_recovered_from": "1s4an6"
+    },
+    {
+      "id": "8b6e3d1f9a4c2075",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "Intel Launches $20B Equity Offering at $95/Share, Upsized From $15B on >$100B Demand; Foundry Q2 Revenue +31%",
+      "summary": "Intel (INTC) priced a secondary equity offering of 210 million shares at $95 per share on Aug 12, raising approximately $20 billion — upsized from an initially planned $15 billion — after demand from institutional investors exceeded $100 billion. Proceeds will fund Intel Foundry 18A node buildout and Gaudi 4 AI chip roadmap. Intel also disclosed that Foundry Services Q2 revenue grew 31% year-over-year, the fastest in four quarters.",
+      "why": "英特尔超大规模融资（$200亿）验证市场对其代工战略转型的高度信心；需求超$1000亿、10倍过度认购；若18A节点良率继续爬升，Intel代工作为英伟达GPU晶圆替代方案的可行性上升；短期稀释约5%股本，但管理层以融资成功佐证路线图可行，INTC sell put机会值得关注。",
+      "source": "Intel IR",
+      "verified": true,
+      "keywords": [
+        "英特尔",
+        "Intel",
+        "INTC",
+        "增发",
+        "代工",
+        "foundry",
+        "18A",
+        "Gaudi"
+      ],
+      "translated": false,
+      "url": "https://www.intc.com/news-releases/news-release-details/intel-announces-20-billion-equity-offering-intc",
+      "published_date": "2026-08-12",
+      "still_developing": false,
+      "first_seen": "2026-08-14",
+      "is_new": false,
+      "_recovered_from": "1s4an6"
+    },
+    {
+      "id": "4f2d9c8b1e7a3065",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "美国7月CPI同比3.4%略超预期，PPI同比4.7%，标普500首破7800点；费城半导体+2.07%",
+      "summary": "美国7月CPI同比+3.4%（预期+3.2%），核心CPI同比+3.1%；PPI同比+4.7%（预期+4.5%），通胀顽固略超预期，美联储9月加息预期小幅走高。即便如此，8月13日美股高开高走：S&P 500首次突破7800点，收盘报7814点；纳斯达克+0.81%；费城半导体指数（SOX）+2.07%，主要受SanDisk投资者日催化存储板块大涨所带动。",
+      "why": "CPI及PPI均略超预期，加息预期可能边际走升；但市场因AI算力叙事主导情绪，半导体板块在当天逆势大涨，标普500首破7800历史关口；卖出期权（sell put）者需留意高通胀环境下IV可能小幅走升，但整体多头情绪仍强。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "PPI",
+        "美联储",
+        "S&P500",
+        "标普",
+        "纳斯达克",
+        "费城半导体"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates-cpi-ppi.html",
+      "published_date": "2026-08-13",
+      "still_developing": false,
+      "first_seen": "2026-08-14",
+      "is_new": false,
+      "_recovered_from": "1s4an6"
+    },
+    {
+      "id": "39b2deb0a00921d7",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "S&P 500 Notches Record Close at 7,799 as Cool July CPI Eases Rate-Hike Fears; Brent Crude Drops 2%",
+      "summary": "July CPI rose 0.1% MoM and 3.4% YoY (both matching forecasts); core CPI slowed to 2.5% annually, the coolest since 2021. S&P 500 closed at 7,798.99 (27th record close of 2026, intraday high 7,816.70); Nasdaq +0.81% to 26,803; Dow +0.13%. Brent crude fell 2% to $87.07/bbl, WTI to $81.25.",
+      "why": "延续报道：通胀数据8月12日发布后美股创新高，市场情绪持续至8月14日；直接影响全组合估值，降低Fed 9月加息预期有利于持仓成本和Sell Put隐含波动率环境。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "CPI",
+        "inflation",
+        "Fed",
+        "record high",
+        "crude oil"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/12/stock-market-today-live-updates.html",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "6032b693fcae73c1",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "17:00",
+      "group": "个股",
+      "title": "Tencent Q2 2026: Revenue +11% Beats, Profit Misses as AI CapEx Surge Turns Free Cash Flow Negative",
+      "summary": "Q2 revenue RMB 204.8B (+11% YoY, beat est. 202.2B). Reported net profit RMB 56B (+0.7% YoY, missed est. 61.8B); non-IFRS profit RMB 68.4B (+9%). Domestic gaming +17%, marketing services +22%. CapEx jumped to RMB 52.8B (×1.65 QoQ); free cash flow -RMB 13.8B. Stock fell 4.77% on Aug 13 to HK$441. Management: stock is 'dislocated,' buybacks continue.",
+      "why": "延续报道：Q2财报8月12日发布后腾讯股价8月13日大跌4.77%，持仓核心标的面临压力；AI CapEx大幅加速（半年资本支出约等于全年历史水平），近期FCF为负或压制股价；管理层继续回购提供支撑，Covered Call可考虑作为保护策略。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "Q2 2026",
+        "财报",
+        "earnings",
+        "AI",
+        "CapEx",
+        "游戏",
+        "广告"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "715f1ee2e943cf23",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Wholesale Prices Flat in July, Below 0.2% Estimate; Annual PPI Cools to 4.7% from 5.5%",
+      "summary": "U.S. July PPI was unchanged month-over-month (consensus: +0.2%), with annual rate easing to 4.7% from 5.5%. Core PPI +0.2% (vs. +0.3% expected). Data continues the disinflation narrative alongside Wednesday's CPI print, further reducing near-term Fed rate-hike premium.",
+      "why": "PPI低于预期强化通胀降温叙事，为美联储9月按兵不动提供支撑；有利于全组合风险情绪，Sell Put策略受益于加息尾部风险降低。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "PPI",
+        "inflation",
+        "Fed",
+        "producer prices",
+        "rate hike"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+      "published_date": "2026-08-13",
+      "still_developing": false,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "3bcde57057187817",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "SanDisk 2026 Investor Day: 80% Gross Margin Target, Mid-to-High-Teens Revenue Growth; Stock Surges 16%+; JPMorgan Upgrades to OW",
+      "summary": "SanDisk Investor Day (Aug 13) revealed long-term financial model: mid-to-high-teens revenue growth (2028-2030), gross margin target of 80% (vs. current ~56%). FY2026 revenue $20.25B (+175% YoY), net income $11.43B. New BiCS10 9th-gen flash with Kioxia for AI storage. Stock surged 16%+ to $1,528.11. JPMorgan (Harlan Sur) upgraded to Overweight, $2,250 target (Dec 2027).",
+      "why": "投资者日长期目标大超预期，16%单日暴涨创近期纪录；80%毛利率目标若实现是存储行业长期格局重塑信号；Sell Put行权价风险大幅降低，可考虑上调行权价捕获更高权利金或滚仓；同时利好美光（内存超周期叙事强化）。",
+      "source": "SanDisk IR (Official Press Release)",
+      "verified": true,
+      "keywords": [
+        "闪迪",
+        "SanDisk",
+        "SNDK",
+        "NAND",
+        "flash",
+        "investor day",
+        "JPMorgan",
+        "存储"
+      ],
+      "translated": false,
+      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-details-growth-strategy-and-long-term-financial-model",
+      "published_date": "2026-08-13",
+      "still_developing": false,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "e63d6b797f05855f",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-08-14",
+      "group": "大盘头条",
+      "title": "Hang Seng posts worst weekly loss in over a year amid renewed tech selloff",
+      "summary": "HSI fell 1.8% to 22,671.86 on Aug 14, capping a 5.2% weekly loss — worst since Apr 11, 2025. Hang Seng Tech Index -3.4%. Key drivers: Fed hawkishness, investor demand for AI monetisation proof amid surging capex, weak China consumer confidence weighing on internet platforms.",
+      "why": "Sharp HK market selloff directly impacts tracked HK-listed names: 腾讯 (0700.HK), 美团 (3690.HK), 小米 (1810.HK). Elevated implied vol may create sell-put entry points.",
+      "source": "SCMP",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "美团",
+        "Meituan",
+        "小米",
+        "Xiaomi"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/china-business/article/3358428/hang-seng-index-heads-worst-week-over-year-renewed-sell-engulfs-tech-names",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "0066141a0f3aec55",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet as Hang Seng Falls for Fourth Day",
+      "summary": "Hang Seng fell ~1.1% to 25,137 (4th consecutive decline); Hang Seng Tech Index -1.77%. SMIC climbed 6.4% after earnings beat. Meituan -3%+, JD.com -6%+ after Q2 revenue -2.9%. Bloomberg: China earnings season creating bifurcation — hardware/chips outperform, internet platforms lag on consumer demand recovery.",
+      "why": "港股持仓（腾讯、美团）全面承压；半导体（中芯）逆势走强体现资金轮动；美团Sell Put行权价隐含风险上升，建议关注期权Delta管理。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Hang Seng",
+        "港股",
+        "美团",
+        "3690.HK",
+        "SMIC",
+        "中国科技",
+        "硬件"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/china-tech-earnings-renew-focus-on-hardware-stocks-over-internet",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "c6116e076cbc9349",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Nvidia's $500B AI Plan Envelops Wall Street: Bloomberg Deep Dive on MoUs with Apollo, BlackRock, Blackstone, Goldman & KKR",
+      "summary": "Bloomberg Aug 14 analysis examines Nvidia's plan mobilizing $500B+ via MoUs with six major asset managers (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR). Goal: ease credit for AI startups buying GPUs. Jensen Huang: AI compute becoming an 'investable asset class.' No firm financial commitments disclosed.",
+      "why": "英伟达AI基础设施融资扩大GPU需求生态，间接支撑美光、SK海力士HBM需求长期逻辑；AI主线持续主导美股科技估值，利好组合整体风险偏好。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Nvidia",
+        "NVDA",
+        "英伟达",
+        "AI infrastructure",
+        "GPU",
+        "BlackRock",
+        "Goldman Sachs"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "354e0022e5cc10bd",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "20:00",
+      "group": "个股",
+      "title": "腾讯Q2营收2048亿增11%，AI资本开支暴增176%至528亿，自由现金流转负",
+      "summary": "腾讯2026年Q2营收2047.9亿元同比+11%，Non-IFRS经营利润756.4亿元+9%。游戏659亿+11%，广告435.7亿+22%，云及金融科技602.9亿+9%。资本开支527.8亿元同比+176%（环比+65%），上半年合计超800亿，大幅加码AI算力采购，致使自由现金流转负。研发支出272.8亿+35%。",
+      "why": "主营增速稳健但AI资本开支骤增侵蚀现金流，分红/回购空间受压；绩后股价次日跌超4%，波动率短暂抬升，可关注sell put策略在支撑位附近的布局窗口；长期AI投入路径需持续跟踪。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "Q2财报",
+        "业绩",
+        "资本开支",
+        "AI",
+        "游戏"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/t/2026-08-12/doc-ininaezi3541809.shtml",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "eb8cc49f6d7b289a",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "20:30",
+      "group": "大盘头条",
+      "title": "关键CPI数据拉低美联储加息概率：美国7月CPI环比仅+0.1%，核心CPI同比2.5%",
+      "summary": "美国7月CPI环比仅+0.1%、同比3.4%；核心CPI环比+0.2%、同比2.5%，回到伊朗战争前水平。数据温和超市场预期，美联储9月加息概率进一步下降，美债收益率回落，市场押注加息时点推后至10月或12月。",
+      "why": "通胀降温叠加PPI和零售数据偏弱，9月15-16日FOMC加息概率降至约30%；有利于整体估值扩张，特别利好港股科技及美股高成长标的；sell put隐含波动率偏低，期权费收入相对缩减需留意。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "通胀",
+        "美联储",
+        "货币政策",
+        "加息"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260813/herald/e9a6a4c00304a57381cc8e74486f7e9c.html",
+      "published_date": "2026-08-13",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "eade79be6fa3ea28",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "US Retail Sales Fall 0.6% in July, Biggest Drop in Over a Year; Consumer Sentiment Slides to 51",
+      "summary": "US retail sales fell 0.6% m/m in July (vs. +0.1% consensus), the first decline in nine months and sharpest since May 2025. Motor vehicles -1.8%, e-commerce -2.2%. University of Michigan August consumer sentiment dropped to 51 preliminary, well below expectations. US stocks closed lower on Friday August 15 on combined economic concerns.",
+      "why": "美国消费走弱叠加信心下滑，Q3经济动能面临考验；9月联储加息预期进一步降温，对整体风险资产偏多；持仓WMT需关注零售消费疲软对下半年指引的影响；VIX可能在Jackson Hole前后升温。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "retail sales",
+        "consumer sentiment",
+        "US economy",
+        "Federal Reserve",
+        "Walmart"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-retail-sales-fall-by-most-in-more-than-a-year",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "83d88e72a53be9a0",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "US July CPI Cools to 3.4% Annual Rate, Matching Expectations",
+      "summary": "US July CPI rose 0.1% month-over-month; annual rate eased from 3.5% to 3.4%, both headline and core in line with Dow Jones consensus. Shelter costs rose 0.1%, energy fell 1.5%. Core CPI at 2.5% annualized.",
+      "why": "延续报道：通胀降温数据释出后9月加息概率一度跌至42%，随后8月14日零售和信心数据进一步压低至34%，构成本周最重要宏观叙事主线，影响期权定价与sell-put时间窗口判断。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "inflation",
+        "Federal Reserve",
+        "macro",
+        "US economy"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "a7cec2ad903ea3e5",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "20:30",
+      "group": "个股",
+      "title": "腾讯控股 2026 年第二季度业绩：营收 2048 亿元同比增 11% 超预期，净利润小幅增长未达预期，AI 资本开支飙升 176%，自由现金流 21 年来首转负",
+      "summary": "腾讯Q2营收2047.9亿元（+11% YoY，超预期2%），Non-IFRS净利润684亿元（+9%）；IFRS净利润560亿元仅增不足1%，较市场预期低约4%。国内游戏+17%、营销服务+22%。AI资本开支527.8亿元（+176% YoY），季度自由现金流-138亿元，为2005年以来首次转负。摩根士丹利随后下调目标价至550港元（原650），维持超配。",
+      "why": "利润端不及预期叠加FCF转负引发市场担忧；港股0700连续四个交易日下跌，拖累恒指录得逾一年最差单周表现。对持仓者：近期AI capex压制利润，covered call策略应关注波动率偏高窗口；sell-put执行价宜保留更大缓冲。",
+      "source": "腾讯 PR Newswire / CNBC",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "Q2 2026",
+        "业绩",
+        "AI资本开支",
+        "游戏",
+        "微信"
+      ],
+      "translated": false,
+      "url": "https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-second-quarter-results-302849608.html",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "4e72a77f7b052450",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Goldman's Kaplan Backs 'Kick-the-Can' Fed Caution on Rate Hikes",
+      "summary": "Goldman Sachs' Robert Kaplan endorsed the Fed's hold decision at the July 28-29 FOMC and urged policymakers to keep an open mind through September, citing a complex mix of inflationary and disinflationary pressures. Three FOMC members had dissented in favor of a hike (Hammack, Kashkari, Logan).",
+      "why": "高盛前达拉斯联储主席力挺暂停加息，与当日零售与信心数据共振，推动9月加息概率跌至34%；Fed会议纪要定于8月19日发布，持续发酵中。sell-put策略者短期内降息路径不明朗，维持对冲建议。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Federal Reserve",
+        "rate hike",
+        "Fed",
+        "Goldman Sachs",
+        "FOMC"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/goldman-s-kaplan-backs-kick-the-can-fed-caution-on-rate-hikes",
+      "published_date": "2026-08-13",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "dc79ebc23ffb1b8a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "U.S. Retail Sales Dropped 0.6% in July 2026, Biggest Monthly Decline Since May 2025",
+      "summary": "US July retail sales fell 0.6% month-over-month versus expectations of +0.1%, the largest monthly drop since May 2025. Motor vehicle dealers (-1.8%) and nonstore retailers (-2.2%) led the decline; year-over-year sales still up 5.0%.",
+      "why": "消费疲软数据当日直接压低美股（标普道指当日均收跌），凸显关税与通胀双重夹击对美国消费者的侵蚀；对 sell-put 策略者意味着市场波动率或边际走高，短端期权隐波需留意。",
+      "source": "Yahoo Finance / US Census Bureau",
+      "verified": true,
+      "keywords": [
+        "retail sales",
+        "consumer",
+        "US economy",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/economy/articles/u-retail-sales-dropped-0-124445798.html",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "a48fefb46c8cf33a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "US Consumer Sentiment Declines for First Time in Three Months, Drops to 51.0 in August",
+      "summary": "University of Michigan preliminary August Consumer Sentiment fell to 51.0 (est. 54.5, prior 55.2), ending a two-month recovery. Short-term business expectations slumped 11%, long-run outlook dropped 17%. Inflation expectations rose to 4.3%, with households citing Middle East conflict-driven energy prices.",
+      "why": "信心急跌叠加零售销售走弱，市场对美联储9月加息押注骤降至34%（上周约55%），整体降低市场加息预期，有利于持股但期权卖出者需注意波动率放大风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "consumer sentiment",
+        "Michigan",
+        "inflation",
+        "Fed",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-consumer-sentiment-declines-for-first-time-in-three-months",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "group": "大盘头条",
+      "title": "京东Q2营收同比下滑2.9%至3464亿元，港股当日跌逾8%拖累科技板块",
+      "summary": "京东（09618.HK）公布2026年Q2营收3,464亿元，同比下降2.9%，略高于预期；运营利润回正至45亿元。港股当日下跌约8.6%，京东物流跌13.69%，成为8月14日港股科技板块大幅走弱的主要导火索，恒生科技指数当日跌1.77%。",
+      "why": "京东营收下滑触发港股科技板块连锁卖压；持仓港股科技股受波及，需评估期权行权价安全边际；京东非持仓但对板块情绪有传导效应。",
+      "source": "JD.com 投资者关系 / GlobeNewswire",
+      "verified": true,
+      "keywords": [
+        "京东",
+        "JD.com",
+        "Q2",
+        "港股",
+        "科技板块",
+        "财报"
+      ],
+      "translated": false,
+      "url": "https://www.globenewswire.com/news-release/2026/08/13/3344310/0/en/jd-com-announces-second-quarter-and-interim-2026-results.html",
+      "published_date": "2026-08-13",
+      "still_developing": true,
+      "id": "16d739ab450a0811",
+      "is_new": false,
+      "first_seen": "2026-08-16 20:00 (北京时间)"
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "group": "大盘头条",
+      "title": "港股收评：恒指跌1.1%报25,116 科指跌1.77% 科网股普跌 全周累跌2.2%",
+      "summary": "8月14日恒生指数收报25,116.85点，跌279.66点（-1.10%）；恒生科技指数跌1.77%至4,707.62点；全日主板成交2,541亿港元。京东物流跌13.69%领跌科技板块，黄金股和消费板块逆势走强。全周恒指累跌约2.2%。",
+      "why": "恒指周内累跌2.2%，科技板块持续走弱；持仓港股整体承压，需关注是否影响期权行权价安全垫。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "科技股",
+        "收盘",
+        "HK"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-14/doc-ininhnxr9374974.shtml",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "id": "3a723fc546843c13",
+      "is_new": false,
+      "first_seen": "2026-08-16 20:00 (北京时间)"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "group": "个股",
+      "title": "Nvidia 13F: $21B SpaceX Stake and $30B Intel Position Disclosed; Total Equity Portfolio ~$51B",
+      "summary": "Nvidia Q2 13F filing revealed ~122.8M SpaceX Class A shares (~$21B, via xAI-SpaceX merger) and 214.8M Intel shares (~$30B from Dec 2025 private placement at $23.28/share). Also holds CoreWeave ($4.7B), Nokia ($2.2B), Synopsys ($2.1B). Total disclosed equity portfolio ~$51B.",
+      "why": "英伟达逾510亿美元股权投资组合规模惊人，SpaceX单一头寸集中度风险大；持有大量英特尔股份体现AI生态战略布局；Q2财报将于8月26日发布，这批披露增加了前瞻透明度。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Nvidia",
+        "英伟达",
+        "NVDA",
+        "SpaceX",
+        "Intel",
+        "13F",
+        "investment portfolio"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-has-21-billion-spacex-stake-30-billion-in-intel-shares",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "id": "d7b489a5a13f50db",
+      "is_new": false,
+      "first_seen": "2026-08-16 20:00 (北京时间)"
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "group": "大盘头条",
+      "title": "S&P 500 Second-Quarter Earnings Rose 31%, Beating Consensus by 8 Points",
+      "summary": "标普500指数二季度每股盈利同比增长31%，远超华尔街共识预期23%，大型科技股主导超预期表现；Super Micro Computer盘后大涨逾7.5%，指引远超预期。本轮财报季增速创近年新高。",
+      "why": "美股Q2财报季远超预期，支撑标普处于历史高位，有利于持仓股整体估值；期权卖方隐含波动率或随预期稳定而收敛。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "财报季",
+        "earnings",
+        "Q2",
+        "Big Tech"
+      ],
+      "translated": true,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/-outlier-s-p-500-earnings-strength-cheers-wall-street-s-bulls",
+      "published_date": "2026-08-15",
+      "still_developing": false,
+      "id": "4b381184f2474042",
+      "is_new": false,
+      "first_seen": "2026-08-16 20:00 (北京时间)"
+    },
+    {
+      "id": "8ac960ade239a4df",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "国家统计局：2026年7月CPI同比上涨0.5%，PPI同比上涨3.5%",
+      "summary": "7月全国CPI同比+0.5%（环比-0.1%），涨幅较上月回落0.5个百分点，主因汽油价格同比涨幅大幅收窄；PPI同比+3.5%（环比-0.7%），工业需求延续改善态势。暑期服务价格及AI驱动消费电子价格环比明显上涨。",
+      "why": "通胀数据温和，不构成额外加息压力；PPI维持正增长反映工业需求稳健；消费电子AI相关涨价对持仓中的科技消费标的（腾讯、小米等）属中性偏正面信号",
+      "source": "国家统计局",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "PPI",
+        "通胀",
+        "中国经济",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965008.html",
+      "published_date": "2026-08-09",
+      "still_developing": false,
+      "first_seen": "2026-08-10",
+      "is_new": false
+    },
+    {
+      "id": "04b824858f8e92a2",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:15",
+      "group": "大盘头条",
+      "title": "港股午盘：恒指涨0.72%报25853点，科网股活跃（阿里+2%、京东+1%），国泰君安国际私有化复牌涨超36%",
+      "summary": "8月10日午盘，恒生指数+0.72%报25853.69，恒生科技指数+0.37%，国企指数+0.66%。科网股普涨，生物医药板块强势（药明康德+3%）；半导体板块承压（天数智芯-8%）。国泰君安国际因私有化消息复牌跳涨逾36%。",
+      "why": "港股今日整体偏暖，科技权重股上行有助于持仓估值；半导体板块回调值得关注（与SK海力士相关ETF有间接敞口）。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "恒指",
+        "港股",
+        "科技股",
+        "HSI",
+        "Hang Seng"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-10/doc-inimuzxr8221088.shtml",
+      "published_date": "2026-08-10",
+      "still_developing": false,
+      "first_seen": "2026-08-10",
+      "is_new": false
+    },
+    {
+      "id": "6522f97742b3ccf5",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "A股上周三大指数全线收红：创业板涨6.55%创近半年最大周涨幅，PCB、半导体材料领涨",
+      "summary": "上周（8月3日—8月7日）A股强势反弹，上证指数周涨2.81%，深证成指周涨5.39%，创业板指周涨6.55%，为近半年最大单周涨幅。超跌反弹特征显著，PCB板块涨33.04%、半导体材料涨27.62%领涨。",
+      "why": "A股科技/成长赛道上周大幅反弹，与持仓主题高度吻合；本周美国CPI（8月12日）及腾讯财报是关键催化，需关注港股联动效应；创业板持续修复有助于改善持仓标的情绪面",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "创业板",
+        "半导体",
+        "PCB",
+        "周涨幅"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/y/2026-08-10/doc-inimuriv8273588.shtml",
+      "published_date": "2026-08-10",
+      "still_developing": false,
+      "first_seen": "2026-08-10",
+      "is_new": false
+    },
+    {
+      "id": "9837042508dedd43",
+      "tier": 2,
+      "lang": "zh",
+      "title": "对冲基金重返做空，科技与消费板块空头仓位创近期高位",
+      "summary": "华尔街见闻援引机构数据显示，对冲基金近期明显增加科技及消费类股空头头寸，空头仓位升至近期新高；分析人士认为市场情绪趋于谨慎，隐含波动率有走升风险。",
+      "url": "https://wallstreetcn.com/articles/3747499",
+      "source": "华尔街见闻",
+      "published_date": "2026-08-10",
+      "verified": false,
+      "first_seen": "2026-08-11",
+      "is_new": false,
+      "group": "大盘头条",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:30",
+      "why": "机构空头仓位回升反映市场对科技消费板块估值的谨慎情绪，隐含波动率有走升风险；持有sell put策略的核心消费/科技标的需适度收窄行权价安全边际。",
+      "keywords": [
+        "对冲基金",
+        "做空",
+        "波动率",
+        "市场情绪"
+      ],
+      "translated": false
+    },
+    {
+      "id": "62d5b94abadce0d1",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "SK Hynix Labor Talks Stall Over Stock-Based Bonus Dispute, Adding Operational Uncertainty",
+      "summary": "SK Hynix's labor-management negotiations broke down Monday after the company proposed paying annual performance bonuses partly in company stock, which the union rejected as dilution of cash pay. This comes as Samsung's HBM4 yield hits 80%, intensifying competitive pressure on SK Hynix's AI memory dominance.",
+      "why": "SK海力士劳资谈判破裂若升级为罢工或怠工，将直接威胁HBM4产能稳定性，加重英伟达Blackwell平台供应不确定性；结合三星HBM4竞争双重压力，7709.HK南方两倍做多ETF需关注下行风险，sell put执行价宜保守。",
+      "source": "Seoul Economic Daily",
+      "verified": false,
+      "keywords": [
+        "SK Hynix",
+        "SK海力士",
+        "HBM4",
+        "HBM",
+        "labor",
+        "memory",
+        "存储芯片",
+        "AI chip"
+      ],
+      "translated": false,
+      "url": "https://en.sedaily.com/finance/2026/08/10/sk-hynix-labor-talks-stall-over-paying-bonuses-in-company-stock",
+      "published_date": "2026-08-10",
+      "still_developing": false,
+      "first_seen": "2026-08-11",
+      "is_new": false
+    },
+    {
+      "id": "fbf2fe9531152447",
+      "tier": 2,
+      "lang": "zh",
+      "title": "美股周五下跌，费城半导体指数跌逾3%",
+      "summary": "受科技股与芯片股回调拖累，美股三大指数集体收跌，费城半导体指数单日跌幅超3%；英伟达、AMD等AI芯片龙头较高位回落，市场消化前期涨幅。",
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-08-11/doc-inimwuhv7728993.shtml",
+      "source": "新浪财经",
+      "published_date": "2026-08-11",
+      "verified": true,
+      "first_seen": "2026-08-11",
+      "is_new": false,
+      "group": "大盘头条",
+      "markets": [
+        "US"
+      ],
+      "time": "09:15",
+      "why": "半导体板块领跌显示AI硬件链短期获利了结压力增大，英伟达、美光、SK海力士等持仓关联标的估值或承压；建议观察本周科技股企稳信号后再考虑加仓sell put。",
+      "keywords": [
+        "美股",
+        "半导体",
+        "SOX",
+        "科技股"
+      ],
+      "translated": false
+    },
+    {
+      "id": "2a3b1b42135b514e",
+      "tier": 2,
+      "lang": "en",
+      "title": "腾讯音乐(TME) Q2业绩超预期：收入+18% YoY，付费用户+630万",
+      "summary": "腾讯音乐娱乐Q2营收同比增长18%，付费订阅用户净增630万至1.22亿；在线音乐收入占比提升，广告及社交娱乐业务亦保持增长，业绩好于市场一致预期。数据来源：SEC EDGAR 6-K文件。",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001744676/000095010326010575/dp249944_ex9901.htm",
+      "source": "SEC EDGAR",
+      "published_date": "2026-08-11",
+      "verified": true,
+      "first_seen": "2026-08-11",
+      "is_new": false,
+      "group": "个股",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "10:00",
+      "why": "腾讯生态内业务保持稳健增长，付费用户及收入双位数扩张，为腾讯广义生态价值提供正面印证；关注是否带动腾讯控股情绪修复。",
+      "keywords": [
+        "TME",
+        "腾讯音乐",
+        "业绩",
+        "Q2",
+        "0700.HK"
+      ],
+      "translated": false
+    },
+    {
+      "id": "75b4b36e577aa18e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "腾讯音乐(TME)今日发布Q2 2026业绩：分析师预期EPS $0.24，营收约13亿美元",
+      "summary": "腾讯音乐娱乐集团(TME)于今日(8月11日)美国股市开盘前发布Q2 2026未经审核财务业绩，分析师预期每股盈利$0.24，营收约12.99亿美元。管理层将于北京/香港时间晚7:00举行业绩电话会。TME Q2表现可为明日腾讯控股(0700.HK)Q2财报提供情绪参照。",
+      "why": "腾讯音乐是腾讯系旗下独立上市平台，Q2表现可对照腾讯增值服务板块走势；关注AI音乐功能（如曲目创作、歌词生成）的付费转化率及在线音乐订阅用户增长，此为判断腾讯娱乐生态AI变现能力的前导指标。",
+      "source": "Tencent Music官方IR",
+      "verified": true,
+      "keywords": [
+        "腾讯音乐",
+        "Tencent Music",
+        "TME",
+        "腾讯",
+        "Tencent"
+      ],
+      "translated": false,
+      "url": "https://ir.tencentmusic.com/2026-07-14-Tencent-Music-Entertainment-Group-to-Report-Second-Quarter-2026-Financial-Results-on-August-11,-2026",
+      "published_date": "2026-08-11",
+      "still_developing": false,
+      "first_seen": "2026-08-11",
+      "is_new": false
+    },
+    {
+      "id": "78637d4e2b5a9c01",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "title": "港股今日午评：腾讯业绩低开3.7%收HK$444，恒科+0.3%，光通信/半导体板块强势，黄金股下挫逾6%",
+      "summary": "恒生指数+0.07%报25457点，恒生科技+0.3%；腾讯(00700)受资本开支超预期拖累收跌3.7%至HK$444.4；联想+3%；中际旭创（光通信）+5%、天数智芯（半导体）+8%领涨；灵宝黄金等黄金股下挫超6%；Citi上调腾讯目标价至HK$765维持买入，Morgan Stanley下调至HK$550维持超配。",
+      "why": "腾讯今日跌幅超3.7%，若持有Sell Put仓位需评估行权价支撑是否有效；黄金股板块集体下挫对watchlist老铺黄金构成情绪压力，关注金价是否形成支撑；光通信/半导体板块强势印证AI基础设施需求叙事，对英伟达、SK海力士等标的持续利好。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "腾讯",
+        "老铺黄金",
+        "恒生科技",
+        "半导体",
+        "光通信"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-13/doc-inincxkw0078637.shtml",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-13",
+      "is_new": false,
+      "group": "大盘头条",
+      "_recovered_from": "abpjnj"
+    },
+    {
+      "id": "09992f7e8d3a6b1c",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "title": "泡泡玛特(9992.HK)将于8月25日发布2026年上半年业绩，Labubu持续性与IP多元化为市场焦点",
+      "summary": "泡泡玛特定于2026年8月25日（周一）发布2026年上半年财务业绩。2025全年营收¥371亿(+185% YoY)、净利润¥130亿(+293%)，发布后股价一度下跌约30%，目前距历史高峰已累计回落逾40%。市场聚焦：H1 2026收入增速能否延续75%-80%的Q1指引水平、海外市场是否弥补国内放缓，以及Sony Pictures合作Labubu电影项目的商业化时间表。",
+      "why": "9992为核心港股watchlist标的，业绩日（8月25日，距今12天）前后IV通常走高；股价距高位已大幅回撤，Sell Put溢价丰厚但需警惕业绩不及预期的尾部风险；建议在业绩前结合当前IV水平决定是否建仓及行权价选择。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "9992.HK",
+        "Labubu",
+        "盲盒",
+        "潮玩",
+        "业绩",
+        "隐含波动率"
+      ],
+      "translated": false,
+      "url": "https://www.futunn.com/stock/09992-HK/earnings",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-13",
+      "is_new": false,
+      "group": "个股",
+      "_recovered_from": "abpjnj"
+    },
+    {
+      "id": "09988a5f6d7b8c9e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "title": "阿里巴巴(9988.HK/BABA)业绩日确认为8月28日（前市），较早前部分信源预测的8月20日推迟",
+      "summary": "TipRanks最新数据（Confirmed标注）显示，阿里巴巴FY2027 Q1业绩（截至2026年6月30日季度）将于8月28日（周四）前市发布，部分早期信源曾报道为8月20日。前季阿里云外部商业收入增速加速至40%、AI产品ARR突破¥358亿，本季投资者将关注：淘天GMV趋势、拼多多/Temu竞争格局、云业务利润率及海外电商进展。",
+      "why": "阿里巴巴为watchlist核心双市场标的(HK/US)，业绩日（8月28日）确认令Sell Put时间窗口更清晰；阿里云AI商业化若持续超预期将推动估值重估，建议在发布前评估是否布局期权头寸并提前确认行权价安全边际。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "9988.HK",
+        "BABA",
+        "阿里云",
+        "通义千问",
+        "业绩"
+      ],
+      "translated": false,
+      "url": "https://www.futunn.com/stock/09988-HK/earnings",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-13",
+      "is_new": false,
+      "group": "个股",
+      "_recovered_from": "abpjnj"
+    },
+    {
+      "id": "f3c8a1b6e5490d72",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08月11日",
+      "title": "美联储Hammack鹰派：单次加息不够，或需多次升息；10年期美债收益率跳升13bp",
+      "summary": "克利夫兰联储主席Hammack（8月10-11日）表示，若要使通胀回归2%目标，单次25bp加息力度不足，可能需多次加息。7月FOMC会议已出现3票鹰派反对票（主张立即加息），为2016年以来最显著政策分歧。10年期美债收益率一度飙升13.4bp，5年期突破4%，美联储当前目标区间维持3.5%-3.75%。",
+      "why": "加息预期重燃将系统性压制高PE科技股（腾讯/谷歌/英伟达等）估值，利率上升也使sell put期权的delta-neutral基础漂移；若9月FOMC加息，高beta科技持仓需降低敞口或买入保护。",
+      "source": "证券时报",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/3693399.html",
+      "is_new": false,
+      "first_seen": "2026-08-14",
+      "_recovered_from": "sh0pzm"
+    },
+    {
+      "id": "c7f2e5a9b0481e3d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08月12日",
+      "title": "美国7月CPI同比3.4%符合预期，核心通胀2.5%，通胀二连降缓解加息紧迫性",
+      "summary": "美国劳工局8月12日公布：7月CPI同比3.4%（前值3.5%、符合市场预期），月环比+0.1%；核心CPI同比2.5%（前值2.6%）。住房通胀降至3.2%，食品通胀持平3%，能源冲击影响持续消退。下次CPI数据将于9月11日公布。",
+      "why": "通胀二连降符合预期，9月加息概率未显著上升，短期为港美科技股提供喘息空间；宏观背景有利于维持现有sell put仓位，但需结合Hammack鹰派信号综合判断。",
+      "source": "BLS（美国劳工局）",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bls.gov/cpi/",
+      "is_new": false,
+      "first_seen": "2026-08-14",
+      "_recovered_from": "sh0pzm"
+    },
+    {
+      "id": "a8b5d1f4c2730e96",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "昨 10:00",
+      "title": "TrendForce: Samsung & SK Hynix HBM4 Ramp Sets Up H2 Earnings Price Focal Point; ~$500/Stack",
+      "summary": "TrendForce (Aug 13) reports both Samsung and SK hynix are aggressively ramping HBM4 in H2 2026, with per-stack pricing estimated ~$500 (vs. HBM3E ~$17-18/GB), nearly doubling in cost per GB. HBM4 revenue is expected to account for over 60% of Samsung's total HBM sales in H2. SK hynix Q2 recorded 76% operating margin on 257% YoY revenue growth; H2 guidance for stronger performance.",
+      "why": "SK海力士HBM4量产提速将强化下半年财报预期，定价近翻倍有助于利润率扩张；利好相关南方两倍做多ETF持仓；同日SanDisk大涨验证AI存储赛道整体重估，可关注美光期权方向。",
+      "source": "TrendForce",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "HBM",
+        "HBM4",
+        "存储芯片",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://www.trendforce.com/news/2026/08/13/news-samsung-sk-hynixs-hbm4-push-puts-hbm-general-memory-pricing-in-the-spotlight-for-2h-earnings/",
+      "is_new": false,
+      "first_seen": "2026-08-14",
+      "_recovered_from": "sh0pzm"
+    },
+    {
+      "id": "d0e9c2f5a8174b63",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "昨 09:00",
+      "title": "Circle (CRCL) Stock +13% Since Federal Bank Charter; Q2 USDC Hits $73.3B, Revenue $701M",
+      "summary": "Circle secured OCC federal trust bank charter approval (effective Aug 5), becoming the first stablecoin issuer with a U.S. federal banking charter. Q2 2026: USDC in circulation $73.3B (+19% YoY), on-chain volume $14.8T (+151% YoY), total revenue $701M (+7% YoY). Stock is up ~13.1% since charter approval as of Aug 13. New Fed stablecoin oversight rules also took effect, with Circle positioned as the primary compliant issuer ahead of GENIUS Act's Jan 2027 enforcement.",
+      "why": "GENIUS Act监管框架明朗化，Circle联邦银行牌照强化USDC机构采用，稳定币赛道合规壁垒提高；利好CRCL持仓中长期逻辑，监管明朗后IV或压缩，可考虑sell put布局。",
+      "source": "Circle IR",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "USDC",
+        "stablecoin",
+        "稳定币",
+        "GENIUS Act"
+      ],
+      "translated": false,
+      "url": "https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results",
+      "is_new": false,
+      "first_seen": "2026-08-14",
+      "_recovered_from": "sh0pzm"
+    },
+    {
+      "id": "a1c6e3f8b4250d79",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08月10日",
+      "title": "Micron at KeyBanc Forum: All 2026 HBM Supply Sold Out; HBM4 for Nvidia Vera Rubin Ramping 2x Faster Than HBM3E",
+      "summary": "Micron (MU) at KeyBanc Tech Leadership Forum (Aug 10): entire calendar 2026 HBM supply is under price/volume agreements; HBM4 shipments for Nvidia's Vera Rubin GPU platform began March 2026, ramping at ~2x the pace of HBM3E 12-high with yields ahead of expectations. Micron noted AI systems still need substantial DRAM alongside NAND, and expects supply-demand tightness well into 2027.",
+      "why": "美光2026年HBM全部锁单，定价权强、利润率有保障；HBM4向Vera Rubin加速发货是关键正向催化；结合今日SanDisk大涨，存储板块整体重估确认——利好美光持仓中长期逻辑。",
+      "source": "Micron IR",
+      "verified": true,
+      "keywords": [
+        "美光",
+        "HBM",
+        "DRAM",
+        "存储芯片",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://investors.micron.com/news-releases/news-release-details/micron-technology-inc-reports-record-results-third-quarter",
+      "is_new": false,
+      "first_seen": "2026-08-14",
+      "_recovered_from": "sh0pzm"
+    },
+    {
+      "id": "c5a3e7f9b2d81063",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Google Gemini Hits 1 Billion Monthly Active Users — Fastest-Growing Product in Company's 28-Year History",
+      "summary": "Alphabet CEO Sundar Pichai announced on Aug 11 that Google's Gemini AI assistant has reached 1 billion monthly active users, making it the fastest-growing product to hit the milestone in the company's 28-year history. Gemini launched in December 2023, surpassed 100M MAU within months, and reached 1B MAU approximately 20 months after launch, outpacing Gmail and YouTube's early adoption curves.",
+      "why": "Gemini用户规模飞速扩张，为谷歌广告+AI订阅变现开辟新增量；与Google Cloud及Workspace AI整合协同，短期修复谷歌AI竞争力形象（此前因Hassabis人事变动出现负面新闻）；GOOGL sell put策略在情绪修复窗口内风险-收益比改善。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "谷歌",
+        "Google",
+        "Gemini",
+        "Alphabet",
+        "GOOGL",
+        "MAU",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/11/google-gemini-1-billion-monthly-active-users.html",
+      "published_date": "2026-08-11",
+      "still_developing": false,
+      "first_seen": "2026-08-14",
+      "is_new": false,
+      "_recovered_from": "1s4an6"
+    },
+    {
+      "id": "a5f3c7e9b2d81042",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "22:00",
+      "group": "个股",
+      "title": "SanDisk 2026 Investor Day: 9th-Gen 2TB QLC 3D NAND With Kioxia; SNDK +12%, MU +4.2%, SK Hynix +7%",
+      "summary": "At SanDisk's 2026 Investor Day (Aug 13), the company unveiled its 9th-generation 2TB QLC 3D NAND flash chip jointly developed with Kioxia — the world's highest-capacity single NAND die — targeting AI inference storage. SanDisk also raised FY2027 revenue guidance above prior estimates. The announcements triggered a broad storage sector rally: SNDK +12%+, Western Digital +8%, Micron (MU) +4.2%, SK Hynix ADR +7%.",
+      "why": "闪迪（直接持仓SNDK）单日+12%+，9代QLC NAND联合Kioxia开发印证AI推理存储市场份额争夺提前。带动美光(MU)与SK海力士同步走强，存储超级周期叙事重新强化；持有SNDK covered call者需评估行权价是否需要上调；MU/SK Hynix期权Delta重新评估，今日板块整体偏强。",
+      "source": "SanDisk IR",
+      "verified": true,
+      "keywords": [
+        "闪迪",
+        "SanDisk",
+        "SNDK",
+        "NAND",
+        "Kioxia",
+        "存储",
+        "AI存储"
+      ],
+      "translated": false,
+      "url": "https://investor.sandisk.com/news-events/news-releases/news-release-details/sandisk-investor-day-2026-highlights",
+      "published_date": "2026-08-13",
+      "still_developing": false,
+      "first_seen": "2026-08-14",
+      "is_new": false,
+      "_recovered_from": "1s4an6"
+    },
+    {
+      "id": "2e8c4d9b7f3a1056",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "个股",
+      "title": "小米(1810.HK)连续两日回购：8月12日买入189.8万股耗HK$4989万，13日再购190万股HK$4990万",
+      "summary": "小米集团（1810.HK）根据港交所信息披露，于8月12日在公开市场回购1,898,000股，成交价格区间约HK$26.28–26.30/股，合计耗资约HK$4,989万；8月13日再度回购1,900,000股，耗资约HK$4,990万。两日合计回购约380万股，耗资近HK$1亿，均价约HK$26.3港元。小米今年已累计回购逾3亿股股份。",
+      "why": "小米连续回购释放管理层对当前股价的明确信心信号；回购支撑EPS增厚，对持有1810.HK sell put策略属正面护盘因素；股价约26港元附近若有月度汽车交付数据催化（预计月底），可评估是否加仓sell put。",
+      "source": "HKEXnews",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "回购",
+        "buyback",
+        "港交所"
+      ],
+      "translated": false,
+      "url": "https://www.hkexnews.hk/sdw/search/result.aspx?t=A&co=01810",
+      "published_date": "2026-08-13",
+      "still_developing": false,
+      "first_seen": "2026-08-14",
+      "is_new": false,
+      "_recovered_from": "1s4an6"
+    },
+    {
+      "id": "d2b8f1e5c9a73046",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "22:30",
+      "group": "大盘头条",
+      "title": "Memory Sector Surges Aug 13: MU +4.2%, SK Hynix ADR +7%, WDC +8% on SanDisk Investor Day Catalyst",
+      "summary": "The memory and storage sector staged a broad rally on Aug 13 following SanDisk's Investor Day announcements: Micron (MU) gained +4.2%, SK Hynix ADR +7%+, Western Digital (WDC) +8%, and SanDisk (SNDK) +12%+. The Philadelphia Semiconductor Index (SOX) rose +2.07%. The rally reversed much of the sector's Aug 7 selloff driven by WD/SanDisk guidance concerns, re-validating the AI-driven NAND storage demand super-cycle thesis.",
+      "why": "存储板块全面反弹印证AI推理/训练侧NAND需求仍处超级周期，直接利好闪迪(SNDK)、美光(MU)持仓和SK海力士相关ETF；费城半导体指数+2%以上信号良好，sell put者可确认行权价安全边际仍充足。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "SK海力士",
+        "SK Hynix",
+        "闪迪",
+        "SanDisk",
+        "NAND",
+        "存储"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/13/stock-market-today-memory-chips-storage-rally.html",
+      "published_date": "2026-08-13",
+      "still_developing": false,
+      "first_seen": "2026-08-14",
+      "is_new": false,
+      "_recovered_from": "1s4an6"
+    },
+    {
+      "id": "5d8052b1347aabc6",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "A"
+      ],
+      "time": "2026-08-10",
+      "group": "大盘头条",
+      "title": "Unitree Robotics IPO 5,526x oversubscribed; Shanghai STAR Market listing week of Aug 17",
+      "summary": "Unitree's Shanghai STAR Market IPO retail tranche was subscribed 5,526x, with 9.8M orders totalling 8.1T yuan ($1.2T). IPO priced at 150.8 yuan/share; raised $900M at ~$9B valuation. DeepSeek is a strategic investor. One of the most oversubscribed IPOs in China's history.",
+      "why": "Record IPO subscription signals peak retail frenzy for AI/robotics in China A-shares; thematic read-through for 小米 (robotics/AI hardware) and AI capex narrative supporting 英伟达, 英特尔.",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "英伟达",
+        "NVDA"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/unitree-s-shanghai-ipo-5-526-times-subscribed-by-retail-buyers",
+      "published_date": "2026-08-10",
+      "still_developing": true,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "901b52ed6cb3586a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-08-10",
+      "group": "个股",
+      "title": "Intel upsizes stock offering to $20B at $95/share; demand exceeded $100B",
+      "summary": "Intel upsized its equity offering from $15B to $20B at $95/share on Aug 10 after the order book exceeded $100B, signalling strong investor appetite for AI foundry capacity. Proceeds fund AI-oriented manufacturing expansion.",
+      "why": "Intel (INTC) is directly tracked. Large dilutive offering (~$20B) pressures near-term EPS but validates massive AI foundry demand; monitor sell-put strike exposure and delta at current INTC levels.",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英特尔",
+        "Intel",
+        "INTC"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+      "published_date": "2026-08-10",
+      "still_developing": true,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "6ee43bb37980c9ef",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "2026-08-13",
+      "group": "大盘头条",
+      "title": "JD.com Q2: first revenue decline since 2014 IPO as China consumer demand weakens",
+      "summary": "JD.com Q2 2026: net revenue RMB346.4B (-2.9% YoY), the company's first quarterly revenue decline since listing in 2014. Operating income turned positive to RMB4.5B (vs. RMB-0.9B in Q2-2025) after throttling the food-delivery price war. Profit beat estimates.",
+      "why": "JD's first revenue contraction flags broad China consumer weakness — direct read-through for tracked e-commerce and consumer peers 阿里巴巴 (BABA), 美团 (3690.HK), 拼多多 (PDD).",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "美团",
+        "Meituan",
+        "拼多多",
+        "PDD"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/jd-com-profit-beats-estimates-after-food-delivery-fight-calms",
+      "published_date": "2026-08-13",
+      "still_developing": false,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "7ed2672e78b916e7",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "2026-08-13",
+      "group": "大盘头条",
+      "title": "SMIC Q2 revenue crosses $3B for first time; net profit +262% YoY",
+      "summary": "SMIC Q2 2026 (per HKEXnews filing 2026081300353): revenue +36% YoY to $3.0B, first quarter above $3B; gross margin 25.3%; net profit +262% YoY to $479M. AI chip demand and domestic substitution drove results amid continued US export restrictions.",
+      "why": "SMIC's landmark quarter validates China domestic chip demand cycle — bullish signal for semiconductor sector and thematic read-through for 美光 (MU), 英伟达 (NVDA), AI supply-chain positioning.",
+      "source": "HKEXnews",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "NVDA",
+        "美光",
+        "Micron",
+        "英特尔",
+        "Intel"
+      ],
+      "translated": false,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0813/2026081300353.pdf",
+      "published_date": "2026-08-13",
+      "still_developing": false,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "bf36a96d9b74bd4d",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "Walmart to Host Q2 FY27 Earnings Call August 20; Analysts See EPS $0.74 (+8.8% YoY), Revenue $186.8B; Beat-and-Raise Expected",
+      "summary": "Walmart (WMT) scheduled Q2 FY27 earnings conference call for August 20, 2026 (5 days away). Wall Street consensus: EPS $0.74 vs. $0.68 prior year; revenue $186.8B. 29 of 39 analysts rate Strong Buy; implied options swing ~4.6% around print. Global e-commerce +26% and ad revenue +37% drove Q1 FY27.",
+      "why": "沃尔玛财报5天后发布，财报前期权隐含波动率可能抬升，是Sell Put策略的潜在操作窗口；若业绩再次超预期+上调指引，WMT短期可能反应向上，有助于期权获利平仓。",
+      "source": "BusinessWire (Official Press Release)",
+      "verified": true,
+      "keywords": [
+        "沃尔玛",
+        "Walmart",
+        "WMT",
+        "earnings",
+        "财报",
+        "Q2 2026"
+      ],
+      "translated": false,
+      "url": "https://www.businesswire.com/news/home/20260813544922/en/Walmart-To-Host-Second-Quarter-Earnings-Conference-Call-August-20-2026",
+      "published_date": "2026-08-13",
+      "still_developing": false,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "f0ca4dd7cb498735",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Micron Extends AI-Fueled Monthly Rally; 2026 HBM Sold Out, Tightness Extends to 2027+; Analysts Cluster Near $1,500+ Targets",
+      "summary": "MU advanced ~1.2% to $961.51 on Aug 14 (month-long +12% rally). Management: 2026 HBM supply entirely sold out under fixed-price contracts; conditions 'very tight' through 2027+. Analyst consensus targets ~$1,537–1,625 (UBS $1,625, BofA $1,550, New Street Research $1,250). KeyBanc sees DRAM prices +15-20% in Q3.",
+      "why": "美光HBM全年售罄且供给紧张延伸至2027+，内存超级周期叙事持续强化；分析师目标价普遍在$1,250-$1,625，当前约$960提供较大上行空间；期权Sell Put可考虑在利好持续的情况下适时建仓。",
+      "source": "Yahoo Finance",
+      "verified": false,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "HBM",
+        "DRAM",
+        "存储芯片",
+        "analyst"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/news/analysts-stay-bullish-micron-technology-094553939.html",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "cc7a2d2cf2d9d9ab",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Gold Holds Above $4,400 on Aug 14 as Softening CPI/PPI Data Dim Fed Tightening Expectations",
+      "summary": "Gold December futures near $4,408/oz on Aug 14, with spot ~$4,371–4,408, holding above $4,400 as back-to-back CPI/PPI prints reduce near-term Fed rate-hike premium. Core producer prices rose less than expected. Market closed Aug 15–16. Geopolitical safe-haven demand also supportive.",
+      "why": "金价稳守$4,400直接利好老铺黄金（6181.HK）；古法金首饰高端溢价与金价正相关；通胀降温+Fed按兵不动叙事若维持，黄金中长期走势偏强，支撑老铺黄金估值逻辑。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "黄金",
+        "gold",
+        "老铺黄金",
+        "6181.HK",
+        "Laopu Gold",
+        "金价",
+        "贵金属"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/select/the-price-of-gold-today-august-14-2026/",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "26293ccd0b9c001a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "Manus宣布恢复独立运营，腾讯等股东以20亿美元估值从Meta购回，目标港股上市",
+      "summary": "AI Agent公司Manus于8月11日宣布恢复独立公司运营。腾讯、真格基金、红杉中国等原股东以20亿美元估值向Meta购回Manus股份。中国发改委4月叫停Meta收购，系外商投资安全审查以来首个公开叫停的AI领域外资并购案。Manus未来目标赴港上市。",
+      "why": "腾讯作为最大股东获Manus通用AI Agent技术，接入微信/腾讯云生态想象空间大；中国监管明确保护AI战略资产不被外资并购，国内AI生态估值逻辑强化；Manus IPO预期为腾讯提供中期催化剂。",
+      "source": "财新",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Manus",
+        "AI Agent",
+        "外商投资",
+        "外资并购",
+        "Meta",
+        "港股上市"
+      ],
+      "translated": false,
+      "url": "https://companies.caixin.com/m/2026-08-12/102473269.html",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "61d0a496aab3ef0d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "20:30",
+      "group": "大盘头条",
+      "title": "美国7月PPI同比4.7%低于预期、环比持平，9月加息压力进一步减轻",
+      "summary": "美国7月生产者价格指数同比4.7%（预期4.9%），环比持平（预期+0.2%）。数据公布后美债收益率回落，市场加息预期继续降温。结合前日CPI数据，连续两项通胀指标均低于预期，交易员将加息时点主要押注推至10月或12月。",
+      "why": "上游通胀降温确认CPI趋势，联储9月暂停加息概率上升；Jackson Hole（8月27-29日）Warsh首次演讲前，市场整体风险偏好边际改善；VIX维持低位约14，做空波动率获利空间有限。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "PPI",
+        "通胀",
+        "美联储",
+        "货币政策",
+        "Jackson Hole"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-inineuqi3302848.shtml",
+      "published_date": "2026-08-13",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "4718415ae2721a1c",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股科网股集体调整，恒指跌1.1%、恒科指跌1.77%，腾讯绩后跌超4%，MiniMax大跌12%",
+      "summary": "8月14日港股收盘，恒生指数下跌1.1%，恒生科技指数跌1.77%。腾讯Q2财报发布后次交易日股价跌超4%；科网股全线承压：京东跌超10%，美团跌超4%，阿里跌超1.6%；AI独角兽MiniMax跌超12%。黄金股与消费板块逆势走强。",
+      "why": "腾讯资本开支大增176%触发科网板块估值重审；叠加美股外围弱势（消费数据拖累），港股科技持仓短期承压；短期波动率提升或为sell put仓位加仓机会，但需确认科网基本面未恶化。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "恒生科技",
+        "科网股",
+        "腾讯",
+        "京东",
+        "美团"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhnxp2874803.shtml",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "381fe88106d98507",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "中国人民银行Q2货币政策报告：谋划推出增量政策、加大逆周期调节，继续适度宽松",
+      "summary": "中国人民银行8月12日发布2026年第二季度货币政策执行报告，明确继续实施适度宽松货币政策，提出谋划推出增量政策、加大逆周期调节力度、加力扩大内需，并逐步增加隔夜逆回购操作频率。人民币汇率上半年对一篮子货币小幅升值，维持合理均衡基本稳定。",
+      "why": "PBOC明确推增量宽松政策，为A股/港股提供额外流动性预期支撑；逆周期调节信号有助于稳定市场信心；人民币稳定降低汇率对港股持仓的冲击；中美货币政策均偏宽松方向，对估值整体正面。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "央行",
+        "货币政策",
+        "人民币",
+        "流动性",
+        "逆周期",
+        "增量政策"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininffec3163744.shtml",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "23d3764e59e174f3",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "美团「等灯停表」功能 8 月 13 日在北京正式试点，骑手等红灯时间不计入配送考核，预计年内覆盖逾百万骑手",
+      "summary": "美团在北京朝阳区、通州区等区域正式路测「等灯停表」功能：骑手等红灯时系统显示「红灯暂停」并顺延配送时间，功能完善后将逐步推向超百万骑手；淘宝闪购、京东外卖同日在京落地同类措施。",
+      "why": "三平台协同推进骑手权益保护，政策层面监管善意信号明确，有助于改善美团在劳动合规方面的声誉风险与监管预期，中长期对估值偏正面；Keeta国际化扩张亦在同步推进（已进入沙特、巴西等市场）。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "骑手",
+        "等灯停表",
+        "劳工",
+        "外卖"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininecss3289171.shtml",
+      "published_date": "2026-08-13",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "id": "f2c82f090f6d810c",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "S&P 500 Slips from Record High on Weak Data but Posts Third Straight Weekly Gain",
+      "summary": "S&P 500 fell 13.23 pts to 7,785.76 on Friday after weak retail sales and Michigan confidence data, but capped a third consecutive weekly gain. The index had reached an intraday record high of 7,800+ on Thursday. Dow and Nasdaq also finished lower on Friday. World shares broadly fell on the data.",
+      "why": "大盘在创历史高位后因消费数据回落，本周三连阳，加息预期下降有助于科技成长股估值，但宏观走弱信号对持仓偏消费的港股拖累更直接；短期covered call策略隐波收益或有限。",
+      "source": "Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "stock market",
+        "weekly gain",
+        "US market",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+      "published_date": "2026-08-14",
+      "still_developing": false,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "group": "个股",
+      "title": "Google Pixel 11 Puts Gemini AI at Center of Battle With Apple; On Sale Aug 20",
+      "summary": "Google unveiled Pixel 11 lineup with deep Gemini integration: autonomous task execution, live translation, Rambler voice input, Tensor G6 chip, 7-year software support. Priced $899-$1,900, available August 20. CNBC frames this as Google's direct answer to Apple Intelligence.",
+      "why": "Pixel 11是谷歌以Gemini对标Apple Intelligence的核心举措，验证AI硬件商业化路径；8月20日上市后销售数据将成下一个催化剂；与广告/搜索协同效应值得关注。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Google",
+        "谷歌",
+        "GOOGL",
+        "Gemini",
+        "Pixel 11",
+        "AI phone",
+        "Apple"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "id": "aac30a6bb8badaa3",
+      "is_new": false,
+      "first_seen": "2026-08-16 20:00 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "group": "大盘头条",
+      "title": "SEC Cancels Crypto Regulation Meeting; Clarity Act Stalled in Congress",
+      "summary": "The SEC abruptly canceled a Friday meeting expected to unveil new crypto market structure plans. The Clarity Act legislation remains stuck in Congress. The agency is preparing an innovation exemption for digital-security trading that could enable 24/7 blockchain-based equity token trading.",
+      "why": "SEC推迟加密监管落地，稳定币立法（GENIUS Act/Clarity Act）进展不确定；Circle（CRCL）等稳定币相关持仓面临监管不确定性，可能抑制估值重估催化剂。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "SEC",
+        "crypto",
+        "Clarity Act",
+        "stablecoin",
+        "Circle",
+        "CRCL",
+        "regulation"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/sec-delays-crypto-regulation-meeting-in-latest-industry-setback",
+      "published_date": "2026-08-13",
+      "still_developing": true,
+      "id": "182db74458421b8b",
+      "is_new": false,
+      "first_seen": "2026-08-16 20:00 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "group": "大盘头条",
+      "title": "S&P 500 Posts Third Straight Weekly Gain Despite Friday Dip; Intraday ATH 7,816",
+      "summary": "S&P 500 Friday close -0.2% at 7,785.76; Nasdaq -0.3%; Dow -107 pts. Third consecutive weekly gain, longest winning streak since May. Intraday all-time high 7,816.70 set earlier in week.",
+      "why": "美股连续三周上涨，指数处于历史高位；市场情绪稳健，有利于卖出看跌期权收取期权金。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "Nasdaq",
+        "weekly gain",
+        "ATH",
+        "market"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+      "published_date": "2026-08-15",
+      "still_developing": false,
+      "id": "7b734a6c79ed0d5f",
+      "is_new": false,
+      "first_seen": "2026-08-16 20:00 (北京时间)"
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "group": "大盘头条",
+      "title": "Bond Traders Warn $70B in AI 'Shadow Credit' Backstops From Nvidia and Broadcom Pose Systemic Risk",
+      "summary": "Bloomberg investigates ~$70B in residual-value guarantees that Nvidia and Broadcom have issued to AI borrowers off-balance-sheet. These contingent liabilities could crystallize in stress scenarios, creating systemic risk invisible to bond investors. Nvidia's backstop model lets AI customers borrow cheaply against GPU infrastructure but shifts tail risk to the chip maker.",
+      "why": "英伟达的表外担保敞口引发债市关注；若AI资本开支周期转向，英伟达或需兑现隐性担保，影响信用评级与股价估值；这是NVDA期权策略需纳入的尾部风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Nvidia",
+        "英伟达",
+        "NVDA",
+        "AI",
+        "credit risk",
+        "shadow credit",
+        "Broadcom"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
+      "published_date": "2026-08-15",
+      "still_developing": false,
+      "id": "c5bd7cddedd619c3",
+      "is_new": false,
+      "first_seen": "2026-08-16 20:00 (北京时间)"
+    },
+    {
+      "id": "289246f3c4d5e6b0",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "title": "A股今日收评：沪指跌0.5%报3926点，三大指数集体下挫，创新药板块走强，贵金属板块走弱",
+      "summary": "8月13日A股三大指数集体收跌：沪指-0.5%报3926.96点，深成指-0.87%，创业板指-0.45%；创新药（万邦医药等）、证券板块逆势上涨；贵金属板块受金价回调拖累明显走弱，与港股黄金股下挫形成共振。",
+      "why": "A股贵金属板块走弱与港股黄金股集体下挫形成共振，对watchlist老铺黄金（以黄金珠宝为核心）情绪面构成短期压制；整体风险偏好偏弱，关注是否影响港股消费/科技赛道估值，尤其在美国CPI超预期后的市场情绪切换中。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "贵金属",
+        "老铺黄金",
+        "金价",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-08-13/doc-ininchpe0289246.shtml",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-13",
+      "is_new": false,
+      "group": "大盘头条",
+      "_recovered_from": "abpjnj"
+    },
+    {
+      "id": "f6b9d2e5a0384c17",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "昨 21:00",
+      "title": "Walmart to Report Q2 FY2027 Earnings Aug 20; Analyst Sees Beat-and-Raise Potential",
+      "summary": "Walmart (WMT) will report Q2 FY27 results Aug 20 pre-market. Company guidance: net sales +4-5% constant currency, adj EPS $0.72-0.74. BofA analyst expects Walmart to return to beat-and-raise cycle; global ad revenue +36% and Marketplace sales +50% in Q1. Tariff cost comparisons should ease Y/Y. Conference call at 7 a.m. CDT.",
+      "why": "山姆会员店业绩反映高端消费景气度，对蜜雪冰城/好市多消费赛道有参考价值；关注沃尔玛关税转嫁能力与山姆增长速度，有助于评估消费类持仓中期走势。",
+      "source": "Walmart IR",
+      "verified": true,
+      "keywords": [
+        "沃尔玛",
+        "零售"
+      ],
+      "translated": false,
+      "url": "https://stock.walmart.com/financial-information/financial-results",
+      "is_new": false,
+      "first_seen": "2026-08-14",
+      "_recovered_from": "sh0pzm"
+    },
+    {
+      "id": "c4e7a0b3f6191e82",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08月14日",
+      "title": "拼多多8月25日发布Q2财报，Temu关税冲击下净利润或继续大幅下滑",
+      "summary": "PDD Holdings预计于8月25日发布2026年Q2财报。Q1归母净利147亿元同比下滑47%；美国已取消800美元以下小包裹免税（de minimis）政策，Temu海外合规成本激增，价格优势受侵蚀。市场关注管理层是否下调2026全年指引及Temu的利润率路径。",
+      "why": "Q2业绩若继续大幅下滑或下调指引，将引发PDD股价急跌；需在8月25日前评估持仓delta风险，可考虑提前减仓或买入保护；同时关注跨境电商赛道关税量化披露，影响Temu出海逻辑。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "拼多多",
+        "Temu",
+        "跨境电商"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/y/2026-08-14/doc-ininfrty2772144.shtml",
+      "is_new": false,
+      "first_seen": "2026-08-14",
+      "_recovered_from": "sh0pzm"
+    },
+    {
+      "id": "f1a9c3d7e5b82047",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Walmart to Report Q2 FY2027 Earnings August 20 Before Market Open",
+      "summary": "Walmart (WMT) announced it will report fiscal Q2 2027 (quarter ended July 31, 2026) results before the U.S. market opens on August 20. President and CEO John Furner and CFO John David Rainey will host a conference call at 8:00 a.m. ET. Analyst consensus expects EPS of ~$0.72 (+7% YoY) and revenue of ~$174B. Sam's Club membership metrics will be a key focus.",
+      "why": "沃尔玛是消费赛道核心观测标的，Q2财报将反映美国消费者支出韧性与通胀应对；Sam's Club（与好市多竞争）会员数据是潜在惊喜来源；若数据超预期，或利好零售/消费板块整体情绪。",
+      "source": "Walmart IR",
+      "verified": true,
+      "keywords": [
+        "沃尔玛",
+        "Walmart",
+        "WMT",
+        "Q2",
+        "季报",
+        "消费"
+      ],
+      "translated": false,
+      "url": "https://stock.walmart.com/news-releases/news-release-details/walmart-reports-second-quarter-fiscal-2027-results",
+      "published_date": "2026-08-13",
+      "still_developing": false,
+      "first_seen": "2026-08-14",
+      "is_new": false,
+      "_recovered_from": "1s4an6"
+    },
+    {
+      "id": "6d3c8f1b9a2e5074",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "拼多多(PDD) Q2 2026业绩预期约8月下旬发布；分析师聚焦Temu出海改善与国内竞争",
+      "summary": "拼多多（PDD）Q2 2026财报预计于8月25–31日前后发布，具体日期尚未官方公告。Q1 2026实际EPS $1.38远低于分析师预期$2.40，主因Temu持续亏损及国内竞争加剧。分析师预期Q2将有所改善，Temu出海若出现亏损收窄或盈亏平衡信号将是最关键催化剂；国内百亿补贴及商业化变现力度亦受关注。",
+      "why": "拼多多是持仓关注标的，Q1超级大幅miss后Q2改善幅度决定估值修复空间；若Q2仍大幅低于预期，PDD sell put仓位行权风险上升，需提前关注隐含波动率变化。",
+      "source": "Seeking Alpha",
+      "verified": false,
+      "keywords": [
+        "拼多多",
+        "PDD",
+        "Temu",
+        "Q2",
+        "季报"
+      ],
+      "translated": false,
+      "url": "https://seekingalpha.com/symbol/PDD/earnings",
+      "published_date": "2026-08-14",
+      "still_developing": true,
+      "first_seen": "2026-08-14",
+      "is_new": false,
+      "_recovered_from": "1s4an6"
+    },
+    {
+      "id": "cc9e7f6559b662c5",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "小米集团HKEX公告：8月12日回购190万股B类股份，耗资HK$4,990万",
+      "summary": "香港交易所披露，小米集团（1810.HK）于2026年8月12日回购190万股B类股份，总耗资约4,990万港元。本次回购为公司HK$200亿自动回购计划的一部分，执行持续稳定。",
+      "why": "延续报道：小米持续执行HK$200亿回购计划，管理层通过回购彰显对YU7销量与长期价值的信心；回购对股价构成底部支撑，有助于降低Sell Put期权的下行风险。",
+      "source": "Reuters via HKEX",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "回购",
+        "buyback",
+        "HKEX"
+      ],
+      "translated": false,
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44907W:0-xiaomi-bought-back-1-9-mln-type-b-shares-for-hk-49-9-mln-on-aug-12-hkex-filing-shows/",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "067c986d84b48dd2",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "小米集团-W(01810.HK)8 月 12 日耗资约 4989 万港元回购 189.8 万股",
+      "summary": "小米集团于8月12日以每股26.26至26.34港元区间回购189.8万股，合计耗资约4989万港元，延续近期持续回购计划。同日小米澎湃OS 4正式开启Beta测试，完成10年MIUI遗留代码清零，代码量从8000万行压缩至约4000万行。",
+      "why": "回购彰显管理层对股价信心，配合澎湃OS 4发布（底层重构、液态玻璃UI、内置端侧AI大模型），是典型的「产品+股东回报」双催化时点。持仓者可关注波动率变化；sell-put可酌情降低行权价保护缓冲。",
+      "source": "富途牛牛 moomoo",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "回购",
+        "澎湃OS",
+        "SU7",
+        "YU7"
+      ],
+      "translated": false,
+      "url": "https://www.moomoo.com/news/post/74556444",
+      "published_date": "2026-08-12",
+      "still_developing": true,
+      "first_seen": "2026-08-16",
+      "is_new": false
+    },
+    {
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "group": "个股",
+      "title": "Tesla FSD Outperforms Rivian Autonomy+ in 200-Mile Head-to-Head Real-World Test",
+      "summary": "CNBC real-world test across 200 miles in Michigan: Tesla FSD autonomously handled traffic lights, interchanges, highway exits. Rivian Autonomy+ recognized them but handed control to driver. Rivian expects full point-to-point capability by end 2026.",
+      "why": "FSD实测领先巩固特斯拉自动驾驶护城河；FSD商业化进展是TSLA估值重估的核心驱动因素，也影响期权隐含波动率水平。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Tesla",
+        "特斯拉",
+        "TSLA",
+        "FSD",
+        "自动驾驶",
+        "Rivian",
+        "autonomous"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+      "published_date": "2026-08-15",
+      "still_developing": false,
+      "id": "75dba6b6e44cc3f8",
+      "is_new": false,
+      "first_seen": "2026-08-16 20:00 (北京时间)"
+    },
+    {
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "group": "个股",
+      "title": "小米手机15周年：总裁卢伟冰宣示下一章全面拥抱AI，H1业绩将于8月18日公布",
+      "summary": "小米集团总裁卢伟冰发文纪念小米手机15周年，感谢米粉，宣告未来全面布局AI。小米H1 2026业绩董事会会议定于8月18日召开，小米全系车型（含两款全新EREV）将亮相成都车展（8月21-30日）。",
+      "why": "里程碑软新闻；H1财报即将于8月18日发布是关键催化剂；AI战略定调与成都车展新车曝光均有助于估值重估预期，需关注汽车业务盈亏平衡时间表。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "AI",
+        "卢伟冰",
+        "H1业绩",
+        "小米汽车",
+        "成都车展"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininnqpr1516841.shtml",
+      "published_date": "2026-08-16",
+      "still_developing": false,
+      "id": "a93f189368b2a27b",
+      "is_new": false,
+      "first_seen": "2026-08-16 20:00 (北京时间)"
+    }
+  ]
+}
