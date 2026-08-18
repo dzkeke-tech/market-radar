@@ -1,6 +1,6 @@
 # 财经雷达 · Routine 指令 v6（轻量上下文版）
 
-> 把《===》之间的全部内容粘贴进 Claude Code Routine 的 prompt 字段，**整段替换**现有内容。
+> 把「===」之间的全部内容粘贴进 Claude Code Routine 的 prompt 字段，**整段替换**现有内容。
 > 模型选 **Sonnet 4.6**；调度 UTC cron `0 0,5,10 * * *` = 北京时间 08:00 / 13:00 / 18:00。
 > 仓库挂载 market-radar。
 >
