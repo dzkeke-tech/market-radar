@@ -1,56 +1,150 @@
 [
-    {
-          "id": "8a12e6a04fdcb381",
-          "tier": 1,
-          "lang": "en",
-          "markets": ["US"],
-          "time": "2026-08-14T00:00:00Z",
-          "group": "大盘头条",
-          "title": "Stock market next week (Aug 17-21): Walmart, Home Depot, Target earnings; FOMC minutes; Reddit joins S&P 500",
-          "summary": "The week of Aug 17-21 brings a triple retail earnings test — Walmart (Aug 20), Home Depot (Aug 18), Target (Aug 19) — plus the FOMC July 28-29 meeting minutes release (Aug 19) and Reddit's debut as an S&P 500 constituent.",
-          "why": "大盘级别事件集中本周：三大零售商财报将检验美国消费韧性；FOMC纪要揭示7月28-29日会议的讨论细节（当次会议按兵不动，3票异议倾向加息）；Reddit入选标普500影响指数基金被动买入。3天前发布，本周事件仍在发酵中。",
-          "source": "CNBC",
-          "verified": false,
-          "keywords": ["$WMT", "$HD", "$TGT", "FOMC", "S&P500", "零售财报", "消费"],
-          "translated": false,
-          "url": "https://www.cnbc.com/2026/08/14/stock-market-next-week-outlook-for-aug-17-21-2026.html",
-          "published_date": "2026-08-14",
-          "still_developing": true
-    },
-    {
-          "id": "ddaa9fd457398802",
-          "tier": 1,
-          "lang": "en",
-          "markets": ["US"],
-          "time": "2026-08-16T00:00:00Z",
-          "group": "大盘头条",
-          "title": "2 big catalysts ahead: Nvidia Q2 earnings Aug 26 (consensus ~$91.8B revenue) and Jackson Hole Aug 27-29",
-          "summary": "CNBC identifies two defining market events in coming weeks: Nvidia's Q2 earnings on Aug 26 (Street consensus revenue ~$91.8B, ~+96% YoY), and the Jackson Hole Economic Symposium Aug 27-29 where Fed Chair Warsh delivers his first keynote as chair on Aug 28. Theme: 'Financial Innovation: Implications for Payments and Policy.'",
-          "why": "英伟达Q2财报是AI投资周期的晴雨表，共识预期收入918亿美元(YoY+96%)；Warsh首次在Jackson Hole发表讲话，其'货币哑铃'策略（短端灵活+激进QT）立场将影响市场对利率路径的定价。两者叠加是未来2周最大宏观+个股双重催化剂。发布于昨日(8/16)。",
-          "source": "CNBC",
-          "verified": false,
-          "keywords": ["$NVDA", "英伟达", "Nvidia", "Jackson Hole", "Warsh", "货币政策", "AI芯片"],
-          "translated": false,
-          "url": "https://www.cnbc.com/2026/08/16/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-          "published_date": "2026-08-16",
-          "still_developing": false
-    },
-    {
-          "id": "72ef20f1c0004fa3",
-          "tier": 2,
-          "lang": "en",
-          "markets": ["HK", "A", "US"],
-          "time": "2026-08-15T00:00:00Z",
-          "group": "大盘头条",
-          "title": "China's July factory output, retail sales growth miss forecasts",
-          "summary": "China's July economic data disappointed: retail sales +3.7% YoY (est. +4.6%), industrial output +5.7% YoY (est. ~+6%), fixed-asset investment +1.6% YTD YoY (est. +2.7%), urban unemployment 5.2%. All major indicators came in below consensus.",
-          "why": "中国7月经济数据全线低于预期，零售销售增速从6月的4.5%回落至3.7%，工业产出和固投同样走弱，触发市场对进一步刺激政策的预期，直接影响港股（腾讯、美团等）及A股情绪。数据于2026-08-15公布，仍在影响本周市场走向。已追溯到Reuters白名单原文；但具体数字未与国家统计局原文直接核对，故标 verified=false。",
-          "source": "Reuters",
-          "verified": false,
-          "keywords": ["中国经济", "零售销售", "工业产出", "固定资产投资", "宏观", "macro", "China"],
-          "translated": false,
-          "url": "https://www.reuters.com/world/china/chinas-july-factory-output-retail-sales-growth-miss-forecasts-2026-08-15/",
-          "published_date": "2026-08-15",
-          "still_developing": true
-    }
+  {
+    "id": "37d4d365a4cba89f",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "16:00",
+    "group": "大盘头条",
+    "title": "U.S. Stocks Slip, VIX Surges 6.6%, Gold Hits Record $4,398 as Iran Tensions Lift Oil",
+    "summary": "S&P 500 fell 0.52% to 7,745; Nasdaq off 0.32%; VIX jumped 6.6% to 15.19. Spot gold rose 0.51% to $4,398/oz; WTI crude +0.6% to $85/bbl after Trump rejected extending the Iran agreement and fighting resumed in Lebanon. Dollar index eased 0.11% to 99.56; Fed expected to hold at 3.50-3.75% with next FOMC on Sept 16.",
+    "why": "VIX升破15，期权隐含波动率回升，sell-put策略溢价扩大；黄金创新高对老铺黄金类持仓情绪形成支撑；油价上行叠加地缘风险压制市场情绪，注意持仓整体delta风险。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "S&P 500",
+      "VIX",
+      "Gold",
+      "WTI",
+      "Iran",
+      "Fed",
+      "FOMC"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
+    "published_date": "2026-08-17",
+    "still_developing": false
+  },
+  {
+    "id": "15c6ae5fa7dd3f8b",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "16:30",
+    "group": "大盘头条",
+    "title": "港股收评：恒指微涨0.07%，科技股、AI应用股全线走弱，黄金股与医药股逆市爆发",
+    "summary": "恒生指数收涨0.07%，恒生科技指数跌0.9%（盘中一度跌超2%）。AI应用股走弱：智谱跌超13%，MINIMAX跌超4%，美团、腾讯、携程等科网股普跌。黄金股爆发：周生生预告中期盈利21-22亿港元，大涨超19%；医药外包板块走强，金斯瑞生物科技涨超8%，康龙化成、药明生物涨超5%。",
+    "why": "AI应用板块资金持续撤出，科技持仓短期承压；黄金股全面走强对老铺黄金（6181.HK）形成板块情绪支撑；港股整体波动收窄，sell-put策略时间价值正常侵蚀。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "恒生指数",
+      "恒科指数",
+      "港股",
+      "AI应用",
+      "黄金股",
+      "医药股",
+      "智谱",
+      "美团",
+      "腾讯",
+      "携程"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-18/doc-inintpiw0122233.shtml",
+    "published_date": "2026-08-18",
+    "still_developing": false
+  },
+  {
+    "id": "981cc1dfa7333f92",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "06:00",
+    "group": "大盘头条",
+    "title": "超级财报周：沃尔玛、阿里巴巴、富途控股同日8月20日发布业绩，英伟达8月26日压轴",
+    "summary": "沃尔玛将于8月20日发布Q2 FY2027财报，分析师预期EPS $0.74、营收$186.8B（+8.8% YoY），期权隐含4.6%波动，关键看点为关税转嫁能力；阿里巴巴同日发布FY2027 Q1财报，预期营收+16%至$39.8B，期权隐含6.6%波动；富途控股同日发布Q2 2026业绩；英伟达8月26日发布Q2 FY2027财报，分析师预期营收约$91B（+50% YoY）。",
+    "why": "本周财报密度极高，横跨消费零售（沃尔玛）、互联网科技（阿里）、互联网券商（富途）、AI算力（英伟达）；阿里和英伟达期权隐含波动率偏高，持有相关仓位需关注期权到期日安排和行权价风险。",
+    "source": "沃尔玛官方IR",
+    "verified": true,
+    "keywords": [
+      "沃尔玛",
+      "WMT",
+      "阿里巴巴",
+      "BABA",
+      "9988.HK",
+      "富途",
+      "FUTU",
+      "英伟达",
+      "NVDA",
+      "财报周"
+    ],
+    "translated": false,
+    "url": "https://corporate.walmart.com/news/2026/08/13/walmart-to-host-second-quarter-earnings-conference-call-august-20-2026",
+    "published_date": "2026-08-13",
+    "still_developing": true
+  },
+  {
+    "id": "657b28b24473d483",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "Goldman Sachs Bitcoin ETF Acquisition Advances: NEOS Files Proxy Supplement with SEC on Aug 17 for $2.25B Deal",
+    "summary": "NEOS ETF Trust filed a DEFA14A proxy statement supplement with the SEC on Aug 17, advancing shareholder approval of Goldman Sachs's $2.25B acquisition of NEOS Investments, which manages $30B across 19 options-based income ETFs including Bitcoin income ETF BTCI and Ethereum income ETF NEHI. Combined Goldman active ETF AUM to reach ~$80B. Deal expected to close Q1 2027 pending regulatory approval.",
+    "why": "延续报道：高盛8月12日宣布收购NEOS，8月17日完成SEC代理声明备案，股东审批流程正式推进；华尔街顶级券商全面进军加密收益产品，对Circle及稳定币赛道形成机构背书，加密ETF生态持续扩容。",
+    "source": "SEC EDGAR",
+    "verified": true,
+    "keywords": [
+      "Goldman Sachs",
+      "NEOS",
+      "Bitcoin ETF",
+      "BTCI",
+      "crypto",
+      "Circle",
+      "CRCL"
+    ],
+    "translated": false,
+    "url": "https://www.sec.gov/Archives/edgar/data/0001848758/000199937126018077/neos-defa14a_081726.htm",
+    "published_date": "2026-08-17",
+    "still_developing": true
+  },
+  {
+    "id": "9fe604c012aa1174",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "12:00",
+    "group": "个股",
+    "title": "小米汽车：SU7系列28.5个月累计交付突破50万台，雷军回应里程碑，8月预计交付约3.4万辆",
+    "summary": "SU7系列自2024年3月上市起历时28.5个月完成50万台累计交付，雷军第一时间发布回应。7月SU7交付21,044辆（连续4月居20万元以上轿车销量第一），YU7交付10,223辆；德意志银行预期8月交付约3.4万辆，全年目标55万辆。YU7等候时间约56周。",
+    "why": "50万台里程碑强化小米汽车品牌势能与出货可视性；YU7等候56周意味着订单积压充足，支撑1810.HK中期估值；里程碑事件对雷军社交媒体流量具有品牌破圈效应。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "小米",
+      "1810.HK",
+      "SU7",
+      "YU7",
+      "小米汽车",
+      "雷军",
+      "交付量",
+      "EV"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqxur7057787.shtml",
+    "published_date": "2026-08-17",
+    "still_developing": false
+  }
 ]
