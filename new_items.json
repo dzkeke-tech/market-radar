@@ -1,56 +1,168 @@
 [
-    {
-          "id": "8a12e6a04fdcb381",
-          "tier": 1,
-          "lang": "en",
-          "markets": ["US"],
-          "time": "2026-08-14T00:00:00Z",
-          "group": "大盘头条",
-          "title": "Stock market next week (Aug 17-21): Walmart, Home Depot, Target earnings; FOMC minutes; Reddit joins S&P 500",
-          "summary": "The week of Aug 17-21 brings a triple retail earnings test — Walmart (Aug 20), Home Depot (Aug 18), Target (Aug 19) — plus the FOMC July 28-29 meeting minutes release (Aug 19) and Reddit's debut as an S&P 500 constituent.",
-          "why": "大盘级别事件集中本周：三大零售商财报将检验美国消费韧性；FOMC纪要揭示7月28-29日会议的讨论细节（当次会议按兵不动，3票异议倾向加息）；Reddit入选标普500影响指数基金被动买入。3天前发布，本周事件仍在发酵中。",
-          "source": "CNBC",
-          "verified": false,
-          "keywords": ["$WMT", "$HD", "$TGT", "FOMC", "S&P500", "零售财报", "消费"],
-          "translated": false,
-          "url": "https://www.cnbc.com/2026/08/14/stock-market-next-week-outlook-for-aug-17-21-2026.html",
-          "published_date": "2026-08-14",
-          "still_developing": true
-    },
-    {
-          "id": "ddaa9fd457398802",
-          "tier": 1,
-          "lang": "en",
-          "markets": ["US"],
-          "time": "2026-08-16T00:00:00Z",
-          "group": "大盘头条",
-          "title": "2 big catalysts ahead: Nvidia Q2 earnings Aug 26 (consensus ~$91.8B revenue) and Jackson Hole Aug 27-29",
-          "summary": "CNBC identifies two defining market events in coming weeks: Nvidia's Q2 earnings on Aug 26 (Street consensus revenue ~$91.8B, ~+96% YoY), and the Jackson Hole Economic Symposium Aug 27-29 where Fed Chair Warsh delivers his first keynote as chair on Aug 28. Theme: 'Financial Innovation: Implications for Payments and Policy.'",
-          "why": "英伟达Q2财报是AI投资周期的晴雨表，共识预期收入918亿美元(YoY+96%)；Warsh首次在Jackson Hole发表讲话，其'货币哑铃'策略（短端灵活+激进QT）立场将影响市场对利率路径的定价。两者叠加是未来2周最大宏观+个股双重催化剂。发布于昨日(8/16)。",
-          "source": "CNBC",
-          "verified": false,
-          "keywords": ["$NVDA", "英伟达", "Nvidia", "Jackson Hole", "Warsh", "货币政策", "AI芯片"],
-          "translated": false,
-          "url": "https://www.cnbc.com/2026/08/16/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-          "published_date": "2026-08-16",
-          "still_developing": false
-    },
-    {
-          "id": "72ef20f1c0004fa3",
-          "tier": 2,
-          "lang": "en",
-          "markets": ["HK", "A", "US"],
-          "time": "2026-08-15T00:00:00Z",
-          "group": "大盘头条",
-          "title": "China's July factory output, retail sales growth miss forecasts",
-          "summary": "China's July economic data disappointed: retail sales +3.7% YoY (est. +4.6%), industrial output +5.7% YoY (est. ~+6%), fixed-asset investment +1.6% YTD YoY (est. +2.7%), urban unemployment 5.2%. All major indicators came in below consensus.",
-          "why": "中国7月经济数据全线低于预期，零售销售增速从6月的4.5%回落至3.7%，工业产出和固投同样走弱，触发市场对进一步刺激政策的预期，直接影响港股（腾讯、美团等）及A股情绪。数据于2026-08-15公布，仍在影响本周市场走向。已追溯到Reuters白名单原文；但具体数字未与国家统计局原文直接核对，故标 verified=false。",
-          "source": "Reuters",
-          "verified": false,
-          "keywords": ["中国经济", "零售销售", "工业产出", "固定资产投资", "宏观", "macro", "China"],
-          "translated": false,
-          "url": "https://www.reuters.com/world/china/chinas-july-factory-output-retail-sales-growth-miss-forecasts-2026-08-15/",
-          "published_date": "2026-08-15",
-          "still_developing": true
-    }
+  {
+    "id": "af172034dea77220",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK",
+      "A"
+    ],
+    "time": "07:00",
+    "group": "大盘头条",
+    "title": "US Bond Selloff Drives 30-Year Yields to Highest Since 2007, Hitting 5.32%",
+    "summary": "The 30-year US Treasury yield surged to 5.32%, the highest level since 2007, as investors grew anxious over persistent inflation, surging government spending, and ongoing geopolitical tensions. The move spilled over into equities, particularly high-multiple technology and AI stocks.",
+    "why": "美债收益率升至近20年高位，对AI/科技成长股估值形成压缩压力；持仓组合中高市盈率标的承压，sell put策略需评估行权价调整风险",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "美债",
+      "国债收益率",
+      "债券抛售",
+      "通胀",
+      "利率"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/us-bond-selloff-drives-30-year-yields-to-the-highest-since-2007",
+    "published_date": "2026-08-17",
+    "still_developing": true
+  },
+  {
+    "id": "2f7c822238bab3cc",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "07:30",
+    "group": "大盘头条",
+    "title": "Nasdaq Falls 1.33%, S&P 500 Drops 0.69% for Third Straight Loss; Memory Chips Tumble 7-9%",
+    "summary": "US stocks fell for a third consecutive session as the 30-year Treasury yield approached 5.33%. The Philadelphia Semiconductor Index sank ~5%, with SanDisk (SNDK) down ~9%, Micron (MU) off ~7%, and SK Hynix ADRs declining sharply. The selloff was driven by macro rate fears, not any deterioration in chip fundamentals.",
+    "why": "持仓SNDK/MU/SK Hynix ADR单日重挫7-9%，仅因宏观债券收益率驱动的估值压缩，基本面完好；对sell put持仓需监控行权价是否接近市价，可能短期出现隐含波动率上升",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "美股",
+      "纳指",
+      "芯片股",
+      "SanDisk",
+      "SNDK",
+      "Micron",
+      "MU",
+      "SK Hynix",
+      "费城半导体"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
+    "published_date": "2026-08-18",
+    "still_developing": false
+  },
+  {
+    "id": "ac5704b135199844",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "15:30",
+    "group": "大盘头条",
+    "title": "超5000家下跌，逾百股跌停！A股沪指跌2.4%，创业板指跌6%",
+    "summary": "8月19日A股全线大跌，沪指跌2.4%，深成指跌5.01%，创业板指跌6%，超5000家个股下跌，逾百股跌停。AI科技股与存储板块跌幅居前，与全球芯片股调整同步。",
+    "why": "A股科技/成长赛道跌幅超6%，与美股芯片股调整形成共振；需警惕港股联动回调，对HK持仓的sell put策略行权价安全垫是否充足",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "A股",
+      "创业板",
+      "沪指",
+      "大盘",
+      "科技股"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/roll/2026-08-19/doc-ininvwqk8262947.shtml",
+    "published_date": "2026-08-19",
+    "still_developing": false
+  },
+  {
+    "id": "f82c950ebb97e0f5",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "10:00",
+    "group": "大盘头条",
+    "title": "宇树科技科创板上市首日暴涨：收盘涨460%，开盘一度涨629%，人形机器人第一股诞生",
+    "summary": "宇树科技8月19日于上交所科创板上市，开盘报1100元（较发行价150.80元涨629%），收盘845元涨460.34%，市值超3418亿元。网上申购超978万户创科创板纪录，中签率仅0.018%，中一签账面浮盈超34万元。",
+    "why": "人形机器人赛道里程碑事件，宇树市值一日突破3400亿；对小米（已布局机器人产业链）有情绪提振效应，是具身智能赛道资本热情的重要风向标",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "宇树科技",
+      "科创板",
+      "人形机器人",
+      "具身智能",
+      "IPO",
+      "688836"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/tech/digi/2026-08-19/doc-ininvshu2695096.shtml",
+    "published_date": "2026-08-19",
+    "still_developing": false
+  },
+  {
+    "id": "0aaee1fb4eba761c",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "14:00",
+    "group": "大盘头条",
+    "title": "Fed Releases July FOMC Minutes Today; 3 Dissenting Votes for Rate Hike. Jackson Hole Symposium Aug 27-29.",
+    "summary": "The Federal Reserve releases minutes from the July 28-29 meeting today (2PM ET), where 9-3 voted to hold rates at 3.50-3.75%; three regional Fed presidents (Hammack, Kashkari, Logan) dissented, wanting a hike. Markets now price ~60-77% probability of a September rate hike. The Jackson Hole symposium (Aug 27-29) will feature new Fed Chair Warsh's first major speech.",
+    "why": "FOMC纪要鹰派倾向可能强化市场加息预期，进一步推高债券收益率并打压成长股；9月加息概率若上升，将影响期权隐含波动率及sell put策略时机选择",
+    "source": "Federal Reserve",
+    "verified": true,
+    "keywords": [
+      "FOMC",
+      "美联储",
+      "加息",
+      "利率",
+      "Jackson Hole",
+      "杰克逊霍尔"
+    ],
+    "translated": false,
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm",
+    "published_date": "2026-08-19",
+    "still_developing": false
+  },
+  {
+    "id": "c6ee3c1d534f88aa",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "11:00",
+    "group": "个股",
+    "title": "小米汽车SU7系列28.5个月交付突破50万台，连续多月领跑20万元以上轿车",
+    "summary": "小米汽车8月17日宣布，小米SU7系列上市28.5个月总交付量突破50万台，连续4个月位列20万元以上轿车销量第一。雷军发布声明庆祝，并准备10,000份1:43合金车模赠送预约试驾用户。",
+    "why": "SU7系列50万台交付是小米汽车商业化重要里程碑，验证了25万元级高端电动车的市场号召力；持续领跑同级市场有助于提振1810.HK的汽车业务估值预期",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "小米",
+      "SU7",
+      "小米汽车",
+      "交付",
+      "1810.HK",
+      "Xiaomi"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/jjxw/2026-08-17/doc-ininreap6953663.shtml",
+    "published_date": "2026-08-17",
+    "still_developing": false
+  }
 ]
