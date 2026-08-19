@@ -1,56 +1,211 @@
 [
-    {
-          "id": "8a12e6a04fdcb381",
-          "tier": 1,
-          "lang": "en",
-          "markets": ["US"],
-          "time": "2026-08-14T00:00:00Z",
-          "group": "大盘头条",
-          "title": "Stock market next week (Aug 17-21): Walmart, Home Depot, Target earnings; FOMC minutes; Reddit joins S&P 500",
-          "summary": "The week of Aug 17-21 brings a triple retail earnings test — Walmart (Aug 20), Home Depot (Aug 18), Target (Aug 19) — plus the FOMC July 28-29 meeting minutes release (Aug 19) and Reddit's debut as an S&P 500 constituent.",
-          "why": "大盘级别事件集中本周：三大零售商财报将检验美国消费韧性；FOMC纪要揭示7月28-29日会议的讨论细节（当次会议按兵不动，3票异议倾向加息）；Reddit入选标普500影响指数基金被动买入。3天前发布，本周事件仍在发酵中。",
-          "source": "CNBC",
-          "verified": false,
-          "keywords": ["$WMT", "$HD", "$TGT", "FOMC", "S&P500", "零售财报", "消费"],
-          "translated": false,
-          "url": "https://www.cnbc.com/2026/08/14/stock-market-next-week-outlook-for-aug-17-21-2026.html",
-          "published_date": "2026-08-14",
-          "still_developing": true
-    },
-    {
-          "id": "ddaa9fd457398802",
-          "tier": 1,
-          "lang": "en",
-          "markets": ["US"],
-          "time": "2026-08-16T00:00:00Z",
-          "group": "大盘头条",
-          "title": "2 big catalysts ahead: Nvidia Q2 earnings Aug 26 (consensus ~$91.8B revenue) and Jackson Hole Aug 27-29",
-          "summary": "CNBC identifies two defining market events in coming weeks: Nvidia's Q2 earnings on Aug 26 (Street consensus revenue ~$91.8B, ~+96% YoY), and the Jackson Hole Economic Symposium Aug 27-29 where Fed Chair Warsh delivers his first keynote as chair on Aug 28. Theme: 'Financial Innovation: Implications for Payments and Policy.'",
-          "why": "英伟达Q2财报是AI投资周期的晴雨表，共识预期收入918亿美元(YoY+96%)；Warsh首次在Jackson Hole发表讲话，其'货币哑铃'策略（短端灵活+激进QT）立场将影响市场对利率路径的定价。两者叠加是未来2周最大宏观+个股双重催化剂。发布于昨日(8/16)。",
-          "source": "CNBC",
-          "verified": false,
-          "keywords": ["$NVDA", "英伟达", "Nvidia", "Jackson Hole", "Warsh", "货币政策", "AI芯片"],
-          "translated": false,
-          "url": "https://www.cnbc.com/2026/08/16/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-          "published_date": "2026-08-16",
-          "still_developing": false
-    },
-    {
-          "id": "72ef20f1c0004fa3",
-          "tier": 2,
-          "lang": "en",
-          "markets": ["HK", "A", "US"],
-          "time": "2026-08-15T00:00:00Z",
-          "group": "大盘头条",
-          "title": "China's July factory output, retail sales growth miss forecasts",
-          "summary": "China's July economic data disappointed: retail sales +3.7% YoY (est. +4.6%), industrial output +5.7% YoY (est. ~+6%), fixed-asset investment +1.6% YTD YoY (est. +2.7%), urban unemployment 5.2%. All major indicators came in below consensus.",
-          "why": "中国7月经济数据全线低于预期，零售销售增速从6月的4.5%回落至3.7%，工业产出和固投同样走弱，触发市场对进一步刺激政策的预期，直接影响港股（腾讯、美团等）及A股情绪。数据于2026-08-15公布，仍在影响本周市场走向。已追溯到Reuters白名单原文；但具体数字未与国家统计局原文直接核对，故标 verified=false。",
-          "source": "Reuters",
-          "verified": false,
-          "keywords": ["中国经济", "零售销售", "工业产出", "固定资产投资", "宏观", "macro", "China"],
-          "translated": false,
-          "url": "https://www.reuters.com/world/china/chinas-july-factory-output-retail-sales-growth-miss-forecasts-2026-08-15/",
-          "published_date": "2026-08-15",
-          "still_developing": true
-    }
+  {
+    "id": "a0a02917f4a10b21",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK",
+      "A"
+    ],
+    "time": "20:00",
+    "group": "大盘头条",
+    "title": "US-Iran Peace Prospects Dim as Trump Rejects Truce Extension",
+    "summary": "The 60-day US-Iran ceasefire deadline expired August 17 with no deal; Trump told reporters he would not seek an extension and threatened to bomb Oman over its Iran transit arrangements. The Strait of Hormuz remains effectively blockaded, disrupting roughly one-fifth of global oil and gas flows.",
+    "why": "伊朗停火破裂，霍尔木兹海峡仍处封锁，油价与地缘风险再升级，将压制风险资产；对能源/防务板块有直接影响，期权隐含波动率或显著抬升。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "宏观",
+      "macro"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-us-fox-news-msx5rdoc",
+    "published_date": "2026-08-17",
+    "still_developing": false
+  },
+  {
+    "id": "b31df595e972b068",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK",
+      "A"
+    ],
+    "time": "14:00",
+    "group": "大盘头条",
+    "title": "FOMC July 28-29 Meeting Minutes Released August 19; 9-3 Vote to Hold at 3.50–3.75%",
+    "summary": "The Federal Reserve releases the July 28-29 FOMC meeting minutes at 2PM ET today. The Fed voted 9-3 to hold its benchmark rate at 3.50%-3.75% for the fifth consecutive time, with three dissents in favor of a hike. Markets assign roughly 30% probability to a September hike; Goldman Sachs calls a hike 'very unlikely'. New Fed Chair Kevin Warsh has abandoned forward guidance, keeping markets in the dark on the committee's internal debate. The 10-year Treasury yield stands at approximately 4.67%.",
+    "why": "纪要当日发布，市场将从中寻找FOMC内部分歧线索及9月加息信号；利率维持高位不变对Sell Put策略有利（高隐含波动率），但若纪要偏鹰可能压制科技/成长股估值。",
+    "source": "美联储官网",
+    "verified": true,
+    "keywords": [
+      "宏观",
+      "macro"
+    ],
+    "translated": false,
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+    "published_date": "2026-08-19",
+    "still_developing": false
+  },
+  {
+    "id": "a513ef2f8fe42741",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "15:30",
+    "group": "大盘头条",
+    "title": "A股8月17日放量大涨：半导体芯片ETF飙涨5%，存储芯片板块主力资金约200亿元净流入",
+    "summary": "A股8月17日三大指数集体大涨，全天成交23,874亿元较前日放量2,446亿；科创芯片ETF（589190）涨5%，科创半导体ETF（588170）午后涨超4%；半导体/存储芯片板块约200亿元主力资金净流入，闪迪订单、SK海力士扩产、量化策略共振为主要催化。",
+    "why": "A股存储/半导体板块量价齐升，与SK海力士HBM4量产加速、Nvidia AI算力需求持续强劲高度相关；持有半导体相关仓位（SK海力士、美光）应留意估值压力测试与隐含波动率变化。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "半导体",
+      "存储芯片",
+      "semiconductor",
+      "HBM"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-17/doc-ininrqsk9055312.shtml",
+    "published_date": "2026-08-17",
+    "still_developing": false
+  },
+  {
+    "id": "bef5daaa67be1260",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "08:00",
+    "group": "大盘头条",
+    "title": "A股8月18日复盘：沪指收涨0.19%，深成指/创业板指回调；农业板块爆发多股涨停，信创机器人活跃",
+    "summary": "沪深两市8月18日成交约2.4万亿元，上证指数+0.19%收涨但深成指-0.56%、创业板指-0.93%走弱；农业板块（金健米业、农发种业、万向德农等10余只涨停）爆发，猪肉概念活跃；信创（诚迈科技、中国软件、麒麟信安涨停）午后走强；机器人（正裕工业3连板）异动。",
+    "why": "大盘结构分化：科技/成长退潮，政策受益的农业与信创接力；对持仓的互联网科技股（腾讯、阿里、美团）短期情绪偏中性，留意创业板指调整对估值的影响。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "A股",
+      "宏观"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/cpbd/2026-08-19/doc-ininuzku8334226.shtml",
+    "published_date": "2026-08-18",
+    "still_developing": false
+  },
+  {
+    "id": "a6163a7f66f012db",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "Tesla Readies August Launch of Cybercab Robotaxi in Austin, Texas",
+    "summary": "Tesla plans to launch its driverless Cybercab in Austin, Texas by end of August, with rides initially offered to employees on public roads before folding into its commercial robotaxi service. The two-seat Cybercab has no steering wheel or pedals and runs entirely on FSD. Tesla has opened a lottery for public riders through August 23. Q2 2026 update confirmed Cybercab production has begun at Gigafactory Texas with installed capacity of 125,000+ units annually.",
+    "why": "Cybercab商业化里程碑事件；若顺利上线将验证FSD端到端能力，重估Tesla自动驾驶估值；Robotaxi商业化进程是Tesla TSLA期权隐含波动率的核心驱动因素，需密切追踪。",
+    "source": "The Information",
+    "verified": true,
+    "keywords": [
+      "特斯拉",
+      "Tesla",
+      "TSLA",
+      "Robotaxi",
+      "FSD",
+      "自动驾驶"
+    ],
+    "translated": false,
+    "url": "https://www.theinformation.com/articles/tesla-readies-august-launch-cybercab-robotaxi-without-steering-wheel",
+    "published_date": "2026-08-17",
+    "still_developing": false
+  },
+  {
+    "id": "77c8635d48fc951e",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "Alibaba sells gaming arm Lingxi Games to Trustar Capital for $2B+; Q1 FY2027 earnings due August 20",
+    "summary": "Alibaba reached a formal agreement to sell its game developer Lingxi Games (known for 'Three Kingdoms: Strategy Edition') to private equity firm Trustar Capital for more than $2 billion, completing another step in CEO Eddie Wu's non-core asset disposal strategy focused on AI and cloud. Separately, Alibaba reports Q1 FY2027 (quarter ended June 30) results pre-market on August 20; analyst EPS consensus $1.49, revenue ~268.86B CNY; AI cloud expected to post 12th consecutive quarter of triple-digit growth. BABA has missed EPS estimates in four straight quarters.",
+    "why": "两个催化剂叠加：非核心资产剥离持续提升资本效率，明日业绩是港股/美股阿里重要拐点；AI云能否如期实现12季连续三位数增长+EPS是否扭转连续不及预期，将直接影响9988/BABA估值与持仓的Sell Put行权风险。",
+    "source": "South China Morning Post",
+    "verified": true,
+    "keywords": [
+      "阿里巴巴",
+      "阿里",
+      "Alibaba",
+      "9988.HK",
+      "BABA",
+      "阿里云",
+      "通义千问"
+    ],
+    "translated": false,
+    "url": "https://www.scmp.com/tech/big-tech/article/3364287/alibaba-sells-gaming-arm-lingxi-games-tech-giant-sharpens-focus-ai-and-e-commerce",
+    "published_date": "2026-08-17",
+    "still_developing": false
+  },
+  {
+    "id": "9fe604c012aa1174",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "11:00",
+    "group": "个股",
+    "title": "小米SU7系列累计交付突破50万台，用时28.5个月创中国纯电轿车最快纪录",
+    "summary": "小米汽车8月17日宣布SU7系列自2024年4月首交付起28.5个月内累计突破50万台，创下中国纯电轿车最快里程碑；若含YU7 SUV则小米新能源车总交付逾76万台；7月单月SU7销量21,044辆，200万元以上乘用车细分市场连续4个月第一。雷军社媒庆祝并推出1:43限定礼盒。",
+    "why": "交付里程碑强化小米汽车品牌势能与规模效应，有助缓解电动车业务季度亏损的市场顾虑；对小米1810.HK Sell Put策略而言，正面情绪催化降低短期行权风险。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "小米",
+      "Xiaomi",
+      "1810.HK",
+      "SU7",
+      "小米汽车",
+      "YU7"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqxur7057787.shtml",
+    "published_date": "2026-08-17",
+    "still_developing": false
+  },
+  {
+    "id": "64d25ddf9aa1631f",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "18:00",
+    "group": "个股",
+    "title": "US Treasury Seeks Public Comment on GENIUS Act Stablecoin Rules",
+    "summary": "The U.S. Treasury Department on August 17 issued proposed rules governing payment stablecoin issuance under the GENIUS Act and opened the proposal for public comment. Circle (USDC) already holds an OCC conditional national trust bank charter granted in December 2025, positioning it favorably in the domestic issuer tier. USDC circulating market cap stands at roughly $72–74 billion (second to Tether). The GENIUS Act framework is expected to take effect January 18, 2027.",
+    "why": "GENIUS Act规则落地推进明确合规路径，Circle/USDC作为最早获得OCC信托执照的稳定币发行商占先机；若Circle（CRCL）继续上市进程，这是正面的监管确定性催化；与Sell Put策略相关的CRCL波动率和估值均受此影响。",
+    "source": "The Block",
+    "verified": true,
+    "keywords": [
+      "Circle",
+      "CRCL",
+      "USDC",
+      "稳定币",
+      "stablecoin",
+      "GENIUS Act",
+      "稳定币法案"
+    ],
+    "translated": false,
+    "url": "https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987",
+    "published_date": "2026-08-17",
+    "still_developing": false
+  }
 ]
