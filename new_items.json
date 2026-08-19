@@ -1,56 +1,239 @@
 [
-    {
-          "id": "8a12e6a04fdcb381",
-          "tier": 1,
-          "lang": "en",
-          "markets": ["US"],
-          "time": "2026-08-14T00:00:00Z",
-          "group": "大盘头条",
-          "title": "Stock market next week (Aug 17-21): Walmart, Home Depot, Target earnings; FOMC minutes; Reddit joins S&P 500",
-          "summary": "The week of Aug 17-21 brings a triple retail earnings test — Walmart (Aug 20), Home Depot (Aug 18), Target (Aug 19) — plus the FOMC July 28-29 meeting minutes release (Aug 19) and Reddit's debut as an S&P 500 constituent.",
-          "why": "大盘级别事件集中本周：三大零售商财报将检验美国消费韧性；FOMC纪要揭示7月28-29日会议的讨论细节（当次会议按兵不动，3票异议倾向加息）；Reddit入选标普500影响指数基金被动买入。3天前发布，本周事件仍在发酵中。",
-          "source": "CNBC",
-          "verified": false,
-          "keywords": ["$WMT", "$HD", "$TGT", "FOMC", "S&P500", "零售财报", "消费"],
-          "translated": false,
-          "url": "https://www.cnbc.com/2026/08/14/stock-market-next-week-outlook-for-aug-17-21-2026.html",
-          "published_date": "2026-08-14",
-          "still_developing": true
-    },
-    {
-          "id": "ddaa9fd457398802",
-          "tier": 1,
-          "lang": "en",
-          "markets": ["US"],
-          "time": "2026-08-16T00:00:00Z",
-          "group": "大盘头条",
-          "title": "2 big catalysts ahead: Nvidia Q2 earnings Aug 26 (consensus ~$91.8B revenue) and Jackson Hole Aug 27-29",
-          "summary": "CNBC identifies two defining market events in coming weeks: Nvidia's Q2 earnings on Aug 26 (Street consensus revenue ~$91.8B, ~+96% YoY), and the Jackson Hole Economic Symposium Aug 27-29 where Fed Chair Warsh delivers his first keynote as chair on Aug 28. Theme: 'Financial Innovation: Implications for Payments and Policy.'",
-          "why": "英伟达Q2财报是AI投资周期的晴雨表，共识预期收入918亿美元(YoY+96%)；Warsh首次在Jackson Hole发表讲话，其'货币哑铃'策略（短端灵活+激进QT）立场将影响市场对利率路径的定价。两者叠加是未来2周最大宏观+个股双重催化剂。发布于昨日(8/16)。",
-          "source": "CNBC",
-          "verified": false,
-          "keywords": ["$NVDA", "英伟达", "Nvidia", "Jackson Hole", "Warsh", "货币政策", "AI芯片"],
-          "translated": false,
-          "url": "https://www.cnbc.com/2026/08/16/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-          "published_date": "2026-08-16",
-          "still_developing": false
-    },
-    {
-          "id": "72ef20f1c0004fa3",
-          "tier": 2,
-          "lang": "en",
-          "markets": ["HK", "A", "US"],
-          "time": "2026-08-15T00:00:00Z",
-          "group": "大盘头条",
-          "title": "China's July factory output, retail sales growth miss forecasts",
-          "summary": "China's July economic data disappointed: retail sales +3.7% YoY (est. +4.6%), industrial output +5.7% YoY (est. ~+6%), fixed-asset investment +1.6% YTD YoY (est. +2.7%), urban unemployment 5.2%. All major indicators came in below consensus.",
-          "why": "中国7月经济数据全线低于预期，零售销售增速从6月的4.5%回落至3.7%，工业产出和固投同样走弱，触发市场对进一步刺激政策的预期，直接影响港股（腾讯、美团等）及A股情绪。数据于2026-08-15公布，仍在影响本周市场走向。已追溯到Reuters白名单原文；但具体数字未与国家统计局原文直接核对，故标 verified=false。",
-          "source": "Reuters",
-          "verified": false,
-          "keywords": ["中国经济", "零售销售", "工业产出", "固定资产投资", "宏观", "macro", "China"],
-          "translated": false,
-          "url": "https://www.reuters.com/world/china/chinas-july-factory-output-retail-sales-growth-miss-forecasts-2026-08-15/",
-          "published_date": "2026-08-15",
-          "still_developing": true
-    }
+  {
+    "id": "fbadc9f61c82147f",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "08:00",
+    "group": "大盘头条",
+    "title": "百度Q2净利润同比骤降68%，港股低开逾12%，同步申请港交所双重主要上市",
+    "summary": "百度(BIDU/09888)8月18日发布Q2财报：总营收313.3亿元（同比-4%），在线营销收入131亿元（同比-19%）为第五个季度连续下滑；AI云基础设施营收同比+50%、GPU云+283%为亮点。归属净利润同比降约68%，大幅低于市场预期。港股8月19日低开逾12%，创去年9月来新低，年内累计跌逾32%。百度已提交申请拟将港股转为双重主要上市，并定于8月26日召开临时股东大会。",
+    "why": "港股互联网板块最大日跌幅之一，百度业绩折射广告主预算萎缩与传统模式失速，将拉升同板块（腾讯/阿里/美团）隐含波动率，对持有相关标的sell put策略有直接影响，建议密切关注隐含波动率变化。",
+    "source": "Baidu Form 6-K / SEC EDGAR",
+    "verified": true,
+    "keywords": [
+      "百度",
+      "BIDU",
+      "Q2 2026",
+      "业绩",
+      "港股",
+      "净利润"
+    ],
+    "translated": false,
+    "url": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526355431/d112854dex991.htm",
+    "published_date": "2026-08-18",
+    "still_developing": false
+  },
+  {
+    "id": "1ad4329eef58dbf9",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "12:30",
+    "group": "大盘头条",
+    "title": "港股8月19日午盘分化：恒指微涨0.24%，科技股跌0.82%，百度领跌超11%，小米领涨超6%",
+    "summary": "港股8月19日午盘：恒生指数涨0.24%，报25533点；恒生科技指数跌0.82%；国企指数涨0.62%。盘面上，百度跌超11%拖累科网股，小米受业绩驱动涨超6%；石油股（中石油涨2%+）、内房股活跃；芯片股下挫，华虹宏力跌逾12%。",
+    "why": "港股今日整体温和，科技板块分化显著——业绩超预期者（小米）领涨，业绩不及预期者（百度）大跌，是典型的业绩驱动市场；对组合sell put策略而言，需评估各持仓隐含波动率是否已包含业绩风险。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "港股",
+      "恒生指数",
+      "HSI",
+      "科技股"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvmyt7067098.shtml",
+    "published_date": "2026-08-19",
+    "still_developing": false
+  },
+  {
+    "id": "6d2205398186a864",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "国务院修改《住房公积金管理条例》：新增装修、物业费等提取情形，9月20日施行",
+    "summary": "国务院总理李强签署国务院令，修改《住房公积金管理条例》，自2026年9月20日起施行。主要变化：①新增装修自住住房、支付物业费等可提取情形；②取消租房须超收入一定比例的限制门槛；③简化提取手续、推进跨城互认；④个体工商户、灵活就业人员可自愿缴存。新华社8月18日受权发布。",
+    "why": "政策扩大公积金使用灵活性，直接利好居民住房消费与装修链，中期对消费赛道（家居/商业地产周边）有正面催化效果；对整体A股政策取向传递积极信号。",
+    "source": "新华网（受权发布）",
+    "verified": true,
+    "keywords": [
+      "住房公积金",
+      "国务院",
+      "政策",
+      "消费"
+    ],
+    "translated": false,
+    "url": "https://www1.xinhuanet.com/politics/20260818/751363d15a8b48ceadedbaf60e9d06bc/c.html",
+    "published_date": "2026-08-18",
+    "still_developing": false
+  },
+  {
+    "id": "bef5daaa67be1260",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "财政部副部长廖岷将于8月21日就十五五积极财政政策进行说明",
+    "summary": "国务院新闻办公室定于2026年8月21日（周五）上午10时举行「开局起步十五五」系列主题发布会，由财政部副部长廖岷介绍发挥积极财政政策作用、推进相关改革的情况，并答记者问。",
+    "why": "十五五（2026-2030）开局期财政政策基调将影响A股风险偏好，特别是财政扩张力度、消费补贴与专项债等方向；若信号偏积极，有助于提振大盘与持仓消费/科技赛道标的。",
+    "source": "新浪财经（引自国务院新闻办公室公告）",
+    "verified": true,
+    "keywords": [
+      "财政政策",
+      "十五五",
+      "国务院",
+      "宏观"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/cpbd/2026-08-19/doc-ininuzku8334226.shtml",
+    "published_date": "2026-08-19",
+    "still_developing": true
+  },
+  {
+    "id": "9a03a3f3a8241503",
+    "tier": 3,
+    "lang": "zh",
+    "markets": [
+      "A",
+      "HK"
+    ],
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "2026世界机器人大会(WRC)今日北京亦庄开幕：300+家企业、2000+件展品",
+    "summary": "2026世界机器人大会(WRC)8月19-23日在北京亦庄仁创国际会展中心举行，主题「人机共生、供需互融」。参展企业逾300家（同比+36%），展品超2000件（同比+27%），新品首发150余款，预计吸引逾30万名参观者，国际嘉宾占主论坛发言者约30%。",
+    "why": "WRC是国内人形机器人与工业机器人的年度风向标。对特斯拉Optimus、小米人形机器人赛道、A股机器人主题标的有潜在催化效果；若有标志性新品或大订单落地，可能触发板块短期行情。",
+    "source": "worldrobotconference.com（官方网站）",
+    "verified": false,
+    "keywords": [
+      "机器人",
+      "世界机器人大会",
+      "WRC",
+      "人形机器人",
+      "AI"
+    ],
+    "translated": false,
+    "url": "https://www.worldrobotconference.com/expo/",
+    "published_date": "2026-08-19",
+    "still_developing": false
+  },
+  {
+    "id": "16d8e905541f448f",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "18:00",
+    "group": "个股",
+    "title": "小米Q2 2026业绩大幅超预期：营收1089亿元，经营利润倍增，汽车交付逾10万辆，港股涨超6%",
+    "summary": "小米集团(1810.HK)8月18日发布Q2 2026业绩：总营收1089.2亿元，经营利润108.7亿元（预期58.5亿元，超预期约86%），净利润94.6亿元（预期57.6亿元，超预期约64%），经调整净利润62.2亿元。智能电动汽车及AI创新业务营收249亿元，单季整车交付104,199辆；SU7跻身国内20万+纯电轿车H1销量第一，YU7一年车龄保值率第一；武汉工厂8月已达15,000辆/月产能，目标10月35,000辆/月。港股绩后涨超6%。研发投入92亿元，同比+18.9%。",
+    "why": "经营利润远超预期（+86%），汽车+AI成为新增长引擎已体现在财报中；sell put持仓获短期正向催化，但股价已大幅反应，可评估covered call锁定近期涨幅；关注后续新工厂爬坡节奏与期权隐含波动率变化。",
+    "source": "Xiaomi Investor Relations (ir.mi.com)",
+    "verified": true,
+    "keywords": [
+      "小米",
+      "Xiaomi",
+      "1810.HK",
+      "Q2业绩",
+      "SU7",
+      "YU7",
+      "汽车",
+      "AI"
+    ],
+    "translated": false,
+    "url": "https://ir.mi.com/events/event-details/2026-interim-results-announcement",
+    "published_date": "2026-08-18",
+    "still_developing": false
+  },
+  {
+    "id": "edee3f8b67026b5f",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "18:00",
+    "group": "个股",
+    "title": "腾讯控股8月17日单日回购3.01亿港元，年内累计回购264.29亿港元",
+    "summary": "腾讯控股(00700.HK)8月17日以442.6-450港元/股区间回购67.3万股，耗资约3.01亿港元。年内合计完成54次回购，累计回购5455.67万股，合计耗资264.29亿港元（以上聚合数字均引自原文，非Claude计算）。注：腾讯2026年全年回购力度较2025年（约800亿港元）明显收缩，管理层称将把资金重点转向AI投入。",
+    "why": "年内累计264亿港元回购提供股价底部支撑；但2026年回购力度较2025年大幅缩水，意味着回购不再是主要EPS提升驱动力。对sell put策略而言，回购托底减少深度虚值put的尾部风险，但需关注百度EGM（8月26日）引发的板块情绪传导。",
+    "source": "证券时报 (stcn.com)",
+    "verified": true,
+    "keywords": [
+      "腾讯",
+      "0700.HK",
+      "00700",
+      "回购"
+    ],
+    "translated": false,
+    "url": "https://www.stcn.com/article/detail/4080562.html",
+    "published_date": "2026-08-17",
+    "still_developing": false
+  },
+  {
+    "id": "e3cf27e127392f9e",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "Nvidia Q2 FY2027 earnings due August 26; consensus sees ~67% revenue surge to $91-95B",
+    "summary": "Nvidia is scheduled to report Q2 FY2027 results (quarter ending July 2026) on August 26, 2026, after market close. The company guided Q2 revenue at ~$91B +/-2%; sell-side consensus is $93-95B, representing ~67% YoY growth driven by Blackwell architecture ramp and AI data center demand. Management commentary on Vera Rubin platform timeline and supply constraints will be closely watched. NVDA +17.7% YTD; ~70-80% AI GPU market share.",
+    "why": "英伟达业绩是AI算力投资景气度的全球风向标，超预期可拉升SK海力士/美光HBM需求预期及相关供应链估值；NVDA本身为持仓标的，可通过sell put/covered call管理8月26日事件风险；另需注意收益发布后期权隐含波动率骤降（IV crush）。",
+    "source": "NVIDIA Investor Relations (ir.nvidia.com)",
+    "verified": false,
+    "keywords": [
+      "英伟达",
+      "Nvidia",
+      "NVDA",
+      "Q2 FY2027",
+      "AI芯片",
+      "Blackwell"
+    ],
+    "translated": false,
+    "url": "https://ir.nvidia.com/events-presentations/earnings-calls",
+    "published_date": "2026-08-19",
+    "still_developing": true
+  },
+  {
+    "id": "b6d3d6b661c0495b",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "Walmart Q2 FY2027 earnings due August 20 (tomorrow); analysts expect ~5.3% revenue growth, EPS $0.73",
+    "summary": "Walmart (WMT) is set to report Q2 FY2027 earnings on August 20, 2026, before market open. Analysts expect ~5.3% revenue growth and EPS of ~$0.73, citing strong e-commerce momentum and advertising revenue growth. Also this week: Alibaba (BABA/9988) reports August 28; Costco (COST) reports September 24.",
+    "why": "沃尔玛是全球最大零售商，其Q2业绩与消费者信心高度相关；对持有消费赛道（美团/海底捞/蜜雪冰城等）标的的组合有宏观参考意义；WMT本身为持仓标的，明日业绩将影响期权到期日前后的股价波动与sell put行权风险。",
+    "source": "Walmart Investor Relations (stock.walmart.com)",
+    "verified": false,
+    "keywords": [
+      "沃尔玛",
+      "Walmart",
+      "WMT",
+      "Q2 FY2027",
+      "业绩"
+    ],
+    "translated": false,
+    "url": "https://stock.walmart.com/financial-information/financial-results",
+    "published_date": "2026-08-19",
+    "still_developing": false
+  }
 ]

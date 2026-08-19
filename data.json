@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-18 18:22 (北京时间)",
+  "updated_at": "2026-08-19 13:24 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,348 +9,178 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-18 18:22 (北京时间)",
-    "new_count": 4,
+    "at": "2026-08-19 13:24 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "37d4d365a4cba89f",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "U.S. Stocks Slip, VIX Surges 6.6%, Gold Hits Record $4,398 as Iran Tensions Lift Oil",
-      "summary": "S&P 500 fell 0.52% to 7,745; Nasdaq off 0.32%; VIX jumped 6.6% to 15.19. Spot gold rose 0.51% to $4,398/oz; WTI crude +0.6% to $85/bbl after Trump rejected extending the Iran agreement and fighting resumed in Lebanon. Dollar index eased 0.11% to 99.56; Fed expected to hold at 3.50-3.75% with next FOMC on Sept 16.",
-      "why": "VIX升破15，期权隐含波动率回升，sell-put策略溢价扩大；黄金创新高对老铺黄金类持仓情绪形成支撑；油价上行叠加地缘风险压制市场情绪，注意持仓整体delta风险。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "S&P 500",
-        "VIX",
-        "Gold",
-        "WTI",
-        "Iran",
-        "Fed",
-        "FOMC"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
-      "published_date": "2026-08-17",
-      "still_developing": false,
-      "first_seen": "2026-08-18",
-      "is_new": true
-    },
-    {
-      "id": "981cc1dfa7333f92",
+      "id": "fbadc9f61c82147f",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "超级财报周：沃尔玛、阿里巴巴、富途控股同日8月20日发布业绩，英伟达8月26日压轴",
-      "summary": "沃尔玛将于8月20日发布Q2 FY2027财报，分析师预期EPS $0.74、营收$186.8B（+8.8% YoY），期权隐含4.6%波动，关键看点为关税转嫁能力；阿里巴巴同日发布FY2027 Q1财报，预期营收+16%至$39.8B，期权隐含6.6%波动；富途控股同日发布Q2 2026业绩；英伟达8月26日发布Q2 FY2027财报，分析师预期营收约$91B（+50% YoY）。",
-      "why": "本周财报密度极高，横跨消费零售（沃尔玛）、互联网科技（阿里）、互联网券商（富途）、AI算力（英伟达）；阿里和英伟达期权隐含波动率偏高，持有相关仓位需关注期权到期日安排和行权价风险。",
-      "source": "沃尔玛官方IR",
-      "verified": true,
-      "keywords": [
-        "沃尔玛",
-        "WMT",
-        "阿里巴巴",
-        "BABA",
-        "9988.HK",
-        "富途",
-        "FUTU",
-        "英伟达",
-        "NVDA",
-        "财报周"
-      ],
-      "translated": false,
-      "url": "https://corporate.walmart.com/news/2026/08/13/walmart-to-host-second-quarter-earnings-conference-call-august-20-2026",
-      "published_date": "2026-08-13",
-      "still_developing": true,
-      "first_seen": "2026-08-18",
-      "is_new": true
-    },
-    {
-      "id": "657b28b24473d483",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
+        "HK",
         "US"
       ],
-      "time": "09:00",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "Goldman Sachs Bitcoin ETF Acquisition Advances: NEOS Files Proxy Supplement with SEC on Aug 17 for $2.25B Deal",
-      "summary": "NEOS ETF Trust filed a DEFA14A proxy statement supplement with the SEC on Aug 17, advancing shareholder approval of Goldman Sachs's $2.25B acquisition of NEOS Investments, which manages $30B across 19 options-based income ETFs including Bitcoin income ETF BTCI and Ethereum income ETF NEHI. Combined Goldman active ETF AUM to reach ~$80B. Deal expected to close Q1 2027 pending regulatory approval.",
-      "why": "延续报道：高盛8月12日宣布收购NEOS，8月17日完成SEC代理声明备案，股东审批流程正式推进；华尔街顶级券商全面进军加密收益产品，对Circle及稳定币赛道形成机构背书，加密ETF生态持续扩容。",
-      "source": "SEC EDGAR",
+      "title": "百度Q2净利润同比骤降68%，港股低开逾12%，同步申请港交所双重主要上市",
+      "summary": "百度(BIDU/09888)8月18日发布Q2财报：总营收313.3亿元（同比-4%），在线营销收入131亿元（同比-19%）为第五个季度连续下滑；AI云基础设施营收同比+50%、GPU云+283%为亮点。归属净利润同比降约68%，大幅低于市场预期。港股8月19日低开逾12%，创去年9月来新低，年内累计跌逾32%。百度已提交申请拟将港股转为双重主要上市，并定于8月26日召开临时股东大会。",
+      "why": "港股互联网板块最大日跌幅之一，百度业绩折射广告主预算萎缩与传统模式失速，将拉升同板块（腾讯/阿里/美团）隐含波动率，对持有相关标的sell put策略有直接影响，建议密切关注隐含波动率变化。",
+      "source": "Baidu Form 6-K / SEC EDGAR",
       "verified": true,
       "keywords": [
-        "Goldman Sachs",
-        "NEOS",
-        "Bitcoin ETF",
-        "BTCI",
-        "crypto",
-        "Circle",
-        "CRCL"
+        "百度",
+        "BIDU",
+        "Q2 2026",
+        "业绩",
+        "港股",
+        "净利润"
       ],
       "translated": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/0001848758/000199937126018077/neos-defa14a_081726.htm",
-      "published_date": "2026-08-17",
-      "still_developing": true,
-      "first_seen": "2026-08-18",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526355431/d112854dex991.htm",
+      "published_date": "2026-08-18",
+      "still_developing": false,
+      "first_seen": "2026-08-19",
       "is_new": true
     },
     {
-      "id": "9fe604c012aa1174",
+      "id": "edee3f8b67026b5f",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "个股",
+      "title": "腾讯控股8月17日单日回购3.01亿港元，年内累计回购264.29亿港元",
+      "summary": "腾讯控股(00700.HK)8月17日以442.6-450港元/股区间回购67.3万股，耗资约3.01亿港元。年内合计完成54次回购，累计回购5455.67万股，合计耗资264.29亿港元（以上聚合数字均引自原文，非Claude计算）。注：腾讯2026年全年回购力度较2025年（约800亿港元）明显收缩，管理层称将把资金重点转向AI投入。",
+      "why": "年内累计264亿港元回购提供股价底部支撑；但2026年回购力度较2025年大幅缩水，意味着回购不再是主要EPS提升驱动力。对sell put策略而言，回购托底减少深度虚值put的尾部风险，但需关注百度EGM（8月26日）引发的板块情绪传导。",
+      "source": "证券时报 (stcn.com)",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "0700.HK",
+        "00700",
+        "回购"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/4080562.html",
+      "published_date": "2026-08-17",
+      "still_developing": false,
+      "first_seen": "2026-08-19",
+      "is_new": true
+    },
+    {
+      "id": "1ad4329eef58dbf9",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "小米汽车：SU7系列28.5个月累计交付突破50万台，雷军回应里程碑，8月预计交付约3.4万辆",
-      "summary": "SU7系列自2024年3月上市起历时28.5个月完成50万台累计交付，雷军第一时间发布回应。7月SU7交付21,044辆（连续4月居20万元以上轿车销量第一），YU7交付10,223辆；德意志银行预期8月交付约3.4万辆，全年目标55万辆。YU7等候时间约56周。",
-      "why": "50万台里程碑强化小米汽车品牌势能与出货可视性；YU7等候56周意味着订单积压充足，支撑1810.HK中期估值；里程碑事件对雷军社交媒体流量具有品牌破圈效应。",
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股8月19日午盘分化：恒指微涨0.24%，科技股跌0.82%，百度领跌超11%，小米领涨超6%",
+      "summary": "港股8月19日午盘：恒生指数涨0.24%，报25533点；恒生科技指数跌0.82%；国企指数涨0.62%。盘面上，百度跌超11%拖累科网股，小米受业绩驱动涨超6%；石油股（中石油涨2%+）、内房股活跃；芯片股下挫，华虹宏力跌逾12%。",
+      "why": "港股今日整体温和，科技板块分化显著——业绩超预期者（小米）领涨，业绩不及预期者（百度）大跌，是典型的业绩驱动市场；对组合sell put策略而言，需评估各持仓隐含波动率是否已包含业绩风险。",
       "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "小米",
-        "1810.HK",
-        "SU7",
-        "YU7",
-        "小米汽车",
-        "雷军",
-        "交付量",
-        "EV"
+        "港股",
+        "恒生指数",
+        "HSI",
+        "科技股"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqxur7057787.shtml",
-      "published_date": "2026-08-17",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvmyt7067098.shtml",
+      "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-18",
+      "first_seen": "2026-08-19",
       "is_new": true
     },
     {
-      "id": "6ce21c2ab7aeee24",
-      "tier": 1,
-      "lang": "en",
-      "title": "英伟达联合华尔街资管巨头承诺逾5000亿美元AI基础设施投资",
-      "summary": "英伟达与Apollo、BlackRock等华尔街资管巨头宣布共同出资逾5000亿美元用于AI基础设施，涵盖数据中心、能源及融资安排；黄仁勋表示AI算力正成为可投资资产类别，将改变资本市场格局。",
-      "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
-      "source": "CNBC",
-      "published_date": "2026-08-10",
-      "verified": true,
-      "first_seen": "2026-08-11",
-      "is_new": false,
-      "group": "大盘头条",
+      "id": "6d2205398186a864",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
-        "US"
-      ],
-      "time": "07:30",
-      "why": "机构资金以空前规模绑定AI算力基础设施建设，强化英伟达在AI硬件供应链的核心地位；对持仓中的英伟达、SK海力士、美光等AI算力链标的构成中长期利好，可作为逢低布局或sell put的参考背景。",
-      "keywords": [
-        "AI基础设施",
-        "英伟达",
-        "NVDA",
-        "数据中心"
-      ],
-      "translated": false
-    },
-    {
-      "id": "c957fe0fa64de911",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
         "A"
       ],
       "time": "09:00",
       "group": "大盘头条",
-      "title": "Oil Prices Jump on Iran Demands as Hormuz Talks Stall; WTI Closes at $82",
-      "summary": "Iran's Foreign Ministry said the U.S. must lift its naval blockade before Tehran would agree to fully reopen the Strait of Hormuz, dashing hopes for an imminent deal brokered via Oman. WTI crude rose about 5% to close near $82/bbl. The strait — conduit for ~20% of global oil supplies — has seen daily transits collapse from ~130 to just 8-15 vessels since the conflict began in late February.",
-      "why": "霍尔木兹谈判破裂令油价跳涨约5%，能源成本上行压力再度升温，叠加明日(8/12)CPI数据，对美联储9月政策路径构成双重不确定性；期权卖方需关注能源板块隐含波动率重定价风险。",
-      "source": "CNBC",
+      "title": "国务院修改《住房公积金管理条例》：新增装修、物业费等提取情形，9月20日施行",
+      "summary": "国务院总理李强签署国务院令，修改《住房公积金管理条例》，自2026年9月20日起施行。主要变化：①新增装修自住住房、支付物业费等可提取情形；②取消租房须超收入一定比例的限制门槛；③简化提取手续、推进跨城互认；④个体工商户、灵活就业人员可自愿缴存。新华社8月18日受权发布。",
+      "why": "政策扩大公积金使用灵活性，直接利好居民住房消费与装修链，中期对消费赛道（家居/商业地产周边）有正面催化效果；对整体A股政策取向传递积极信号。",
+      "source": "新华网（受权发布）",
       "verified": true,
       "keywords": [
-        "Strait of Hormuz",
-        "Iran",
-        "oil",
-        "WTI",
-        "macro",
-        "geopolitical"
+        "住房公积金",
+        "国务院",
+        "政策",
+        "消费"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
-      "published_date": "2026-08-10",
-      "still_developing": true,
-      "first_seen": "2026-08-11",
-      "is_new": false
+      "url": "https://www1.xinhuanet.com/politics/20260818/751363d15a8b48ceadedbaf60e9d06bc/c.html",
+      "published_date": "2026-08-18",
+      "still_developing": false,
+      "first_seen": "2026-08-19",
+      "is_new": true
     },
     {
-      "id": "5f51942a529dfd0f",
-      "tier": 1,
-      "lang": "en",
+      "id": "bef5daaa67be1260",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
-        "HK",
-        "US",
         "A"
       ],
-      "time": "08:00",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "Gold Rallies to $4,400 Futures Open, Highest Since Early June, as Central Banks Pile In",
-      "summary": "Gold December futures opened at $4,400/oz on Monday August 10, with spot prices around $4,342 — the highest opening since early June — fueled by fading rate-hike expectations after the weak July jobs report and central bank safe-haven demand. Global central banks net-purchased 289 tons in Q2 2026, up 62% YoY. HK gold jewelry stocks (Laopu Gold, Chow Tai Fook, Chow Sang Sang) surged in tandem.",
-      "why": "金价创近两月新高，直接利好持仓中老铺黄金(6181.HK)等贵金属相关标的；7月就业疲软令市场降息预期升温是主要驱动；央行持续购金提供中线支撑，黄金方向性判断对covered call执行价选择至关重要。",
-      "source": "Bloomberg",
+      "title": "财政部副部长廖岷将于8月21日就十五五积极财政政策进行说明",
+      "summary": "国务院新闻办公室定于2026年8月21日（周五）上午10时举行「开局起步十五五」系列主题发布会，由财政部副部长廖岷介绍发挥积极财政政策作用、推进相关改革的情况，并答记者问。",
+      "why": "十五五（2026-2030）开局期财政政策基调将影响A股风险偏好，特别是财政扩张力度、消费补贴与专项债等方向；若信号偏积极，有助于提振大盘与持仓消费/科技赛道标的。",
+      "source": "新浪财经（引自国务院新闻办公室公告）",
       "verified": true,
       "keywords": [
-        "gold",
-        "黄金",
-        "precious metals",
-        "贵金属",
-        "老铺黄金",
-        "Laopu Gold",
-        "central bank",
-        "macro"
+        "财政政策",
+        "十五五",
+        "国务院",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-10/gold-is-rallying-again-thanks-to-some-deep-pocketed-buyers",
-      "published_date": "2026-08-10",
-      "still_developing": false,
-      "first_seen": "2026-08-11",
-      "is_new": false
-    },
-    {
-      "id": "06fafbcce9b9816f",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "Samsung HBM4 Hits 80% 'Golden Yield,' Targeting 38% HBM Market Share by Year-End",
-      "summary": "Samsung reached an 80% production yield on HBM4 memory chips — the industry's 'golden yield' for profitability — just six months into mass production and ahead of its own schedule. Samsung is now targeting a 38% HBM market share by year-end and expects HBM4 to account for over 60% of its HBM revenue in H2 2026. Analysts expect Samsung to slightly surpass SK Hynix in HBM volume share in 2027. Separately, SK Hynix labor talks stalled Monday over stock-based bonus disputes.",
-      "why": "三星HBM4良率快速提升对SK海力士(7709.HK南方两倍做多ETF)的HBM领导地位构成实质挑战；英伟达Blackwell平台HBM供应商格局或生变，美光HBM定价权亦受影响；SK海力士劳资僵局若升级将进一步加剧供应侧风险，HBM/AI芯片板块波动率升高。",
-      "source": "Seoul Economic Daily",
-      "verified": false,
-      "keywords": [
-        "Samsung",
-        "SK Hynix",
-        "SK海力士",
-        "HBM4",
-        "HBM",
-        "memory",
-        "AI chip",
-        "存储芯片",
-        "英伟达",
-        "Nvidia"
-      ],
-      "translated": false,
-      "url": "https://en.sedaily.com/finance/2026/08/10/samsung-cracks-hbm4-yields-set-to-overtake-sk-hynix-next",
-      "published_date": "2026-08-10",
-      "still_developing": false,
-      "first_seen": "2026-08-11",
-      "is_new": false
-    },
-    {
-      "id": "25a711f1aaf66e0c",
-      "tier": 1,
-      "lang": "zh",
-      "title": "霍尔木兹海峡局势升温，国际油价单日涨逾4%",
-      "summary": "中东紧张态势持续，霍尔木兹海峡断航风险上升，布伦特原油及WTI原油期货当日涨幅均超4%，能源股受提振，对通胀预期形成新压力。",
-      "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimwckz1104679.shtml",
-      "source": "新浪财经",
-      "published_date": "2026-08-11",
-      "verified": true,
-      "first_seen": "2026-08-11",
-      "is_new": false,
-      "group": "大盘头条",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "08:00",
-      "why": "地缘风险溢价推高油价将放大全球通胀预期，可能延后美联储降息路径，对港股/A股及美股风险资产估值形成压制；持有期权仓位需留意隐含波动率随地缘风险上行。",
-      "keywords": [
-        "原油",
-        "大宗商品",
-        "中东",
-        "通胀"
-      ],
-      "translated": false
-    },
-    {
-      "id": "3301e04072f88a15",
-      "tier": 1,
-      "lang": "zh",
-      "title": "腾讯明日(8/12)发布Q2业绩，市场预期收入同比增约10%",
-      "summary": "腾讯控股将于2026年8月12日盘后发布2026年Q2业绩。市场预期季度收入同比增长约10%，净利润维持稳健；游戏（王者荣耀、和平精英）及微信生态广告为主要增长驱动。业绩会及指引为核心关注点，事件仍在演进。",
-      "url": "https://www.tencent.com/zh-hk/investors.html",
-      "source": "腾讯 IR",
-      "published_date": "2026-08-11",
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-08-19/doc-ininuzku8334226.shtml",
+      "published_date": "2026-08-19",
       "still_developing": true,
-      "verified": true,
-      "first_seen": "2026-08-11",
-      "is_new": false,
-      "group": "个股",
+      "first_seen": "2026-08-19",
+      "is_new": true
+    },
+    {
+      "id": "9a03a3f3a8241503",
+      "tier": 3,
+      "lang": "zh",
       "markets": [
+        "A",
         "HK"
       ],
       "time": "09:00",
-      "why": "核心持仓腾讯即将公布财报，游戏及广告收入增速是股价短期最大变量；若sell put行权价临近财报窗口，需评估隐含波动率上升后的保证金及行权风险。",
-      "keywords": [
-        "腾讯",
-        "0700.HK",
-        "业绩",
-        "Q2",
-        "游戏",
-        "广告"
-      ],
-      "translated": false
-    },
-    {
-      "id": "6f660b6f51f8a4b5",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
       "group": "大盘头条",
-      "title": "CoreWeave (CRWV) Reports Q2 2026 Earnings Today After Close: $2.55B Revenue Expected, 15.5% Options Swing Priced",
-      "summary": "CoreWeave (CRWV) reports Q2 2026 results after market close today. Consensus expects revenue of $2.55 billion (+111% YoY vs. $1.21B a year ago), with a loss of ~$1.22/share as the AI cloud provider continues aggressive GPU and data-center capex ($31-35B plan for 2026). Key watch items: $99.4B revenue backlog sustainability, margin improvement from Q1 lows, and customer concentration risk. Options imply a 15.5% move in either direction.",
-      "why": "CoreWeave是AI算力云基础设施核心供应商，其Q2业绩直接验证超大规模算力投资景气度；强劲结果将提振英伟达GPU需求叙事及AI整体板块估值，疲软则引发AI资本开支可持续性质疑，对英伟达及AI关联持仓波动率影响显著。",
-      "source": "Stocks Down Under / Benzinga",
+      "title": "2026世界机器人大会(WRC)今日北京亦庄开幕：300+家企业、2000+件展品",
+      "summary": "2026世界机器人大会(WRC)8月19-23日在北京亦庄仁创国际会展中心举行，主题「人机共生、供需互融」。参展企业逾300家（同比+36%），展品超2000件（同比+27%），新品首发150余款，预计吸引逾30万名参观者，国际嘉宾占主论坛发言者约30%。",
+      "why": "WRC是国内人形机器人与工业机器人的年度风向标。对特斯拉Optimus、小米人形机器人赛道、A股机器人主题标的有潜在催化效果；若有标志性新品或大订单落地，可能触发板块短期行情。",
+      "source": "worldrobotconference.com（官方网站）",
       "verified": false,
       "keywords": [
-        "CoreWeave",
-        "CRWV",
-        "AI cloud",
-        "AI chip",
-        "earnings",
-        "英伟达",
-        "Nvidia",
-        "GPU"
+        "机器人",
+        "世界机器人大会",
+        "WRC",
+        "人形机器人",
+        "AI"
       ],
       "translated": false,
-      "url": "https://stocksdownunder.com/ai-earnings-week-nasdaq-coreweave-supermicro/",
-      "published_date": "2026-08-11",
+      "url": "https://www.worldrobotconference.com/expo/",
+      "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-11",
-      "is_new": false
+      "first_seen": "2026-08-19",
+      "is_new": true
     },
     {
       "id": "f4e8a216b5c7d309",
@@ -1201,6 +1031,100 @@
       "is_new": false
     },
     {
+      "id": "37d4d365a4cba89f",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "U.S. Stocks Slip, VIX Surges 6.6%, Gold Hits Record $4,398 as Iran Tensions Lift Oil",
+      "summary": "S&P 500 fell 0.52% to 7,745; Nasdaq off 0.32%; VIX jumped 6.6% to 15.19. Spot gold rose 0.51% to $4,398/oz; WTI crude +0.6% to $85/bbl after Trump rejected extending the Iran agreement and fighting resumed in Lebanon. Dollar index eased 0.11% to 99.56; Fed expected to hold at 3.50-3.75% with next FOMC on Sept 16.",
+      "why": "VIX升破15，期权隐含波动率回升，sell-put策略溢价扩大；黄金创新高对老铺黄金类持仓情绪形成支撑；油价上行叠加地缘风险压制市场情绪，注意持仓整体delta风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "VIX",
+        "Gold",
+        "WTI",
+        "Iran",
+        "Fed",
+        "FOMC"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-08-17",
+      "still_developing": false,
+      "first_seen": "2026-08-18",
+      "is_new": false
+    },
+    {
+      "id": "981cc1dfa7333f92",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "超级财报周：沃尔玛、阿里巴巴、富途控股同日8月20日发布业绩，英伟达8月26日压轴",
+      "summary": "沃尔玛将于8月20日发布Q2 FY2027财报，分析师预期EPS $0.74、营收$186.8B（+8.8% YoY），期权隐含4.6%波动，关键看点为关税转嫁能力；阿里巴巴同日发布FY2027 Q1财报，预期营收+16%至$39.8B，期权隐含6.6%波动；富途控股同日发布Q2 2026业绩；英伟达8月26日发布Q2 FY2027财报，分析师预期营收约$91B（+50% YoY）。",
+      "why": "本周财报密度极高，横跨消费零售（沃尔玛）、互联网科技（阿里）、互联网券商（富途）、AI算力（英伟达）；阿里和英伟达期权隐含波动率偏高，持有相关仓位需关注期权到期日安排和行权价风险。",
+      "source": "沃尔玛官方IR",
+      "verified": true,
+      "keywords": [
+        "沃尔玛",
+        "WMT",
+        "阿里巴巴",
+        "BABA",
+        "9988.HK",
+        "富途",
+        "FUTU",
+        "英伟达",
+        "NVDA",
+        "财报周"
+      ],
+      "translated": false,
+      "url": "https://corporate.walmart.com/news/2026/08/13/walmart-to-host-second-quarter-earnings-conference-call-august-20-2026",
+      "published_date": "2026-08-13",
+      "still_developing": true,
+      "first_seen": "2026-08-18",
+      "is_new": false
+    },
+    {
+      "id": "657b28b24473d483",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Goldman Sachs Bitcoin ETF Acquisition Advances: NEOS Files Proxy Supplement with SEC on Aug 17 for $2.25B Deal",
+      "summary": "NEOS ETF Trust filed a DEFA14A proxy statement supplement with the SEC on Aug 17, advancing shareholder approval of Goldman Sachs's $2.25B acquisition of NEOS Investments, which manages $30B across 19 options-based income ETFs including Bitcoin income ETF BTCI and Ethereum income ETF NEHI. Combined Goldman active ETF AUM to reach ~$80B. Deal expected to close Q1 2027 pending regulatory approval.",
+      "why": "延续报道：高盛8月12日宣布收购NEOS，8月17日完成SEC代理声明备案，股东审批流程正式推进；华尔街顶级券商全面进军加密收益产品，对Circle及稳定币赛道形成机构背书，加密ETF生态持续扩容。",
+      "source": "SEC EDGAR",
+      "verified": true,
+      "keywords": [
+        "Goldman Sachs",
+        "NEOS",
+        "Bitcoin ETF",
+        "BTCI",
+        "crypto",
+        "Circle",
+        "CRCL"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001848758/000199937126018077/neos-defa14a_081726.htm",
+      "published_date": "2026-08-17",
+      "still_developing": true,
+      "first_seen": "2026-08-18",
+      "is_new": false
+    },
+    {
       "id": "95ff69f530bc6715",
       "tier": 1,
       "lang": "en",
@@ -1476,149 +1400,6 @@
       "time": "08:00",
       "is_new": false,
       "first_seen": "2026-08-18"
-    },
-    {
-      "id": "9837042508dedd43",
-      "tier": 2,
-      "lang": "zh",
-      "title": "对冲基金重返做空，科技与消费板块空头仓位创近期高位",
-      "summary": "华尔街见闻援引机构数据显示，对冲基金近期明显增加科技及消费类股空头头寸，空头仓位升至近期新高；分析人士认为市场情绪趋于谨慎，隐含波动率有走升风险。",
-      "url": "https://wallstreetcn.com/articles/3747499",
-      "source": "华尔街见闻",
-      "published_date": "2026-08-10",
-      "verified": false,
-      "first_seen": "2026-08-11",
-      "is_new": false,
-      "group": "大盘头条",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "09:30",
-      "why": "机构空头仓位回升反映市场对科技消费板块估值的谨慎情绪，隐含波动率有走升风险；持有sell put策略的核心消费/科技标的需适度收窄行权价安全边际。",
-      "keywords": [
-        "对冲基金",
-        "做空",
-        "波动率",
-        "市场情绪"
-      ],
-      "translated": false
-    },
-    {
-      "id": "62d5b94abadce0d1",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "SK Hynix Labor Talks Stall Over Stock-Based Bonus Dispute, Adding Operational Uncertainty",
-      "summary": "SK Hynix's labor-management negotiations broke down Monday after the company proposed paying annual performance bonuses partly in company stock, which the union rejected as dilution of cash pay. This comes as Samsung's HBM4 yield hits 80%, intensifying competitive pressure on SK Hynix's AI memory dominance.",
-      "why": "SK海力士劳资谈判破裂若升级为罢工或怠工，将直接威胁HBM4产能稳定性，加重英伟达Blackwell平台供应不确定性；结合三星HBM4竞争双重压力，7709.HK南方两倍做多ETF需关注下行风险，sell put执行价宜保守。",
-      "source": "Seoul Economic Daily",
-      "verified": false,
-      "keywords": [
-        "SK Hynix",
-        "SK海力士",
-        "HBM4",
-        "HBM",
-        "labor",
-        "memory",
-        "存储芯片",
-        "AI chip"
-      ],
-      "translated": false,
-      "url": "https://en.sedaily.com/finance/2026/08/10/sk-hynix-labor-talks-stall-over-paying-bonuses-in-company-stock",
-      "published_date": "2026-08-10",
-      "still_developing": false,
-      "first_seen": "2026-08-11",
-      "is_new": false
-    },
-    {
-      "id": "fbf2fe9531152447",
-      "tier": 2,
-      "lang": "zh",
-      "title": "美股周五下跌，费城半导体指数跌逾3%",
-      "summary": "受科技股与芯片股回调拖累，美股三大指数集体收跌，费城半导体指数单日跌幅超3%；英伟达、AMD等AI芯片龙头较高位回落，市场消化前期涨幅。",
-      "url": "https://finance.sina.com.cn/stock/cpbd/2026-08-11/doc-inimwuhv7728993.shtml",
-      "source": "新浪财经",
-      "published_date": "2026-08-11",
-      "verified": true,
-      "first_seen": "2026-08-11",
-      "is_new": false,
-      "group": "大盘头条",
-      "markets": [
-        "US"
-      ],
-      "time": "09:15",
-      "why": "半导体板块领跌显示AI硬件链短期获利了结压力增大，英伟达、美光、SK海力士等持仓关联标的估值或承压；建议观察本周科技股企稳信号后再考虑加仓sell put。",
-      "keywords": [
-        "美股",
-        "半导体",
-        "SOX",
-        "科技股"
-      ],
-      "translated": false
-    },
-    {
-      "id": "2a3b1b42135b514e",
-      "tier": 2,
-      "lang": "en",
-      "title": "腾讯音乐(TME) Q2业绩超预期：收入+18% YoY，付费用户+630万",
-      "summary": "腾讯音乐娱乐Q2营收同比增长18%，付费订阅用户净增630万至1.22亿；在线音乐收入占比提升，广告及社交娱乐业务亦保持增长，业绩好于市场一致预期。数据来源：SEC EDGAR 6-K文件。",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001744676/000095010326010575/dp249944_ex9901.htm",
-      "source": "SEC EDGAR",
-      "published_date": "2026-08-11",
-      "verified": true,
-      "first_seen": "2026-08-11",
-      "is_new": false,
-      "group": "个股",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "10:00",
-      "why": "腾讯生态内业务保持稳健增长，付费用户及收入双位数扩张，为腾讯广义生态价值提供正面印证；关注是否带动腾讯控股情绪修复。",
-      "keywords": [
-        "TME",
-        "腾讯音乐",
-        "业绩",
-        "Q2",
-        "0700.HK"
-      ],
-      "translated": false
-    },
-    {
-      "id": "75b4b36e577aa18e",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "腾讯音乐(TME)今日发布Q2 2026业绩：分析师预期EPS $0.24，营收约13亿美元",
-      "summary": "腾讯音乐娱乐集团(TME)于今日(8月11日)美国股市开盘前发布Q2 2026未经审核财务业绩，分析师预期每股盈利$0.24，营收约12.99亿美元。管理层将于北京/香港时间晚7:00举行业绩电话会。TME Q2表现可为明日腾讯控股(0700.HK)Q2财报提供情绪参照。",
-      "why": "腾讯音乐是腾讯系旗下独立上市平台，Q2表现可对照腾讯增值服务板块走势；关注AI音乐功能（如曲目创作、歌词生成）的付费转化率及在线音乐订阅用户增长，此为判断腾讯娱乐生态AI变现能力的前导指标。",
-      "source": "Tencent Music官方IR",
-      "verified": true,
-      "keywords": [
-        "腾讯音乐",
-        "Tencent Music",
-        "TME",
-        "腾讯",
-        "Tencent"
-      ],
-      "translated": false,
-      "url": "https://ir.tencentmusic.com/2026-07-14-Tencent-Music-Entertainment-Group-to-Report-Second-Quarter-2026-Financial-Results-on-August-11,-2026",
-      "published_date": "2026-08-11",
-      "still_developing": false,
-      "first_seen": "2026-08-11",
-      "is_new": false
     },
     {
       "id": "78637d4e2b5a9c01",
@@ -2599,6 +2380,37 @@
       "published_date": "2026-08-14",
       "still_developing": true,
       "first_seen": "2026-08-17",
+      "is_new": false
+    },
+    {
+      "id": "9fe604c012aa1174",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "小米汽车：SU7系列28.5个月累计交付突破50万台，雷军回应里程碑，8月预计交付约3.4万辆",
+      "summary": "SU7系列自2024年3月上市起历时28.5个月完成50万台累计交付，雷军第一时间发布回应。7月SU7交付21,044辆（连续4月居20万元以上轿车销量第一），YU7交付10,223辆；德意志银行预期8月交付约3.4万辆，全年目标55万辆。YU7等候时间约56周。",
+      "why": "50万台里程碑强化小米汽车品牌势能与出货可视性；YU7等候56周意味着订单积压充足，支撑1810.HK中期估值；里程碑事件对雷军社交媒体流量具有品牌破圈效应。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "1810.HK",
+        "SU7",
+        "YU7",
+        "小米汽车",
+        "雷军",
+        "交付量",
+        "EV"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqxur7057787.shtml",
+      "published_date": "2026-08-17",
+      "still_developing": false,
+      "first_seen": "2026-08-18",
       "is_new": false
     },
     {
