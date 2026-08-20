@@ -1,56 +1,276 @@
 [
-    {
-          "id": "8a12e6a04fdcb381",
-          "tier": 1,
-          "lang": "en",
-          "markets": ["US"],
-          "time": "2026-08-14T00:00:00Z",
-          "group": "大盘头条",
-          "title": "Stock market next week (Aug 17-21): Walmart, Home Depot, Target earnings; FOMC minutes; Reddit joins S&P 500",
-          "summary": "The week of Aug 17-21 brings a triple retail earnings test — Walmart (Aug 20), Home Depot (Aug 18), Target (Aug 19) — plus the FOMC July 28-29 meeting minutes release (Aug 19) and Reddit's debut as an S&P 500 constituent.",
-          "why": "大盘级别事件集中本周：三大零售商财报将检验美国消费韧性；FOMC纪要揭示7月28-29日会议的讨论细节（当次会议按兵不动，3票异议倾向加息）；Reddit入选标普500影响指数基金被动买入。3天前发布，本周事件仍在发酵中。",
-          "source": "CNBC",
-          "verified": false,
-          "keywords": ["$WMT", "$HD", "$TGT", "FOMC", "S&P500", "零售财报", "消费"],
-          "translated": false,
-          "url": "https://www.cnbc.com/2026/08/14/stock-market-next-week-outlook-for-aug-17-21-2026.html",
-          "published_date": "2026-08-14",
-          "still_developing": true
-    },
-    {
-          "id": "ddaa9fd457398802",
-          "tier": 1,
-          "lang": "en",
-          "markets": ["US"],
-          "time": "2026-08-16T00:00:00Z",
-          "group": "大盘头条",
-          "title": "2 big catalysts ahead: Nvidia Q2 earnings Aug 26 (consensus ~$91.8B revenue) and Jackson Hole Aug 27-29",
-          "summary": "CNBC identifies two defining market events in coming weeks: Nvidia's Q2 earnings on Aug 26 (Street consensus revenue ~$91.8B, ~+96% YoY), and the Jackson Hole Economic Symposium Aug 27-29 where Fed Chair Warsh delivers his first keynote as chair on Aug 28. Theme: 'Financial Innovation: Implications for Payments and Policy.'",
-          "why": "英伟达Q2财报是AI投资周期的晴雨表，共识预期收入918亿美元(YoY+96%)；Warsh首次在Jackson Hole发表讲话，其'货币哑铃'策略（短端灵活+激进QT）立场将影响市场对利率路径的定价。两者叠加是未来2周最大宏观+个股双重催化剂。发布于昨日(8/16)。",
-          "source": "CNBC",
-          "verified": false,
-          "keywords": ["$NVDA", "英伟达", "Nvidia", "Jackson Hole", "Warsh", "货币政策", "AI芯片"],
-          "translated": false,
-          "url": "https://www.cnbc.com/2026/08/16/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-          "published_date": "2026-08-16",
-          "still_developing": false
-    },
-    {
-          "id": "72ef20f1c0004fa3",
-          "tier": 2,
-          "lang": "en",
-          "markets": ["HK", "A", "US"],
-          "time": "2026-08-15T00:00:00Z",
-          "group": "大盘头条",
-          "title": "China's July factory output, retail sales growth miss forecasts",
-          "summary": "China's July economic data disappointed: retail sales +3.7% YoY (est. +4.6%), industrial output +5.7% YoY (est. ~+6%), fixed-asset investment +1.6% YTD YoY (est. +2.7%), urban unemployment 5.2%. All major indicators came in below consensus.",
-          "why": "中国7月经济数据全线低于预期，零售销售增速从6月的4.5%回落至3.7%，工业产出和固投同样走弱，触发市场对进一步刺激政策的预期，直接影响港股（腾讯、美团等）及A股情绪。数据于2026-08-15公布，仍在影响本周市场走向。已追溯到Reuters白名单原文；但具体数字未与国家统计局原文直接核对，故标 verified=false。",
-          "source": "Reuters",
-          "verified": false,
-          "keywords": ["中国经济", "零售销售", "工业产出", "固定资产投资", "宏观", "macro", "China"],
-          "translated": false,
-          "url": "https://www.reuters.com/world/china/chinas-july-factory-output-retail-sales-growth-miss-forecasts-2026-08-15/",
-          "published_date": "2026-08-15",
-          "still_developing": true
-    }
+  {
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "A"
+    ],
+    "time": "09:30",
+    "group": "大盘头条",
+    "title": "许家印被判处无期徒刑，恒大集团判处罚款88.2亿元",
+    "summary": "广东省深圳市中级人民法院8月20日上午对恒大集团、恒大地产、许家印等案一审公开宣判：许家印数罪并罚判处无期徒刑、剥夺政治权利终身、没收个人全部财产；恒大集团罚款88.2亿元、恒大地产罚款70亿元。",
+    "why": "中国最大房地产欺诈案落幕，强化监管严肃信号，有助于市场预期出清；对港股/A股房地产板块风险偏好短期扰动，长期利好市场法治环境。",
+    "source": "第一财经",
+    "verified": true,
+    "keywords": [
+      "恒大",
+      "许家印",
+      "无期徒刑",
+      "监管",
+      "房地产"
+    ],
+    "translated": false,
+    "url": "https://www.yicai.com/news/103326210.html",
+    "published_date": "2026-08-20",
+    "still_developing": false,
+    "id": "90709ef38bc9f6a7"
+  },
+  {
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "A"
+    ],
+    "time": "09:15",
+    "group": "大盘头条",
+    "title": "中国人民银行公布8月LPR：1年期3.0%、5年期以上3.5%，均与前值持平",
+    "summary": "2026年8月20日，中国人民银行授权公布贷款市场报价利率（LPR）：1年期LPR为3.0%，5年期以上LPR为3.5%，均较上期持平，已连续多个月保持不变。",
+    "why": "LPR持平符合市场预期，短期对港股/A股无直接冲击；利率维持低位对估值友好，消费与科技板块持仓环境维持稳定。",
+    "source": "中国人民银行/新浪财经",
+    "verified": true,
+    "keywords": [
+      "LPR",
+      "贷款利率",
+      "利率",
+      "人民银行",
+      "宏观"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-20/doc-ininxqxq8070022.shtml",
+    "published_date": "2026-08-20",
+    "still_developing": false,
+    "id": "ec4ab8138b418329"
+  },
+  {
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "08:00",
+    "group": "大盘头条",
+    "title": "Moderna, Merck make history: first mRNA cancer vaccine succeeds in Phase 3 trial; MRNA surges 177%",
+    "summary": "Moderna and Merck's personalized mRNA cancer vaccine intismeran autogene achieved primary endpoints in Phase 3 INTerpath-001 trial for melanoma (recurrence-free survival and distant metastasis-free survival). Moderna stock surged 177% to $174.38, market cap rose from $25B to $69B; Merck climbed 12%.",
+    "why": "全球首个mRNA癌症疫苗三期成功是里程碑级医学事件，驱动生物科技板块重定价；港股云顶新耀（有mRNA布局）今日飙升68%，关注相关概念股期权隐含波动率扩张机会。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "Moderna",
+      "Merck",
+      "mRNA",
+      "cancer vaccine",
+      "Phase 3",
+      "biotech"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+    "published_date": "2026-08-19",
+    "still_developing": false,
+    "id": "84d3deb652c5f22b"
+  },
+  {
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "10:00",
+    "group": "大盘头条",
+    "title": "宇树科技科创板上市首日暴涨629%，成A股人形机器人第一股，市值达3418亿元",
+    "summary": "宇树科技（688836）8月19日在上海交易所科创板挂牌，以1100元/股开盘，较150.8元发行价暴涨629.44%，收盘市值3418亿元，成为A股首家上市人形机器人企业；IPO零售端超额认购5,526倍。",
+    "why": "人形机器人赛道重磅IPO催热具身智能概念，带动产业链估值重估；对科技板块整体情绪形成提振，相关ETF（如KSTR）持仓有望受益。",
+    "source": "财新",
+    "verified": true,
+    "keywords": [
+      "宇树科技",
+      "Unitree",
+      "人形机器人",
+      "科创板",
+      "IPO",
+      "A股"
+    ],
+    "translated": false,
+    "url": "https://finance.caixin.com/2026-08-19/102475557.html",
+    "published_date": "2026-08-19",
+    "still_developing": false,
+    "id": "30dd77b02995fe3e"
+  },
+  {
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "12:30",
+    "group": "大盘头条",
+    "title": "港股午盘：恒指涨1.14%，科指涨1.54%；云顶新耀飙68%，快手跌超9%",
+    "summary": "8月20日港股午盘，恒生指数涨1.14%，恒生科技指数涨1.54%，科网股涨多跌少；云顶新耀因mRNA癌症疫苗消息飙升68%领涨创新药板块；快手则因Q2业绩净利大降36%跌超9%；中概股方面携程、理想汽车各涨逾4%，拼多多涨逾3%。",
+    "why": "港股今日整体偏强，结构性分化显著；科技持仓受益科指上涨；快手大跌体现盈利预期差带来的期权高波动率机会值得关注。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "港股",
+      "恒生指数",
+      "大盘",
+      "云顶新耀",
+      "快手"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-20/doc-ininxqxq8070022.shtml",
+    "published_date": "2026-08-20",
+    "still_developing": false,
+    "id": "ec4ab8138b418329"
+  },
+  {
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "08:30",
+    "group": "个股",
+    "title": "阿里巴巴FY27Q1财报：营收2477亿元(+2%)，云智能收入432亿元(+26%)，AI产品连续8季三位数增长",
+    "summary": "阿里巴巴8月20日美股盘前发布FY2027第一季度（2026年4—6月）业绩：集团总营收2477亿元，同比增长2%；云智能集团收入432亿元，同比增长26%；AI相关产品收入实现三位数增长，连续第8个季度保持该增速；股价盘前上涨。",
+    "why": "阿里云增速低于45%的市场预期，但AI商业化持续提速；AI高投入继续侵蚀利润，与腾讯Q2逻辑相似；持有9988.HK/BABA正股或sell put需关注利润率下行风险与云增速趋势。",
+    "source": "阿里巴巴集团官网(IR)",
+    "verified": false,
+    "keywords": [
+      "阿里巴巴",
+      "BABA",
+      "9988.HK",
+      "财报",
+      "云计算",
+      "AI",
+      "通义千问"
+    ],
+    "translated": false,
+    "url": "https://www.alibabagroup.com/en-US/document-1898208128135069696",
+    "published_date": "2026-08-20",
+    "still_developing": false,
+    "id": "fb3fea03027d4ee6"
+  },
+  {
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "快手Q2营收355亿(+1.4%)，净利润同比降36%；Kling AI季度收入突破8.5亿元",
+    "summary": "快手2026年Q2总营收355.35亿元，同比增长1.4%；non-IFRS调整净利润39.13亿元，同比下降30.3%；AI视频生成产品Kling AI季度收入超8.5亿元，同比增逾200%；毛利率从55.1%降至51.4%，受AI模型训练成本上升拖累。",
+    "why": "快手今日跌超9%，市场对利润大幅下滑反应负面；Kling AI是唯一亮点，若商业化加速可能改变投资逻辑；短期高波动率对sell put操作构成风险，建议观察后续。",
+    "source": "PR Newswire（快手官方公告）",
+    "verified": true,
+    "keywords": [
+      "快手",
+      "Kuaishou",
+      "财报",
+      "Kling AI",
+      "视频生成",
+      "盈利"
+    ],
+    "translated": false,
+    "url": "http://www.prnewswire.com/news-releases/kuaishou-technology-announces-second-quarter-and-interim-2026-unaudited-financial-results-302855081.html",
+    "published_date": "2026-08-19",
+    "still_developing": false,
+    "id": "96090728749edd7a"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "18:00",
+    "group": "个股",
+    "title": "Tencent bought back 681,000 shares for HK$300.5M on August 18, HKEX filing shows",
+    "summary": "Tencent Holdings (0700.HK) repurchased 681,000 shares for HK$300.5 million on August 18, per an HKEX disclosure. The company has been conducting near-daily buybacks under a 912-million-share mandate authorized in May 2026.",
+    "why": "腾讯持续大额日常回购显示管理层对估值有底，对持有0700正股或卖出看跌期权策略形成强力支撑；留意回购力度是否维持。",
+    "source": "Reuters/TradingView（HKEX披露）",
+    "verified": true,
+    "keywords": [
+      "腾讯",
+      "Tencent",
+      "0700.HK",
+      "回购",
+      "HKEX"
+    ],
+    "translated": false,
+    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44F0F7:0-tencent-bought-back-681-000-shares-for-hk-300-5-mln-on-aug-18-hkex-filing/",
+    "published_date": "2026-08-18",
+    "still_developing": false,
+    "id": "89a066354336e147"
+  },
+  {
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "21:00",
+    "group": "个股",
+    "title": "小米Q2营收1089亿元同比降6.1%，EV/AI业务连续两季亏损26亿；SU7累计交付破50万台",
+    "summary": "小米集团（1810.HK）2026年Q2营收1089亿元，同比下降6.1%；调整后净利润62亿元，同比降约43%；汽车及创新业务运营亏损26亿元（环比收窄），Q2汽车交付10.42万辆，+28.2% YoY；截至8月17日SU7系列累计交付突破50万台。",
+    "why": "小米EV持续亏损且毛利率降至19.2%，短期对整体利润拖累明显；SU7 50万里程碑为品牌事件，长期看好EV业务盈亏平衡时间表；持1810.HK正股需关注亏损收窄进度。",
+    "source": "界面新闻",
+    "verified": true,
+    "keywords": [
+      "小米",
+      "Xiaomi",
+      "1810.HK",
+      "财报",
+      "SU7",
+      "YU7",
+      "小米汽车",
+      "EV"
+    ],
+    "translated": false,
+    "url": "https://m.jiemian.com/article/14942676.html",
+    "published_date": "2026-08-19",
+    "still_developing": false,
+    "id": "e1c4d761490c637d"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "Tesla readies Cybercab public launch in Austin by end of August; launch event expected August 31",
+    "summary": "Tesla plans to launch its Cybercab robotaxi on public roads in Austin, Texas, with a public launch event expected around August 31. The two-seat vehicle (no steering wheel/pedals) is in production at Gigafactory Texas with over 125,000 units annual capacity; employee testing ongoing since July, and riders auto-entered into a raffle for the launch event (Aug 17–23).",
+    "why": "Cybercab公开上路是特斯拉Robotaxi商业化的最重要里程碑，直接影响TSLA估值逻辑；发布时点确认后期权隐含波动率将显著上升，持有TSLA正股或期权应密切关注。",
+    "source": "The Information",
+    "verified": true,
+    "keywords": [
+      "Tesla",
+      "TSLA",
+      "Cybercab",
+      "Robotaxi",
+      "FSD",
+      "自动驾驶",
+      "马斯克"
+    ],
+    "translated": false,
+    "url": "https://www.theinformation.com/articles/tesla-readies-august-launch-cybercab-robotaxi-without-steering-wheel",
+    "published_date": "2026-08-18",
+    "still_developing": true,
+    "id": "a6163a7f66f012db"
+  }
 ]
