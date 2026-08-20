@@ -150,6 +150,14 @@ def gh_put(filename, obj, sha, message):
         sys.exit(1)
 
 
+def gh_put_local(filename, obj, out_dir):
+    """Write JSON object to a local file for manual publishing via MCP tools."""
+    out_path = os.path.join(out_dir, filename)
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+    print(f"  LOCAL {filename} → {out_path}")
+
+
 # ── Item helpers ──────────────────────────────────────────────────────────────
 
 def validate_new_items(items, today_str):
@@ -633,11 +641,21 @@ def main():
 
     # Publish
     date_tag = now_bj.strftime("%Y-%m-%d")
-    print("Publishing …")
-    gh_put("data.json", new_data, data_sha,
-           f"chore(radar): update market radar {date_tag} (+{len(truly_new)} items)")
-    gh_put("seen.json", new_seen, seen_sha,
-           f"chore(radar): update seen {date_tag}")
+    local_output = "--local-output" in sys.argv
+    if local_output:
+        out_dir = os.path.dirname(os.path.abspath(__file__))
+        print(f"LOCAL OUTPUT mode — writing files to {out_dir}")
+        gh_put_local("data.json", new_data, out_dir)
+        gh_put_local("seen.json", new_seen, out_dir)
+        gh_put_local("new_items.json",
+                     [i for i in merged if i.get("is_new")],
+                     out_dir)
+    else:
+        print("Publishing …")
+        gh_put("data.json", new_data, data_sha,
+               f"chore(radar): update market radar {date_tag} (+{len(truly_new)} items)")
+        gh_put("seen.json", new_seen, seen_sha,
+               f"chore(radar): update seen {date_tag}")
 
     print(f"\n✓ +{len(truly_new)} new | {len(existing_items)} existing | {len(merged)} total in data.json"
           + (f" | {len(dropped)} dropped by date-validation" if dropped else "")
