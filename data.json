@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-20 18:24 (北京时间)",
+  "updated_at": "2026-08-21 22:01 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,194 +9,178 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-20 18:24 (北京时间)",
-    "new_count": 4,
+    "at": "2026-08-21 22:01 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
+      "id": "ee5e7ff320b230ca",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US",
-        "HK"
+        "US"
       ],
-      "time": "07:00",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "Brent crude climbs toward $90 as US-Iran Hormuz standoff deepens; Trump threatened Oman strike",
-      "summary": "Brent crude extended gains for a fourth consecutive session approaching $90 per barrel as US-Iran negotiations over the Strait of Hormuz broke down after the 60-day deadline expired without a deal. At least eight attacks on vessels transiting Hormuz were reported in August. President Trump threatened Oman with military strikes and signaled no hurry to end the Iran war, keeping supply-risk premiums elevated.",
-      "why": "霍尔木兹局势持续升级推高全球能源成本，加剧通胀压力并支撑美联储偏鹰立场；对港股/A股整体风险偏好形成压制，能源进口依赖的中国经济复苏亦受拖累；事件仍在发酵中。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "原油",
-        "Iran",
-        "美伊",
-        "霍尔木兹",
-        "地缘政治",
-        "crude oil",
-        "Oman"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
-      "published_date": "2026-08-19",
-      "still_developing": true,
-      "id": "d055adaabdc2127f",
-      "first_seen": "2026-08-20",
-      "is_new": true
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "Gold holds near $4,500/oz at two-month high as Treasury buybacks push yields lower",
-      "summary": "Gold surged to its highest level since early June on August 19, holding near $4,500 per troy ounce, after the US Treasury doubled long-dated bond repurchase operations, driving 30-year Treasury yields sharply lower. The dollar fell to a three-month low, boosting demand for the non-yielding metal, which climbed nearly 4% in two days.",
-      "why": "黄金两个月高位对老铺黄金（6181.HK）营收形成正面支撑——其产品定价直接锚定金价；持有6181正股或期权应关注金价能否突破前高信号；sell put可关注波动率窗口。",
+      "title": "US Stock Futures Gain as Nasdaq 100 Looks to Snap Five-Day Slump",
+      "summary": "Nasdaq 100 futures rose 0.6% in early Friday trading, on track to end a five-day losing streak as Treasury yields stabilize and Bitcoin soars. S&P 500 futures added 0.4%. The Nasdaq 100 had been weighed down all week by surging long-dated Treasury yields and oil prices.",
+      "why": "纳指连跌5日后期货反弹，科技板块短期压力暂缓；Nvidia财报（8/26）临近是下周最大催化剂，本周隐含波动率若有回落可考虑布局sell put。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "黄金",
-        "金价",
-        "老铺黄金",
-        "6181.HK",
-        "gold",
-        "safe haven"
+        "Nasdaq 100",
+        "US futures",
+        "stock market"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower",
-      "published_date": "2026-08-19",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-stock-futures-gain-as-nasdaq-100-looks-to-snap-five-day-slump",
+      "published_date": "2026-08-21",
       "still_developing": false,
-      "id": "b1010d4a903e5017",
-      "first_seen": "2026-08-20",
+      "first_seen": "2026-08-21",
       "is_new": true
     },
     {
+      "id": "c86309b76c034f0a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Treasury Doubles Debt Buybacks to $4B as 30-Year Yield Hits Near 19-Year High",
+      "summary": "The US Treasury doubled long-term debt buyback operations from $2B to at least $4B per operation starting Sept. 9, after 30-year yields hit their highest level since before the 2008 global financial crisis. Treasury Secretary Bessent framed it as a liquidity measure; yields initially fell ~10 bps but subsequently reversed all gains, prompting Bessent to signal further expansion is possible.",
+      "why": "美国30年债收益率逼近19年高点，是本周全球股市最大压制因素；Bessent被迫两度出手，折射债市流动性风险；对成长股估值（如Nvidia、谷歌）及期权隐含波动率均有直接影响，持仓需提高对冲意识。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "US Treasury",
+        "bond yields",
+        "buybacks",
+        "Bessent",
+        "30-year yield"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+      "published_date": "2026-08-19",
+      "still_developing": false,
+      "first_seen": "2026-08-21",
+      "is_new": true
+    },
+    {
+      "id": "99b4036ca0543440",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Oil Sustains Gains Above $93 as US-Iran Conflict Keeps Hormuz Risk Premium Elevated",
+      "summary": "Brent crude traded above $93/barrel and WTI near $87/barrel this week, on track for a second consecutive weekly gain of more than 5%, as the US-Iran conflict over the Strait of Hormuz continued. The UAE suspended financial transactions with Iran following missile attacks; Trump announced an 'economic D-day' against Tehran.",
+      "why": "油价持续高位拖累通胀预期，令美联储降息空间收窄，对成长股及科技板块估值形成压制；同时能源成本上升将侵蚀美国消费者支出（参见Walmart业绩）。地缘风险窗口应维持适度期权对冲。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "oil price",
+        "Brent crude",
+        "US-Iran",
+        "Strait of Hormuz",
+        "geopolitics"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/19/oil-edges-up-on-uncertainty-over-exports-through-hormuz.html",
+      "published_date": "2026-08-19",
+      "still_developing": false,
+      "first_seen": "2026-08-21",
+      "is_new": true
+    },
+    {
+      "id": "156d47add085348c",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Walmart Posts Slowest US Sales Growth in Six Years; Stock Plunges 9.5%",
+      "summary": "Walmart Q2 US comparable-store sales rose 2.6%, missing the 3.7% consensus estimate — the weakest print in more than six years. Q3 adjusted EPS guidance of $0.62–$0.64 also came in below the $0.68 estimate. Despite total revenue of $187.9B and Q2 adjusted EPS of $0.81 both beating, the soft forward outlook hit the stock hard. Higher gas prices and subdued pharmacy sales were cited as key drags.",
+      "why": "沃尔玛股价跌9.5%是美国消费降级信号；高油价压缩居民可支配收入，传导至消费板块（麦当劳、好市多等）。对持有WMT的期权策略者：短期IV飙升，覆盖看涨（covered call）短期价值提升，但下行风险需重新评估。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Walmart",
+        "WMT",
+        "earnings",
+        "comparable sales",
+        "consumer spending"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/walmart-posts-sluggish-sales-with-slowest-us-growth-in-six-years",
+      "published_date": "2026-08-20",
+      "still_developing": false,
+      "first_seen": "2026-08-21",
+      "is_new": true
+    },
+    {
+      "id": "78d8175113a3bd11",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "香港7月综合CPI按年升1.7%，通胀连续三个月放缓",
+      "summary": "香港统计处公布，7月综合消费物价指数（CPI）按年升1.7%，低于6月的2.0%，连续放缓。扣除政府一次性纾困措施后，基本通胀率为1.9%，与前月持平。电力、燃气及水费涨幅最大（+10.8%），但整体压力温和，大多数分类保持平稳。",
+      "why": "港股通胀降温有助维持相对宽松货币预期，对持有估值偏高港股（腾讯、美团等）略偏正面；与此同时油价上行仍是制约通胀进一步回落的隐忧，需持续观察。",
+      "source": "新华社",
+      "verified": true,
+      "keywords": [
+        "香港CPI",
+        "通胀",
+        "消费物价",
+        "HK inflation"
+      ],
+      "translated": false,
+      "url": "https://english.news.cn/20260820/e3fa57ac560c4c389442cf9abbfb9fe7/c.html",
+      "published_date": "2026-08-20",
+      "still_developing": false,
+      "first_seen": "2026-08-21",
+      "is_new": true
+    },
+    {
+      "id": "1f79d79dabf334aa",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "21:00",
+      "time": "08:30",
       "group": "大盘头条",
-      "title": "Bitcoin briefly hits $70,000 as Trump urges Congress to pass crypto Clarity Act at White House summit",
-      "summary": "Bitcoin touched $70,000 for the first time since June 2 after President Trump hosted major cryptocurrency executives including Coinbase, Gemini, Ripple, and Chainlink Labs at the White House on August 20 and called for passage of the Digital Asset Market Clarity Act. Ether also surged. The Clarity Act sets a regulatory framework for digital assets and needs 60 Senate votes before November elections.",
-      "why": "比特币强势回归$70K、监管框架推进直接利好Circle（CRCL）USDC生态及稳定币赛道；Clarity Act若通过将给加密板块带来估值重估机会；Circle持仓者或期权操作者需关注立法进展。",
-      "source": "CNBC",
+      "title": "Bitcoin Surges Toward $80K; BTC and ETH Spot ETFs Pull in $800M for Second Straight Day",
+      "summary": "Bitcoin rose above $79,000 on August 21, its highest level since June, gaining over 8% in 24 hours. Combined US spot Bitcoin and Ether ETF inflows reached $800M for the second consecutive session. Short sellers lost roughly $3B during the breakout. Bernstein analysts described the surge as a liquidity-driven momentum shift. Circle (CRCL) and other crypto-linked equities extended their rally.",
+      "why": "比特币逼近$80K关键位且ETF持续大额流入，稳定币赛道（Circle/USDC）受益；比特币强势周反弹提升风险情绪，对纳指科技股也有正向传导；同时Circle Arc Layer 1将于9/16上线，是独立催化剂。",
+      "source": "The Block",
       "verified": true,
       "keywords": [
-        "比特币",
         "Bitcoin",
+        "BTC",
+        "ETF inflows",
         "crypto",
-        "稳定币",
-        "Circle",
         "USDC",
-        "CRCL",
-        "Clarity Act"
+        "Circle",
+        "CRCL"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
-      "published_date": "2026-08-20",
+      "url": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
+      "published_date": "2026-08-21",
       "still_developing": false,
-      "id": "b8f88bcb374782ab",
-      "first_seen": "2026-08-20",
+      "first_seen": "2026-08-21",
       "is_new": true
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "20:00",
-      "group": "大盘头条",
-      "title": "香港交易所上半年业绩创历史纪录：收入增19%至167亿港元，利润升24%至106亿港元；IPO集资额倍增",
-      "summary": "香港交易所（0388.HK）公布2026年上半年业绩：核心收入同比增长19%至155亿港元，归属股东净利润增长24%至106亿港元，均创半年度历史新高。上半年共87家企业在港上市，合计集资212亿港元，同比增长94%，主要由AI、科技及电信企业驱动。",
-      "why": "港交所强劲业绩是港股市场活跃度最直接的晴雨表；IPO集资额倍增说明AI科技优质资产供应加速，有利于港股科技持仓中长期逻辑；HKEX当日股价涨逾1.6%。",
-      "source": "HKEX官方业绩公告（多方确认）",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "香港交易所",
-        "HKEX",
-        "IPO",
-        "港市"
-      ],
-      "translated": false,
-      "url": "http://en.people.cn/n3/2026/0820/c90000-20490367.html",
-      "published_date": "2026-08-19",
-      "still_developing": false,
-      "id": "0f78b3c646d8777c",
-      "first_seen": "2026-08-20",
-      "is_new": true
-    },
-    {
-      "id": "f4e8a216b5c7d309",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "昨 20:30",
-      "title": "CPI inflation report July 2026: Prices rose 0.1% MoM, +3.4% YoY; nonfarm payrolls shed 23,000 jobs",
-      "summary": "U.S. July CPI +0.1% MoM, +3.4% YoY; core CPI +0.2% MoM, +2.5% YoY — both above the Fed's 2% target. July nonfarm payrolls fell 23,000 (prior two months revised -103k), deepening the stagflation dilemma. CME FedWatch now prices 45.9% probability of a September rate hike. Key upcoming: FOMC minutes Aug 19, Jackson Hole symposium Aug 27-29.",
-      "why": "通胀黏性叠加就业走弱构成美联储两难困境，9月加息概率升至46%；IV走高短期利好Sell Put溢价，但美股成长/消费赛道估值承压；留意8/19 FOMC纪要及8/27鲍威尔Jackson Hole讲话对行权价选择和IV走势的影响。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "CPI",
-        "通胀",
-        "美联储",
-        "macro",
-        "宏观",
-        "Jackson Hole",
-        "FOMC"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-      "published_date": "2026-08-12",
-      "first_seen": "2026-08-13",
-      "is_new": false,
-      "group": "大盘头条",
-      "_recovered_from": "abpjnj"
-    },
-    {
-      "id": "b2a7f3e1c9d5840e",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "昨 20:00",
-      "title": "腾讯Q2 2026实际业绩：营收¥2047.9亿首破单季2000亿，资本开支¥527.8亿(+176%)远超预期，自由现金流2005年来首次转负",
-      "summary": "Q2营收¥2047.9亿(+11% YoY)创历史单季新高，非IFRS经营利润¥756.4亿(+9%)；净利润¥560亿仅+0.7%，低于市场预期¥584亿。资本开支¥527.8亿(+176% YoY)远超预期¥321亿，致自由现金流-¥138亿（2005年来首次转负）；管理层解释：若剔除算力采购预付款，调整后FCF为+¥376亿。研发支出¥272.8亿(+35%)，混元Hy3正式版7月上线，WorkBuddy/CodeBuddy用户激增。",
-      "why": "腾讯为核心watchlist港股标的，资本开支骤增致盈利质量短期承压，股价8月13日午盘收跌3.7%至HK$444.4；Morgan Stanley将目标价从HK$650下调至HK$550（维持超配），Citi上调至HK$765；期权持有者需重新评估Sell Put行权价支撑，中长期AI商业化逻辑不变但短期波动加剧。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "0700.HK",
-        "业绩",
-        "资本开支",
-        "自由现金流",
-        "AI",
-        "混元",
-        "回购"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/t/2026-08-12/doc-ininaezi3541809.shtml",
-      "published_date": "2026-08-12",
-      "first_seen": "2026-08-13",
-      "is_new": false,
-      "group": "个股",
-      "_recovered_from": "abpjnj"
     },
     {
       "id": "e9a2f4c7b8310d6a",
@@ -1500,6 +1484,37 @@
     },
     {
       "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Brent crude climbs toward $90 as US-Iran Hormuz standoff deepens; Trump threatened Oman strike",
+      "summary": "Brent crude extended gains for a fourth consecutive session approaching $90 per barrel as US-Iran negotiations over the Strait of Hormuz broke down after the 60-day deadline expired without a deal. At least eight attacks on vessels transiting Hormuz were reported in August. President Trump threatened Oman with military strikes and signaled no hurry to end the Iran war, keeping supply-risk premiums elevated.",
+      "why": "霍尔木兹局势持续升级推高全球能源成本，加剧通胀压力并支撑美联储偏鹰立场；对港股/A股整体风险偏好形成压制，能源进口依赖的中国经济复苏亦受拖累；事件仍在发酵中。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "原油",
+        "Iran",
+        "美伊",
+        "霍尔木兹",
+        "地缘政治",
+        "crude oil",
+        "Oman"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-08-19",
+      "still_developing": true,
+      "id": "d055adaabdc2127f",
+      "first_seen": "2026-08-20",
+      "is_new": false
+    },
+    {
+      "tier": 1,
       "lang": "zh",
       "markets": [
         "HK",
@@ -1705,95 +1720,6 @@
       "still_developing": false,
       "first_seen": "2026-08-20",
       "is_new": false
-    },
-    {
-      "id": "78637d4e2b5a9c01",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "title": "港股今日午评：腾讯业绩低开3.7%收HK$444，恒科+0.3%，光通信/半导体板块强势，黄金股下挫逾6%",
-      "summary": "恒生指数+0.07%报25457点，恒生科技+0.3%；腾讯(00700)受资本开支超预期拖累收跌3.7%至HK$444.4；联想+3%；中际旭创（光通信）+5%、天数智芯（半导体）+8%领涨；灵宝黄金等黄金股下挫超6%；Citi上调腾讯目标价至HK$765维持买入，Morgan Stanley下调至HK$550维持超配。",
-      "why": "腾讯今日跌幅超3.7%，若持有Sell Put仓位需评估行权价支撑是否有效；黄金股板块集体下挫对watchlist老铺黄金构成情绪压力，关注金价是否形成支撑；光通信/半导体板块强势印证AI基础设施需求叙事，对英伟达、SK海力士等标的持续利好。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "腾讯",
-        "老铺黄金",
-        "恒生科技",
-        "半导体",
-        "光通信"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-13/doc-inincxkw0078637.shtml",
-      "published_date": "2026-08-13",
-      "first_seen": "2026-08-13",
-      "is_new": false,
-      "group": "大盘头条",
-      "_recovered_from": "abpjnj"
-    },
-    {
-      "id": "09992f7e8d3a6b1c",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "title": "泡泡玛特(9992.HK)将于8月25日发布2026年上半年业绩，Labubu持续性与IP多元化为市场焦点",
-      "summary": "泡泡玛特定于2026年8月25日（周一）发布2026年上半年财务业绩。2025全年营收¥371亿(+185% YoY)、净利润¥130亿(+293%)，发布后股价一度下跌约30%，目前距历史高峰已累计回落逾40%。市场聚焦：H1 2026收入增速能否延续75%-80%的Q1指引水平、海外市场是否弥补国内放缓，以及Sony Pictures合作Labubu电影项目的商业化时间表。",
-      "why": "9992为核心港股watchlist标的，业绩日（8月25日，距今12天）前后IV通常走高；股价距高位已大幅回撤，Sell Put溢价丰厚但需警惕业绩不及预期的尾部风险；建议在业绩前结合当前IV水平决定是否建仓及行权价选择。",
-      "source": "富途牛牛",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "9992.HK",
-        "Labubu",
-        "盲盒",
-        "潮玩",
-        "业绩",
-        "隐含波动率"
-      ],
-      "translated": false,
-      "url": "https://www.futunn.com/stock/09992-HK/earnings",
-      "published_date": "2026-08-13",
-      "first_seen": "2026-08-13",
-      "is_new": false,
-      "group": "个股",
-      "_recovered_from": "abpjnj"
-    },
-    {
-      "id": "09988a5f6d7b8c9e",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "title": "阿里巴巴(9988.HK/BABA)业绩日确认为8月28日（前市），较早前部分信源预测的8月20日推迟",
-      "summary": "TipRanks最新数据（Confirmed标注）显示，阿里巴巴FY2027 Q1业绩（截至2026年6月30日季度）将于8月28日（周四）前市发布，部分早期信源曾报道为8月20日。前季阿里云外部商业收入增速加速至40%、AI产品ARR突破¥358亿，本季投资者将关注：淘天GMV趋势、拼多多/Temu竞争格局、云业务利润率及海外电商进展。",
-      "why": "阿里巴巴为watchlist核心双市场标的(HK/US)，业绩日（8月28日）确认令Sell Put时间窗口更清晰；阿里云AI商业化若持续超预期将推动估值重估，建议在发布前评估是否布局期权头寸并提前确认行权价安全边际。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "9988.HK",
-        "BABA",
-        "阿里云",
-        "通义千问",
-        "业绩"
-      ],
-      "translated": false,
-      "url": "https://www.futunn.com/stock/09988-HK/earnings",
-      "published_date": "2026-08-13",
-      "first_seen": "2026-08-13",
-      "is_new": false,
-      "group": "个股",
-      "_recovered_from": "abpjnj"
     },
     {
       "id": "f3c8a1b6e5490d72",
@@ -2951,6 +2877,95 @@
     },
     {
       "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Gold holds near $4,500/oz at two-month high as Treasury buybacks push yields lower",
+      "summary": "Gold surged to its highest level since early June on August 19, holding near $4,500 per troy ounce, after the US Treasury doubled long-dated bond repurchase operations, driving 30-year Treasury yields sharply lower. The dollar fell to a three-month low, boosting demand for the non-yielding metal, which climbed nearly 4% in two days.",
+      "why": "黄金两个月高位对老铺黄金（6181.HK）营收形成正面支撑——其产品定价直接锚定金价；持有6181正股或期权应关注金价能否突破前高信号；sell put可关注波动率窗口。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "黄金",
+        "金价",
+        "老铺黄金",
+        "6181.HK",
+        "gold",
+        "safe haven"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower",
+      "published_date": "2026-08-19",
+      "still_developing": false,
+      "id": "b1010d4a903e5017",
+      "first_seen": "2026-08-20",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "Bitcoin briefly hits $70,000 as Trump urges Congress to pass crypto Clarity Act at White House summit",
+      "summary": "Bitcoin touched $70,000 for the first time since June 2 after President Trump hosted major cryptocurrency executives including Coinbase, Gemini, Ripple, and Chainlink Labs at the White House on August 20 and called for passage of the Digital Asset Market Clarity Act. Ether also surged. The Clarity Act sets a regulatory framework for digital assets and needs 60 Senate votes before November elections.",
+      "why": "比特币强势回归$70K、监管框架推进直接利好Circle（CRCL）USDC生态及稳定币赛道；Clarity Act若通过将给加密板块带来估值重估机会；Circle持仓者或期权操作者需关注立法进展。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "比特币",
+        "Bitcoin",
+        "crypto",
+        "稳定币",
+        "Circle",
+        "USDC",
+        "CRCL",
+        "Clarity Act"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+      "published_date": "2026-08-20",
+      "still_developing": false,
+      "id": "b8f88bcb374782ab",
+      "first_seen": "2026-08-20",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "20:00",
+      "group": "大盘头条",
+      "title": "香港交易所上半年业绩创历史纪录：收入增19%至167亿港元，利润升24%至106亿港元；IPO集资额倍增",
+      "summary": "香港交易所（0388.HK）公布2026年上半年业绩：核心收入同比增长19%至155亿港元，归属股东净利润增长24%至106亿港元，均创半年度历史新高。上半年共87家企业在港上市，合计集资212亿港元，同比增长94%，主要由AI、科技及电信企业驱动。",
+      "why": "港交所强劲业绩是港股市场活跃度最直接的晴雨表；IPO集资额倍增说明AI科技优质资产供应加速，有利于港股科技持仓中长期逻辑；HKEX当日股价涨逾1.6%。",
+      "source": "HKEX官方业绩公告（多方确认）",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "香港交易所",
+        "HKEX",
+        "IPO",
+        "港市"
+      ],
+      "translated": false,
+      "url": "http://en.people.cn/n3/2026/0820/c90000-20490367.html",
+      "published_date": "2026-08-19",
+      "still_developing": false,
+      "id": "0f78b3c646d8777c",
+      "first_seen": "2026-08-20",
+      "is_new": false
+    },
+    {
+      "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
@@ -3153,34 +3168,6 @@
       "still_developing": true,
       "first_seen": "2026-08-20",
       "is_new": false
-    },
-    {
-      "id": "289246f3c4d5e6b0",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:30",
-      "title": "A股今日收评：沪指跌0.5%报3926点，三大指数集体下挫，创新药板块走强，贵金属板块走弱",
-      "summary": "8月13日A股三大指数集体收跌：沪指-0.5%报3926.96点，深成指-0.87%，创业板指-0.45%；创新药（万邦医药等）、证券板块逆势上涨；贵金属板块受金价回调拖累明显走弱，与港股黄金股下挫形成共振。",
-      "why": "A股贵金属板块走弱与港股黄金股集体下挫形成共振，对watchlist老铺黄金（以黄金珠宝为核心）情绪面构成短期压制；整体风险偏好偏弱，关注是否影响港股消费/科技赛道估值，尤其在美国CPI超预期后的市场情绪切换中。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "贵金属",
-        "老铺黄金",
-        "金价",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/cpbd/2026-08-13/doc-ininchpe0289246.shtml",
-      "published_date": "2026-08-13",
-      "first_seen": "2026-08-13",
-      "is_new": false,
-      "group": "大盘头条",
-      "_recovered_from": "abpjnj"
     },
     {
       "id": "f6b9d2e5a0384c17",
