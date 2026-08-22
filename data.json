@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-21 22:01 (北京时间)",
+  "updated_at": "2026-08-22 08:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,323 +9,241 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-21 22:01 (北京时间)",
-    "new_count": 6,
+    "at": "2026-08-22 08:20 (北京时间)",
+    "new_count": 8,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "ee5e7ff320b230ca",
+      "id": "9b6a33563d9bdfa4",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
+        "US",
+        "HK"
       ],
       "time": "08:00",
       "group": "大盘头条",
-      "title": "US Stock Futures Gain as Nasdaq 100 Looks to Snap Five-Day Slump",
-      "summary": "Nasdaq 100 futures rose 0.6% in early Friday trading, on track to end a five-day losing streak as Treasury yields stabilize and Bitcoin soars. S&P 500 futures added 0.4%. The Nasdaq 100 had been weighed down all week by surging long-dated Treasury yields and oil prices.",
-      "why": "纳指连跌5日后期货反弹，科技板块短期压力暂缓；Nvidia财报（8/26）临近是下周最大催化剂，本周隐含波动率若有回落可考虑布局sell put。",
-      "source": "Bloomberg",
+      "title": "Dollar wobbles as investors balk at US Treasury's rescue efforts",
+      "summary": "美元跌至3月低位（指数约98.82），周跌幅逾0.8%；投资者认为财政部加倍回购长端国债属于临时手段，不能解决财政可信度根本问题，欧元升至3月高位1.1685，英镑触6月峰值。",
+      "why": "美元持续走弱反映市场对美国财政可信度的担忧，全球资产重新定价；美元指数走势直接影响港股/中资股估值及做空波动率的时机判断。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "Nasdaq 100",
-        "US futures",
-        "stock market"
+        "美元",
+        "贝森特",
+        "国债回购",
+        "美联储",
+        "债券市场"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-stock-futures-gain-as-nasdaq-100-looks-to-snap-five-day-slump",
+      "url": "https://www.cnbc.com/2026/08/21/dollar-wobbles-as-investors-balk-at-us-treasurys-rescue-efforts.html",
       "published_date": "2026-08-21",
       "still_developing": false,
-      "first_seen": "2026-08-21",
+      "first_seen": "2026-08-22",
       "is_new": true
     },
     {
-      "id": "c86309b76c034f0a",
+      "id": "d6ff216e50f0af9d",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "07:30",
+      "time": "22:00",
       "group": "大盘头条",
-      "title": "Treasury Doubles Debt Buybacks to $4B as 30-Year Yield Hits Near 19-Year High",
-      "summary": "The US Treasury doubled long-term debt buyback operations from $2B to at least $4B per operation starting Sept. 9, after 30-year yields hit their highest level since before the 2008 global financial crisis. Treasury Secretary Bessent framed it as a liquidity measure; yields initially fell ~10 bps but subsequently reversed all gains, prompting Bessent to signal further expansion is possible.",
-      "why": "美国30年债收益率逼近19年高点，是本周全球股市最大压制因素；Bessent被迫两度出手，折射债市流动性风险；对成长股估值（如Nvidia、谷歌）及期权隐含波动率均有直接影响，持仓需提高对冲意识。",
+      "title": "Dow tumbles 700 points, S&P 500 falls as Treasury plan to subdue yields fails",
+      "summary": "道指8月19日大跌逾700点，标普500下挫，30年期美债收益率一度升至5.27%（2007年来最高）；财政部长贝森特当日宣布加倍回购长端国债以抑制收益率，但市场将此视为短期补丁而非根本解决方案。",
+      "why": "长端利率骤升对权益估值形成压制，sell-put策略需重估隐含波动率水平；财政干预债市失效信号值得警惕。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "US Treasury",
-        "bond yields",
-        "buybacks",
-        "Bessent",
-        "30-year yield"
+        "道指",
+        "美债收益率",
+        "贝森特",
+        "国债回购",
+        "标普500"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+      "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
       "published_date": "2026-08-19",
-      "still_developing": false,
-      "first_seen": "2026-08-21",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
       "is_new": true
     },
     {
-      "id": "99b4036ca0543440",
+      "id": "b93e0dc778b0dc70",
       "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
+      "summary": "贝森特扩大债市干预被视为侵入货币政策领域，加剧市场对美联储独立性的担忧；沃什态度矛盾：既不愿公开对抗财政部，又须维护央行公信力，杰克逊霍尔演讲（8月28日）或成关键表态窗口。",
+      "why": "央行独立性担忧是长期大类资产判断的核心风险；若沃什在杰克逊霍尔释放鹰派信号，可能引发权益资产短期波动，期权隐含波动率有上行风险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "沃什",
+        "贝森特",
+        "美联储独立性",
+        "杰克逊霍尔",
+        "货币政策"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
+      "published_date": "2026-08-20",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
+      "is_new": true
+    },
+    {
+      "id": "57862e3fdf66a07a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:00",
+      "group": "大盘头条",
+      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
+      "summary": "贝森特宣布大幅扩大长端国债回购规模，向债市发出安抚信号，导致当日收益率短暂回落；但分析师认为此举将进一步模糊财政政策与货币政策边界，给美联储带来压力。",
+      "why": "延续报道：贝森特/沃什货币财政摩擦持续发酵，是本周债市动荡的核心线索；对sell-put策略的波动率定价有直接影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "贝森特",
+        "沃什",
+        "国债回购",
+        "美债收益率",
+        "美联储"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
+      "published_date": "2026-08-19",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
+      "is_new": true
+    },
+    {
+      "id": "b92ea7ce75fc89df",
+      "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
       "time": "07:00",
       "group": "大盘头条",
-      "title": "Oil Sustains Gains Above $93 as US-Iran Conflict Keeps Hormuz Risk Premium Elevated",
-      "summary": "Brent crude traded above $93/barrel and WTI near $87/barrel this week, on track for a second consecutive weekly gain of more than 5%, as the US-Iran conflict over the Strait of Hormuz continued. The UAE suspended financial transactions with Iran following missile attacks; Trump announced an 'economic D-day' against Tehran.",
-      "why": "油价持续高位拖累通胀预期，令美联储降息空间收窄，对成长股及科技板块估值形成压制；同时能源成本上升将侵蚀美国消费者支出（参见Walmart业绩）。地缘风险窗口应维持适度期权对冲。",
+      "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
+      "summary": "分析指出，长端利率高企已开始传导至实体经济（抵押贷款、企业融资成本攀升），市场将沃什8月28日杰克逊霍尔演讲视为本轮货币财政紧张关系的关键表态机会；9月加息概率已从高点大幅下降至约33%。",
+      "why": "延续报道：债市对实体的传导效应和9月政策预期，直接影响持仓组合的风险评估；杰克逊霍尔前夕持有大量期权头寸需提前评估。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "oil price",
-        "Brent crude",
-        "US-Iran",
-        "Strait of Hormuz",
-        "geopolitics"
+        "债券市场",
+        "美债收益率",
+        "杰克逊霍尔",
+        "沃什",
+        "加息概率"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/19/oil-edges-up-on-uncertainty-over-exports-through-hormuz.html",
-      "published_date": "2026-08-19",
-      "still_developing": false,
-      "first_seen": "2026-08-21",
+      "url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
+      "published_date": "2026-08-18",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
       "is_new": true
     },
     {
-      "id": "156d47add085348c",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Walmart Posts Slowest US Sales Growth in Six Years; Stock Plunges 9.5%",
-      "summary": "Walmart Q2 US comparable-store sales rose 2.6%, missing the 3.7% consensus estimate — the weakest print in more than six years. Q3 adjusted EPS guidance of $0.62–$0.64 also came in below the $0.68 estimate. Despite total revenue of $187.9B and Q2 adjusted EPS of $0.81 both beating, the soft forward outlook hit the stock hard. Higher gas prices and subdued pharmacy sales were cited as key drags.",
-      "why": "沃尔玛股价跌9.5%是美国消费降级信号；高油价压缩居民可支配收入，传导至消费板块（麦当劳、好市多等）。对持有WMT的期权策略者：短期IV飙升，覆盖看涨（covered call）短期价值提升，但下行风险需重新评估。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Walmart",
-        "WMT",
-        "earnings",
-        "comparable sales",
-        "consumer spending"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/walmart-posts-sluggish-sales-with-slowest-us-growth-in-six-years",
-      "published_date": "2026-08-20",
-      "still_developing": false,
-      "first_seen": "2026-08-21",
-      "is_new": true
-    },
-    {
-      "id": "78d8175113a3bd11",
+      "id": "e0fc06b84fb24fc4",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "香港7月综合CPI按年升1.7%，通胀连续三个月放缓",
-      "summary": "香港统计处公布，7月综合消费物价指数（CPI）按年升1.7%，低于6月的2.0%，连续放缓。扣除政府一次性纾困措施后，基本通胀率为1.9%，与前月持平。电力、燃气及水费涨幅最大（+10.8%），但整体压力温和，大多数分类保持平稳。",
-      "why": "港股通胀降温有助维持相对宽松货币预期，对持有估值偏高港股（腾讯、美团等）略偏正面；与此同时油价上行仍是制约通胀进一步回落的隐忧，需持续观察。",
-      "source": "新华社",
+      "time": "18:00",
+      "group": "个股",
+      "title": "腾讯控股(00700.HK)8月18日回购3.00亿港元，年内累计回购267.30亿港元",
+      "summary": "腾讯控股8月18日斥资约3.005亿港元回购68.1万股，回购价区间约440-443港元。年内累计回购已达267.30亿港元。二季报披露后回购步伐未见放缓，显示管理层对股价估值的信心。",
+      "why": "延续报道：腾讯Q2资本开支大幅超预期（527.84亿元），但持续回购表明管理层以行动对冲高资本开支对股价的压力，有助于维持00700.HK卖put期权底部支撑。",
+      "source": "证券时报",
       "verified": true,
       "keywords": [
-        "香港CPI",
-        "通胀",
-        "消费物价",
-        "HK inflation"
+        "腾讯",
+        "回购",
+        "00700.HK",
+        "港股",
+        "股份回购"
       ],
       "translated": false,
-      "url": "https://english.news.cn/20260820/e3fa57ac560c4c389442cf9abbfb9fe7/c.html",
-      "published_date": "2026-08-20",
-      "still_developing": false,
-      "first_seen": "2026-08-21",
+      "url": "https://www.stcn.com/article/detail/4084023.html",
+      "published_date": "2026-08-18",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
       "is_new": true
     },
     {
-      "id": "1f79d79dabf334aa",
+      "id": "0b63c9566c03624e",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "Bitcoin Surges Toward $80K; BTC and ETH Spot ETFs Pull in $800M for Second Straight Day",
-      "summary": "Bitcoin rose above $79,000 on August 21, its highest level since June, gaining over 8% in 24 hours. Combined US spot Bitcoin and Ether ETF inflows reached $800M for the second consecutive session. Short sellers lost roughly $3B during the breakout. Bernstein analysts described the surge as a liquidity-driven momentum shift. Circle (CRCL) and other crypto-linked equities extended their rally.",
-      "why": "比特币逼近$80K关键位且ETF持续大额流入，稳定币赛道（Circle/USDC）受益；比特币强势周反弹提升风险情绪，对纳指科技股也有正向传导；同时Circle Arc Layer 1将于9/16上线，是独立催化剂。",
+      "time": "15:00",
+      "group": "个股",
+      "title": "OCC races to finalize GENIUS Act stablecoin rules by November",
+      "summary": "美国货币监理署（OCC）明确表示将于2026年11月前完成GENIUS法案稳定币实施细则，以便在法案2027年1月18日生效前受理稳定币发行方的银行牌照申请；Circle（CRCL）已于7月获OCC信托银行批准，具有先发优势。",
+      "why": "延续报道：监管时间表明确加速Circle合规进程，CRCL合规护城河进一步强化；USDC规模当前逾730亿美元，监管清晰度提升有利于做多或持有逻辑。",
       "source": "The Block",
       "verified": true,
       "keywords": [
-        "Bitcoin",
-        "BTC",
-        "ETF inflows",
-        "crypto",
-        "USDC",
         "Circle",
-        "CRCL"
+        "USDC",
+        "GENIUS Act",
+        "稳定币",
+        "OCC",
+        "CRCL",
+        "stablecoin"
       ],
       "translated": false,
-      "url": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
-      "published_date": "2026-08-21",
-      "still_developing": false,
-      "first_seen": "2026-08-21",
+      "url": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240",
+      "published_date": "2026-08-19",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
       "is_new": true
     },
     {
-      "id": "e9a2f4c7b8310d6a",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "08月12日",
-      "title": "腾讯Q2营收2048亿同比增11%，算力资本开支飙升至527.8亿致自由现金流转负138亿",
-      "summary": "腾讯2026年Q2总收入2047.9亿元(+11% YoY)，归母净利560亿元(+0.7%)；资本开支527.8亿元同比近三倍，远超市场预期321亿元，导致自由现金流录得-138亿元。上半年合计回购约50.03百万股、总代价约244亿港元并已全数注销；管理层将资本开支定性为AI基础设施战略性前期投入。",
-      "why": "capex三倍跳升压缩FCF、短期影响回购持续性与持仓估值逻辑；回购注销支撑EPS，但FCF转负需跟踪是否持续；对0700.HK sell put前应评估隐含波动率是否已充分反映这一不确定性。",
-      "source": "财联社",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "回购",
-        "业绩",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/2452777",
-      "is_new": false,
-      "first_seen": "2026-08-14",
-      "_recovered_from": "sh0pzm"
-    },
-    {
-      "id": "b4d7a0e3f926c851",
-      "tier": 1,
+      "id": "6003f8764ad8e66e",
+      "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08月13日",
-      "title": "SanDisk Surges 13.67% on AI Storage Investor Day: $15.5B Buyback, 80% Gross Margin Target",
-      "summary": "SanDisk (SNDK) jumped 13.67% on Aug 14 following its investor day (Aug 12-13): announced $15.5B share buyback authorization and long-term targets of ~80% adjusted gross margins and ~75% operating margins. The company unveiled a 9th-gen high-performance flash co-developed with Kioxia aimed at AI data center inference workloads. Stock is up ~429% YTD and ~3,000%+ since its Feb 2025 spin-off at $52.",
-      "why": "SNDK单日+14%、$15.5B回购规模巨大，存储板块（美光/SK海力士同步走强）整体估值重估；今日隐含波动率大幅跳升，已持有SNDK call须锁定收益；若考虑sell put须等IV回落后操作。",
-      "source": "SanDisk IR",
-      "verified": true,
-      "keywords": [
-        "闪迪",
-        "NAND",
-        "回购",
-        "AI芯片",
-        "存储芯片"
-      ],
-      "translated": false,
-      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-fourth-quarter-2026-financial-results",
-      "is_new": false,
-      "first_seen": "2026-08-14",
-      "_recovered_from": "sh0pzm"
-    },
-    {
-      "id": "7c4d8e9b2f1a3056",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "07:30",
+      "time": "19:00",
       "group": "个股",
-      "title": "腾讯Q2 2026业绩：营收2048亿元+11%超预期，AI资本开支+176%，港股次日涨逾4%",
-      "summary": "腾讯控股（0700.HK）8月12日收市后公布Q2 2026业绩：季度营收2048亿元人民币，同比增长11%，超市场共识约10%的预期；游戏（王者荣耀、和平精英）与微信生态广告收入为主要驱动力；AI资本开支同比增逾176%，全年资本开支有望冲击2000亿元高位；自由现金流（FCF）因高强度AI投入同比明显收窄。业绩超预期后次日腾讯港股大涨逾4%。",
-      "why": "核心持仓腾讯业绩超预期，营收和盈利稳健，短期有助于提振持仓估值；AI资本开支大幅跃升意味着货币化路径进入新阶段，市场重新定价AI变现逻辑；业绩公布后隐含波动率应有明显回落，对到期在即的sell put策略为利好。",
-      "source": "CNBC",
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "summary": "美国财政部就GENIUS法案第3条发布规则提案（NPRM），为稳定币发行方设定储备管理、独立审计、发行许可等标准，60天公众评议期开启；这是GENIUS法案签署后首份实施细则，标志稳定币监管框架进入落地阶段。",
+      "why": "延续报道：GENIUS Act规则落地是Circle/USDC生态的重大里程碑；CRCL若在公众评议期积极参与，将进一步巩固其主导地位；规则最终确定前CRCL股价或持续受到关注。",
+      "source": "CoinDesk",
       "verified": true,
       "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "Q2业绩",
-        "AI资本开支",
-        "营收"
+        "Circle",
+        "USDC",
+        "GENIUS Act",
+        "稳定币",
+        "美财政部",
+        "CRCL",
+        "stablecoin",
+        "监管"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/12/tencent-q2-2026-earnings-revenue-ai-capex.html",
-      "published_date": "2026-08-12",
-      "still_developing": false,
-      "first_seen": "2026-08-14",
-      "is_new": false,
-      "_recovered_from": "1s4an6"
-    },
-    {
-      "id": "8b6e3d1f9a4c2075",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "Intel Launches $20B Equity Offering at $95/Share, Upsized From $15B on >$100B Demand; Foundry Q2 Revenue +31%",
-      "summary": "Intel (INTC) priced a secondary equity offering of 210 million shares at $95 per share on Aug 12, raising approximately $20 billion — upsized from an initially planned $15 billion — after demand from institutional investors exceeded $100 billion. Proceeds will fund Intel Foundry 18A node buildout and Gaudi 4 AI chip roadmap. Intel also disclosed that Foundry Services Q2 revenue grew 31% year-over-year, the fastest in four quarters.",
-      "why": "英特尔超大规模融资（$200亿）验证市场对其代工战略转型的高度信心；需求超$1000亿、10倍过度认购；若18A节点良率继续爬升，Intel代工作为英伟达GPU晶圆替代方案的可行性上升；短期稀释约5%股本，但管理层以融资成功佐证路线图可行，INTC sell put机会值得关注。",
-      "source": "Intel IR",
-      "verified": true,
-      "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "增发",
-        "代工",
-        "foundry",
-        "18A",
-        "Gaudi"
-      ],
-      "translated": false,
-      "url": "https://www.intc.com/news-releases/news-release-details/intel-announces-20-billion-equity-offering-intc",
-      "published_date": "2026-08-12",
-      "still_developing": false,
-      "first_seen": "2026-08-14",
-      "is_new": false,
-      "_recovered_from": "1s4an6"
-    },
-    {
-      "id": "4f2d9c8b1e7a3065",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "21:00",
-      "group": "大盘头条",
-      "title": "美国7月CPI同比3.4%略超预期，PPI同比4.7%，标普500首破7800点；费城半导体+2.07%",
-      "summary": "美国7月CPI同比+3.4%（预期+3.2%），核心CPI同比+3.1%；PPI同比+4.7%（预期+4.5%），通胀顽固略超预期，美联储9月加息预期小幅走高。即便如此，8月13日美股高开高走：S&P 500首次突破7800点，收盘报7814点；纳斯达克+0.81%；费城半导体指数（SOX）+2.07%，主要受SanDisk投资者日催化存储板块大涨所带动。",
-      "why": "CPI及PPI均略超预期，加息预期可能边际走升；但市场因AI算力叙事主导情绪，半导体板块在当天逆势大涨，标普500首破7800历史关口；卖出期权（sell put）者需留意高通胀环境下IV可能小幅走升，但整体多头情绪仍强。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "CPI",
-        "PPI",
-        "美联储",
-        "S&P500",
-        "标普",
-        "纳斯达克",
-        "费城半导体"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates-cpi-ppi.html",
-      "published_date": "2026-08-13",
-      "still_developing": false,
-      "first_seen": "2026-08-14",
-      "is_new": false,
-      "_recovered_from": "1s4an6"
+      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+      "published_date": "2026-08-17",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
+      "is_new": true
     },
     {
       "id": "39b2deb0a00921d7",
@@ -1722,258 +1640,114 @@
       "is_new": false
     },
     {
-      "id": "f3c8a1b6e5490d72",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "08月11日",
-      "title": "美联储Hammack鹰派：单次加息不够，或需多次升息；10年期美债收益率跳升13bp",
-      "summary": "克利夫兰联储主席Hammack（8月10-11日）表示，若要使通胀回归2%目标，单次25bp加息力度不足，可能需多次加息。7月FOMC会议已出现3票鹰派反对票（主张立即加息），为2016年以来最显著政策分歧。10年期美债收益率一度飙升13.4bp，5年期突破4%，美联储当前目标区间维持3.5%-3.75%。",
-      "why": "加息预期重燃将系统性压制高PE科技股（腾讯/谷歌/英伟达等）估值，利率上升也使sell put期权的delta-neutral基础漂移；若9月FOMC加息，高beta科技持仓需降低敞口或买入保护。",
-      "source": "证券时报",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.stcn.com/article/detail/3693399.html",
-      "is_new": false,
-      "first_seen": "2026-08-14",
-      "_recovered_from": "sh0pzm"
-    },
-    {
-      "id": "c7f2e5a9b0481e3d",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08月12日",
-      "title": "美国7月CPI同比3.4%符合预期，核心通胀2.5%，通胀二连降缓解加息紧迫性",
-      "summary": "美国劳工局8月12日公布：7月CPI同比3.4%（前值3.5%、符合市场预期），月环比+0.1%；核心CPI同比2.5%（前值2.6%）。住房通胀降至3.2%，食品通胀持平3%，能源冲击影响持续消退。下次CPI数据将于9月11日公布。",
-      "why": "通胀二连降符合预期，9月加息概率未显著上升，短期为港美科技股提供喘息空间；宏观背景有利于维持现有sell put仓位，但需结合Hammack鹰派信号综合判断。",
-      "source": "BLS（美国劳工局）",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.bls.gov/cpi/",
-      "is_new": false,
-      "first_seen": "2026-08-14",
-      "_recovered_from": "sh0pzm"
-    },
-    {
-      "id": "a8b5d1f4c2730e96",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "昨 10:00",
-      "title": "TrendForce: Samsung & SK Hynix HBM4 Ramp Sets Up H2 Earnings Price Focal Point; ~$500/Stack",
-      "summary": "TrendForce (Aug 13) reports both Samsung and SK hynix are aggressively ramping HBM4 in H2 2026, with per-stack pricing estimated ~$500 (vs. HBM3E ~$17-18/GB), nearly doubling in cost per GB. HBM4 revenue is expected to account for over 60% of Samsung's total HBM sales in H2. SK hynix Q2 recorded 76% operating margin on 257% YoY revenue growth; H2 guidance for stronger performance.",
-      "why": "SK海力士HBM4量产提速将强化下半年财报预期，定价近翻倍有助于利润率扩张；利好相关南方两倍做多ETF持仓；同日SanDisk大涨验证AI存储赛道整体重估，可关注美光期权方向。",
-      "source": "TrendForce",
-      "verified": false,
-      "keywords": [
-        "SK海力士",
-        "HBM",
-        "HBM4",
-        "存储芯片",
-        "英伟达"
-      ],
-      "translated": false,
-      "url": "https://www.trendforce.com/news/2026/08/13/news-samsung-sk-hynixs-hbm4-push-puts-hbm-general-memory-pricing-in-the-spotlight-for-2h-earnings/",
-      "is_new": false,
-      "first_seen": "2026-08-14",
-      "_recovered_from": "sh0pzm"
-    },
-    {
-      "id": "d0e9c2f5a8174b63",
-      "tier": 2,
+      "id": "ee5e7ff320b230ca",
+      "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "昨 09:00",
-      "title": "Circle (CRCL) Stock +13% Since Federal Bank Charter; Q2 USDC Hits $73.3B, Revenue $701M",
-      "summary": "Circle secured OCC federal trust bank charter approval (effective Aug 5), becoming the first stablecoin issuer with a U.S. federal banking charter. Q2 2026: USDC in circulation $73.3B (+19% YoY), on-chain volume $14.8T (+151% YoY), total revenue $701M (+7% YoY). Stock is up ~13.1% since charter approval as of Aug 13. New Fed stablecoin oversight rules also took effect, with Circle positioned as the primary compliant issuer ahead of GENIUS Act's Jan 2027 enforcement.",
-      "why": "GENIUS Act监管框架明朗化，Circle联邦银行牌照强化USDC机构采用，稳定币赛道合规壁垒提高；利好CRCL持仓中长期逻辑，监管明朗后IV或压缩，可考虑sell put布局。",
-      "source": "Circle IR",
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "US Stock Futures Gain as Nasdaq 100 Looks to Snap Five-Day Slump",
+      "summary": "Nasdaq 100 futures rose 0.6% in early Friday trading, on track to end a five-day losing streak as Treasury yields stabilize and Bitcoin soars. S&P 500 futures added 0.4%. The Nasdaq 100 had been weighed down all week by surging long-dated Treasury yields and oil prices.",
+      "why": "纳指连跌5日后期货反弹，科技板块短期压力暂缓；Nvidia财报（8/26）临近是下周最大催化剂，本周隐含波动率若有回落可考虑布局sell put。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "Circle",
-        "USDC",
-        "stablecoin",
-        "稳定币",
-        "GENIUS Act"
+        "Nasdaq 100",
+        "US futures",
+        "stock market"
       ],
       "translated": false,
-      "url": "https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results",
-      "is_new": false,
-      "first_seen": "2026-08-14",
-      "_recovered_from": "sh0pzm"
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-stock-futures-gain-as-nasdaq-100-looks-to-snap-five-day-slump",
+      "published_date": "2026-08-21",
+      "still_developing": false,
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
-      "id": "a1c6e3f8b4250d79",
-      "tier": 2,
+      "id": "c86309b76c034f0a",
+      "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08月10日",
-      "title": "Micron at KeyBanc Forum: All 2026 HBM Supply Sold Out; HBM4 for Nvidia Vera Rubin Ramping 2x Faster Than HBM3E",
-      "summary": "Micron (MU) at KeyBanc Tech Leadership Forum (Aug 10): entire calendar 2026 HBM supply is under price/volume agreements; HBM4 shipments for Nvidia's Vera Rubin GPU platform began March 2026, ramping at ~2x the pace of HBM3E 12-high with yields ahead of expectations. Micron noted AI systems still need substantial DRAM alongside NAND, and expects supply-demand tightness well into 2027.",
-      "why": "美光2026年HBM全部锁单，定价权强、利润率有保障；HBM4向Vera Rubin加速发货是关键正向催化；结合今日SanDisk大涨，存储板块整体重估确认——利好美光持仓中长期逻辑。",
-      "source": "Micron IR",
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Treasury Doubles Debt Buybacks to $4B as 30-Year Yield Hits Near 19-Year High",
+      "summary": "The US Treasury doubled long-term debt buyback operations from $2B to at least $4B per operation starting Sept. 9, after 30-year yields hit their highest level since before the 2008 global financial crisis. Treasury Secretary Bessent framed it as a liquidity measure; yields initially fell ~10 bps but subsequently reversed all gains, prompting Bessent to signal further expansion is possible.",
+      "why": "美国30年债收益率逼近19年高点，是本周全球股市最大压制因素；Bessent被迫两度出手，折射债市流动性风险；对成长股估值（如Nvidia、谷歌）及期权隐含波动率均有直接影响，持仓需提高对冲意识。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "美光",
-        "HBM",
-        "DRAM",
-        "存储芯片",
-        "英伟达"
+        "US Treasury",
+        "bond yields",
+        "buybacks",
+        "Bessent",
+        "30-year yield"
       ],
       "translated": false,
-      "url": "https://investors.micron.com/news-releases/news-release-details/micron-technology-inc-reports-record-results-third-quarter",
-      "is_new": false,
-      "first_seen": "2026-08-14",
-      "_recovered_from": "sh0pzm"
+      "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+      "published_date": "2026-08-19",
+      "still_developing": false,
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
-      "id": "c5a3e7f9b2d81063",
-      "tier": 2,
+      "id": "99b4036ca0543440",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Oil Sustains Gains Above $93 as US-Iran Conflict Keeps Hormuz Risk Premium Elevated",
+      "summary": "Brent crude traded above $93/barrel and WTI near $87/barrel this week, on track for a second consecutive weekly gain of more than 5%, as the US-Iran conflict over the Strait of Hormuz continued. The UAE suspended financial transactions with Iran following missile attacks; Trump announced an 'economic D-day' against Tehran.",
+      "why": "油价持续高位拖累通胀预期，令美联储降息空间收窄，对成长股及科技板块估值形成压制；同时能源成本上升将侵蚀美国消费者支出（参见Walmart业绩）。地缘风险窗口应维持适度期权对冲。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "oil price",
+        "Brent crude",
+        "US-Iran",
+        "Strait of Hormuz",
+        "geopolitics"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/19/oil-edges-up-on-uncertainty-over-exports-through-hormuz.html",
+      "published_date": "2026-08-19",
+      "still_developing": false,
+      "first_seen": "2026-08-21",
+      "is_new": false
+    },
+    {
+      "id": "156d47add085348c",
+      "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
       "time": "09:00",
       "group": "个股",
-      "title": "Google Gemini Hits 1 Billion Monthly Active Users — Fastest-Growing Product in Company's 28-Year History",
-      "summary": "Alphabet CEO Sundar Pichai announced on Aug 11 that Google's Gemini AI assistant has reached 1 billion monthly active users, making it the fastest-growing product to hit the milestone in the company's 28-year history. Gemini launched in December 2023, surpassed 100M MAU within months, and reached 1B MAU approximately 20 months after launch, outpacing Gmail and YouTube's early adoption curves.",
-      "why": "Gemini用户规模飞速扩张，为谷歌广告+AI订阅变现开辟新增量；与Google Cloud及Workspace AI整合协同，短期修复谷歌AI竞争力形象（此前因Hassabis人事变动出现负面新闻）；GOOGL sell put策略在情绪修复窗口内风险-收益比改善。",
-      "source": "CNBC",
+      "title": "Walmart Posts Slowest US Sales Growth in Six Years; Stock Plunges 9.5%",
+      "summary": "Walmart Q2 US comparable-store sales rose 2.6%, missing the 3.7% consensus estimate — the weakest print in more than six years. Q3 adjusted EPS guidance of $0.62–$0.64 also came in below the $0.68 estimate. Despite total revenue of $187.9B and Q2 adjusted EPS of $0.81 both beating, the soft forward outlook hit the stock hard. Higher gas prices and subdued pharmacy sales were cited as key drags.",
+      "why": "沃尔玛股价跌9.5%是美国消费降级信号；高油价压缩居民可支配收入，传导至消费板块（麦当劳、好市多等）。对持有WMT的期权策略者：短期IV飙升，覆盖看涨（covered call）短期价值提升，但下行风险需重新评估。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "谷歌",
-        "Google",
-        "Gemini",
-        "Alphabet",
-        "GOOGL",
-        "MAU",
-        "AI"
+        "Walmart",
+        "WMT",
+        "earnings",
+        "comparable sales",
+        "consumer spending"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/11/google-gemini-1-billion-monthly-active-users.html",
-      "published_date": "2026-08-11",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/walmart-posts-sluggish-sales-with-slowest-us-growth-in-six-years",
+      "published_date": "2026-08-20",
       "still_developing": false,
-      "first_seen": "2026-08-14",
-      "is_new": false,
-      "_recovered_from": "1s4an6"
-    },
-    {
-      "id": "a5f3c7e9b2d81042",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "22:00",
-      "group": "个股",
-      "title": "SanDisk 2026 Investor Day: 9th-Gen 2TB QLC 3D NAND With Kioxia; SNDK +12%, MU +4.2%, SK Hynix +7%",
-      "summary": "At SanDisk's 2026 Investor Day (Aug 13), the company unveiled its 9th-generation 2TB QLC 3D NAND flash chip jointly developed with Kioxia — the world's highest-capacity single NAND die — targeting AI inference storage. SanDisk also raised FY2027 revenue guidance above prior estimates. The announcements triggered a broad storage sector rally: SNDK +12%+, Western Digital +8%, Micron (MU) +4.2%, SK Hynix ADR +7%.",
-      "why": "闪迪（直接持仓SNDK）单日+12%+，9代QLC NAND联合Kioxia开发印证AI推理存储市场份额争夺提前。带动美光(MU)与SK海力士同步走强，存储超级周期叙事重新强化；持有SNDK covered call者需评估行权价是否需要上调；MU/SK Hynix期权Delta重新评估，今日板块整体偏强。",
-      "source": "SanDisk IR",
-      "verified": true,
-      "keywords": [
-        "闪迪",
-        "SanDisk",
-        "SNDK",
-        "NAND",
-        "Kioxia",
-        "存储",
-        "AI存储"
-      ],
-      "translated": false,
-      "url": "https://investor.sandisk.com/news-events/news-releases/news-release-details/sandisk-investor-day-2026-highlights",
-      "published_date": "2026-08-13",
-      "still_developing": false,
-      "first_seen": "2026-08-14",
-      "is_new": false,
-      "_recovered_from": "1s4an6"
-    },
-    {
-      "id": "2e8c4d9b7f3a1056",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "18:00",
-      "group": "个股",
-      "title": "小米(1810.HK)连续两日回购：8月12日买入189.8万股耗HK$4989万，13日再购190万股HK$4990万",
-      "summary": "小米集团（1810.HK）根据港交所信息披露，于8月12日在公开市场回购1,898,000股，成交价格区间约HK$26.28–26.30/股，合计耗资约HK$4,989万；8月13日再度回购1,900,000股，耗资约HK$4,990万。两日合计回购约380万股，耗资近HK$1亿，均价约HK$26.3港元。小米今年已累计回购逾3亿股股份。",
-      "why": "小米连续回购释放管理层对当前股价的明确信心信号；回购支撑EPS增厚，对持有1810.HK sell put策略属正面护盘因素；股价约26港元附近若有月度汽车交付数据催化（预计月底），可评估是否加仓sell put。",
-      "source": "HKEXnews",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "回购",
-        "buyback",
-        "港交所"
-      ],
-      "translated": false,
-      "url": "https://www.hkexnews.hk/sdw/search/result.aspx?t=A&co=01810",
-      "published_date": "2026-08-13",
-      "still_developing": false,
-      "first_seen": "2026-08-14",
-      "is_new": false,
-      "_recovered_from": "1s4an6"
-    },
-    {
-      "id": "d2b8f1e5c9a73046",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "22:30",
-      "group": "大盘头条",
-      "title": "Memory Sector Surges Aug 13: MU +4.2%, SK Hynix ADR +7%, WDC +8% on SanDisk Investor Day Catalyst",
-      "summary": "The memory and storage sector staged a broad rally on Aug 13 following SanDisk's Investor Day announcements: Micron (MU) gained +4.2%, SK Hynix ADR +7%+, Western Digital (WDC) +8%, and SanDisk (SNDK) +12%+. The Philadelphia Semiconductor Index (SOX) rose +2.07%. The rally reversed much of the sector's Aug 7 selloff driven by WD/SanDisk guidance concerns, re-validating the AI-driven NAND storage demand super-cycle thesis.",
-      "why": "存储板块全面反弹印证AI推理/训练侧NAND需求仍处超级周期，直接利好闪迪(SNDK)、美光(MU)持仓和SK海力士相关ETF；费城半导体指数+2%以上信号良好，sell put者可确认行权价安全边际仍充足。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "SK海力士",
-        "SK Hynix",
-        "闪迪",
-        "SanDisk",
-        "NAND",
-        "存储"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/13/stock-market-today-memory-chips-storage-rally.html",
-      "published_date": "2026-08-13",
-      "still_developing": false,
-      "first_seen": "2026-08-14",
-      "is_new": false,
-      "_recovered_from": "1s4an6"
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
       "id": "5d8052b1347aabc6",
@@ -3170,110 +2944,61 @@
       "is_new": false
     },
     {
-      "id": "f6b9d2e5a0384c17",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "昨 21:00",
-      "title": "Walmart to Report Q2 FY2027 Earnings Aug 20; Analyst Sees Beat-and-Raise Potential",
-      "summary": "Walmart (WMT) will report Q2 FY27 results Aug 20 pre-market. Company guidance: net sales +4-5% constant currency, adj EPS $0.72-0.74. BofA analyst expects Walmart to return to beat-and-raise cycle; global ad revenue +36% and Marketplace sales +50% in Q1. Tariff cost comparisons should ease Y/Y. Conference call at 7 a.m. CDT.",
-      "why": "山姆会员店业绩反映高端消费景气度，对蜜雪冰城/好市多消费赛道有参考价值；关注沃尔玛关税转嫁能力与山姆增长速度，有助于评估消费类持仓中期走势。",
-      "source": "Walmart IR",
-      "verified": true,
-      "keywords": [
-        "沃尔玛",
-        "零售"
-      ],
-      "translated": false,
-      "url": "https://stock.walmart.com/financial-information/financial-results",
-      "is_new": false,
-      "first_seen": "2026-08-14",
-      "_recovered_from": "sh0pzm"
-    },
-    {
-      "id": "c4e7a0b3f6191e82",
-      "tier": 3,
+      "id": "78d8175113a3bd11",
+      "tier": 2,
       "lang": "zh",
       "markets": [
-        "US"
-      ],
-      "time": "08月14日",
-      "title": "拼多多8月25日发布Q2财报，Temu关税冲击下净利润或继续大幅下滑",
-      "summary": "PDD Holdings预计于8月25日发布2026年Q2财报。Q1归母净利147亿元同比下滑47%；美国已取消800美元以下小包裹免税（de minimis）政策，Temu海外合规成本激增，价格优势受侵蚀。市场关注管理层是否下调2026全年指引及Temu的利润率路径。",
-      "why": "Q2业绩若继续大幅下滑或下调指引，将引发PDD股价急跌；需在8月25日前评估持仓delta风险，可考虑提前减仓或买入保护；同时关注跨境电商赛道关税量化披露，影响Temu出海逻辑。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "拼多多",
-        "Temu",
-        "跨境电商"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/y/2026-08-14/doc-ininfrty2772144.shtml",
-      "is_new": false,
-      "first_seen": "2026-08-14",
-      "_recovered_from": "sh0pzm"
-    },
-    {
-      "id": "f1a9c3d7e5b82047",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
+        "HK"
       ],
       "time": "09:00",
-      "group": "个股",
-      "title": "Walmart to Report Q2 FY2027 Earnings August 20 Before Market Open",
-      "summary": "Walmart (WMT) announced it will report fiscal Q2 2027 (quarter ended July 31, 2026) results before the U.S. market opens on August 20. President and CEO John Furner and CFO John David Rainey will host a conference call at 8:00 a.m. ET. Analyst consensus expects EPS of ~$0.72 (+7% YoY) and revenue of ~$174B. Sam's Club membership metrics will be a key focus.",
-      "why": "沃尔玛是消费赛道核心观测标的，Q2财报将反映美国消费者支出韧性与通胀应对；Sam's Club（与好市多竞争）会员数据是潜在惊喜来源；若数据超预期，或利好零售/消费板块整体情绪。",
-      "source": "Walmart IR",
+      "group": "大盘头条",
+      "title": "香港7月综合CPI按年升1.7%，通胀连续三个月放缓",
+      "summary": "香港统计处公布，7月综合消费物价指数（CPI）按年升1.7%，低于6月的2.0%，连续放缓。扣除政府一次性纾困措施后，基本通胀率为1.9%，与前月持平。电力、燃气及水费涨幅最大（+10.8%），但整体压力温和，大多数分类保持平稳。",
+      "why": "港股通胀降温有助维持相对宽松货币预期，对持有估值偏高港股（腾讯、美团等）略偏正面；与此同时油价上行仍是制约通胀进一步回落的隐忧，需持续观察。",
+      "source": "新华社",
       "verified": true,
       "keywords": [
-        "沃尔玛",
-        "Walmart",
-        "WMT",
-        "Q2",
-        "季报",
-        "消费"
+        "香港CPI",
+        "通胀",
+        "消费物价",
+        "HK inflation"
       ],
       "translated": false,
-      "url": "https://stock.walmart.com/news-releases/news-release-details/walmart-reports-second-quarter-fiscal-2027-results",
-      "published_date": "2026-08-13",
+      "url": "https://english.news.cn/20260820/e3fa57ac560c4c389442cf9abbfb9fe7/c.html",
+      "published_date": "2026-08-20",
       "still_developing": false,
-      "first_seen": "2026-08-14",
-      "is_new": false,
-      "_recovered_from": "1s4an6"
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
-      "id": "6d3c8f1b9a2e5074",
-      "tier": 3,
-      "lang": "zh",
+      "id": "1f79d79dabf334aa",
+      "tier": 2,
+      "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "拼多多(PDD) Q2 2026业绩预期约8月下旬发布；分析师聚焦Temu出海改善与国内竞争",
-      "summary": "拼多多（PDD）Q2 2026财报预计于8月25–31日前后发布，具体日期尚未官方公告。Q1 2026实际EPS $1.38远低于分析师预期$2.40，主因Temu持续亏损及国内竞争加剧。分析师预期Q2将有所改善，Temu出海若出现亏损收窄或盈亏平衡信号将是最关键催化剂；国内百亿补贴及商业化变现力度亦受关注。",
-      "why": "拼多多是持仓关注标的，Q1超级大幅miss后Q2改善幅度决定估值修复空间；若Q2仍大幅低于预期，PDD sell put仓位行权风险上升，需提前关注隐含波动率变化。",
-      "source": "Seeking Alpha",
-      "verified": false,
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Bitcoin Surges Toward $80K; BTC and ETH Spot ETFs Pull in $800M for Second Straight Day",
+      "summary": "Bitcoin rose above $79,000 on August 21, its highest level since June, gaining over 8% in 24 hours. Combined US spot Bitcoin and Ether ETF inflows reached $800M for the second consecutive session. Short sellers lost roughly $3B during the breakout. Bernstein analysts described the surge as a liquidity-driven momentum shift. Circle (CRCL) and other crypto-linked equities extended their rally.",
+      "why": "比特币逼近$80K关键位且ETF持续大额流入，稳定币赛道（Circle/USDC）受益；比特币强势周反弹提升风险情绪，对纳指科技股也有正向传导；同时Circle Arc Layer 1将于9/16上线，是独立催化剂。",
+      "source": "The Block",
+      "verified": true,
       "keywords": [
-        "拼多多",
-        "PDD",
-        "Temu",
-        "Q2",
-        "季报"
+        "Bitcoin",
+        "BTC",
+        "ETF inflows",
+        "crypto",
+        "USDC",
+        "Circle",
+        "CRCL"
       ],
       "translated": false,
-      "url": "https://seekingalpha.com/symbol/PDD/earnings",
-      "published_date": "2026-08-14",
-      "still_developing": true,
-      "first_seen": "2026-08-14",
-      "is_new": false,
-      "_recovered_from": "1s4an6"
+      "url": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
+      "published_date": "2026-08-21",
+      "still_developing": false,
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
       "id": "cc9e7f6559b662c5",
