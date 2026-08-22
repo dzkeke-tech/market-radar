@@ -1,0 +1,159 @@
+import json, hashlib
+
+def make_id(url, title=""):
+    s = (url or title or "").strip()
+    return hashlib.sha1(s.encode()).hexdigest()[:16]
+
+items = [
+    {
+        "id": make_id("https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html"),
+        "tier": 1,
+        "lang": "en",
+        "markets": ["US", "HK"],
+        "time": "08:00",
+        "group": "大盘头条",
+        "title": "Big week ahead: Nvidia Q2 earnings, Jackson Hole debut and PCE inflation data all land within five days",
+        "summary": "Nvidia reports FY27 Q2 results on Aug. 26 (Wall Street expects ~$91.8B revenue); Fed Chair Kevin Warsh gives his debut Jackson Hole speech Aug. 27-29 amid market pressure to signal rate direction; PCE inflation data also due that week. 30-year Treasury yields hit multi-decade highs this week, compressing equity multiples globally.",
+        "why": "五天内三大催化剂扎堆（英伟达财报+Jackson Hole+PCE），隐含波动率高企，所有期权卖方（sell put/covered call）需重新评估行权价与到期日风险；英伟达财报方向将传导至港股AI/半导体板块。",
+        "source": "CNBC",
+        "verified": False,
+        "keywords": ["Jackson Hole", "Nvidia", "NVDA", "PCE", "Warsh", "英伟达"],
+        "translated": False,
+        "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
+        "published_date": "2026-08-21",
+        "still_developing": False
+    },
+    {
+        "id": make_id("https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html"),
+        "tier": 1,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "08:10",
+        "group": "大盘头条",
+        "title": "Bitcoin surges 22% for the week past $77,692 as Trump hosts White House crypto summit pushing CLARITY Act",
+        "summary": "Bitcoin posted its best five-day gain since March 2024, rising 22% to above $77,692. President Trump convened crypto-industry leaders at the White House on Aug. 19, urging Congress to pass the CLARITY Act for digital-asset regulation. Ethereum gained 8.12%, XRP surged 14.61%. Bitcoin spot ETFs saw about $606M net inflows in a single day; BlackRock captured 83%.",
+        "why": "Circle（CRCL）与USDC稳定币基础设施直接受益于监管明朗化预期；CLARITY法案若推进将确立数字资产框架，加密相关持仓（FUTU moomoo等券商）波动率显著上升。",
+        "source": "CNBC",
+        "verified": False,
+        "keywords": ["比特币", "Bitcoin", "CLARITY Act", "USDC", "Circle", "CRCL", "稳定币"],
+        "translated": False,
+        "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
+        "published_date": "2026-08-20",
+        "still_developing": False
+    },
+    {
+        "id": make_id("https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html"),
+        "tier": 1,
+        "lang": "en",
+        "markets": ["US", "HK"],
+        "time": "08:20",
+        "group": "大盘头条",
+        "title": "Warsh faces Fed independence test as Bessent moves in on the central bank's turf; 30-year Treasury yields hit multi-decade highs",
+        "summary": "U.S. 30-year Treasury yields surged to multi-decade highs this week. Treasury Secretary Bessent's push to influence long-term bond markets has clashed with Fed Chair Warsh's refusal to give forward guidance, raising questions about central bank independence. Jackson Hole (Aug. 27-29) is now the key moment markets will watch for Warsh to clarify the rate path.",
+        "why": "美债超长端收益率飙升压制全球股票估值，港股科技首当其冲；Warsh在Jackson Hole若偏鹰派，可能触发全球风险资产抛售，sell put持仓的下行保护至关重要。",
+        "source": "CNBC",
+        "verified": False,
+        "keywords": ["美联储", "国债收益率", "Warsh", "Bessent", "Jackson Hole", "Fed", "美债"],
+        "translated": False,
+        "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
+        "published_date": "2026-08-20",
+        "still_developing": False
+    },
+    {
+        "id": make_id("https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html"),
+        "tier": 2,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "08:30",
+        "group": "大盘头条",
+        "title": "U.S. stocks rise Friday Aug. 21: S&P 500 up 0.43% to 7,674; Dow gains 517 points; crypto equities soar on Bitcoin's weekly 22% advance",
+        "summary": "S&P 500 closed at 7,674.37 (+0.43%), Nasdaq Composite +0.43% to 26,180.45, Dow Jones +0.98% to 53,277.01 on Aug. 21. Crypto-related equities surged: Robinhood jumped nearly 14%, Coinbase added 8%. Healthcare stocks (Merck, J&J) also supported the Dow. Financials contributed broadly.",
+        "why": "美股周线收涨但成交量有限，下周Jackson Hole与英伟达财报将是真正的方向性考验；富途（FUTU）等港股互联网券商可跟踪加密相关溢价效应。",
+        "source": "CNBC",
+        "verified": False,
+        "keywords": ["标普500", "S&P 500", "纳指", "道指", "Robinhood", "Coinbase", "美股"],
+        "translated": False,
+        "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+        "published_date": "2026-08-21",
+        "still_developing": False
+    },
+    {
+        "id": make_id("https://www.scmp.com/business/china-business/article/3364498/hong-kong-stocks-decline-rising-bond-yields-and-stalemate-iran-war-dent-sentiment"),
+        "tier": 2,
+        "lang": "en",
+        "markets": ["HK"],
+        "time": "08:40",
+        "group": "大盘头条",
+        "title": "Hong Kong stocks decline as rising bond yields and stalemate in Iran war dent sentiment",
+        "summary": "The Hang Seng Index fell 0.5% in early trading to 25,323.70, weighed by elevated U.S. Treasury yields and the stalled Middle East conflict (Iran war stalemate) keeping risk appetite subdued. The week saw tech and healthcare sectors offer intermittent support, but the broader macro backdrop remains cautious heading into the Jackson Hole week.",
+        "why": "港股短期受美债收益率高企与地缘风险双重压制；Jackson Hole演讲若偏鸽派可释放港股反弹空间，持仓中科技类个股（腾讯、小米、美团）需对冲宏观下行风险。",
+        "source": "South China Morning Post",
+        "verified": False,
+        "keywords": ["恒生指数", "港股", "伊朗", "美债收益率", "Hang Seng"],
+        "translated": False,
+        "url": "https://www.scmp.com/business/china-business/article/3364498/hong-kong-stocks-decline-rising-bond-yields-and-stalemate-iran-war-dent-sentiment",
+        "published_date": "2026-08-21",
+        "still_developing": False
+    },
+    {
+        "id": make_id("https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html"),
+        "tier": 1,
+        "lang": "en",
+        "markets": ["HK"],
+        "time": "09:00",
+        "group": "个股",
+        "title": "Labubu maker Pop Mart shares fall as ex-China sales drop sharply; Citi cuts price target after 2026 growth warning",
+        "summary": "Pop Mart (9992.HK) warned it will likely miss its 20% 2026 revenue growth target, citing a far tougher-than-expected first half. Asia Pacific ex-China sales fell 9.7%; Americas declined 16.5%; China revenue rose 47.3%. Shares fell as much as 8.9% intraday to around HK$147.70 — the biggest single-day drop since late March. Citi cut its group revenue forecast and slashed its price target.",
+        "why": "海外扩张放缓引发估值重估风险；Labubu出海增长叙事受损，Sell Put持仓需重新审视行权价位，股价深跌已推高隐含波动率，期权策略需谨慎调整。",
+        "source": "CNBC",
+        "verified": False,
+        "keywords": ["泡泡玛特", "Pop Mart", "Labubu", "9992.HK", "盲盒", "潮玩"],
+        "translated": False,
+        "url": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html",
+        "published_date": "2026-08-21",
+        "still_developing": False
+    },
+    {
+        "id": make_id("https://www.bloomberg.com/news/articles/2026-08-19/sk-hynix-announces-28-6-billion-share-buy-back-on-ai-boom"),
+        "tier": 1,
+        "lang": "en",
+        "markets": ["HK", "US"],
+        "time": "09:10",
+        "group": "个股",
+        "title": "SK Hynix moves to calm market with record $29 billion share buyback after stock loses half its value in two months",
+        "summary": "SK Hynix announced a record 40 trillion won (~$29 billion) share buyback and cancellation — the largest such action by any listed Korean company. The company will repurchase up to 24 million shares between Aug. 20 and Nov. 19, 2026, and cancel them. SK Hynix also raised its shareholder return pledge to over 50% of cumulative free cash flow for 2025-2027. Shares surged as much as 9% in Seoul on Aug. 19; Samsung Electronics also gained over 5%.",
+        "why": "延续报道：SK Hynix股价两个月跌逾50%后于8月19日宣布史上最大回购，回购期延至11月，股价仍在持续反应中。利好HBM/DRAM存储赛道整体，直接带动SK海力士（7709.HK）与美光（MU）估值修复；回购锁定筹码有利于Sell Put安全垫。",
+        "source": "Bloomberg",
+        "verified": False,
+        "keywords": ["SK海力士", "SK Hynix", "HBM", "DRAM", "回购", "7709.HK", "存储芯片", "美光"],
+        "translated": False,
+        "url": "https://www.bloomberg.com/news/articles/2026-08-19/sk-hynix-announces-28-6-billion-share-buy-back-on-ai-boom",
+        "published_date": "2026-08-19",
+        "still_developing": True
+    },
+    {
+        "id": make_id("https://www.cnbc.com/video/2026/08/21/options-action-nvidia-reports-earnings-next-week.html"),
+        "tier": 1,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "09:20",
+        "group": "个股",
+        "title": "Nvidia to report Q2 FY2027 earnings on Aug. 26; options market pricing in a major move as AI chip demand drives outsized expectations",
+        "summary": "Nvidia (NVDA) will release fiscal Q2 2027 results on Wednesday, Aug. 26, after market close. Wall Street expects approximately $91.8 billion in revenue, representing over 50% year-on-year growth driven by AI data-center accelerator demand. Key watch items: Blackwell/Vera Rubin production ramp, China sales amid export controls, and forward guidance cadence. Options market is pricing a significant post-earnings move.",
+        "why": "英伟达财报是本周最重要的个股催化剂，结果将传导至港股AI/半导体板块；期权隐含波动率大幅上行，Sell Put策略须注意财报前后波动率坍塌（vega crush）风险，建议财报前不新开该标的的近期期权空头。",
+        "source": "CNBC",
+        "verified": False,
+        "keywords": ["英伟达", "Nvidia", "NVDA", "GPU", "AI芯片", "Blackwell", "数据中心"],
+        "translated": False,
+        "url": "https://www.cnbc.com/video/2026/08/21/options-action-nvidia-reports-earnings-next-week.html",
+        "published_date": "2026-08-21",
+        "still_developing": False
+    },
+]
+
+with open("new_items.json", "w", encoding="utf-8") as f:
+    json.dump(items, f, ensure_ascii=False, indent=2)
+
+print(f"Written {len(items)} items to new_items.json")
+for item in items:
+    print(f"  [{item['tier']}] [{item['group']}] {item['published_date']} | {item['title'][:60]}...")
