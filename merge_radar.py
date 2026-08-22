@@ -631,6 +631,16 @@ def main():
         "ids":        new_seen_ids,
     }
 
+    # Save merged outputs locally first (fallback when API PUT is blocked)
+    local_data_path = os.path.join(here, "data.json.out")
+    local_seen_path = os.path.join(here, "seen.json.out")
+    with open(local_data_path, "w", encoding="utf-8") as f:
+        json.dump(new_data, f, ensure_ascii=False, indent=2)
+    with open(local_seen_path, "w", encoding="utf-8") as f:
+        json.dump(new_seen, f, ensure_ascii=False, indent=2)
+    print(f"  ✓ Saved local fallback: {local_data_path}")
+    print(f"  ✓ Saved local fallback: {local_seen_path}")
+
     # Publish
     date_tag = now_bj.strftime("%Y-%m-%d")
     print("Publishing …")
