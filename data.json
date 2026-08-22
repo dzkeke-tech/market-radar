@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-22 08:20 (北京时间)",
+  "updated_at": "2026-08-22 13:21 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,239 +9,250 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-22 08:20 (北京时间)",
+    "at": "2026-08-22 13:21 (北京时间)",
     "new_count": 8,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "9b6a33563d9bdfa4",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Stock market news for Aug. 21, 2026 — S&P 500 rises 0.43%, Dow gains 517 points in Friday rebound from 703-point Thursday sell-off",
+      "summary": "美股周五全线反弹：S&P500涨0.43%至7,674，纳指涨0.43%至26,180，道指涨517点(+0.98%)至53,277。此前周四受国债收益率反弹冲击，道指重挫703.84点(-1.32%)，WMT(-9%)拖累道指。金融股与加密板块领涨：Robinhood周涨约14%，Coinbase周涨8%；黄金期货收于约$4,647/oz创三个月高。",
+      "why": "美股周内大幅震荡后技术反弹，金融与加密占优。高债收益率与通胀顽固格局未变，Sell Put时需特别关注VIX及美联储9月加息节点（市场现定价约82-93%概率）。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "道指",
+        "纳指",
+        "美股",
+        "美债收益率",
+        "黄金"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "published_date": "2026-08-21",
+      "still_developing": false,
+      "id": "52d1fcf196473737",
+      "first_seen": "2026-08-22",
+      "is_new": true
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
+      "summary": "沃尔玛Q2财报：EPS $0.81超预期($0.74)，营收$1,879亿超预期，但美国可比销售增速仅2.6%（预期3.7-3.8%），创六年最低。管理层以降价应对竞争被市场解读为利润承压信号。WMT股价跌9%至约$104，为数月来最差单日表现。全年EPS指引上调至$2.80-$2.87。",
+      "why": "WMT是美国零售消费晴雨表，2.6%可比销售增速创六年最低揭示美国消费降速；对持仓中好市多(COST)、麦当劳(MCD)等美国消费类股构成行业性压力参照，需警惕美国消费信心持续恶化。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Walmart",
+        "WMT",
+        "沃尔玛",
+        "美国消费",
+        "零售",
+        "财报"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+      "published_date": "2026-08-20",
+      "still_developing": false,
+      "id": "363e03326afc62b2",
+      "first_seen": "2026-08-22",
+      "is_new": true
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "Bitcoin surges 22% for the week as investor optimism floods back",
+      "summary": "比特币本周大涨22%，周五收于$76,943(单日+6%)，创三年来最大单周涨幅。三大催化剂：(1)美财政部扩大长债回购使美债收益率回落；(2)白宫峰会推动Clarity Act监管框架加速立法；(3)机构需求回归+逼空共振。加密股全线暴涨：Robinhood周涨约14%，Coinbase周涨8%，Strategy周涨6%。比特币距2026年高点$94,820仍有距离。",
+      "why": "比特币大涨22%是本轮最强单周信号：直接利好Circle(CRCL)和USDC赛道——稳定币需求回升、Clarity Act立法预期均构成正向催化；此前已持Circle期权者应检查Delta敞口，波动率可能走高。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "比特币",
+        "Bitcoin",
+        "crypto",
+        "Clarity Act",
+        "Circle",
+        "USDC",
+        "CRCL",
+        "稳定币"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+      "published_date": "2026-08-21",
+      "still_developing": false,
+      "id": "56f3e9e27ac58bae",
+      "first_seen": "2026-08-22",
+      "is_new": true
+    },
+    {
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Dollar wobbles as investors balk at US Treasury's rescue efforts",
-      "summary": "美元跌至3月低位（指数约98.82），周跌幅逾0.8%；投资者认为财政部加倍回购长端国债属于临时手段，不能解决财政可信度根本问题，欧元升至3月高位1.1685，英镑触6月峰值。",
-      "why": "美元持续走弱反映市场对美国财政可信度的担忧，全球资产重新定价；美元指数走势直接影响港股/中资股估值及做空波动率的时机判断。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美元",
-        "贝森特",
-        "国债回购",
-        "美联储",
-        "债券市场"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/21/dollar-wobbles-as-investors-balk-at-us-treasurys-rescue-efforts.html",
-      "published_date": "2026-08-21",
-      "still_developing": false,
-      "first_seen": "2026-08-22",
-      "is_new": true
-    },
-    {
-      "id": "d6ff216e50f0af9d",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "Dow tumbles 700 points, S&P 500 falls as Treasury plan to subdue yields fails",
-      "summary": "道指8月19日大跌逾700点，标普500下挫，30年期美债收益率一度升至5.27%（2007年来最高）；财政部长贝森特当日宣布加倍回购长端国债以抑制收益率，但市场将此视为短期补丁而非根本解决方案。",
-      "why": "长端利率骤升对权益估值形成压制，sell-put策略需重估隐含波动率水平；财政干预债市失效信号值得警惕。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "道指",
-        "美债收益率",
-        "贝森特",
-        "国债回购",
-        "标普500"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
-      "published_date": "2026-08-19",
-      "still_developing": true,
-      "first_seen": "2026-08-22",
-      "is_new": true
-    },
-    {
-      "id": "b93e0dc778b0dc70",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
-      "summary": "贝森特扩大债市干预被视为侵入货币政策领域，加剧市场对美联储独立性的担忧；沃什态度矛盾：既不愿公开对抗财政部，又须维护央行公信力，杰克逊霍尔演讲（8月28日）或成关键表态窗口。",
-      "why": "央行独立性担忧是长期大类资产判断的核心风险；若沃什在杰克逊霍尔释放鹰派信号，可能引发权益资产短期波动，期权隐含波动率有上行风险。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "沃什",
-        "贝森特",
-        "美联储独立性",
-        "杰克逊霍尔",
-        "货币政策"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
-      "published_date": "2026-08-20",
-      "still_developing": true,
-      "first_seen": "2026-08-22",
-      "is_new": true
-    },
-    {
-      "id": "57862e3fdf66a07a",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
-      "summary": "贝森特宣布大幅扩大长端国债回购规模，向债市发出安抚信号，导致当日收益率短暂回落；但分析师认为此举将进一步模糊财政政策与货币政策边界，给美联储带来压力。",
-      "why": "延续报道：贝森特/沃什货币财政摩擦持续发酵，是本周债市动荡的核心线索；对sell-put策略的波动率定价有直接影响。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "贝森特",
-        "沃什",
-        "国债回购",
-        "美债收益率",
-        "美联储"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
-      "published_date": "2026-08-19",
-      "still_developing": true,
-      "first_seen": "2026-08-22",
-      "is_new": true
-    },
-    {
-      "id": "b92ea7ce75fc89df",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
       "time": "07:00",
       "group": "大盘头条",
-      "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
-      "summary": "分析指出，长端利率高企已开始传导至实体经济（抵押贷款、企业融资成本攀升），市场将沃什8月28日杰克逊霍尔演讲视为本轮货币财政紧张关系的关键表态机会；9月加息概率已从高点大幅下降至约33%。",
-      "why": "延续报道：债市对实体的传导效应和9月政策预期，直接影响持仓组合的风险评估；杰克逊霍尔前夕持有大量期权头寸需提前评估。",
-      "source": "CNBC",
+      "title": "Oil Set for Weekly Surge as US Seeks to Throttle Iran Economy — Brent near $94",
+      "summary": "布伦特原油连续多日上涨，周涨幅超5%，报约$94/桶，为本月最高。美国总统宣布对伊朗启动经济战并威胁对购买伊朗石油的贸易伙伴(中国为最大买家)实施金融制裁。波斯湾局势紧张持续推高能源风险溢价，通胀预期升温进一步支持美联储鹰派立场。",
+      "why": "油价持续高位与美联储年内多次加息预期叠加，加剧滞胀压力；制裁扩大至中国购油方若落地，将直接扰动中国经济及港股/A股风险偏好，持仓消费/科技类需留意系统性下行情景。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "债券市场",
-        "美债收益率",
-        "杰克逊霍尔",
-        "沃什",
-        "加息概率"
+        "油价",
+        "原油",
+        "伊朗",
+        "Iran",
+        "美国制裁",
+        "能源",
+        "Brent"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
-      "published_date": "2026-08-18",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/latest-oil-market-news-and-analysis-for-aug-21",
+      "published_date": "2026-08-20",
       "still_developing": true,
+      "id": "fdaf472d1e0d9eda",
       "first_seen": "2026-08-22",
       "is_new": true
     },
     {
-      "id": "e0fc06b84fb24fc4",
-      "tier": 2,
-      "lang": "zh",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Nevada Approves Tesla, Uber, and Waymo for Robotaxi Rides Around Las Vegas — TSLA up 5.1%",
+      "summary": "内华达州交通局一致批准特斯拉、Uber、Waymo在克拉克县(含拉斯维加斯全境)运营商业无人驾驶出租车，总配额8,000辆(特斯拉5,000辆+Uber/Waymo各1,000辆)，30天内可开始商业载客。TSLA周五涨5.1%，另有消息称电动半挂车进军德国市场。",
+      "why": "Robotaxi在全球最大赌城获商业化许可，是特斯拉FSD从辅助驾驶到独立运营的关键跨越；5,000辆配额若兑现将树立规模化商业先例，强化长期持仓逻辑。期权方：利好刺激下TSLA隐波可能短期上升，建议评估Sell Put行权价是否需上调安全边际。",
+      "source": "Seeking Alpha",
+      "verified": true,
+      "keywords": [
+        "Tesla",
+        "特斯拉",
+        "TSLA",
+        "Robotaxi",
+        "FSD",
+        "自动驾驶",
+        "内华达"
+      ],
+      "translated": false,
+      "url": "https://seekingalpha.com/news/4635971-nevada-approves-tesla-uber-and-waymo-for-robotaxi-rides-around-las-vegas",
+      "published_date": "2026-08-21",
+      "still_developing": false,
+      "id": "173d34ff97c0ff05",
+      "first_seen": "2026-08-22",
+      "is_new": true
+    },
+    {
+      "tier": 1,
+      "lang": "en",
       "markets": [
         "HK"
       ],
+      "time": "08:30",
+      "group": "个股",
+      "title": "Pop Mart Drops After Warning 2026 Growth Target Out of Reach",
+      "summary": "泡泡玛特(9992.HK)发布盈警：上半年海外增长大幅放缓，亚太(不含中国)营收跌9.7%，美洲跌16.5%；中国区增47.3%但不足弥补。公司明确表示将无法完成2026年全年销售增长目标，港股跌逾4%，Citi下调目标价。The Monsters/Labubu IP占总营收由34.7%降至26%，但Twinkle Twinkle新IP同比大增580.6%成亮点。",
+      "why": "持仓重大风险警报：Labubu全球热度放缓，海外扩张故事受挫，盈警意味着进一步估值下调风险。需重新评估Sell Put行权价的安全边际，或减少新增仓位。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "Labubu",
+        "盈警",
+        "海外增长",
+        "潮玩"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/pop-mart-warns-of-2026-sales-target-miss-as-growth-abroad-cools",
+      "published_date": "2026-08-20",
+      "still_developing": false,
+      "id": "8ce13cd0ac923515",
+      "first_seen": "2026-08-22",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
       "time": "18:00",
-      "group": "个股",
-      "title": "腾讯控股(00700.HK)8月18日回购3.00亿港元，年内累计回购267.30亿港元",
-      "summary": "腾讯控股8月18日斥资约3.005亿港元回购68.1万股，回购价区间约440-443港元。年内累计回购已达267.30亿港元。二季报披露后回购步伐未见放缓，显示管理层对股价估值的信心。",
-      "why": "延续报道：腾讯Q2资本开支大幅超预期（527.84亿元），但持续回购表明管理层以行动对冲高资本开支对股价的压力，有助于维持00700.HK卖put期权底部支撑。",
-      "source": "证券时报",
+      "group": "大盘头条",
+      "title": "Gold Jumps as Treasury Buybacks Revive Debasement Concerns — third consecutive weekly gain",
+      "summary": "黄金期货周五升至约$4,647/盎司(周涨约1.7%)，创五月中旬以来新高，连续三周收涨。美财政部宣布将10-30年期国债回购规模翻倍，美元走软叠加财政赤字担忧升温推动避险买盘。现货金触及$4,604.18高位。分析师将$5,000目标价提上议程。",
+      "why": "金价连续三周涨势直接支撑老铺黄金(6181.HK)营收逻辑；美国财政货币化担忧意味着高利率可能持续更久，对高估值成长股构成估值压力，期权卖方需注意Gamma风险。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "腾讯",
-        "回购",
-        "00700.HK",
+        "黄金",
+        "Gold",
+        "老铺黄金",
+        "6181.HK",
+        "美债",
+        "美元",
+        "财政赤字"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/gold-set-for-third-weekly-gain-on-us-treasury-buyback-plans",
+      "published_date": "2026-08-21",
+      "still_developing": false,
+      "id": "bcfc82c167f57809",
+      "first_seen": "2026-08-22",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股8月21日升1.21%重回26000点；A股创业板指涨1.43%；恒生指数Q2成分股调整盘后公布",
+      "summary": "港股8月21日(周五)收盘：恒生指数升1.21%，重回26,000点上方，金融、黄金、AI板块领涨。A股：沪指涨0.04%，深成指涨0.87%，创业板指涨1.43%，成交额1.88万亿(较前日缩量2001亿)；贵金属、算力硬件、液冷服务器概念活跃。恒生指数公司盘后公布2026年Q2指数系列调整结果，首批变动9月7日起生效，被动资金流向值得关注。",
+      "why": "港股恒指站上26,000点形成阶段性技术支撑，持仓腾讯、美团、小米等受益于风险偏好回暖；指数成份股调整若波及持仓标的将触发被动资金流入或流出，建议关注恒生指数公司官方公告细节。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
         "港股",
-        "股份回购"
+        "A股",
+        "创业板",
+        "HSI",
+        "指数调整"
       ],
       "translated": false,
-      "url": "https://www.stcn.com/article/detail/4084023.html",
-      "published_date": "2026-08-18",
-      "still_developing": true,
-      "first_seen": "2026-08-22",
-      "is_new": true
-    },
-    {
-      "id": "0b63c9566c03624e",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "15:00",
-      "group": "个股",
-      "title": "OCC races to finalize GENIUS Act stablecoin rules by November",
-      "summary": "美国货币监理署（OCC）明确表示将于2026年11月前完成GENIUS法案稳定币实施细则，以便在法案2027年1月18日生效前受理稳定币发行方的银行牌照申请；Circle（CRCL）已于7月获OCC信托银行批准，具有先发优势。",
-      "why": "延续报道：监管时间表明确加速Circle合规进程，CRCL合规护城河进一步强化；USDC规模当前逾730亿美元，监管清晰度提升有利于做多或持有逻辑。",
-      "source": "The Block",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "USDC",
-        "GENIUS Act",
-        "稳定币",
-        "OCC",
-        "CRCL",
-        "stablecoin"
-      ],
-      "translated": false,
-      "url": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240",
-      "published_date": "2026-08-19",
-      "still_developing": true,
-      "first_seen": "2026-08-22",
-      "is_new": true
-    },
-    {
-      "id": "6003f8764ad8e66e",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "19:00",
-      "group": "个股",
-      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-      "summary": "美国财政部就GENIUS法案第3条发布规则提案（NPRM），为稳定币发行方设定储备管理、独立审计、发行许可等标准，60天公众评议期开启；这是GENIUS法案签署后首份实施细则，标志稳定币监管框架进入落地阶段。",
-      "why": "延续报道：GENIUS Act规则落地是Circle/USDC生态的重大里程碑；CRCL若在公众评议期积极参与，将进一步巩固其主导地位；规则最终确定前CRCL股价或持续受到关注。",
-      "source": "CoinDesk",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "USDC",
-        "GENIUS Act",
-        "稳定币",
-        "美财政部",
-        "CRCL",
-        "stablecoin",
-        "监管"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-      "published_date": "2026-08-17",
-      "still_developing": true,
+      "url": "https://finance.sina.com.cn/roll/2026-08-21/doc-ininzpqv6462623.shtml",
+      "published_date": "2026-08-21",
+      "still_developing": false,
+      "id": "2425026a883b9d83",
       "first_seen": "2026-08-22",
       "is_new": true
     },
@@ -1750,6 +1761,91 @@
       "is_new": false
     },
     {
+      "id": "9b6a33563d9bdfa4",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Dollar wobbles as investors balk at US Treasury's rescue efforts",
+      "summary": "美元跌至3月低位（指数约98.82），周跌幅逾0.8%；投资者认为财政部加倍回购长端国债属于临时手段，不能解决财政可信度根本问题，欧元升至3月高位1.1685，英镑触6月峰值。",
+      "why": "美元持续走弱反映市场对美国财政可信度的担忧，全球资产重新定价；美元指数走势直接影响港股/中资股估值及做空波动率的时机判断。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美元",
+        "贝森特",
+        "国债回购",
+        "美联储",
+        "债券市场"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/21/dollar-wobbles-as-investors-balk-at-us-treasurys-rescue-efforts.html",
+      "published_date": "2026-08-21",
+      "still_developing": false,
+      "first_seen": "2026-08-22",
+      "is_new": false
+    },
+    {
+      "id": "d6ff216e50f0af9d",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "Dow tumbles 700 points, S&P 500 falls as Treasury plan to subdue yields fails",
+      "summary": "道指8月19日大跌逾700点，标普500下挫，30年期美债收益率一度升至5.27%（2007年来最高）；财政部长贝森特当日宣布加倍回购长端国债以抑制收益率，但市场将此视为短期补丁而非根本解决方案。",
+      "why": "长端利率骤升对权益估值形成压制，sell-put策略需重估隐含波动率水平；财政干预债市失效信号值得警惕。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "道指",
+        "美债收益率",
+        "贝森特",
+        "国债回购",
+        "标普500"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
+      "published_date": "2026-08-19",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
+      "is_new": false
+    },
+    {
+      "id": "b93e0dc778b0dc70",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
+      "summary": "贝森特扩大债市干预被视为侵入货币政策领域，加剧市场对美联储独立性的担忧；沃什态度矛盾：既不愿公开对抗财政部，又须维护央行公信力，杰克逊霍尔演讲（8月28日）或成关键表态窗口。",
+      "why": "央行独立性担忧是长期大类资产判断的核心风险；若沃什在杰克逊霍尔释放鹰派信号，可能引发权益资产短期波动，期权隐含波动率有上行风险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "沃什",
+        "贝森特",
+        "美联储独立性",
+        "杰克逊霍尔",
+        "货币政策"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
+      "published_date": "2026-08-20",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
+      "is_new": false
+    },
+    {
       "id": "5d8052b1347aabc6",
       "tier": 2,
       "lang": "en",
@@ -2998,6 +3094,151 @@
       "published_date": "2026-08-21",
       "still_developing": false,
       "first_seen": "2026-08-21",
+      "is_new": false
+    },
+    {
+      "id": "57862e3fdf66a07a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:00",
+      "group": "大盘头条",
+      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
+      "summary": "贝森特宣布大幅扩大长端国债回购规模，向债市发出安抚信号，导致当日收益率短暂回落；但分析师认为此举将进一步模糊财政政策与货币政策边界，给美联储带来压力。",
+      "why": "延续报道：贝森特/沃什货币财政摩擦持续发酵，是本周债市动荡的核心线索；对sell-put策略的波动率定价有直接影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "贝森特",
+        "沃什",
+        "国债回购",
+        "美债收益率",
+        "美联储"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
+      "published_date": "2026-08-19",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
+      "is_new": false
+    },
+    {
+      "id": "b92ea7ce75fc89df",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
+      "summary": "分析指出，长端利率高企已开始传导至实体经济（抵押贷款、企业融资成本攀升），市场将沃什8月28日杰克逊霍尔演讲视为本轮货币财政紧张关系的关键表态机会；9月加息概率已从高点大幅下降至约33%。",
+      "why": "延续报道：债市对实体的传导效应和9月政策预期，直接影响持仓组合的风险评估；杰克逊霍尔前夕持有大量期权头寸需提前评估。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "债券市场",
+        "美债收益率",
+        "杰克逊霍尔",
+        "沃什",
+        "加息概率"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
+      "published_date": "2026-08-18",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
+      "is_new": false
+    },
+    {
+      "id": "e0fc06b84fb24fc4",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "个股",
+      "title": "腾讯控股(00700.HK)8月18日回购3.00亿港元，年内累计回购267.30亿港元",
+      "summary": "腾讯控股8月18日斥资约3.005亿港元回购68.1万股，回购价区间约440-443港元。年内累计回购已达267.30亿港元。二季报披露后回购步伐未见放缓，显示管理层对股价估值的信心。",
+      "why": "延续报道：腾讯Q2资本开支大幅超预期（527.84亿元），但持续回购表明管理层以行动对冲高资本开支对股价的压力，有助于维持00700.HK卖put期权底部支撑。",
+      "source": "证券时报",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "回购",
+        "00700.HK",
+        "港股",
+        "股份回购"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/4084023.html",
+      "published_date": "2026-08-18",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
+      "is_new": false
+    },
+    {
+      "id": "0b63c9566c03624e",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "15:00",
+      "group": "个股",
+      "title": "OCC races to finalize GENIUS Act stablecoin rules by November",
+      "summary": "美国货币监理署（OCC）明确表示将于2026年11月前完成GENIUS法案稳定币实施细则，以便在法案2027年1月18日生效前受理稳定币发行方的银行牌照申请；Circle（CRCL）已于7月获OCC信托银行批准，具有先发优势。",
+      "why": "延续报道：监管时间表明确加速Circle合规进程，CRCL合规护城河进一步强化；USDC规模当前逾730亿美元，监管清晰度提升有利于做多或持有逻辑。",
+      "source": "The Block",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "USDC",
+        "GENIUS Act",
+        "稳定币",
+        "OCC",
+        "CRCL",
+        "stablecoin"
+      ],
+      "translated": false,
+      "url": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240",
+      "published_date": "2026-08-19",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
+      "is_new": false
+    },
+    {
+      "id": "6003f8764ad8e66e",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "19:00",
+      "group": "个股",
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "summary": "美国财政部就GENIUS法案第3条发布规则提案（NPRM），为稳定币发行方设定储备管理、独立审计、发行许可等标准，60天公众评议期开启；这是GENIUS法案签署后首份实施细则，标志稳定币监管框架进入落地阶段。",
+      "why": "延续报道：GENIUS Act规则落地是Circle/USDC生态的重大里程碑；CRCL若在公众评议期积极参与，将进一步巩固其主导地位；规则最终确定前CRCL股价或持续受到关注。",
+      "source": "CoinDesk",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "USDC",
+        "GENIUS Act",
+        "稳定币",
+        "美财政部",
+        "CRCL",
+        "stablecoin",
+        "监管"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+      "published_date": "2026-08-17",
+      "still_developing": true,
+      "first_seen": "2026-08-22",
       "is_new": false
     },
     {
