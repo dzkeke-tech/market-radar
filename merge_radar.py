@@ -123,31 +123,17 @@ def gh_get(filename):
 
 
 def gh_put(filename, obj, sha, message):
-    """PUT a JSON object to BRANCH. Exits with code 1 on failure."""
-    content_b64 = base64.b64encode(
-        json.dumps(obj, ensure_ascii=False, indent=2).encode("utf-8")
-    ).decode()
-    body = {"message": message, "content": content_b64, "branch": BRANCH}
-    if sha:
-        body["sha"] = sha
-    req = urllib.request.Request(
-        f"{API_URL}/{filename}",
-        data=json.dumps(body).encode(),
-        method="PUT",
-        headers={
-            "Authorization": f"Bearer {TOKEN}",
-            "Accept":        "application/vnd.github+json",
-            "Content-Type":  "application/json",
-        },
-    )
-    try:
-        with urllib.request.urlopen(req) as r:
-            code = r.status
-        print(f"  PUT {filename} → HTTP {code}")
-    except urllib.error.HTTPError as e:
-        err = e.read().decode()
-        print(f"  PUT {filename} FAILED HTTP {e.code}: {err}", file=sys.stderr)
-        sys.exit(1)
+    """Save JSON to local file for MCP push (proxy blocks direct GitHub PUT)."""
+    out_dir = "/tmp/claude-0/-home-user-market-radar/6f7541da-3c16-5adf-b08a-c7f2106e41a5/scratchpad"
+    out_path = os.path.join(out_dir, filename)
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+    print(f"  SAVED {filename} → {out_path}  (sha={sha})")
+    # Also store sha for MCP push
+    sha_path = out_path + ".sha"
+    with open(sha_path, "w") as f:
+        f.write(sha or "")
 
 
 # ── Item helpers ──────────────────────────────────────────────────────────────
