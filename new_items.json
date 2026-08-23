@@ -1,111 +1,51 @@
 [
   {
-    "id": "c893e8120dec7ec6",
+    "id": "d4416aa8fe8f009c",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US",
-      "HK"
+      "US"
     ],
     "time": "08:00",
     "group": "大盘头条",
-    "title": "Big week ahead: Nvidia Q2 earnings, Jackson Hole debut and PCE inflation data all land within five days",
-    "summary": "Nvidia reports FY27 Q2 results on Aug. 26 (Wall Street expects ~$91.8B revenue); Fed Chair Kevin Warsh gives his debut Jackson Hole speech Aug. 27-29 amid market pressure to signal rate direction; PCE inflation data also due that week. 30-year Treasury yields hit multi-decade highs this week, compressing equity multiples globally.",
-    "why": "五天内三大催化剂扎堆（英伟达财报+Jackson Hole+PCE），隐含波动率高企，所有期权卖方（sell put/covered call）需重新评估行权价与到期日风险；英伟达财报方向将传导至港股AI/半导体板块。",
-    "source": "CNBC",
-    "verified": false,
+    "title": "Kevin Warsh to Make First Jackson Hole Speech as Fed Chair",
+    "summary": "New Fed Chair Kevin Warsh delivers his inaugural keynote at the Jackson Hole Economic Policy Symposium (Aug 27-29) on Friday, Aug 28. The event lands 19 days before the September 16 FOMC decision; Warsh has curtailed forward guidance since taking office in May.",
+    "why": "9月FOMC会议前最重要的政策信号窗口；Warsh刻意压缩前瞻指引，演讲立场偏鸽或偏鹰均将直接影响9月降息预期，期权卖方需关注演讲前后隐含波动率变化。",
+    "source": "Bloomberg",
+    "verified": true,
     "keywords": [
-      "Jackson Hole",
-      "Nvidia",
-      "NVDA",
-      "PCE",
-      "Warsh",
-      "英伟达"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
-    "published_date": "2026-08-21",
-    "still_developing": false
-  },
-  {
-    "id": "391c46712c3e3c79",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "08:10",
-    "group": "大盘头条",
-    "title": "Bitcoin surges 22% for the week past $77,692 as Trump hosts White House crypto summit pushing CLARITY Act",
-    "summary": "Bitcoin posted its best five-day gain since March 2024, rising 22% to above $77,692. President Trump convened crypto-industry leaders at the White House on Aug. 19, urging Congress to pass the CLARITY Act for digital-asset regulation. Ethereum gained 8.12%, XRP surged 14.61%. Bitcoin spot ETFs saw about $606M net inflows in a single day; BlackRock captured 83%.",
-    "why": "Circle（CRCL）与USDC稳定币基础设施直接受益于监管明朗化预期；CLARITY法案若推进将确立数字资产框架，加密相关持仓（FUTU moomoo等券商）波动率显著上升。",
-    "source": "CNBC",
-    "verified": false,
-    "keywords": [
-      "比特币",
-      "Bitcoin",
-      "CLARITY Act",
-      "USDC",
-      "Circle",
-      "CRCL",
-      "稳定币"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
-    "published_date": "2026-08-20",
-    "still_developing": false
-  },
-  {
-    "id": "b93e0dc778b0dc70",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US",
-      "HK"
-    ],
-    "time": "08:20",
-    "group": "大盘头条",
-    "title": "Warsh faces Fed independence test as Bessent moves in on the central bank's turf; 30-year Treasury yields hit multi-decade highs",
-    "summary": "U.S. 30-year Treasury yields surged to multi-decade highs this week. Treasury Secretary Bessent's push to influence long-term bond markets has clashed with Fed Chair Warsh's refusal to give forward guidance, raising questions about central bank independence. Jackson Hole (Aug. 27-29) is now the key moment markets will watch for Warsh to clarify the rate path.",
-    "why": "美债超长端收益率飙升压制全球股票估值，港股科技首当其冲；Warsh在Jackson Hole若偏鹰派，可能触发全球风险资产抛售，sell put持仓的下行保护至关重要。",
-    "source": "CNBC",
-    "verified": false,
-    "keywords": [
-      "美联储",
-      "国债收益率",
-      "Warsh",
-      "Bessent",
       "Jackson Hole",
       "Fed",
-      "美债"
+      "Warsh",
+      "FOMC",
+      "宏观",
+      "macro"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
-    "published_date": "2026-08-20",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair",
+    "published_date": "2026-08-22",
     "still_developing": false
   },
   {
-    "id": "52d1fcf196473737",
-    "tier": 2,
+    "id": "c11636987d7257ec",
+    "tier": 1,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "08:30",
+    "time": "16:30",
     "group": "大盘头条",
-    "title": "U.S. stocks rise Friday Aug. 21: S&P 500 up 0.43% to 7,674; Dow gains 517 points; crypto equities soar on Bitcoin's weekly 22% advance",
-    "summary": "S&P 500 closed at 7,674.37 (+0.43%), Nasdaq Composite +0.43% to 26,180.45, Dow Jones +0.98% to 53,277.01 on Aug. 21. Crypto-related equities surged: Robinhood jumped nearly 14%, Coinbase added 8%. Healthcare stocks (Merck, J&J) also supported the Dow. Financials contributed broadly.",
-    "why": "美股周线收涨但成交量有限，下周Jackson Hole与英伟达财报将是真正的方向性考验；富途（FUTU）等港股互联网券商可跟踪加密相关溢价效应。",
+    "title": "S&P 500 posts weekly loss as 30-year Treasury yield hits near 19-year high of 5.273%",
+    "summary": "U.S. stocks fell 1.4% for the week ending Aug 21; the 30-year Treasury yield reached 5.273%, a near 19-year high. Treasury Secretary Bessent doubled long-term debt buybacks to $4B/operation to subdue yields. S&P 500 recovered 0.4% Friday to 7,674 after three sessions of losses.",
+    "why": "长端利率急升压制科技/成长股估值，Sell-put策略需关注Delta对冲成本抬升；同时为Jackson Hole会议铺垫了紧迫政策背景。",
     "source": "CNBC",
-    "verified": false,
+    "verified": true,
     "keywords": [
-      "标普500",
       "S&P 500",
-      "纳指",
-      "道指",
-      "Robinhood",
-      "Coinbase",
-      "美股"
+      "Treasury yields",
+      "30-year bond",
+      "宏观",
+      "macro"
     ],
     "translated": false,
     "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
@@ -113,113 +53,220 @@
     "still_developing": false
   },
   {
-    "id": "398586f21ea9e1ea",
-    "tier": 2,
+    "id": "bb4415d3a9693608",
+    "tier": 1,
     "lang": "en",
     "markets": [
-      "HK"
+      "US"
     ],
-    "time": "08:40",
+    "time": "16:00",
     "group": "大盘头条",
-    "title": "Hong Kong stocks decline as rising bond yields and stalemate in Iran war dent sentiment",
-    "summary": "The Hang Seng Index fell 0.5% in early trading to 25,323.70, weighed by elevated U.S. Treasury yields and the stalled Middle East conflict (Iran war stalemate) keeping risk appetite subdued. The week saw tech and healthcare sectors offer intermittent support, but the broader macro backdrop remains cautious heading into the Jackson Hole week.",
-    "why": "港股短期受美债收益率高企与地缘风险双重压制；Jackson Hole演讲若偏鸽派可释放港股反弹空间，持仓中科技类个股（腾讯、小米、美团）需对冲宏观下行风险。",
-    "source": "South China Morning Post",
-    "verified": false,
-    "keywords": [
-      "恒生指数",
-      "港股",
-      "伊朗",
-      "美债收益率",
-      "Hang Seng"
-    ],
-    "translated": false,
-    "url": "https://www.scmp.com/business/china-business/article/3364498/hong-kong-stocks-decline-rising-bond-yields-and-stalemate-iran-war-dent-sentiment",
-    "published_date": "2026-08-21",
-    "still_developing": false
-  },
-  {
-    "id": "5e4916d9e9825dbf",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "HK"
-    ],
-    "time": "09:00",
-    "group": "个股",
-    "title": "Labubu maker Pop Mart shares fall as ex-China sales drop sharply; Citi cuts price target after 2026 growth warning",
-    "summary": "Pop Mart (9992.HK) warned it will likely miss its 20% 2026 revenue growth target, citing a far tougher-than-expected first half. Asia Pacific ex-China sales fell 9.7%; Americas declined 16.5%; China revenue rose 47.3%. Shares fell as much as 8.9% intraday to around HK$147.70 — the biggest single-day drop since late March. Citi cut its group revenue forecast and slashed its price target.",
-    "why": "海外扩张放缓引发估值重估风险；Labubu出海增长叙事受损，Sell Put持仓需重新审视行权价位，股价深跌已推高隐含波动率，期权策略需谨慎调整。",
+    "title": "Nvidia reports Q2 FY2027 earnings on Aug 26; revenue consensus $93–95B, +97% YoY",
+    "summary": "Nvidia's Q2 FY2027 earnings (period ending July 27) are due after-market Wednesday, Aug 26. Analyst consensus for revenue is ~$93–95 billion vs. company guidance midpoint of $91B. Options markets imply a ~5.4% earnings-day move. Blackwell GPU ramp and data center demand are the key focus.",
+    "why": "英伟达是AI资本支出周期的最直接读数；业绩指引若超预期将强化持仓中的科技/AI相关标的（腾讯云、阿里云、SK海力士HBM需求等）；期权隐含波动率约5.4%，可关注earnings前后波动率压缩机会。",
     "source": "CNBC",
-    "verified": false,
+    "verified": true,
     "keywords": [
-      "泡泡玛特",
-      "Pop Mart",
-      "Labubu",
-      "9992.HK",
-      "盲盒",
-      "潮玩"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html",
-    "published_date": "2026-08-21",
-    "still_developing": false
-  },
-  {
-    "id": "32d894b5ee2bc387",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "HK",
-      "US"
-    ],
-    "time": "09:10",
-    "group": "个股",
-    "title": "SK Hynix moves to calm market with record $29 billion share buyback after stock loses half its value in two months",
-    "summary": "SK Hynix announced a record 40 trillion won (~$29 billion) share buyback and cancellation — the largest such action by any listed Korean company. The company will repurchase up to 24 million shares between Aug. 20 and Nov. 19, 2026, and cancel them. SK Hynix also raised its shareholder return pledge to over 50% of cumulative free cash flow for 2025-2027. Shares surged as much as 9% in Seoul on Aug. 19; Samsung Electronics also gained over 5%.",
-    "why": "延续报道：SK Hynix股价两个月跌逾50%后于8月19日宣布史上最大回购，回购期延至11月，股价仍在持续反应中。利好HBM/DRAM存储赛道整体，直接带动SK海力士（7709.HK）与美光（MU）估值修复；回购锁定筹码有利于Sell Put安全垫。",
-    "source": "Bloomberg",
-    "verified": false,
-    "keywords": [
-      "SK海力士",
-      "SK Hynix",
-      "HBM",
-      "DRAM",
-      "回购",
-      "7709.HK",
-      "存储芯片",
-      "美光"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-19/sk-hynix-announces-28-6-billion-share-buy-back-on-ai-boom",
-    "published_date": "2026-08-19",
-    "still_developing": true
-  },
-  {
-    "id": "478356c1b20e714d",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "09:20",
-    "group": "个股",
-    "title": "Nvidia to report Q2 FY2027 earnings on Aug. 26; options market pricing in a major move as AI chip demand drives outsized expectations",
-    "summary": "Nvidia (NVDA) will release fiscal Q2 2027 results on Wednesday, Aug. 26, after market close. Wall Street expects approximately $91.8 billion in revenue, representing over 50% year-on-year growth driven by AI data-center accelerator demand. Key watch items: Blackwell/Vera Rubin production ramp, China sales amid export controls, and forward guidance cadence. Options market is pricing a significant post-earnings move.",
-    "why": "英伟达财报是本周最重要的个股催化剂，结果将传导至港股AI/半导体板块；期权隐含波动率大幅上行，Sell Put策略须注意财报前后波动率坍塌（vega crush）风险，建议财报前不新开该标的的近期期权空头。",
-    "source": "CNBC",
-    "verified": false,
-    "keywords": [
-      "英伟达",
       "Nvidia",
       "NVDA",
       "GPU",
-      "AI芯片",
       "Blackwell",
-      "数据中心"
+      "AI芯片",
+      "数据中心",
+      "英伟达"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/video/2026/08/21/options-action-nvidia-reports-earnings-next-week.html",
+    "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+    "published_date": "2026-08-21",
+    "still_developing": false
+  },
+  {
+    "id": "c06df280856b2b03",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "07:00",
+    "group": "大盘头条",
+    "title": "Walmart Q2 FY2027: U.S. same-store sales growth hits 6-year low; stock falls nearly 10%",
+    "summary": "Walmart reported Q2 FY2027 on Aug 20: revenue $187.94B (+5.9% YoY) beat, but U.S. comparable sales growth of 2.6% was the weakest in more than six years, and full-year adjusted EPS guidance of $2.80–$2.87 missed the ~$2.90 consensus. Shares fell ~10%.",
+    "why": "沃尔玛是美国消费支出的晴雨表；同店增速创6年新低暗示通胀疲劳型消费降级，对麦当劳、好市多等消费持仓的宏观背景不利；也令美股整体本周承压。",
+    "source": "SEC EDGAR",
+    "verified": true,
+    "keywords": [
+      "Walmart",
+      "WMT",
+      "零售",
+      "消费",
+      "同店销售",
+      "consumer"
+    ],
+    "translated": false,
+    "url": "https://www.sec.gov/Archives/edgar/data/0000104169/000010416926000145/earningsreleasefy27q2.htm",
+    "published_date": "2026-08-20",
+    "still_developing": true
+  },
+  {
+    "id": "51c9a391deaca864",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "16:30",
+    "group": "大盘头条",
+    "title": "Bitcoin posts best week in two years; US-Iran 'economic warfare' adds geopolitical risk",
+    "summary": "As the week closed Aug 21, bitcoin recorded its best weekly performance in two years. Separately, the Trump administration announced an 'economic warfare' plan against Iran, adding a new geopolitical overlay to already-elevated Treasury yields and equity volatility.",
+    "why": "比特币强势直接利好Circle(CRCL)等加密基础设施；美伊紧张局势是全球风险溢价的额外变量，若升级将压制权益资产、支撑黄金及老铺黄金相关标的。",
+    "source": "CNBC",
+    "verified": false,
+    "keywords": [
+      "Bitcoin",
+      "crypto",
+      "Iran",
+      "geopolitical",
+      "宏观",
+      "macro",
+      "稳定币"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+    "published_date": "2026-08-21",
+    "still_developing": false
+  },
+  {
+    "id": "7d1bbdf412a5fe0b",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "08:30",
+    "group": "个股",
+    "title": "Pop Mart Unveils Up to 5 Billion Yuan Buyback as Overseas Revenue Falls",
+    "summary": "Pop Mart (9992.HK) H1 2026: revenue RMB 17.17B (+23.8% YoY), China +47.3%; Asia-Pacific ex-China -9.7%, Americas -16.5%; total overseas -11.1%. CEO Wang Ning announced a 2–5 billion yuan buyback in the next 6 months. HK shares fell over 4% on results. Gross margin 69.7%.",
+    "why": "海外收入下滑是核心利空，揭示Labubu热度降温；但回购计划（20-50亿元规模）提供股价支撑，暗示管理层对估值有信心——可关注Sell put机会；Labubu×三丽鸥联名是潜在破圈催化剂。",
+    "source": "财新 Caixin Global",
+    "verified": true,
+    "keywords": [
+      "泡泡玛特",
+      "Pop Mart",
+      "9992.HK",
+      "Labubu",
+      "回购",
+      "盲盒"
+    ],
+    "translated": false,
+    "url": "https://www.caixinglobal.com/2026-08-21/pop-mart-unveils-up-to-5-billion-yuan-buyback-as-overseas-revenue-falls-102476270.html",
+    "published_date": "2026-08-21",
+    "still_developing": true
+  },
+  {
+    "id": "7597aa4e0f9939f4",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "Tesla, Uber, Waymo get Nevada permit for thousands of robotaxis; Cybercab Austin launch imminent",
+    "summary": "Nevada's Transportation Authority approved Tesla's permit on Aug 20 to operate up to 5,000 robotaxis in Clark County (Las Vegas area), expanding from a previous cap of 10. Commercial Cybercab rides in Austin, Texas, are expected to launch by end of August. Tesla shares gained on the news Friday.",
+    "why": "延续报道：Nevada许可是特斯拉Robotaxi商业化的重要里程碑；Cybercab奥斯汀即将开城，是FSD叙事的关键验证节点；对TSLA Sell put策略而言，持续正面催化降低短期行权风险。",
+    "source": "CNBC",
+    "verified": false,
+    "keywords": [
+      "特斯拉",
+      "Tesla",
+      "TSLA",
+      "Robotaxi",
+      "Cybercab",
+      "FSD",
+      "自动驾驶"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+    "published_date": "2026-08-20",
+    "still_developing": true
+  },
+  {
+    "id": "efef140aabd05dcc",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "07:30",
+    "group": "个股",
+    "title": "PDD Holdings (Pinduoduo) reports Q2 2026 before market open Monday Aug 24",
+    "summary": "PDD Holdings will release Q2 2026 results before U.S. market open on Aug 24. Key watch: whether Temu's global sales growth is sustainable and profit margin trends, given heavy marketing and logistics investment. Analyst consensus holds a Moderate Buy with avg target ~$110.",
+    "why": "即将发布（明天）的业绩是近期最重要的中概股催化剂之一；Temu增速是否持续、利润率是否改善，将决定拼多多能否摆脱估值压制；持有或考虑Sell put的投资者需关注业绩公布风险。",
+    "source": "PDD Holdings IR",
+    "verified": true,
+    "keywords": [
+      "拼多多",
+      "PDD",
+      "Temu",
+      "跨境电商",
+      "百亿补贴"
+    ],
+    "translated": false,
+    "url": "https://investor.pddholdings.com/financial-information/quarterly-results",
+    "published_date": "2026-08-21",
+    "still_developing": false
+  },
+  {
+    "id": "22753598326542c1",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "雷军微博：小米SU7赢川渝往返700km续航挑战，实测达成率80.46%十车第一",
+    "summary": "小米创始人雷军于8月22日发微博，公布川渝往返700km高速+山区路况测试结果：小米SU7以724.9km实测续航、80.46%达成率位列十款主流长续航纯电车第一，是唯一完成往返全程未趴窝的车型。",
+    "why": "产品力口碑验证是小米汽车品牌溢价的关键——直接对比竞品的实测胜利有助于稳固SU7在20万+纯电轿车的龙头地位，支撑交付量持续增长预期，对持有小米(1810.HK)头寸为正向催化。",
+    "source": "新浪",
+    "verified": false,
+    "keywords": [
+      "小米",
+      "Xiaomi",
+      "1810.HK",
+      "SU7",
+      "雷军",
+      "小米汽车",
+      "续航"
+    ],
+    "translated": false,
+    "url": "https://www.sina.cn/news/detail/5334715218789874.html",
+    "published_date": "2026-08-22",
+    "still_developing": false
+  },
+  {
+    "id": "c2b2d18fcfb2a17b",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "18:00",
+    "group": "个股",
+    "title": "腾讯控股8月21日回购66.7万股，涉资约3亿港元，持续高频回购中",
+    "summary": "腾讯控股(00700)于2026年8月21日在联交所回购66.7万股普通股，每股回购价介于HKD 445.2至457，总代价约3亿港元。这是腾讯近期高频回购的持续，Q2累计已斥资约169亿港元回购3,738万股。",
+    "why": "腾讯持续以大手笔回购做多自家股票，为现有持仓提供估值底部支撑；对Covered Call卖出方而言，管理层积极托市降低了深度跌穿行权价的概率；需关注后续是否出现回购节奏放缓信号。",
+    "source": "富途牛牛",
+    "verified": true,
+    "keywords": [
+      "腾讯",
+      "Tencent",
+      "0700.HK",
+      "回购",
+      "港股"
+    ],
+    "translated": false,
+    "url": "https://news.futunn.com/post/78046116/on-august-21-tencent-00700-repurchased-667000-shares-for-hk",
     "published_date": "2026-08-21",
     "still_developing": false
   }

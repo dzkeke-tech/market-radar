@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-23 08:24 (北京时间)",
+  "updated_at": "2026-08-23 13:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,122 +9,242 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-23 08:24 (北京时间)",
-    "new_count": 4,
+    "at": "2026-08-23 13:16 (北京时间)",
+    "new_count": 8,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "7be73c1a05b07b6a",
+      "id": "d4416aa8fe8f009c",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "09:45",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "US Business Activity Expands at Fastest Pace Since 2022",
-      "summary": "S&P Global Flash Composite PMI jumped to 56.0 in August, up from 54.5 in July and the highest reading since April 2022, driven primarily by a services sector surge. S&P Global said survey data point to US economic growth approaching a 3% annualized rate in Q3.",
-      "why": "美国经济加速信号明显强于预期，推升市场对企业盈利的乐观预期；同时也加强了美联储9月可能进一步收紧的预期，需关注高利率对估值的压制效应；sell put策略在VIX较低时需提高行权价审慎度。",
+      "title": "Kevin Warsh to Make First Jackson Hole Speech as Fed Chair",
+      "summary": "New Fed Chair Kevin Warsh delivers his inaugural keynote at the Jackson Hole Economic Policy Symposium (Aug 27-29) on Friday, Aug 28. The event lands 19 days before the September 16 FOMC decision; Warsh has curtailed forward guidance since taking office in May.",
+      "why": "9月FOMC会议前最重要的政策信号窗口；Warsh刻意压缩前瞻指引，演讲立场偏鸽或偏鹰均将直接影响9月降息预期，期权卖方需关注演讲前后隐含波动率变化。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "PMI",
-        "business activity",
-        "US economy",
-        "services sector"
+        "Jackson Hole",
+        "Fed",
+        "Warsh",
+        "FOMC",
+        "宏观",
+        "macro"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-business-activity-expands-at-the-fastest-pace-since-2022",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair",
+      "published_date": "2026-08-22",
+      "still_developing": false,
+      "first_seen": "2026-08-23",
+      "is_new": true
+    },
+    {
+      "id": "c11636987d7257ec",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "S&P 500 posts weekly loss as 30-year Treasury yield hits near 19-year high of 5.273%",
+      "summary": "U.S. stocks fell 1.4% for the week ending Aug 21; the 30-year Treasury yield reached 5.273%, a near 19-year high. Treasury Secretary Bessent doubled long-term debt buybacks to $4B/operation to subdue yields. S&P 500 recovered 0.4% Friday to 7,674 after three sessions of losses.",
+      "why": "长端利率急升压制科技/成长股估值，Sell-put策略需关注Delta对冲成本抬升；同时为Jackson Hole会议铺垫了紧迫政策背景。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "Treasury yields",
+        "30-year bond",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
       "published_date": "2026-08-21",
       "still_developing": false,
       "first_seen": "2026-08-23",
       "is_new": true
     },
     {
-      "id": "76d5177e503805b2",
+      "id": "c06df280856b2b03",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "16:30",
+      "time": "07:00",
       "group": "大盘头条",
-      "title": "US Stocks Rise on Aug. 22: S&P 500 +0.43%, Dow +0.98%, Tesla Leads Gains After Volatile Yield-Driven Week",
-      "summary": "S&P 500 closed at 7,674.37 (+0.43%), Dow at 53,277.01 (+0.98%), Nasdaq at 26,180.46 (+0.43%) on August 22. Tesla surged 5.14% to lead gains. VIX fell 5.5%, 10-year yield retreated, and DXY dropped 0.70%. Markets on track for first weekly decline since late July despite Friday's bounce.",
-      "why": "本周整体为美股四周来首次单周下跌，尽管周五反弹——上周美债收益率飙升引发的抛售仍未完全消化；Tesla个股因Cybercab进展领涨，反映市场开始重新定价自动驾驶叙事。关注下周Nvidia（8月26日）和PDD（8月24日）财报能否提振市场情绪。",
-      "source": "CNBC",
+      "title": "Walmart Q2 FY2027: U.S. same-store sales growth hits 6-year low; stock falls nearly 10%",
+      "summary": "Walmart reported Q2 FY2027 on Aug 20: revenue $187.94B (+5.9% YoY) beat, but U.S. comparable sales growth of 2.6% was the weakest in more than six years, and full-year adjusted EPS guidance of $2.80–$2.87 missed the ~$2.90 consensus. Shares fell ~10%.",
+      "why": "沃尔玛是美国消费支出的晴雨表；同店增速创6年新低暗示通胀疲劳型消费降级，对麦当劳、好市多等消费持仓的宏观背景不利；也令美股整体本周承压。",
+      "source": "SEC EDGAR",
       "verified": true,
       "keywords": [
-        "S&P 500",
-        "Dow Jones",
-        "Nasdaq",
-        "市场反弹",
-        "美股"
+        "Walmart",
+        "WMT",
+        "零售",
+        "消费",
+        "同店销售",
+        "consumer"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/21/stock-market-today-live-updates-.html",
-      "published_date": "2026-08-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000104169/000010416926000145/earningsreleasefy27q2.htm",
+      "published_date": "2026-08-20",
       "still_developing": true,
       "first_seen": "2026-08-23",
       "is_new": true
     },
     {
-      "id": "2bdd2e9dd6fee3fe",
+      "id": "7d1bbdf412a5fe0b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "个股",
+      "title": "Pop Mart Unveils Up to 5 Billion Yuan Buyback as Overseas Revenue Falls",
+      "summary": "Pop Mart (9992.HK) H1 2026: revenue RMB 17.17B (+23.8% YoY), China +47.3%; Asia-Pacific ex-China -9.7%, Americas -16.5%; total overseas -11.1%. CEO Wang Ning announced a 2–5 billion yuan buyback in the next 6 months. HK shares fell over 4% on results. Gross margin 69.7%.",
+      "why": "海外收入下滑是核心利空，揭示Labubu热度降温；但回购计划（20-50亿元规模）提供股价支撑，暗示管理层对估值有信心——可关注Sell put机会；Labubu×三丽鸥联名是潜在破圈催化剂。",
+      "source": "财新 Caixin Global",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "Labubu",
+        "回购",
+        "盲盒"
+      ],
+      "translated": false,
+      "url": "https://www.caixinglobal.com/2026-08-21/pop-mart-unveils-up-to-5-billion-yuan-buyback-as-overseas-revenue-falls-102476270.html",
+      "published_date": "2026-08-21",
+      "still_developing": true,
+      "first_seen": "2026-08-23",
+      "is_new": true
+    },
+    {
+      "id": "7597aa4e0f9939f4",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "07:30",
+      "time": "09:00",
       "group": "个股",
-      "title": "PDD Holdings Q2 2026 Results Due Aug. 24: Wall Street Expects EPS $2.77 on $17.1B Revenue as Temu Growth Scrutinized",
-      "summary": "PDD Holdings will report Q2 2026 earnings before market open on Aug. 24, with a conference call at 7:30 a.m. ET. Consensus: EPS $2.77, revenue ~$17.13B. Stock is down ~40% from its 52-week high. Key watch: Temu international margin trajectory and whether high marketing spend is showing ROI. Analysts split with moderate buy consensus but some downgrade to underperform.",
-      "why": "拼多多（PDD）明日财报是本周最重要的中国互联网催化剂之一；Temu出海成本压制利润率是核心争议点；鉴于股价已跌40%，若业绩超预期且管理层给出积极指引，可关注反弹做空波动率机会（卖出看跌）；反之需防范进一步下行风险。",
-      "source": "MarketScreener",
+      "title": "Tesla, Uber, Waymo get Nevada permit for thousands of robotaxis; Cybercab Austin launch imminent",
+      "summary": "Nevada's Transportation Authority approved Tesla's permit on Aug 20 to operate up to 5,000 robotaxis in Clark County (Las Vegas area), expanding from a previous cap of 10. Commercial Cybercab rides in Austin, Texas, are expected to launch by end of August. Tesla shares gained on the news Friday.",
+      "why": "延续报道：Nevada许可是特斯拉Robotaxi商业化的重要里程碑；Cybercab奥斯汀即将开城，是FSD叙事的关键验证节点；对TSLA Sell put策略而言，持续正面催化降低短期行权风险。",
+      "source": "CNBC",
       "verified": false,
       "keywords": [
-        "拼多多",
-        "PDD",
-        "Temu",
-        "跨境电商",
-        "百亿补贴"
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Robotaxi",
+        "Cybercab",
+        "FSD",
+        "自动驾驶"
       ],
       "translated": false,
-      "url": "https://www.marketscreener.com/news/pdd-holdings-to-report-second-quarter-2026-unaudited-financial-results-on-august-24-2026-ce7859dcdb8bff2d",
-      "published_date": "2026-08-22",
+      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "published_date": "2026-08-20",
       "still_developing": true,
       "first_seen": "2026-08-23",
       "is_new": true
     },
     {
-      "id": "909e0e62a94a278f",
+      "id": "51c9a391deaca864",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
       "time": "16:30",
-      "group": "个股",
-      "title": "Tesla Stock Surges 5%+ Weekly on Cybercab Momentum: Austin Hub Permit Filed, Sept. 3 Launch Event Set",
-      "summary": "TSLA closed at ~$362.86 on Aug. 22 (+5.2% on the week). Catalyst: permit filings for a dedicated Cybercab charging hub in Austin, TX — Phase 1 (48 V3 Superchargers) + Phase 2 (80 wireless chargers) across 128 parking spaces. Tesla employee test rides for the Cybercab are expected to begin before month-end; qualifying event runs through Aug. 23. Full launch event set for Sept. 3.",
-      "why": "Cybercab从期权叙事变为物理部署——充电枢纽施工许可是可证伪的进度节点，让Robotaxi商业化时间轴预期前移；对TSLA sell put策略：股价重回$350+区间，隐含波动率可能仍偏高，若9月3日发布会顺利进行则可考虑卖出更高行权价的看跌。",
-      "source": "Yahoo Finance",
+      "group": "大盘头条",
+      "title": "Bitcoin posts best week in two years; US-Iran 'economic warfare' adds geopolitical risk",
+      "summary": "As the week closed Aug 21, bitcoin recorded its best weekly performance in two years. Separately, the Trump administration announced an 'economic warfare' plan against Iran, adding a new geopolitical overlay to already-elevated Treasury yields and equity volatility.",
+      "why": "比特币强势直接利好Circle(CRCL)等加密基础设施；美伊紧张局势是全球风险溢价的额外变量，若升级将压制权益资产、支撑黄金及老铺黄金相关标的。",
+      "source": "CNBC",
       "verified": false,
       "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Cybercab",
-        "Robotaxi",
-        "自动驾驶",
-        "FSD"
+        "Bitcoin",
+        "crypto",
+        "Iran",
+        "geopolitical",
+        "宏观",
+        "macro",
+        "稳定币"
       ],
       "translated": false,
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-cybercab-launch-172749081.html",
+      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "published_date": "2026-08-21",
+      "still_developing": false,
+      "first_seen": "2026-08-23",
+      "is_new": true
+    },
+    {
+      "id": "22753598326542c1",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "雷军微博：小米SU7赢川渝往返700km续航挑战，实测达成率80.46%十车第一",
+      "summary": "小米创始人雷军于8月22日发微博，公布川渝往返700km高速+山区路况测试结果：小米SU7以724.9km实测续航、80.46%达成率位列十款主流长续航纯电车第一，是唯一完成往返全程未趴窝的车型。",
+      "why": "产品力口碑验证是小米汽车品牌溢价的关键——直接对比竞品的实测胜利有助于稳固SU7在20万+纯电轿车的龙头地位，支撑交付量持续增长预期，对持有小米(1810.HK)头寸为正向催化。",
+      "source": "新浪",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "SU7",
+        "雷军",
+        "小米汽车",
+        "续航"
+      ],
+      "translated": false,
+      "url": "https://www.sina.cn/news/detail/5334715218789874.html",
       "published_date": "2026-08-22",
-      "still_developing": true,
+      "still_developing": false,
+      "first_seen": "2026-08-23",
+      "is_new": true
+    },
+    {
+      "id": "c2b2d18fcfb2a17b",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "个股",
+      "title": "腾讯控股8月21日回购66.7万股，涉资约3亿港元，持续高频回购中",
+      "summary": "腾讯控股(00700)于2026年8月21日在联交所回购66.7万股普通股，每股回购价介于HKD 445.2至457，总代价约3亿港元。这是腾讯近期高频回购的持续，Q2累计已斥资约169亿港元回购3,738万股。",
+      "why": "腾讯持续以大手笔回购做多自家股票，为现有持仓提供估值底部支撑；对Covered Call卖出方而言，管理层积极托市降低了深度跌穿行权价的概率；需关注后续是否出现回购节奏放缓信号。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "回购",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/78046116/on-august-21-tencent-00700-repurchased-667000-shares-for-hk",
+      "published_date": "2026-08-21",
+      "still_developing": false,
       "first_seen": "2026-08-23",
       "is_new": true
     },
@@ -1221,6 +1341,89 @@
       "is_new": false
     },
     {
+      "id": "7be73c1a05b07b6a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:45",
+      "group": "大盘头条",
+      "title": "US Business Activity Expands at Fastest Pace Since 2022",
+      "summary": "S&P Global Flash Composite PMI jumped to 56.0 in August, up from 54.5 in July and the highest reading since April 2022, driven primarily by a services sector surge. S&P Global said survey data point to US economic growth approaching a 3% annualized rate in Q3.",
+      "why": "美国经济加速信号明显强于预期，推升市场对企业盈利的乐观预期；同时也加强了美联储9月可能进一步收紧的预期，需关注高利率对估值的压制效应；sell put策略在VIX较低时需提高行权价审慎度。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "PMI",
+        "business activity",
+        "US economy",
+        "services sector"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-business-activity-expands-at-the-fastest-pace-since-2022",
+      "published_date": "2026-08-21",
+      "still_developing": false,
+      "first_seen": "2026-08-23",
+      "is_new": false
+    },
+    {
+      "id": "76d5177e503805b2",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "US Stocks Rise on Aug. 22: S&P 500 +0.43%, Dow +0.98%, Tesla Leads Gains After Volatile Yield-Driven Week",
+      "summary": "S&P 500 closed at 7,674.37 (+0.43%), Dow at 53,277.01 (+0.98%), Nasdaq at 26,180.46 (+0.43%) on August 22. Tesla surged 5.14% to lead gains. VIX fell 5.5%, 10-year yield retreated, and DXY dropped 0.70%. Markets on track for first weekly decline since late July despite Friday's bounce.",
+      "why": "本周整体为美股四周来首次单周下跌，尽管周五反弹——上周美债收益率飙升引发的抛售仍未完全消化；Tesla个股因Cybercab进展领涨，反映市场开始重新定价自动驾驶叙事。关注下周Nvidia（8月26日）和PDD（8月24日）财报能否提振市场情绪。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "Dow Jones",
+        "Nasdaq",
+        "市场反弹",
+        "美股"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/21/stock-market-today-live-updates-.html",
+      "published_date": "2026-08-22",
+      "still_developing": true,
+      "first_seen": "2026-08-23",
+      "is_new": false
+    },
+    {
+      "id": "2bdd2e9dd6fee3fe",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:30",
+      "group": "个股",
+      "title": "PDD Holdings Q2 2026 Results Due Aug. 24: Wall Street Expects EPS $2.77 on $17.1B Revenue as Temu Growth Scrutinized",
+      "summary": "PDD Holdings will report Q2 2026 earnings before market open on Aug. 24, with a conference call at 7:30 a.m. ET. Consensus: EPS $2.77, revenue ~$17.13B. Stock is down ~40% from its 52-week high. Key watch: Temu international margin trajectory and whether high marketing spend is showing ROI. Analysts split with moderate buy consensus but some downgrade to underperform.",
+      "why": "拼多多（PDD）明日财报是本周最重要的中国互联网催化剂之一；Temu出海成本压制利润率是核心争议点；鉴于股价已跌40%，若业绩超预期且管理层给出积极指引，可关注反弹做空波动率机会（卖出看跌）；反之需防范进一步下行风险。",
+      "source": "MarketScreener",
+      "verified": false,
+      "keywords": [
+        "拼多多",
+        "PDD",
+        "Temu",
+        "跨境电商",
+        "百亿补贴"
+      ],
+      "translated": false,
+      "url": "https://www.marketscreener.com/news/pdd-holdings-to-report-second-quarter-2026-unaudited-financial-results-on-august-24-2026-ce7859dcdb8bff2d",
+      "published_date": "2026-08-22",
+      "still_developing": true,
+      "first_seen": "2026-08-23",
+      "is_new": false
+    },
+    {
       "tier": 2,
       "lang": "en",
       "markets": [
@@ -2237,6 +2440,36 @@
       "published_date": "2026-08-17",
       "still_developing": true,
       "first_seen": "2026-08-22",
+      "is_new": false
+    },
+    {
+      "id": "909e0e62a94a278f",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "个股",
+      "title": "Tesla Stock Surges 5%+ Weekly on Cybercab Momentum: Austin Hub Permit Filed, Sept. 3 Launch Event Set",
+      "summary": "TSLA closed at ~$362.86 on Aug. 22 (+5.2% on the week). Catalyst: permit filings for a dedicated Cybercab charging hub in Austin, TX — Phase 1 (48 V3 Superchargers) + Phase 2 (80 wireless chargers) across 128 parking spaces. Tesla employee test rides for the Cybercab are expected to begin before month-end; qualifying event runs through Aug. 23. Full launch event set for Sept. 3.",
+      "why": "Cybercab从期权叙事变为物理部署——充电枢纽施工许可是可证伪的进度节点，让Robotaxi商业化时间轴预期前移；对TSLA sell put策略：股价重回$350+区间，隐含波动率可能仍偏高，若9月3日发布会顺利进行则可考虑卖出更高行权价的看跌。",
+      "source": "Yahoo Finance",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Cybercab",
+        "Robotaxi",
+        "自动驾驶",
+        "FSD"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-cybercab-launch-172749081.html",
+      "published_date": "2026-08-22",
+      "still_developing": true,
+      "first_seen": "2026-08-23",
       "is_new": false
     },
     {
