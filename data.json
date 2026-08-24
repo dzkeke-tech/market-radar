@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-24 08:19 (北京时间)",
+  "updated_at": "2026-08-24 18:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,214 +9,97 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-24 08:19 (北京时间)",
-    "new_count": 4,
+    "at": "2026-08-24 18:17 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "af02c5de1be2f70e",
+      "id": "91160255a73b6153",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
         "HK",
+        "A",
         "US"
       ],
-      "time": "22:00",
+      "time": "15:30",
       "group": "大盘头条",
-      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
-      "summary": "Alibaba announced plans to sell 710 million ordinary shares at HK$112.70 each (3.6% discount), raising net proceeds of ~HK$79.7 billion (~USD 10.2B). All net proceeds will be invested in full-stack AI capabilities including chips, infrastructure, and AI model development. The deal is expected to close August 26 and would be the largest-ever primary follow-on offering by a Hong Kong-listed company.",
-      "why": "重大稀释事件（3.6%折让）：短期或压制9988.HK/BABA股价，关注sell put卖方行权风险；另一面，管理层全力押注AI基础设施体现高确信度，可能驱动长期估值重估。对港股科技板块有示范效应，隐含波动率短期可能上升。",
-      "source": "Reuters (via US News)",
+      "title": "A股8月24日全线回调，创业板跌3.21%，三重因素共振：美债压制、阿里配股引发AI高投入担忧、CPO技术路线引发格局争议",
+      "summary": "上证指数跌0.59%，深证成指跌2.13%，创业板指跌3.21%，北证50跌2.02%，全市场逾3900只个股下跌，延续8月18日以来的调整态势。三重因素共振：一是美债长端收益率持续上行压制全球权益；二是阿里巴巴落地千亿港元配股计划，市场解读为AI高投入、盈利兑现偏慢；三是SK海力士发布CPO路线图引发CPO概念股集中抛售。",
+      "why": "A股整体调整直接影响港股与中概股情绪；CPO板块重挫波及半导体持仓；科技股隐含波动率可能抬升，sell put 需注意行权价下移风险。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "BABA",
-        "9988.HK",
-        "AI",
-        "配售",
-        "share placement"
+        "A股",
+        "市场调整",
+        "CPO",
+        "科技股"
       ],
       "translated": false,
-      "url": "https://www.usnews.com/news/top-news/articles/2026-08-23/alibaba-proposes-hong-kong-share-placement-worth-10-billion",
-      "published_date": "2026-08-23",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-24/doc-inipkzxw2914773.shtml",
+      "published_date": "2026-08-24",
       "still_developing": false,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": true
     },
     {
-      "id": "8f4b22142e042c45",
+      "id": "908b2b8b0d47d07b",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Nvidia reports Q2 FY2027 earnings on Aug. 26 — company guided ~$91B revenue; analysts expect ~$93-95B, ~96% YoY growth",
-      "summary": "Nvidia is set to report second-quarter FY2027 results on August 26. The company previously guided revenue of $91B ±2%, while Wall Street consensus sits at approximately $93-95B, implying ~96% year-over-year growth driven by Blackwell GPU demand. Stock has gained ~17.7% YTD and sits near $219. Analysts broadly rate as Buy with average target ~$302.",
-      "why": "本周三英伟达财报是全球AI景气度晴雨表：若营收超过$93B且毛利率维持75%以上，对AI硬件、云计算及HBM存储（SK海力士/美光）均为强正面信号；Sell put策略者注意财报前后隐含波动率将走高，财报落地后IV Crush风险。",
-      "source": "Yahoo Finance / The Motley Fool",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI芯片",
-        "GPU",
-        "Blackwell",
-        "财报"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-going-soar-174000999.html",
-      "published_date": "2026-08-21",
-      "still_developing": true,
-      "first_seen": "2026-08-24"
-    },
-    {
-      "id": "7da90ab2ca32b158",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
+        "US",
         "HK",
         "A"
       ],
-      "time": "09:15",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "China keeps 1-year LPR at 3.00% and 5-year LPR at 3.50% for 15th consecutive month",
-      "summary": "The People's Bank of China held both benchmark lending rates unchanged on August 20: the one-year LPR at 3.00% and the five-year LPR at 3.50%. This marks the 15th consecutive month of no change since June 2025, signaling policy stability as authorities balance economic support with financial risk management amid persistent deflationary pressures.",
-      "why": "LPR连续15个月不变，按揭成本稳定，对消费/地产板块短期无催化。但维持宽松基调有利港股/A股整体流动性预期；对持有消费股（海底捞、蜜雪冰城）的Sell put策略，支撑'利率环境不恶化'的前提。",
-      "source": "Chinese Government Official Website (english.www.gov.cn)",
+      "title": "Global bond markets under pressure: US 30-year Treasury yield climbs to 5.25%, near 20-month high; 10-year at 4.74%",
+      "summary": "US long-end Treasury yields continue to surge, with the 30-year bond reaching 5.25% and the 10-year at 4.74%, levels not seen in nearly two years. The selloff is driven by surging AI company debt issuance, elevated federal deficit spending, and growing fears about long-term fiscal sustainability. Treasury Secretary Bessent's intervention provided only brief relief.",
+      "why": "债市压力直接传导至全球股市，压制估值；高利率延长期影响 covered call 和 sell put 的最优行权价选择，需关注久期风险对科技股估值的拖累。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "LPR",
-        "中国利率",
-        "PBOC",
-        "人民银行",
-        "宏观",
-        "货币政策"
+        "US Treasury",
+        "bond yields",
+        "global bonds",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://english.www.gov.cn/archive/statistics/202608/20/content_WS6a8692ecc6d00ca5f9a0cb78.html",
+      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
       "published_date": "2026-08-20",
       "still_developing": true,
-      "first_seen": "2026-08-24"
-    },
-    {
-      "id": "70419d6ea6d7db5a",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "2026-08-24T00:00:00Z",
-      "group": "大盘",
-      "title": "美财长贝森特宣布对伊朗史上最严制裁，Brent原油周涨超5%至94美元",
-      "summary": "美国财政部长斯科特·贝森特宣布对伊朗实施新一轮全面制裁，覆盖石油出口、金融机构及相关个人实体，被称为\"史上最严厉对伊制裁\"。受地缘风险提升影响，Brent原油本周累涨逾5%，一度突破94美元/桶。",
-      "why": "制裁升级直接推升原油价格，影响全球通胀预期与美联储政策路径；对能源板块、航运及依赖进口石油的亚太市场（港股/A股）产生连锁效应，需关注霍尔木兹海峡风险对市场波动率的冲击。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "伊朗制裁",
-        "原油",
-        "Brent",
-        "贝森特",
-        "地缘风险",
-        "宏观"
-      ],
-      "translated": true,
-      "url": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
-      "published_date": "2026-08-23",
-      "still_developing": false,
       "first_seen": "2026-08-24",
       "is_new": true
     },
     {
-      "id": "78b9feb98e8c365b",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "2026-08-24T00:00:00Z",
-      "group": "大盘",
-      "title": "伊朗总统释放停战信号，油价高位小幅回落但霍尔木兹风险依然存在",
-      "summary": "伊朗总统在公开声明中发出谈判信号，称愿意通过外交途径解决制裁争端，Brent原油随即从高位小幅回落。分析师指出，霍尔木兹海峡约20%的全球石油运输仍面临封锁风险，能源市场波动率维持高位。",
-      "why": "地缘缓和信号与制裁升级并存，形成油价双向拉锯；高波动率环境下持有能源相关资产及sell put策略需重新评估风险敞口，尤其是港股能源板块及依赖油价稳定的消费类标的。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "伊朗",
-        "原油",
-        "霍尔木兹",
-        "油价",
-        "地缘风险",
-        "宏观"
-      ],
-      "translated": true,
-      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
-      "published_date": "2026-08-21",
-      "still_developing": true,
-      "first_seen": "2026-08-24",
-      "is_new": true
-    },
-    {
-      "id": "4814ee75a4e5f648",
+      "id": "b028bded9704fd41",
       "tier": 2,
       "lang": "en",
       "markets": [
         "HK",
+        "A",
         "US"
       ],
-      "time": "2026-08-24T00:00:00Z",
-      "group": "大盘",
-      "title": "全球市场8月24日：恒生指数+1.06%，标普500 +0.43%，美元指数创三月新低",
-      "summary": "8月24日亚欧美市场普涨，恒生指数收涨1.06%，标普500上涨0.43%，纳指涨0.61%。美元指数跌至三月低点，受伊朗制裁引发的避险与油价上涨交织影响，黄金与债券同步走强。",
-      "why": "恒生指数连续上涨提示港股风险偏好回暖，利好持有港股标的（腾讯、阿里、美团等）的多头仓位；美元走弱同步利好新兴市场与人民币资产，需评估covered call时机。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "标普500",
-        "美元",
-        "全球市场",
-        "宏观"
-      ],
-      "translated": true,
-      "url": "https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html",
-      "published_date": "2026-08-23",
-      "still_developing": false,
-      "first_seen": "2026-08-24",
-      "is_new": true
-    },
-    {
-      "id": "d5de2ee539d764de",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-24T00:00:00Z",
+      "time": "09:00",
       "group": "个股",
-      "title": "特斯拉Cybercab确认9月3日奥斯汀发布活动，内华达州获批5000辆Robotaxi商业运营许可",
-      "summary": "特斯拉宣布将于9月3日在得克萨斯州奥斯汀举办Cybercab正式发布活动，内华达州交通管理局已批准特斯拉在该州运营最多5000辆Robotaxi。这是特斯拉Robotaxi获得的迄今最大规模州级商业许可。",
-      "why": "Cybercab发布活动为明确催化剂，9月3日前后TSLA隐含波动率料将显著抬升；Robotaxi商业化里程碑确认自动驾驶叙事，对估值重估有推动作用；持有TSLA sell put策略需在活动前评估波动率风险与行权价安全边际。",
-      "source": "Bloomberg",
+      "title": "SK Hynix publishes CPO roadmap in Nature Electronics (Aug 20), extending optical interconnects to memory interfaces; A-share CPO-concept stocks sold off Aug 24",
+      "summary": "SK Hynix, collaborating with University of Virginia and MIT, published its co-packaged optics (CPO) technology roadmap in 'Nature Electronics' on August 20, targeting single-node bandwidth >100 Tb/s, energy <1 pJ/bit, and chip-to-chip latency <10ns by extending optical interconnects directly to memory interfaces (photonic interposers connecting AI accelerator resource pools to memory pools). This vision positions SK Hynix as a systems-level AI infrastructure player beyond just HBM. In South Korea, SK Hynix shares surged 12.73% driven by CPO disclosure and a KRW 40 trillion buyback plan. However in China, CPO concept stocks fell sharply on Aug 24 as market interpreted CPO as threatening current supply-chain leaders.",
+      "why": "CPO路线图代表AI算力基础设施从芯片到系统级的竞争转向，对HBM和存储芯片赛道是长期利好（SK海力士扩大护城河）；但短期中国CPO概念板块出现结构性分歧，持有相关股票需关注差异化布局；SK Hynix回购计划提升股东回报预期。",
+      "source": "SK Hynix Newsroom",
       "verified": true,
       "keywords": [
-        "特斯拉",
-        "TSLA",
-        "Cybercab",
-        "Robotaxi",
-        "自动驾驶",
-        "FSD"
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "CPO",
+        "存储芯片",
+        "高带宽内存"
       ],
-      "translated": true,
-      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/22/tesla-teases-imminent-launch-of-cybercab-robotaxi/",
-      "published_date": "2026-08-22",
+      "translated": false,
+      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics/",
+      "published_date": "2026-08-20",
       "still_developing": true,
       "first_seen": "2026-08-24",
       "is_new": true
@@ -1546,6 +1429,97 @@
       "is_new": false
     },
     {
+      "id": "af02c5de1be2f70e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+      "summary": "Alibaba announced plans to sell 710 million ordinary shares at HK$112.70 each (3.6% discount), raising net proceeds of ~HK$79.7 billion (~USD 10.2B). All net proceeds will be invested in full-stack AI capabilities including chips, infrastructure, and AI model development. The deal is expected to close August 26 and would be the largest-ever primary follow-on offering by a Hong Kong-listed company.",
+      "why": "重大稀释事件（3.6%折让）：短期或压制9988.HK/BABA股价，关注sell put卖方行权风险；另一面，管理层全力押注AI基础设施体现高确信度，可能驱动长期估值重估。对港股科技板块有示范效应，隐含波动率短期可能上升。",
+      "source": "Reuters (via US News)",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "AI",
+        "配售",
+        "share placement"
+      ],
+      "translated": false,
+      "url": "https://www.usnews.com/news/top-news/articles/2026-08-23/alibaba-proposes-hong-kong-share-placement-worth-10-billion",
+      "published_date": "2026-08-23",
+      "still_developing": false,
+      "first_seen": "2026-08-24",
+      "is_new": false
+    },
+    {
+      "id": "8f4b22142e042c45",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Nvidia reports Q2 FY2027 earnings on Aug. 26 — company guided ~$91B revenue; analysts expect ~$93-95B, ~96% YoY growth",
+      "summary": "Nvidia is set to report second-quarter FY2027 results on August 26. The company previously guided revenue of $91B ±2%, while Wall Street consensus sits at approximately $93-95B, implying ~96% year-over-year growth driven by Blackwell GPU demand. Stock has gained ~17.7% YTD and sits near $219. Analysts broadly rate as Buy with average target ~$302.",
+      "why": "本周三英伟达财报是全球AI景气度晴雨表：若营收超过$93B且毛利率维持75%以上，对AI硬件、云计算及HBM存储（SK海力士/美光）均为强正面信号；Sell put策略者注意财报前后隐含波动率将走高，财报落地后IV Crush风险。",
+      "source": "Yahoo Finance / The Motley Fool",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "GPU",
+        "Blackwell",
+        "财报"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-going-soar-174000999.html",
+      "published_date": "2026-08-21",
+      "still_developing": true,
+      "first_seen": "2026-08-24",
+      "is_new": false
+    },
+    {
+      "id": "70419d6ea6d7db5a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "2026-08-24T00:00:00Z",
+      "group": "大盘",
+      "title": "美财长贝森特宣布对伊朗史上最严制裁，Brent原油周涨超5%至94美元",
+      "summary": "美国财政部长斯科特·贝森特宣布对伊朗实施新一轮全面制裁，覆盖石油出口、金融机构及相关个人实体，被称为\"史上最严厉对伊制裁\"。受地缘风险提升影响，Brent原油本周累涨逾5%，一度突破94美元/桶。",
+      "why": "制裁升级直接推升原油价格，影响全球通胀预期与美联储政策路径；对能源板块、航运及依赖进口石油的亚太市场（港股/A股）产生连锁效应，需关注霍尔木兹海峡风险对市场波动率的冲击。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "伊朗制裁",
+        "原油",
+        "Brent",
+        "贝森特",
+        "地缘风险",
+        "宏观"
+      ],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
+      "published_date": "2026-08-23",
+      "still_developing": false,
+      "first_seen": "2026-08-24",
+      "is_new": false
+    },
+    {
       "id": "a730321591ffdf26",
       "tier": 2,
       "lang": "zh",
@@ -2627,6 +2601,124 @@
       "is_new": false
     },
     {
+      "id": "7da90ab2ca32b158",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "09:15",
+      "group": "大盘头条",
+      "title": "China keeps 1-year LPR at 3.00% and 5-year LPR at 3.50% for 15th consecutive month",
+      "summary": "The People's Bank of China held both benchmark lending rates unchanged on August 20: the one-year LPR at 3.00% and the five-year LPR at 3.50%. This marks the 15th consecutive month of no change since June 2025, signaling policy stability as authorities balance economic support with financial risk management amid persistent deflationary pressures.",
+      "why": "LPR连续15个月不变，按揭成本稳定，对消费/地产板块短期无催化。但维持宽松基调有利港股/A股整体流动性预期；对持有消费股（海底捞、蜜雪冰城）的Sell put策略，支撑'利率环境不恶化'的前提。",
+      "source": "Chinese Government Official Website (english.www.gov.cn)",
+      "verified": true,
+      "keywords": [
+        "LPR",
+        "中国利率",
+        "PBOC",
+        "人民银行",
+        "宏观",
+        "货币政策"
+      ],
+      "translated": false,
+      "url": "https://english.www.gov.cn/archive/statistics/202608/20/content_WS6a8692ecc6d00ca5f9a0cb78.html",
+      "published_date": "2026-08-20",
+      "still_developing": true,
+      "first_seen": "2026-08-24",
+      "is_new": false
+    },
+    {
+      "id": "78b9feb98e8c365b",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "2026-08-24T00:00:00Z",
+      "group": "大盘",
+      "title": "伊朗总统释放停战信号，油价高位小幅回落但霍尔木兹风险依然存在",
+      "summary": "伊朗总统在公开声明中发出谈判信号，称愿意通过外交途径解决制裁争端，Brent原油随即从高位小幅回落。分析师指出，霍尔木兹海峡约20%的全球石油运输仍面临封锁风险，能源市场波动率维持高位。",
+      "why": "地缘缓和信号与制裁升级并存，形成油价双向拉锯；高波动率环境下持有能源相关资产及sell put策略需重新评估风险敞口，尤其是港股能源板块及依赖油价稳定的消费类标的。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "伊朗",
+        "原油",
+        "霍尔木兹",
+        "油价",
+        "地缘风险",
+        "宏观"
+      ],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+      "published_date": "2026-08-21",
+      "still_developing": true,
+      "first_seen": "2026-08-24",
+      "is_new": false
+    },
+    {
+      "id": "4814ee75a4e5f648",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "2026-08-24T00:00:00Z",
+      "group": "大盘",
+      "title": "全球市场8月24日：恒生指数+1.06%，标普500 +0.43%，美元指数创三月新低",
+      "summary": "8月24日亚欧美市场普涨，恒生指数收涨1.06%，标普500上涨0.43%，纳指涨0.61%。美元指数跌至三月低点，受伊朗制裁引发的避险与油价上涨交织影响，黄金与债券同步走强。",
+      "why": "恒生指数连续上涨提示港股风险偏好回暖，利好持有港股标的（腾讯、阿里、美团等）的多头仓位；美元走弱同步利好新兴市场与人民币资产，需评估covered call时机。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "标普500",
+        "美元",
+        "全球市场",
+        "宏观"
+      ],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html",
+      "published_date": "2026-08-23",
+      "still_developing": false,
+      "first_seen": "2026-08-24",
+      "is_new": false
+    },
+    {
+      "id": "d5de2ee539d764de",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-08-24T00:00:00Z",
+      "group": "个股",
+      "title": "特斯拉Cybercab确认9月3日奥斯汀发布活动，内华达州获批5000辆Robotaxi商业运营许可",
+      "summary": "特斯拉宣布将于9月3日在得克萨斯州奥斯汀举办Cybercab正式发布活动，内华达州交通管理局已批准特斯拉在该州运营最多5000辆Robotaxi。这是特斯拉Robotaxi获得的迄今最大规模州级商业许可。",
+      "why": "Cybercab发布活动为明确催化剂，9月3日前后TSLA隐含波动率料将显著抬升；Robotaxi商业化里程碑确认自动驾驶叙事，对估值重估有推动作用；持有TSLA sell put策略需在活动前评估波动率风险与行权价安全边际。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "TSLA",
+        "Cybercab",
+        "Robotaxi",
+        "自动驾驶",
+        "FSD"
+      ],
+      "translated": true,
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/22/tesla-teases-imminent-launch-of-cybercab-robotaxi/",
+      "published_date": "2026-08-22",
+      "still_developing": true,
+      "first_seen": "2026-08-24",
+      "is_new": false
+    },
+    {
       "id": "9a03a3f3a8241503",
       "tier": 3,
       "lang": "zh",
@@ -2655,6 +2747,5 @@
       "first_seen": "2026-08-19",
       "is_new": false
     }
-  ],
-  "last_updated": "2026-08-24T00:00:00Z"
+  ]
 }
