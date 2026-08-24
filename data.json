@@ -16,6 +16,94 @@
   },
   "items": [
     {
+      "id": "af02c5de1be2f70e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+      "summary": "Alibaba announced plans to sell 710 million ordinary shares at HK$112.70 each (3.6% discount), raising net proceeds of ~HK$79.7 billion (~USD 10.2B). All net proceeds will be invested in full-stack AI capabilities including chips, infrastructure, and AI model development. The deal is expected to close August 26 and would be the largest-ever primary follow-on offering by a Hong Kong-listed company.",
+      "why": "重大稀释事件（3.6%折让）：短期或压制9988.HK/BABA股价，关注sell put卖方行权风险；另一面，管理层全力押注AI基础设施体现高确信度，可能驱动长期估值重估。对港股科技板块有示范效应，隐含波动率短期可能上升。",
+      "source": "Reuters (via US News)",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "AI",
+        "配售",
+        "share placement"
+      ],
+      "translated": false,
+      "url": "https://www.usnews.com/news/top-news/articles/2026-08-23/alibaba-proposes-hong-kong-share-placement-worth-10-billion",
+      "published_date": "2026-08-23",
+      "still_developing": false,
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "8f4b22142e042c45",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Nvidia reports Q2 FY2027 earnings on Aug. 26 — company guided ~$91B revenue; analysts expect ~$93-95B, ~96% YoY growth",
+      "summary": "Nvidia is set to report second-quarter FY2027 results on August 26. The company previously guided revenue of $91B ±2%, while Wall Street consensus sits at approximately $93-95B, implying ~96% year-over-year growth driven by Blackwell GPU demand. Stock has gained ~17.7% YTD and sits near $219. Analysts broadly rate as Buy with average target ~$302.",
+      "why": "本周三英伟达财报是全球AI景气度晴雨表：若营收超过$93B且毛利率维持75%以上，对AI硬件、云计算及HBM存储（SK海力士/美光）均为强正面信号；Sell put策略者注意财报前后隐含波动率将走高，财报落地后IV Crush风险。",
+      "source": "Yahoo Finance / The Motley Fool",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "GPU",
+        "Blackwell",
+        "财报"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-going-soar-174000999.html",
+      "published_date": "2026-08-21",
+      "still_developing": true,
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "7da90ab2ca32b158",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "09:15",
+      "group": "大盘头条",
+      "title": "China keeps 1-year LPR at 3.00% and 5-year LPR at 3.50% for 15th consecutive month",
+      "summary": "The People's Bank of China held both benchmark lending rates unchanged on August 20: the one-year LPR at 3.00% and the five-year LPR at 3.50%. This marks the 15th consecutive month of no change since June 2025, signaling policy stability as authorities balance economic support with financial risk management amid persistent deflationary pressures.",
+      "why": "LPR连续15个月不变，按揭成本稳定，对消费/地产板块短期无催化。但维持宽松基调有利港股/A股整体流动性预期；对持有消费股（海底捞、蜜雪冰城）的Sell put策略，支撑'利率环境不恶化'的前提。",
+      "source": "Chinese Government Official Website (english.www.gov.cn)",
+      "verified": true,
+      "keywords": [
+        "LPR",
+        "中国利率",
+        "PBOC",
+        "人民银行",
+        "宏观",
+        "货币政策"
+      ],
+      "translated": false,
+      "url": "https://english.www.gov.cn/archive/statistics/202608/20/content_WS6a8692ecc6d00ca5f9a0cb78.html",
+      "published_date": "2026-08-20",
+      "still_developing": true,
+      "first_seen": "2026-08-24"
+    },
+    {
       "id": "70419d6ea6d7db5a",
       "tier": 1,
       "lang": "en",
@@ -2567,5 +2655,6 @@
       "first_seen": "2026-08-19",
       "is_new": false
     }
-  ]
+  ],
+  "last_updated": "2026-08-24T00:00:00Z"
 }
