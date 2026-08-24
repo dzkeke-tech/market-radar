@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-23 18:19 (北京时间)",
+  "updated_at": "2026-08-24 08:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,71 +9,129 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-23 18:19 (北京时间)",
-    "new_count": 1,
+    "at": "2026-08-24 08:19 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "06f64569310bdb7b",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "阿里巴巴宣布HK$800亿新股配售，为港交所史上最大单次供股，所得款项100%投入全栈AI能力",
-      "summary": "阿里巴巴集团8月23日宣布向美国境外非美国人士配售约7.1亿普通股，集资约100亿美元（以每股HK$112.70定价，较最新收盘价折让约3.6%）。本次配售已获超额认购，主权财富基金等长线机构需求强劲。所得款项100%用于投资全栈AI能力及扩展AI基础设施，巩固全球AI领导地位。本次供股规模为港交所历来最大单次主供股，全球排名今年第三（仅次于Alphabet与Intel）。",
-      "why": "港交所史上最大配股，规模相当于阿里当日市值约3-4%，折价3.6%配售将对二级市场短期定价形成压力；但超额认购且主权基金入场表明机构看好AI转型叙事；阿里Q2营收+9%、AI云收入+45%、利润大幅下滑背景下此次融资百亿美元专攻AI，预示资本开支周期将持续扩张，对AI基础设施上游（算力/HBM存储）具正向外溢效应",
-      "source": "South China Morning Post",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "BABA",
-        "9988.HK",
-        "阿里云",
-        "AI基础设施",
-        "配股",
-        "供股"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/tech/big-tech/article/3364957/alibaba-issue-hk80-billion-new-shares-global-ai-push",
-      "published_date": "2026-08-23",
-      "still_developing": false,
-      "first_seen": "2026-08-23",
-      "is_new": true
-    },
-    {
+      "id": "70419d6ea6d7db5a",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "group": "大盘头条",
-      "title": "S&P 500 Second-Quarter Earnings Rose 31%, Beating Consensus by 8 Points",
-      "summary": "标普500指数二季度每股盈利同比增长31%，远超华尔街共识预期23%，大型科技股主导超预期表现；Super Micro Computer盘后大涨逾7.5%，指引远超预期。本轮财报季增速创近年新高。",
-      "why": "美股Q2财报季远超预期，支撑标普处于历史高位，有利于持仓股整体估值；期权卖方隐含波动率或随预期稳定而收敛。",
+      "time": "2026-08-24T00:00:00Z",
+      "group": "大盘",
+      "title": "美财长贝森特宣布对伊朗史上最严制裁，Brent原油周涨超5%至94美元",
+      "summary": "美国财政部长斯科特·贝森特宣布对伊朗实施新一轮全面制裁，覆盖石油出口、金融机构及相关个人实体，被称为\"史上最严厉对伊制裁\"。受地缘风险提升影响，Brent原油本周累涨逾5%，一度突破94美元/桶。",
+      "why": "制裁升级直接推升原油价格，影响全球通胀预期与美联储政策路径；对能源板块、航运及依赖进口石油的亚太市场（港股/A股）产生连锁效应，需关注霍尔木兹海峡风险对市场波动率的冲击。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "伊朗制裁",
+        "原油",
+        "Brent",
+        "贝森特",
+        "地缘风险",
+        "宏观"
+      ],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
+      "published_date": "2026-08-23",
+      "still_developing": false,
+      "first_seen": "2026-08-24",
+      "is_new": true
+    },
+    {
+      "id": "78b9feb98e8c365b",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "2026-08-24T00:00:00Z",
+      "group": "大盘",
+      "title": "伊朗总统释放停战信号，油价高位小幅回落但霍尔木兹风险依然存在",
+      "summary": "伊朗总统在公开声明中发出谈判信号，称愿意通过外交途径解决制裁争端，Brent原油随即从高位小幅回落。分析师指出，霍尔木兹海峡约20%的全球石油运输仍面临封锁风险，能源市场波动率维持高位。",
+      "why": "地缘缓和信号与制裁升级并存，形成油价双向拉锯；高波动率环境下持有能源相关资产及sell put策略需重新评估风险敞口，尤其是港股能源板块及依赖油价稳定的消费类标的。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "伊朗",
+        "原油",
+        "霍尔木兹",
+        "油价",
+        "地缘风险",
+        "宏观"
+      ],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+      "published_date": "2026-08-21",
+      "still_developing": true,
+      "first_seen": "2026-08-24",
+      "is_new": true
+    },
+    {
+      "id": "4814ee75a4e5f648",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "2026-08-24T00:00:00Z",
+      "group": "大盘",
+      "title": "全球市场8月24日：恒生指数+1.06%，标普500 +0.43%，美元指数创三月新低",
+      "summary": "8月24日亚欧美市场普涨，恒生指数收涨1.06%，标普500上涨0.43%，纳指涨0.61%。美元指数跌至三月低点，受伊朗制裁引发的避险与油价上涨交织影响，黄金与债券同步走强。",
+      "why": "恒生指数连续上涨提示港股风险偏好回暖，利好持有港股标的（腾讯、阿里、美团等）的多头仓位；美元走弱同步利好新兴市场与人民币资产，需评估covered call时机。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "标普500",
+        "美元",
+        "全球市场",
+        "宏观"
+      ],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html",
+      "published_date": "2026-08-23",
+      "still_developing": false,
+      "first_seen": "2026-08-24",
+      "is_new": true
+    },
+    {
+      "id": "d5de2ee539d764de",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-08-24T00:00:00Z",
+      "group": "个股",
+      "title": "特斯拉Cybercab确认9月3日奥斯汀发布活动，内华达州获批5000辆Robotaxi商业运营许可",
+      "summary": "特斯拉宣布将于9月3日在得克萨斯州奥斯汀举办Cybercab正式发布活动，内华达州交通管理局已批准特斯拉在该州运营最多5000辆Robotaxi。这是特斯拉Robotaxi获得的迄今最大规模州级商业许可。",
+      "why": "Cybercab发布活动为明确催化剂，9月3日前后TSLA隐含波动率料将显著抬升；Robotaxi商业化里程碑确认自动驾驶叙事，对估值重估有推动作用；持有TSLA sell put策略需在活动前评估波动率风险与行权价安全边际。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "S&P 500",
-        "财报季",
-        "earnings",
-        "Q2",
-        "Big Tech"
+        "特斯拉",
+        "TSLA",
+        "Cybercab",
+        "Robotaxi",
+        "自动驾驶",
+        "FSD"
       ],
       "translated": true,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/-outlier-s-p-500-earnings-strength-cheers-wall-street-s-bulls",
-      "published_date": "2026-08-15",
-      "still_developing": false,
-      "id": "4b381184f2474042",
-      "is_new": false,
-      "first_seen": "2026-08-16 20:00 (北京时间)"
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/22/tesla-teases-imminent-launch-of-cybercab-robotaxi/",
+      "published_date": "2026-08-22",
+      "still_developing": true,
+      "first_seen": "2026-08-24",
+      "is_new": true
     },
     {
       "id": "7a0d577fc8fd7460",
@@ -1140,6 +1198,38 @@
       "is_new": false
     },
     {
+      "id": "06f64569310bdb7b",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "阿里巴巴宣布HK$800亿新股配售，为港交所史上最大单次供股，所得款项100%投入全栈AI能力",
+      "summary": "阿里巴巴集团8月23日宣布向美国境外非美国人士配售约7.1亿普通股，集资约100亿美元（以每股HK$112.70定价，较最新收盘价折让约3.6%）。本次配售已获超额认购，主权财富基金等长线机构需求强劲。所得款项100%用于投资全栈AI能力及扩展AI基础设施，巩固全球AI领导地位。本次供股规模为港交所历来最大单次主供股，全球排名今年第三（仅次于Alphabet与Intel）。",
+      "why": "港交所史上最大配股，规模相当于阿里当日市值约3-4%，折价3.6%配售将对二级市场短期定价形成压力；但超额认购且主权基金入场表明机构看好AI转型叙事；阿里Q2营收+9%、AI云收入+45%、利润大幅下滑背景下此次融资百亿美元专攻AI，预示资本开支周期将持续扩张，对AI基础设施上游（算力/HBM存储）具正向外溢效应",
+      "source": "South China Morning Post",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "阿里云",
+        "AI基础设施",
+        "配股",
+        "供股"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/tech/big-tech/article/3364957/alibaba-issue-hk80-billion-new-shares-global-ai-push",
+      "published_date": "2026-08-23",
+      "still_developing": false,
+      "first_seen": "2026-08-23",
+      "is_new": false
+    },
+    {
       "id": "d4416aa8fe8f009c",
       "tier": 1,
       "lang": "en",
@@ -1366,62 +1456,6 @@
       "still_developing": true,
       "first_seen": "2026-08-23",
       "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "group": "大盘头条",
-      "title": "S&P 500 Posts Third Straight Weekly Gain Despite Friday Dip; Intraday ATH 7,816",
-      "summary": "S&P 500 Friday close -0.2% at 7,785.76; Nasdaq -0.3%; Dow -107 pts. Third consecutive weekly gain, longest winning streak since May. Intraday all-time high 7,816.70 set earlier in week.",
-      "why": "美股连续三周上涨，指数处于历史高位；市场情绪稳健，有利于卖出看跌期权收取期权金。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "S&P 500",
-        "Nasdaq",
-        "weekly gain",
-        "ATH",
-        "market"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
-      "published_date": "2026-08-15",
-      "still_developing": false,
-      "id": "7b734a6c79ed0d5f",
-      "is_new": false,
-      "first_seen": "2026-08-16 20:00 (北京时间)"
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "group": "大盘头条",
-      "title": "Bond Traders Warn $70B in AI 'Shadow Credit' Backstops From Nvidia and Broadcom Pose Systemic Risk",
-      "summary": "Bloomberg investigates ~$70B in residual-value guarantees that Nvidia and Broadcom have issued to AI borrowers off-balance-sheet. These contingent liabilities could crystallize in stress scenarios, creating systemic risk invisible to bond investors. Nvidia's backstop model lets AI customers borrow cheaply against GPU infrastructure but shifts tail risk to the chip maker.",
-      "why": "英伟达的表外担保敞口引发债市关注；若AI资本开支周期转向，英伟达或需兑现隐性担保，影响信用评级与股价估值；这是NVDA期权策略需纳入的尾部风险。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Nvidia",
-        "英伟达",
-        "NVDA",
-        "AI",
-        "credit risk",
-        "shadow credit",
-        "Broadcom"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
-      "published_date": "2026-08-15",
-      "still_developing": false,
-      "id": "c5bd7cddedd619c3",
-      "is_new": false,
-      "first_seen": "2026-08-16 20:00 (北京时间)"
     },
     {
       "id": "a730321591ffdf26",
@@ -2503,65 +2537,6 @@
       "still_developing": true,
       "first_seen": "2026-08-23",
       "is_new": false
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "group": "个股",
-      "title": "小米手机15周年：总裁卢伟冰宣示下一章全面拥抱AI，H1业绩将于8月18日公布",
-      "summary": "小米集团总裁卢伟冰发文纪念小米手机15周年，感谢米粉，宣告未来全面布局AI。小米H1 2026业绩董事会会议定于8月18日召开，小米全系车型（含两款全新EREV）将亮相成都车展（8月21-30日）。",
-      "why": "里程碑软新闻；H1财报即将于8月18日发布是关键催化剂；AI战略定调与成都车展新车曝光均有助于估值重估预期，需关注汽车业务盈亏平衡时间表。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "AI",
-        "卢伟冰",
-        "H1业绩",
-        "小米汽车",
-        "成都车展"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-16/doc-ininnqpr1516841.shtml",
-      "published_date": "2026-08-16",
-      "still_developing": false,
-      "id": "a93f189368b2a27b",
-      "is_new": false,
-      "first_seen": "2026-08-16 20:00 (北京时间)"
-    },
-    {
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "group": "个股",
-      "title": "Tesla FSD Outperforms Rivian Autonomy+ in 200-Mile Head-to-Head Real-World Test",
-      "summary": "CNBC real-world test across 200 miles in Michigan: Tesla FSD autonomously handled traffic lights, interchanges, highway exits. Rivian Autonomy+ recognized them but handed control to driver. Rivian expects full point-to-point capability by end 2026.",
-      "why": "FSD实测领先巩固特斯拉自动驾驶护城河；FSD商业化进展是TSLA估值重估的核心驱动因素，也影响期权隐含波动率水平。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Tesla",
-        "特斯拉",
-        "TSLA",
-        "FSD",
-        "自动驾驶",
-        "Rivian",
-        "autonomous"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-      "published_date": "2026-08-15",
-      "still_developing": false,
-      "id": "75dba6b6e44cc3f8",
-      "is_new": false,
-      "first_seen": "2026-08-16 20:00 (北京时间)"
     },
     {
       "id": "9a03a3f3a8241503",
