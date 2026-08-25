@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-24 18:17 (北京时间)",
+  "updated_at": "2026-08-25 08:25 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,72 +9,75 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-24 18:17 (北京时间)",
-    "new_count": 3,
+    "at": "2026-08-25 08:25 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "91160255a73b6153",
+      "id": "f07b026f00364b04",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK",
-        "A",
         "US"
       ],
-      "time": "15:30",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "A股8月24日全线回调，创业板跌3.21%，三重因素共振：美债压制、阿里配股引发AI高投入担忧、CPO技术路线引发格局争议",
-      "summary": "上证指数跌0.59%，深证成指跌2.13%，创业板指跌3.21%，北证50跌2.02%，全市场逾3900只个股下跌，延续8月18日以来的调整态势。三重因素共振：一是美债长端收益率持续上行压制全球权益；二是阿里巴巴落地千亿港元配股计划，市场解读为AI高投入、盈利兑现偏慢；三是SK海力士发布CPO路线图引发CPO概念股集中抛售。",
-      "why": "A股整体调整直接影响港股与中概股情绪；CPO板块重挫波及半导体持仓；科技股隐含波动率可能抬升，sell put 需注意行权价下移风险。",
-      "source": "新浪财经",
+      "title": "英伟达将于8月26日盘后发布FY2027 Q2财报，华尔街预期营收~$91.9B、同比近翻倍",
+      "summary": "英伟达(NVDA)将于2026年8月26日（本周三）美股盘后发布FY2027第二财季财报（对应2026年5-7月），并同日举行电话会议。华尔街一致预期营收约$91.9B（同比+96%），非GAAP EPS约$2.08，数据中心业务预计约$85.4B（同比+107%）；英伟达自身指引为$91B±2%。Blackwell架构持续放量，下一代Vera Rubin架构下半年开始贡献收入。",
+      "why": "英伟达财报是AI资本开支周期可持续性的最核心参照点：指引若超预期，港股AI相关标的（腾讯云、阿里云等）估值逻辑强化；若不及预期，科技板块整体承压。期权卖家需警惕财报后IV crush，明日收市前可考虑调整delta/gamma敞口",
+      "source": "财联社",
       "verified": true,
       "keywords": [
-        "A股",
-        "市场调整",
-        "CPO",
-        "科技股"
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "B200",
+        "Blackwell",
+        "GPU",
+        "AI芯片",
+        "数据中心"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-24/doc-inipkzxw2914773.shtml",
-      "published_date": "2026-08-24",
+      "url": "https://www.cls.cn/detail/2461991",
+      "published_date": "2026-08-25",
       "still_developing": false,
-      "first_seen": "2026-08-24",
+      "first_seen": "2026-08-25",
       "is_new": true
     },
     {
-      "id": "908b2b8b0d47d07b",
+      "id": "95874d244a7f8fab",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US",
-        "HK",
-        "A"
+        "US"
       ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Global bond markets under pressure: US 30-year Treasury yield climbs to 5.25%, near 20-month high; 10-year at 4.74%",
-      "summary": "US long-end Treasury yields continue to surge, with the 30-year bond reaching 5.25% and the 10-year at 4.74%, levels not seen in nearly two years. The selloff is driven by surging AI company debt issuance, elevated federal deficit spending, and growing fears about long-term fiscal sustainability. Treasury Secretary Bessent's intervention provided only brief relief.",
-      "why": "债市压力直接传导至全球股市，压制估值；高利率延长期影响 covered call 和 sell put 的最优行权价选择，需关注久期风险对科技股估值的拖累。",
-      "source": "CNBC",
+      "time": "21:30",
+      "group": "个股",
+      "title": "Temu-owner PDD books 8% rise in quarterly revenue, misses estimates, profit falls on China rivalry",
+      "summary": "PDD Holdings (PDD) reported Q2 2026 revenue of ¥112.36B (+8% YoY), missing the ¥115.41B consensus estimate, as fierce domestic competition and mounting pressure on Temu from U.S. tariffs and the end of de minimis exemptions weighed on growth. Net income declined 12% YoY to ¥27.18B, though it cleared the ¥24.40B analyst estimate; EPS of $2.85 beat the $2.77 consensus.",
+      "why": "PDD营收低于预期、净利下滑12%，Temu关税冲击持续兑现、国内内卷加剧压缩利润空间；对持有PDD卖出期权的投资者，业绩低于预期叠加利润下行或引发隐波上升，需留意管理层对Temu全球化路径及国内竞争格局的指引",
+      "source": "Bloomberg/BNN",
       "verified": true,
       "keywords": [
-        "US Treasury",
-        "bond yields",
-        "global bonds",
-        "宏观"
+        "拼多多",
+        "PDD",
+        "Pinduoduo",
+        "Temu",
+        "跨境电商",
+        "百亿补贴",
+        "关税"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-      "published_date": "2026-08-20",
-      "still_developing": true,
-      "first_seen": "2026-08-24",
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/24/temu-owner-pdd-books-8-rise-in-quarterly-revenue-misses-estimates/",
+      "published_date": "2026-08-24",
+      "still_developing": false,
+      "first_seen": "2026-08-25",
       "is_new": true
     },
     {
-      "id": "b028bded9704fd41",
+      "id": "775f8289cf6129a4",
       "tier": 2,
       "lang": "en",
       "markets": [
@@ -82,57 +85,60 @@
         "A",
         "US"
       ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "SK Hynix publishes CPO roadmap in Nature Electronics (Aug 20), extending optical interconnects to memory interfaces; A-share CPO-concept stocks sold off Aug 24",
-      "summary": "SK Hynix, collaborating with University of Virginia and MIT, published its co-packaged optics (CPO) technology roadmap in 'Nature Electronics' on August 20, targeting single-node bandwidth >100 Tb/s, energy <1 pJ/bit, and chip-to-chip latency <10ns by extending optical interconnects directly to memory interfaces (photonic interposers connecting AI accelerator resource pools to memory pools). This vision positions SK Hynix as a systems-level AI infrastructure player beyond just HBM. In South Korea, SK Hynix shares surged 12.73% driven by CPO disclosure and a KRW 40 trillion buyback plan. However in China, CPO concept stocks fell sharply on Aug 24 as market interpreted CPO as threatening current supply-chain leaders.",
-      "why": "CPO路线图代表AI算力基础设施从芯片到系统级的竞争转向，对HBM和存储芯片赛道是长期利好（SK海力士扩大护城河）；但短期中国CPO概念板块出现结构性分歧，持有相关股票需关注差异化布局；SK Hynix回购计划提升股东回报预期。",
-      "source": "SK Hynix Newsroom",
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "Alibaba, YMTC Fundraising Hits China Tech Stocks on Supply Woes",
+      "summary": "Chinese tech stocks slid broadly on August 24 as Alibaba's HK$80B equity placement and YMTC's simultaneous ~¥33B ($4.9B) IPO application on Shanghai's STAR Market together flooded the market with over $15B in new equity supply in a single session. The Hang Seng Tech Index dropped nearly 4%; on the mainland the STAR 50 fell 3.8% to a 3-week low. The YMTC fundraise also amplified concerns about NAND flash oversupply, sending ripple effects into global memory stocks (Micron, SanDisk, SK Hynix).",
+      "why": "YMTC科创板$49亿IPO是中国史上最大半导体上市融资之一，潜在NAND产能扩张加剧全球存储市场供给压力，对持仓美光(MU)、闪迪(SNDK)、SK海力士的投资者构成中期竞争压力信号；当日双重股权供给冲击也测试了市场对AI相关资本开支的吸纳能力上限",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "HBM",
-        "CPO",
+        "阿里巴巴",
+        "Alibaba",
+        "9988.HK",
+        "YMTC",
         "存储芯片",
-        "高带宽内存"
+        "NAND",
+        "科创板",
+        "SK海力士",
+        "美光"
       ],
       "translated": false,
-      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics/",
-      "published_date": "2026-08-20",
-      "still_developing": true,
-      "first_seen": "2026-08-24",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes",
+      "published_date": "2026-08-24",
+      "still_developing": false,
+      "first_seen": "2026-08-25",
       "is_new": true
     },
     {
-      "id": "7a0d577fc8fd7460",
-      "tier": 1,
-      "lang": "en",
+      "id": "06d6b24c0be32075",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
-        "HK",
-        "A",
-        "US"
+        "HK"
       ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
-      "summary": "China July retail sales grew just 0.6% YoY vs. +1.5% estimate; fixed-asset investment contracted 6.7% YTD (est. -6%), worse than expected. Urban unemployment ticked higher, intensifying calls for Beijing to step up stimulus.",
-      "why": "中国7月经济数据全线大幅不及预期，消费+投资双弱，直接压制港股及A股消费/科技板块短期表现。持有腾讯、美团、阿里等中概标的需关注政策宽松提速节奏；期权层面相关不确定性或推高隐含波动率，sell put行权价选择宜偏保守。",
-      "source": "CNBC",
-      "verified": true,
+      "time": "16:00",
+      "group": "个股",
+      "title": "老铺黄金逆势走强，有色金属板块抗跌——国际金价升至3个月高位提供支撑",
+      "summary": "港股8月24日科技板块大幅下跌背景下，有色金属及部分消费股逆势上涨，老铺黄金(06181.HK)领涨新消费板块。国际金价当日升至近$4,570/盎司（3个月高点），受益于美联储9月加息概率从50%降至31%，以及国库通用账户回购扩张降低实际利率预期，黄金避险需求升温。",
+      "why": "金价持续高位为老铺黄金产品提价提供定价支撑（2025年三次提价均在金价高位时点）；在大盘整体下跌日保持抗跌性，显示高端黄金珠宝的配置需求稳定；若金价维持在$4,500以上，关注老铺黄金是否启动年内第二轮调价，可能进一步提升毛利",
+      "source": "新浪财经",
+      "verified": false,
       "keywords": [
-        "中国经济",
-        "零售额",
-        "固定资产投资",
-        "宏观",
-        "macro"
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "黄金",
+        "金价",
+        "黄金首饰",
+        "足金"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
-      "published_date": "2026-08-17",
+      "url": "https://finance.sina.cn/stock/jdts/2026-08-24/detail-inipkriw2004353.d.html",
+      "published_date": "2026-08-24",
       "still_developing": false,
-      "first_seen": "2026-08-17",
-      "is_new": false
+      "first_seen": "2026-08-25",
+      "is_new": true
     },
     {
       "id": "4e96c7112b35c34e",
@@ -1429,6 +1435,64 @@
       "is_new": false
     },
     {
+      "id": "91160255a73b6153",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A",
+        "US"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股8月24日全线回调，创业板跌3.21%，三重因素共振：美债压制、阿里配股引发AI高投入担忧、CPO技术路线引发格局争议",
+      "summary": "上证指数跌0.59%，深证成指跌2.13%，创业板指跌3.21%，北证50跌2.02%，全市场逾3900只个股下跌，延续8月18日以来的调整态势。三重因素共振：一是美债长端收益率持续上行压制全球权益；二是阿里巴巴落地千亿港元配股计划，市场解读为AI高投入、盈利兑现偏慢；三是SK海力士发布CPO路线图引发CPO概念股集中抛售。",
+      "why": "A股整体调整直接影响港股与中概股情绪；CPO板块重挫波及半导体持仓；科技股隐含波动率可能抬升，sell put 需注意行权价下移风险。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "市场调整",
+        "CPO",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-24/doc-inipkzxw2914773.shtml",
+      "published_date": "2026-08-24",
+      "still_developing": false,
+      "first_seen": "2026-08-24",
+      "is_new": false
+    },
+    {
+      "id": "908b2b8b0d47d07b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Global bond markets under pressure: US 30-year Treasury yield climbs to 5.25%, near 20-month high; 10-year at 4.74%",
+      "summary": "US long-end Treasury yields continue to surge, with the 30-year bond reaching 5.25% and the 10-year at 4.74%, levels not seen in nearly two years. The selloff is driven by surging AI company debt issuance, elevated federal deficit spending, and growing fears about long-term fiscal sustainability. Treasury Secretary Bessent's intervention provided only brief relief.",
+      "why": "债市压力直接传导至全球股市，压制估值；高利率延长期影响 covered call 和 sell put 的最优行权价选择，需关注久期风险对科技股估值的拖累。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "US Treasury",
+        "bond yields",
+        "global bonds",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+      "published_date": "2026-08-20",
+      "still_developing": true,
+      "first_seen": "2026-08-24",
+      "is_new": false
+    },
+    {
       "id": "af02c5de1be2f70e",
       "tier": 1,
       "lang": "en",
@@ -1517,122 +1581,6 @@
       "published_date": "2026-08-23",
       "still_developing": false,
       "first_seen": "2026-08-24",
-      "is_new": false
-    },
-    {
-      "id": "a730321591ffdf26",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股收评：恒指涨1.34% 科指涨1.58% 光通信、芯片股大涨",
-      "summary": "8月17日恒生指数收报25453.23点（+336.38点，+1.34%）；恒生科技指数+1.58%。光通信板块领涨（长飞光纤光缆+12%），中芯国际+7%，商汤+9%。A股CSI 300+1.61%，日经225+0.74%。",
-      "why": "港股今日普涨，AI算力基础设施需求带动光通信/芯片股强势。持有腾讯、阿里、美团等科网仓位者，可关注科技板块情绪改善能否持续；但今日领涨的是半导体基础设施方向，与直接持仓核心标的（腾讯0700/阿里9988）有所区别。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "科技股",
-        "光通信",
-        "芯片"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-17/doc-ininrkkk0107760.shtml",
-      "published_date": "2026-08-17",
-      "still_developing": false,
-      "first_seen": "2026-08-17",
-      "is_new": false
-    },
-    {
-      "id": "ac49575d5905dd62",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "A",
-        "HK"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "美国将对加拿大部分产品额外加征50%关税，8月19日凌晨起生效",
-      "summary": "美国依据《1930年关税法》第338条，对加拿大乳制品、酒精、服装、家具等部分产品加征50%关税，自美东时间8月19日00:01起生效。美加谈判仍有重大分歧，加方乐观情绪消退。",
-      "why": "美加贸易摩擦升级短期扰动全球风险情绪；目前对中国出口的直接关税无变化，对港股/A股间接冲击有限。但需警惕贸易对抗蔓延引发更广泛的市场避险情绪，进而影响全球消费及科技供应链。",
-      "source": "新浪财经（四大证券报头版摘要）",
-      "verified": true,
-      "keywords": [
-        "关税",
-        "贸易战",
-        "美加贸易",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/y/2026-08-17/doc-ininqpez7893983.shtml",
-      "published_date": "2026-08-17",
-      "still_developing": false,
-      "first_seen": "2026-08-17",
-      "is_new": false
-    },
-    {
-      "id": "e2a0de55e90f6304",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "Gold Rises to Near $4,400 as Weak Retail Data Weighs on Dollar",
-      "summary": "Spot gold hovered near $4,400/oz after weak US July retail sales reduced rate-hike bets and pressured the dollar. Gold is up ~8% in August alone; last week was its best weekly gain since January, driven by FOMO and short-covering.",
-      "why": "金价8月强势反弹至4400美元区间，对持有老铺黄金(6181.HK)直接形成利好支撑；美元相对疲弱亦利好港股。但金价已进入技术超买区间（偏离50日均线逾1个标准差），后续需关注能否持稳。期权角度：黄金相关标的隐含波动率可能走高，可考虑covered call。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "黄金",
-        "gold",
-        "美元",
-        "宏观",
-        "老铺黄金"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/gold-steady-near-4-400-as-traders-weigh-us-data-and-rate-path",
-      "published_date": "2026-08-16",
-      "still_developing": false,
-      "first_seen": "2026-08-17",
-      "is_new": false
-    },
-    {
-      "id": "75f9598bdf6324ea",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "06:30",
-      "group": "大盘头条",
-      "title": "S&P near all-time high; VIX at 2026 low; Jackson Hole Fed symposium in 10 days",
-      "summary": "S&P 500 hit a fresh ATH last week post-earnings season. VIX fell to 2026 lows at ~14.5. Jackson Hole (Aug 27-29) looms: new Fed Chair Warsh's first keynote on Aug 28 may set September rate-decision tone. Asia mixed: Nikkei +0.74%, CSI 300 +1.61%, Hang Seng +1.5%.",
-      "why": "VIX处于年内低位令sell put/covered call策略收入偏薄。Jackson Hole是本月最大宏观风险点，若沃什偏鹰可能导致VIX跳升至20+区间；若偏鸽则进一步支撑科技/成长估值。建议密切跟踪8月27-29日讲话信号，提前评估是否需调整期权行权价或delta对冲比例。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "VIX",
-        "Jackson Hole",
-        "Fed",
-        "S&P 500",
-        "市场",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-      "published_date": "2026-08-16",
-      "still_developing": false,
-      "first_seen": "2026-08-17",
       "is_new": false
     },
     {
@@ -2598,6 +2546,37 @@
       "published_date": "2026-08-22",
       "still_developing": true,
       "first_seen": "2026-08-23",
+      "is_new": false
+    },
+    {
+      "id": "b028bded9704fd41",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "SK Hynix publishes CPO roadmap in Nature Electronics (Aug 20), extending optical interconnects to memory interfaces; A-share CPO-concept stocks sold off Aug 24",
+      "summary": "SK Hynix, collaborating with University of Virginia and MIT, published its co-packaged optics (CPO) technology roadmap in 'Nature Electronics' on August 20, targeting single-node bandwidth >100 Tb/s, energy <1 pJ/bit, and chip-to-chip latency <10ns by extending optical interconnects directly to memory interfaces (photonic interposers connecting AI accelerator resource pools to memory pools). This vision positions SK Hynix as a systems-level AI infrastructure player beyond just HBM. In South Korea, SK Hynix shares surged 12.73% driven by CPO disclosure and a KRW 40 trillion buyback plan. However in China, CPO concept stocks fell sharply on Aug 24 as market interpreted CPO as threatening current supply-chain leaders.",
+      "why": "CPO路线图代表AI算力基础设施从芯片到系统级的竞争转向，对HBM和存储芯片赛道是长期利好（SK海力士扩大护城河）；但短期中国CPO概念板块出现结构性分歧，持有相关股票需关注差异化布局；SK Hynix回购计划提升股东回报预期。",
+      "source": "SK Hynix Newsroom",
+      "verified": true,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "CPO",
+        "存储芯片",
+        "高带宽内存"
+      ],
+      "translated": false,
+      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics/",
+      "published_date": "2026-08-20",
+      "still_developing": true,
+      "first_seen": "2026-08-24",
       "is_new": false
     },
     {
