@@ -1,62 +1,139 @@
 {
-  "updated_at": "2026-08-25 13:17 (北京时间)",
+  "is_sample": false,
+  "updated_at": "2026-08-25 18:27 (北京时间)",
+  "next_runs": [
+    "08:00",
+    "13:00",
+    "18:00"
+  ],
+  "watchlist": [],
+  "positions": [],
+  "last_run": {
+    "at": "2026-08-25 18:27 (北京时间)",
+    "new_count": 4,
+    "degraded": 0,
+    "input_missing": false
+  },
   "items": [
     {
+      "id": "749985c45342d6d6",
       "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
       "group": "大盘头条",
-      "title": "港股8月24日大幅收跌：恒指跌1.89%至25517点，恒生科技指数暴跌3.61%",
-      "summary": "港股8月24日全面下挫，恒生指数收跌1.89%至25517.33点，恒生科技指数跌3.61%至4594.04点，主板成交约2912亿港元。阿里巴巴跌超8%，腾讯控股跌3.72%，小米跌超4%，中芯国际跌超7%，快手跌超4%。",
-      "why": "阿里巴巴大额折价配股直接拖累科技板块情绪，叠加美债收益率高位压制，恒生科技单日大跌3.6%；持仓港股科技股者需留意短期调整压力，隐含波动率可能走高。",
+      "title": "A股8月25日收盘：沪指跌0.15%，科技板块承压，农业旅游板块走强",
+      "summary": "沪指收报3876.38点，跌0.15%；深成指跌0.78%；创业板指跌1.43%；科创综指跌1.01%。农业、旅游/消费板块领涨，科技、半导体等板块下跌。",
+      "why": "A股2026年8月25日（周二）全天收盘数据，反映市场整体风险偏好，科技方向与组合标的（小米、英伟达供应链）走势相关。",
       "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技",
-        "HK",
-        "科技股"
+      "url": "https://finance.sina.com.cn/wm/2026-08-25/doc-inipnuhw1673679.shtml",
+      "published_date": "2026-08-25",
+      "markets": [
+        "A"
       ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-24/doc-inipkzxr0085558.shtml",
-      "published_date": "2026-08-24",
+      "keywords": [
+        "A股",
+        "大盘",
+        "收盘",
+        "沪指",
+        "创业板"
+      ],
+      "verified": false,
       "still_developing": false,
-      "id": "5b9bd3cc00bd0f47",
-      "is_new": true,
-      "first_seen": "2026-08-25 13:17"
+      "translated": false,
+      "lang": "zh",
+      "time": "18:27",
+      "first_seen": "2026-08-25",
+      "is_new": true
     },
     {
+      "id": "37829820f4726a22",
+      "tier": 1,
+      "group": "大盘头条",
+      "title": "美加贸易谈判破裂：美对约280亿美元加拿大商品加征50%关税，加拿大宣布9月8日反制",
+      "summary": "美加贸易谈判正式破裂，美国对价值约280亿美元的加拿大商品立即征收50%关税，加拿大政府宣布将于2026年9月8日实施对等报复措施。",
+      "why": "美加贸易关系急剧恶化是当前宏观尾部风险，可能推高北美通胀预期并波及全球供应链，影响组合中消费/科技标的的成本端及全球市场情绪。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
+      "published_date": "2026-08-22",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "keywords": [
+        "宏观",
+        "贸易战",
+        "美加关税",
+        "macro",
+        "通胀",
+        "供应链"
+      ],
+      "verified": true,
+      "still_developing": true,
+      "why_still_developing": "美加关税于谈判破裂后即时生效（8月22日），加拿大反制措施将于9月8日落地，局势仍在发酵，距今3天（2026-08-25），符合still_developing条件。",
+      "translated": false,
+      "lang": "zh",
+      "time": "18:27",
+      "first_seen": "2026-08-25",
+      "is_new": true
+    },
+    {
+      "id": "40ce795ab6f300f3",
+      "tier": 1,
+      "group": "大盘头条",
+      "title": "美国30年期国债收益率逼近5.3%：近19年高位，长债抛压持续",
+      "summary": "美国30年期国债收益率逼近5.3%，为近19年来最高水平，通胀预期持续升温叠加供给压力，长端利率走高令估值压力向权益市场传导。",
+      "why": "长端利率飙升是全球风险资产的核心压制因子，直接影响组合中高估值科技标的（英伟达、谷歌、Palantir等）的折现率，以及sell put策略隐含波动率与行权价参考。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+      "published_date": "2026-08-21",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "keywords": [
+        "宏观",
+        "美债",
+        "利率",
+        "30年期国债",
+        "通胀",
+        "macro"
+      ],
+      "verified": false,
+      "still_developing": true,
+      "why_still_developing": "30年期美债收益率自8月21日触及5.3%近19年高位以来，市场持续关注利率走势，截至8月25日（距今4天）仍在发酵，符合不超过5天的例外条件。",
+      "translated": false,
+      "lang": "zh",
+      "time": "18:27",
+      "first_seen": "2026-08-25",
+      "is_new": true
+    },
+    {
+      "id": "041a65dd5f26b16e",
       "tier": 2,
-      "lang": "en",
+      "group": "英伟达",
+      "title": "英伟达 Groq 3 LPX 正式量产：Gemma 4 31B 推理速度达 3,400 tokens/秒，Nebius Group 为首批客户",
+      "summary": "英伟达官方宣布 Groq 3 LPX 处理器进入全面量产阶段，在 Gemma 4 31B 模型上实现 3,400 tokens/秒的推理速度，为专项代理AI（Agentic AI）工作负载而优化。Nebius Group 为首批客户，产品线进一步扩展 Vera Rubin 架构。",
+      "why": "英伟达官方新品量产公告，直接涉及 NVDA 产品路线图与 AI 推理市场竞争力，是核心持仓标的重要催化剂。",
+      "source": "NVIDIA 官方新闻室（investor.nvidia.com）",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+      "published_date": "2026-08-25",
       "markets": [
         "US"
       ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Tesla recalls nearly 3 million EVs in China over door handle safety — China's largest auto recall",
-      "summary": "China's SAMR announced a recall of ~2.98 million Tesla vehicles (Model 3/Y/X/S) over electrically controlled door handles that may fail in crashes, posing entrapment risks. Part of a broader 4M+ vehicle action across 8+ automakers. Tesla will deploy a free OTA software update and install emergency door release labels. Ann. Aug. 21, 2026.",
-      "why": "延续报道（Bloomberg 8月21日发布，多家媒体8月24日持续报道）：近300万辆召回规模创历史，软件更新可解决，短期对特斯拉中国销量信心存扰动；中国市场是TSLA长期关键市场，投资者需持续关注监管态度。",
-      "source": "Bloomberg",
-      "verified": true,
       "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "召回",
-        "中国",
-        "FSD"
+        "英伟达",
+        "NVDA",
+        "Groq",
+        "AI芯片",
+        "量产",
+        "Vera Rubin",
+        "Agentic AI"
       ],
+      "verified": true,
+      "still_developing": false,
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
-      "published_date": "2026-08-21",
-      "still_developing": true,
-      "id": "4dea23b3e9e7ae91",
-      "is_new": true,
-      "first_seen": "2026-08-25 13:17"
+      "lang": "zh",
+      "time": "18:27",
+      "first_seen": "2026-08-25",
+      "is_new": true
     },
     {
       "id": "4e96c7112b35c34e",
@@ -85,7 +162,8 @@
       "published_date": "2026-08-18",
       "still_developing": false,
       "time": "08:00",
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "37d4d365a4cba89f",
@@ -114,7 +192,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
       "published_date": "2026-08-17",
       "still_developing": false,
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "657b28b24473d483",
@@ -143,7 +222,8 @@
       "url": "https://www.sec.gov/Archives/edgar/data/0001848758/000199937126018077/neos-defa14a_081726.htm",
       "published_date": "2026-08-17",
       "still_developing": true,
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "95ff69f530bc6715",
@@ -175,7 +255,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board",
       "published_date": "2026-08-17",
       "still_developing": true,
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "4705c04c00822a84",
@@ -205,7 +286,8 @@
       "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
       "published_date": "2026-08-17",
       "still_developing": true,
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "4312b6f0f68ccc26",
@@ -235,7 +317,8 @@
       "url": "https://www.cnbc.com/2026/08/17/oil-prices-today-brent-wti-hormuz.html",
       "published_date": "2026-08-17",
       "still_developing": true,
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "27c3048e780f4446",
@@ -266,7 +349,8 @@
       "published_date": "2026-08-17",
       "still_developing": false,
       "time": "08:00",
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "d21cc5c811c6b2b3",
@@ -295,7 +379,8 @@
       "published_date": "2026-08-17",
       "still_developing": false,
       "time": "08:00",
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "3fb96374717a6955",
@@ -323,7 +408,8 @@
       "published_date": "2026-08-16",
       "still_developing": true,
       "time": "08:00",
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "ac5704b135199844",
@@ -350,7 +436,8 @@
       "url": "https://finance.sina.com.cn/roll/2026-08-19/doc-ininvwqk8262947.shtml",
       "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-19"
+      "first_seen": "2026-08-19",
+      "is_new": false
     },
     {
       "id": "f82c950ebb97e0f5",
@@ -378,7 +465,8 @@
       "url": "https://finance.sina.com.cn/tech/digi/2026-08-19/doc-ininvshu2695096.shtml",
       "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-19"
+      "first_seen": "2026-08-19",
+      "is_new": false
     },
     {
       "id": "fbadc9f61c82147f",
@@ -407,7 +495,8 @@
       "url": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526355431/d112854dex991.htm",
       "published_date": "2026-08-18",
       "still_developing": false,
-      "first_seen": "2026-08-19"
+      "first_seen": "2026-08-19",
+      "is_new": false
     },
     {
       "id": "af172034dea77220",
@@ -436,7 +525,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-17/us-bond-selloff-drives-30-year-yields-to-the-highest-since-2007",
       "published_date": "2026-08-17",
       "still_developing": true,
-      "first_seen": "2026-08-19"
+      "first_seen": "2026-08-19",
+      "is_new": false
     },
     {
       "id": "edee3f8b67026b5f",
@@ -462,7 +552,8 @@
       "url": "https://www.stcn.com/article/detail/4080562.html",
       "published_date": "2026-08-17",
       "still_developing": false,
-      "first_seen": "2026-08-19"
+      "first_seen": "2026-08-19",
+      "is_new": false
     },
     {
       "tier": 1,
@@ -490,7 +581,8 @@
       "published_date": "2026-08-20",
       "still_developing": false,
       "id": "90709ef38bc9f6a7",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "tier": 1,
@@ -518,7 +610,8 @@
       "published_date": "2026-08-20",
       "still_developing": false,
       "id": "ec4ab8138b418329",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "id": "64452ce6d02a4619",
@@ -549,7 +642,8 @@
       "url": "https://www.alizila.com/alibaba-q1-results-deliver-strong-growth-in-ai-and-quick-commerce/",
       "published_date": "2026-08-20",
       "still_developing": false,
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "tier": 1,
@@ -579,7 +673,8 @@
       "published_date": "2026-08-19",
       "still_developing": true,
       "id": "d055adaabdc2127f",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "tier": 1,
@@ -608,7 +703,8 @@
       "published_date": "2026-08-19",
       "still_developing": false,
       "id": "84d3deb652c5f22b",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "id": "fde13b73b6b27b84",
@@ -636,7 +732,8 @@
       "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
       "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "id": "b46f22edc1178562",
@@ -665,7 +762,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/long-dated-treasuries-rally-as-treasury-boosts-bond-buybacks",
       "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "id": "bc346052375ac242",
@@ -693,7 +791,8 @@
       "url": "https://asia.nikkei.com/business/markets/ipo/unitree-shares-soar-629-after-robot-maker-raises-905m-in-shanghai-ipo",
       "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "id": "ee5e7ff320b230ca",
@@ -718,7 +817,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-stock-futures-gain-as-nasdaq-100-looks-to-snap-five-day-slump",
       "published_date": "2026-08-21",
       "still_developing": false,
-      "first_seen": "2026-08-21"
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
       "id": "156d47add085348c",
@@ -745,7 +845,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-20/walmart-posts-sluggish-sales-with-slowest-us-growth-in-six-years",
       "published_date": "2026-08-20",
       "still_developing": false,
-      "first_seen": "2026-08-21"
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
       "id": "c86309b76c034f0a",
@@ -772,7 +873,8 @@
       "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
       "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-21"
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
       "id": "99b4036ca0543440",
@@ -799,7 +901,8 @@
       "url": "https://www.cnbc.com/2026/08/19/oil-edges-up-on-uncertainty-over-exports-through-hormuz.html",
       "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-21"
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
       "tier": 1,
@@ -827,7 +930,8 @@
       "published_date": "2026-08-21",
       "still_developing": false,
       "id": "52d1fcf196473737",
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "tier": 1,
@@ -857,7 +961,8 @@
       "published_date": "2026-08-21",
       "still_developing": false,
       "id": "56f3e9e27ac58bae",
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "tier": 1,
@@ -886,7 +991,8 @@
       "published_date": "2026-08-21",
       "still_developing": false,
       "id": "173d34ff97c0ff05",
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "id": "9b6a33563d9bdfa4",
@@ -914,7 +1020,8 @@
       "url": "https://www.cnbc.com/2026/08/21/dollar-wobbles-as-investors-balk-at-us-treasurys-rescue-efforts.html",
       "published_date": "2026-08-21",
       "still_developing": false,
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "tier": 1,
@@ -942,7 +1049,8 @@
       "published_date": "2026-08-20",
       "still_developing": false,
       "id": "363e03326afc62b2",
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "tier": 1,
@@ -972,7 +1080,8 @@
       "published_date": "2026-08-20",
       "still_developing": true,
       "id": "fdaf472d1e0d9eda",
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "tier": 1,
@@ -1001,7 +1110,8 @@
       "published_date": "2026-08-20",
       "still_developing": false,
       "id": "8ce13cd0ac923515",
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "id": "b93e0dc778b0dc70",
@@ -1028,7 +1138,8 @@
       "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
       "published_date": "2026-08-20",
       "still_developing": true,
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "id": "d6ff216e50f0af9d",
@@ -1055,7 +1166,8 @@
       "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
       "published_date": "2026-08-19",
       "still_developing": true,
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "id": "06f64569310bdb7b",
@@ -1086,7 +1198,8 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3364957/alibaba-issue-hk80-billion-new-shares-global-ai-push",
       "published_date": "2026-08-23",
       "still_developing": false,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "d4416aa8fe8f009c",
@@ -1114,7 +1227,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair",
       "published_date": "2026-08-22",
       "still_developing": false,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "c11636987d7257ec",
@@ -1141,7 +1255,8 @@
       "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
       "published_date": "2026-08-21",
       "still_developing": false,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "c06df280856b2b03",
@@ -1169,7 +1284,8 @@
       "url": "https://www.sec.gov/Archives/edgar/data/0000104169/000010416926000145/earningsreleasefy27q2.htm",
       "published_date": "2026-08-20",
       "still_developing": true,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "7d1bbdf412a5fe0b",
@@ -1197,7 +1313,8 @@
       "url": "https://www.caixinglobal.com/2026-08-21/pop-mart-unveils-up-to-5-billion-yuan-buyback-as-overseas-revenue-falls-102476270.html",
       "published_date": "2026-08-21",
       "still_developing": true,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "7597aa4e0f9939f4",
@@ -1226,7 +1343,8 @@
       "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
       "published_date": "2026-08-20",
       "still_developing": true,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "7be73c1a05b07b6a",
@@ -1252,7 +1370,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-business-activity-expands-at-the-fastest-pace-since-2022",
       "published_date": "2026-08-21",
       "still_developing": false,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "76d5177e503805b2",
@@ -1279,7 +1398,8 @@
       "url": "https://www.cnbc.com/2026/08/21/stock-market-today-live-updates-.html",
       "published_date": "2026-08-22",
       "still_developing": true,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "2bdd2e9dd6fee3fe",
@@ -1306,7 +1426,8 @@
       "url": "https://www.marketscreener.com/news/pdd-holdings-to-report-second-quarter-2026-unaudited-financial-results-on-august-24-2026-ce7859dcdb8bff2d",
       "published_date": "2026-08-22",
       "still_developing": true,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "91160255a73b6153",
@@ -1334,7 +1455,8 @@
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-24/doc-inipkzxw2914773.shtml",
       "published_date": "2026-08-24",
       "still_developing": false,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": false
     },
     {
       "id": "908b2b8b0d47d07b",
@@ -1362,7 +1484,8 @@
       "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
       "published_date": "2026-08-20",
       "still_developing": true,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": false
     },
     {
       "id": "af02c5de1be2f70e",
@@ -1392,7 +1515,8 @@
       "url": "https://www.usnews.com/news/top-news/articles/2026-08-23/alibaba-proposes-hong-kong-share-placement-worth-10-billion",
       "published_date": "2026-08-23",
       "still_developing": false,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": false
     },
     {
       "id": "8f4b22142e042c45",
@@ -1421,7 +1545,8 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-going-soar-174000999.html",
       "published_date": "2026-08-21",
       "still_developing": true,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": false
     },
     {
       "id": "70419d6ea6d7db5a",
@@ -1450,7 +1575,8 @@
       "url": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
       "published_date": "2026-08-23",
       "still_developing": false,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": false
     },
     {
       "id": "f07b026f00364b04",
@@ -1480,7 +1606,8 @@
       "url": "https://www.cls.cn/detail/2461991",
       "published_date": "2026-08-25",
       "still_developing": false,
-      "first_seen": "2026-08-25"
+      "first_seen": "2026-08-25",
+      "is_new": false
     },
     {
       "id": "95874d244a7f8fab",
@@ -1509,7 +1636,36 @@
       "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/24/temu-owner-pdd-books-8-rise-in-quarterly-revenue-misses-estimates/",
       "published_date": "2026-08-24",
       "still_developing": false,
-      "first_seen": "2026-08-25"
+      "first_seen": "2026-08-25",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股8月24日大幅收跌：恒指跌1.89%至25517点，恒生科技指数暴跌3.61%",
+      "summary": "港股8月24日全面下挫，恒生指数收跌1.89%至25517.33点，恒生科技指数跌3.61%至4594.04点，主板成交约2912亿港元。阿里巴巴跌超8%，腾讯控股跌3.72%，小米跌超4%，中芯国际跌超7%，快手跌超4%。",
+      "why": "阿里巴巴大额折价配股直接拖累科技板块情绪，叠加美债收益率高位压制，恒生科技单日大跌3.6%；持仓港股科技股者需留意短期调整压力，隐含波动率可能走高。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "恒生科技",
+        "HK",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-24/doc-inipkzxr0085558.shtml",
+      "published_date": "2026-08-24",
+      "still_developing": false,
+      "id": "5b9bd3cc00bd0f47",
+      "is_new": false,
+      "first_seen": "2026-08-25 13:17"
     },
     {
       "id": "9fe604c012aa1174",
@@ -1539,7 +1695,8 @@
       "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqxur7057787.shtml",
       "published_date": "2026-08-17",
       "still_developing": false,
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "1d4c54429dda1292",
@@ -1569,7 +1726,8 @@
       "url": "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html",
       "published_date": "2026-08-17",
       "still_developing": false,
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "fd95e41fa5562a5c",
@@ -1598,7 +1756,8 @@
       "published_date": "2026-08-17",
       "still_developing": false,
       "time": "08:00",
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "ea8745d4a4069be1",
@@ -1626,7 +1785,8 @@
       "published_date": "2026-08-17",
       "still_developing": false,
       "time": "08:00",
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "fb8bb3823b6559e5",
@@ -1655,7 +1815,8 @@
       "published_date": "2026-08-15",
       "still_developing": true,
       "time": "08:00",
-      "first_seen": "2026-08-18"
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "0aaee1fb4eba761c",
@@ -1684,7 +1845,8 @@
       "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm",
       "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-19"
+      "first_seen": "2026-08-19",
+      "is_new": false
     },
     {
       "id": "1ad4329eef58dbf9",
@@ -1710,7 +1872,8 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvmyt7067098.shtml",
       "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-19"
+      "first_seen": "2026-08-19",
+      "is_new": false
     },
     {
       "id": "bef5daaa67be1260",
@@ -1736,7 +1899,8 @@
       "url": "https://finance.sina.com.cn/stock/cpbd/2026-08-19/doc-ininuzku8334226.shtml",
       "published_date": "2026-08-19",
       "still_developing": true,
-      "first_seen": "2026-08-19"
+      "first_seen": "2026-08-19",
+      "is_new": false
     },
     {
       "id": "6d2205398186a864",
@@ -1762,7 +1926,8 @@
       "url": "https://www1.xinhuanet.com/politics/20260818/751363d15a8b48ceadedbaf60e9d06bc/c.html",
       "published_date": "2026-08-18",
       "still_developing": false,
-      "first_seen": "2026-08-19"
+      "first_seen": "2026-08-19",
+      "is_new": false
     },
     {
       "tier": 2,
@@ -1792,7 +1957,8 @@
       "published_date": "2026-08-20",
       "still_developing": false,
       "id": "b8f88bcb374782ab",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "tier": 2,
@@ -1819,7 +1985,8 @@
       "published_date": "2026-08-20",
       "still_developing": false,
       "id": "ec4ab8138b418329",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "tier": 2,
@@ -1848,7 +2015,8 @@
       "published_date": "2026-08-19",
       "still_developing": false,
       "id": "b1010d4a903e5017",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "tier": 2,
@@ -1875,7 +2043,8 @@
       "published_date": "2026-08-19",
       "still_developing": false,
       "id": "0f78b3c646d8777c",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "tier": 2,
@@ -1903,7 +2072,8 @@
       "published_date": "2026-08-19",
       "still_developing": false,
       "id": "96090728749edd7a",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "tier": 2,
@@ -1930,7 +2100,8 @@
       "published_date": "2026-08-18",
       "still_developing": false,
       "id": "89a066354336e147",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "id": "febfecf966230fdf",
@@ -1958,7 +2129,8 @@
       "url": "https://www.marketscreener.com/news/oil-prices-rise-as-us-iran-ceasefire-expires-without-final-deal-ce7859dcda8ef425",
       "published_date": "2026-08-18",
       "still_developing": true,
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "id": "4b740fd7b52dc3ba",
@@ -1986,7 +2158,8 @@
       "url": "https://finance.biggo.com/news/d26853bf-e2ac-41a4-adca-5a052e5ed51b",
       "published_date": "2026-08-18",
       "still_developing": false,
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "id": "555119993a779a17",
@@ -2016,7 +2189,8 @@
       "url": "https://finance.yahoo.com/technology/articles/tesla-prepares-cybercab-launch-august-205824739.html",
       "published_date": "2026-08-17",
       "still_developing": true,
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "id": "64d25ddf9aa1631f",
@@ -2046,7 +2220,8 @@
       "url": "https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987",
       "published_date": "2026-08-17",
       "still_developing": true,
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-20",
+      "is_new": false
     },
     {
       "id": "1f79d79dabf334aa",
@@ -2075,7 +2250,8 @@
       "url": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
       "published_date": "2026-08-21",
       "still_developing": false,
-      "first_seen": "2026-08-21"
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
       "id": "78d8175113a3bd11",
@@ -2101,7 +2277,8 @@
       "url": "https://english.news.cn/20260820/e3fa57ac560c4c389442cf9abbfb9fe7/c.html",
       "published_date": "2026-08-20",
       "still_developing": false,
-      "first_seen": "2026-08-21"
+      "first_seen": "2026-08-21",
+      "is_new": false
     },
     {
       "id": "398586f21ea9e1ea",
@@ -2128,7 +2305,8 @@
       "url": "https://www.scmp.com/business/china-business/article/3364498/hong-kong-stocks-decline-rising-bond-yields-and-stalemate-iran-war-dent-sentiment",
       "published_date": "2026-08-21",
       "still_developing": false,
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "tier": 2,
@@ -2158,7 +2336,8 @@
       "published_date": "2026-08-21",
       "still_developing": false,
       "id": "bcfc82c167f57809",
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "tier": 2,
@@ -2187,7 +2366,8 @@
       "published_date": "2026-08-21",
       "still_developing": false,
       "id": "2425026a883b9d83",
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "id": "57862e3fdf66a07a",
@@ -2214,7 +2394,8 @@
       "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
       "published_date": "2026-08-19",
       "still_developing": true,
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "id": "0b63c9566c03624e",
@@ -2243,7 +2424,8 @@
       "url": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240",
       "published_date": "2026-08-19",
       "still_developing": true,
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "id": "b92ea7ce75fc89df",
@@ -2270,7 +2452,8 @@
       "url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
       "published_date": "2026-08-18",
       "still_developing": true,
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "id": "e0fc06b84fb24fc4",
@@ -2297,7 +2480,8 @@
       "url": "https://www.stcn.com/article/detail/4084023.html",
       "published_date": "2026-08-18",
       "still_developing": true,
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "id": "6003f8764ad8e66e",
@@ -2327,7 +2511,8 @@
       "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
       "published_date": "2026-08-17",
       "still_developing": true,
-      "first_seen": "2026-08-22"
+      "first_seen": "2026-08-22",
+      "is_new": false
     },
     {
       "id": "51c9a391deaca864",
@@ -2356,7 +2541,8 @@
       "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
       "published_date": "2026-08-21",
       "still_developing": false,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "22753598326542c1",
@@ -2385,7 +2571,8 @@
       "url": "https://www.sina.cn/news/detail/5334715218789874.html",
       "published_date": "2026-08-22",
       "still_developing": false,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "c2b2d18fcfb2a17b",
@@ -2412,7 +2599,8 @@
       "url": "https://news.futunn.com/post/78046116/on-august-21-tencent-00700-repurchased-667000-shares-for-hk",
       "published_date": "2026-08-21",
       "still_developing": false,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "909e0e62a94a278f",
@@ -2441,7 +2629,8 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-cybercab-launch-172749081.html",
       "published_date": "2026-08-22",
       "still_developing": true,
-      "first_seen": "2026-08-23"
+      "first_seen": "2026-08-23",
+      "is_new": false
     },
     {
       "id": "b028bded9704fd41",
@@ -2471,7 +2660,8 @@
       "url": "https://news.skhynix.com/en/cpo-in-nature-electronics/",
       "published_date": "2026-08-20",
       "still_developing": true,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": false
     },
     {
       "id": "7da90ab2ca32b158",
@@ -2500,7 +2690,8 @@
       "url": "https://english.www.gov.cn/archive/statistics/202608/20/content_WS6a8692ecc6d00ca5f9a0cb78.html",
       "published_date": "2026-08-20",
       "still_developing": true,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": false
     },
     {
       "id": "78b9feb98e8c365b",
@@ -2529,7 +2720,8 @@
       "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
       "published_date": "2026-08-21",
       "still_developing": true,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": false
     },
     {
       "id": "4814ee75a4e5f648",
@@ -2557,7 +2749,8 @@
       "url": "https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html",
       "published_date": "2026-08-23",
       "still_developing": false,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": false
     },
     {
       "id": "d5de2ee539d764de",
@@ -2585,7 +2778,8 @@
       "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/22/tesla-teases-imminent-launch-of-cybercab-robotaxi/",
       "published_date": "2026-08-22",
       "still_developing": true,
-      "first_seen": "2026-08-24"
+      "first_seen": "2026-08-24",
+      "is_new": false
     },
     {
       "id": "775f8289cf6129a4",
@@ -2618,7 +2812,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes",
       "published_date": "2026-08-24",
       "still_developing": false,
-      "first_seen": "2026-08-25"
+      "first_seen": "2026-08-25",
+      "is_new": false
     },
     {
       "id": "06d6b24c0be32075",
@@ -2647,7 +2842,37 @@
       "url": "https://finance.sina.cn/stock/jdts/2026-08-24/detail-inipkriw2004353.d.html",
       "published_date": "2026-08-24",
       "still_developing": false,
-      "first_seen": "2026-08-25"
+      "first_seen": "2026-08-25",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Tesla recalls nearly 3 million EVs in China over door handle safety — China's largest auto recall",
+      "summary": "China's SAMR announced a recall of ~2.98 million Tesla vehicles (Model 3/Y/X/S) over electrically controlled door handles that may fail in crashes, posing entrapment risks. Part of a broader 4M+ vehicle action across 8+ automakers. Tesla will deploy a free OTA software update and install emergency door release labels. Ann. Aug. 21, 2026.",
+      "why": "延续报道（Bloomberg 8月21日发布，多家媒体8月24日持续报道）：近300万辆召回规模创历史，软件更新可解决，短期对特斯拉中国销量信心存扰动；中国市场是TSLA长期关键市场，投资者需持续关注监管态度。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "召回",
+        "中国",
+        "FSD"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/tesla-recalls-3-million-evs-as-china-cracks-down-on-door-handles",
+      "published_date": "2026-08-21",
+      "still_developing": true,
+      "id": "4dea23b3e9e7ae91",
+      "is_new": false,
+      "first_seen": "2026-08-25 13:17"
     },
     {
       "id": "9a03a3f3a8241503",
@@ -2675,7 +2900,8 @@
       "url": "https://www.worldrobotconference.com/expo/",
       "published_date": "2026-08-19",
       "still_developing": false,
-      "first_seen": "2026-08-19"
+      "first_seen": "2026-08-19",
+      "is_new": false
     }
   ]
 }
