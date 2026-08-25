@@ -1,273 +1,92 @@
 [
   {
-    "id": "d4416aa8fe8f009c",
+    "id": "f07b026f00364b04",
     "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
+    "lang": "zh",
+    "markets": ["US"],
     "time": "08:00",
     "group": "大盘头条",
-    "title": "Kevin Warsh to Make First Jackson Hole Speech as Fed Chair",
-    "summary": "New Fed Chair Kevin Warsh delivers his inaugural keynote at the Jackson Hole Economic Policy Symposium (Aug 27-29) on Friday, Aug 28. The event lands 19 days before the September 16 FOMC decision; Warsh has curtailed forward guidance since taking office in May.",
-    "why": "9月FOMC会议前最重要的政策信号窗口；Warsh刻意压缩前瞻指引，演讲立场偏鸽或偏鹰均将直接影响9月降息预期，期权卖方需关注演讲前后隐含波动率变化。",
+    "title": "英伟达将于8月26日盘后发布FY2027 Q2财报，华尔街预期营收~$91.9B、同比近翻倍",
+    "summary": "英伟达(NVDA)将于2026年8月26日（本周三）美股盘后发布FY2027第二财季财报（对应2026年5-7月），并同日举行电话会议。华尔街一致预期营收约$91.9B（同比+96%），非GAAP EPS约$2.08，数据中心业务预计约$85.4B（同比+107%）；英伟达自身指引为$91B±2%。Blackwell架构持续放量，下一代Vera Rubin架构下半年开始贡献收入。",
+    "why": "英伟达财报是AI资本开支周期可持续性的最核心参照点：指引若超预期，港股AI相关标的（腾讯云、阿里云等）估值逻辑强化；若不及预期，科技板块整体承压。期权卖家需警惕财报后IV crush，明日收市前可考虑调整delta/gamma敞口",
+    "source": "财联社",
+    "verified": true,
+    "keywords": ["英伟达", "Nvidia", "NVDA", "B200", "Blackwell", "GPU", "AI芯片", "数据中心"],
+    "translated": false,
+    "url": "https://www.cls.cn/detail/2461991",
+    "published_date": "2026-08-25",
+    "still_developing": false
+  },
+  {
+    "id": "2218a3297e7bcc76",
+    "tier": 1,
+    "lang": "en",
+    "markets": ["HK", "US"],
+    "time": "10:00",
+    "group": "大盘头条",
+    "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+    "summary": "Alibaba (9988.HK / BABA) priced 710 million new shares at HK$112.70 (an 8.4% discount to Friday's close), raising HK$80 billion (~$10.2B) — Hong Kong's largest ever follow-on share offering — with 100% of net proceeds earmarked for full-stack AI infrastructure build-out. The stock slid as much as 10.5% on August 24, its worst session since early 2025, while the Hang Seng Index fell 2.1% and the Hang Seng Tech Index dropped 3.86% on the day.",
+    "why": "阿里巴巴2019年赴港以来首次配股，折价8.4%是市场对AI溢价重新定价的锚点；配股引发的稀释担忧波及整个港股科技板块（腾讯-3.7%、小米-4.1%、美团-2.7%）；对卖出阿里或相关港股期权的持仓者，须重新评估行权价附近风险；配股交割预计8月26日完成，稀释正式生效",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": ["阿里巴巴", "Alibaba", "9988.HK", "BABA", "配股", "港股", "恒生科技", "AI"],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+    "published_date": "2026-08-24",
+    "still_developing": false
+  },
+  {
+    "id": "775f8289cf6129a4",
+    "tier": 2,
+    "lang": "en",
+    "markets": ["HK", "A", "US"],
+    "time": "11:00",
+    "group": "大盘头条",
+    "title": "Alibaba, YMTC Fundraising Hits China Tech Stocks on Supply Woes",
+    "summary": "Chinese tech stocks slid broadly on August 24 as Alibaba's HK$80B equity placement and YMTC's simultaneous ~¥33B ($4.9B) IPO application on Shanghai's STAR Market together flooded the market with over $15B in new equity supply in a single session. The Hang Seng Tech Index dropped nearly 4%; on the mainland the STAR 50 fell 3.8% to a 3-week low. The YMTC fundraise also amplified concerns about NAND flash oversupply, sending ripple effects into global memory stocks (Micron, SanDisk, SK Hynix).",
+    "why": "YMTC科创板$49亿IPO是中国史上最大半导体上市融资之一，潜在NAND产能扩张加剧全球存储市场供给压力，对持仓美光(MU)、闪迪(SNDK)、SK海力士的投资者构成中期竞争压力信号；当日双重股权供给冲击也测试了市场对AI相关资本开支的吸纳能力上限",
     "source": "Bloomberg",
     "verified": true,
-    "keywords": [
-      "Jackson Hole",
-      "Fed",
-      "Warsh",
-      "FOMC",
-      "宏观",
-      "macro"
-    ],
+    "keywords": ["阿里巴巴", "Alibaba", "9988.HK", "YMTC", "存储芯片", "NAND", "科创板", "SK海力士", "美光"],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair",
-    "published_date": "2026-08-22",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes",
+    "published_date": "2026-08-24",
     "still_developing": false
   },
   {
-    "id": "c11636987d7257ec",
+    "id": "95874d244a7f8fab",
     "tier": 1,
     "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "16:30",
-    "group": "大盘头条",
-    "title": "S&P 500 posts weekly loss as 30-year Treasury yield hits near 19-year high of 5.273%",
-    "summary": "U.S. stocks fell 1.4% for the week ending Aug 21; the 30-year Treasury yield reached 5.273%, a near 19-year high. Treasury Secretary Bessent doubled long-term debt buybacks to $4B/operation to subdue yields. S&P 500 recovered 0.4% Friday to 7,674 after three sessions of losses.",
-    "why": "长端利率急升压制科技/成长股估值，Sell-put策略需关注Delta对冲成本抬升；同时为Jackson Hole会议铺垫了紧迫政策背景。",
-    "source": "CNBC",
+    "markets": ["US"],
+    "time": "21:30",
+    "group": "个股",
+    "title": "Temu-owner PDD books 8% rise in quarterly revenue, misses estimates, profit falls on China rivalry",
+    "summary": "PDD Holdings (PDD) reported Q2 2026 revenue of ¥112.36B (+8% YoY), missing the ¥115.41B consensus estimate, as fierce domestic competition and mounting pressure on Temu from U.S. tariffs and the end of de minimis exemptions weighed on growth. Net income declined 12% YoY to ¥27.18B, though it cleared the ¥24.40B analyst estimate; EPS of $2.85 beat the $2.77 consensus.",
+    "why": "PDD营收低于预期、净利下滑12%，Temu关税冲击持续兑现、国内内卷加剧压缩利润空间；对持有PDD卖出期权的投资者，业绩低于预期叠加利润下行或引发隐波上升，需留意管理层对Temu全球化路径及国内竞争格局的指引",
+    "source": "Bloomberg/BNN",
     "verified": true,
-    "keywords": [
-      "S&P 500",
-      "Treasury yields",
-      "30-year bond",
-      "宏观",
-      "macro"
-    ],
+    "keywords": ["拼多多", "PDD", "Pinduoduo", "Temu", "跨境电商", "百亿补贴", "关税"],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-    "published_date": "2026-08-21",
+    "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/24/temu-owner-pdd-books-8-rise-in-quarterly-revenue-misses-estimates/",
+    "published_date": "2026-08-24",
     "still_developing": false
   },
   {
-    "id": "bb4415d3a9693608",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
+    "id": "06d6b24c0be32075",
+    "tier": 2,
+    "lang": "zh",
+    "markets": ["HK"],
     "time": "16:00",
-    "group": "大盘头条",
-    "title": "Nvidia reports Q2 FY2027 earnings on Aug 26; revenue consensus $93–95B, +97% YoY",
-    "summary": "Nvidia's Q2 FY2027 earnings (period ending July 27) are due after-market Wednesday, Aug 26. Analyst consensus for revenue is ~$93–95 billion vs. company guidance midpoint of $91B. Options markets imply a ~5.4% earnings-day move. Blackwell GPU ramp and data center demand are the key focus.",
-    "why": "英伟达是AI资本支出周期的最直接读数；业绩指引若超预期将强化持仓中的科技/AI相关标的（腾讯云、阿里云、SK海力士HBM需求等）；期权隐含波动率约5.4%，可关注earnings前后波动率压缩机会。",
-    "source": "CNBC",
-    "verified": true,
-    "keywords": [
-      "Nvidia",
-      "NVDA",
-      "GPU",
-      "Blackwell",
-      "AI芯片",
-      "数据中心",
-      "英伟达"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-    "published_date": "2026-08-21",
-    "still_developing": false
-  },
-  {
-    "id": "c06df280856b2b03",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "07:00",
-    "group": "大盘头条",
-    "title": "Walmart Q2 FY2027: U.S. same-store sales growth hits 6-year low; stock falls nearly 10%",
-    "summary": "Walmart reported Q2 FY2027 on Aug 20: revenue $187.94B (+5.9% YoY) beat, but U.S. comparable sales growth of 2.6% was the weakest in more than six years, and full-year adjusted EPS guidance of $2.80–$2.87 missed the ~$2.90 consensus. Shares fell ~10%.",
-    "why": "沃尔玛是美国消费支出的晴雨表；同店增速创6年新低暗示通胀疲劳型消费降级，对麦当劳、好市多等消费持仓的宏观背景不利；也令美股整体本周承压。",
-    "source": "SEC EDGAR",
-    "verified": true,
-    "keywords": [
-      "Walmart",
-      "WMT",
-      "零售",
-      "消费",
-      "同店销售",
-      "consumer"
-    ],
-    "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/0000104169/000010416926000145/earningsreleasefy27q2.htm",
-    "published_date": "2026-08-20",
-    "still_developing": true
-  },
-  {
-    "id": "51c9a391deaca864",
-    "tier": 2,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "16:30",
-    "group": "大盘头条",
-    "title": "Bitcoin posts best week in two years; US-Iran 'economic warfare' adds geopolitical risk",
-    "summary": "As the week closed Aug 21, bitcoin recorded its best weekly performance in two years. Separately, the Trump administration announced an 'economic warfare' plan against Iran, adding a new geopolitical overlay to already-elevated Treasury yields and equity volatility.",
-    "why": "比特币强势直接利好Circle(CRCL)等加密基础设施；美伊紧张局势是全球风险溢价的额外变量，若升级将压制权益资产、支撑黄金及老铺黄金相关标的。",
-    "source": "CNBC",
+    "group": "个股",
+    "title": "老铺黄金逆势走强，有色金属板块抗跌——国际金价升至3个月高位提供支撑",
+    "summary": "港股8月24日科技板块大幅下跌背景下，有色金属及部分消费股逆势上涨，老铺黄金(06181.HK)领涨新消费板块。国际金价当日升至近$4,570/盎司（3个月高点），受益于美联储9月加息概率从50%降至31%，以及国库通用账户回购扩张降低实际利率预期，黄金避险需求升温。",
+    "why": "金价持续高位为老铺黄金产品提价提供定价支撑（2025年三次提价均在金价高位时点）；在大盘整体下跌日保持抗跌性，显示高端黄金珠宝的配置需求稳定；若金价维持在$4,500以上，关注老铺黄金是否启动年内第二轮调价，可能进一步提升毛利",
+    "source": "新浪财经",
     "verified": false,
-    "keywords": [
-      "Bitcoin",
-      "crypto",
-      "Iran",
-      "geopolitical",
-      "宏观",
-      "macro",
-      "稳定币"
-    ],
+    "keywords": ["老铺黄金", "Laopu Gold", "6181.HK", "黄金", "金价", "黄金首饰", "足金"],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-    "published_date": "2026-08-21",
-    "still_developing": false
-  },
-  {
-    "id": "7d1bbdf412a5fe0b",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "HK"
-    ],
-    "time": "08:30",
-    "group": "个股",
-    "title": "Pop Mart Unveils Up to 5 Billion Yuan Buyback as Overseas Revenue Falls",
-    "summary": "Pop Mart (9992.HK) H1 2026: revenue RMB 17.17B (+23.8% YoY), China +47.3%; Asia-Pacific ex-China -9.7%, Americas -16.5%; total overseas -11.1%. CEO Wang Ning announced a 2–5 billion yuan buyback in the next 6 months. HK shares fell over 4% on results. Gross margin 69.7%.",
-    "why": "海外收入下滑是核心利空，揭示Labubu热度降温；但回购计划（20-50亿元规模）提供股价支撑，暗示管理层对估值有信心——可关注Sell put机会；Labubu×三丽鸥联名是潜在破圈催化剂。",
-    "source": "财新 Caixin Global",
-    "verified": true,
-    "keywords": [
-      "泡泡玛特",
-      "Pop Mart",
-      "9992.HK",
-      "Labubu",
-      "回购",
-      "盲盒"
-    ],
-    "translated": false,
-    "url": "https://www.caixinglobal.com/2026-08-21/pop-mart-unveils-up-to-5-billion-yuan-buyback-as-overseas-revenue-falls-102476270.html",
-    "published_date": "2026-08-21",
-    "still_developing": true
-  },
-  {
-    "id": "7597aa4e0f9939f4",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "09:00",
-    "group": "个股",
-    "title": "Tesla, Uber, Waymo get Nevada permit for thousands of robotaxis; Cybercab Austin launch imminent",
-    "summary": "Nevada's Transportation Authority approved Tesla's permit on Aug 20 to operate up to 5,000 robotaxis in Clark County (Las Vegas area), expanding from a previous cap of 10. Commercial Cybercab rides in Austin, Texas, are expected to launch by end of August. Tesla shares gained on the news Friday.",
-    "why": "延续报道：Nevada许可是特斯拉Robotaxi商业化的重要里程碑；Cybercab奥斯汀即将开城，是FSD叙事的关键验证节点；对TSLA Sell put策略而言，持续正面催化降低短期行权风险。",
-    "source": "CNBC",
-    "verified": false,
-    "keywords": [
-      "特斯拉",
-      "Tesla",
-      "TSLA",
-      "Robotaxi",
-      "Cybercab",
-      "FSD",
-      "自动驾驶"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-    "published_date": "2026-08-20",
-    "still_developing": true
-  },
-  {
-    "id": "efef140aabd05dcc",
-    "tier": 2,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "07:30",
-    "group": "个股",
-    "title": "PDD Holdings (Pinduoduo) reports Q2 2026 before market open Monday Aug 24",
-    "summary": "PDD Holdings will release Q2 2026 results before U.S. market open on Aug 24. Key watch: whether Temu's global sales growth is sustainable and profit margin trends, given heavy marketing and logistics investment. Analyst consensus holds a Moderate Buy with avg target ~$110.",
-    "why": "即将发布（明天）的业绩是近期最重要的中概股催化剂之一；Temu增速是否持续、利润率是否改善，将决定拼多多能否摆脱估值压制；持有或考虑Sell put的投资者需关注业绩公布风险。",
-    "source": "PDD Holdings IR",
-    "verified": true,
-    "keywords": [
-      "拼多多",
-      "PDD",
-      "Temu",
-      "跨境电商",
-      "百亿补贴"
-    ],
-    "translated": false,
-    "url": "https://investor.pddholdings.com/financial-information/quarterly-results",
-    "published_date": "2026-08-21",
-    "still_developing": false
-  },
-  {
-    "id": "22753598326542c1",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "10:00",
-    "group": "个股",
-    "title": "雷军微博：小米SU7赢川渝往返700km续航挑战，实测达成率80.46%十车第一",
-    "summary": "小米创始人雷军于8月22日发微博，公布川渝往返700km高速+山区路况测试结果：小米SU7以724.9km实测续航、80.46%达成率位列十款主流长续航纯电车第一，是唯一完成往返全程未趴窝的车型。",
-    "why": "产品力口碑验证是小米汽车品牌溢价的关键——直接对比竞品的实测胜利有助于稳固SU7在20万+纯电轿车的龙头地位，支撑交付量持续增长预期，对持有小米(1810.HK)头寸为正向催化。",
-    "source": "新浪",
-    "verified": false,
-    "keywords": [
-      "小米",
-      "Xiaomi",
-      "1810.HK",
-      "SU7",
-      "雷军",
-      "小米汽车",
-      "续航"
-    ],
-    "translated": false,
-    "url": "https://www.sina.cn/news/detail/5334715218789874.html",
-    "published_date": "2026-08-22",
-    "still_developing": false
-  },
-  {
-    "id": "c2b2d18fcfb2a17b",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "18:00",
-    "group": "个股",
-    "title": "腾讯控股8月21日回购66.7万股，涉资约3亿港元，持续高频回购中",
-    "summary": "腾讯控股(00700)于2026年8月21日在联交所回购66.7万股普通股，每股回购价介于HKD 445.2至457，总代价约3亿港元。这是腾讯近期高频回购的持续，Q2累计已斥资约169亿港元回购3,738万股。",
-    "why": "腾讯持续以大手笔回购做多自家股票，为现有持仓提供估值底部支撑；对Covered Call卖出方而言，管理层积极托市降低了深度跌穿行权价的概率；需关注后续是否出现回购节奏放缓信号。",
-    "source": "富途牛牛",
-    "verified": true,
-    "keywords": [
-      "腾讯",
-      "Tencent",
-      "0700.HK",
-      "回购",
-      "港股"
-    ],
-    "translated": false,
-    "url": "https://news.futunn.com/post/78046116/on-august-21-tencent-00700-repurchased-667000-shares-for-hk",
-    "published_date": "2026-08-21",
+    "url": "https://finance.sina.cn/stock/jdts/2026-08-24/detail-inipkriw2004353.d.html",
+    "published_date": "2026-08-24",
     "still_developing": false
   }
 ]
