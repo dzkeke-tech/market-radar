@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-26 13:19 (北京时间)",
+  "updated_at": "2026-08-26 18:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,96 +9,233 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-26 13:19 (北京时间)",
-    "new_count": 3,
+    "at": "2026-08-26 18:16 (北京时间)",
+    "new_count": 7,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "9900ce7ff688f96c",
+      "id": "f1659a97da5ada92",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
+        "US",
+        "HK"
       ],
-      "time": "07:30",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-      "summary": "Brent crude fell 3.9% to $88.58/bbl and WTI lost 3.1% to $82.36 on Tuesday as the U.S. pivoted from threatened military escalation to an economic-pressure campaign against Iran ('Operation Economic Outcast'). Sanctions were less aggressive than feared, with China not fully exempted, sending geopolitical risk premiums lower.",
-      "why": "油价单日暴跌直接压低通胀预期、推升美股，同时降低美联储年底加息概率，对持有消费与科技股的组合整体正面；能源板块若持有相关期权需注意波动率压缩。",
+      "title": "Nvidia's dependence on hyperscalers faces big test in earnings report",
+      "summary": "英伟达今日美股盘后将公布FY2027 Q2财报，市场聚焦超大规模云厂商（微软、谷歌、Meta等）资本开支能否支撑Vera Rubin系统的销售爬坡；黄仁勋此前预告通过2027财年将有$1万亿Blackwell及Vera Rubin订单在途。",
+      "why": "英伟达是本轮AI投资的晴雨表，财报牵动所有AI芯片及数据中心相关持仓；盘后财报前后隐含波动率通常剧烈重定价，注意sell put/covered call时序。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "原油",
-        "伊朗",
-        "宏观",
-        "macro",
-        "WTI",
-        "Brent",
-        "地缘"
+        "英伟达",
+        "NVDA",
+        "Nvidia",
+        "财报",
+        "Vera Rubin",
+        "Blackwell",
+        "数据中心",
+        "黄仁勋"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+      "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
       "published_date": "2026-08-25",
       "still_developing": false,
       "first_seen": "2026-08-26",
       "is_new": true
     },
     {
-      "id": "95e577357eaa7f4e",
+      "id": "fc8fbc0710011d60",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Treasury yields little changed ahead of key inflation data",
+      "summary": "美国今日公布7月PCE价格指数及Q2 GDP修正值（美联储首选通胀指标），市场预期环比+0.1%、同比+3.6%；结果将成为本周五沃什在Jackson Hole年会发表首次讲话前的最后一个关键宏观参考。",
+      "why": "PCE数据直接影响市场对美联储利率路径判断；Jackson Hole讲话在即（8月28日），通胀若超预期将进一步推高长端利率，对港股/美股估值构成压力，sell put策略需关注短期波动率。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "PCE",
+        "通胀",
+        "美联储",
+        "Jackson Hole",
+        "国债收益率",
+        "沃什",
+        "Warsh",
+        "货币政策"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html",
+      "published_date": "2026-08-26",
+      "still_developing": false,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "7fba7da1e17d8d45",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+      "summary": "美国放弃军事打击伊朗转向经济制裁（财政部长Bessent宣布扩大制裁，要求各国切断与伊朗商业往来），油价本周累计跌逾5%；布伦特与WTI继续承压。",
+      "why": "油价大跌有助缓解通胀压力，利好整体股市情绪；但中东局势（美-以-伊战争）仍存变数，需持续追踪地缘风险对能源成本、通胀预期及全球风险偏好的影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "石油",
+        "WTI",
+        "布伦特",
+        "伊朗",
+        "制裁",
+        "地缘政治",
+        "大宗商品",
+        "霍尔木兹"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/25/oil-drops-more-than-3-percent-oil-prices-iran-trump-hormuz.html",
+      "published_date": "2026-08-25",
+      "still_developing": false,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "1bdb07afb801be48",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Jack Ma's Buying Does Little to Ease Alibaba Share Sale Fallout",
+      "summary": "马云本周大举买入阿里巴巴港股（SCMP报道逾HK$6亿），主席蔡崇信、CEO吴泳铭亦先后增持，但阿里股价持续承压，投资者对其大规模AI资本开支（配股所得US$102亿将100%投入AI）的担忧未消。",
+      "why": "阿里完成港股史上最大配股（HK$800亿）后内部人持续增持，是观察市场信心恢复的核心指标；估值能否在AI大投入背景下重建，是期权行权价设定的关键变量。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "BABA",
+        "9988.HK",
+        "马云",
+        "蔡崇信",
+        "增持",
+        "AI开支",
+        "配股",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/jack-ma-s-buying-does-little-to-ease-alibaba-share-sale-fallout",
+      "published_date": "2026-08-26",
+      "still_developing": false,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "59eb4791af164658",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "07:15",
+      "time": "07:00",
       "group": "大盘头条",
-      "title": "S&P 500 +0.32%, Nasdaq +0.66% on Aug 25 as yields fall; Asian stocks set to extend gains",
-      "summary": "S&P 500 closed at 7,677.28 (+0.32%), Nasdaq +0.66%, Dow +0.3% on Tuesday. 10-year Treasury yield fell 7bps to 4.625% as oil prices slumped on Iran de-escalation. Semiconductor stocks led gains ahead of Nvidia's earnings Wednesday. Bloomberg's Markets Wrap notes Asian futures pointing higher Wednesday morning.",
-      "why": "美股整体上涨、债券收益率回落，为港股开盘提供正面外围；芯片股领涨有利英伟达财报行情炒作，关注今晚结果对亚太半导体板块的传导。",
+      "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+      "summary": "英伟达已通知客户，含Vera Rubin、Grace Blackwell芯片的AI服务器系统明年起提价逾15%，具体幅度依芯片世代及内存配置而异，主因是HBM等内存芯片成本上涨。",
+      "why": "延续报道：涨价传闻本周仍在发酵，将与今日盘后财报（FY2027 Q2）一并被市场消化；涨价影响AI基础设施采购成本，是理解英伟达毛利率走向和下游厂商（谷歌、微软、Meta）资本开支的关键背景。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "S&P 500",
-        "Nasdaq",
-        "宏观",
-        "macro",
-        "美股",
-        "半导体"
+        "英伟达",
+        "NVDA",
+        "Nvidia",
+        "Vera Rubin",
+        "Grace Blackwell",
+        "AI芯片",
+        "涨价",
+        "HBM",
+        "内存"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap",
-      "published_date": "2026-08-25",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+      "published_date": "2026-08-22",
+      "still_developing": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "46308dab79fa9b18",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "Temu-Owner PDD Shares Rise as Adjusted Profit Tops Estimates",
+      "summary": "拼多多发布Q2 2026业绩，调整后每ADS盈利19.33元，超过分析师预期18.51元，盘前股价上涨；高盛将Temu定性为进入\"变现期\"，视拼多多为增长新拐点已到来。",
+      "why": "PDD盈利超预期缓解市场对中国跨境电商增速放缓的担忧，有助提振中概股整体情绪；Temu变现能力若持续改善，将显著提升PDD长期盈利可见度。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "拼多多",
+        "PDD",
+        "Temu",
+        "跨境电商",
+        "季报",
+        "业绩",
+        "盈利"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/temu-owner-pdd-shares-rise-as-adjusted-profit-tops-estimates",
+      "published_date": "2026-08-24",
       "still_developing": false,
       "first_seen": "2026-08-26",
       "is_new": true
     },
     {
-      "id": "a6f514d3f5b92fea",
+      "id": "8cc2a662f3be3723",
       "tier": 2,
       "lang": "en",
       "markets": [
         "HK"
       ],
-      "time": "09:30",
+      "time": "07:30",
       "group": "个股",
-      "title": "A Preview in One Chart: Meituan's Q2 Earnings Report Due Aug 28; Stock Fell 5.6% on Aug 25",
-      "summary": "Meituan (3690.HK) Q2 2026 earnings are scheduled for August 28 after market close (HK time 7pm). Institutions expect revenue of ~93.8 billion yuan (+14% YoY), but profitability faces pressure from food delivery subsidy wars. The stock fell from HK$82.70 to HK$78.05 (-5.6%) on August 25, possibly reflecting pre-earnings caution.",
-      "why": "美团临近财报，股价提前大幅回调或已部分反映盈利压力；外卖补贴战短期压制利润但巩固市场份额长期价值不变；若财报后股价进一步下跌至支撑位，可考虑sell put策略；关注即时配送、到店业务增长数据。",
-      "source": "富途牛牛 (Futunn)",
-      "verified": false,
+      "title": "Laopu Gold Growth Slows as Bullion Slide Hits Luxury Demand",
+      "summary": "老铺黄金公布H1 2026业绩：营收同比增60%至198亿元、净利同比增88%至42.7亿元，均低于分析师预期（营收约209亿元、净利约50亿元），增速较上年同期（营收+251%、净利+超280%）大幅放缓。",
+      "why": "增速放缓叠加金价高位回落，需重估老铺黄金高估值能否持续；作为港股消费奢侈品代表标的，H1低于预期对后续covered call行权价设定有参考意义。",
+      "source": "Bloomberg",
+      "verified": true,
       "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "外卖",
-        "即时零售"
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "业绩",
+        "H1",
+        "黄金",
+        "奢侈品",
+        "珠宝"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/en/post/61065774/a-preview-in-one-chart-meituan-s-q2-earnings-report",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/laopu-gold-s-growth-slows-as-bullion-slide-hits-luxury-demand",
       "published_date": "2026-08-25",
-      "still_developing": true,
+      "still_developing": false,
       "first_seen": "2026-08-26",
       "is_new": true
     },
@@ -1449,6 +1586,36 @@
       "first_seen": "2026-08-25 13:17"
     },
     {
+      "id": "9900ce7ff688f96c",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+      "summary": "Brent crude fell 3.9% to $88.58/bbl and WTI lost 3.1% to $82.36 on Tuesday as the U.S. pivoted from threatened military escalation to an economic-pressure campaign against Iran ('Operation Economic Outcast'). Sanctions were less aggressive than feared, with China not fully exempted, sending geopolitical risk premiums lower.",
+      "why": "油价单日暴跌直接压低通胀预期、推升美股，同时降低美联储年底加息概率，对持有消费与科技股的组合整体正面；能源板块若持有相关期权需注意波动率压缩。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "原油",
+        "伊朗",
+        "宏观",
+        "macro",
+        "WTI",
+        "Brent",
+        "地缘"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+      "published_date": "2026-08-25",
+      "still_developing": false,
+      "first_seen": "2026-08-26",
+      "is_new": false
+    },
+    {
       "id": "d4686bf9a5f2f13e",
       "tier": 1,
       "lang": "en",
@@ -2601,6 +2768,63 @@
       "id": "4dea23b3e9e7ae91",
       "is_new": false,
       "first_seen": "2026-08-25 13:17"
+    },
+    {
+      "id": "95e577357eaa7f4e",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:15",
+      "group": "大盘头条",
+      "title": "S&P 500 +0.32%, Nasdaq +0.66% on Aug 25 as yields fall; Asian stocks set to extend gains",
+      "summary": "S&P 500 closed at 7,677.28 (+0.32%), Nasdaq +0.66%, Dow +0.3% on Tuesday. 10-year Treasury yield fell 7bps to 4.625% as oil prices slumped on Iran de-escalation. Semiconductor stocks led gains ahead of Nvidia's earnings Wednesday. Bloomberg's Markets Wrap notes Asian futures pointing higher Wednesday morning.",
+      "why": "美股整体上涨、债券收益率回落，为港股开盘提供正面外围；芯片股领涨有利英伟达财报行情炒作，关注今晚结果对亚太半导体板块的传导。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "Nasdaq",
+        "宏观",
+        "macro",
+        "美股",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap",
+      "published_date": "2026-08-25",
+      "still_developing": false,
+      "first_seen": "2026-08-26",
+      "is_new": false
+    },
+    {
+      "id": "a6f514d3f5b92fea",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "A Preview in One Chart: Meituan's Q2 Earnings Report Due Aug 28; Stock Fell 5.6% on Aug 25",
+      "summary": "Meituan (3690.HK) Q2 2026 earnings are scheduled for August 28 after market close (HK time 7pm). Institutions expect revenue of ~93.8 billion yuan (+14% YoY), but profitability faces pressure from food delivery subsidy wars. The stock fell from HK$82.70 to HK$78.05 (-5.6%) on August 25, possibly reflecting pre-earnings caution.",
+      "why": "美团临近财报，股价提前大幅回调或已部分反映盈利压力；外卖补贴战短期压制利润但巩固市场份额长期价值不变；若财报后股价进一步下跌至支撑位，可考虑sell put策略；关注即时配送、到店业务增长数据。",
+      "source": "富途牛牛 (Futunn)",
+      "verified": false,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "外卖",
+        "即时零售"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/61065774/a-preview-in-one-chart-meituan-s-q2-earnings-report",
+      "published_date": "2026-08-25",
+      "still_developing": true,
+      "first_seen": "2026-08-26",
+      "is_new": false
     },
     {
       "id": "9a03a3f3a8241503",
