@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-26 08:24 (北京时间)",
+  "updated_at": "2026-08-26 13:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,76 +9,95 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-26 08:24 (北京时间)",
-    "new_count": 2,
+    "at": "2026-08-26 13:19 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "d4686bf9a5f2f13e",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "US Stocks Fall as Traders Prep for Nvidia Earnings, Jackson Hole",
-      "summary": "US stocks fell Monday as investors positioned ahead of a pivotal week: Nvidia Q2 earnings (Aug 26, consensus revenue +97% YoY), Fed Chair Warsh's first Jackson Hole speech (Aug 28), and a PCE inflation reading. Alibaba dropped 9.1% in Hong Kong after announcing HK$80B share placement, dragging Hang Seng Tech Index down 3.6%. Chip stocks AMD and Micron rose 4.9% and 2.5% respectively Tuesday as semiconductor sentiment improved.",
-      "why": "Bloomberg对本周市场全景综述：英伟达+Jackson Hole+PCE三重催化剂叠加，全球风险资产均受影响；阿里配售拖累恒生科技已造成港股波动，本周末Warsh发言将为美股定向。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro",
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "阿里巴巴",
-        "Alibaba",
-        "Federal Reserve",
-        "Jackson Hole",
-        "Hang Seng"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
-      "published_date": "2026-08-24",
-      "still_developing": true,
-      "first_seen": "2026-08-26",
-      "is_new": true
-    },
-    {
-      "id": "0817195b6777e07e",
+      "id": "9900ce7ff688f96c",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "09:00",
+      "time": "07:30",
       "group": "大盘头条",
-      "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
-      "summary": "Aug 26 market open: stock futures flat as markets await Nvidia Q2 results (after close) and PCE inflation data. Yesterday (Aug 25): S&P 500 +0.32% to 7,677, Nasdaq +0.66% to 26,151; 10-year Treasury yield -7bp to 4.625%; Bitcoin crossed $80,000; AMD +4.9%, Micron +2.5% on AI optimism ahead of Nvidia. Dick's Sporting Goods plunged 30% on weak results.",
-      "why": "今日（8月26日）市场开盘数据：美股期货平稳，英伟达收盘后财报、PCE通胀数据为两大风险点；昨日半导体板块领涨、美债收益率下行，为sell put仓位提供短线支撑。",
+      "title": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+      "summary": "Brent crude fell 3.9% to $88.58/bbl and WTI lost 3.1% to $82.36 on Tuesday as the U.S. pivoted from threatened military escalation to an economic-pressure campaign against Iran ('Operation Economic Outcast'). Sanctions were less aggressive than feared, with China not fully exempted, sending geopolitical risk premiums lower.",
+      "why": "油价单日暴跌直接压低通胀预期、推升美股，同时降低美联储年底加息概率，对持有消费与科技股的组合整体正面；能源板块若持有相关期权需注意波动率压缩。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
+        "原油",
+        "伊朗",
         "宏观",
         "macro",
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI芯片",
-        "Federal Reserve",
-        "PCE",
-        "美光",
-        "Micron",
-        "Bitcoin"
+        "WTI",
+        "Brent",
+        "地缘"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
-      "published_date": "2026-08-26",
+      "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+      "published_date": "2026-08-25",
+      "still_developing": false,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "95e577357eaa7f4e",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:15",
+      "group": "大盘头条",
+      "title": "S&P 500 +0.32%, Nasdaq +0.66% on Aug 25 as yields fall; Asian stocks set to extend gains",
+      "summary": "S&P 500 closed at 7,677.28 (+0.32%), Nasdaq +0.66%, Dow +0.3% on Tuesday. 10-year Treasury yield fell 7bps to 4.625% as oil prices slumped on Iran de-escalation. Semiconductor stocks led gains ahead of Nvidia's earnings Wednesday. Bloomberg's Markets Wrap notes Asian futures pointing higher Wednesday morning.",
+      "why": "美股整体上涨、债券收益率回落，为港股开盘提供正面外围；芯片股领涨有利英伟达财报行情炒作，关注今晚结果对亚太半导体板块的传导。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "Nasdaq",
+        "宏观",
+        "macro",
+        "美股",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap",
+      "published_date": "2026-08-25",
+      "still_developing": false,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "a6f514d3f5b92fea",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "A Preview in One Chart: Meituan's Q2 Earnings Report Due Aug 28; Stock Fell 5.6% on Aug 25",
+      "summary": "Meituan (3690.HK) Q2 2026 earnings are scheduled for August 28 after market close (HK time 7pm). Institutions expect revenue of ~93.8 billion yuan (+14% YoY), but profitability faces pressure from food delivery subsidy wars. The stock fell from HK$82.70 to HK$78.05 (-5.6%) on August 25, possibly reflecting pre-earnings caution.",
+      "why": "美团临近财报，股价提前大幅回调或已部分反映盈利压力；外卖补贴战短期压制利润但巩固市场份额长期价值不变；若财报后股价进一步下跌至支撑位，可考虑sell put策略；关注即时配送、到店业务增长数据。",
+      "source": "富途牛牛 (Futunn)",
+      "verified": false,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "外卖",
+        "即时零售"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/61065774/a-preview-in-one-chart-meituan-s-q2-earnings-report",
+      "published_date": "2026-08-25",
       "still_developing": true,
       "first_seen": "2026-08-26",
       "is_new": true
@@ -1428,6 +1447,74 @@
       "id": "5b9bd3cc00bd0f47",
       "is_new": false,
       "first_seen": "2026-08-25 13:17"
+    },
+    {
+      "id": "d4686bf9a5f2f13e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "US Stocks Fall as Traders Prep for Nvidia Earnings, Jackson Hole",
+      "summary": "US stocks fell Monday as investors positioned ahead of a pivotal week: Nvidia Q2 earnings (Aug 26, consensus revenue +97% YoY), Fed Chair Warsh's first Jackson Hole speech (Aug 28), and a PCE inflation reading. Alibaba dropped 9.1% in Hong Kong after announcing HK$80B share placement, dragging Hang Seng Tech Index down 3.6%. Chip stocks AMD and Micron rose 4.9% and 2.5% respectively Tuesday as semiconductor sentiment improved.",
+      "why": "Bloomberg对本周市场全景综述：英伟达+Jackson Hole+PCE三重催化剂叠加，全球风险资产均受影响；阿里配售拖累恒生科技已造成港股波动，本周末Warsh发言将为美股定向。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro",
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "阿里巴巴",
+        "Alibaba",
+        "Federal Reserve",
+        "Jackson Hole",
+        "Hang Seng"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
+      "published_date": "2026-08-24",
+      "still_developing": true,
+      "first_seen": "2026-08-26",
+      "is_new": false
+    },
+    {
+      "id": "0817195b6777e07e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
+      "summary": "Aug 26 market open: stock futures flat as markets await Nvidia Q2 results (after close) and PCE inflation data. Yesterday (Aug 25): S&P 500 +0.32% to 7,677, Nasdaq +0.66% to 26,151; 10-year Treasury yield -7bp to 4.625%; Bitcoin crossed $80,000; AMD +4.9%, Micron +2.5% on AI optimism ahead of Nvidia. Dick's Sporting Goods plunged 30% on weak results.",
+      "why": "今日（8月26日）市场开盘数据：美股期货平稳，英伟达收盘后财报、PCE通胀数据为两大风险点；昨日半导体板块领涨、美债收益率下行，为sell put仓位提供短线支撑。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro",
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "Federal Reserve",
+        "PCE",
+        "美光",
+        "Micron",
+        "Bitcoin"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+      "published_date": "2026-08-26",
+      "still_developing": true,
+      "first_seen": "2026-08-26",
+      "is_new": false
     },
     {
       "id": "0aaee1fb4eba761c",
