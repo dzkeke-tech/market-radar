@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-25 18:27 (北京时间)",
+  "updated_at": "2026-08-26 08:24 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,194 +9,48 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-25 18:27 (北京时间)",
-    "new_count": 4,
+    "at": "2026-08-26 08:24 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "749985c45342d6d6",
-      "tier": 1,
-      "group": "大盘头条",
-      "title": "A股8月25日收盘：沪指跌0.15%，科技板块承压，农业旅游板块走强",
-      "summary": "沪指收报3876.38点，跌0.15%；深成指跌0.78%；创业板指跌1.43%；科创综指跌1.01%。农业、旅游/消费板块领涨，科技、半导体等板块下跌。",
-      "why": "A股2026年8月25日（周二）全天收盘数据，反映市场整体风险偏好，科技方向与组合标的（小米、英伟达供应链）走势相关。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-08-25/doc-inipnuhw1673679.shtml",
-      "published_date": "2026-08-25",
-      "markets": [
-        "A"
-      ],
-      "keywords": [
-        "A股",
-        "大盘",
-        "收盘",
-        "沪指",
-        "创业板"
-      ],
-      "verified": false,
-      "still_developing": false,
-      "translated": false,
-      "lang": "zh",
-      "time": "18:27",
-      "first_seen": "2026-08-25",
-      "is_new": true
-    },
-    {
-      "id": "37829820f4726a22",
-      "tier": 1,
-      "group": "大盘头条",
-      "title": "美加贸易谈判破裂：美对约280亿美元加拿大商品加征50%关税，加拿大宣布9月8日反制",
-      "summary": "美加贸易谈判正式破裂，美国对价值约280亿美元的加拿大商品立即征收50%关税，加拿大政府宣布将于2026年9月8日实施对等报复措施。",
-      "why": "美加贸易关系急剧恶化是当前宏观尾部风险，可能推高北美通胀预期并波及全球供应链，影响组合中消费/科技标的的成本端及全球市场情绪。",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
-      "published_date": "2026-08-22",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "keywords": [
-        "宏观",
-        "贸易战",
-        "美加关税",
-        "macro",
-        "通胀",
-        "供应链"
-      ],
-      "verified": true,
-      "still_developing": true,
-      "why_still_developing": "美加关税于谈判破裂后即时生效（8月22日），加拿大反制措施将于9月8日落地，局势仍在发酵，距今3天（2026-08-25），符合still_developing条件。",
-      "translated": false,
-      "lang": "zh",
-      "time": "18:27",
-      "first_seen": "2026-08-25",
-      "is_new": true
-    },
-    {
-      "id": "40ce795ab6f300f3",
-      "tier": 1,
-      "group": "大盘头条",
-      "title": "美国30年期国债收益率逼近5.3%：近19年高位，长债抛压持续",
-      "summary": "美国30年期国债收益率逼近5.3%，为近19年来最高水平，通胀预期持续升温叠加供给压力，长端利率走高令估值压力向权益市场传导。",
-      "why": "长端利率飙升是全球风险资产的核心压制因子，直接影响组合中高估值科技标的（英伟达、谷歌、Palantir等）的折现率，以及sell put策略隐含波动率与行权价参考。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-      "published_date": "2026-08-21",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "keywords": [
-        "宏观",
-        "美债",
-        "利率",
-        "30年期国债",
-        "通胀",
-        "macro"
-      ],
-      "verified": false,
-      "still_developing": true,
-      "why_still_developing": "30年期美债收益率自8月21日触及5.3%近19年高位以来，市场持续关注利率走势，截至8月25日（距今4天）仍在发酵，符合不超过5天的例外条件。",
-      "translated": false,
-      "lang": "zh",
-      "time": "18:27",
-      "first_seen": "2026-08-25",
-      "is_new": true
-    },
-    {
-      "id": "041a65dd5f26b16e",
-      "tier": 2,
-      "group": "英伟达",
-      "title": "英伟达 Groq 3 LPX 正式量产：Gemma 4 31B 推理速度达 3,400 tokens/秒，Nebius Group 为首批客户",
-      "summary": "英伟达官方宣布 Groq 3 LPX 处理器进入全面量产阶段，在 Gemma 4 31B 模型上实现 3,400 tokens/秒的推理速度，为专项代理AI（Agentic AI）工作负载而优化。Nebius Group 为首批客户，产品线进一步扩展 Vera Rubin 架构。",
-      "why": "英伟达官方新品量产公告，直接涉及 NVDA 产品路线图与 AI 推理市场竞争力，是核心持仓标的重要催化剂。",
-      "source": "NVIDIA 官方新闻室（investor.nvidia.com）",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
-      "published_date": "2026-08-25",
-      "markets": [
-        "US"
-      ],
-      "keywords": [
-        "英伟达",
-        "NVDA",
-        "Groq",
-        "AI芯片",
-        "量产",
-        "Vera Rubin",
-        "Agentic AI"
-      ],
-      "verified": true,
-      "still_developing": false,
-      "translated": false,
-      "lang": "zh",
-      "time": "18:27",
-      "first_seen": "2026-08-25",
-      "is_new": true
-    },
-    {
-      "id": "4e96c7112b35c34e",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "group": "个股",
-      "title": "百度Q2 2026财报：营收47.1亿美元超预期，EPS双双击败分析师一致预期",
-      "summary": "百度于2026年8月18日美股盘前公布二季度业绩：营收47.1亿美元，高于47.4亿美元预期约2.76%；调整后EPS亦超出预期约5%（约0.2215美元 vs 预期0.2109美元）。BIDU盘前上涨约2.32%。",
-      "why": "百度Q2双超预期，核心广告+AI云业务持续修复；若业绩拐点确立，对sell put百度/中国AI板块提供情绪与估值双支撑。需关注具体AI收入占比和指引数据验证。",
-      "source": "Baidu IR / SEC EDGAR 6-K",
-      "verified": false,
-      "keywords": [
-        "百度",
-        "Baidu",
-        "BIDU",
-        "季报",
-        "AI",
-        "云"
-      ],
-      "translated": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526326771/d173235dex991.htm",
-      "published_date": "2026-08-18",
-      "still_developing": false,
-      "time": "08:00",
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "37d4d365a4cba89f",
+      "id": "d4686bf9a5f2f13e",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
+        "US",
+        "HK"
       ],
-      "time": "16:00",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "U.S. Stocks Slip, VIX Surges 6.6%, Gold Hits Record $4,398 as Iran Tensions Lift Oil",
-      "summary": "S&P 500 fell 0.52% to 7,745; Nasdaq off 0.32%; VIX jumped 6.6% to 15.19. Spot gold rose 0.51% to $4,398/oz; WTI crude +0.6% to $85/bbl after Trump rejected extending the Iran agreement and fighting resumed in Lebanon. Dollar index eased 0.11% to 99.56; Fed expected to hold at 3.50-3.75% with next FOMC on Sept 16.",
-      "why": "VIX升破15，期权隐含波动率回升，sell-put策略溢价扩大；黄金创新高对老铺黄金类持仓情绪形成支撑；油价上行叠加地缘风险压制市场情绪，注意持仓整体delta风险。",
+      "title": "US Stocks Fall as Traders Prep for Nvidia Earnings, Jackson Hole",
+      "summary": "US stocks fell Monday as investors positioned ahead of a pivotal week: Nvidia Q2 earnings (Aug 26, consensus revenue +97% YoY), Fed Chair Warsh's first Jackson Hole speech (Aug 28), and a PCE inflation reading. Alibaba dropped 9.1% in Hong Kong after announcing HK$80B share placement, dragging Hang Seng Tech Index down 3.6%. Chip stocks AMD and Micron rose 4.9% and 2.5% respectively Tuesday as semiconductor sentiment improved.",
+      "why": "Bloomberg对本周市场全景综述：英伟达+Jackson Hole+PCE三重催化剂叠加，全球风险资产均受影响；阿里配售拖累恒生科技已造成港股波动，本周末Warsh发言将为美股定向。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "S&P 500",
-        "VIX",
-        "Gold",
-        "WTI",
-        "Iran",
-        "Fed",
-        "FOMC"
+        "宏观",
+        "macro",
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "阿里巴巴",
+        "Alibaba",
+        "Federal Reserve",
+        "Jackson Hole",
+        "Hang Seng"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
-      "published_date": "2026-08-17",
-      "still_developing": false,
-      "first_seen": "2026-08-18",
-      "is_new": false
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
+      "published_date": "2026-08-24",
+      "still_developing": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
     },
     {
-      "id": "657b28b24473d483",
+      "id": "0817195b6777e07e",
       "tier": 1,
       "lang": "en",
       "markets": [
@@ -204,212 +58,30 @@
       ],
       "time": "09:00",
       "group": "大盘头条",
-      "title": "Goldman Sachs Bitcoin ETF Acquisition Advances: NEOS Files Proxy Supplement with SEC on Aug 17 for $2.25B Deal",
-      "summary": "NEOS ETF Trust filed a DEFA14A proxy statement supplement with the SEC on Aug 17, advancing shareholder approval of Goldman Sachs's $2.25B acquisition of NEOS Investments, which manages $30B across 19 options-based income ETFs including Bitcoin income ETF BTCI and Ethereum income ETF NEHI. Combined Goldman active ETF AUM to reach ~$80B. Deal expected to close Q1 2027 pending regulatory approval.",
-      "why": "延续报道：高盛8月12日宣布收购NEOS，8月17日完成SEC代理声明备案，股东审批流程正式推进；华尔街顶级券商全面进军加密收益产品，对Circle及稳定币赛道形成机构背书，加密ETF生态持续扩容。",
-      "source": "SEC EDGAR",
+      "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
+      "summary": "Aug 26 market open: stock futures flat as markets await Nvidia Q2 results (after close) and PCE inflation data. Yesterday (Aug 25): S&P 500 +0.32% to 7,677, Nasdaq +0.66% to 26,151; 10-year Treasury yield -7bp to 4.625%; Bitcoin crossed $80,000; AMD +4.9%, Micron +2.5% on AI optimism ahead of Nvidia. Dick's Sporting Goods plunged 30% on weak results.",
+      "why": "今日（8月26日）市场开盘数据：美股期货平稳，英伟达收盘后财报、PCE通胀数据为两大风险点；昨日半导体板块领涨、美债收益率下行，为sell put仓位提供短线支撑。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "Goldman Sachs",
-        "NEOS",
-        "Bitcoin ETF",
-        "BTCI",
-        "crypto",
-        "Circle",
-        "CRCL"
-      ],
-      "translated": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/0001848758/000199937126018077/neos-defa14a_081726.htm",
-      "published_date": "2026-08-17",
-      "still_developing": true,
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "95ff69f530bc6715",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "A",
-        "US"
-      ],
-      "time": "2026-08-17T00:00:00Z",
-      "group": "大盘头条",
-      "title": "China's July economy 'weakens across the board': retail, output, investment all miss — Bloomberg",
-      "summary": "China's July NBS economic data missed consensus across the board: retail sales, industrial output, and fixed-asset investment all came in below estimates. Bloomberg described the result as the economy 'extending slowdown by weakening across the board,' reinforcing concerns about domestic demand and raising expectations for further stimulus.",
-      "why": "中国7月经济数据全线低于预期，彭博汇总NBS数据显示零售、工业产出、固定资产投资三项核心指标均不及市场预期，内需走弱趋势延续。直接压制港股（腾讯、美团、阿里等）及A股情绪，市场对进一步刺激政策预期升温。Bloomberg 2026-08-17发布（距今1天），与8月15日路透已收录的初步数据形成延伸报道，仍在发酵中。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "中国经济",
-        "零售销售",
-        "工业产出",
-        "固定资产投资",
         "宏观",
         "macro",
-        "China",
-        "NBS"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board",
-      "published_date": "2026-08-17",
-      "still_developing": true,
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "4705c04c00822a84",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-17T00:00:00Z",
-      "group": "大盘头条",
-      "title": "30-year Treasury yield hits 5.31%, highest in 19 years, as markets await FOMC July minutes Aug 19",
-      "summary": "The 30-year US Treasury yield climbed to 5.31%, its highest level in 19 years, as investors position ahead of the FOMC July 28–29 meeting minutes releasing August 19 at 2 pm ET. The July meeting held rates at 3.50–3.75% on a 9-3 vote, with three dissenters (Hammack/Cleveland, Kashkari/Minneapolis, Logan/Dallas) favoring a 25 bp hike. Minutes expected to reveal depth of internal debate over the September path.",
-      "why": "30年美债收益率升至5.31%（19年新高），市场正为8月19日FOMC 7月会议纪要做预案——该次会议9-3维持利率3.50-3.75%，3票异议倾向加息。纪要将揭示9月行动的争议程度，对科技股估值压制及美股整体定价影响直接。长债收益率创新高也进一步削弱成长股估值。CNBC 2026-08-17发布。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "美债收益率",
-        "国债",
-        "FOMC",
-        "利率",
-        "联储",
-        "Fed",
-        "货币政策",
-        "Treasuries"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
-      "published_date": "2026-08-17",
-      "still_developing": true,
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "4312b6f0f68ccc26",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-17T00:00:00Z",
-      "group": "大盘头条",
-      "title": "Oil near $89/bbl as Hormuz shipping falls to war-time lows; IEA warns deepest supply deficit in 5 years",
-      "summary": "Brent crude rose to ~$89.19/bbl (WTI ~$82.85) as tanker traffic through the Strait of Hormuz dropped to war-time lows, with as few as 5 vessels transiting on a recent weekend versus ~130 pre-conflict. The IEA warned the market faces its deepest supply deficit in five years. The stalemate shows no near-term resolution.",
-      "why": "霍尔木兹海峡油轮通行量跌至战时低点（近期某周末仅约5艘 vs 战前约130艘），国际能源署警告5年最深供给缺口，布伦特油价升至89美元附近。油价走高对全球通胀预期和美联储政策路径形成新压力，并影响能源相关标的定价。CNBC 2026-08-17发布。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "油价",
-        "霍尔木兹",
-        "Hormuz",
-        "原油",
-        "Brent",
-        "WTI",
-        "IEA",
-        "地缘政治"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/17/oil-prices-today-brent-wti-hormuz.html",
-      "published_date": "2026-08-17",
-      "still_developing": true,
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "27c3048e780f4446",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "group": "个股",
-      "title": "Alibaba releases Qwen 3.8-27B, a laptop-optimized open-weight AI model matching performance of models 10x its size",
-      "summary": "Alibaba Cloud introduced Qwen 3.8-27B on August 17, an open-weight model optimized for software engineering, reasoning and agentic tasks on edge devices. The model competes directly with Meta's Llama and claims performance matching models 10x its parameter count. This comes days before Alibaba's Q2 2026 earnings on August 20, where investors will focus on cloud AI revenue growth (Cloud Intelligence +38% YoY, AI = 30% of external cloud sales).",
-      "why": "阿里巴巴Qwen持续扩大开源生态，距8月20日财报发布仅2天；云AI业务若维持38%+增速将大幅提振估值。Susquehanna将目标价上调至185美元、Barclays至195美元，但BABA已连续4个季度EPS未达预期，需关注下行风险。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "BABA",
-        "9988.HK",
-        "Qwen",
-        "通义千问",
-        "AI",
-        "阿里云"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
-      "published_date": "2026-08-17",
-      "still_developing": false,
-      "time": "08:00",
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "d21cc5c811c6b2b3",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "group": "大盘头条",
-      "title": "Memory stocks surge as Trump admin opposes Apple buying Chinese chips",
-      "summary": "U.S. Commerce Secretary Howard Lutnick told the WSJ that the Trump administration opposes Apple from sourcing Chinese memory chips, sending domestic memory chipmakers sharply higher in premarket trading. SanDisk jumped nearly 5%, while Micron and SK Hynix gained 3-4%+.",
-      "why": "美国行政压制中国存储芯片进入苹果供应链，直接提振Micron（MU）、SanDisk（SNDK）、SK Hynix市值，对持有这三家公司put期权的投资者而言隐含波动率可能继续走高；亦是产业政策长期重塑存储版图的信号。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "Federal Reserve",
+        "PCE",
+        "美光",
         "Micron",
-        "SK Hynix",
-        "SanDisk",
-        "memory",
-        "HBM",
-        "存储芯片"
+        "Bitcoin"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/17/stocks-making-the-biggest-moves-premarket-baba-intc-sndk.html",
-      "published_date": "2026-08-17",
-      "still_developing": false,
-      "time": "08:00",
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "3fb96374717a6955",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "group": "大盘头条",
-      "title": "S&P 500 clears 7,800 for first time, driven by cool inflation and AI chip rally",
-      "summary": "The S&P 500 crossed 7,800 for the first time in market history, logging its 27th record close of 2026 at 7,798.99 on August 13, then pushing further on August 16-17. The rally was fueled by July CPI (3.4% annual, +0.1% m/m) and PPI data coming in below estimates, fading Fed rate-hike bets, and strength in AI chip stocks.",
-      "why": "大盘再创历史新高、通胀继续降温，市场对美联储9月按兵不动的概率约67%，整体risk-on情绪有利于持有的消费/科技多头仓位；低IV环境下sell put性价比回升，需关注是否出现短期过热回调。",
-      "source": "HNGN / intellectia.ai",
-      "verified": false,
-      "keywords": [
-        "S&P 500",
-        "record high",
-        "inflation",
-        "CPI",
-        "Fed",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.hngn.com/articles/272779/20260816/sp-500-clears-7800-first-time-cool-inflation-data-fuels-record-breaking-rally.htm",
-      "published_date": "2026-08-16",
+      "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+      "published_date": "2026-08-26",
       "still_developing": true,
-      "time": "08:00",
-      "first_seen": "2026-08-18",
-      "is_new": false
+      "first_seen": "2026-08-26",
+      "is_new": true
     },
     {
       "id": "ac5704b135199844",
@@ -1579,6 +1251,96 @@
       "is_new": false
     },
     {
+      "id": "749985c45342d6d6",
+      "tier": 1,
+      "group": "大盘头条",
+      "title": "A股8月25日收盘：沪指跌0.15%，科技板块承压，农业旅游板块走强",
+      "summary": "沪指收报3876.38点，跌0.15%；深成指跌0.78%；创业板指跌1.43%；科创综指跌1.01%。农业、旅游/消费板块领涨，科技、半导体等板块下跌。",
+      "why": "A股2026年8月25日（周二）全天收盘数据，反映市场整体风险偏好，科技方向与组合标的（小米、英伟达供应链）走势相关。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-08-25/doc-inipnuhw1673679.shtml",
+      "published_date": "2026-08-25",
+      "markets": [
+        "A"
+      ],
+      "keywords": [
+        "A股",
+        "大盘",
+        "收盘",
+        "沪指",
+        "创业板"
+      ],
+      "verified": false,
+      "still_developing": false,
+      "translated": false,
+      "lang": "zh",
+      "time": "18:27",
+      "first_seen": "2026-08-25",
+      "is_new": false
+    },
+    {
+      "id": "37829820f4726a22",
+      "tier": 1,
+      "group": "大盘头条",
+      "title": "美加贸易谈判破裂：美对约280亿美元加拿大商品加征50%关税，加拿大宣布9月8日反制",
+      "summary": "美加贸易谈判正式破裂，美国对价值约280亿美元的加拿大商品立即征收50%关税，加拿大政府宣布将于2026年9月8日实施对等报复措施。",
+      "why": "美加贸易关系急剧恶化是当前宏观尾部风险，可能推高北美通胀预期并波及全球供应链，影响组合中消费/科技标的的成本端及全球市场情绪。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
+      "published_date": "2026-08-22",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "keywords": [
+        "宏观",
+        "贸易战",
+        "美加关税",
+        "macro",
+        "通胀",
+        "供应链"
+      ],
+      "verified": true,
+      "still_developing": true,
+      "why_still_developing": "美加关税于谈判破裂后即时生效（8月22日），加拿大反制措施将于9月8日落地，局势仍在发酵，距今3天（2026-08-25），符合still_developing条件。",
+      "translated": false,
+      "lang": "zh",
+      "time": "18:27",
+      "first_seen": "2026-08-25",
+      "is_new": false
+    },
+    {
+      "id": "40ce795ab6f300f3",
+      "tier": 1,
+      "group": "大盘头条",
+      "title": "美国30年期国债收益率逼近5.3%：近19年高位，长债抛压持续",
+      "summary": "美国30年期国债收益率逼近5.3%，为近19年来最高水平，通胀预期持续升温叠加供给压力，长端利率走高令估值压力向权益市场传导。",
+      "why": "长端利率飙升是全球风险资产的核心压制因子，直接影响组合中高估值科技标的（英伟达、谷歌、Palantir等）的折现率，以及sell put策略隐含波动率与行权价参考。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+      "published_date": "2026-08-21",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "keywords": [
+        "宏观",
+        "美债",
+        "利率",
+        "30年期国债",
+        "通胀",
+        "macro"
+      ],
+      "verified": false,
+      "still_developing": true,
+      "why_still_developing": "30年期美债收益率自8月21日触及5.3%近19年高位以来，市场持续关注利率走势，截至8月25日（距今4天）仍在发酵，符合不超过5天的例外条件。",
+      "translated": false,
+      "lang": "zh",
+      "time": "18:27",
+      "first_seen": "2026-08-25",
+      "is_new": false
+    },
+    {
       "id": "f07b026f00364b04",
       "tier": 1,
       "lang": "zh",
@@ -1666,157 +1428,6 @@
       "id": "5b9bd3cc00bd0f47",
       "is_new": false,
       "first_seen": "2026-08-25 13:17"
-    },
-    {
-      "id": "9fe604c012aa1174",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "小米汽车：SU7系列28.5个月累计交付突破50万台，雷军回应里程碑，8月预计交付约3.4万辆",
-      "summary": "SU7系列自2024年3月上市起历时28.5个月完成50万台累计交付，雷军第一时间发布回应。7月SU7交付21,044辆（连续4月居20万元以上轿车销量第一），YU7交付10,223辆；德意志银行预期8月交付约3.4万辆，全年目标55万辆。YU7等候时间约56周。",
-      "why": "50万台里程碑强化小米汽车品牌势能与出货可视性；YU7等候56周意味着订单积压充足，支撑1810.HK中期估值；里程碑事件对雷军社交媒体流量具有品牌破圈效应。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "1810.HK",
-        "SU7",
-        "YU7",
-        "小米汽车",
-        "雷军",
-        "交付量",
-        "EV"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininqxur7057787.shtml",
-      "published_date": "2026-08-17",
-      "still_developing": false,
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "1d4c54429dda1292",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-17T00:00:00Z",
-      "group": "个股",
-      "title": "Nvidia stock 'coming alive': 3 catalysts heading into Aug 26 Q2 earnings — hyperscaler capex, Vera Rubin ramp, inference demand",
-      "summary": "CNBC identified three reasons Nvidia's rally can continue ahead of Q2 FY2027 earnings on August 26: (1) accelerating hyperscaler data center capex; (2) Vera Rubin GPU platform beginning to ramp; (3) AI inference demand sustaining purchase cycles beyond training. Street consensus for Q2 revenue is ~$91.8B (+96% YoY).",
-      "why": "英伟达股价近期走强，CNBC 8月17日梳理三大持续催化剂：超大型云厂商数据中心资本开支加速、Vera Rubin平台量产爬坡、AI推理需求支撑持续采购。Q2财报定于8月26日，共识预期收入918亿美元(YoY+96%)。本文角度(三大催化剂分析)与已收录的8月16日CNBC(ddaa9fd457398802)所述'两大催化剂'(英伟达+Jackson Hole)不同，互补而非重复。CNBC 2026-08-17发布。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "$NVDA",
-        "英伟达",
-        "Nvidia",
-        "GPU",
-        "AI芯片",
-        "数据中心",
-        "Vera Rubin",
-        "Q2财报"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html",
-      "published_date": "2026-08-17",
-      "still_developing": false,
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "fd95e41fa5562a5c",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "group": "大盘头条",
-      "title": "Chinese yuan hovers near 3.5-year high at 6.74/dollar, PBOC holds supportive stance",
-      "summary": "The yuan last traded at 6.7411 per dollar on August 17, near the strongest level since February 2023. PBOC set the midpoint at 6.7873, its most supportive fixing in 3.5 years. The dollar's weakness stems from fading U.S. rate-hike bets (September hold ~67% probability) and positive U.S.-China trade dynamics. The central bank injected 565.5B yuan via overnight reverse repos.",
-      "why": "人民币升值对港股中概互联是显著利好，降低了外资持有成本，改善估值吸引力；同时人行持续注入流动性、货币政策保持宽松，有利于下半年消费和科技板块基本面修复。",
-      "source": "Reuters (via Business Recorder)",
-      "verified": false,
-      "keywords": [
-        "yuan",
-        "人民币",
-        "PBOC",
-        "人民银行",
-        "货币政策",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.brecorder.com/news/40435166/yuan-hovers-near-3-12-year-peak-ahead-of-economic-data",
-      "published_date": "2026-08-17",
-      "still_developing": false,
-      "time": "08:00",
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "ea8745d4a4069be1",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "group": "大盘头条",
-      "title": "Gold ticks up near $4,400/oz on lower U.S. retail sales, fading rate-hike bets",
-      "summary": "Gold futures opened near $4,440 per troy ounce on Monday, August 17, with spot gold at approximately $4,384–$4,395/oz, up ~0.45% on the day. Lower-than-expected U.S. retail sales data cooled rate-hike expectations, weakening the dollar and supporting bullion.",
-      "why": "金价维持高位直接支撑老铺黄金（6181.HK）等黄金珠宝股的资产价值与盈利能力；黄金近期走势与美元走弱、实际利率下行叠加，是sell put老铺黄金的利好背景。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "gold",
-        "黄金",
-        "金价",
-        "老铺黄金",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/amp/select/the-price-of-gold-today-august-17-2026/",
-      "published_date": "2026-08-17",
-      "still_developing": false,
-      "time": "08:00",
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "fb8bb3823b6559e5",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "group": "个股",
-      "title": "Tesla teases Flying Roadster with potential aerial capabilities, per The Information",
-      "summary": "The Information reported on August 15, 2026 that Tesla's redesigned Roadster may incorporate flying capabilities — described as Tesla 'teasing' a flying Roadster as labor issues are resolved. Separately, Tesla executives are also weighing options for its China business (spinoff/sale/closure) to facilitate a potential SpaceX merger, though Musk denied the report.",
-      "why": "特斯拉飞行Roadster属于品牌破圈级里程碑新闻，有助于提振Tesla科技/创新标签；中国业务剥离传言（已被马斯克否认）或造成短期不确定性，对持有TSLA put需关注潜在上行风险。",
-      "source": "The Information",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Roadster",
-        "马斯克",
-        "Musk",
-        "自动驾驶"
-      ],
-      "translated": false,
-      "url": "https://www.theinformation.com/",
-      "published_date": "2026-08-15",
-      "still_developing": true,
-      "time": "08:00",
-      "first_seen": "2026-08-18",
-      "is_new": false
     },
     {
       "id": "0aaee1fb4eba761c",
@@ -2779,6 +2390,36 @@
       "published_date": "2026-08-22",
       "still_developing": true,
       "first_seen": "2026-08-24",
+      "is_new": false
+    },
+    {
+      "id": "041a65dd5f26b16e",
+      "tier": 2,
+      "group": "英伟达",
+      "title": "英伟达 Groq 3 LPX 正式量产：Gemma 4 31B 推理速度达 3,400 tokens/秒，Nebius Group 为首批客户",
+      "summary": "英伟达官方宣布 Groq 3 LPX 处理器进入全面量产阶段，在 Gemma 4 31B 模型上实现 3,400 tokens/秒的推理速度，为专项代理AI（Agentic AI）工作负载而优化。Nebius Group 为首批客户，产品线进一步扩展 Vera Rubin 架构。",
+      "why": "英伟达官方新品量产公告，直接涉及 NVDA 产品路线图与 AI 推理市场竞争力，是核心持仓标的重要催化剂。",
+      "source": "NVIDIA 官方新闻室（investor.nvidia.com）",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+      "published_date": "2026-08-25",
+      "markets": [
+        "US"
+      ],
+      "keywords": [
+        "英伟达",
+        "NVDA",
+        "Groq",
+        "AI芯片",
+        "量产",
+        "Vera Rubin",
+        "Agentic AI"
+      ],
+      "verified": true,
+      "still_developing": false,
+      "translated": false,
+      "lang": "zh",
+      "time": "18:27",
+      "first_seen": "2026-08-25",
       "is_new": false
     },
     {
