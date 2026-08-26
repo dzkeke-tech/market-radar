@@ -14,4 +14,46 @@
     "degraded": 0,
     "input_missing": false
   },
-  "items": []}
+  "items": [
+    {
+      "id": "d4686bf9a5f2f13e",
+      "tier": 1,
+      "lang": "en",
+      "markets": ["US","HK"],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "US Stocks Fall as Traders Prep for Nvidia Earnings, Jackson Hole",
+      "summary": "US stocks fell Monday as investors positioned ahead of a pivotal week: Nvidia Q2 earnings (Aug 26, consensus revenue +97% YoY), Fed Chair Warsh's first Jackson Hole speech (Aug 28), and a PCE inflation reading. Alibaba dropped 9.1% in Hong Kong after announcing HK$80B share placement, dragging Hang Seng Tech Index down 3.6%. Chip stocks AMD and Micron rose 4.9% and 2.5% respectively Tuesday as semiconductor sentiment improved.",
+      "why": "Bloomberg对本周市场全景综述：英伟达+Jackson Hole+PCE三重催化剥叠加，全球风险资产均受影响；邘里配售拖累恒生科技已造成港股波动，本周末Warsh发言将为美股定向。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": ["宏观","macro","英伟达","Nvidia","NVDA","邘里巴巴","Alibaba","Federal Reserve","Jackson Hole","Hang Seng"],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
+      "published_date": "2026-08-24",
+      "still_developing": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "0817195b6777e07e",
+      "tier": 1,
+      "lang": "en",
+      "markets": ["US"],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
+      "summary": "Aug 26 market open: stock futures flat as markets await Nvidia Q2 results (after close) and PCE inflation data. Yesterday (Aug 25): S&P 500 +0.32% to 7,677, Nasdaq +0.66% to 26,151; 10-year Treasury yield -7bp to 4.625%; Bitcoin crossed $80,000; AMD +4.9%, Micron +2.5% on AI optimism ahead of Nvidia. Dick's Sporting Goods plunged 30% on weak results.",
+      "why": "今日（8月26日）市场开盘数据：美股期货平稳，英伟达收盘后财报、PCE通费数据为两大风险点；昨日半导体板块领涨、美倂收益率下行，为sell put仓位提供短线支撑。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": ["宏观","macro","英伟达","Nvidia","NVDA","AI芯片","Federal Reserve","PCE","美光","Micron","Bitcoin"],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+      "published_date": "2026-08-26",
+      "still_developing": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    }
+  ]
+}
