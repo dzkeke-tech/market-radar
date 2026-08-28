@@ -1,60 +1,8 @@
 [
   {
-    "id": "488d216098e2bc81",
+    "id": "828c621f16cae314",
     "tier": 1,
     "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "16:00",
-    "group": "大盘头条",
-    "title": "Stock market today Aug. 27: Nasdaq surges 1.4%, S&P 500 gains 0.7% as Nvidia earnings revive AI optimism",
-    "summary": "美股8月27日大幅反弹，纳指涨1.4%，S&P 500涨0.7%，道指涨约0.2%至53,564点。英伟达发布爆表Q2财报后单日飙涨8.74%，带动Salesforce(+21.5%)、IBM(+3.8%)等科技股全线上涨。麦当劳(-2.6%)、迪士尼(-2.6%)等传统消费股走弱。",
-    "why": "纳指+1.4%大涨确认AI基础设施投资周期未见顶；科技板块全面反弹对持有NVDA、GOOGL等美股仓位有直接正面影响。迪士尼DIS盘中-2.6%，持有DIS期权需关注。",
-    "source": "CNBC",
-    "verified": true,
-    "keywords": [
-      "纳斯达克",
-      "S&P 500",
-      "英伟达",
-      "美股"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
-    "published_date": "2026-08-27",
-    "still_developing": false
-  },
-  {
-    "id": "4ab92c726c6115f3",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "16:30",
-    "group": "个股",
-    "title": "NVIDIA Q2 FY2027: Revenue $96.2B (+106% YoY), Data Center $89B, Q3 guidance $108B above street",
-    "summary": "英伟达Q2 FY2027营收$96.22B（超预期$92.07B），同比增106%，环比增18%。数据中心营收$89B（同比+117%）。非GAAP EPS $2.22（超预期$2.09）。Q3指引$108B，超分析师预期，管理层表示Blackwell需求持续加速。股价次日+8.74%。",
-    "why": "英伟达Q3指引$108B远超预期说明Blackwell超额产能已被锁定。对 sell put NVDA 策略，财报后隐含波动率通常收窄；持续上行指引意味着后续 covered call 可适当提高行权价。AI算力超级周期延续对整体仓位正面。",
-    "source": "SEC EDGAR / Nvidia IR",
-    "verified": true,
-    "keywords": [
-      "英伟达",
-      "NVDA",
-      "Blackwell",
-      "AI芯片",
-      "数据中心",
-      "GPU"
-    ],
-    "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
-    "published_date": "2026-08-26",
-    "still_developing": false
-  },
-  {
-    "id": "8664baca752c58b9",
-    "tier": 1,
-    "lang": "zh",
     "markets": [
       "US",
       "HK",
@@ -62,78 +10,268 @@
     ],
     "time": "10:00",
     "group": "大盘头条",
-    "title": "联储新主席Warsh今日Jackson Hole发表首次主旨演讲，市场押注9月会议方向",
-    "summary": "美联储新任主席Kevin Warsh（2026年5月就任）今日（8/28）上午10时ET在杰克逊霍尔年会发表首次主旨演讲，主题为《金融创新：对支付与政策的影响》。当前通胀3.4%（高于2%目标），30年期美债收益率5.31%（2007年以来最高），市场定价9月16日FOMC会议约1/3概率加息。本次演讲是Warsh确立货币政策立场的关键首秀。",
-    "why": "Warsh演讲直接决定9月16日降息/加息/按兵不动预期，影响全市场波动率曲面；若鹰派偏紧，美元走强，港股/中概估值承压；若信号宽松，有利于持仓中成长科技股 sell put 策略的盈利空间。期权交易者需密切关注VIX和implied vol走向。",
-    "source": "Kansas City Fed官方 / Bloomberg",
-    "verified": false,
+    "title": "Fed Chair Warsh Makes Jackson Hole Debut; Markets Brace for Rate Signals",
+    "summary": "Kevin Warsh delivers his first keynote as Federal Reserve Chair at the Kansas City Fed's Jackson Hole symposium. Markets are watching for hints on rate policy ahead of the September 16 FOMC meeting. 30-year Treasury yields recently touched 5.31%, the highest since 2007.",
+    "why": "Warsh首次以美联储主席身份在杰克逊霍尔发言，将为9月FOMC定调。若释放鹰派信号，美债收益率进一步走高将压缩高估值科技股，并推高期权隐含波动率——影响sell-put策略的风险回报比。",
+    "source": "Bloomberg",
+    "verified": true,
     "keywords": [
-      "美联储",
-      "Warsh",
       "Jackson Hole",
-      "利率",
-      "货币政策",
-      "FOMC"
+      "Federal Reserve",
+      "Kevin Warsh",
+      "interest rate",
+      "宏观"
     ],
     "translated": false,
-    "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/stock-market-today-dow-s-p-live-updates",
     "published_date": "2026-08-28",
     "still_developing": true
   },
   {
-    "id": "fba27dc144098d42",
+    "id": "08318f9066c1fdab",
     "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "16:30",
+    "group": "大盘头条",
+    "title": "Nvidia Posts Record $96.2B Quarter, Up 106% YoY; Guides $108B Next Quarter",
+    "summary": "Nvidia reported Q2 FY2027 revenue of $96.2 billion, up 106% year-over-year, crushing analyst estimates. Data center revenue hit $89 billion versus consensus of $85.7 billion. Non-GAAP EPS of $2.22 beat estimates of $2.06–$2.09. The company guided Q3 at $108 billion and CEO Jensen Huang forecast ~70% FY2028 revenue growth.",
+    "why": "英伟达财报为整个AI产业链定调：数据中心收入超预期意味着SK海力士HBM需求持续旺盛；黄仁勋的FY28增长展望支撑当前估值，有助于稳定AI板块情绪，并对Blackwell/Rubin架构相关持仓形成正面催化。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "Nvidia",
+      "英伟达",
+      "NVDA",
+      "AI芯片",
+      "数据中心",
+      "GPU",
+      "Blackwell"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+    "published_date": "2026-08-26",
+    "still_developing": false
+  },
+  {
+    "id": "dbb3a0cef9b6578b",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:30",
+    "group": "大盘头条",
+    "title": "Alphabet Sheds $692B in Market Value Amid AI Brain-Drain and Competitive Fears",
+    "summary": "Alphabet (GOOGL) lost $692 billion in market capitalization as investors questioned whether the company is losing its AI edge and top talent. Despite Q2 Google Cloud revenue surging 82% year-over-year, sentiment turned sharply negative on reports of accelerating talent departures.",
+    "why": "谷歌AI研发护城河受质疑，若Gemini竞争力持续走弱，其广告与云业务的长期增长叙事将承压。同时提示对持有科技龙头covered call时的downside风险需警惕。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "谷歌",
+      "Google",
+      "Alphabet",
+      "GOOGL",
+      "AI",
+      "人工智能"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/alphabet-loses-692-billion-in-market-value-as-ai-questions-rise",
+    "published_date": "2026-08-27",
+    "still_developing": false
+  },
+  {
+    "id": "e5aa09d7ec3552e3",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:30",
+    "group": "大盘头条",
+    "title": "CrowdStrike +20%, Okta +29%: AI Threat Surge Drives Blockbuster Cybersecurity Quarter",
+    "summary": "CrowdStrike posted Q2 revenue of $1.47 billion (+25.8% YoY), raising full-year guidance, as AI-driven cybersecurity threats fueled enterprise demand. Okta reported revenue of $805 million (+11% YoY), with new AI products accounting for 30% of bookings. Both stocks surged to multi-month highs.",
+    "why": "网络安全需求因AI威胁激增而加速，验证了AI双刃剑叙事。CrowdStrike/Okta强劲的订阅续约率支持long-term价值；高隐含波动率环境下两股是sell-put候选标的。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "CrowdStrike",
+      "Okta",
+      "AI安全",
+      "cybersecurity",
+      "科技"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/08/27/crowdstrike-jumps-20percent-okta-nearly-29percent-as-ai-demand-drives-blockbuster-gains.html",
+    "published_date": "2026-08-27",
+    "still_developing": false
+  },
+  {
+    "id": "7c4614530320435b",
+    "tier": 2,
     "lang": "zh",
     "markets": [
       "US",
       "HK",
       "A"
     ],
-    "time": "08:00",
+    "time": "16:00",
     "group": "大盘头条",
-    "title": "美国拟对华加征7.5%超额产能关税，9月24日川习峰会前完成贸易上限布局",
-    "summary": "彭博报道，美国计划在9月24日华盛顿川习峰会前，依301条款产能过剩调查结果对中国商品加征7.5%关税。加上现有关税，合计将达20%——恰好是中美吉隆坡贸易休战协议上限。该休战协议于11月10日到期，此举或作为谈判筹码。",
-    "why": "延续报道：关税重回20%上限直接冲击对华出口相关中概股、制造业供应链；也令Temu/拼多多境外扩张成本再度攀升。对港股消费科技标的（阿里、腾讯、美团）构成估值压力，sell put 需注意方向风险。9月24日川习峰会谈判结果将是下一个关键节点。",
+    "title": "美股三指收涨：纳指涨1.57%；恒生指数结束三连跌，沪指低开",
+    "summary": "受英伟达财报带动，美股8月27日收盘：标普500涨0.72%至7731点，纳指涨1.57%至26541点，道指涨0.20%至53569点。8月28日亚洲开市，恒生指数涨79点（+0.3%）收25078点，结束三日连跌；沪指低开0.16%报3950点，市场等待沃什讲话。",
+    "why": "大盘在等待杰克逊霍尔信号，恒生指数本月累涨1.2%，连续四个月正收益。对港股持仓的covered call / sell-put均需关注今日沃什发言后的波动率变化。",
     "source": "Bloomberg",
     "verified": true,
     "keywords": [
-      "中美贸易",
-      "关税",
-      "Trump",
-      "Xi",
-      "301条款",
-      "产能过剩"
+      "标普500",
+      "Nasdaq",
+      "恒生指数",
+      "美股",
+      "港股",
+      "A股",
+      "大盘"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
-    "published_date": "2026-08-24",
-    "still_developing": true
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/stock-market-today-dow-s-p-live-updates",
+    "published_date": "2026-08-28",
+    "still_developing": false
   },
   {
-    "id": "f8c262f2695aad7a",
+    "id": "c9cf47181e7c9ffa",
     "tier": 1,
-    "lang": "zh",
+    "lang": "en",
     "markets": [
       "HK",
       "US"
     ],
-    "time": "09:00",
+    "time": "20:00",
     "group": "个股",
-    "title": "阿里巴巴800亿港元新股配售8月26日完成，净募资100%投入全栈AI能力建设",
-    "summary": "阿里巴巴以每股112.70港元配售7.1亿股新股，总对价约800亿港元，8月26日完成交割。约60%（约478亿港元）用于扩充全球AI算力基础设施，约40%（约319亿港元）用于超大规模AI数据中心建设及传统云基础设施升级。获主权财富基金等优质长线投资者超额认购，是阿里2019年香港上市以来首次配股。",
-    "why": "阿里押注全栈AI而非仅做应用层，800亿港元全部投算力，是本轮国内AI军备竞赛中力度最大的资本行动。短期股本约稀释1.7%，配售完成消除不确定性；对持有9988.HK的 sell put 策略，需关注配售后估值按AI基础设施体系重置的机会。",
-    "source": "SEC EDGAR Form 6-K / Alibaba IR",
+    "title": "Alibaba Completes HK$80B Share Placement to Fund Full-Stack AI Build-Out",
+    "summary": "Alibaba Group completed its placement of 710 million new shares at HK$112.70 each on August 26, raising net proceeds of approximately HK$79.7 billion. About 60% (HK$47.9B) will fund global computing infrastructure; the remaining 40% (HK$31.9B) will build hyperscale AI data centers.",
+    "why": "配售完成后稀释了约2.5%股权，但AI基建投入规模反映管理层对通义千问/阿里云长期竞争力的高度押注。短期股价承压（配售前-10%），期权隐含波动率仍偏高，可观察sell-put机会。",
+    "source": "TechNode/SEC EDGAR",
     "verified": true,
     "keywords": [
       "阿里巴巴",
+      "Alibaba",
       "BABA",
-      "配股",
-      "AI",
+      "9988.HK",
       "阿里云",
-      "9988.HK"
+      "AI",
+      "配股"
     ],
     "translated": false,
     "url": "https://www.sec.gov/Archives/edgar/data/0001577552/000119312526365894/project_turing_closing.htm",
+    "published_date": "2026-08-26",
+    "still_developing": false
+  },
+  {
+    "id": "95874d244a7f8fab",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "08:00",
+    "group": "个股",
+    "title": "PDD Q2 Revenue Misses Estimates; Temu MAU Falls 11% as EU DSA Compliance Plan Due Today",
+    "summary": "PDD Holdings reported Q2 revenue of 112.36B yuan (+8% YoY), missing the 116.35B yuan consensus. Net income fell 12% to 27.2B yuan. Temu's global monthly active users shrank 11% to 467 million—the first annual decline in platform history—amid US tariffs and the end of duty-free treatment for low-value parcels. August 28 is the deadline for Temu to submit a compliance action plan to the EU under the Digital Services Act, with a €200M fine already imposed.",
+    "why": "收入与利润双弱，加之Temu出海增长见顶，PDD的长期增长逻辑受挑战。今日EU截止日若Temu提交不力，后续处罚可能加码。持仓者需评估基本面恶化对sell-put行权价的影响。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "拼多多",
+      "PDD",
+      "Temu",
+      "跨境电商",
+      "DSA",
+      "EU"
+    ],
+    "translated": false,
+    "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/24/temu-owner-pdd-books-8-rise-in-quarterly-revenue-misses-estimates/",
+    "published_date": "2026-08-24",
+    "still_developing": true
+  },
+  {
+    "id": "27eb6eb83299aea4",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "21:00",
+    "group": "个股",
+    "title": "Haidilao H1 2026: Record Revenue 22.3B Yuan; Delivery +121%, Dividend +11.5%",
+    "summary": "Haidilao International (6862.HK) reported first-half 2026 revenue of 22.34 billion yuan (+7.9% YoY), a record for any first half. Delivery revenue surged 121.2% to 2.05 billion yuan, becoming the second growth engine. Core operating profit rose 4.4% to 2.51 billion yuan. The board declared an interim dividend of HK$0.377 per share (+11.5% YoY). Shares rose more than 7% in Hong Kong on August 26.",
+    "why": "外卖业务爆发式增长（+121%）显示海底捞找到新增长曲线，核心利润稳健，中期分红提升彰显管理层信心。适合评估covered call写入时机（短期大涨后IV走高）。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "海底捞",
+      "Haidilao",
+      "6862.HK",
+      "餐饮",
+      "外卖",
+      "分红"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
+    "published_date": "2026-08-26",
+    "still_developing": false
+  },
+  {
+    "id": "e57487193bda03e3",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "12:00",
+    "group": "个股",
+    "title": "Palantir's Maven AI System on Track for $1B ARR as Pentagon Seeks $2.3B for AI Programs",
+    "summary": "William Blair analyst flagged Palantir's Maven Smart System as on track to reach $1 billion in annual recurring revenue, which would elevate it to program-of-record status. The Pentagon is separately seeking $2.3 billion for Maven and the Joint Fires Network. PLTR shares gained ~3% to reach $184.32 on August 27.",
+    "why": "国防AI政府合同持续扩大，若Maven达到B ARR里程碑，将锁定长期稳定收入。Palantir估值较高但政府合同壁垒深；适合评估现价附近sell-put的保护水位。",
+    "source": "TipRanks / William Blair",
+    "verified": false,
+    "keywords": [
+      "Palantir",
+      "PLTR",
+      "Maven",
+      "国防AI",
+      "政府合同"
+    ],
+    "translated": false,
+    "url": "https://www.tipranks.com/news/palantir-stock-pltr-gains-as-william-blair-flags-maven-as-on-track-for-1b-arr",
+    "published_date": "2026-08-26",
+    "still_developing": false
+  },
+  {
+    "id": "a3f54ba3bf3db7ea",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "SK Hynix Showcases HBM4 at DTF 2026; Holds 50–55% HBM Market Share as Nvidia Rubin Ramps",
+    "summary": "SK Hynix presented a full lineup of AI memory solutions at the Data Technology Forum (DTF) 2026 on August 26, including HBM4 and a 12-layer HBM4E sample. The company holds 50–55% of the global HBM market and is Nvidia's primary supplier. HBM4 is expected to be a key component of Nvidia's upcoming Rubin architecture.",
+    "why": "HBM4展示确认SK海力士领先地位，Rubin架构量产前景支撑长期需求；若英伟达Q3财报继续超预期，HBM供应商受益。南方两倍做多SK海力士ETF波动率较高，需控制仓位。",
+    "source": "SK Hynix Newsroom",
+    "verified": true,
+    "keywords": [
+      "SK海力士",
+      "SK Hynix",
+      "HBM4",
+      "HBM",
+      "AI芯片",
+      "存储芯片",
+      "英伟达"
+    ],
+    "translated": false,
+    "url": "https://news.skhynix.com/en/12-layer-hbm4e-sample-1/",
     "published_date": "2026-08-26",
     "still_developing": false
   },
@@ -145,11 +283,11 @@
       "HK"
     ],
     "time": "19:00",
-    "group": "大盘头条",
-    "title": "美团（3690.HK）今日盘后发布Q2 2026业绩，电话会议香港时间晚7时",
-    "summary": "美团定于8月28日（今日）港股收盘后发布2026年第二季度财报，并于香港时间晚7时举行业绩电话会议。此前股价从高点122港元回调至约78港元，市场关注外卖、即时零售增速及Keeta国际化进展。",
-    "why": "美团是恒指重要成份股，业绩发布日隐含波动率通常放大。重点关注：外卖/即时零售GMV增速；Keeta在港/中东扩张进度；大众点评到店业务变化；管理层对竞争（京东、抖音团购）的表述。对持有3690.HK期权者，今日为高波动风险窗口。",
-    "source": "Meituan IR官方",
+    "group": "个股",
+    "title": "美团Q2 2026财报今日盘后发布，预期收入约1063亿元",
+    "summary": "美团（3690.HK）定于2026年8月28日港股收盘后发布二季度业绩，电话会同日港时19:00举行。分析师预期收入约1063.8亿元人民币。上季度（Q1）美团EPS超预期30%、股价当日涨16%，市场对此次财报期待较高。",
+    "why": "美团上季度外卖+即时零售业务强劲增长，若Q2延续，估值重估可能继续；Keeta出海进展亦值得关注。盘后波动率通常放大，期权仓位管理需注意Delta风险。",
+    "source": "美团投资者关系",
     "verified": false,
     "keywords": [
       "美团",
@@ -157,35 +295,36 @@
       "3690.HK",
       "外卖",
       "即时零售",
-      "Keeta"
+      "财报"
     ],
     "translated": false,
-    "url": "https://www.meituan.com/en-US/investor/calendar",
+    "url": "https://www.meituan.com/en-US/investor-relations",
     "published_date": "2026-08-28",
     "still_developing": true
   },
   {
-    "id": "f702471095ab5735",
-    "tier": 3,
-    "lang": "zh",
+    "id": "3986a4b9c78afda1",
+    "tier": 2,
+    "lang": "en",
     "markets": [
-      "HK"
+      "US"
     ],
-    "time": "12:00",
+    "time": "20:30",
     "group": "个股",
-    "title": "腾讯《王者万象棋》定档9月10日全平台上线，预约量逾7000万",
-    "summary": "腾讯旗下《王者荣耀》IP自走棋新作《王者万象棋》正式宣布9月10日全平台上线（iOS/Android/HarmonyOS/PC），预约量突破7000万。游戏收录85位英雄，支持18人同屏对战。",
-    "why": "里程碑软新闻：《王者荣耀》IP商业化路径延伸，7000万预约量验证IP韧性。若公测流水超预期，有助于腾讯国内游戏板块收入回暖（腾讯Q2国内游戏已+17%），对0700.HK sell put 策略属中性偏正面催化。",
-    "source": "新浪财经科技",
-    "verified": false,
+    "title": "Marvell Q2 Revenue $2.74B Beats Estimates; Data Center +46%—But Stock Drops 7% After Hours",
+    "summary": "Marvell Technology reported Q2 FY2027 revenue of $2.74 billion (beating consensus by 1.2%) with non-GAAP EPS of $0.94 (beat by 1.19%). Data center revenue, which accounts for 76% of total, grew 46% year-over-year. The company guided FY2027 revenue to ~$11.5 billion (+40% YoY) and FY2028 to ~$16.5 billion. Despite the beat, shares fell 7%+ in extended trading, reflecting high market expectations after a 175%+ year-to-date run.",
+    "why": "财报超预期但股价跌，典型买预期卖事实走势，提示AI基础设施热门股估值透支风险。与持仓SK海力士/英伟达逻辑联动：若AI算力订单不及预期上调，相关个股均有回调风险。",
+    "source": "Bloomberg",
+    "verified": true,
     "keywords": [
-      "腾讯",
-      "王者荣耀",
-      "游戏",
-      "0700.HK"
+      "Marvell",
+      "MRVL",
+      "AI芯片",
+      "数据中心",
+      "半导体"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/tech/digi/2026-08-27/doc-inipuqhm9089656.shtml",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/stock-market-today-dow-s-p-live-updates",
     "published_date": "2026-08-27",
     "still_developing": false
   }
