@@ -1,191 +1,146 @@
 [
   {
-    "id": "488d216098e2bc81",
+    "id": "0f96a216f887c35f",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US"
+      "US",
+      "HK",
+      "A"
     ],
-    "time": "16:00",
+    "time": "09:00",
     "group": "大盘头条",
-    "title": "Stock market today Aug. 27: Nasdaq surges 1.4%, S&P 500 gains 0.7% as Nvidia earnings revive AI optimism",
-    "summary": "美股8月27日大幅反弹，纳指涨1.4%，S&P 500涨0.7%，道指涨约0.2%至53,564点。英伟达发布爆表Q2财报后单日飙涨8.74%，带动Salesforce(+21.5%)、IBM(+3.8%)等科技股全线上涨。麦当劳(-2.6%)、迪士尼(-2.6%)等传统消费股走弱。",
-    "why": "纳指+1.4%大涨确认AI基础设施投资周期未见顶；科技板块全面反弹对持有NVDA、GOOGL等美股仓位有直接正面影响。迪士尼DIS盘中-2.6%，持有DIS期权需关注。",
+    "title": "Fed Chair Warsh Warns Stubborn Inflation Could Push Toward Rate Hike at Jackson Hole Debut",
+    "summary": "Fed Chair Kevin Warsh delivered his first Jackson Hole keynote Friday, warning that persistent inflation may push the Fed toward a rate hike. He rejected forward guidance and stressed that 'elevated prices should be the central bank's main focus,' putting him at odds with White House calls for rate cuts.",
+    "why": "全球市场核心事件：美联储主席沃什首次杰克逊霍尔发言释放鹰派信号，明确上调利率可能性，打压降息预期；对整体风险资产（港股/A股）构成压力，同时对黄金价格有双重影响（抗通胀支撑 vs 加息预期压制）；期权卖方需重点关注隐含波动率。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
-      "纳斯达克",
-      "S&P 500",
-      "英伟达",
-      "美股"
+      "Fed",
+      "Jackson Hole",
+      "Warsh",
+      "rate hike",
+      "inflation",
+      "interest rate"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
+    "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
+    "published_date": "2026-08-28",
+    "still_developing": false
+  },
+  {
+    "id": "a5efa39187b89c8d",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "07:30",
+    "group": "大盘头条",
+    "title": "Nvidia Adds $442 Billion in Second-Biggest-Ever One-Day Stock Surge After Blowout Q2 Results",
+    "summary": "Nvidia reported Q2 FY2027 revenue of $96.2 billion (+106% YoY) and guided to $106–110 billion next quarter, projecting 70% revenue growth for fiscal 2028. NVDA shares surged 8.74%, adding $442B to its market cap — the second-largest single-day gain in stock market history. The Nasdaq rose 1.6% and S&P 500 gained 0.7% on the AI optimism wave.",
+    "why": "英伟达业绩爆发是本周最重要的美股事件，提振全球AI概念股，英特尔单日涨逾4%；同时确认AI基建需求旺盛，对持仓中SK海力士（HBM供应）、美光、英特尔等间接利好；Nasdaq大涨改善市场情绪，利于sell put策略持仓估值。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "Nvidia",
+      "NVDA",
+      "英伟达",
+      "earnings",
+      "AI chip",
+      "GPU",
+      "Blackwell",
+      "Nasdaq"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/nvidia-adds-442-billion-in-second-biggest-ever-stock-surge",
     "published_date": "2026-08-27",
     "still_developing": false
   },
   {
-    "id": "4ab92c726c6115f3",
-    "tier": 1,
+    "id": "23581db44a0f16ba",
+    "tier": 2,
     "lang": "en",
     "markets": [
-      "US"
-    ],
-    "time": "16:30",
-    "group": "个股",
-    "title": "NVIDIA Q2 FY2027: Revenue $96.2B (+106% YoY), Data Center $89B, Q3 guidance $108B above street",
-    "summary": "英伟达Q2 FY2027营收$96.22B（超预期$92.07B），同比增106%，环比增18%。数据中心营收$89B（同比+117%）。非GAAP EPS $2.22（超预期$2.09）。Q3指引$108B，超分析师预期，管理层表示Blackwell需求持续加速。股价次日+8.74%。",
-    "why": "英伟达Q3指引$108B远超预期说明Blackwell超额产能已被锁定。对 sell put NVDA 策略，财报后隐含波动率通常收窄；持续上行指引意味着后续 covered call 可适当提高行权价。AI算力超级周期延续对整体仓位正面。",
-    "source": "SEC EDGAR / Nvidia IR",
-    "verified": true,
-    "keywords": [
-      "英伟达",
-      "NVDA",
-      "Blackwell",
-      "AI芯片",
-      "数据中心",
-      "GPU"
-    ],
-    "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
-    "published_date": "2026-08-26",
-    "still_developing": false
-  },
-  {
-    "id": "8664baca752c58b9",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
       "US",
       "HK",
       "A"
     ],
-    "time": "10:00",
+    "time": "08:45",
     "group": "大盘头条",
-    "title": "联储新主席Warsh今日Jackson Hole发表首次主旨演讲，市场押注9月会议方向",
-    "summary": "美联储新任主席Kevin Warsh（2026年5月就任）今日（8/28）上午10时ET在杰克逊霍尔年会发表首次主旨演讲，主题为《金融创新：对支付与政策的影响》。当前通胀3.4%（高于2%目标），30年期美债收益率5.31%（2007年以来最高），市场定价9月16日FOMC会议约1/3概率加息。本次演讲是Warsh确立货币政策立场的关键首秀。",
-    "why": "Warsh演讲直接决定9月16日降息/加息/按兵不动预期，影响全市场波动率曲面；若鹰派偏紧，美元走强，港股/中概估值承压；若信号宽松，有利于持仓中成长科技股 sell put 策略的盈利空间。期权交易者需密切关注VIX和implied vol走向。",
-    "source": "Kansas City Fed官方 / Bloomberg",
-    "verified": false,
-    "keywords": [
-      "美联储",
-      "Warsh",
-      "Jackson Hole",
-      "利率",
-      "货币政策",
-      "FOMC"
-    ],
-    "translated": false,
-    "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/",
-    "published_date": "2026-08-28",
-    "still_developing": true
-  },
-  {
-    "id": "fba27dc144098d42",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US",
-      "HK",
-      "A"
-    ],
-    "time": "08:00",
-    "group": "大盘头条",
-    "title": "美国拟对华加征7.5%超额产能关税，9月24日川习峰会前完成贸易上限布局",
-    "summary": "彭博报道，美国计划在9月24日华盛顿川习峰会前，依301条款产能过剩调查结果对中国商品加征7.5%关税。加上现有关税，合计将达20%——恰好是中美吉隆坡贸易休战协议上限。该休战协议于11月10日到期，此举或作为谈判筹码。",
-    "why": "延续报道：关税重回20%上限直接冲击对华出口相关中概股、制造业供应链；也令Temu/拼多多境外扩张成本再度攀升。对港股消费科技标的（阿里、腾讯、美团）构成估值压力，sell put 需注意方向风险。9月24日川习峰会谈判结果将是下一个关键节点。",
+    "title": "Gold Holds Above $4,600 as Global Markets Position Ahead of Warsh's Jackson Hole Keynote",
+    "summary": "Physical gold traded above $4,600/oz on Friday — near a three-month high — as markets braced for Fed Chair Warsh's inaugural Jackson Hole speech. Bond yields rose and the U.S. dollar drifted lower into the Fed policy moment. The 2026 Jackson Hole symposium theme is 'Financial Innovation: Implications for Payments and Policy,' running August 27–29.",
+    "why": "黄金维持在$4600以上高位直接利好老铺黄金（6181.HK）的产品需求和品牌溢价；同时杰克逊霍尔会议带来的宏观不确定性是隐含波动率上升的潜在驱动力，对持有sell put组合需格外关注。",
     "source": "Bloomberg",
     "verified": true,
     "keywords": [
-      "中美贸易",
-      "关税",
-      "Trump",
-      "Xi",
-      "301条款",
-      "产能过剩"
+      "gold",
+      "黄金",
+      "Jackson Hole",
+      "Fed",
+      "Warsh",
+      "老铺黄金",
+      "macro"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
-    "published_date": "2026-08-24",
-    "still_developing": true
-  },
-  {
-    "id": "f8c262f2695aad7a",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "HK",
-      "US"
-    ],
-    "time": "09:00",
-    "group": "个股",
-    "title": "阿里巴巴800亿港元新股配售8月26日完成，净募资100%投入全栈AI能力建设",
-    "summary": "阿里巴巴以每股112.70港元配售7.1亿股新股，总对价约800亿港元，8月26日完成交割。约60%（约478亿港元）用于扩充全球AI算力基础设施，约40%（约319亿港元）用于超大规模AI数据中心建设及传统云基础设施升级。获主权财富基金等优质长线投资者超额认购，是阿里2019年香港上市以来首次配股。",
-    "why": "阿里押注全栈AI而非仅做应用层，800亿港元全部投算力，是本轮国内AI军备竞赛中力度最大的资本行动。短期股本约稀释1.7%，配售完成消除不确定性；对持有9988.HK的 sell put 策略，需关注配售后估值按AI基础设施体系重置的机会。",
-    "source": "SEC EDGAR Form 6-K / Alibaba IR",
-    "verified": true,
-    "keywords": [
-      "阿里巴巴",
-      "BABA",
-      "配股",
-      "AI",
-      "阿里云",
-      "9988.HK"
-    ],
-    "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/0001577552/000119312526365894/project_turing_closing.htm",
-    "published_date": "2026-08-26",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-08-28/fed-meeting-at-jackson-hole-and-warsh-speech-live-updates",
+    "published_date": "2026-08-28",
     "still_developing": false
   },
   {
-    "id": "1f99b520017727da",
+    "id": "ed1e6dce02bd22d8",
     "tier": 2,
-    "lang": "zh",
+    "lang": "en",
     "markets": [
+      "A",
       "HK"
     ],
-    "time": "19:00",
+    "time": "10:00",
     "group": "大盘头条",
-    "title": "美团（3690.HK）今日盘后发布Q2 2026业绩，电话会议香港时间晚7时",
-    "summary": "美团定于8月28日（今日）港股收盘后发布2026年第二季度财报，并于香港时间晚7时举行业绩电话会议。此前股价从高点122港元回调至约78港元，市场关注外卖、即时零售增速及Keeta国际化进展。",
-    "why": "美团是恒指重要成份股，业绩发布日隐含波动率通常放大。重点关注：外卖/即时零售GMV增速；Keeta在港/中东扩张进度；大众点评到店业务变化；管理层对竞争（京东、抖音团购）的表述。对持有3690.HK期权者，今日为高波动风险窗口。",
-    "source": "Meituan IR官方",
-    "verified": false,
+    "title": "China Industrial Profits Rose 17.6% in Jan–Jul 2026; July Alone Slows to +11.2%, a 7-Month Low",
+    "summary": "China's NBS data released August 27 showed industrial profits up 17.6% YoY for the first seven months of 2026 (total: RMB 4.58 trillion), but July standalone growth decelerated to 11.2% — the weakest monthly pace in seven months. Computer, communications and electronic equipment manufacturing surged 110%; high-tech manufacturing profits rose 50.1%.",
+    "why": "NBS官方数据显示中国工业利润增速放缓，7月单月创7个月新低，反映消费需求疲弱信号；科技制造业利润+110%对腾讯、阿里云、小米等科技持仓基本面中性偏正；数据支持政府后续维持宽松政策的预期，利于A股整体情绪。",
+    "source": "CNBC",
+    "verified": true,
     "keywords": [
-      "美团",
-      "Meituan",
-      "3690.HK",
-      "外卖",
-      "即时零售",
-      "Keeta"
+      "China",
+      "industrial profits",
+      "NBS",
+      "macro",
+      "宏观",
+      "A股",
+      "工业利润"
     ],
     "translated": false,
-    "url": "https://www.meituan.com/en-US/investor/calendar",
-    "published_date": "2026-08-28",
-    "still_developing": true
+    "url": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
+    "published_date": "2026-08-27",
+    "still_developing": false
   },
   {
-    "id": "f702471095ab5735",
-    "tier": 3,
-    "lang": "zh",
+    "id": "eada21d66085e4e3",
+    "tier": 2,
+    "lang": "en",
     "markets": [
       "HK"
     ],
-    "time": "12:00",
+    "time": "17:00",
     "group": "个股",
-    "title": "腾讯《王者万象棋》定档9月10日全平台上线，预约量逾7000万",
-    "summary": "腾讯旗下《王者荣耀》IP自走棋新作《王者万象棋》正式宣布9月10日全平台上线（iOS/Android/HarmonyOS/PC），预约量突破7000万。游戏收录85位英雄，支持18人同屏对战。",
-    "why": "里程碑软新闻：《王者荣耀》IP商业化路径延伸，7000万预约量验证IP韧性。若公测流水超预期，有助于腾讯国内游戏板块收入回暖（腾讯Q2国内游戏已+17%），对0700.HK sell put 策略属中性偏正面催化。",
-    "source": "新浪财经科技",
+    "title": "Tencent Repurchases 909,000 Shares for HKD 550 Million on August 27",
+    "summary": "Tencent Holdings (0700.HK) conducted one of its largest single-day buybacks of the program on August 27, repurchasing 909,000 ordinary shares totaling approximately HKD 550 million. Total shares repurchased under the current mandate have reached approximately 44.8 million, or about 0.49% of the authorized 10% maximum.",
+    "why": "腾讯单日回购规模环比显著提升（较此前约3亿港元/日跳升至约5.5亿港元），管理层持续强力护盘，体现对股价低估的判断；对持有腾讯多头及卖put策略均属正面信号，回购提供下方支撑。数字未经港交所公告直接核实，标注 verified:false。",
+    "source": "富途牛牛",
     "verified": false,
     "keywords": [
       "腾讯",
-      "王者荣耀",
-      "游戏",
-      "0700.HK"
+      "Tencent",
+      "0700.HK",
+      "回购",
+      "buyback",
+      "港股"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/tech/digi/2026-08-27/doc-inipuqhm9089656.shtml",
+    "url": "https://news.futunn.com/en/post/61270629/on-august-27-a-buyback-gathering-tencent-holdings-hsbc-holdings",
     "published_date": "2026-08-27",
     "still_developing": false
   }
