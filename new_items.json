@@ -1,191 +1,138 @@
 [
   {
-    "id": "488d216098e2bc81",
+    "id": "d89b1cd646324a19",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US"
+      "US",
+      "HK",
+      "A"
     ],
-    "time": "16:00",
+    "time": "14:00",
     "group": "大盘头条",
-    "title": "Stock market today Aug. 27: Nasdaq surges 1.4%, S&P 500 gains 0.7% as Nvidia earnings revive AI optimism",
-    "summary": "美股8月27日大幅反弹，纳指涨1.4%，S&P 500涨0.7%，道指涨约0.2%至53,564点。英伟达发布爆表Q2财报后单日飙涨8.74%，带动Salesforce(+21.5%)、IBM(+3.8%)等科技股全线上涨。麦当劳(-2.6%)、迪士尼(-2.6%)等传统消费股走弱。",
-    "why": "纳指+1.4%大涨确认AI基础设施投资周期未见顶；科技板块全面反弹对持有NVDA、GOOGL等美股仓位有直接正面影响。迪士尼DIS盘中-2.6%，持有DIS期权需关注。",
+    "title": "Fed Chair Warsh signals possible rate hike at Jackson Hole, says inflation still too high",
+    "summary": "Federal Reserve Chair Kevin Warsh said at the Jackson Hole symposium that inflation remains above the 2% target and the Fed has 'work to do,' signaling potential rate increases. The 2-year Treasury yield jumped over 6 basis points to 4.298%, and market odds of a September rate hike rose to 46%.",
+    "why": "新任美联储主席Warsh首次杰克逊霍尔讲话显著鹰派，加息预期回升将压制估值并抬升期权隐含波动率；卖put策略需重新评估各标的行权价安全边际。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
-      "纳斯达克",
-      "S&P 500",
-      "英伟达",
-      "美股"
+      "Federal Reserve",
+      "Jackson Hole",
+      "interest rates",
+      "inflation",
+      "Warsh"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
-    "published_date": "2026-08-27",
+    "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+    "published_date": "2026-08-28",
     "still_developing": false
   },
   {
-    "id": "4ab92c726c6115f3",
-    "tier": 1,
+    "id": "6705b5b49935fb81",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "14:30",
+    "group": "大盘头条",
+    "title": "Gold drops over 1% as Warsh's hawkish Jackson Hole remarks lift rate-hike bets",
+    "summary": "Gold fell more than 1% on Friday after Fed Chair Warsh's hawkish speech at Jackson Hole drove rate-hike expectations higher. Comex December gold fell as much as 3.2% to $4,515 per ounce, with spot gold at approximately $4,454, down 3.18% on the day.",
+    "why": "金价大跌直接利空老铺黄金（6181.HK）等黄金相关标的；加息预期上升同时令成长股估值承压，需评估相关持仓的sell put行权价保护空间。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "gold",
+      "金价",
+      "Warsh",
+      "Jackson Hole",
+      "rate hike",
+      "老铺黄金"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/08/28/gold-slips-as-fed-chief-warshs-jackson-hole-speech-looms.html",
+    "published_date": "2026-08-28",
+    "still_developing": false
+  },
+  {
+    "id": "2c5643df7f9a8055",
+    "tier": 2,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "16:30",
-    "group": "个股",
-    "title": "NVIDIA Q2 FY2027: Revenue $96.2B (+106% YoY), Data Center $89B, Q3 guidance $108B above street",
-    "summary": "英伟达Q2 FY2027营收$96.22B（超预期$92.07B），同比增106%，环比增18%。数据中心营收$89B（同比+117%）。非GAAP EPS $2.22（超预期$2.09）。Q3指引$108B，超分析师预期，管理层表示Blackwell需求持续加速。股价次日+8.74%。",
-    "why": "英伟达Q3指引$108B远超预期说明Blackwell超额产能已被锁定。对 sell put NVDA 策略，财报后隐含波动率通常收窄；持续上行指引意味着后续 covered call 可适当提高行权价。AI算力超级周期延续对整体仓位正面。",
-    "source": "SEC EDGAR / Nvidia IR",
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "U.S. Treasury launches 'Operation Economic Outcast' against Iran, targeting crypto, gold, aviation",
+    "summary": "The U.S. Treasury sanctioned nearly 60 Iran-linked targets on August 24 in a campaign dubbed 'Operation Economic Outcast,' designating digital assets as a sanctionable sector under EO 13902 and adding crypto wallet addresses across Bitcoin, Ethereum, and Tron networks. Bitcoin surged past $80,000 on the news.",
+    "why": "稳定币/加密基础设施受地缘政策直接影响；Bitcoin超$80K有利于Circle（USDC流通量）；同时该制裁行动推升油价预期，间接影响通胀路径。延续报道：制裁实施和市场余震仍在持续。",
+    "source": "The Block",
     "verified": true,
     "keywords": [
-      "英伟达",
-      "NVDA",
-      "Blackwell",
-      "AI芯片",
-      "数据中心",
-      "GPU"
+      "Iran",
+      "sanctions",
+      "crypto",
+      "Bitcoin",
+      "USDC",
+      "Circle",
+      "稳定币"
     ],
     "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
-    "published_date": "2026-08-26",
-    "still_developing": false
-  },
-  {
-    "id": "8664baca752c58b9",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US",
-      "HK",
-      "A"
-    ],
-    "time": "10:00",
-    "group": "大盘头条",
-    "title": "联储新主席Warsh今日Jackson Hole发表首次主旨演讲，市场押注9月会议方向",
-    "summary": "美联储新任主席Kevin Warsh（2026年5月就任）今日（8/28）上午10时ET在杰克逊霍尔年会发表首次主旨演讲，主题为《金融创新：对支付与政策的影响》。当前通胀3.4%（高于2%目标），30年期美债收益率5.31%（2007年以来最高），市场定价9月16日FOMC会议约1/3概率加息。本次演讲是Warsh确立货币政策立场的关键首秀。",
-    "why": "Warsh演讲直接决定9月16日降息/加息/按兵不动预期，影响全市场波动率曲面；若鹰派偏紧，美元走强，港股/中概估值承压；若信号宽松，有利于持仓中成长科技股 sell put 策略的盈利空间。期权交易者需密切关注VIX和implied vol走向。",
-    "source": "Kansas City Fed官方 / Bloomberg",
-    "verified": false,
-    "keywords": [
-      "美联储",
-      "Warsh",
-      "Jackson Hole",
-      "利率",
-      "货币政策",
-      "FOMC"
-    ],
-    "translated": false,
-    "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/",
-    "published_date": "2026-08-28",
-    "still_developing": true
-  },
-  {
-    "id": "fba27dc144098d42",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US",
-      "HK",
-      "A"
-    ],
-    "time": "08:00",
-    "group": "大盘头条",
-    "title": "美国拟对华加征7.5%超额产能关税，9月24日川习峰会前完成贸易上限布局",
-    "summary": "彭博报道，美国计划在9月24日华盛顿川习峰会前，依301条款产能过剩调查结果对中国商品加征7.5%关税。加上现有关税，合计将达20%——恰好是中美吉隆坡贸易休战协议上限。该休战协议于11月10日到期，此举或作为谈判筹码。",
-    "why": "延续报道：关税重回20%上限直接冲击对华出口相关中概股、制造业供应链；也令Temu/拼多多境外扩张成本再度攀升。对港股消费科技标的（阿里、腾讯、美团）构成估值压力，sell put 需注意方向风险。9月24日川习峰会谈判结果将是下一个关键节点。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "中美贸易",
-      "关税",
-      "Trump",
-      "Xi",
-      "301条款",
-      "产能过剩"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
+    "url": "https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648",
     "published_date": "2026-08-24",
     "still_developing": true
   },
   {
-    "id": "f8c262f2695aad7a",
+    "id": "e29f2aea66431425",
     "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "HK",
-      "US"
-    ],
-    "time": "09:00",
-    "group": "个股",
-    "title": "阿里巴巴800亿港元新股配售8月26日完成，净募资100%投入全栈AI能力建设",
-    "summary": "阿里巴巴以每股112.70港元配售7.1亿股新股，总对价约800亿港元，8月26日完成交割。约60%（约478亿港元）用于扩充全球AI算力基础设施，约40%（约319亿港元）用于超大规模AI数据中心建设及传统云基础设施升级。获主权财富基金等优质长线投资者超额认购，是阿里2019年香港上市以来首次配股。",
-    "why": "阿里押注全栈AI而非仅做应用层，800亿港元全部投算力，是本轮国内AI军备竞赛中力度最大的资本行动。短期股本约稀释1.7%，配售完成消除不确定性；对持有9988.HK的 sell put 策略，需关注配售后估值按AI基础设施体系重置的机会。",
-    "source": "SEC EDGAR Form 6-K / Alibaba IR",
-    "verified": true,
-    "keywords": [
-      "阿里巴巴",
-      "BABA",
-      "配股",
-      "AI",
-      "阿里云",
-      "9988.HK"
-    ],
-    "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/0001577552/000119312526365894/project_turing_closing.htm",
-    "published_date": "2026-08-26",
-    "still_developing": false
-  },
-  {
-    "id": "1f99b520017727da",
-    "tier": 2,
-    "lang": "zh",
+    "lang": "en",
     "markets": [
       "HK"
     ],
-    "time": "19:00",
-    "group": "大盘头条",
-    "title": "美团（3690.HK）今日盘后发布Q2 2026业绩，电话会议香港时间晚7时",
-    "summary": "美团定于8月28日（今日）港股收盘后发布2026年第二季度财报，并于香港时间晚7时举行业绩电话会议。此前股价从高点122港元回调至约78港元，市场关注外卖、即时零售增速及Keeta国际化进展。",
-    "why": "美团是恒指重要成份股，业绩发布日隐含波动率通常放大。重点关注：外卖/即时零售GMV增速；Keeta在港/中东扩张进度；大众点评到店业务变化；管理层对竞争（京东、抖音团购）的表述。对持有3690.HK期权者，今日为高波动风险窗口。",
-    "source": "Meituan IR官方",
-    "verified": false,
+    "time": "20:00",
+    "group": "个股",
+    "title": "Meituan snaps losing streak with profitable June quarter though Douyin threat looms",
+    "summary": "Meituan (3690.HK) reported Q2 2026 revenue of RMB 104.6 billion (+14.4% YoY), with adjusted net profit of RMB 2.16 billion, reversing a RMB 4.97 billion loss in Q1. Keeta turned profitable in Saudi Arabia within 22 months of entry. The company holds a RMB 168.3 billion cash position.",
+    "why": "美团Q2扭亏且Keeta海外盈利是重要里程碑；外卖价格战趋缓改善利润能见度；高现金储备可支撑股东回报，对sell put策略有支撑；但抖音竞争威胁仍是长期风险。",
+    "source": "SCMP",
+    "verified": true,
     "keywords": [
       "美团",
       "Meituan",
       "3690.HK",
-      "外卖",
-      "即时零售",
-      "Keeta"
+      "Q2 earnings",
+      "Keeta",
+      "外卖"
     ],
     "translated": false,
-    "url": "https://www.meituan.com/en-US/investor/calendar",
+    "url": "https://www.scmp.com/tech/big-tech/article/3365595/meituan-snaps-losing-streak-profitable-june-quarter-though-douyin-threat-looms",
     "published_date": "2026-08-28",
-    "still_developing": true
+    "still_developing": false
   },
   {
-    "id": "f702471095ab5735",
+    "id": "aa4050a2f9f9dddf",
     "tier": 3,
-    "lang": "zh",
+    "lang": "en",
     "markets": [
       "HK"
     ],
-    "time": "12:00",
+    "time": "09:30",
     "group": "个股",
-    "title": "腾讯《王者万象棋》定档9月10日全平台上线，预约量逾7000万",
-    "summary": "腾讯旗下《王者荣耀》IP自走棋新作《王者万象棋》正式宣布9月10日全平台上线（iOS/Android/HarmonyOS/PC），预约量突破7000万。游戏收录85位英雄，支持18人同屏对战。",
-    "why": "里程碑软新闻：《王者荣耀》IP商业化路径延伸，7000万预约量验证IP韧性。若公测流水超预期，有助于腾讯国内游戏板块收入回暖（腾讯Q2国内游戏已+17%），对0700.HK sell put 策略属中性偏正面催化。",
-    "source": "新浪财经科技",
-    "verified": false,
+    "title": "Tencent (00700) repurchased 670,000 shares for HK$301 million on August 27",
+    "summary": "Tencent Holdings (0700.HK) bought back 670,000 shares for approximately HK$301 million on August 27, 2026, per HKEX filing. The company has repurchased 40.1 million shares under the current authorization allowing up to 911.8 million shares.",
+    "why": "腾讯持续每日回购（约HK$3亿/次）是底部支撑信号，累计回购4010万股；对持有0700.HK的sell put仓位有价格支撑作用，但属常规操作，仅供参考。",
+    "source": "富途牛牛",
+    "verified": true,
     "keywords": [
       "腾讯",
-      "王者荣耀",
-      "游戏",
-      "0700.HK"
+      "Tencent",
+      "0700.HK",
+      "回购",
+      "buyback",
+      "HKEX"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/tech/digi/2026-08-27/doc-inipuqhm9089656.shtml",
+    "url": "https://www.moomoo.com/news/post/75372196/tencent-00700-repurchased-670000-shares-for-hk-301-million-on",
     "published_date": "2026-08-27",
     "still_developing": false
   }
