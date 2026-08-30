@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-30 08:17 (北京时间)",
+  "updated_at": "2026-08-30 13:25 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,71 +9,99 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-30 08:17 (北京时间)",
-    "new_count": 2,
+    "at": "2026-08-30 13:25 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "fc385e8735b31947",
+      "id": "35c375b179fc9ecd",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "08/29",
+      "time": "2026-08-28T00:00:00Z",
       "group": "大盘头条",
-      "title": "香港特区政府宣布成立促进股票市场流动性专责小组，唐家成任主席",
-      "summary": "香港特区政府8月29日公布成立专责小组，全面检视影响港股流动性的因素（含上市制度、市场结构、交易机制），并向行政长官提交短、中、长期改善建议。小组由唐家成担任主席，涵盖8位金融业代表及港证监、港交所等监管机构。",
-      "why": "港府主动出手专项提振市场流动性，属于政策面重要催化；对持有港股优质资产（腾讯、美团、小米等）的长线组合构成中期利好，有助改善买卖价差与整体成交。",
-      "source": "证券时报",
+      "title": "Warsh Jackson Hole讲话鹰派，9月加息概率升至57-59%",
+      "summary": "美联储理事Warsh在杰克逊霍尔年会上表示\"我们在通胀上还有更多工作要做\"，重申鹰派立场。市场对9月加息的押注从35%飙升至约57-59%（CME FedWatch）。2年期美债收益率单日上行12bp至4.356%，30年期升至5.211%；美元指数上涨0.4%。",
+      "why": "利率路径是影响整体估值和期权波动率的核心宏观变量；9月加息概率骤升将直接压低高PE科技股及港股。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "港股",
-        "流动性",
-        "香港",
-        "专责小组",
-        "唐家成",
-        "HKEX",
-        "市场改革"
+        "Jackson Hole",
+        "Warsh",
+        "Fed",
+        "rate hike",
+        "9月加息",
+        "美债收益率",
+        "CME FedWatch"
       ],
       "translated": false,
-      "url": "https://www.stcn.com/article/detail/963788.html",
-      "published_date": "2026-08-29",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/wall-street-piles-on-rate-hike-bets-as-warsh-renews-hawkish-tone",
+      "published_date": "2026-08-28",
       "still_developing": false,
       "first_seen": "2026-08-30",
       "is_new": true
     },
     {
-      "id": "09b700ab5ab41523",
+      "id": "bcfdd8c40987c222",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-08-28T00:00:00Z",
+      "group": "大盘头条",
+      "title": "CNBC：9月加息决策已成「五五开」，期货市场押注持续升温",
+      "summary": "CNBC报道，CME FedWatch显示9月FOMC会议加息概率升至57.5%，市场对全年再加息次数的预期亦随之上修。债券市场反应明显：短端收益率领涨，收益率曲线再度平坦化。",
+      "why": "为Bloomberg Warsh报道的补充核实源，强化9月加息为基准情景的判断，对sell put策略的行权价选择有参考价值。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Fed",
+        "rate hike",
+        "CME FedWatch",
+        "9月加息",
+        "September FOMC"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
+      "published_date": "2026-08-28",
+      "still_developing": false,
+      "first_seen": "2026-08-30",
+      "is_new": true
+    },
+    {
+      "id": "87b644a468498095",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "08/28",
+      "time": "2026-08-26T00:00:00Z",
       "group": "个股",
-      "title": "美团Q2 2026营收1046亿元同比增14.4%，净利润转正；Keeta沙特入驻22个月实现盈利",
-      "summary": "美团2026年第二季度营收人民币1046亿元（同比+14.4%），净利润由亏转盈。国际外卖品牌Keeta在香港持续盈利，2026年7月在沙特阿拉伯实现盈利（入驻仅22个月）。集团现金及等价物1683亿元；开源AI模型LongCat 2.0提升运营效率。",
-      "why": "美团Q2盈利超预期，净利润转正且Keeta海外快速盈利，对持有3690.HK的组合属明确正面催化；当前AI策略（LongCat）落地初显成效，支持中长期估值修复，可考虑在估值回调时布局 sell put。",
-      "source": "美团官方新闻稿",
+      "title": "小米发布三款自研玄戒芯片：旗舰SoC O3、AI加速器O100、自动驾驶芯片D100",
+      "summary": "小米（1810.HK）在8月24日新品发布会基础上披露更多芯片技术细节：玄戒O3为旗舰手机SoC（台积电3nm，240亿晶体管），将随小米18 Fold于9月发布；O100为AI推理加速芯片（1.22TB/s内存带宽）；D100为自动驾驶专用芯片，三款芯片覆盖手机/AI/汽车三大业务线。",
+      "why": "自研芯片三线布局标志小米从组装品牌向技术公司战略跃升，长期有助提升毛利率与供应链自主性；是中期持股逻辑的重要里程碑。8月24日发布会事件持续发酵中（still_developing）。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "Q2 2026",
-        "财报",
-        "外卖",
-        "Keeta",
-        "即时零售",
-        "沙特"
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "玄戒",
+        "O3",
+        "O100",
+        "D100",
+        "自研芯片",
+        "小米18 Fold"
       ],
       "translated": false,
-      "url": "https://www.prnewswire.com/apac/news-releases/meituan-announces-2026-second-quarter-results-302849608.html",
-      "published_date": "2026-08-28",
-      "still_developing": false,
+      "url": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipqsye2253996.shtml",
+      "published_date": "2026-08-26",
+      "still_developing": true,
       "first_seen": "2026-08-30",
       "is_new": true
     },
@@ -964,6 +992,36 @@
       "is_new": false
     },
     {
+      "id": "fc385e8735b31947",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08/29",
+      "group": "大盘头条",
+      "title": "香港特区政府宣布成立促进股票市场流动性专责小组，唐家成任主席",
+      "summary": "香港特区政府8月29日公布成立专责小组，全面检视影响港股流动性的因素（含上市制度、市场结构、交易机制），并向行政长官提交短、中、长期改善建议。小组由唐家成担任主席，涵盖8位金融业代表及港证监、港交所等监管机构。",
+      "why": "港府主动出手专项提振市场流动性，属于政策面重要催化；对持有港股优质资产（腾讯、美团、小米等）的长线组合构成中期利好，有助改善买卖价差与整体成交。",
+      "source": "证券时报",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "流动性",
+        "香港",
+        "专责小组",
+        "唐家成",
+        "HKEX",
+        "市场改革"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/963788.html",
+      "published_date": "2026-08-29",
+      "still_developing": false,
+      "first_seen": "2026-08-30",
+      "is_new": false
+    },
+    {
       "id": "22753598326542c1",
       "tier": 2,
       "lang": "zh",
@@ -1593,6 +1651,38 @@
       "published_date": "2026-08-28",
       "still_developing": false,
       "first_seen": "2026-08-29",
+      "is_new": false
+    },
+    {
+      "id": "09b700ab5ab41523",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08/28",
+      "group": "个股",
+      "title": "美团Q2 2026营收1046亿元同比增14.4%，净利润转正；Keeta沙特入驻22个月实现盈利",
+      "summary": "美团2026年第二季度营收人民币1046亿元（同比+14.4%），净利润由亏转盈。国际外卖品牌Keeta在香港持续盈利，2026年7月在沙特阿拉伯实现盈利（入驻仅22个月）。集团现金及等价物1683亿元；开源AI模型LongCat 2.0提升运营效率。",
+      "why": "美团Q2盈利超预期，净利润转正且Keeta海外快速盈利，对持有3690.HK的组合属明确正面催化；当前AI策略（LongCat）落地初显成效，支持中长期估值修复，可考虑在估值回调时布局 sell put。",
+      "source": "美团官方新闻稿",
+      "verified": true,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "Q2 2026",
+        "财报",
+        "外卖",
+        "Keeta",
+        "即时零售",
+        "沙特"
+      ],
+      "translated": false,
+      "url": "https://www.prnewswire.com/apac/news-releases/meituan-announces-2026-second-quarter-results-302849608.html",
+      "published_date": "2026-08-28",
+      "still_developing": false,
+      "first_seen": "2026-08-30",
       "is_new": false
     },
     {
