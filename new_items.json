@@ -1,192 +1,151 @@
 [
   {
-    "id": "488d216098e2bc81",
+    "id": "55ae25d69f146e1a",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US"
+      "US",
+      "HK"
     ],
-    "time": "16:00",
+    "time": "08/28",
     "group": "大盘头条",
-    "title": "Stock market today Aug. 27: Nasdaq surges 1.4%, S&P 500 gains 0.7% as Nvidia earnings revive AI optimism",
-    "summary": "美股8月27日大幅反弹，纳指涨1.4%，S&P 500涨0.7%，道指涨约0.2%至53,564点。英伟达发布爆表Q2财报后单日飙涨8.74%，带动Salesforce(+21.5%)、IBM(+3.8%)等科技股全线上涨。麦当劳(-2.6%)、迪士尼(-2.6%)等传统消费股走弱。",
-    "why": "纳指+1.4%大涨确认AI基础设施投资周期未见顶；科技板块全面反弹对持有NVDA、GOOGL等美股仓位有直接正面影响。迪士尼DIS盘中-2.6%，持有DIS期权需关注。",
+    "title": "Fed Chair Warsh flags inflation still too high at Jackson Hole; September rate-hike odds spike to ~57%; S&P 500 -0.25%, Nasdaq -0.52%, chip stocks retreat",
+    "summary": "Fed Chair Kevin Warsh debuted at Jackson Hole warning inflation remains elevated—\"this summer's PCE readings do not tell me underlying trends have meaningfully improved.\" September rate-hike probability jumped to ~57% (CME FedWatch). US July PCE was 3.7% YoY (above forecast); 3 FOMC officials already dissented for a hike. S&P 500 fell 0.25% to 7,711.76; Nasdaq -0.52% to 26,402.42. Nvidia -4.6%, AMD -2.3%, Broadcom -0.7%. Gold fell over 1% to ~,563/oz intraday on rising real rate expectations.",
+    "why": "美联储主席首次杰克逊霍尔演讲释放明确鹰派信号，9月加息概率骤升至57%；①芯片板块短期承压（英伟达、AMD集体回调），持仓可留意 covered call 覆盖风险；②黄金跌超1%（老铺黄金短线受压）；③隐含波动率上升，整体利好 sell put 收权利金策略。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
-      "纳斯达克",
+      "Federal Reserve",
+      "Warsh",
+      "Jackson Hole",
+      "inflation",
+      "rate hike",
+      "PCE",
       "S&P 500",
-      "英伟达",
-      "美股"
+      "Nasdaq",
+      "鹰派"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
-    "published_date": "2026-08-27",
+    "url": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
+    "published_date": "2026-08-28",
     "still_developing": false
   },
   {
-    "id": "4ab92c726c6115f3",
+    "id": "fc385e8735b31947",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "08/29",
+    "group": "大盘头条",
+    "title": "香港特区政府宣布成立促进股票市场流动性专责小组，唐家成任主席",
+    "summary": "香港特区政府8月29日公布成立专责小组，全面检视影响港股流动性的因素（含上市制度、市场结构、交易机制），并向行政长官提交短、中、长期改善建议。小组由唐家成担任主席，涵盖8位金融业代表及港证监、港交所等监管机构。",
+    "why": "港府主动出手专项提振市场流动性，属于政策面重要催化；对持有港股优质资产（腾讯、美团、小米等）的长线组合构成中期利好，有助改善买卖价差与整体成交。",
+    "source": "证券时报",
+    "verified": true,
+    "keywords": [
+      "港股",
+      "流动性",
+      "香港",
+      "专责小组",
+      "唐家成",
+      "HKEX",
+      "市场改革"
+    ],
+    "translated": false,
+    "url": "https://www.stcn.com/article/detail/963788.html",
+    "published_date": "2026-08-29",
+    "still_developing": false
+  },
+  {
+    "id": "1b113da990606b1a",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "16:30",
-    "group": "个股",
-    "title": "NVIDIA Q2 FY2027: Revenue $96.2B (+106% YoY), Data Center $89B, Q3 guidance $108B above street",
-    "summary": "英伟达Q2 FY2027营收$96.22B（超预期$92.07B），同比增106%，环比增18%。数据中心营收$89B（同比+117%）。非GAAP EPS $2.22（超预期$2.09）。Q3指引$108B，超分析师预期，管理层表示Blackwell需求持续加速。股价次日+8.74%。",
-    "why": "英伟达Q3指引$108B远超预期说明Blackwell超额产能已被锁定。对 sell put NVDA 策略，财报后隐含波动率通常收窄；持续上行指引意味着后续 covered call 可适当提高行权价。AI算力超级周期延续对整体仓位正面。",
-    "source": "SEC EDGAR / Nvidia IR",
-    "verified": true,
-    "keywords": [
-      "英伟达",
-      "NVDA",
-      "Blackwell",
-      "AI芯片",
-      "数据中心",
-      "GPU"
-    ],
-    "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
-    "published_date": "2026-08-26",
-    "still_developing": false
-  },
-  {
-    "id": "8664baca752c58b9",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US",
-      "HK",
-      "A"
-    ],
-    "time": "10:00",
+    "time": "08/26",
     "group": "大盘头条",
-    "title": "联储新主席Warsh今日Jackson Hole发表首次主旨演讲，市场押注9月会议方向",
-    "summary": "美联储新任主席Kevin Warsh（2026年5月就任）今日（8/28）上午10时ET在杰克逊霍尔年会发表首次主旨演讲，主题为《金融创新：对支付与政策的影响》。当前通胀3.4%（高于2%目标），30年期美债收益率5.31%（2007年以来最高），市场定价9月16日FOMC会议约1/3概率加息。本次演讲是Warsh确立货币政策立场的关键首秀。",
-    "why": "Warsh演讲直接决定9月16日降息/加息/按兵不动预期，影响全市场波动率曲面；若鹰派偏紧，美元走强，港股/中概估值承压；若信号宽松，有利于持仓中成长科技股 sell put 策略的盈利空间。期权交易者需密切关注VIX和implied vol走向。",
-    "source": "Kansas City Fed官方 / Bloomberg",
-    "verified": false,
-    "keywords": [
-      "美联储",
-      "Warsh",
-      "Jackson Hole",
-      "利率",
-      "货币政策",
-      "FOMC"
-    ],
-    "translated": false,
-    "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/",
-    "published_date": "2026-08-28",
-    "still_developing": true
-  },
-  {
-    "id": "fba27dc144098d42",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US",
-      "HK",
-      "A"
-    ],
-    "time": "08:00",
-    "group": "大盘头条",
-    "title": "美国拟对华加征7.5%超额产能关税，9月24日川习峰会前完成贸易上限布局",
-    "summary": "彭博报道，美国计划在9月24日华盛顿川习峰会前，依301条款产能过剩调查结果对中国商品加征7.5%关税。加上现有关税，合计将达20%——恰好是中美吉隆坡贸易休战协议上限。该休战协议于11月10日到期，此举或作为谈判筹码。",
-    "why": "延续报道：关税重回20%上限直接冲击对华出口相关中概股、制造业供应链；也令Temu/拼多多境外扩张成本再度攀升。对港股消费科技标的（阿里、腾讯、美团）构成估值压力，sell put 需注意方向风险。9月24日川习峰会谈判结果将是下一个关键节点。",
+    "title": "Nvidia Q2 FY2027: revenue 6.22B +106% YoY, EPS .22—both beat; Q3 guidance 08B; AWS orders 2M GPUs",
+    "summary": "Nvidia reported Q2 FY2027 (Apr-Jun 2026) revenue of 6.22B vs. 2.37B estimate, EPS .22 vs. .10; both above consensus. Q3 guidance of 08B exceeds analyst forecasts. CEO Jensen Huang: \"AI infrastructure buildout is at full steam.\" Amazon Web Services announced a purchase of 2 million Nvidia GPUs plus Vera CPUs. Stock surged ~9% initially then gave back 4.6% after Warsh's hawkish speech (Aug 28).",
+    "why": "延续报道：英伟达超预期财报进一步确认AI资本支出大周期；AWS 200万GPU订单验证需求真实；但Warsh讲话后股价回调4.6%，隐含波动率走高，可留意布局 sell put（IV升高时权利金更厚）。",
     "source": "Bloomberg",
     "verified": true,
     "keywords": [
-      "中美贸易",
-      "关税",
-      "Trump",
-      "Xi",
-      "301条款",
-      "产能过剩"
+      "Nvidia",
+      "NVDA",
+      "earnings",
+      "AI chip",
+      "GPU",
+      "data center",
+      "Jensen Huang",
+      "AWS",
+      "Blackwell"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
-    "published_date": "2026-08-24",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-08-26/nvidia-second-quarter-earnings",
+    "published_date": "2026-08-26",
     "still_developing": true
   },
   {
-    "id": "f8c262f2695aad7a",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "HK",
-      "US"
-    ],
-    "time": "09:00",
-    "group": "个股",
-    "title": "阿里巴巴800亿港元新股配售8月26日完成，净募资100%投入全栈AI能力建设",
-    "summary": "阿里巴巴以每股112.70港元配售7.1亿股新股，总对价约800亿港元，8月26日完成交割。约60%（约478亿港元）用于扩充全球AI算力基础设施，约40%（约319亿港元）用于超大规模AI数据中心建设及传统云基础设施升级。获主权财富基金等优质长线投资者超额认购，是阿里2019年香港上市以来首次配股。",
-    "why": "阿里押注全栈AI而非仅做应用层，800亿港元全部投算力，是本轮国内AI军备竞赛中力度最大的资本行动。短期股本约稀释1.7%，配售完成消除不确定性；对持有9988.HK的 sell put 策略，需关注配售后估值按AI基础设施体系重置的机会。",
-    "source": "SEC EDGAR Form 6-K / Alibaba IR",
-    "verified": true,
-    "keywords": [
-      "阿里巴巴",
-      "BABA",
-      "配股",
-      "AI",
-      "阿里云",
-      "9988.HK"
-    ],
-    "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/0001577552/000119312526365894/project_turing_closing.htm",
-    "published_date": "2026-08-26",
-    "still_developing": false
-  },
-  {
-    "id": "1f99b520017727da",
+    "id": "09b700ab5ab41523",
     "tier": 2,
     "lang": "zh",
     "markets": [
       "HK"
     ],
-    "time": "19:00",
-    "group": "大盘头条",
-    "title": "美团（3690.HK）今日盘后发布Q2 2026业绩，电话会议香港时间晚7时",
-    "summary": "美团定于8月28日（今日）港股收盘后发布2026年第二季度财报，并于香港时间晚7时举行业绩电话会议。此前股价从高点122港元回调至约78港元，市场关注外卖、即时零售增速及Keeta国际化进展。",
-    "why": "美团是恒指重要成份股，业绩发布日隐含波动率通常放大。重点关注：外卖/即时零售GMV增速；Keeta在港/中东扩张进度；大众点评到店业务变化；管理层对竞争（京东、抖音团购）的表述。对持有3690.HK期权者，今日为高波动风险窗口。",
-    "source": "Meituan IR官方",
-    "verified": false,
+    "time": "08/28",
+    "group": "个股",
+    "title": "美团Q2 2026营收1046亿元同比增14.4%，净利润转正；Keeta沙特入驻22个月实现盈利",
+    "summary": "美团2026年第二季度营收人民币1046亿元（同比+14.4%），净利润由亏转盈。国际外卖品牌Keeta在香港持续盈利，2026年7月在沙特阿拉伯实现盈利（入驻仅22个月）。集团现金及等价物1683亿元；开源AI模型LongCat 2.0提升运营效率。",
+    "why": "美团Q2盈利超预期，净利润转正且Keeta海外快速盈利，对持有3690.HK的组合属明确正面催化；当前AI策略（LongCat）落地初显成效，支持中长期估值修复，可考虑在估值回调时布局 sell put。",
+    "source": "美团官方新闻稿",
+    "verified": true,
     "keywords": [
       "美团",
       "Meituan",
       "3690.HK",
+      "Q2 2026",
+      "财报",
       "外卖",
+      "Keeta",
       "即时零售",
-      "Keeta"
+      "沙特"
     ],
     "translated": false,
-    "url": "https://www.meituan.com/en-US/investor/calendar",
+    "url": "https://www.prnewswire.com/apac/news-releases/meituan-announces-2026-second-quarter-results-302849608.html",
     "published_date": "2026-08-28",
-    "still_developing": true
+    "still_developing": false
   },
   {
-    "id": "f702471095ab5735",
-    "tier": 3,
+    "id": "0cee556b55dc3787",
+    "tier": 2,
     "lang": "zh",
     "markets": [
       "HK"
     ],
-    "time": "12:00",
+    "time": "08/25",
     "group": "个股",
-    "title": "腾讯《王者万象棋》定档9月10日全平台上线，预约量逾7000万",
-    "summary": "腾讯旗下《王者荣耀》IP自走棋新作《王者万象棋》正式宣布9月10日全平台上线（iOS/Android/HarmonyOS/PC），预约量突破7000万。游戏收录85位英雄，支持18人同屏对战。",
-    "why": "里程碑软新闻：《王者荣耀》IP商业化路径延伸，7000万预约量验证IP韧性。若公测流水超预期，有助于腾讯国内游戏板块收入回暖（腾讯Q2国内游戏已+17%），对0700.HK sell put 策略属中性偏正面催化。",
-    "source": "新浪财经科技",
-    "verified": false,
+    "title": "马云、蔡崇信、吴泳铭联手增持阿里港股逾8亿港元，力挺800亿AI配股",
+    "summary": "阿里巴巴创始人马云连日增持港股超6亿港元，主席蔡崇信、CEO吴泳铭同期合计增持约2亿港元，三人合计增持逾8亿港元。此举发生在阿里巴巴宣布800亿港元新股配售（全部用于AI全栈能力建设）并引发股价大跌约8%之后，配售获全球主权基金近3倍超额认购。",
+    "why": "延续报道：阿里8月23日800亿配股引发股价大跌，管理层随即联手增持护盘，体现内部对AI投资回报的高度信心；股价仍处修复阶段，可关注支撑位附近的 sell put 布局机会，但须留意AI投入加大对短期利润的压制。",
+    "source": "新浪财经",
+    "verified": true,
     "keywords": [
-      "腾讯",
-      "王者荣耀",
-      "游戏",
-      "0700.HK"
+      "阿里巴巴",
+      "BABA",
+      "9988.HK",
+      "马云",
+      "增持",
+      "配股",
+      "AI",
+      "蔡崇信",
+      "吴泳铭"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/tech/digi/2026-08-27/doc-inipuqhm9089656.shtml",
-    "published_date": "2026-08-27",
-    "still_developing": false
+    "url": "https://finance.sina.com.cn/wm/2026-08-25/doc-inipprnk9681147.shtml",
+    "published_date": "2026-08-25",
+    "still_developing": true
   }
 ]
