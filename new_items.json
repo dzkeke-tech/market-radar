@@ -1,192 +1,177 @@
 [
   {
-    "id": "488d216098e2bc81",
+    "id": "9e1f8938195744cf",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US"
+      "US",
+      "HK"
     ],
-    "time": "16:00",
+    "time": "08:30",
     "group": "大盘头条",
-    "title": "Stock market today Aug. 27: Nasdaq surges 1.4%, S&P 500 gains 0.7% as Nvidia earnings revive AI optimism",
-    "summary": "美股8月27日大幅反弹，纳指涨1.4%，S&P 500涨0.7%，道指涨约0.2%至53,564点。英伟达发布爆表Q2财报后单日飙涨8.74%，带动Salesforce(+21.5%)、IBM(+3.8%)等科技股全线上涨。麦当劳(-2.6%)、迪士尼(-2.6%)等传统消费股走弱。",
-    "why": "纳指+1.4%大涨确认AI基础设施投资周期未见顶；科技板块全面反弹对持有NVDA、GOOGL等美股仓位有直接正面影响。迪士尼DIS盘中-2.6%，持有DIS期权需关注。",
+    "title": "Jackson Hole analyst roundup: Warsh's hawkish speech sends September rate hike odds to 60%",
+    "summary": "Fed Chair Kevin Warsh's Jackson Hole address was more hawkish than expected, with analysts saying it 'puts the Fed at odds with Treasury.' September rate hike probability rose to 60.4% per CME FedWatch. Warsh warned financial conditions are not sufficiently restrictive and recommitted to the 2% PCE target. S&P 500 futures dipped; the dollar held gains.",
+    "why": "美联储主席沃什鹰派讲话推高9月加息赔率至60%，美元走强令港股及全球资产承压；隐含波动率上升对期权卖方（sell put）偏有利，但需防范指数单边下行风险，行权价选择应保守。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
-      "纳斯达克",
-      "S&P 500",
-      "英伟达",
-      "美股"
+      "Fed",
+      "Warsh",
+      "Jackson Hole",
+      "rate hike",
+      "美联储",
+      "加息",
+      "9月加息"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
-    "published_date": "2026-08-27",
+    "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+    "published_date": "2026-08-31",
     "still_developing": false
   },
   {
-    "id": "4ab92c726c6115f3",
+    "id": "a458764c3fa84166",
     "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "08:35",
+    "group": "大盘头条",
+    "title": "Oil Jumps at Week's Open as US Military Hits Iranian Launchers Preparing to Mine Strait of Hormuz",
+    "summary": "The US military struck Iranian rocket launchers that were preparing to mine the Strait of Hormuz on Sunday, ending weeks of relative calm in the ongoing 2026 Hormuz crisis. Brent crude for November rose above $90/barrel; WTI was near $86/barrel. The dollar held gains after Warsh's hawkish remarks, reinforcing September rate hike bets.",
+    "why": "中东地缘风险骤升，油价跳涨逾2%、布伦特突破90美元，通胀预期进一步升温，叠加沃什鹰派讲话，整体宏观环境趋紧；短期内市场波动率可能走高，对carry类策略（sell put）的安全边际有压制。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "oil price",
+      "Iran",
+      "Strait of Hormuz",
+      "Brent",
+      "geopolitical",
+      "中东",
+      "原油"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-30/latest-oil-market-news-and-analysis-for-aug-31",
+    "published_date": "2026-08-31",
+    "still_developing": false
+  },
+  {
+    "id": "c6fe0bd026e9ba87",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "A",
+      "HK"
+    ],
+    "time": "09:45",
+    "group": "大盘头条",
+    "title": "A股三大指数周一集体低开：科技/贵金属领跌，房地产板块大幅高开（融创、碧桂园各涨逾14%）",
+    "summary": "上证指数低开0.65%，深成指低开1.35%，创业板指低开1.67%，超4000只个股下跌；贵金属、算力硬件、半导体等板块跌幅居前。受央行40年房贷新政提振，内房股大幅反弹，融创中国、碧桂园涨超14%，世茂集团涨超10%。港股恒生指数低开0.64%，美团涨超2%。",
+    "why": "科技与消费科技板块今日整体承压（受全球宏观紧缩预期拖累），持有腾讯、阿里、小米等港股标的的sell put策略需关注盘中波动率；地产政策利好对消费（餐饮、旅游）有间接提振，美团等标的盘中录得上涨。",
+    "source": "中新网",
+    "verified": false,
+    "keywords": [
+      "A股",
+      "沪指",
+      "创业板",
+      "科技板块",
+      "房地产",
+      "地产股",
+      "港股",
+      "恒生指数"
+    ],
+    "translated": false,
+    "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687107.shtml",
+    "published_date": "2026-08-31",
+    "still_developing": false
+  },
+  {
+    "id": "03c096530a5534dd",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "A",
+      "HK"
+    ],
+    "time": "10:00",
+    "group": "大盘头条",
+    "title": "两部门：将个人住房贷款最长期限由30年延长至40年，同步规定竣工备案后才可放贷",
+    "summary": "中国人民银行、国家金融监督管理总局8月28日联合发布《关于改革完善房地产信贷管理的意见》，将个人住房贷款期限由最长30年延至最长40年，以100万元贷款/3%利率测算月供可减少约640元。另规定预售项目须竣工备案后才能放贷，保障购房人权益；开发贷款期限延至最长5-7年。",
+    "why": "重大房地产信贷制度改革，降低月供刺激购房需求，已推动今日地产股大幅反弹；对消费回暖（美团、海底捞、携程等消费标的）有间接利好，中长期关注内需提振传导效应。延续报道：新政8月28日落地，市场持续消化政策影响。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "房地产政策",
+      "住房贷款",
+      "央行",
+      "金监局",
+      "40年房贷",
+      "房地产信贷",
+      "楼市新政"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-28/doc-inipwnxp9005397.shtml",
+    "published_date": "2026-08-28",
+    "still_developing": true
+  },
+  {
+    "id": "394e398655956bc2",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "10:15",
+    "group": "个股",
+    "title": "Meituan (3690.HK) Q2 2026: Revenue CNY 104.6bn beats estimates (+14.4% YoY); profit swings positive as price war eases",
+    "summary": "Meituan's Q2 2026 revenue reached CNY 104.64 billion, beating the CNY 101.08 billion consensus estimate, up 14.4% YoY. Adjusted net profit swung to CNY 2.16 billion (from a CNY 4.97 billion loss in Q1 2026) as instant retail price competition subsided following regulator criticism of the 'race to the bottom.' Results released August 28.",
+    "why": "美团Q2业绩全面超预期，价格战趋缓是核心转折信号；调整净利由负转正，盈利修复对持有3690.HK的sell put策略构成正面支撑；Keeta国际化（沙特→卡塔尔）提供中长期增长看点。隐含波动率或随业绩落地温和回落，延续报道：8月28日业绩发布后持续受市场关注。",
+    "source": "Meituan IR",
+    "verified": true,
+    "keywords": [
+      "美团",
+      "Meituan",
+      "Q2 2026",
+      "即时零售",
+      "Keeta",
+      "3690.HK",
+      "外卖",
+      "价格战"
+    ],
+    "translated": false,
+    "url": "https://www.meituan.com/en-US/investor-relations",
+    "published_date": "2026-08-28",
+    "still_developing": true
+  },
+  {
+    "id": "c7cf894a5dc54198",
+    "tier": 2,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "16:30",
-    "group": "个股",
-    "title": "NVIDIA Q2 FY2027: Revenue $96.2B (+106% YoY), Data Center $89B, Q3 guidance $108B above street",
-    "summary": "英伟达Q2 FY2027营收$96.22B（超预期$92.07B），同比增106%，环比增18%。数据中心营收$89B（同比+117%）。非GAAP EPS $2.22（超预期$2.09）。Q3指引$108B，超分析师预期，管理层表示Blackwell需求持续加速。股价次日+8.74%。",
-    "why": "英伟达Q3指引$108B远超预期说明Blackwell超额产能已被锁定。对 sell put NVDA 策略，财报后隐含波动率通常收窄；持续上行指引意味着后续 covered call 可适当提高行权价。AI算力超级周期延续对整体仓位正面。",
-    "source": "SEC EDGAR / Nvidia IR",
+    "time": "10:30",
+    "group": "大盘头条",
+    "title": "Bitcoin slides below $78,000 as crypto markets digest Warsh's hawkish Jackson Hole remarks",
+    "summary": "Bitcoin dropped below $78,000 after Fed Chair Warsh's hawkish Jackson Hole speech reversed a rally that had briefly pushed BTC to a three-month high near $81,455. U.S. spot Bitcoin ETFs drew ~$924.5 million in the Aug 24-28 week (strongest month for inflows in 2026). Circle's USDC circulation grew by $1.8 billion over the past week, demonstrating resilient stablecoin demand despite market turbulence.",
+    "why": "加密市场受美联储鹰派信号直接打压，持有Circle(CRCL)需注意波动率上升背景下估值承压；USDC环流量持续增长（+18亿美元/周）显示稳定币基本面稳健，对Circle中长期没有实质损害，但短期可能随整体加密市场回调。延续报道：Warsh讲话后市场持续消化。",
+    "source": "CoinDesk",
     "verified": true,
     "keywords": [
-      "英伟达",
-      "NVDA",
-      "Blackwell",
-      "AI芯片",
-      "数据中心",
-      "GPU"
+      "Bitcoin",
+      "crypto",
+      "USDC",
+      "Circle",
+      "CRCL",
+      "稳定币",
+      "加密市场",
+      "比特币"
     ],
     "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
-    "published_date": "2026-08-26",
-    "still_developing": false
-  },
-  {
-    "id": "8664baca752c58b9",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US",
-      "HK",
-      "A"
-    ],
-    "time": "10:00",
-    "group": "大盘头条",
-    "title": "联储新主席Warsh今日Jackson Hole发表首次主旨演讲，市场押注9月会议方向",
-    "summary": "美联储新任主席Kevin Warsh（2026年5月就任）今日（8/28）上午10时ET在杰克逊霍尔年会发表首次主旨演讲，主题为《金融创新：对支付与政策的影响》。当前通胀3.4%（高于2%目标），30年期美债收益率5.31%（2007年以来最高），市场定价9月16日FOMC会议约1/3概率加息。本次演讲是Warsh确立货币政策立场的关键首秀。",
-    "why": "Warsh演讲直接决定9月16日降息/加息/按兵不动预期，影响全市场波动率曲面；若鹰派偏紧，美元走强，港股/中概估值承压；若信号宽松，有利于持仓中成长科技股 sell put 策略的盈利空间。期权交易者需密切关注VIX和implied vol走向。",
-    "source": "Kansas City Fed官方 / Bloomberg",
-    "verified": false,
-    "keywords": [
-      "美联储",
-      "Warsh",
-      "Jackson Hole",
-      "利率",
-      "货币政策",
-      "FOMC"
-    ],
-    "translated": false,
-    "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/",
+    "url": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
     "published_date": "2026-08-28",
     "still_developing": true
-  },
-  {
-    "id": "fba27dc144098d42",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "US",
-      "HK",
-      "A"
-    ],
-    "time": "08:00",
-    "group": "大盘头条",
-    "title": "美国拟对华加征7.5%超额产能关税，9月24日川习峰会前完成贸易上限布局",
-    "summary": "彭博报道，美国计划在9月24日华盛顿川习峰会前，依301条款产能过剩调查结果对中国商品加征7.5%关税。加上现有关税，合计将达20%——恰好是中美吉隆坡贸易休战协议上限。该休战协议于11月10日到期，此举或作为谈判筹码。",
-    "why": "延续报道：关税重回20%上限直接冲击对华出口相关中概股、制造业供应链；也令Temu/拼多多境外扩张成本再度攀升。对港股消费科技标的（阿里、腾讯、美团）构成估值压力，sell put 需注意方向风险。9月24日川习峰会谈判结果将是下一个关键节点。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "中美贸易",
-      "关税",
-      "Trump",
-      "Xi",
-      "301条款",
-      "产能过剩"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
-    "published_date": "2026-08-24",
-    "still_developing": true
-  },
-  {
-    "id": "f8c262f2695aad7a",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "HK",
-      "US"
-    ],
-    "time": "09:00",
-    "group": "个股",
-    "title": "阿里巴巴800亿港元新股配售8月26日完成，净募资100%投入全栈AI能力建设",
-    "summary": "阿里巴巴以每股112.70港元配售7.1亿股新股，总对价约800亿港元，8月26日完成交割。约60%（约478亿港元）用于扩充全球AI算力基础设施，约40%（约319亿港元）用于超大规模AI数据中心建设及传统云基础设施升级。获主权财富基金等优质长线投资者超额认购，是阿里2019年香港上市以来首次配股。",
-    "why": "阿里押注全栈AI而非仅做应用层，800亿港元全部投算力，是本轮国内AI军备竞赛中力度最大的资本行动。短期股本约稀释1.7%，配售完成消除不确定性；对持有9988.HK的 sell put 策略，需关注配售后估值按AI基础设施体系重置的机会。",
-    "source": "SEC EDGAR Form 6-K / Alibaba IR",
-    "verified": true,
-    "keywords": [
-      "阿里巴巴",
-      "BABA",
-      "配股",
-      "AI",
-      "阿里云",
-      "9988.HK"
-    ],
-    "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/0001577552/000119312526365894/project_turing_closing.htm",
-    "published_date": "2026-08-26",
-    "still_developing": false
-  },
-  {
-    "id": "1f99b520017727da",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "19:00",
-    "group": "大盘头条",
-    "title": "美团（3690.HK）今日盘后发布Q2 2026业绩，电话会议香港时间晚7时",
-    "summary": "美团定于8月28日（今日）港股收盘后发布2026年第二季度财报，并于香港时间晚7时举行业绩电话会议。此前股价从高点122港元回调至约78港元，市场关注外卖、即时零售增速及Keeta国际化进展。",
-    "why": "美团是恒指重要成份股，业绩发布日隐含波动率通常放大。重点关注：外卖/即时零售GMV增速；Keeta在港/中东扩张进度；大众点评到店业务变化；管理层对竞争（京东、抖音团购）的表述。对持有3690.HK期权者，今日为高波动风险窗口。",
-    "source": "Meituan IR官方",
-    "verified": false,
-    "keywords": [
-      "美团",
-      "Meituan",
-      "3690.HK",
-      "外卖",
-      "即时零售",
-      "Keeta"
-    ],
-    "translated": false,
-    "url": "https://www.meituan.com/en-US/investor/calendar",
-    "published_date": "2026-08-28",
-    "still_developing": true
-  },
-  {
-    "id": "f702471095ab5735",
-    "tier": 3,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "12:00",
-    "group": "个股",
-    "title": "腾讯《王者万象棋》定档9月10日全平台上线，预约量逾7000万",
-    "summary": "腾讯旗下《王者荣耀》IP自走棋新作《王者万象棋》正式宣布9月10日全平台上线（iOS/Android/HarmonyOS/PC），预约量突破7000万。游戏收录85位英雄，支持18人同屏对战。",
-    "why": "里程碑软新闻：《王者荣耀》IP商业化路径延伸，7000万预约量验证IP韧性。若公测流水超预期，有助于腾讯国内游戏板块收入回暖（腾讯Q2国内游戏已+17%），对0700.HK sell put 策略属中性偏正面催化。",
-    "source": "新浪财经科技",
-    "verified": false,
-    "keywords": [
-      "腾讯",
-      "王者荣耀",
-      "游戏",
-      "0700.HK"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/tech/digi/2026-08-27/doc-inipuqhm9089656.shtml",
-    "published_date": "2026-08-27",
-    "still_developing": false
   }
 ]
