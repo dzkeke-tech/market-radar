@@ -1,192 +1,145 @@
 [
   {
-    "id": "488d216098e2bc81",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "16:00",
-    "group": "大盘头条",
-    "title": "Stock market today Aug. 27: Nasdaq surges 1.4%, S&P 500 gains 0.7% as Nvidia earnings revive AI optimism",
-    "summary": "美股8月27日大幅反弹，纳指涨1.4%，S&P 500涨0.7%，道指涨约0.2%至53,564点。英伟达发布爆表Q2财报后单日飙涨8.74%，带动Salesforce(+21.5%)、IBM(+3.8%)等科技股全线上涨。麦当劳(-2.6%)、迪士尼(-2.6%)等传统消费股走弱。",
-    "why": "纳指+1.4%大涨确认AI基础设施投资周期未见顶；科技板块全面反弹对持有NVDA、GOOGL等美股仓位有直接正面影响。迪士尼DIS盘中-2.6%，持有DIS期权需关注。",
-    "source": "CNBC",
-    "verified": true,
-    "keywords": [
-      "纳斯达克",
-      "S&P 500",
-      "英伟达",
-      "美股"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
-    "published_date": "2026-08-27",
-    "still_developing": false
-  },
-  {
-    "id": "4ab92c726c6115f3",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "16:30",
-    "group": "个股",
-    "title": "NVIDIA Q2 FY2027: Revenue $96.2B (+106% YoY), Data Center $89B, Q3 guidance $108B above street",
-    "summary": "英伟达Q2 FY2027营收$96.22B（超预期$92.07B），同比增106%，环比增18%。数据中心营收$89B（同比+117%）。非GAAP EPS $2.22（超预期$2.09）。Q3指引$108B，超分析师预期，管理层表示Blackwell需求持续加速。股价次日+8.74%。",
-    "why": "英伟达Q3指引$108B远超预期说明Blackwell超额产能已被锁定。对 sell put NVDA 策略，财报后隐含波动率通常收窄；持续上行指引意味着后续 covered call 可适当提高行权价。AI算力超级周期延续对整体仓位正面。",
-    "source": "SEC EDGAR / Nvidia IR",
-    "verified": true,
-    "keywords": [
-      "英伟达",
-      "NVDA",
-      "Blackwell",
-      "AI芯片",
-      "数据中心",
-      "GPU"
-    ],
-    "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
-    "published_date": "2026-08-26",
-    "still_developing": false
-  },
-  {
-    "id": "8664baca752c58b9",
-    "tier": 1,
+    "id": "8abad25d65b58033",
+    "tier": 2,
     "lang": "zh",
+    "markets": [
+      "A",
+      "HK"
+    ],
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "财新中国制造业PMI升至50.4重回扩张，官方PMI回升至49.8景气改善",
+    "summary": "8月31日，财新中国制造业PMI录得50.4，较7月回升0.6个百分点，重回荣枯线以上；官方国家统计局制造业PMI为49.8%，环比+0.6ppt，仍处收缩区间但大型企业PMI升至50.6%；综合PMI为49.5%。财新与官方数据均同步改善。",
+    "why": "制造业PMI双双回升，财新PMI重返扩张区间，为9月A股及港股蓝筹情绪提供正向支撑；外需仍有下滑压力，对出口导向标的影响需持续观察。",
+    "source": "财联社",
+    "verified": true,
+    "keywords": [
+      "PMI",
+      "制造业",
+      "财新",
+      "宏观",
+      "中国经济"
+    ],
+    "translated": false,
+    "url": "https://www.cls.cn/detail/1785579",
+    "published_date": "2026-08-31",
+    "still_developing": false
+  },
+  {
+    "id": "96bdf83792edef60",
+    "tier": 1,
+    "lang": "en",
     "markets": [
       "US",
       "HK",
       "A"
     ],
-    "time": "10:00",
+    "time": "08:30",
     "group": "大盘头条",
-    "title": "联储新主席Warsh今日Jackson Hole发表首次主旨演讲，市场押注9月会议方向",
-    "summary": "美联储新任主席Kevin Warsh（2026年5月就任）今日（8/28）上午10时ET在杰克逊霍尔年会发表首次主旨演讲，主题为《金融创新：对支付与政策的影响》。当前通胀3.4%（高于2%目标），30年期美债收益率5.31%（2007年以来最高），市场定价9月16日FOMC会议约1/3概率加息。本次演讲是Warsh确立货币政策立场的关键首秀。",
-    "why": "Warsh演讲直接决定9月16日降息/加息/按兵不动预期，影响全市场波动率曲面；若鹰派偏紧，美元走强，港股/中概估值承压；若信号宽松，有利于持仓中成长科技股 sell put 策略的盈利空间。期权交易者需密切关注VIX和implied vol走向。",
-    "source": "Kansas City Fed官方 / Bloomberg",
-    "verified": false,
+    "title": "Fed's Warsh warns inflation progress 'insufficient' at Jackson Hole; September rate hike odds jump to 58%",
+    "summary": "Fed Chair Kevin Warsh said at Jackson Hole on Aug 28 that inflation has stayed above the 2% target for 65 straight months and financial conditions are 'not restrictive enough,' implying rate hikes may be needed. Fed funds futures now price a 58% probability of a 25bps hike at the September FOMC meeting, up from 36% before the speech. Headline PCE for July came in at 3.7% YoY, above forecast.",
+    "why": "美联储主席Warsh鹰派表态将9月加息概率推至58%，美元走强、美债收益率上行对成长股和港股科技估值构成压力；sell put策略需关注加息预期对Delta的拖累，建议适当上调行权价或压缩久期。",
+    "source": "Bloomberg",
+    "verified": true,
     "keywords": [
       "美联储",
-      "Warsh",
+      "Fed",
       "Jackson Hole",
+      "加息",
+      "通胀",
+      "Warsh",
       "利率",
-      "货币政策",
-      "FOMC"
+      "货币政策"
     ],
     "translated": false,
-    "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/warsh-s-inflation-warning-sets-up-september-showdown-for-the-fed",
     "published_date": "2026-08-28",
     "still_developing": true
   },
   {
-    "id": "fba27dc144098d42",
-    "tier": 1,
+    "id": "646b778eface0e26",
+    "tier": 2,
     "lang": "zh",
     "markets": [
-      "US",
-      "HK",
-      "A"
+      "A",
+      "HK"
     ],
-    "time": "08:00",
+    "time": "12:00",
     "group": "大盘头条",
-    "title": "美国拟对华加征7.5%超额产能关税，9月24日川习峰会前完成贸易上限布局",
-    "summary": "彭博报道，美国计划在9月24日华盛顿川习峰会前，依301条款产能过剩调查结果对中国商品加征7.5%关税。加上现有关税，合计将达20%——恰好是中美吉隆坡贸易休战协议上限。该休战协议于11月10日到期，此举或作为谈判筹码。",
-    "why": "延续报道：关税重回20%上限直接冲击对华出口相关中概股、制造业供应链；也令Temu/拼多多境外扩张成本再度攀升。对港股消费科技标的（阿里、腾讯、美团）构成估值压力，sell put 需注意方向风险。9月24日川习峰会谈判结果将是下一个关键节点。",
-    "source": "Bloomberg",
+    "title": "A股中报8月31日收官，早盘缩量震荡；恒指平开沪指低开，分析师看好9月估值修复",
+    "summary": "8月31日为A股上市公司中报披露截止日，早盘沪指半日成交约6253亿元，较前日小幅萎缩，缺乏增量资金；恒生指数平开，上证综指低开0.35%。分析师认为8月调整已充分释放风险，9月有望迎来估值修复与情绪回暖，AI硬件、通信设备、半导体设备为主要推荐方向。",
+    "why": "中报收官确认A股基本面分化，9月起进入业绩空窗期，市场重心转向估值驱动；AI半导体持续被推荐与英伟达超预期财报相互强化，科技消费板块中长期配置逻辑不变。",
+    "source": "新浪财经",
     "verified": true,
     "keywords": [
-      "中美贸易",
-      "关税",
-      "Trump",
-      "Xi",
-      "301条款",
-      "产能过剩"
+      "A股",
+      "中报",
+      "港股",
+      "恒生指数",
+      "9月",
+      "估值修复",
+      "市场"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
-    "published_date": "2026-08-24",
-    "still_developing": true
-  },
-  {
-    "id": "f8c262f2695aad7a",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
-      "HK",
-      "US"
-    ],
-    "time": "09:00",
-    "group": "个股",
-    "title": "阿里巴巴800亿港元新股配售8月26日完成，净募资100%投入全栈AI能力建设",
-    "summary": "阿里巴巴以每股112.70港元配售7.1亿股新股，总对价约800亿港元，8月26日完成交割。约60%（约478亿港元）用于扩充全球AI算力基础设施，约40%（约319亿港元）用于超大规模AI数据中心建设及传统云基础设施升级。获主权财富基金等优质长线投资者超额认购，是阿里2019年香港上市以来首次配股。",
-    "why": "阿里押注全栈AI而非仅做应用层，800亿港元全部投算力，是本轮国内AI军备竞赛中力度最大的资本行动。短期股本约稀释1.7%，配售完成消除不确定性；对持有9988.HK的 sell put 策略，需关注配售后估值按AI基础设施体系重置的机会。",
-    "source": "SEC EDGAR Form 6-K / Alibaba IR",
-    "verified": true,
-    "keywords": [
-      "阿里巴巴",
-      "BABA",
-      "配股",
-      "AI",
-      "阿里云",
-      "9988.HK"
-    ],
-    "translated": false,
-    "url": "https://www.sec.gov/Archives/edgar/data/0001577552/000119312526365894/project_turing_closing.htm",
-    "published_date": "2026-08-26",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-08-31/doc-iniqetnx9057121.shtml",
+    "published_date": "2026-08-31",
     "still_developing": false
   },
   {
-    "id": "1f99b520017727da",
+    "id": "52ede3e253c69ff4",
     "tier": 2,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "16:00",
+    "group": "大盘头条",
+    "title": "Shein prices Hong Kong IPO at HK$48.56/share, $26.5B valuation; shares to debut September 1",
+    "summary": "Fast-fashion giant Shein priced its long-awaited Hong Kong IPO at HK$48.56/share (near mid-range), raising ~HK$13.6B ($1.73B) at a $26.5B valuation — a sharp discount to its $100B peak in 2022 and $66B in 2023, reflecting rising costs and slowing growth after the US eliminated the de minimis exemption. Shares begin trading on the Hong Kong Stock Exchange on September 1.",
+    "why": "延续报道：希音明日(9/1)港股挂牌，IPO定价HK$48.56（8月27日彭博确认中位定价，8月31日完成最终定价）。跨境消费电商板块估值重估在即；Temu/拼多多出海策略在同类关税压力下的竞争格局演变值得关注。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "Shein",
+      "希音",
+      "港股",
+      "IPO",
+      "跨境电商",
+      "快时尚",
+      "港交所"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/shein-is-said-to-guide-hong-kong-ipo-price-to-middle-of-range",
+    "published_date": "2026-08-27",
+    "still_developing": true
+  },
+  {
+    "id": "bcb156e21fa66842",
+    "tier": 1,
     "lang": "zh",
     "markets": [
       "HK"
     ],
-    "time": "19:00",
-    "group": "大盘头条",
-    "title": "美团（3690.HK）今日盘后发布Q2 2026业绩，电话会议香港时间晚7时",
-    "summary": "美团定于8月28日（今日）港股收盘后发布2026年第二季度财报，并于香港时间晚7时举行业绩电话会议。此前股价从高点122港元回调至约78港元，市场关注外卖、即时零售增速及Keeta国际化进展。",
-    "why": "美团是恒指重要成份股，业绩发布日隐含波动率通常放大。重点关注：外卖/即时零售GMV增速；Keeta在港/中东扩张进度；大众点评到店业务变化；管理层对竞争（京东、抖音团购）的表述。对持有3690.HK期权者，今日为高波动风险窗口。",
-    "source": "Meituan IR官方",
+    "time": "20:00",
+    "group": "个股",
+    "title": "美团Q2营收首破千亿达1046亿元(+14.4%)，调整后净利25.24亿元大增69%",
+    "summary": "美团2026年Q2营收1046.43亿元，同比增长14.4%，首次单季突破千亿；调整后净利润25.24亿元，同比增长69%。核心本地商业营收715亿元(+10.1%)，新业务营收331亿元(+25%)，亏损持续收窄。研发投入77亿元(+22.5%)。CEO王兴表示AI聚焦真实业务落地，拒绝成为纯粹的Token工厂。",
+    "why": "美团Q2业绩强劲，营收和利润均大幅超预期，即时零售韧性印证外卖+闪购增量逻辑；持仓covered call可待股价进一步回升后酌情操作；王兴AI策略务实表态为差异化估值逻辑加分。",
+    "source": "新浪财经",
     "verified": false,
     "keywords": [
       "美团",
       "Meituan",
       "3690.HK",
-      "外卖",
+      "财报",
+      "Q2",
       "即时零售",
-      "Keeta"
+      "外卖"
     ],
     "translated": false,
-    "url": "https://www.meituan.com/en-US/investor/calendar",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipwhrr8999174.shtml",
     "published_date": "2026-08-28",
     "still_developing": true
-  },
-  {
-    "id": "f702471095ab5735",
-    "tier": 3,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "12:00",
-    "group": "个股",
-    "title": "腾讯《王者万象棋》定档9月10日全平台上线，预约量逾7000万",
-    "summary": "腾讯旗下《王者荣耀》IP自走棋新作《王者万象棋》正式宣布9月10日全平台上线（iOS/Android/HarmonyOS/PC），预约量突破7000万。游戏收录85位英雄，支持18人同屏对战。",
-    "why": "里程碑软新闻：《王者荣耀》IP商业化路径延伸，7000万预约量验证IP韧性。若公测流水超预期，有助于腾讯国内游戏板块收入回暖（腾讯Q2国内游戏已+17%），对0700.HK sell put 策略属中性偏正面催化。",
-    "source": "新浪财经科技",
-    "verified": false,
-    "keywords": [
-      "腾讯",
-      "王者荣耀",
-      "游戏",
-      "0700.HK"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/tech/digi/2026-08-27/doc-inipuqhm9089656.shtml",
-    "published_date": "2026-08-27",
-    "still_developing": false
   }
 ]
