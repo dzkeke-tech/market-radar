@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-30 18:27 (北京时间)",
+  "updated_at": "2026-08-31 08:21 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,250 +9,74 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-30 18:27 (北京时间)",
-    "new_count": 4,
+    "at": "2026-08-31 08:21 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "196ed7dce2514a02",
+      "id": "a458764c3fa84166",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "US",
         "HK",
+        "US",
         "A"
       ],
       "time": "08:00",
       "group": "大盘头条",
-      "title": "沃什杰克逊霍尔首秀偏鹰：通胀未真正降下来，9月加息重回视野",
-      "summary": "美联储主席沃什在杰克逊霍尔年会发表首次主旨演讲，措辞偏鹰：7月PCE通胀3.7%（三年新高），核心PCE 3.3%，沃什称近期数据未令他相信基本通胀趋势已有重大改善，并暗示还有更多工作要做。讲话后市场对9月加息25bp的概率从35.4%骤升至约56%；10年期美债收益率升至4.68%。",
-      "why": "加息预期骤升直接压制权益估值；若9月真加息，sell put 的 theta 短期受益但 delta 敞口风险上升；港股、A股下周开盘面临进一步回调压力，组合整体偏防御。",
-      "source": "财新/新浪财经",
+      "title": "Oil Jumps 2% at Asia Open as US Military Strikes Iranian Rocket Launchers Near Strait of Hormuz",
+      "summary": "Brent crude surged above $90 a barrel in early Asia trading Monday after US forces struck Iranian rocket launchers preparing to mine the Strait of Hormuz on Sunday. The waterway — through which roughly one-fifth of global oil supply transits — has seen shipping effectively collapse since the conflict began in late February.",
+      "why": "中东地缘风险急剧升级：布伦特原油突破$90，推高全球通胀预期；霍尔木兹海峡封锁持续，能源板块受催化；叠加鹰派美联储形成stagflation风险，对科技成长类持仓估值构成双重压力；隐含波动率抬升有利于期权卖方收取更高权利金，但需关注整体市场方向风险。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "美联储",
-        "Jackson Hole",
-        "通胀",
-        "加息",
-        "PCE",
-        "沃什"
+        "oil",
+        "Iran",
+        "Strait of Hormuz",
+        "geopolitical",
+        "crude",
+        "Brent",
+        "Middle East"
       ],
       "translated": false,
-      "url": "https://opinion.caixin.com/2026-08-28/102478962.html",
-      "published_date": "2026-08-28",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-30/latest-oil-market-news-and-analysis-for-aug-31",
+      "published_date": "2026-08-30",
       "still_developing": false,
-      "first_seen": "2026-08-30",
+      "first_seen": "2026-08-31",
       "is_new": true
     },
     {
-      "id": "e8cc795a309f133e",
-      "tier": 1,
+      "id": "84d6524c07907a01",
+      "tier": 2,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "08:30",
+      "time": "18:00",
       "group": "大盘头条",
-      "title": "Core PCE: In line but not enough to lower Fed rate hike expectations",
-      "summary": "July PCE headline inflation rose to 3.7% YoY — a 3-year high — while core PCE held at 3.3% YoY and +0.2% MoM, broadly in-line with estimates but insufficient to ease rate-hike fears. Fed futures now price ~38% odds of a September hike and 1–2 hikes by year-end.",
-      "why": "为本轮 Warsh 鹰派讲话提供了数据背书；通胀未改善的格局下，美股 VIX 可能阶段性走高，期权 premium 短期利好 sellers；核心 PCE 3.3% 远超 2% 目标，加息路径尚未终结。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "PCE",
-        "inflation",
-        "Fed",
-        "rate hike",
-        "宏观",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/26/core-pce-in-line-but-not-enough-to-lower-fed-rate-hike-expectations.html",
-      "published_date": "2026-08-26",
-      "still_developing": true,
-      "first_seen": "2026-08-30",
-      "is_new": true
-    },
-    {
-      "id": "5584e83b3de25bd0",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
-      "summary": "Nvidia has reportedly agreed to acquire Hugging Face — the dominant open-source AI model hub — for $12.9 billion per The Information and CNBC. The deal is not yet signed and could fall apart. Hugging Face was last valued at $7B in initial Nvidia negotiations and $4.5B in a 2023 funding round backed by Google, Amazon, Salesforce and IBM. The acquisition would extend Nvidia's reach from GPU chips into AI software and model-distribution infrastructure.",
-      "why": "英伟达从芯片硬件延伸至模型生态控制权，若成交，将巩固其 AI 全栈护城河；NVDA 短期隐含波动率可能因并购不确定性走高，对 sell put 策略较为有利；需关注反垄断审查风险以及成交前的消息面波动。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Nvidia",
-        "NVDA",
-        "Hugging Face",
-        "AI",
-        "acquisition",
-        "英伟达",
-        "并购"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
-      "published_date": "2026-08-27",
-      "still_developing": true,
-      "first_seen": "2026-08-30",
-      "is_new": true
-    },
-    {
-      "id": "e051e4894345c5b9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "小米Q2 2026：营收1089亿，EV交付10.4万辆，AI研发投入占比近30%",
-      "summary": "小米2026年Q2营收1089亿元，调整后净利62亿元，毛利率19.8%。智能手机出货3120万部、ASP创历史新高1351元，高端机型占比32.1%；智能EV交付10.42万辆（同比+28.2%），SU7系列累计交付突破50万辆，SkyNomad SUV系列亮相；AIoT全球MAU 7.67亿、连网设备116亿台。研发投入92亿元（+18.9%），AI相关占近30%。",
-      "why": "EV交付量级稳步提升，ASP创高显示品牌力向上突破；AI硬件生态（AIoT+手机+车）协同效应渐显；1810.HK sell put 可持续关注，但研发高投入短期仍压制利润率扩张节奏。注：数据来自小米官方财报电话，未找到白名单媒体独立报道，verified:false。",
-      "source": "Investing.com/小米Q2 2026财报电话",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "SU7",
-        "YU7",
-        "EV",
-        "AIoT",
-        "Q2财报"
-      ],
-      "translated": false,
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-xiaomi-q2-2026-profit-holds-as-evs-and-ai-grow-93CH-4865241",
-      "published_date": "2026-08-26",
-      "still_developing": true,
-      "first_seen": "2026-08-30",
-      "is_new": true
-    },
-    {
-      "id": "06f64569310bdb7b",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "阿里巴巴宣布HK$800亿新股配售，为港交所史上最大单次供股，所得款项100%投入全栈AI能力",
-      "summary": "阿里巴巴集团8月23日宣布向美国境外非美国人士配售约7.1亿普通股，集资约100亿美元（以每股HK$112.70定价，较最新收盘价折让约3.6%）。本次配售已获超额认购，主权财富基金等长线机构需求强劲。所得款项100%用于投资全栈AI能力及扩展AI基础设施，巩固全球AI领导地位。本次供股规模为港交所历来最大单次主供股，全球排名今年第三（仅次于Alphabet与Intel）。",
-      "why": "港交所史上最大配股，规模相当于阿里当日市值约3-4%，折价3.6%配售将对二级市场短期定价形成压力；但超额认购且主权基金入场表明机构看好AI转型叙事；阿里Q2营收+9%、AI云收入+45%、利润大幅下滑背景下此次融资百亿美元专攻AI，预示资本开支周期将持续扩张，对AI基础设施上游（算力/HBM存储）具正向外溢效应",
-      "source": "South China Morning Post",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "BABA",
-        "9988.HK",
-        "阿里云",
-        "AI基础设施",
-        "配股",
-        "供股"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/tech/big-tech/article/3364957/alibaba-issue-hk80-billion-new-shares-global-ai-push",
-      "published_date": "2026-08-23",
-      "still_developing": false,
-      "first_seen": "2026-08-23",
-      "is_new": false
-    },
-    {
-      "id": "2bdd2e9dd6fee3fe",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:30",
-      "group": "个股",
-      "title": "PDD Holdings Q2 2026 Results Due Aug. 24: Wall Street Expects EPS $2.77 on $17.1B Revenue as Temu Growth Scrutinized",
-      "summary": "PDD Holdings will report Q2 2026 earnings before market open on Aug. 24, with a conference call at 7:30 a.m. ET. Consensus: EPS $2.77, revenue ~$17.13B. Stock is down ~40% from its 52-week high. Key watch: Temu international margin trajectory and whether high marketing spend is showing ROI. Analysts split with moderate buy consensus but some downgrade to underperform.",
-      "why": "拼多多（PDD）明日财报是本周最重要的中国互联网催化剂之一；Temu出海成本压制利润率是核心争议点；鉴于股价已跌40%，若业绩超预期且管理层给出积极指引，可关注反弹做空波动率机会（卖出看跌）；反之需防范进一步下行风险。",
-      "source": "MarketScreener",
-      "verified": false,
-      "keywords": [
-        "拼多多",
-        "PDD",
-        "Temu",
-        "跨境电商",
-        "百亿补贴"
-      ],
-      "translated": false,
-      "url": "https://www.marketscreener.com/news/pdd-holdings-to-report-second-quarter-2026-unaudited-financial-results-on-august-24-2026-ce7859dcdb8bff2d",
-      "published_date": "2026-08-22",
-      "still_developing": true,
-      "first_seen": "2026-08-23",
-      "is_new": false
-    },
-    {
-      "id": "d4416aa8fe8f009c",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Kevin Warsh to Make First Jackson Hole Speech as Fed Chair",
-      "summary": "New Fed Chair Kevin Warsh delivers his inaugural keynote at the Jackson Hole Economic Policy Symposium (Aug 27-29) on Friday, Aug 28. The event lands 19 days before the September 16 FOMC decision; Warsh has curtailed forward guidance since taking office in May.",
-      "why": "9月FOMC会议前最重要的政策信号窗口；Warsh刻意压缩前瞻指引，演讲立场偏鸽或偏鹰均将直接影响9月降息预期，期权卖方需关注演讲前后隐含波动率变化。",
+      "title": "S&P 500 Falls 0.3% on Warsh Hawkish Shock; US Futures Edge Lower Monday as Oil Spike Compounds Risk-Off Mood",
+      "summary": "S&P 500 closed -0.3% Friday following Fed Chair Warsh's hawkish Jackson Hole remarks, while the dollar posted its biggest monthly gain. US equity futures edged further lower Monday as oil jumped 2% on the Iran military strikes. The dual headwinds of higher-for-longer rates and geopolitically-driven oil prices raise stagflation fears and compound pressure on growth equities.",
+      "why": "双重风险同步升温（联储鹰派+地缘油价冲击）：成长股短线估值承压，港股科技面临美股调整传导；整体隐含波动率抬升有利于sell put收取更高权利金，但须检视持仓delta风险；美元升至月度高点对港股/人民币资产形成流动性压力。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "Jackson Hole",
-        "Fed",
-        "Warsh",
-        "FOMC",
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair",
-      "published_date": "2026-08-22",
-      "still_developing": false,
-      "first_seen": "2026-08-23",
-      "is_new": false
-    },
-    {
-      "id": "76d5177e503805b2",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "US Stocks Rise on Aug. 22: S&P 500 +0.43%, Dow +0.98%, Tesla Leads Gains After Volatile Yield-Driven Week",
-      "summary": "S&P 500 closed at 7,674.37 (+0.43%), Dow at 53,277.01 (+0.98%), Nasdaq at 26,180.46 (+0.43%) on August 22. Tesla surged 5.14% to lead gains. VIX fell 5.5%, 10-year yield retreated, and DXY dropped 0.70%. Markets on track for first weekly decline since late July despite Friday's bounce.",
-      "why": "本周整体为美股四周来首次单周下跌，尽管周五反弹——上周美债收益率飙升引发的抛售仍未完全消化；Tesla个股因Cybercab进展领涨，反映市场开始重新定价自动驾驶叙事。关注下周Nvidia（8月26日）和PDD（8月24日）财报能否提振市场情绪。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
         "S&P 500",
-        "Dow Jones",
-        "Nasdaq",
-        "市场反弹",
-        "美股"
+        "stock market",
+        "futures",
+        "risk-off",
+        "stagflation",
+        "dollar",
+        "Dow Jones"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/21/stock-market-today-live-updates-.html",
-      "published_date": "2026-08-22",
-      "still_developing": true,
-      "first_seen": "2026-08-23",
-      "is_new": false
+      "url": "https://www.bloomberg.com/news/articles/2026-08-30/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-08-30",
+      "still_developing": false,
+      "first_seen": "2026-08-31",
+      "is_new": true
     },
     {
       "id": "91160255a73b6153",
@@ -1024,6 +848,97 @@
       "is_new": false
     },
     {
+      "id": "196ed7dce2514a02",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "沃什杰克逊霍尔首秀偏鹰：通胀未真正降下来，9月加息重回视野",
+      "summary": "美联储主席沃什在杰克逊霍尔年会发表首次主旨演讲，措辞偏鹰：7月PCE通胀3.7%（三年新高），核心PCE 3.3%，沃什称近期数据未令他相信基本通胀趋势已有重大改善，并暗示还有更多工作要做。讲话后市场对9月加息25bp的概率从35.4%骤升至约56%；10年期美债收益率升至4.68%。",
+      "why": "加息预期骤升直接压制权益估值；若9月真加息，sell put 的 theta 短期受益但 delta 敞口风险上升；港股、A股下周开盘面临进一步回调压力，组合整体偏防御。",
+      "source": "财新/新浪财经",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Jackson Hole",
+        "通胀",
+        "加息",
+        "PCE",
+        "沃什"
+      ],
+      "translated": false,
+      "url": "https://opinion.caixin.com/2026-08-28/102478962.html",
+      "published_date": "2026-08-28",
+      "still_developing": false,
+      "first_seen": "2026-08-30",
+      "is_new": false
+    },
+    {
+      "id": "e8cc795a309f133e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Core PCE: In line but not enough to lower Fed rate hike expectations",
+      "summary": "July PCE headline inflation rose to 3.7% YoY — a 3-year high — while core PCE held at 3.3% YoY and +0.2% MoM, broadly in-line with estimates but insufficient to ease rate-hike fears. Fed futures now price ~38% odds of a September hike and 1–2 hikes by year-end.",
+      "why": "为本轮 Warsh 鹰派讲话提供了数据背书；通胀未改善的格局下，美股 VIX 可能阶段性走高，期权 premium 短期利好 sellers；核心 PCE 3.3% 远超 2% 目标，加息路径尚未终结。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "PCE",
+        "inflation",
+        "Fed",
+        "rate hike",
+        "宏观",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/26/core-pce-in-line-but-not-enough-to-lower-fed-rate-hike-expectations.html",
+      "published_date": "2026-08-26",
+      "still_developing": true,
+      "first_seen": "2026-08-30",
+      "is_new": false
+    },
+    {
+      "id": "5584e83b3de25bd0",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+      "summary": "Nvidia has reportedly agreed to acquire Hugging Face — the dominant open-source AI model hub — for $12.9 billion per The Information and CNBC. The deal is not yet signed and could fall apart. Hugging Face was last valued at $7B in initial Nvidia negotiations and $4.5B in a 2023 funding round backed by Google, Amazon, Salesforce and IBM. The acquisition would extend Nvidia's reach from GPU chips into AI software and model-distribution infrastructure.",
+      "why": "英伟达从芯片硬件延伸至模型生态控制权，若成交，将巩固其 AI 全栈护城河；NVDA 短期隐含波动率可能因并购不确定性走高，对 sell put 策略较为有利；需关注反垄断审查风险以及成交前的消息面波动。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "Nvidia",
+        "NVDA",
+        "Hugging Face",
+        "AI",
+        "acquisition",
+        "英伟达",
+        "并购"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+      "published_date": "2026-08-27",
+      "still_developing": true,
+      "first_seen": "2026-08-30",
+      "is_new": false
+    },
+    {
       "id": "35c375b179fc9ecd",
       "tier": 1,
       "lang": "en",
@@ -1081,66 +996,6 @@
       "published_date": "2026-08-29",
       "still_developing": false,
       "first_seen": "2026-08-30",
-      "is_new": false
-    },
-    {
-      "id": "22753598326542c1",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "雷军微博：小米SU7赢川渝往返700km续航挑战，实测达成率80.46%十车第一",
-      "summary": "小米创始人雷军于8月22日发微博，公布川渝往返700km高速+山区路况测试结果：小米SU7以724.9km实测续航、80.46%达成率位列十款主流长续航纯电车第一，是唯一完成往返全程未趴窝的车型。",
-      "why": "产品力口碑验证是小米汽车品牌溢价的关键——直接对比竞品的实测胜利有助于稳固SU7在20万+纯电轿车的龙头地位，支撑交付量持续增长预期，对持有小米(1810.HK)头寸为正向催化。",
-      "source": "新浪",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "SU7",
-        "雷军",
-        "小米汽车",
-        "续航"
-      ],
-      "translated": false,
-      "url": "https://www.sina.cn/news/detail/5334715218789874.html",
-      "published_date": "2026-08-22",
-      "still_developing": false,
-      "first_seen": "2026-08-23",
-      "is_new": false
-    },
-    {
-      "id": "909e0e62a94a278f",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:30",
-      "group": "个股",
-      "title": "Tesla Stock Surges 5%+ Weekly on Cybercab Momentum: Austin Hub Permit Filed, Sept. 3 Launch Event Set",
-      "summary": "TSLA closed at ~$362.86 on Aug. 22 (+5.2% on the week). Catalyst: permit filings for a dedicated Cybercab charging hub in Austin, TX — Phase 1 (48 V3 Superchargers) + Phase 2 (80 wireless chargers) across 128 parking spaces. Tesla employee test rides for the Cybercab are expected to begin before month-end; qualifying event runs through Aug. 23. Full launch event set for Sept. 3.",
-      "why": "Cybercab从期权叙事变为物理部署——充电枢纽施工许可是可证伪的进度节点，让Robotaxi商业化时间轴预期前移；对TSLA sell put策略：股价重回$350+区间，隐含波动率可能仍偏高，若9月3日发布会顺利进行则可考虑卖出更高行权价的看跌。",
-      "source": "Yahoo Finance",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Cybercab",
-        "Robotaxi",
-        "自动驾驶",
-        "FSD"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-cybercab-launch-172749081.html",
-      "published_date": "2026-08-22",
-      "still_developing": true,
-      "first_seen": "2026-08-23",
       "is_new": false
     },
     {
@@ -1713,6 +1568,37 @@
       "published_date": "2026-08-28",
       "still_developing": false,
       "first_seen": "2026-08-29",
+      "is_new": false
+    },
+    {
+      "id": "e051e4894345c5b9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "小米Q2 2026：营收1089亿，EV交付10.4万辆，AI研发投入占比近30%",
+      "summary": "小米2026年Q2营收1089亿元，调整后净利62亿元，毛利率19.8%。智能手机出货3120万部、ASP创历史新高1351元，高端机型占比32.1%；智能EV交付10.42万辆（同比+28.2%），SU7系列累计交付突破50万辆，SkyNomad SUV系列亮相；AIoT全球MAU 7.67亿、连网设备116亿台。研发投入92亿元（+18.9%），AI相关占近30%。",
+      "why": "EV交付量级稳步提升，ASP创高显示品牌力向上突破；AI硬件生态（AIoT+手机+车）协同效应渐显；1810.HK sell put 可持续关注，但研发高投入短期仍压制利润率扩张节奏。注：数据来自小米官方财报电话，未找到白名单媒体独立报道，verified:false。",
+      "source": "Investing.com/小米Q2 2026财报电话",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "SU7",
+        "YU7",
+        "EV",
+        "AIoT",
+        "Q2财报"
+      ],
+      "translated": false,
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-xiaomi-q2-2026-profit-holds-as-evs-and-ai-grow-93CH-4865241",
+      "published_date": "2026-08-26",
+      "still_developing": true,
+      "first_seen": "2026-08-30",
       "is_new": false
     },
     {
