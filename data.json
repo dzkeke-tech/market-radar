@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-08-31 18:22 (北京时间)",
+  "updated_at": "2026-09-01 08:24 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,130 +9,153 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-08-31 18:22 (北京时间)",
-    "new_count": 4,
+    "at": "2026-09-01 08:24 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "bcb156e21fa66842",
+      "id": "e8dc7a0f526a131b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-08-31",
+      "published_date": "2026-08-31",
+      "group": "大盘头条",
+      "title": "美伊军事冲突推高油价，美股8月31日收跌0.33%但月线累涨2.6%",
+      "summary": "美国对伊朗拉腊克岛（Larak Island）发动空袭，地缘风险推高油价，美股尾盘承压：标普500收跌0.33%至7,686.14点，道指跌374点，纳指跌0.12%。但8月整月标普累涨2.6%、纳指+3.9%、科技板块+6%以上。",
+      "why": "美伊军事冲突为当日最大宏观风险事件，同时油价飙升影响大盘与能源板块；月线收官数据为资产配置参考，符合大盘头条条件。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "美股",
+        "标普500",
+        "美伊冲突",
+        "油价",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+      "still_developing": false,
+      "first_seen": "2026-09-01",
+      "is_new": true
+    },
+    {
+      "id": "03d2efe5fac92d35",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "20:00",
+      "time": "2026-08-27",
+      "published_date": "2026-08-27",
       "group": "个股",
-      "title": "美团Q2营收首破千亿达1046亿元(+14.4%)，调整后净利25.24亿元大增69%",
-      "summary": "美团2026年Q2营收1046.43亿元，同比增长14.4%，首次单季突破千亿；调整后净利润25.24亿元，同比增长69%。核心本地商业营收715亿元(+10.1%)，新业务营收331亿元(+25%)，亏损持续收窄。研发投入77亿元(+22.5%)。CEO王兴表示AI聚焦真实业务落地，拒绝成为纯粹的Token工厂。",
-      "why": "美团Q2业绩强劲，营收和利润均大幅超预期，即时零售韧性印证外卖+闪购增量逻辑；持仓covered call可待股价进一步回升后酌情操作；王兴AI策略务实表态为差异化估值逻辑加分。",
+      "title": "蜜雪冰城上半年净利润同比降14.7%至23.19亿元，上市以来首次盈利下滑",
+      "summary": "蜜雪冰城（2097.HK）2026年上半年营收152.16亿元（+2.3%），净利润23.19亿元（-14.7%），为上市以来首次盈利同比下滑。原因主要为原材料成本上涨及门店扩张费用增加。业绩公布后股价盘中跌近8%。",
+      "why": "蜜雪冰城盈利首次下滑属重大基本面事件，涉及持仓标的，直接影响估值重估。still_developing因业绩消化、分析师下调预期仍在进行中。",
       "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "财报",
-        "Q2",
-        "即时零售",
-        "外卖"
+        "蜜雪冰城",
+        "Mixue",
+        "2097.HK",
+        "现制茶饮",
+        "业绩",
+        "净利润"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipwhrr8999174.shtml",
-      "published_date": "2026-08-28",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipucsw0757264.shtml",
       "still_developing": true,
-      "first_seen": "2026-08-31",
+      "first_seen": "2026-09-01",
       "is_new": true
     },
     {
-      "id": "8abad25d65b58033",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "财新中国制造业PMI升至50.4重回扩张，官方PMI回升至49.8景气改善",
-      "summary": "8月31日，财新中国制造业PMI录得50.4，较7月回升0.6个百分点，重回荣枯线以上；官方国家统计局制造业PMI为49.8%，环比+0.6ppt，仍处收缩区间但大型企业PMI升至50.6%；综合PMI为49.5%。财新与官方数据均同步改善。",
-      "why": "制造业PMI双双回升，财新PMI重返扩张区间，为9月A股及港股蓝筹情绪提供正向支撑；外需仍有下滑压力，对出口导向标的影响需持续观察。",
-      "source": "财联社",
-      "verified": true,
-      "keywords": [
-        "PMI",
-        "制造业",
-        "财新",
-        "宏观",
-        "中国经济"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/1785579",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "first_seen": "2026-08-31",
-      "is_new": true
-    },
-    {
-      "id": "646b778eface0e26",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "A股中报8月31日收官，早盘缩量震荡；恒指平开沪指低开，分析师看好9月估值修复",
-      "summary": "8月31日为A股上市公司中报披露截止日，早盘沪指半日成交约6253亿元，较前日小幅萎缩，缺乏增量资金；恒生指数平开，上证综指低开0.35%。分析师认为8月调整已充分释放风险，9月有望迎来估值修复与情绪回暖，AI硬件、通信设备、半导体设备为主要推荐方向。",
-      "why": "中报收官确认A股基本面分化，9月起进入业绩空窗期，市场重心转向估值驱动；AI半导体持续被推荐与英伟达超预期财报相互强化，科技消费板块中长期配置逻辑不变。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "中报",
-        "港股",
-        "恒生指数",
-        "9月",
-        "估值修复",
-        "市场"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-31/doc-iniqetnx9057121.shtml",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "first_seen": "2026-08-31",
-      "is_new": true
-    },
-    {
-      "id": "52ede3e253c69ff4",
+      "id": "a9dcdd46289e2330",
       "tier": 2,
       "lang": "en",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "16:00",
+      "time": "2026-08-29",
+      "published_date": "2026-08-29",
       "group": "大盘头条",
-      "title": "Shein prices Hong Kong IPO at HK$48.56/share, $26.5B valuation; shares to debut September 1",
-      "summary": "Fast-fashion giant Shein priced its long-awaited Hong Kong IPO at HK$48.56/share (near mid-range), raising ~HK$13.6B ($1.73B) at a $26.5B valuation — a sharp discount to its $100B peak in 2022 and $66B in 2023, reflecting rising costs and slowing growth after the US eliminated the de minimis exemption. Shares begin trading on the Hong Kong Stock Exchange on September 1.",
-      "why": "延续报道：希音明日(9/1)港股挂牌，IPO定价HK$48.56（8月27日彭博确认中位定价，8月31日完成最终定价）。跨境消费电商板块估值重估在即；Temu/拼多多出海策略在同类关税压力下的竞争格局演变值得关注。",
+      "title": "美国8月非农就业9月4日公布，市场预期从7月-2.3万反弹至+5.5万",
+      "summary": "Bloomberg预览：8月非农就业人数预计新增约5.5万人，扭转7月意外萎缩2.3万的局面。该数据将于9月4日（周四）公布，是联储9月FOMC会议（9月16日）前最后一份重磅就业报告，市场认为强劲数据将支持沃什鹰派立场、弱化降息预期。",
+      "why": "非农前瞻为下周最重要宏观事件预警，影响美股波动率及期权定价，与sell put策略直接相关。still_developing因数据尚未发布，仍在持续发酵阶段。",
       "source": "Bloomberg",
-      "verified": true,
+      "verified": false,
       "keywords": [
-        "Shein",
-        "希音",
-        "港股",
-        "IPO",
-        "跨境电商",
-        "快时尚",
-        "港交所"
+        "非农就业",
+        "美联储",
+        "宏观",
+        "就业报告",
+        "FOMC",
+        "利率"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/shein-is-said-to-guide-hong-kong-ipo-price-to-middle-of-range",
-      "published_date": "2026-08-27",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-29/us-jobs-report-seen-backing-warsh-view-of-labor-market",
       "still_developing": true,
-      "first_seen": "2026-08-31",
+      "first_seen": "2026-09-01",
+      "is_new": true
+    },
+    {
+      "id": "ecffeac008297a79",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-08-31",
+      "published_date": "2026-08-31",
+      "group": "个股",
+      "title": "特斯拉8月31日涨5.51%至$367.95，Cybercab将于9月3日在奥斯汀正式发布",
+      "summary": "TSLA当日收涨5.51%报$367.95，为当日美股涨幅最大蓝筹之一。催化剂：Cybercab（Robotaxi）定于9月3日（周三）在德州奥斯汀举行正式发布活动，市场预期FSD商业化进程将加速。",
+      "why": "Cybercab发布为近期TSLA最重要催化剂，直接关系Robotaxi商业化时间表与估值重估逻辑。持仓标的，波动率事件需跟踪。",
+      "source": "moomoo",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "TSLA",
+        "Robotaxi",
+        "Cybercab",
+        "FSD",
+        "自动驾驶"
+      ],
+      "translated": false,
+      "url": "https://www.moomoo.com/news/post/75081326/us-stock-market-movements-tesla-tslaus-rises-over-5-cybercab",
+      "still_developing": false,
+      "first_seen": "2026-09-01",
+      "is_new": true
+    },
+    {
+      "id": "03b7333dcc3fdcfa",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-08-28",
+      "published_date": "2026-08-28",
+      "group": "个股",
+      "title": "腾讯8月28日回购266万股耗资约10亿港元",
+      "summary": "腾讯（0700.HK）于2026年8月28日在港交所回购266万股，成交价区间372.4-383港元，合计耗资约10亿港元。",
+      "why": "腾讯单日大额回购（~10亿港元）为持续护盘信号，结合sell put策略需关注回购支撑价格区间（372-383港元为当日买入区间）。verified=true因回购为HKEXnews强制披露事项，财联社报道与交易所数据一致。still_developing因回购计划仍在持续执行中。",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "回购",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/1779848",
+      "still_developing": true,
+      "first_seen": "2026-09-01",
       "is_new": true
     },
     {
@@ -818,6 +841,36 @@
       "is_new": false
     },
     {
+      "id": "bcb156e21fa66842",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "20:00",
+      "group": "个股",
+      "title": "美团Q2营收首破千亿达1046亿元(+14.4%)，调整后净利25.24亿元大增69%",
+      "summary": "美团2026年Q2营收1046.43亿元，同比增长14.4%，首次单季突破千亿；调整后净利润25.24亿元，同比增长69%。核心本地商业营收715亿元(+10.1%)，新业务营收331亿元(+25%)，亏损持续收窄。研发投入77亿元(+22.5%)。CEO王兴表示AI聚焦真实业务落地，拒绝成为纯粹的Token工厂。",
+      "why": "美团Q2业绩强劲，营收和利润均大幅超预期，即时零售韧性印证外卖+闪购增量逻辑；持仓covered call可待股价进一步回升后酌情操作；王兴AI策略务实表态为差异化估值逻辑加分。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "财报",
+        "Q2",
+        "即时零售",
+        "外卖"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipwhrr8999174.shtml",
+      "published_date": "2026-08-28",
+      "still_developing": true,
+      "first_seen": "2026-08-31",
+      "is_new": false
+    },
+    {
       "id": "03c096530a5534dd",
       "tier": 1,
       "lang": "zh",
@@ -1421,6 +1474,96 @@
       "published_date": "2026-08-28",
       "still_developing": false,
       "first_seen": "2026-08-30",
+      "is_new": false
+    },
+    {
+      "id": "8abad25d65b58033",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "财新中国制造业PMI升至50.4重回扩张，官方PMI回升至49.8景气改善",
+      "summary": "8月31日，财新中国制造业PMI录得50.4，较7月回升0.6个百分点，重回荣枯线以上；官方国家统计局制造业PMI为49.8%，环比+0.6ppt，仍处收缩区间但大型企业PMI升至50.6%；综合PMI为49.5%。财新与官方数据均同步改善。",
+      "why": "制造业PMI双双回升，财新PMI重返扩张区间，为9月A股及港股蓝筹情绪提供正向支撑；外需仍有下滑压力，对出口导向标的影响需持续观察。",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "PMI",
+        "制造业",
+        "财新",
+        "宏观",
+        "中国经济"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/1785579",
+      "published_date": "2026-08-31",
+      "still_developing": false,
+      "first_seen": "2026-08-31",
+      "is_new": false
+    },
+    {
+      "id": "646b778eface0e26",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "大盘头条",
+      "title": "A股中报8月31日收官，早盘缩量震荡；恒指平开沪指低开，分析师看好9月估值修复",
+      "summary": "8月31日为A股上市公司中报披露截止日，早盘沪指半日成交约6253亿元，较前日小幅萎缩，缺乏增量资金；恒生指数平开，上证综指低开0.35%。分析师认为8月调整已充分释放风险，9月有望迎来估值修复与情绪回暖，AI硬件、通信设备、半导体设备为主要推荐方向。",
+      "why": "中报收官确认A股基本面分化，9月起进入业绩空窗期，市场重心转向估值驱动；AI半导体持续被推荐与英伟达超预期财报相互强化，科技消费板块中长期配置逻辑不变。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "中报",
+        "港股",
+        "恒生指数",
+        "9月",
+        "估值修复",
+        "市场"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-31/doc-iniqetnx9057121.shtml",
+      "published_date": "2026-08-31",
+      "still_developing": false,
+      "first_seen": "2026-08-31",
+      "is_new": false
+    },
+    {
+      "id": "52ede3e253c69ff4",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Shein prices Hong Kong IPO at HK$48.56/share, $26.5B valuation; shares to debut September 1",
+      "summary": "Fast-fashion giant Shein priced its long-awaited Hong Kong IPO at HK$48.56/share (near mid-range), raising ~HK$13.6B ($1.73B) at a $26.5B valuation — a sharp discount to its $100B peak in 2022 and $66B in 2023, reflecting rising costs and slowing growth after the US eliminated the de minimis exemption. Shares begin trading on the Hong Kong Stock Exchange on September 1.",
+      "why": "延续报道：希音明日(9/1)港股挂牌，IPO定价HK$48.56（8月27日彭博确认中位定价，8月31日完成最终定价）。跨境消费电商板块估值重估在即；Temu/拼多多出海策略在同类关税压力下的竞争格局演变值得关注。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Shein",
+        "希音",
+        "港股",
+        "IPO",
+        "跨境电商",
+        "快时尚",
+        "港交所"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/shein-is-said-to-guide-hong-kong-ipo-price-to-middle-of-range",
+      "published_date": "2026-08-27",
+      "still_developing": true,
+      "first_seen": "2026-08-31",
       "is_new": false
     },
     {
