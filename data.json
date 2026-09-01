@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-01 08:24 (北京时间)",
+  "updated_at": "2026-09-01 18:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,152 +9,210 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-01 08:24 (北京时间)",
-    "new_count": 5,
+    "at": "2026-09-01 18:17 (北京时间)",
+    "new_count": 7,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "e8dc7a0f526a131b",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-31",
-      "published_date": "2026-08-31",
-      "group": "大盘头条",
-      "title": "美伊军事冲突推高油价，美股8月31日收跌0.33%但月线累涨2.6%",
-      "summary": "美国对伊朗拉腊克岛（Larak Island）发动空袭，地缘风险推高油价，美股尾盘承压：标普500收跌0.33%至7,686.14点，道指跌374点，纳指跌0.12%。但8月整月标普累涨2.6%、纳指+3.9%、科技板块+6%以上。",
-      "why": "美伊军事冲突为当日最大宏观风险事件，同时油价飙升影响大盘与能源板块；月线收官数据为资产配置参考，符合大盘头条条件。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "美股",
-        "标普500",
-        "美伊冲突",
-        "油价",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
-      "still_developing": false,
-      "first_seen": "2026-09-01",
-      "is_new": true
-    },
-    {
-      "id": "03d2efe5fac92d35",
+      "id": "ea92713a0d1c8adb",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "2026-08-27",
-      "published_date": "2026-08-27",
-      "group": "个股",
-      "title": "蜜雪冰城上半年净利润同比降14.7%至23.19亿元，上市以来首次盈利下滑",
-      "summary": "蜜雪冰城（2097.HK）2026年上半年营收152.16亿元（+2.3%），净利润23.19亿元（-14.7%），为上市以来首次盈利同比下滑。原因主要为原材料成本上涨及门店扩张费用增加。业绩公布后股价盘中跌近8%。",
-      "why": "蜜雪冰城盈利首次下滑属重大基本面事件，涉及持仓标的，直接影响估值重估。still_developing因业绩消化、分析师下调预期仍在进行中。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "蜜雪冰城",
-        "Mixue",
-        "2097.HK",
-        "现制茶饮",
-        "业绩",
-        "净利润"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipucsw0757264.shtml",
-      "still_developing": true,
-      "first_seen": "2026-09-01",
-      "is_new": true
-    },
-    {
-      "id": "a9dcdd46289e2330",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-29",
-      "published_date": "2026-08-29",
+      "time": "09:30",
       "group": "大盘头条",
-      "title": "美国8月非农就业9月4日公布，市场预期从7月-2.3万反弹至+5.5万",
-      "summary": "Bloomberg预览：8月非农就业人数预计新增约5.5万人，扭转7月意外萎缩2.3万的局面。该数据将于9月4日（周四）公布，是联储9月FOMC会议（9月16日）前最后一份重磅就业报告，市场认为强劲数据将支持沃什鹰派立场、弱化降息预期。",
-      "why": "非农前瞻为下周最重要宏观事件预警，影响美股波动率及期权定价，与sell put策略直接相关。still_developing因数据尚未发布，仍在持续发酵阶段。",
-      "source": "Bloomberg",
-      "verified": false,
+      "title": "港股9月开门黑：恒指跌0.93%，科指挫1.49%，科网内房普跌",
+      "summary": "恒生指数9月1日收跌0.93%报25,307点，恒生科技指数挫1.49%；腾讯跌1.4%、阿里跌1.7%、美团跌0.7%、小米跌0.3%。美联储鹰派预期升温叠加美伊局势再度紧张，市场情绪受压。",
+      "why": "港股大盘走势影响全部持仓估值，科技板块普跌对腾讯/阿里/美团/小米形成直接压力；波动率上升有利于sell put策略，可关注近月隐含波动率变化。",
+      "source": "智通财经/dimsumdaily.hk",
+      "verified": true,
       "keywords": [
-        "非农就业",
-        "美联储",
-        "宏观",
-        "就业报告",
-        "FOMC",
-        "利率"
+        "HK",
+        "恒生指数",
+        "科技股",
+        "港股"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-29/us-jobs-report-seen-backing-warsh-view-of-labor-market",
-      "still_developing": true,
+      "url": "https://www.dimsumdaily.hk/hang-seng-index-opens-lower-as-technology-shares-fall/",
+      "published_date": "2026-09-01",
+      "still_developing": false,
       "first_seen": "2026-09-01",
       "is_new": true
     },
     {
-      "id": "ecffeac008297a79",
-      "tier": 2,
+      "id": "ee68dcd504777120",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "美伊冲突骤然升级推动油价三周最大涨幅，WTI升至86.57美元",
+      "summary": "美军袭击伊朗控制的拉拉克岛火箭发射装置，伊朗随即对阿联酋和约旦发动反击，特朗普威胁袭击伊朗主要出口枢纽哈尔克岛。WTI原油涨约2.8%至每桶86.57美元，布伦特升至91.28美元，均创三周最大单日涨幅。",
+      "why": "地缘冲突与油价飙升推升全球通胀预期，强化美联储鹰派立场，对高估值科技股及港股形成双重压制；能源成本上升也影响消费类持仓基本面。",
+      "source": "Reuters/新浪财经",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "中东",
+        "美伊",
+        "WTI",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://fxdailyreport.com/wti-crude-oil-price-analysis-for-september-1-2026/",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "first_seen": "2026-09-01",
+      "is_new": true
+    },
+    {
+      "id": "025de4ad0087fa19",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Shein Hong Kong IPO Shares Slide on First Day of Trading; Raised $1.74B",
+      "summary": "Shein priced 280 million shares at HK$48.56 each, raising approximately HK$13.6 billion ($1.74 billion), valuing the company at ~$26.5 billion. Shares fell on the first day of trading as investors reacted cautiously to slowing revenue growth, rising competition, and a first-quarter net loss of $99 million.",
+      "why": "Hope港IPO市场冷热指标；Shein首日破发反映港股当前风险偏好较低，对高估值成长股（如泡泡玛特、蜜雪冰城）形成情绪压力。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Shein",
+        "IPO",
+        "HK",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-ipo-what-to-know-about-hong-kong-listing-valuation",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "first_seen": "2026-09-01",
+      "is_new": true
+    },
+    {
+      "id": "c8a018b7ee10bec4",
+      "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "2026-08-31",
-      "published_date": "2026-08-31",
+      "time": "15:00",
       "group": "个股",
-      "title": "特斯拉8月31日涨5.51%至$367.95，Cybercab将于9月3日在奥斯汀正式发布",
-      "summary": "TSLA当日收涨5.51%报$367.95，为当日美股涨幅最大蓝筹之一。催化剂：Cybercab（Robotaxi）定于9月3日（周三）在德州奥斯汀举行正式发布活动，市场预期FSD商业化进程将加速。",
-      "why": "Cybercab发布为近期TSLA最重要催化剂，直接关系Robotaxi商业化时间表与估值重估逻辑。持仓标的，波动率事件需跟踪。",
-      "source": "moomoo",
+      "title": "Tesla Climbs 6% as Cybercab Robotaxi Launch Set for September 3 in Austin",
+      "summary": "Tesla shares rose nearly 6%, breaking above the 50-day moving average, as investors focused on the September 3 Cybercab launch event in Austin. The invite-only event will also be livestreamed; the two-seat, pedal-free vehicle relies on Tesla's AI4 computer and the company plans ~2,500 robotaxi deployments in 2026.",
+      "why": "Cybercab正式发布是TSLA今年最大催化剂，FSD商业化落地预期推升估值；若发布顺利，短期内TSLA隐含波动率可能冲高后回落，covered call获利机会值得关注。",
+      "source": "Motor1/Yahoo Finance",
       "verified": false,
       "keywords": [
-        "特斯拉",
+        "Tesla",
         "TSLA",
-        "Robotaxi",
         "Cybercab",
+        "Robotaxi",
         "FSD",
         "自动驾驶"
       ],
       "translated": false,
-      "url": "https://www.moomoo.com/news/post/75081326/us-stock-market-movements-tesla-tslaus-rises-over-5-cybercab",
+      "url": "https://www.motor1.com/news/805874/tesla-cybercab-robotaxi-launch-austin/",
+      "published_date": "2026-09-01",
       "still_developing": false,
       "first_seen": "2026-09-01",
       "is_new": true
     },
     {
-      "id": "03b7333dcc3fdcfa",
+      "id": "2cb5a95bb2cefc09",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "2026-08-28",
-      "published_date": "2026-08-28",
-      "group": "个股",
-      "title": "腾讯8月28日回购266万股耗资约10亿港元",
-      "summary": "腾讯（0700.HK）于2026年8月28日在港交所回购266万股，成交价区间372.4-383港元，合计耗资约10亿港元。",
-      "why": "腾讯单日大额回购（~10亿港元）为持续护盘信号，结合sell put策略需关注回购支撑价格区间（372-383港元为当日买入区间）。verified=true因回购为HKEXnews强制披露事项，财联社报道与交易所数据一致。still_developing因回购计划仍在持续执行中。",
-      "source": "财联社",
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "百度正式完成港交所双重主要上市，9月1日起生效",
+      "summary": "百度（9888.HK）9月1日起从港股第二上市转为双重主要上市，不涉及新股发行或融资。股票简称中的\"S\"标记同步移除，百度港股与ADR继续可互换，预计纳入港股通资格有望扩大内地投资者参与度。",
+      "why": "百度完成主要上市后有望被纳入港股通，机构资金关注度提升；作为AI/互联网板块标志性事件，对腾讯/阿里/美团等同类港股估值有一定带动意义。",
+      "source": "TechNode/Baidu官方公告",
       "verified": true,
       "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "回购",
-        "港股"
+        "百度",
+        "港股通",
+        "双重主要上市",
+        "HK"
       ],
       "translated": false,
-      "url": "https://www.cls.cn/detail/1779848",
-      "still_developing": true,
+      "url": "https://technode.com/2026/09/01/baidu-dual-primary-listing-hong-kong-nasdaq/",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "first_seen": "2026-09-01",
+      "is_new": true
+    },
+    {
+      "id": "e203e79c7e735c2b",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "Anthropic Signs $35 Billion Six-Year Cloud Deal With Nvidia-Backed Lambda",
+      "summary": "Anthropic agreed to a six-year, $35 billion cloud-computing deal with Lambda, a cloud provider backed by Nvidia. The deal covers ~350 MW of Nvidia GPU capacity at a data centre in Nueces County, Texas developed by Hut 8. Nvidia itself will hold the data-centre lease and Lambda will pay an undisclosed amount for access.",
+      "why": "对英伟达利多：超大规模算力需求持续兑现，强化NVDA数据中心收入可见度；也验证AI基础设施资本开支长期旺盛，有利于Palantir等AI平台公司的估值叙事。",
+      "source": "Bloomberg/Reuters",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "数据中心",
+        "Anthropic"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+      "published_date": "2026-08-31",
+      "still_developing": false,
+      "first_seen": "2026-09-01",
+      "is_new": true
+    },
+    {
+      "id": "ed2f6eef4e5ac892",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "高通9月1日起芯片价格上调10-15%，安卓手机厂商成本面临上行压力",
+      "summary": "高通CEO克里斯蒂亚诺·阿蒙在7月29日财报电话会确认从9月1日起提价，高端旗舰芯片涨幅10-15%。原因是TSMC等代工厂封装/晶圆成本大幅上涨，高通将成本转嫁给OEM厂商；安卓手机售价或跟涨，消费者换机周期或延长。",
+      "why": "直接影响小米（1810.HK）的成本结构——小米手机高度依赖骁龙芯片；若无法转嫁价格，毛利率承压；若跟随涨价，出货量可能受压。短期内对小米形成不确定性，可适当调整sell put行权价。",
+      "source": "MacRumors/NotebookCheck",
+      "verified": false,
+      "keywords": [
+        "高通",
+        "Qualcomm",
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "芯片",
+        "semiconductor"
+      ],
+      "translated": false,
+      "url": "https://www.macrumors.com/2026/08/31/qualcomm-chip-price-increase/",
+      "published_date": "2026-08-31",
+      "still_developing": false,
       "first_seen": "2026-09-01",
       "is_new": true
     },
@@ -934,6 +992,63 @@
       "is_new": false
     },
     {
+      "id": "e8dc7a0f526a131b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-08-31",
+      "published_date": "2026-08-31",
+      "group": "大盘头条",
+      "title": "美伊军事冲突推高油价，美股8月31日收跌0.33%但月线累涨2.6%",
+      "summary": "美国对伊朗拉腊克岛（Larak Island）发动空袭，地缘风险推高油价，美股尾盘承压：标普500收跌0.33%至7,686.14点，道指跌374点，纳指跌0.12%。但8月整月标普累涨2.6%、纳指+3.9%、科技板块+6%以上。",
+      "why": "美伊军事冲突为当日最大宏观风险事件，同时油价飙升影响大盘与能源板块；月线收官数据为资产配置参考，符合大盘头条条件。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "美股",
+        "标普500",
+        "美伊冲突",
+        "油价",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+      "still_developing": false,
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "03d2efe5fac92d35",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-08-27",
+      "published_date": "2026-08-27",
+      "group": "个股",
+      "title": "蜜雪冰城上半年净利润同比降14.7%至23.19亿元，上市以来首次盈利下滑",
+      "summary": "蜜雪冰城（2097.HK）2026年上半年营收152.16亿元（+2.3%），净利润23.19亿元（-14.7%），为上市以来首次盈利同比下滑。原因主要为原材料成本上涨及门店扩张费用增加。业绩公布后股价盘中跌近8%。",
+      "why": "蜜雪冰城盈利首次下滑属重大基本面事件，涉及持仓标的，直接影响估值重估。still_developing因业绩消化、分析师下调预期仍在进行中。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "蜜雪冰城",
+        "Mixue",
+        "2097.HK",
+        "现制茶饮",
+        "业绩",
+        "净利润"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipucsw0757264.shtml",
+      "still_developing": true,
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
       "id": "59eb4791af164658",
       "tier": 2,
       "lang": "en",
@@ -1658,6 +1773,92 @@
       "published_date": "2026-08-30",
       "still_developing": false,
       "first_seen": "2026-08-31",
+      "is_new": false
+    },
+    {
+      "id": "a9dcdd46289e2330",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-08-29",
+      "published_date": "2026-08-29",
+      "group": "大盘头条",
+      "title": "美国8月非农就业9月4日公布，市场预期从7月-2.3万反弹至+5.5万",
+      "summary": "Bloomberg预览：8月非农就业人数预计新增约5.5万人，扭转7月意外萎缩2.3万的局面。该数据将于9月4日（周四）公布，是联储9月FOMC会议（9月16日）前最后一份重磅就业报告，市场认为强劲数据将支持沃什鹰派立场、弱化降息预期。",
+      "why": "非农前瞻为下周最重要宏观事件预警，影响美股波动率及期权定价，与sell put策略直接相关。still_developing因数据尚未发布，仍在持续发酵阶段。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "非农就业",
+        "美联储",
+        "宏观",
+        "就业报告",
+        "FOMC",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-29/us-jobs-report-seen-backing-warsh-view-of-labor-market",
+      "still_developing": true,
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "ecffeac008297a79",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-08-31",
+      "published_date": "2026-08-31",
+      "group": "个股",
+      "title": "特斯拉8月31日涨5.51%至$367.95，Cybercab将于9月3日在奥斯汀正式发布",
+      "summary": "TSLA当日收涨5.51%报$367.95，为当日美股涨幅最大蓝筹之一。催化剂：Cybercab（Robotaxi）定于9月3日（周三）在德州奥斯汀举行正式发布活动，市场预期FSD商业化进程将加速。",
+      "why": "Cybercab发布为近期TSLA最重要催化剂，直接关系Robotaxi商业化时间表与估值重估逻辑。持仓标的，波动率事件需跟踪。",
+      "source": "moomoo",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "TSLA",
+        "Robotaxi",
+        "Cybercab",
+        "FSD",
+        "自动驾驶"
+      ],
+      "translated": false,
+      "url": "https://www.moomoo.com/news/post/75081326/us-stock-market-movements-tesla-tslaus-rises-over-5-cybercab",
+      "still_developing": false,
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "03b7333dcc3fdcfa",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-08-28",
+      "published_date": "2026-08-28",
+      "group": "个股",
+      "title": "腾讯8月28日回购266万股耗资约10亿港元",
+      "summary": "腾讯（0700.HK）于2026年8月28日在港交所回购266万股，成交价区间372.4-383港元，合计耗资约10亿港元。",
+      "why": "腾讯单日大额回购（~10亿港元）为持续护盘信号，结合sell put策略需关注回购支撑价格区间（372-383港元为当日买入区间）。verified=true因回购为HKEXnews强制披露事项，财联社报道与交易所数据一致。still_developing因回购计划仍在持续执行中。",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "回购",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/1779848",
+      "still_developing": true,
+      "first_seen": "2026-09-01",
       "is_new": false
     },
     {
