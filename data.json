@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-02 13:23 (北京时间)",
+  "updated_at": "2026-09-02 18:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,158 +9,299 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-02 13:23 (北京时间)",
-    "new_count": 5,
+    "at": "2026-09-02 18:18 (北京时间)",
+    "new_count": 10,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "0290ceaa72b4cd84",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "US",
         "HK",
         "A"
       ],
-      "time": "09:30",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "美军空袭伊朗，国际油价暴涨逾4%，布伦特原油突破90美元",
-      "summary": "美国中央司令部宣布，美军9月1日对霍尔木兹海峡附近伊朗目标发动大规模空袭，川普警告伊朗报复将遭更猛烈打击。油价应声暴涨，布伦特原油涨逾4%至约94美元/桶，WTI约89美元/桶，创7月24日以来最高。",
-      "why": "地缘冲突升级叠加美联储鹰派信号，全球风险资产承压；油价飙升加剧通胀预期，利空港股/A股高估值科技股估值，sell put策略需警惕波动率上升带来的尾部风险。",
-      "source": "新浪财经",
-      "verified": false,
+      "title": "Oil surges above $95 as US-Iran fighting escalates, Hormuz tanker attacks revive supply fears",
+      "summary": "Oil jumped above $95/barrel as US airstrikes on Iran and attacks on two supertankers in the Strait of Hormuz revived supply disruption fears. Vessel crossings through Hormuz fell sharply; the waterway carries ~20% of global oil supply. WTI extended its 5.2% gain from the prior session.",
+      "why": "油价突破$95是今日全球资产最重要宏观驱动力：直接推高通胀预期、触发美联储9月16日加息再定价、压制风险资产。对持有科技/消费股 sell put 组合，本周 IV 明显抬升，需重新评估行权价安全边际。",
+      "source": "Bloomberg",
+      "verified": true,
       "keywords": [
-        "中东",
-        "美伊冲突",
-        "油价",
-        "霍尔木兹",
-        "布伦特原油"
+        "oil",
+        "Iran",
+        "Hormuz",
+        "US strikes",
+        "supply disruption"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-09-01/doc-iniqhwna1551608.shtml",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/us-launches-new-round-of-iran-strikes-as-strait-tensions-grow",
+      "published_date": "2026-09-01",
+      "still_developing": true,
+      "id": "0e74c4648e492066",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "Wall Street falls broadly: Nasdaq -1.03%, S&P 500 -0.70%, Dow -0.79%; 10Y Treasury hits 4.75%",
+      "summary": "Rising oil prices and higher yields dragged all three major U.S. indexes lower on Sept 1. The 10-year Treasury yield hit 4.75%, its highest since January 2025, squeezing equity valuations across nearly every sector.",
+      "why": "美债收益率4.75%创年内新高，高利率环境直接压低成长股估值倍数（DCF折现率上升），并增加 sell put 行权价被击穿的尾部风险；组合 delta 需密切跟踪。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Nasdaq",
+        "S&P 500",
+        "Dow",
+        "Treasury yield",
+        "selloff"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/stock-market-today-dow-s-p-live-updates",
       "published_date": "2026-09-01",
       "still_developing": false,
+      "id": "780c3e7f351b8f83",
       "first_seen": "2026-09-02",
       "is_new": true
     },
     {
-      "id": "c4a7b74522138041",
       "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "央行、金融监管总局联发房地产信贷重磅新政：个人房贷期限延至40年",
-      "summary": "央行、金融监管总局8月28日联合印发《关于改革完善房地产信贷管理的意见》：个人住房贷款最长期限由30年延至40年，债务收入比上限提升至60%；住建部同步推进现房销售改革。9月1日A股银行板块明显走强，市场解读为政策有效降低银行涉房风险。",
-      "why": "地产信贷重磅新政降低购房月供负担，有助于楼市企稳和消费修复；间接利好消费相关港股标的（海底捞、蜜雪冰城等），延续报道：政策落地效果仍在验证中。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "房地产",
-        "房贷",
-        "信贷政策",
-        "央行",
-        "现房销售",
-        "金融监管总局"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/china/2026-08-28/doc-inipwnxp4453066.shtml",
-      "published_date": "2026-08-28",
-      "still_developing": true,
-      "first_seen": "2026-09-02",
-      "is_new": true
-    },
-    {
-      "id": "9051024e91000b72",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "8月制造业PMI升至49.8%，连续两月回升，新订单指数超预期扩张",
-      "summary": "国家统计局8月31日发布数据：8月制造业PMI为49.8%（较上月+0.6个百分点，超市场预期），连续两月回升；生产指数50.4%（+0.5），新订单指数50.6%（+2.1，明显改善），21个行业中16个PMI较上月上升，制造业扩张面进一步扩大。",
-      "why": "制造业PMI环比持续回升且新订单超预期扩张，印证国内需求边际改善，对港股/A股消费和工业板块具有正面信号；有助于部分对冲美军空袭伊朗引发的油价飙升和全球风险偏好下降，sell put策略短期波动率风险需观察。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "PMI",
-        "制造业",
-        "宏观",
-        "国家统计局",
-        "经济数据",
-        "新订单"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-08-31/doc-iniqetnx9070408.shtml",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "first_seen": "2026-09-02",
-      "is_new": true
-    },
-    {
-      "id": "26df2892ad1349d7",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "A股半年报收官：全A净利润同比增约19%，科创板硬科技业绩超预期",
-      "summary": "截至8月31日，A股半年报披露完毕。全A上市公司归母净利润同比增长约19.33%，超七成企业盈利；科创板存储芯片、光纤通信等硬科技板块量价齐升，国产AI芯片龙头寒武纪上半年净利润同比+122%，千亿市值新增以硬科技为主力。",
-      "why": "半年报整体超预期，科技赛道高景气得到基本面印证，对持仓中科技相关港股标的估值构成支撑；存储芯片景气延续利好SK海力士HBM需求端。",
-      "source": "中国日报",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "半年报",
-        "业绩",
-        "科创板",
-        "硬科技",
-        "寒武纪",
-        "AI芯片"
-      ],
-      "translated": false,
-      "url": "http://caijing.chinadaily.com.cn/a/202608/31/WS6a94e7f4e4b09a165c786db6.html",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "first_seen": "2026-09-02",
-      "is_new": true
-    },
-    {
-      "id": "6df34fd64704d889",
-      "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
       "time": "09:30",
       "group": "大盘头条",
-      "title": "Broadcom reports Q3 FY2026 earnings today after close; AI chip revenue guided at $16B, +200%+ YoY",
-      "summary": "Broadcom (AVGO) releases Q3 FY2026 results after market close today (Sept. 2), with company guidance of ~$29.4B revenue (+84% YoY) and AI semiconductor revenue of $16.0B (+200%+ YoY) driven by custom XPU accelerators for hyperscalers. Full-year AI chip revenue target raised to $56B. Earnings call at 2pm PT.",
-      "why": "Broadcom Q3财报是AI半导体产业链景气度的关键验证节点，结果将直接影响AI相关标的估值预期；特别关注XPU（定制AI芯片）需求能否接棒英伟达GPU，以及对SK海力士/美光HBM需求的前景指引。",
-      "source": "Broadcom IR",
+      "title": "Semiconductor stocks clobbered: Intel -7%, AMD -5%, TSM -6% amid global bond selloff",
+      "summary": "Chip stocks suffered their worst single-session loss in weeks on Sept 1 as rising Treasury yields triggered a valuation reset. Intel fell 7%, AMD dropped 5%, and Taiwan Semiconductor fell 6%; Nvidia and Micron also declined. Macro-driven selloff, not company-specific news.",
+      "why": "半导体是组合核心敞口（NVDA、INTC、MU、SK海力士），单日大幅回调显示利率上行对高估值芯片股冲击显著；IV 上升但行权价安全边际收窄，卖出 put 需重新评估。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "Broadcom",
-        "AVGO",
-        "AI半导体",
-        "XPU",
-        "财报",
-        "数据中心"
+        "Intel",
+        "AMD",
+        "TSMC",
+        "Nvidia",
+        "semiconductor",
+        "chip stocks",
+        "selloff"
       ],
       "translated": false,
-      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial",
-      "published_date": "2026-09-02",
+      "url": "https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html",
+      "published_date": "2026-09-01",
       "still_developing": false,
+      "id": "96de56a0c7d104a0",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Fed September 16 rate hike near-certain as Iran oil shock stokes inflation; markets in \"doom loop\"",
+      "summary": "CNBC Daily Open described markets as trapped in an \"Iran doom loop\": oil surge → inflation fears → Fed hike bets → higher yields → equity selloff. A 25bp hike at the Sept 16 FOMC is now the base case; Fed funds currently at 3.50–3.75%. Three hawkish FOMC dissenters from the July meeting add pressure.",
+      "why": "美联储9月加息从预期变为近确定事件，对持仓科技股的 sell put 有双重压力：IV上升有利权利金但持仓股估值面临压缩；建议关注9月16日FOMC声明措辞对隐含波动率的影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Fed",
+        "FOMC",
+        "rate hike",
+        "September",
+        "inflation",
+        "Iran"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/02/iran-markets-doom-loop.html",
+      "published_date": "2026-09-02",
+      "still_developing": true,
+      "id": "43cd03d6926e041c",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "Nvidia invests $3.5B in MediaTek convertible bonds to embed NVLink Fusion in rival AI chips",
+      "summary": "Nvidia bought ~90% of MediaTek's record $3.9B convertible bond offering on Aug 31. MediaTek will adopt NVLink Fusion, integrating Nvidia's rack-scale interconnect into custom AI accelerators — meaning ASIC customers' chips will plug directly into Nvidia systems. Alphabet also participated. MediaTek jumped 10% on Sept 1.",
+      "why": "英伟达以$35亿美元锁定 MediaTek 的 AI 芯片生态，NVLink Fusion 嵌入等于确保 NVDA 在定制 AI 芯片时代的基础设施主导权；强化了不卖芯片就卖生态的护城河逻辑，是当前 NVDA sell put 组合的强劲正面催化剂。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Nvidia",
+        "MediaTek",
+        "NVLink",
+        "convertible bond",
+        "AI chips",
+        "NVDA"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek",
+      "published_date": "2026-08-31",
+      "still_developing": false,
+      "id": "ef446cde5a10312e",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "港股恒指跌1.1%，A股沪指跌0.16%：油价飙升叠加海外利率风险令亚洲市场承压",
+      "summary": "受美国-伊朗冲突致油价飙升拖累，港股恒生指数9月1日下跌1.1%，收于25324点；内地上证综指跌0.16%至3979.9点，深证成指跌1.02%。市场担忧通胀反弹将促使全球央行收紧货币政策。",
+      "why": "港股和A股同步下跌，腾讯、阿里、美团等持仓标的均有压力；油价冲击同时挤压消费端利润空间；HK 市场 IV 短期上升，sell put 期权溢价有望提升但需关注方向风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "上证",
+        "港股",
+        "A股",
+        "油价",
+        "亚洲市场"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/latest-oil-market-news-and-analysis-for-sept-2",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "54aecff3c9eacd60",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "中国8月官方制造业PMI升至49.8，高于预期49.7，连续改善但仍处收缩区间",
+      "summary": "国家统计局8月31日公布8月制造业PMI为49.8，高于7月的49.2及市场预期的49.7，环比改善但仍低于荣枯分界线50。生产指数（50.4%）和新订单指数（50.6%）重回扩张区间；装备制造业和高技术制造业PMI分别为51.4%和52.9%。",
+      "why": "制造业PMI超预期改善是A股边际正面信号，表明经济有温和韧性；但整体仍处收缩区间，对消费赛道持仓（海底捞、蜜雪冰城等）提示需求偏弱仍是制约因素。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "PMI",
+        "制造业",
+        "中国经济",
+        "经济数据"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+      "published_date": "2026-08-31",
+      "still_developing": false,
+      "id": "2baeb07e9df47d04",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "CrowdStrike × Nvidia launch SafeMind: purpose-built frontier AI cybersecurity models",
+      "summary": "CrowdStrike launched SafeMind on Sept 1, a family of security models built using Nvidia Nemotron open models. Includes Red Tempest (offensive) and Blue Solano (defensive) models, operating natively in the Falcon platform for autonomous threat response at machine speed — deepest Nvidia-CrowdStrike integration yet.",
+      "why": "英伟达与 CrowdStrike 深度绑定网络安全 AI 代理领域，强化了 NVDA 在 AI 基础设施的多元应用落地；为 NVDA 在非数据中心场景打开新的商业化路径，属于正面软催化剂。",
+      "source": "CrowdStrike IR",
+      "verified": true,
+      "keywords": [
+        "Nvidia",
+        "CrowdStrike",
+        "SafeMind",
+        "AI cybersecurity",
+        "Nemotron",
+        "NVDA"
+      ],
+      "translated": false,
+      "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-launches-frontier-models-cybersecurity-created/",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "5caabab2ccb608c9",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Google's Waymo expands paid robotaxi rides to 14 US cities; adds Denver, San Diego, Tampa",
+      "summary": "Waymo began public paid robotaxi rides in Denver, San Diego, and Tampa on Sept 1, reaching 14 US cities. Fleet exceeds 4,000 vehicles including the new Zeekr-built Ojai minivan. Amazon's Zoox simultaneously expanded, intensifying the autonomous vehicle race.",
+      "why": "Waymo 快速扩展至14城显示 Alphabet 在自动驾驶商业化的竞争优势持续拉大，对 GOOGL 估值是正面信号；需关注明日 Tesla Cybercab 正式发布对自动驾驶赛道估值的重新梳理。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Waymo",
+        "Alphabet",
+        "Google",
+        "GOOGL",
+        "robotaxi",
+        "autonomous vehicle"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/waymo-expands-paid-robotaxi-rides-to-denver-san-diego-and-tampa",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "a7249709dc83da63",
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Palantir wins $127M in Army TITAN production contracts; AI targeting platform enters manufacturing phase",
+      "summary": "The U.S. Army awarded $192M in production contracts on Sept 1: Palantir USG received $127M, Anduril $65M to produce eight TITAN (Tactical Intelligence Targeting Access Node) intelligence ground stations over 18 months. Partners include L3Harris, Sierra Nevada Corp., and WWT.",
+      "why": "Palantir 将 TITAN 从原型推进到量产是其国防AI平台落地的关键里程碑；搭配 Q2 营收+93% YoY 的强劲势头，政府合同稳定性进一步降低 PLTR 的估值风险，对 sell put 策略有正面含义。注：信源为国防专业媒体 Defense Scoop，非白名单，暂标 verified=false。",
+      "source": "Defense Scoop",
+      "verified": false,
+      "keywords": [
+        "Palantir",
+        "TITAN",
+        "US Army",
+        "PLTR",
+        "defense AI",
+        "government contract"
+      ],
+      "translated": false,
+      "url": "https://defensescoop.com/2026/09/01/army-titan-platform-production-awards-palantir-anduril/",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "966da2c755e82cc6",
       "first_seen": "2026-09-02",
       "is_new": true
     },
@@ -1107,6 +1248,96 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipucsw0757264.shtml",
       "still_developing": true,
       "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "0290ceaa72b4cd84",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "美军空袭伊朗，国际油价暴涨逾4%，布伦特原油突破90美元",
+      "summary": "美国中央司令部宣布，美军9月1日对霍尔木兹海峡附近伊朗目标发动大规模空袭，川普警告伊朗报复将遭更猛烈打击。油价应声暴涨，布伦特原油涨逾4%至约94美元/桶，WTI约89美元/桶，创7月24日以来最高。",
+      "why": "地缘冲突升级叠加美联储鹰派信号，全球风险资产承压；油价飙升加剧通胀预期，利空港股/A股高估值科技股估值，sell put策略需警惕波动率上升带来的尾部风险。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "中东",
+        "美伊冲突",
+        "油价",
+        "霍尔木兹",
+        "布伦特原油"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-09-01/doc-iniqhwna1551608.shtml",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "id": "c4a7b74522138041",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "央行、金融监管总局联发房地产信贷重磅新政：个人房贷期限延至40年",
+      "summary": "央行、金融监管总局8月28日联合印发《关于改革完善房地产信贷管理的意见》：个人住房贷款最长期限由30年延至40年，债务收入比上限提升至60%；住建部同步推进现房销售改革。9月1日A股银行板块明显走强，市场解读为政策有效降低银行涉房风险。",
+      "why": "地产信贷重磅新政降低购房月供负担，有助于楼市企稳和消费修复；间接利好消费相关港股标的（海底捞、蜜雪冰城等），延续报道：政策落地效果仍在验证中。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "房地产",
+        "房贷",
+        "信贷政策",
+        "央行",
+        "现房销售",
+        "金融监管总局"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/china/2026-08-28/doc-inipwnxp4453066.shtml",
+      "published_date": "2026-08-28",
+      "still_developing": true,
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "id": "9051024e91000b72",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "8月制造业PMI升至49.8%，连续两月回升，新订单指数超预期扩张",
+      "summary": "国家统计局8月31日发布数据：8月制造业PMI为49.8%（较上月+0.6个百分点，超市场预期），连续两月回升；生产指数50.4%（+0.5），新订单指数50.6%（+2.1，明显改善），21个行业中16个PMI较上月上升，制造业扩张面进一步扩大。",
+      "why": "制造业PMI环比持续回升且新订单超预期扩张，印证国内需求边际改善，对港股/A股消费和工业板块具有正面信号；有助于部分对冲美军空袭伊朗引发的油价飙升和全球风险偏好下降，sell put策略短期波动率风险需观察。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "PMI",
+        "制造业",
+        "宏观",
+        "国家统计局",
+        "经济数据",
+        "新订单"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-08-31/doc-iniqetnx9070408.shtml",
+      "published_date": "2026-08-31",
+      "still_developing": false,
+      "first_seen": "2026-09-02",
       "is_new": false
     },
     {
@@ -2124,6 +2355,65 @@
       "url": "https://www.cls.cn/detail/1779848",
       "still_developing": true,
       "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "26df2892ad1349d7",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "A股半年报收官：全A净利润同比增约19%，科创板硬科技业绩超预期",
+      "summary": "截至8月31日，A股半年报披露完毕。全A上市公司归母净利润同比增长约19.33%，超七成企业盈利；科创板存储芯片、光纤通信等硬科技板块量价齐升，国产AI芯片龙头寒武纪上半年净利润同比+122%，千亿市值新增以硬科技为主力。",
+      "why": "半年报整体超预期，科技赛道高景气得到基本面印证，对持仓中科技相关港股标的估值构成支撑；存储芯片景气延续利好SK海力士HBM需求端。",
+      "source": "中国日报",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "半年报",
+        "业绩",
+        "科创板",
+        "硬科技",
+        "寒武纪",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "http://caijing.chinadaily.com.cn/a/202608/31/WS6a94e7f4e4b09a165c786db6.html",
+      "published_date": "2026-08-31",
+      "still_developing": false,
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "id": "6df34fd64704d889",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Broadcom reports Q3 FY2026 earnings today after close; AI chip revenue guided at $16B, +200%+ YoY",
+      "summary": "Broadcom (AVGO) releases Q3 FY2026 results after market close today (Sept. 2), with company guidance of ~$29.4B revenue (+84% YoY) and AI semiconductor revenue of $16.0B (+200%+ YoY) driven by custom XPU accelerators for hyperscalers. Full-year AI chip revenue target raised to $56B. Earnings call at 2pm PT.",
+      "why": "Broadcom Q3财报是AI半导体产业链景气度的关键验证节点，结果将直接影响AI相关标的估值预期；特别关注XPU（定制AI芯片）需求能否接棒英伟达GPU，以及对SK海力士/美光HBM需求的前景指引。",
+      "source": "Broadcom IR",
+      "verified": true,
+      "keywords": [
+        "Broadcom",
+        "AVGO",
+        "AI半导体",
+        "XPU",
+        "财报",
+        "数据中心"
+      ],
+      "translated": false,
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial",
+      "published_date": "2026-09-02",
+      "still_developing": false,
+      "first_seen": "2026-09-02",
       "is_new": false
     },
     {
