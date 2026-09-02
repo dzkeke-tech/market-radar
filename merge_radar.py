@@ -513,7 +513,14 @@ def sort_items(items):
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    if not TOKEN:
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--local-output", metavar="DIR",
+                        help="Write data.json and seen.json to DIR instead of PUTting to GitHub")
+    args = parser.parse_args()
+    local_output_dir = args.local_output
+
+    if not local_output_dir and not TOKEN:
         print("Error: GITHUB_TOKEN not set.", file=sys.stderr)
         sys.exit(1)
 
@@ -633,11 +640,19 @@ def main():
 
     # Publish
     date_tag = now_bj.strftime("%Y-%m-%d")
-    print("Publishing …")
-    gh_put("data.json", new_data, data_sha,
-           f"chore(radar): update market radar {date_tag} (+{len(truly_new)} items)")
-    gh_put("seen.json", new_seen, seen_sha,
-           f"chore(radar): update seen {date_tag}")
+    if local_output_dir:
+        os.makedirs(local_output_dir, exist_ok=True)
+        for fname, obj in [("data.json", new_data), ("seen.json", new_seen)]:
+            out_path = os.path.join(local_output_dir, fname)
+            with open(out_path, "w", encoding="utf-8") as f:
+                json.dump(obj, f, ensure_ascii=False, indent=2)
+            print(f"  wrote {out_path}")
+    else:
+        print("Publishing …")
+        gh_put("data.json", new_data, data_sha,
+               f"chore(radar): update market radar {date_tag} (+{len(truly_new)} items)")
+        gh_put("seen.json", new_seen, seen_sha,
+               f"chore(radar): update seen {date_tag}")
 
     print(f"\n✓ +{len(truly_new)} new | {len(existing_items)} existing | {len(merged)} total in data.json"
           + (f" | {len(dropped)} dropped by date-validation" if dropped else "")
