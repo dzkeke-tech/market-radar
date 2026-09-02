@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-02 08:22 (北京时间)",
+  "updated_at": "2026-09-02 13:23 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,14 +9,14 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-02 08:22 (北京时间)",
+    "at": "2026-09-02 13:23 (北京时间)",
     "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqitru8316195.shtml",
+      "id": "0290ceaa72b4cd84",
       "tier": 1,
       "lang": "zh",
       "markets": [
@@ -24,137 +24,143 @@
         "HK",
         "A"
       ],
-      "time": "21:30",
+      "time": "09:30",
       "group": "大盘头条",
-      "title": "欧美日国债同日遭大举抛售！油价暴涨5%、美债收益率创新高、美股科技领跌",
-      "summary": "9月1日，受美伊冲突重燃推动，WTI原油大涨5.6%至90.56美元/桶，布伦特原油涨4.6%至94.65美元；美国10年期国债收益率攀至4.792%（2025年初以来最高）；欧美日国债同日遭大规模抛售，黄金白银短线跳升。美股收跌，S&P 500跌0.7%报7631.47，纳指跌1%报26099.77，道指跌0.8%；英伟达、亚马逊领跌科技股。",
-      "why": "油价飙升推升通胀预期+美联储加息概率，国债收益率急升压缩科技股估值空间；全仓Beta承压，sell put仓位需关注市场双向波动加剧与到期前额外波动率风险。",
+      "title": "美军空袭伊朗，国际油价暴涨逾4%，布伦特原油突破90美元",
+      "summary": "美国中央司令部宣布，美军9月1日对霍尔木兹海峡附近伊朗目标发动大规模空袭，川普警告伊朗报复将遭更猛烈打击。油价应声暴涨，布伦特原油涨逾4%至约94美元/桶，WTI约89美元/桶，创7月24日以来最高。",
+      "why": "地缘冲突升级叠加美联储鹰派信号，全球风险资产承压；油价飙升加剧通胀预期，利空港股/A股高估值科技股估值，sell put策略需警惕波动率上升带来的尾部风险。",
       "source": "新浪财经",
-      "verified": true,
+      "verified": false,
       "keywords": [
+        "中东",
         "美伊冲突",
-        "石油",
-        "国债",
-        "美股",
-        "宏观"
+        "油价",
+        "霍尔木兹",
+        "布伦特原油"
       ],
       "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-09-01/doc-iniqhwna1551608.shtml",
       "published_date": "2026-09-01",
       "still_developing": false,
-      "id": "53c9270b245109be",
       "first_seen": "2026-09-02",
       "is_new": true
     },
     {
-      "url": "https://www.jiemian.com/article/15040708.html",
+      "id": "c4a7b74522138041",
       "tier": 1,
       "lang": "zh",
       "markets": [
+        "A",
         "HK"
       ],
-      "time": "16:30",
+      "time": "09:30",
       "group": "大盘头条",
-      "title": "港股收评：9月开门黑！恒指跌0.93%报25329点，科指挫1.49%，科网股领跌",
-      "summary": "9月1日港股三大指数全线收跌，恒生指数跌0.93%报25329点，恒生科技指数跌1.49%报4550点，国企指数跌0.59%。科网股大幅走弱：阿里巴巴、京东跌3.2%，腾讯、美团、百度、哔哩哔哩跌2-3%；内房股延续弱势。",
-      "why": "科网重仓股全线回调；阿里(-3.2%)、腾讯(-3%)、美团(-3%)均为组合核心标的，当前持仓的行权价位需重新评估期权Delta敞口，监控是否接近深度in-the-money。",
-      "source": "界面新闻",
+      "title": "央行、金融监管总局联发房地产信贷重磅新政：个人房贷期限延至40年",
+      "summary": "央行、金融监管总局8月28日联合印发《关于改革完善房地产信贷管理的意见》：个人住房贷款最长期限由30年延至40年，债务收入比上限提升至60%；住建部同步推进现房销售改革。9月1日A股银行板块明显走强，市场解读为政策有效降低银行涉房风险。",
+      "why": "地产信贷重磅新政降低购房月供负担，有助于楼市企稳和消费修复；间接利好消费相关港股标的（海底捞、蜜雪冰城等），延续报道：政策落地效果仍在验证中。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "恒生指数",
-        "恒生科技",
-        "港股",
-        "阿里巴巴",
-        "腾讯",
-        "美团"
+        "房地产",
+        "房贷",
+        "信贷政策",
+        "央行",
+        "现房销售",
+        "金融监管总局"
       ],
       "translated": false,
-      "published_date": "2026-09-01",
+      "url": "https://finance.sina.com.cn/china/2026-08-28/doc-inipwnxp4453066.shtml",
+      "published_date": "2026-08-28",
+      "still_developing": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "9051024e91000b72",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "8月制造业PMI升至49.8%，连续两月回升，新订单指数超预期扩张",
+      "summary": "国家统计局8月31日发布数据：8月制造业PMI为49.8%（较上月+0.6个百分点，超市场预期），连续两月回升；生产指数50.4%（+0.5），新订单指数50.6%（+2.1，明显改善），21个行业中16个PMI较上月上升，制造业扩张面进一步扩大。",
+      "why": "制造业PMI环比持续回升且新订单超预期扩张，印证国内需求边际改善，对港股/A股消费和工业板块具有正面信号；有助于部分对冲美军空袭伊朗引发的油价飙升和全球风险偏好下降，sell put策略短期波动率风险需观察。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "PMI",
+        "制造业",
+        "宏观",
+        "国家统计局",
+        "经济数据",
+        "新订单"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-08-31/doc-iniqetnx9070408.shtml",
+      "published_date": "2026-08-31",
       "still_developing": false,
-      "id": "e91b673df5f494a2",
       "first_seen": "2026-09-02",
       "is_new": true
     },
     {
-      "url": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced.",
-      "summary": "Fed Chair Warsh's hawkish Jackson Hole address pushed September 15-16 FOMC rate hike odds to 57-68% (CME FedWatch); JPMorgan strategists now call for a 25bps hike as oil-driven inflation shocks compound the hawkish pivot. Dissenting voices say cooler July CPI (3.3%) and softer hiring argue against a hike. Fed funds currently 3.50-3.75%.",
-      "why": "美联储9月加息概率大幅上行，整体Beta敞口风险上升；对sell put策略影响：市场若在9月15-16日加息前持续波动，期权隐含波动率或进一步抬升，需评估gamma风险。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Fed",
-        "FOMC",
-        "rate hike",
-        "Warsh",
-        "inflation",
-        "September"
-      ],
-      "translated": false,
-      "published_date": "2026-08-31",
-      "still_developing": true,
-      "id": "c6ff01b6b74c4324",
-      "first_seen": "2026-09-02",
-      "is_new": true
-    },
-    {
-      "url": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Dow falls more than 400 points, oil rises after new U.S. strikes on Iran",
-      "summary": "U.S. stocks fell sharply on August 31 as new American military strikes on Iran pushed oil above $87/barrel. The Dow fell 400+ points; the S&P 500 and Nasdaq also declined broadly. Escalating U.S.-Iran conflict raised fears of a prolonged Strait of Hormuz supply disruption, stoking inflation concerns.",
-      "why": "延续报道：美伊冲突正在持续发酵，油价受险价支撑、美债收益率上升；美股已连续多日下跌。对持有美股科技仓位的sell put策略构成持续下行压力，建议动态监控期权到期时间价值与仓位调整窗口。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "US-Iran",
-        "oil price",
-        "Dow",
-        "S&P 500",
-        "Strait of Hormuz"
-      ],
-      "translated": false,
-      "published_date": "2026-08-31",
-      "still_developing": true,
-      "id": "621b595eff943850",
-      "first_seen": "2026-09-02",
-      "is_new": true
-    },
-    {
-      "url": "https://www.jiemian.com/article/15042009.html",
+      "id": "26df2892ad1349d7",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "A"
       ],
-      "time": "10:00",
+      "time": "09:30",
       "group": "大盘头条",
-      "title": "上交所、中证指数今日联合发布「上证科创板人工智能应用臻选指数」",
-      "summary": "9月2日，上海证券交易所与中证指数有限公司联合发布「上证科创板人工智能应用臻选指数」，从科创板中筛选AI应用软硬件相关上市公司作为样本，为市场提供科创板AI应用领域的投资基准与ETF追踪标的。",
-      "why": "AI应用赛道指数工具持续扩容，有助于相关ETF产品持续募集，对科创板AI应用标的估值定价具有正面催化意义；投资者可关注指数成分股后续建仓带来的机构资金流入。",
-      "source": "界面新闻",
+      "title": "A股半年报收官：全A净利润同比增约19%，科创板硬科技业绩超预期",
+      "summary": "截至8月31日，A股半年报披露完毕。全A上市公司归母净利润同比增长约19.33%，超七成企业盈利；科创板存储芯片、光纤通信等硬科技板块量价齐升，国产AI芯片龙头寒武纪上半年净利润同比+122%，千亿市值新增以硬科技为主力。",
+      "why": "半年报整体超预期，科技赛道高景气得到基本面印证，对持仓中科技相关港股标的估值构成支撑；存储芯片景气延续利好SK海力士HBM需求端。",
+      "source": "中国日报",
       "verified": false,
       "keywords": [
+        "A股",
+        "半年报",
+        "业绩",
         "科创板",
-        "AI",
-        "人工智能指数",
-        "A股"
+        "硬科技",
+        "寒武纪",
+        "AI芯片"
       ],
       "translated": false,
+      "url": "http://caijing.chinadaily.com.cn/a/202608/31/WS6a94e7f4e4b09a165c786db6.html",
+      "published_date": "2026-08-31",
+      "still_developing": false,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "6df34fd64704d889",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Broadcom reports Q3 FY2026 earnings today after close; AI chip revenue guided at $16B, +200%+ YoY",
+      "summary": "Broadcom (AVGO) releases Q3 FY2026 results after market close today (Sept. 2), with company guidance of ~$29.4B revenue (+84% YoY) and AI semiconductor revenue of $16.0B (+200%+ YoY) driven by custom XPU accelerators for hyperscalers. Full-year AI chip revenue target raised to $56B. Earnings call at 2pm PT.",
+      "why": "Broadcom Q3财报是AI半导体产业链景气度的关键验证节点，结果将直接影响AI相关标的估值预期；特别关注XPU（定制AI芯片）需求能否接棒英伟达GPU，以及对SK海力士/美光HBM需求的前景指引。",
+      "source": "Broadcom IR",
+      "verified": true,
+      "keywords": [
+        "Broadcom",
+        "AVGO",
+        "AI半导体",
+        "XPU",
+        "财报",
+        "数据中心"
+      ],
+      "translated": false,
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial",
       "published_date": "2026-09-02",
       "still_developing": false,
-      "id": "740f4b39d94cc28e",
       "first_seen": "2026-09-02",
       "is_new": true
     },
@@ -1104,6 +1110,122 @@
       "is_new": false
     },
     {
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqitru8316195.shtml",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "21:30",
+      "group": "大盘头条",
+      "title": "欧美日国债同日遭大举抛售！油价暴涨5%、美债收益率创新高、美股科技领跌",
+      "summary": "9月1日，受美伊冲突重燃推动，WTI原油大涨5.6%至90.56美元/桶，布伦特原油涨4.6%至94.65美元；美国10年期国债收益率攀至4.792%（2025年初以来最高）；欧美日国债同日遭大规模抛售，黄金白银短线跳升。美股收跌，S&P 500跌0.7%报7631.47，纳指跌1%报26099.77，道指跌0.8%；英伟达、亚马逊领跌科技股。",
+      "why": "油价飙升推升通胀预期+美联储加息概率，国债收益率急升压缩科技股估值空间；全仓Beta承压，sell put仓位需关注市场双向波动加剧与到期前额外波动率风险。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "美伊冲突",
+        "石油",
+        "国债",
+        "美股",
+        "宏观"
+      ],
+      "translated": false,
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "53c9270b245109be",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "url": "https://www.jiemian.com/article/15040708.html",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股收评：9月开门黑！恒指跌0.93%报25329点，科指挫1.49%，科网股领跌",
+      "summary": "9月1日港股三大指数全线收跌，恒生指数跌0.93%报25329点，恒生科技指数跌1.49%报4550点，国企指数跌0.59%。科网股大幅走弱：阿里巴巴、京东跌3.2%，腾讯、美团、百度、哔哩哔哩跌2-3%；内房股延续弱势。",
+      "why": "科网重仓股全线回调；阿里(-3.2%)、腾讯(-3%)、美团(-3%)均为组合核心标的，当前持仓的行权价位需重新评估期权Delta敞口，监控是否接近深度in-the-money。",
+      "source": "界面新闻",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "恒生科技",
+        "港股",
+        "阿里巴巴",
+        "腾讯",
+        "美团"
+      ],
+      "translated": false,
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "e91b673df5f494a2",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced.",
+      "summary": "Fed Chair Warsh's hawkish Jackson Hole address pushed September 15-16 FOMC rate hike odds to 57-68% (CME FedWatch); JPMorgan strategists now call for a 25bps hike as oil-driven inflation shocks compound the hawkish pivot. Dissenting voices say cooler July CPI (3.3%) and softer hiring argue against a hike. Fed funds currently 3.50-3.75%.",
+      "why": "美联储9月加息概率大幅上行，整体Beta敞口风险上升；对sell put策略影响：市场若在9月15-16日加息前持续波动，期权隐含波动率或进一步抬升，需评估gamma风险。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "Fed",
+        "FOMC",
+        "rate hike",
+        "Warsh",
+        "inflation",
+        "September"
+      ],
+      "translated": false,
+      "published_date": "2026-08-31",
+      "still_developing": true,
+      "id": "c6ff01b6b74c4324",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Dow falls more than 400 points, oil rises after new U.S. strikes on Iran",
+      "summary": "U.S. stocks fell sharply on August 31 as new American military strikes on Iran pushed oil above $87/barrel. The Dow fell 400+ points; the S&P 500 and Nasdaq also declined broadly. Escalating U.S.-Iran conflict raised fears of a prolonged Strait of Hormuz supply disruption, stoking inflation concerns.",
+      "why": "延续报道：美伊冲突正在持续发酵，油价受险价支撑、美债收益率上升；美股已连续多日下跌。对持有美股科技仓位的sell put策略构成持续下行压力，建议动态监控期权到期时间价值与仓位调整窗口。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "US-Iran",
+        "oil price",
+        "Dow",
+        "S&P 500",
+        "Strait of Hormuz"
+      ],
+      "translated": false,
+      "published_date": "2026-08-31",
+      "still_developing": true,
+      "id": "621b595eff943850",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
       "id": "59eb4791af164658",
       "tier": 2,
       "lang": "en",
@@ -2002,6 +2124,33 @@
       "url": "https://www.cls.cn/detail/1779848",
       "still_developing": true,
       "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "url": "https://www.jiemian.com/article/15042009.html",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "上交所、中证指数今日联合发布「上证科创板人工智能应用臻选指数」",
+      "summary": "9月2日，上海证券交易所与中证指数有限公司联合发布「上证科创板人工智能应用臻选指数」，从科创板中筛选AI应用软硬件相关上市公司作为样本，为市场提供科创板AI应用领域的投资基准与ETF追踪标的。",
+      "why": "AI应用赛道指数工具持续扩容，有助于相关ETF产品持续募集，对科创板AI应用标的估值定价具有正面催化意义；投资者可关注指数成分股后续建仓带来的机构资金流入。",
+      "source": "界面新闻",
+      "verified": false,
+      "keywords": [
+        "科创板",
+        "AI",
+        "人工智能指数",
+        "A股"
+      ],
+      "translated": false,
+      "published_date": "2026-09-02",
+      "still_developing": false,
+      "id": "740f4b39d94cc28e",
+      "first_seen": "2026-09-02",
       "is_new": false
     },
     {
