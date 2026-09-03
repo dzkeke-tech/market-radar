@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-03 08:27 (北京时间)",
+  "updated_at": "2026-09-03 13:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,622 +9,105 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-03 08:27 (北京时间)",
+    "at": "2026-09-03 13:18 (北京时间)",
     "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "dab3678a5d906f49",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "腾讯持续回购：9月2日再度回购约110万股，耗资约5亿港元（HKEX次日披露）",
-      "summary": "腾讯控股（00700.HK）9月2日再次回购约110万股，耗资约HK$5亿，为年内连续大规模回购之一。截至目前年内授权范围内累计回购约4150万股，距离最高授权约9.12亿股空间仍大。",
-      "why": "腾讯持续高强度回购对股价形成明确底部支撑，降低sell put策略中期被行权风险；在AI CapEx大幅增加（Q2资本开支达528亿人民币）的背景下，管理层坚持回购彰显对现金流的信心。",
-      "source": "Reuters/HKEX",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "回购",
-        "buyback",
-        "HKEX"
-      ],
-      "translated": false,
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N42D0G4:0-hkex-says-tencent-bought-back-1-1-million-shares-for-hk-500-4-million/",
-      "published_date": "2026-09-02",
-      "still_developing": false,
-      "first_seen": "2026-09-03",
-      "is_new": true
-    },
-    {
-      "id": "860c983ca0816b14",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US",
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "China Caixin Manufacturing PMI rises to 51.5 in August 2026, ninth straight month of expansion",
-      "summary": "China's Caixin/S&P Global Manufacturing PMI came in at 51.5 in August 2026, beating the consensus forecast of 51.0 and rising from 51.2 in July. New export orders grew at the fastest pace in six months, suggesting external demand resilience despite US-China trade tensions. This marks the ninth consecutive month of factory expansion.",
-      "why": "Caixin PMI超预期扩张对A股/港股制造业板块构成短期提振；但同期官方NBS PMI仍处49.8收缩区间（已为旧闻），两者剪刀差说明大型国有企业承压更甚；出口订单加速增长可能部分源自关税前的抢单效应，需结合Q3财报确认可持续性。对持仓中港股消费+科技标的整体情绪偏利多。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "Caixin PMI",
-        "China manufacturing",
-        "PMI",
-        "August 2026",
-        "export orders",
-        "A股",
-        "经济数据"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/economy/economic-indicators/article/3276796/chinas-factory-activity-returns-growth-august-caixin-pmi-shows",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "first_seen": "2026-09-03",
-      "is_new": true
-    },
-    {
-      "id": "7aa51b64753bd8f8",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Trip.com announces Q2 and H1 2026 financial results release date: September 15, 2026",
-      "summary": "Trip.com Group (9961.HK / TCOM) confirmed it will release Q2 and H1 2026 results on September 15, after US market close. This is the first earnings after accepting the record RMB 5.18 billion ($765M) SAMR antitrust fine in July 2026—investors will watch for its P&L impact and any revised margin guidance.",
-      "why": "携程9月15日业绩为持仓关键事件：市场将关注反垄断罚款对利润的一次性冲击、暑期出行旺季数据及全年指引；业绩前IV可能上升，持仓者宜提前评估期权策略调整时间窗口。",
-      "source": "Trip.com Group IR / PR Newswire",
-      "verified": true,
-      "keywords": [
-        "携程",
-        "Trip.com",
-        "TCOM",
-        "9961.HK",
-        "earnings",
-        "Q2 2026",
-        "出境游"
-      ],
-      "translated": false,
-      "url": "https://ctripcominternationalltd.gcs-web.com/news-events/news-releases",
-      "published_date": "2026-09-02",
-      "still_developing": false,
-      "first_seen": "2026-09-03",
-      "is_new": true
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Oil surges above $95 as US-Iran fighting escalates, Hormuz tanker attacks revive supply fears",
-      "summary": "Oil jumped above $95/barrel as US airstrikes on Iran and attacks on two supertankers in the Strait of Hormuz revived supply disruption fears. Vessel crossings through Hormuz fell sharply; the waterway carries ~20% of global oil supply. WTI extended its 5.2% gain from the prior session.",
-      "why": "油价突破$95是今日全球资产最重要宏观驱动力：直接推高通胀预期、触发美联储9月16日加息再定价、压制风险资产。对持有科技/消费股 sell put 组合，本周 IV 明显抬升，需重新评估行权价安全边际。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "oil",
-        "Iran",
-        "Hormuz",
-        "US strikes",
-        "supply disruption"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/us-launches-new-round-of-iran-strikes-as-strait-tensions-grow",
-      "published_date": "2026-09-01",
-      "still_developing": true,
-      "id": "0e74c4648e492066",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "21:00",
-      "group": "大盘头条",
-      "title": "Wall Street falls broadly: Nasdaq -1.03%, S&P 500 -0.70%, Dow -0.79%; 10Y Treasury hits 4.75%",
-      "summary": "Rising oil prices and higher yields dragged all three major U.S. indexes lower on Sept 1. The 10-year Treasury yield hit 4.75%, its highest since January 2025, squeezing equity valuations across nearly every sector.",
-      "why": "美债收益率4.75%创年内新高，高利率环境直接压低成长股估值倍数（DCF折现率上升），并增加 sell put 行权价被击穿的尾部风险；组合 delta 需密切跟踪。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Nasdaq",
-        "S&P 500",
-        "Dow",
-        "Treasury yield",
-        "selloff"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/stock-market-today-dow-s-p-live-updates",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "id": "780c3e7f351b8f83",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "Semiconductor stocks clobbered: Intel -7%, AMD -5%, TSM -6% amid global bond selloff",
-      "summary": "Chip stocks suffered their worst single-session loss in weeks on Sept 1 as rising Treasury yields triggered a valuation reset. Intel fell 7%, AMD dropped 5%, and Taiwan Semiconductor fell 6%; Nvidia and Micron also declined. Macro-driven selloff, not company-specific news.",
-      "why": "半导体是组合核心敞口（NVDA、INTC、MU、SK海力士），单日大幅回调显示利率上行对高估值芯片股冲击显著；IV 上升但行权价安全边际收窄，卖出 put 需重新评估。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Intel",
-        "AMD",
-        "TSMC",
-        "Nvidia",
-        "semiconductor",
-        "chip stocks",
-        "selloff"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "id": "96de56a0c7d104a0",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "Fed September 16 rate hike near-certain as Iran oil shock stokes inflation; markets in \"doom loop\"",
-      "summary": "CNBC Daily Open described markets as trapped in an \"Iran doom loop\": oil surge → inflation fears → Fed hike bets → higher yields → equity selloff. A 25bp hike at the Sept 16 FOMC is now the base case; Fed funds currently at 3.50–3.75%. Three hawkish FOMC dissenters from the July meeting add pressure.",
-      "why": "美联储9月加息从预期变为近确定事件，对持仓科技股的 sell put 有双重压力：IV上升有利权利金但持仓股估值面临压缩；建议关注9月16日FOMC声明措辞对隐含波动率的影响。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Fed",
-        "FOMC",
-        "rate hike",
-        "September",
-        "inflation",
-        "Iran"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/02/iran-markets-doom-loop.html",
-      "published_date": "2026-09-02",
-      "still_developing": true,
-      "id": "43cd03d6926e041c",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "Nvidia invests $3.5B in MediaTek convertible bonds to embed NVLink Fusion in rival AI chips",
-      "summary": "Nvidia bought ~90% of MediaTek's record $3.9B convertible bond offering on Aug 31. MediaTek will adopt NVLink Fusion, integrating Nvidia's rack-scale interconnect into custom AI accelerators — meaning ASIC customers' chips will plug directly into Nvidia systems. Alphabet also participated. MediaTek jumped 10% on Sept 1.",
-      "why": "英伟达以$35亿美元锁定 MediaTek 的 AI 芯片生态，NVLink Fusion 嵌入等于确保 NVDA 在定制 AI 芯片时代的基础设施主导权；强化了不卖芯片就卖生态的护城河逻辑，是当前 NVDA sell put 组合的强劲正面催化剂。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Nvidia",
-        "MediaTek",
-        "NVLink",
-        "convertible bond",
-        "AI chips",
-        "NVDA"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "id": "ef446cde5a10312e",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "17:00",
-      "group": "大盘头条",
-      "title": "港股恒指跌1.1%，A股沪指跌0.16%：油价飙升叠加海外利率风险令亚洲市场承压",
-      "summary": "受美国-伊朗冲突致油价飙升拖累，港股恒生指数9月1日下跌1.1%，收于25324点；内地上证综指跌0.16%至3979.9点，深证成指跌1.02%。市场担忧通胀反弹将促使全球央行收紧货币政策。",
-      "why": "港股和A股同步下跌，腾讯、阿里、美团等持仓标的均有压力；油价冲击同时挤压消费端利润空间；HK 市场 IV 短期上升，sell put 期权溢价有望提升但需关注方向风险。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "上证",
-        "港股",
-        "A股",
-        "油价",
-        "亚洲市场"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/latest-oil-market-news-and-analysis-for-sept-2",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "id": "54aecff3c9eacd60",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "中国8月官方制造业PMI升至49.8，高于预期49.7，连续改善但仍处收缩区间",
-      "summary": "国家统计局8月31日公布8月制造业PMI为49.8，高于7月的49.2及市场预期的49.7，环比改善但仍低于荣枯分界线50。生产指数（50.4%）和新订单指数（50.6%）重回扩张区间；装备制造业和高技术制造业PMI分别为51.4%和52.9%。",
-      "why": "制造业PMI超预期改善是A股边际正面信号，表明经济有温和韧性；但整体仍处收缩区间，对消费赛道持仓（海底捞、蜜雪冰城等）提示需求偏弱仍是制约因素。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "PMI",
-        "制造业",
-        "中国经济",
-        "经济数据"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "id": "2baeb07e9df47d04",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "CrowdStrike × Nvidia launch SafeMind: purpose-built frontier AI cybersecurity models",
-      "summary": "CrowdStrike launched SafeMind on Sept 1, a family of security models built using Nvidia Nemotron open models. Includes Red Tempest (offensive) and Blue Solano (defensive) models, operating natively in the Falcon platform for autonomous threat response at machine speed — deepest Nvidia-CrowdStrike integration yet.",
-      "why": "英伟达与 CrowdStrike 深度绑定网络安全 AI 代理领域，强化了 NVDA 在 AI 基础设施的多元应用落地；为 NVDA 在非数据中心场景打开新的商业化路径，属于正面软催化剂。",
-      "source": "CrowdStrike IR",
-      "verified": true,
-      "keywords": [
-        "Nvidia",
-        "CrowdStrike",
-        "SafeMind",
-        "AI cybersecurity",
-        "Nemotron",
-        "NVDA"
-      ],
-      "translated": false,
-      "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-launches-frontier-models-cybersecurity-created/",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "id": "5caabab2ccb608c9",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Google's Waymo expands paid robotaxi rides to 14 US cities; adds Denver, San Diego, Tampa",
-      "summary": "Waymo began public paid robotaxi rides in Denver, San Diego, and Tampa on Sept 1, reaching 14 US cities. Fleet exceeds 4,000 vehicles including the new Zeekr-built Ojai minivan. Amazon's Zoox simultaneously expanded, intensifying the autonomous vehicle race.",
-      "why": "Waymo 快速扩展至14城显示 Alphabet 在自动驾驶商业化的竞争优势持续拉大，对 GOOGL 估值是正面信号；需关注明日 Tesla Cybercab 正式发布对自动驾驶赛道估值的重新梳理。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Waymo",
-        "Alphabet",
-        "Google",
-        "GOOGL",
-        "robotaxi",
-        "autonomous vehicle"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/waymo-expands-paid-robotaxi-rides-to-denver-san-diego-and-tampa",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "id": "a7249709dc83da63",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Palantir wins $127M in Army TITAN production contracts; AI targeting platform enters manufacturing phase",
-      "summary": "The U.S. Army awarded $192M in production contracts on Sept 1: Palantir USG received $127M, Anduril $65M to produce eight TITAN (Tactical Intelligence Targeting Access Node) intelligence ground stations over 18 months. Partners include L3Harris, Sierra Nevada Corp., and WWT.",
-      "why": "Palantir 将 TITAN 从原型推进到量产是其国防AI平台落地的关键里程碑；搭配 Q2 营收+93% YoY 的强劲势头，政府合同稳定性进一步降低 PLTR 的估值风险，对 sell put 策略有正面含义。注：信源为国防专业媒体 Defense Scoop，非白名单，暂标 verified=false。",
-      "source": "Defense Scoop",
-      "verified": false,
-      "keywords": [
-        "Palantir",
-        "TITAN",
-        "US Army",
-        "PLTR",
-        "defense AI",
-        "government contract"
-      ],
-      "translated": false,
-      "url": "https://defensescoop.com/2026/09/01/army-titan-platform-production-awards-palantir-anduril/",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "id": "966da2c755e82cc6",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "id": "7fba7da1e17d8d45",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-      "summary": "美国放弃军事打击伊朗转向经济制裁（财政部长Bessent宣布扩大制裁，要求各国切断与伊朗商业往来），油价本周累计跌逾5%；布伦特与WTI继续承压。",
-      "why": "油价大跌有助缓解通胀压力，利好整体股市情绪；但中东局势（美-以-伊战争）仍存变数，需持续追踪地缘风险对能源成本、通胀预期及全球风险偏好的影响。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "石油",
-        "WTI",
-        "布伦特",
-        "伊朗",
-        "制裁",
-        "地缘政治",
-        "大宗商品",
-        "霍尔木兹"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/25/oil-drops-more-than-3-percent-oil-prices-iran-trump-hormuz.html",
-      "published_date": "2026-08-25",
-      "still_developing": false,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
-      "id": "9900ce7ff688f96c",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-      "summary": "Brent crude fell 3.9% to $88.58/bbl and WTI lost 3.1% to $82.36 on Tuesday as the U.S. pivoted from threatened military escalation to an economic-pressure campaign against Iran ('Operation Economic Outcast'). Sanctions were less aggressive than feared, with China not fully exempted, sending geopolitical risk premiums lower.",
-      "why": "油价单日暴跌直接压低通胀预期、推升美股，同时降低美联储年底加息概率，对持有消费与科技股的组合整体正面；能源板块若持有相关期权需注意波动率压缩。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "原油",
-        "伊朗",
-        "宏观",
-        "macro",
-        "WTI",
-        "Brent",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
-      "published_date": "2026-08-25",
-      "still_developing": false,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
-      "id": "f1659a97da5ada92",
+      "id": "5562a60e1f725217",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Nvidia's dependence on hyperscalers faces big test in earnings report",
-      "summary": "英伟达今日美股盘后将公布FY2027 Q2财报，市场聚焦超大规模云厂商（微软、谷歌、Meta等）资本开支能否支撑Vera Rubin系统的销售爬坡；黄仁勋此前预告通过2027财年将有$1万亿Blackwell及Vera Rubin订单在途。",
-      "why": "英伟达是本轮AI投资的晴雨表，财报牵动所有AI芯片及数据中心相关持仓；盘后财报前后隐含波动率通常剧烈重定价，注意sell put/covered call时序。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "NVDA",
-        "Nvidia",
-        "财报",
-        "Vera Rubin",
-        "Blackwell",
-        "数据中心",
-        "黄仁勋"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
-      "published_date": "2026-08-25",
-      "still_developing": false,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
-      "id": "d4686bf9a5f2f13e",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "US Stocks Fall as Traders Prep for Nvidia Earnings, Jackson Hole",
-      "summary": "US stocks fell Monday as investors positioned ahead of a pivotal week: Nvidia Q2 earnings (Aug 26, consensus revenue +97% YoY), Fed Chair Warsh's first Jackson Hole speech (Aug 28), and a PCE inflation reading. Alibaba dropped 9.1% in Hong Kong after announcing HK$80B share placement, dragging Hang Seng Tech Index down 3.6%. Chip stocks AMD and Micron rose 4.9% and 2.5% respectively Tuesday as semiconductor sentiment improved.",
-      "why": "Bloomberg对本周市场全景综述：英伟达+Jackson Hole+PCE三重催化剂叠加，全球风险资产均受影响；阿里配售拖累恒生科技已造成港股波动，本周末Warsh发言将为美股定向。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro",
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "阿里巴巴",
-        "Alibaba",
-        "Federal Reserve",
-        "Jackson Hole",
-        "Hang Seng"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
-      "published_date": "2026-08-24",
-      "still_developing": true,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
-      "id": "fc8fbc0710011d60",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
       ],
       "time": "08:30",
       "group": "大盘头条",
-      "title": "Treasury yields little changed ahead of key inflation data",
-      "summary": "美国今日公布7月PCE价格指数及Q2 GDP修正值（美联储首选通胀指标），市场预期环比+0.1%、同比+3.6%；结果将成为本周五沃什在Jackson Hole年会发表首次讲话前的最后一个关键宏观参考。",
-      "why": "PCE数据直接影响市场对美联储利率路径判断；Jackson Hole讲话在即（8月28日），通胀若超预期将进一步推高长端利率，对港股/美股估值构成压力，sell put策略需关注短期波动率。",
-      "source": "CNBC",
-      "verified": true,
+      "title": "ADP: US private payrolls added just 38,000 in August, below 47,000 estimate; Fed September rate hike odds fall",
+      "summary": "Private sector employment rose by only 38,000 in August per ADP, the smallest gain since January 2026, below the ~47,000 consensus estimate. Manufacturing shed 17,000 jobs. Markets rose on the weak data as Fed rate hike odds for September fell sharply; US Treasury yields pulled back from 3-year highs and the Dow rose ~300 points.",
+      "why": "ADP就业大幅低于预期，9月加息概率骤降，美债收益率从三年高位回落，利好科技股估值；弱就业数据削弱加息预期，对持仓美股（NVDA、PLTR等）的sell put策略有利；注意明日(9月4日)正式非农就业报告(NFP)公布",
+      "source": "Fox Business (ADP官方数据，非白名单媒体；数据本身来自ADP官方报告 mediacenter.adp.com)",
+      "verified": false,
       "keywords": [
-        "PCE",
-        "通胀",
+        "ADP",
+        "就业",
         "美联储",
-        "Jackson Hole",
-        "国债收益率",
-        "沃什",
-        "Warsh",
-        "货币政策"
+        "Fed",
+        "利率",
+        "非农",
+        "美债",
+        "加息"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html",
-      "published_date": "2026-08-26",
-      "still_developing": false,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
-      "id": "1bdb07afb801be48",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Jack Ma's Buying Does Little to Ease Alibaba Share Sale Fallout",
-      "summary": "马云本周大举买入阿里巴巴港股（SCMP报道逾HK$6亿），主席蔡崇信、CEO吴泳铭亦先后增持，但阿里股价持续承压，投资者对其大规模AI资本开支（配股所得US$102亿将100%投入AI）的担忧未消。",
-      "why": "阿里完成港股史上最大配股（HK$800亿）后内部人持续增持，是观察市场信心恢复的核心指标；估值能否在AI大投入背景下重建，是期权行权价设定的关键变量。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "BABA",
-        "9988.HK",
-        "马云",
-        "蔡崇信",
-        "增持",
-        "AI开支",
-        "配股",
-        "港股"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/jack-ma-s-buying-does-little-to-ease-alibaba-share-sale-fallout",
-      "published_date": "2026-08-26",
-      "still_developing": false,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
-      "id": "0817195b6777e07e",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
-      "summary": "Aug 26 market open: stock futures flat as markets await Nvidia Q2 results (after close) and PCE inflation data. Yesterday (Aug 25): S&P 500 +0.32% to 7,677, Nasdaq +0.66% to 26,151; 10-year Treasury yield -7bp to 4.625%; Bitcoin crossed $80,000; AMD +4.9%, Micron +2.5% on AI optimism ahead of Nvidia. Dick's Sporting Goods plunged 30% on weak results.",
-      "why": "今日（8月26日）市场开盘数据：美股期货平稳，英伟达收盘后财报、PCE通胀数据为两大风险点；昨日半导体板块领涨、美债收益率下行，为sell put仓位提供短线支撑。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro",
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI芯片",
-        "Federal Reserve",
-        "PCE",
-        "美光",
-        "Micron",
-        "Bitcoin"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
-      "published_date": "2026-08-26",
+      "url": "https://www.foxbusiness.com/economy/private-sector-added-38000-jobs-august-below-expectations-adp-says",
+      "published_date": "2026-09-03",
       "still_developing": true,
-      "first_seen": "2026-08-26",
-      "is_new": false
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "b4153221608d029d",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "Bank Plans on CLARITY Act Send Circle and Coinbase Shares Lower",
+      "summary": "Circle (CRCL) and Coinbase (COIN) shares fell on September 1 as major US banks including Bank of America, Wells Fargo, and Santander announced plans to issue a joint stablecoin under the CLARITY Act framework, posing a direct competitive threat to Circle's USDC stablecoin.",
+      "why": "大型银行联合发行稳定币对Circle USDC市场份额构成竞争威胁；CRCL为持仓标的，尽管USDC占稳定币交易量近70%创历史记录，银行竞争是最大风险因子；关注GENIUS Act/CLARITY Act监管落地节奏",
+      "source": "Yahoo Finance (非白名单媒体，稳定币竞争威胁已由CoinDesk多次报道交叉确认)",
+      "verified": false,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "stablecoin",
+        "CLARITY Act",
+        "银行",
+        "Coinbase"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bank-plans-clarity-act-send-091159072.html",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "4f53599df97db86a",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "雷军公布小米汽车9月购车权益：SU7/YU7享3年0息或6000元保险补贴，SU7 Ultra赠4.9万礼包",
+      "summary": "9月1日雷军公布小米汽车9月购车政策（至10月7日）：SU7/YU7系列限时权益2选1（3年0息 or 6000元保险补贴+低息）；YU7定制新车科技套装优惠价0.65万；SU7 Ultra提供价值4.9万元礼包含碳纤维套件、X小米HAD辅助驾驶及5年免费保养。",
+      "why": "小米汽车9月促销政策维持竞争力；SU7/YU7交付节奏是1810.HK汽车业务营收的核心驱动；关注9月交付量数据以评估汽车业务对小米集团整体估值的贡献",
+      "source": "CNMO / Sohu（非白名单；雷军微博为第一手来源，多媒体转载一致）",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "SU7",
+        "YU7",
+        "小米汽车",
+        "雷军",
+        "AIoT"
+      ],
+      "translated": false,
+      "url": "https://smartcar.cnmo.com/news/817365.html",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": true
     },
     {
       "id": "3355a18fc8064c4f",
@@ -1343,6 +826,152 @@
       "is_new": false
     },
     {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Oil surges above $95 as US-Iran fighting escalates, Hormuz tanker attacks revive supply fears",
+      "summary": "Oil jumped above $95/barrel as US airstrikes on Iran and attacks on two supertankers in the Strait of Hormuz revived supply disruption fears. Vessel crossings through Hormuz fell sharply; the waterway carries ~20% of global oil supply. WTI extended its 5.2% gain from the prior session.",
+      "why": "油价突破$95是今日全球资产最重要宏观驱动力：直接推高通胀预期、触发美联储9月16日加息再定价、压制风险资产。对持有科技/消费股 sell put 组合，本周 IV 明显抬升，需重新评估行权价安全边际。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "oil",
+        "Iran",
+        "Hormuz",
+        "US strikes",
+        "supply disruption"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/us-launches-new-round-of-iran-strikes-as-strait-tensions-grow",
+      "published_date": "2026-09-01",
+      "still_developing": true,
+      "id": "0e74c4648e492066",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "Wall Street falls broadly: Nasdaq -1.03%, S&P 500 -0.70%, Dow -0.79%; 10Y Treasury hits 4.75%",
+      "summary": "Rising oil prices and higher yields dragged all three major U.S. indexes lower on Sept 1. The 10-year Treasury yield hit 4.75%, its highest since January 2025, squeezing equity valuations across nearly every sector.",
+      "why": "美债收益率4.75%创年内新高，高利率环境直接压低成长股估值倍数（DCF折现率上升），并增加 sell put 行权价被击穿的尾部风险；组合 delta 需密切跟踪。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Nasdaq",
+        "S&P 500",
+        "Dow",
+        "Treasury yield",
+        "selloff"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "780c3e7f351b8f83",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Semiconductor stocks clobbered: Intel -7%, AMD -5%, TSM -6% amid global bond selloff",
+      "summary": "Chip stocks suffered their worst single-session loss in weeks on Sept 1 as rising Treasury yields triggered a valuation reset. Intel fell 7%, AMD dropped 5%, and Taiwan Semiconductor fell 6%; Nvidia and Micron also declined. Macro-driven selloff, not company-specific news.",
+      "why": "半导体是组合核心敞口（NVDA、INTC、MU、SK海力士），单日大幅回调显示利率上行对高估值芯片股冲击显著；IV 上升但行权价安全边际收窄，卖出 put 需重新评估。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Intel",
+        "AMD",
+        "TSMC",
+        "Nvidia",
+        "semiconductor",
+        "chip stocks",
+        "selloff"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "96de56a0c7d104a0",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Fed September 16 rate hike near-certain as Iran oil shock stokes inflation; markets in \"doom loop\"",
+      "summary": "CNBC Daily Open described markets as trapped in an \"Iran doom loop\": oil surge → inflation fears → Fed hike bets → higher yields → equity selloff. A 25bp hike at the Sept 16 FOMC is now the base case; Fed funds currently at 3.50–3.75%. Three hawkish FOMC dissenters from the July meeting add pressure.",
+      "why": "美联储9月加息从预期变为近确定事件，对持仓科技股的 sell put 有双重压力：IV上升有利权利金但持仓股估值面临压缩；建议关注9月16日FOMC声明措辞对隐含波动率的影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Fed",
+        "FOMC",
+        "rate hike",
+        "September",
+        "inflation",
+        "Iran"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/02/iran-markets-doom-loop.html",
+      "published_date": "2026-09-02",
+      "still_developing": true,
+      "id": "43cd03d6926e041c",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "Nvidia invests $3.5B in MediaTek convertible bonds to embed NVLink Fusion in rival AI chips",
+      "summary": "Nvidia bought ~90% of MediaTek's record $3.9B convertible bond offering on Aug 31. MediaTek will adopt NVLink Fusion, integrating Nvidia's rack-scale interconnect into custom AI accelerators — meaning ASIC customers' chips will plug directly into Nvidia systems. Alphabet also participated. MediaTek jumped 10% on Sept 1.",
+      "why": "英伟达以$35亿美元锁定 MediaTek 的 AI 芯片生态，NVLink Fusion 嵌入等于确保 NVDA 在定制 AI 芯片时代的基础设施主导权；强化了不卖芯片就卖生态的护城河逻辑，是当前 NVDA sell put 组合的强劲正面催化剂。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Nvidia",
+        "MediaTek",
+        "NVLink",
+        "convertible bond",
+        "AI chips",
+        "NVDA"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek",
+      "published_date": "2026-08-31",
+      "still_developing": false,
+      "id": "ef446cde5a10312e",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
       "id": "0290ceaa72b4cd84",
       "tier": 1,
       "lang": "zh",
@@ -1546,156 +1175,6 @@
       "still_developing": true,
       "id": "621b595eff943850",
       "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "id": "59eb4791af164658",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
-      "summary": "英伟达已通知客户，含Vera Rubin、Grace Blackwell芯片的AI服务器系统明年起提价逾15%，具体幅度依芯片世代及内存配置而异，主因是HBM等内存芯片成本上涨。",
-      "why": "延续报道：涨价传闻本周仍在发酵，将与今日盘后财报（FY2027 Q2）一并被市场消化；涨价影响AI基础设施采购成本，是理解英伟达毛利率走向和下游厂商（谷歌、微软、Meta）资本开支的关键背景。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "NVDA",
-        "Nvidia",
-        "Vera Rubin",
-        "Grace Blackwell",
-        "AI芯片",
-        "涨价",
-        "HBM",
-        "内存"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
-      "published_date": "2026-08-22",
-      "still_developing": true,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
-      "id": "46308dab79fa9b18",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "Temu-Owner PDD Shares Rise as Adjusted Profit Tops Estimates",
-      "summary": "拼多多发布Q2 2026业绩，调整后每ADS盈利19.33元，超过分析师预期18.51元，盘前股价上涨；高盛将Temu定性为进入'变现期'，视拼多多为增长新拐点已到来。",
-      "why": "PDD盈利超预期缓解市场对中国跨境电商增速放缓的担忧，有助提振中概股整体情绪；Temu变现能力若持续改善，将显著提升PDD长期盈利可见度。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "拼多多",
-        "PDD",
-        "Temu",
-        "跨境电商",
-        "季报",
-        "业绩",
-        "盈利"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/temu-owner-pdd-shares-rise-as-adjusted-profit-tops-estimates",
-      "published_date": "2026-08-24",
-      "still_developed": false,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
-      "id": "95e577357eaa7f4e",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:15",
-      "group": "大盘头条",
-      "title": "S&P 500 +0.32%, Nasdaq +0.66% on Aug 25 as yields fall; Asian stocks set to extend gains",
-      "summary": "S&P 500 closed at 7,677.28 (+0.32%), Nasdaq +0.66%, Dow +0.3% on Tuesday. 10-year Treasury yield fell 7bps to 4.625% as oil prices slumped on Iran de-escalation. Semiconductor stocks led gains ahead of Nvidia's earnings Wednesday. Bloomberg's Markets Wrap notes Asian futures pointing higher Wednesday morning.",
-      "why": "美股整体上涨、债券收益率回落，为港股开盘提供正面外围；芯片股领涨有利英伟达财报行情炒作，关注今晚结果对亚太半导体板块的传导。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "S&P 500",
-        "Nasdaq",
-        "宏观",
-        "macro",
-        "美股",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap",
-      "published_date": "2026-08-25",
-      "still_developing": false,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
-      "id": "8cc2a662f3be3723",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "07:30",
-      "group": "个股",
-      "title": "Laopu Gold Growth Slows as Bullion Slide Hits Luxury Demand",
-      "summary": "老铺黄金公布H1 2026业绩：营收同比增60%至198亿元、净利同比增88%至42.7亿元，均低于分析师预期（营收约209亿元、净利约50亿元），增速较上年同期（营收+251%、净利+超280%）大幅放缓。",
-      "why": "增速放缓叠加金价高位回落，需重估老铺黄金高估值能否持续；作为港股消费奢侈品代表标的，H1低于预期对后续covered call行权价设定有参考意义。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "老铺黄金",
-        "Laopu Gold",
-        "6181.HK",
-        "业绩",
-        "H1",
-        "黄金",
-        "奢侈品",
-        "珠宝"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/laopu-gold-s-growth-slows-as-bullion-slide-hits-luxury-demand",
-      "published_date": "2026-08-25",
-      "still_developing": false,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
-      "id": "a6f514d3f5b92fea",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "A Preview in One Chart: Meituan's Q2 Earnings Report Due Aug 28; Stock Fell 5.6% on Aug 25",
-      "summary": "Meituan (3690.HK) Q2 2026 earnings are scheduled for August 28 after market close (HK time 7pm). Institutions expect revenue of ~93.8 billion yuan (+14% YoY), but profitability faces pressure from food delivery subsidy wars. The stock fell from HK$82.70 to HK$78.05 (-5.6%) on August 25, possibly reflecting pre-earnings caution.",
-      "why": "美团临近财报，股价提前大幅回调或已部分反映盈利压力；外卖补贴战短期压制利润但巩固市场份额长期价值不变；若财报后股价进一步下跌至支撑位，可考虑sell put策略；关注即时配送、到店业务增长数据。",
-      "source": "富途牛牛 (Futunn)",
-      "verified": false,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "外卖",
-        "即时零售"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/61065774/a-preview-in-one-chart-meituan-s-q2-earnings-report",
-      "published_date": "2026-08-25",
-      "still_developing": true,
-      "first_seen": "2026-08-26",
       "is_new": false
     },
     {
@@ -2450,6 +1929,150 @@
       "is_new": false
     },
     {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "港股恒指跌1.1%，A股沪指跌0.16%：油价飙升叠加海外利率风险令亚洲市场承压",
+      "summary": "受美国-伊朗冲突致油价飙升拖累，港股恒生指数9月1日下跌1.1%，收于25324点；内地上证综指跌0.16%至3979.9点，深证成指跌1.02%。市场担忧通胀反弹将促使全球央行收紧货币政策。",
+      "why": "港股和A股同步下跌，腾讯、阿里、美团等持仓标的均有压力；油价冲击同时挤压消费端利润空间；HK 市场 IV 短期上升，sell put 期权溢价有望提升但需关注方向风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "上证",
+        "港股",
+        "A股",
+        "油价",
+        "亚洲市场"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/latest-oil-market-news-and-analysis-for-sept-2",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "54aecff3c9eacd60",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "中国8月官方制造业PMI升至49.8，高于预期49.7，连续改善但仍处收缩区间",
+      "summary": "国家统计局8月31日公布8月制造业PMI为49.8，高于7月的49.2及市场预期的49.7，环比改善但仍低于荣枯分界线50。生产指数（50.4%）和新订单指数（50.6%）重回扩张区间；装备制造业和高技术制造业PMI分别为51.4%和52.9%。",
+      "why": "制造业PMI超预期改善是A股边际正面信号，表明经济有温和韧性；但整体仍处收缩区间，对消费赛道持仓（海底捞、蜜雪冰城等）提示需求偏弱仍是制约因素。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "PMI",
+        "制造业",
+        "中国经济",
+        "经济数据"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+      "published_date": "2026-08-31",
+      "still_developing": false,
+      "id": "2baeb07e9df47d04",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "CrowdStrike × Nvidia launch SafeMind: purpose-built frontier AI cybersecurity models",
+      "summary": "CrowdStrike launched SafeMind on Sept 1, a family of security models built using Nvidia Nemotron open models. Includes Red Tempest (offensive) and Blue Solano (defensive) models, operating natively in the Falcon platform for autonomous threat response at machine speed — deepest Nvidia-CrowdStrike integration yet.",
+      "why": "英伟达与 CrowdStrike 深度绑定网络安全 AI 代理领域，强化了 NVDA 在 AI 基础设施的多元应用落地；为 NVDA 在非数据中心场景打开新的商业化路径，属于正面软催化剂。",
+      "source": "CrowdStrike IR",
+      "verified": true,
+      "keywords": [
+        "Nvidia",
+        "CrowdStrike",
+        "SafeMind",
+        "AI cybersecurity",
+        "Nemotron",
+        "NVDA"
+      ],
+      "translated": false,
+      "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-launches-frontier-models-cybersecurity-created/",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "5caabab2ccb608c9",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Google's Waymo expands paid robotaxi rides to 14 US cities; adds Denver, San Diego, Tampa",
+      "summary": "Waymo began public paid robotaxi rides in Denver, San Diego, and Tampa on Sept 1, reaching 14 US cities. Fleet exceeds 4,000 vehicles including the new Zeekr-built Ojai minivan. Amazon's Zoox simultaneously expanded, intensifying the autonomous vehicle race.",
+      "why": "Waymo 快速扩展至14城显示 Alphabet 在自动驾驶商业化的竞争优势持续拉大，对 GOOGL 估值是正面信号；需关注明日 Tesla Cybercab 正式发布对自动驾驶赛道估值的重新梳理。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Waymo",
+        "Alphabet",
+        "Google",
+        "GOOGL",
+        "robotaxi",
+        "autonomous vehicle"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/waymo-expands-paid-robotaxi-rides-to-denver-san-diego-and-tampa",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "a7249709dc83da63",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Palantir wins $127M in Army TITAN production contracts; AI targeting platform enters manufacturing phase",
+      "summary": "The U.S. Army awarded $192M in production contracts on Sept 1: Palantir USG received $127M, Anduril $65M to produce eight TITAN (Tactical Intelligence Targeting Access Node) intelligence ground stations over 18 months. Partners include L3Harris, Sierra Nevada Corp., and WWT.",
+      "why": "Palantir 将 TITAN 从原型推进到量产是其国防AI平台落地的关键里程碑；搭配 Q2 营收+93% YoY 的强劲势头，政府合同稳定性进一步降低 PLTR 的估值风险，对 sell put 策略有正面含义。注：信源为国防专业媒体 Defense Scoop，非白名单，暂标 verified=false。",
+      "source": "Defense Scoop",
+      "verified": false,
+      "keywords": [
+        "Palantir",
+        "TITAN",
+        "US Army",
+        "PLTR",
+        "defense AI",
+        "government contract"
+      ],
+      "translated": false,
+      "url": "https://defensescoop.com/2026/09/01/army-titan-platform-production-awards-palantir-anduril/",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "id": "966da2c755e82cc6",
+      "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
       "id": "26df2892ad1349d7",
       "tier": 2,
       "lang": "zh",
@@ -2536,6 +2159,67 @@
       "is_new": false
     },
     {
+      "id": "dab3678a5d906f49",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "腾讯持续回购：9月2日再度回购约110万股，耗资约5亿港元（HKEX次日披露）",
+      "summary": "腾讯控股（00700.HK）9月2日再次回购约110万股，耗资约HK$5亿，为年内连续大规模回购之一。截至目前年内授权范围内累计回购约4150万股，距离最高授权约9.12亿股空间仍大。",
+      "why": "腾讯持续高强度回购对股价形成明确底部支撑，降低sell put策略中期被行权风险；在AI CapEx大幅增加（Q2资本开支达528亿人民币）的背景下，管理层坚持回购彰显对现金流的信心。",
+      "source": "Reuters/HKEX",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "回购",
+        "buyback",
+        "HKEX"
+      ],
+      "translated": false,
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N42D0G4:0-hkex-says-tencent-bought-back-1-1-million-shares-for-hk-500-4-million/",
+      "published_date": "2026-09-02",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": false
+    },
+    {
+      "id": "860c983ca0816b14",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "China Caixin Manufacturing PMI rises to 51.5 in August 2026, ninth straight month of expansion",
+      "summary": "China's Caixin/S&P Global Manufacturing PMI came in at 51.5 in August 2026, beating the consensus forecast of 51.0 and rising from 51.2 in July. New export orders grew at the fastest pace in six months, suggesting external demand resilience despite US-China trade tensions. This marks the ninth consecutive month of factory expansion.",
+      "why": "Caixin PMI超预期扩张对A股/港股制造业板块构成短期提振；但同期官方NBS PMI仍处49.8收缩区间（已为旧闻），两者剪刀差说明大型国有企业承压更甚；出口订单加速增长可能部分源自关税前的抢单效应，需结合Q3财报确认可持续性。对持仓中港股消费+科技标的整体情绪偏利多。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "Caixin PMI",
+        "China manufacturing",
+        "PMI",
+        "August 2026",
+        "export orders",
+        "A股",
+        "经济数据"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/economy/economic-indicators/article/3276796/chinas-factory-activity-returns-growth-august-caixin-pmi-shows",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": false
+    },
+    {
       "id": "f702471095ab5735",
       "tier": 3,
       "lang": "zh",
@@ -2589,6 +2273,37 @@
       "published_date": "2026-08-27",
       "still_developing": false,
       "first_seen": "2026-08-29",
+      "is_new": false
+    },
+    {
+      "id": "7aa51b64753bd8f8",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Trip.com announces Q2 and H1 2026 financial results release date: September 15, 2026",
+      "summary": "Trip.com Group (9961.HK / TCOM) confirmed it will release Q2 and H1 2026 results on September 15, after US market close. This is the first earnings after accepting the record RMB 5.18 billion ($765M) SAMR antitrust fine in July 2026—investors will watch for its P&L impact and any revised margin guidance.",
+      "why": "携程9月15日业绩为持仓关键事件：市场将关注反垄断罚款对利润的一次性冲击、暑期出行旺季数据及全年指引；业绩前IV可能上升，持仓者宜提前评估期权策略调整时间窗口。",
+      "source": "Trip.com Group IR / PR Newswire",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "9961.HK",
+        "earnings",
+        "Q2 2026",
+        "出境游"
+      ],
+      "translated": false,
+      "url": "https://ctripcominternationalltd.gcs-web.com/news-events/news-releases",
+      "published_date": "2026-09-02",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
       "is_new": false
     }
   ]
