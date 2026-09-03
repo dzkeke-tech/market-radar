@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-03 13:18 (北京时间)",
+  "updated_at": "2026-09-03 18:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,102 +9,210 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-03 13:18 (北京时间)",
-    "new_count": 3,
+    "at": "2026-09-03 18:19 (北京时间)",
+    "new_count": 7,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "5562a60e1f725217",
+      "id": "fe8aeae0000f6ae1",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "US",
-        "HK"
+        "US"
       ],
-      "time": "08:30",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "ADP: US private payrolls added just 38,000 in August, below 47,000 estimate; Fed September rate hike odds fall",
-      "summary": "Private sector employment rose by only 38,000 in August per ADP, the smallest gain since January 2026, below the ~47,000 consensus estimate. Manufacturing shed 17,000 jobs. Markets rose on the weak data as Fed rate hike odds for September fell sharply; US Treasury yields pulled back from 3-year highs and the Dow rose ~300 points.",
-      "why": "ADP就业大幅低于预期，9月加息概率骤降，美债收益率从三年高位回落，利好科技股估值；弱就业数据削弱加息预期，对持仓美股（NVDA、PLTR等）的sell put策略有利；注意明日(9月4日)正式非农就业报告(NFP)公布",
-      "source": "Fox Business (ADP官方数据，非白名单媒体；数据本身来自ADP官方报告 mediacenter.adp.com)",
-      "verified": false,
+      "title": "美国8月ADP就业新增3.8万，创年内最低，降息预期升温",
+      "summary": "美国8月私营部门就业新增3.8万人，大幅低于市场预期4.7万人及7月修正值4.6万人，创今年1月以来最小单月增幅。数据公布后现货黄金短线拉升，市场对美联储9月16日议息会议加息预期有所降温。",
+      "why": "ADP小非农爆冷表明劳动市场降温，若非农数据同样偏弱，美联储维持利率不变概率大增；利率路径直接影响 sell put 端的 delta 曝险与隐含波动率。",
+      "source": "新浪财经",
+      "verified": true,
       "keywords": [
+        "美联储",
         "ADP",
         "就业",
-        "美联储",
-        "Fed",
-        "利率",
-        "非农",
-        "美债",
-        "加息"
+        "降息",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://www.foxbusiness.com/economy/private-sector-added-38000-jobs-august-below-expectations-adp-says",
-      "published_date": "2026-09-03",
-      "still_developing": true,
+      "url": "https://finance.sina.com.cn/money/bond/2026-09-02/doc-iniqnawn4504270.shtml",
+      "published_date": "2026-09-02",
+      "still_developing": false,
       "first_seen": "2026-09-03",
       "is_new": true
     },
     {
-      "id": "b4153221608d029d",
-      "tier": 2,
+      "id": "608e8808e9e26944",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股三大指数大幅回落：上证跌0.97%，创业板跌2.39%；军工装备板块逆势领涨",
+      "summary": "A股三大指数低开走弱，上证指数收跌0.97%至3941.39点，深证成指跌1.88%，创业板指跌2.39%。军工装备、橡胶制品等板块逆势领涨，北方长龙涨逾13%，内蒙一机2连板；粮食概念、煤炭集体下跌，中资券商与锂电池概念同步走弱，港股赣锋锂业跌超10%。",
+      "why": "创业板成分股中含多只科技/消费标的，大跌可能触发期权卖方保证金压力；军工板块逆势提示资金轮动方向，宏观风险偏好显著走低，需评估 A 股持仓暴露。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "上证指数",
+        "创业板",
+        "军工",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-02/doc-iniqmmyy7715363.shtml",
+      "published_date": "2026-09-02",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "2e4892be8bebc0b8",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "美联储大消息推动全球股市反转，黄金突破4400美元；港股恒科跌0.74%",
+      "summary": "ADP数据走弱后，美联储9月16日维持利率不变预期升温，美股三大指数收涨（标普+0.46%、纳指+0.45%）。黄金现货再次触及4400美元/盎司上方。港股恒生指数收跌0.07%，恒生科技指数跌0.74%，中资券商股领跌；A股同步走弱。",
+      "why": "美联储政策预期转向对 sell put 策略最有直接意义：若9月确认按兵不动，指数支撑位相对稳固，put 时间价值磨损有利于卖方；黄金突破4400关注老铺黄金持仓逻辑。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "黄金",
+        "港股",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/wm/2026-09-03/doc-iniqpksa2184613.shtml",
+      "published_date": "2026-09-03",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "c1d9546940131fae",
+      "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "14:00",
+      "time": "17:00",
       "group": "大盘头条",
-      "title": "Bank Plans on CLARITY Act Send Circle and Coinbase Shares Lower",
-      "summary": "Circle (CRCL) and Coinbase (COIN) shares fell on September 1 as major US banks including Bank of America, Wells Fargo, and Santander announced plans to issue a joint stablecoin under the CLARITY Act framework, posing a direct competitive threat to Circle's USDC stablecoin.",
-      "why": "大型银行联合发行稳定币对Circle USDC市场份额构成竞争威胁；CRCL为持仓标的，尽管USDC占稳定币交易量近70%创历史记录，银行竞争是最大风险因子；关注GENIUS Act/CLARITY Act监管落地节奏",
-      "source": "Yahoo Finance (非白名单媒体，稳定币竞争威胁已由CoinDesk多次报道交叉确认)",
-      "verified": false,
+      "title": "Dell surges 15%+ after record AI server orders; Q2 revenue $46.97B, +58% YoY",
+      "summary": "Dell Technologies Q2 FY2027: revenue $46.97B (+58% YoY), beating $44.5B estimate. AI-optimized server revenue hit a record $16.4B; total AI order backlog reached $95B. Adjusted EPS $7.04 vs. $4.92 expected. Full-year AI server forecast raised to $74B (>200% YoY growth). Stock surged ~15.8% after hours.",
+      "why": "Dell AI服务器订单创纪录是AI基础设施需求的晴雨表，直接支撑英伟达GPU需求预期；也反映企业IT资本支出加速，对持仓中 NVDA、GOOGL 等有正向估值效应。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "stablecoin",
-        "CLARITY Act",
-        "银行",
-        "Coinbase"
+        "AI服务器",
+        "Dell",
+        "earnings",
+        "数据中心",
+        "英伟达"
       ],
       "translated": false,
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bank-plans-clarity-act-send-091159072.html",
+      "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
       "published_date": "2026-09-01",
       "still_developing": false,
       "first_seen": "2026-09-03",
       "is_new": true
     },
     {
-      "id": "4f53599df97db86a",
-      "tier": 3,
-      "lang": "zh",
+      "id": "68668280ed76b338",
+      "tier": 1,
+      "lang": "en",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "10:00",
+      "time": "11:00",
       "group": "个股",
-      "title": "雷军公布小米汽车9月购车权益：SU7/YU7享3年0息或6000元保险补贴，SU7 Ultra赠4.9万礼包",
-      "summary": "9月1日雷军公布小米汽车9月购车政策（至10月7日）：SU7/YU7系列限时权益2选1（3年0息 or 6000元保险补贴+低息）；YU7定制新车科技套装优惠价0.65万；SU7 Ultra提供价值4.9万元礼包含碳纤维套件、X小米HAD辅助驾驶及5年免费保养。",
-      "why": "小米汽车9月促销政策维持竞争力；SU7/YU7交付节奏是1810.HK汽车业务营收的核心驱动；关注9月交付量数据以评估汽车业务对小米集团整体估值的贡献",
-      "source": "CNMO / Sohu（非白名单；雷军微博为第一手来源，多媒体转载一致）",
-      "verified": false,
+      "title": "Google launches Gemini 3.8 Flash and cybersecurity model; judge rejects DOJ bid to break up ad exchange",
+      "summary": "Alphabet launched Gemini 3.8 Flash (coding/agentic focus) and a new cybersecurity model for enterprise/government clients. A federal judge also rejected the DOJ's push to force Google to sell its ad exchange, delivering a key antitrust win. Gemini app has 950M+ monthly users; Google Cloud customers spending ~50% above their original commitments.",
+      "why": "谷歌AI产品密集发布叠加反垄断胜诉，排除资产剥离风险；GOOGL 估值去除了法律不确定性折价；若持有 GOOGL 的 sell put，当前法律风险显著降低，行权价可适当调整。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "SU7",
-        "YU7",
-        "小米汽车",
-        "雷军",
-        "AIoT"
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "Gemini",
+        "DeepMind",
+        "反垄断"
       ],
       "translated": false,
-      "url": "https://smartcar.cnmo.com/news/817365.html",
-      "published_date": "2026-09-01",
+      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "published_date": "2026-09-02",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "b8a7be043e54f6c0",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:45",
+      "group": "个股",
+      "title": "Tesla Cybercab launches today in Austin: two-seat autonomous robotaxi (no wheel, no pedals) enters commercial service",
+      "summary": "Tesla's official Cybercab launch event takes place today (Sept 3) at 4:45 PM CT in Austin, TX. The purpose-built two-seat robotaxi uses no steering wheel or pedals and runs on Tesla's AI4 computer and FSD stack. Texas regulators authorized 45 Cybercabs for commercial use as of Aug 31; Austin riders may hail via the existing Robotaxi app as early as next week. Musk has previously indicated a sub-$30k consumer price target.",
+      "why": "延续报道：Cybercab商业发布活动今日举行，FSD商业化里程碑落地将验证特斯拉自动驾驶营收模式；若发布活动顺利，短期正向催化 TSLA 股价；若出现技术或监管障碍，下行风险需评估 sell put 行权价。",
+      "source": "All Things Elon / multiple sources cross-confirmed",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Robotaxi",
+        "FSD",
+        "自动驾驶",
+        "Cybercab"
+      ],
+      "translated": false,
+      "url": "https://www.allthings-elon.com/articles/tesla-cybercab-launch-event-austin-sept-3-2026-08-31",
+      "published_date": "2026-08-31",
+      "still_developing": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "de9030a5cf577eb6",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "U.S. 10-year Treasury yield hits 4.818%, highest since Nov 2023; Japan 10Y crosses 3% for first time since 1996",
+      "summary": "The U.S. benchmark 10-year Treasury yield touched 4.818%, its highest level since November 2023. Japan's 10-year JGB crossed 3% for the first time since 1996, and the U.K. gilt reached 5.2501%, highest since June 2008. Rising global yields reflect persistent inflation and hawkish monetary policy signals ahead of the September 16 FOMC. WTI crude also rose ~1% to $91/barrel amid renewed U.S.-Iran tensions.",
+      "why": "美债收益率创近3年新高推高全球折现率，压制成长股估值；若收益率维持高位，持仓中高估值科技股（NVDA、GOOGL等）行权价设置应更保守。油价上涨加剧通胀预期，延长高利率时间窗口。",
+      "source": "Federal Reserve H.15",
+      "verified": false,
+      "keywords": [
+        "美债收益率",
+        "利率",
+        "macro",
+        "宏观",
+        "油价"
+      ],
+      "translated": false,
+      "url": "https://www.federalreserve.gov/releases/h15/",
+      "published_date": "2026-09-03",
       "still_developing": false,
       "first_seen": "2026-09-03",
       "is_new": true
@@ -1178,6 +1286,38 @@
       "is_new": false
     },
     {
+      "id": "5562a60e1f725217",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "ADP: US private payrolls added just 38,000 in August, below 47,000 estimate; Fed September rate hike odds fall",
+      "summary": "Private sector employment rose by only 38,000 in August per ADP, the smallest gain since January 2026, below the ~47,000 consensus estimate. Manufacturing shed 17,000 jobs. Markets rose on the weak data as Fed rate hike odds for September fell sharply; US Treasury yields pulled back from 3-year highs and the Dow rose ~300 points.",
+      "why": "ADP就业大幅低于预期，9月加息概率骤降，美债收益率从三年高位回落，利好科技股估值；弱就业数据削弱加息预期，对持仓美股（NVDA、PLTR等）的sell put策略有利；注意明日(9月4日)正式非农就业报告(NFP)公布",
+      "source": "Fox Business (ADP官方数据，非白名单媒体；数据本身来自ADP官方报告 mediacenter.adp.com)",
+      "verified": false,
+      "keywords": [
+        "ADP",
+        "就业",
+        "美联储",
+        "Fed",
+        "利率",
+        "非农",
+        "美债",
+        "加息"
+      ],
+      "translated": false,
+      "url": "https://www.foxbusiness.com/economy/private-sector-added-38000-jobs-august-below-expectations-adp-says",
+      "published_date": "2026-09-03",
+      "still_developing": true,
+      "first_seen": "2026-09-03",
+      "is_new": false
+    },
+    {
       "id": "497e0430676bda72",
       "tier": 2,
       "lang": "en",
@@ -2159,6 +2299,37 @@
       "is_new": false
     },
     {
+      "id": "b4153221608d029d",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "Bank Plans on CLARITY Act Send Circle and Coinbase Shares Lower",
+      "summary": "Circle (CRCL) and Coinbase (COIN) shares fell on September 1 as major US banks including Bank of America, Wells Fargo, and Santander announced plans to issue a joint stablecoin under the CLARITY Act framework, posing a direct competitive threat to Circle's USDC stablecoin.",
+      "why": "大型银行联合发行稳定币对Circle USDC市场份额构成竞争威胁；CRCL为持仓标的，尽管USDC占稳定币交易量近70%创历史记录，银行竞争是最大风险因子；关注GENIUS Act/CLARITY Act监管落地节奏",
+      "source": "Yahoo Finance (非白名单媒体，稳定币竞争威胁已由CoinDesk多次报道交叉确认)",
+      "verified": false,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "stablecoin",
+        "CLARITY Act",
+        "银行",
+        "Coinbase"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bank-plans-clarity-act-send-091159072.html",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": false
+    },
+    {
       "id": "dab3678a5d906f49",
       "tier": 2,
       "lang": "zh",
@@ -2273,6 +2444,37 @@
       "published_date": "2026-08-27",
       "still_developing": false,
       "first_seen": "2026-08-29",
+      "is_new": false
+    },
+    {
+      "id": "4f53599df97db86a",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "雷军公布小米汽车9月购车权益：SU7/YU7享3年0息或6000元保险补贴，SU7 Ultra赠4.9万礼包",
+      "summary": "9月1日雷军公布小米汽车9月购车政策（至10月7日）：SU7/YU7系列限时权益2选1（3年0息 or 6000元保险补贴+低息）；YU7定制新车科技套装优惠价0.65万；SU7 Ultra提供价值4.9万元礼包含碳纤维套件、X小米HAD辅助驾驶及5年免费保养。",
+      "why": "小米汽车9月促销政策维持竞争力；SU7/YU7交付节奏是1810.HK汽车业务营收的核心驱动；关注9月交付量数据以评估汽车业务对小米集团整体估值的贡献",
+      "source": "CNMO / Sohu（非白名单；雷军微博为第一手来源，多媒体转载一致）",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "SU7",
+        "YU7",
+        "小米汽车",
+        "雷军",
+        "AIoT"
+      ],
+      "translated": false,
+      "url": "https://smartcar.cnmo.com/news/817365.html",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
       "is_new": false
     },
     {
