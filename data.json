@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-02 18:18 (北京时间)",
+  "updated_at": "2026-09-03 08:27 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,104 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-02 18:18 (北京时间)",
-    "new_count": 10,
+    "at": "2026-09-03 08:27 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
+    {
+      "id": "dab3678a5d906f49",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "腾讯持续回购：9月2日再度回购约110万股，耗资约5亿港元（HKEX次日披露）",
+      "summary": "腾讯控股（00700.HK）9月2日再次回购约110万股，耗资约HK$5亿，为年内连续大规模回购之一。截至目前年内授权范围内累计回购约4150万股，距离最高授权约9.12亿股空间仍大。",
+      "why": "腾讯持续高强度回购对股价形成明确底部支撑，降低sell put策略中期被行权风险；在AI CapEx大幅增加（Q2资本开支达528亿人民币）的背景下，管理层坚持回购彰显对现金流的信心。",
+      "source": "Reuters/HKEX",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "回购",
+        "buyback",
+        "HKEX"
+      ],
+      "translated": false,
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N42D0G4:0-hkex-says-tencent-bought-back-1-1-million-shares-for-hk-500-4-million/",
+      "published_date": "2026-09-02",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "860c983ca0816b14",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "China Caixin Manufacturing PMI rises to 51.5 in August 2026, ninth straight month of expansion",
+      "summary": "China's Caixin/S&P Global Manufacturing PMI came in at 51.5 in August 2026, beating the consensus forecast of 51.0 and rising from 51.2 in July. New export orders grew at the fastest pace in six months, suggesting external demand resilience despite US-China trade tensions. This marks the ninth consecutive month of factory expansion.",
+      "why": "Caixin PMI超预期扩张对A股/港股制造业板块构成短期提振；但同期官方NBS PMI仍处49.8收缩区间（已为旧闻），两者剪刀差说明大型国有企业承压更甚；出口订单加速增长可能部分源自关税前的抢单效应，需结合Q3财报确认可持续性。对持仓中港股消费+科技标的整体情绪偏利多。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "Caixin PMI",
+        "China manufacturing",
+        "PMI",
+        "August 2026",
+        "export orders",
+        "A股",
+        "经济数据"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/economy/economic-indicators/article/3276796/chinas-factory-activity-returns-growth-august-caixin-pmi-shows",
+      "published_date": "2026-09-01",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "7aa51b64753bd8f8",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Trip.com announces Q2 and H1 2026 financial results release date: September 15, 2026",
+      "summary": "Trip.com Group (9961.HK / TCOM) confirmed it will release Q2 and H1 2026 results on September 15, after US market close. This is the first earnings after accepting the record RMB 5.18 billion ($765M) SAMR antitrust fine in July 2026—investors will watch for its P&L impact and any revised margin guidance.",
+      "why": "携程9月15日业绩为持仓关键事件：市场将关注反垄断罚款对利润的一次性冲击、暑期出行旺季数据及全年指引；业绩前IV可能上升，持仓者宜提前评估期权策略调整时间窗口。",
+      "source": "Trip.com Group IR / PR Newswire",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "9961.HK",
+        "earnings",
+        "Q2 2026",
+        "出境游"
+      ],
+      "translated": false,
+      "url": "https://ctripcominternationalltd.gcs-web.com/news-events/news-releases",
+      "published_date": "2026-09-02",
+      "still_developing": false,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
     {
       "tier": 1,
       "lang": "en",
@@ -43,7 +135,7 @@
       "still_developing": true,
       "id": "0e74c4648e492066",
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "tier": 1,
@@ -71,7 +163,7 @@
       "still_developing": false,
       "id": "780c3e7f351b8f83",
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "tier": 1,
@@ -101,7 +193,7 @@
       "still_developing": false,
       "id": "96de56a0c7d104a0",
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "tier": 1,
@@ -130,7 +222,7 @@
       "still_developing": true,
       "id": "43cd03d6926e041c",
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "tier": 1,
@@ -159,7 +251,7 @@
       "still_developing": false,
       "id": "ef446cde5a10312e",
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "tier": 2,
@@ -189,7 +281,7 @@
       "still_developing": false,
       "id": "54aecff3c9eacd60",
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "tier": 2,
@@ -216,7 +308,7 @@
       "still_developing": false,
       "id": "2baeb07e9df47d04",
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "tier": 2,
@@ -245,7 +337,7 @@
       "still_developing": false,
       "id": "5caabab2ccb608c9",
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "tier": 2,
@@ -274,7 +366,7 @@
       "still_developing": false,
       "id": "a7249709dc83da63",
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "tier": 2,
@@ -303,7 +395,7 @@
       "still_developing": false,
       "id": "966da2c755e82cc6",
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7fba7da1e17d8d45",
