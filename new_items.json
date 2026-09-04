@@ -1,186 +1,200 @@
 [
   {
-    "id": "2681cdfc81705cda",
+    "id": "9f340aeffc20557a",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US",
       "HK",
-      "A"
+      "US"
     ],
-    "time": "09:03",
+    "time": "08:30",
     "group": "大盘头条",
-    "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
-    "summary": "美联储理事沃勒9月3日发出鸽派信号：若通胀数据无意外，支持9月FOMC维持利率不变。市场对9月加息押注骤降约12个百分点，2年期美债收益率下行3bp至4.34%。",
-    "why": "利率路径直接影响全球估值与期权隐含波动率；sell put 策略在加息预期降温时通常受益于IV回落，权利金压缩风险降低。",
-    "source": "CNBC",
+    "title": "Asian stocks rally as traders pare Fed-hike bets ahead of US jobs data",
+    "summary": "Asian benchmarks rose broadly on Friday: Hong Kong's Hang Seng climbed 2.2% to 25,765, Japan's Nikkei gained 1.3%, and Seoul/Singapore/Taipei all rose over 1%. The rally followed Fed Governor Waller's signals of a September rate hold; markets now await August U.S. non-farm payrolls due later today.",
+    "why": "美联储9月按兵不动预期进一步升温，推动港股恒指大涨2.2%至25765点，科技股领涨亚太；对持有港股仓位（sell put策略）形成阶段性支撑，非农数据今晚是下一关键催化剂",
+    "source": "Reuters via Yahoo Finance",
     "verified": true,
     "keywords": [
       "Fed",
-      "Waller",
-      "rate hold",
-      "利率"
+      "rate hike",
+      "Asian stocks",
+      "Hong Kong",
+      "Hang Seng",
+      "Nikkei",
+      "jobs data"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
-    "published_date": "2026-09-03",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-traders-pare-024214659.html",
+    "published_date": "2026-09-04",
     "still_developing": false
   },
   {
-    "id": "9f0dca1aee35b949",
+    "id": "d468e1333ef4741d",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US",
       "HK"
     ],
-    "time": "09:03",
+    "time": "06:00",
     "group": "大盘头条",
-    "title": "Stock Market Today: Dow, S&P Live Updates for September 4",
-    "summary": "9月3日美股大涨：标普500 +1.06%报7747.71点，纳指 +1.4%报26584.06点，道指升624点（+1.18%）报53686点。沃勒鸽派表态叠加英伟达大型并购消息双重提振，港股ADR跟涨，亚股料追升。",
-    "why": "美股全面反弹改善全球风险偏好，港股ADR做好，持仓组合整体受益；大盘大涨后隐含波动率通常有所压缩，卖put权利金需重新评估时机。",
-    "source": "Bloomberg",
+    "title": "Fresh US-Iran strikes send oil surging past $90 WTI, $95 Brent; yields jump",
+    "summary": "U.S. and Iranian forces exchanged fresh strikes, renewing fears of prolonged Strait of Hormuz disruption — through which over 20% of global oil trade flows. WTI settled above $90/bbl and Brent topped $95 for the first time since late July, marking oil's biggest weekly gain since July; Treasury yields spiked before pulling back.",
+    "why": "美伊战争再度升级是本轮最大地缘风险，油价飙升推高通胀预期，叠加美联储决策不确定性；亚太能源股受益，但整体市场波动率抬升对期权卖方需谨慎管理仓位",
+    "source": "CNBC",
     "verified": true,
     "keywords": [
-      "S&P 500",
-      "Nasdaq",
-      "Dow Jones",
-      "美股"
+      "US-Iran war",
+      "oil price",
+      "Hormuz",
+      "geopolitical",
+      "Brent",
+      "WTI",
+      "宏观"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
-    "published_date": "2026-09-03",
-    "still_developing": false
-  },
-  {
-    "id": "079397fd03fc0808",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "09:03",
-    "group": "大盘头条",
-    "title": "Nvidia Agrees to $13 Billion Deal for AI Platform Hugging Face",
-    "summary": "英伟达正式确认以约130亿美元收购AI开源平台Hugging Face，并附约10亿美元员工留任奖励包。英伟达承诺维持平台开放性。受此消息提振，NVDA盘后涨约1.8%。",
-    "why": "年度最大AI并购交易，英伟达锁定AI模型开源生态主导权，进一步巩固其在AI产业链的定价权；并购消息往往推升相关期权隐含波动率。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "英伟达",
-      "Nvidia",
-      "NVDA",
-      "Hugging Face",
-      "AI芯片",
-      "并购"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
-    "published_date": "2026-09-03",
-    "still_developing": false
-  },
-  {
-    "id": "b222ff72c78a4fd8",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "09:02",
-    "group": "大盘头条",
-    "title": "Google Avoids Breakup as Judge Orders Ad Tech Unit Changes",
-    "summary": "美国联邦法官裁定谷歌无需出售广告交易平台AdX，改要求广告技术工具与竞争对手实现互操作性。Alphabet由此避免被强制拆分，广告业务（占营收主体）经营连续性获保障。",
-    "why": "裁定消除Alphabet最大监管尾部风险，广告收入基本盘无虞；对持有GOOGL者，可关注股价反弹后卖covered call机会。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "谷歌",
-      "Google",
-      "Alphabet",
-      "GOOGL",
-      "反垄断",
-      "AdX"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration",
+    "url": "https://www.cnbc.com/2026/09/02/us-iran-trump-war-escalation-latest-fed-rate-g20-bessent-yen-.html",
     "published_date": "2026-09-02",
     "still_developing": false
   },
   {
-    "id": "2289c00f6b8b797f",
+    "id": "92202d8966f27622",
     "tier": 2,
-    "lang": "zh",
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "08:00",
+    "group": "大盘头条",
+    "title": "August 2026 jobs report today: only 53K payrolls forecast amid 'jobless summer'",
+    "summary": "The Bureau of Labor Statistics releases the August jobs report Friday, September 4 at 8:30 AM ET; consensus forecasts call for just 53,000 new nonfarm payrolls after the prior two months showed a net loss of 3,000 jobs, potentially reinforcing the Fed's case to hold rates in September.",
+    "why": "弱非农数据将进一步压低美联储9月加息概率，利好风险资产和港股；若数据大幅低于预期，市场有望延续本周升势，期权卖方（sell put）策略短期处于有利环境",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "nonfarm payrolls",
+      "NFP",
+      "jobs report",
+      "Fed",
+      "labor market",
+      "宏观"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+    "published_date": "2026-09-03",
+    "still_developing": true
+  },
+  {
+    "id": "941b4e6c576634cc",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "16:00",
+    "group": "个股",
+    "title": "Costco August 2026 net sales $23.70B, up 9.9%; FY2026 full-year sales $297.3B",
+    "summary": "Costco reported August 2026 net sales of $23.70 billion (+9.9% YoY), with comparable sales up 8.4% (U.S. +9.0%, Canada +4.0%, international +9.5%) and e-commerce surging 17.9%; FY2026 full-year net sales reached $297.3 billion (+10.2%), closing in on $300B.",
+    "why": "好市多销售数据持续超预期，会员消费韧性强；FY2026全年接近3000亿美元是重要里程碑，Q4季报定于9月24日，期权到期前有催化剂窗口值得关注",
+    "source": "Costco官方新闻稿 via GlobeNewswire",
+    "verified": true,
+    "keywords": [
+      "Costco",
+      "COST",
+      "sales",
+      "comparable sales",
+      "membership",
+      "retail"
+    ],
+    "translated": false,
+    "url": "https://www.globenewswire.com/news-release/2026/09/02/3355518/0/en/costco-wholesale-corporation-reports-august-sales-results.html",
+    "published_date": "2026-09-02",
+    "still_developing": false
+  },
+  {
+    "id": "0c01fef67efa4f7d",
+    "tier": 2,
+    "lang": "en",
     "markets": [
       "HK"
     ],
-    "time": "09:03",
+    "time": "10:00",
     "group": "个股",
-    "title": "腾讯控股9月3日回购22.9万股丨港股公告精选",
-    "summary": "腾讯控股（00700.HK）于9月3日按每股435.2至441港元回购22.9万股，单日耗资约1亿港元。",
-    "why": "腾讯持续每日约1亿港元回购，展示管理层对当前估值的强力背书，对组合稳定性构成支撑；回购持续进行利于covered call 策略底部安全垫。",
-    "source": "21世纪经济报道",
+    "title": "Xiaomi makes historic IFA 2026 debut: CyberOne humanoid on factory floors, in-house XRING AI chip, EV European push",
+    "summary": "Xiaomi debuted at IFA 2026 in Berlin with its largest overseas booth (3,300 sqm, 380+ products) under the 'Human × Car × Home' theme, showcasing CyberOne humanoid robot deployed on EV assembly lines with 98% task success rate, the new XRING O3 3nm AI chip, and signed deals with German EV dealers targeting a 2027 European launch with €7.4B R&D commitment.",
+    "why": "小米IFA首秀是品牌出海战略破圈关键里程碑：汽车拟2027年入欧洲、机器人量产验证、自研芯片齐推；多重叙事共振有望推动1810.HK估值重估，IFA媒体曝光度达历史新高",
+    "source": "Korea Economic Daily (en.sedaily.com)",
+    "verified": false,
+    "keywords": [
+      "小米",
+      "Xiaomi",
+      "1810.HK",
+      "IFA",
+      "机器人",
+      "AI芯片",
+      "汽车",
+      "欧洲",
+      "出海"
+    ],
+    "translated": false,
+    "url": "https://en.sedaily.com/finance/2026/09/03/xiaomi-makes-ifa-debut-with-humanoid-robot-and-in-house-ai",
+    "published_date": "2026-09-03",
+    "still_developing": false
+  },
+  {
+    "id": "703704ea04f9f951",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "11:00",
+    "group": "个股",
+    "title": "Meituan's Keeta faces Brazil antitrust deepened probe after iFood complaint over predatory pricing",
+    "summary": "Brazil's CADE ordered a deepened antitrust investigation into Meituan-backed Keeta after local rival iFood (Prosus) filed a formal complaint alleging predatory pricing — Keeta offers up to 250 reais per order and subsidizes up to 80% per transaction — and requested a preliminary injunction to halt below-cost operations.",
+    "why": "延续报道：CADE已命令展开更深层次审查，事件持续发酵。巴西监管若发出禁令可能实质阻碍Keeta扩张，美团3690.HK国际化叙事受压；持有美团仓位需持续跟踪巴西监管进展",
+    "source": "Bloomberg",
     "verified": true,
     "keywords": [
-      "腾讯",
-      "Tencent",
-      "0700.HK",
-      "回购"
+      "美团",
+      "Meituan",
+      "3690.HK",
+      "Keeta",
+      "Brazil",
+      "antitrust",
+      "iFood",
+      "出海"
     ],
     "translated": false,
-    "url": "https://m.21jingji.com/article/20260903/herald/83d060b42b47b388f291391b25c51fc9.html",
-    "published_date": "2026-09-03",
-    "still_developing": false
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival",
+    "published_date": "2026-08-31",
+    "still_developing": true
   },
   {
-    "id": "6bd954d31be82efd",
+    "id": "de3a21bf5b392393",
     "tier": 2,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "09:03",
+    "time": "15:00",
     "group": "个股",
-    "title": "Tesla Cybercab launches in Austin: commercial robotaxi service begins",
-    "summary": "特斯拉9月3日在奥斯汀举办Cybercab邀请制发布活动，这款无方向盘/无踏板双座Robotaxi正式商业运营，通过特斯拉Robotaxi APP可叫车，定价约为Uber一半。TSLA当日盘中涨逾7%。",
-    "why": "Cybercab商业化落地是特斯拉从汽车制造商向AI机器人公司转型的关键里程碑；股价大涨后隐含波动率上升，sell put 卖方需审慎评估行权价与期限。",
-    "source": "CNBC",
+    "title": "Palantir wins $127M US Army TITAN AI ground-station contract; PLTR drops 6% on profit-taking",
+    "summary": "The U.S. Army awarded Palantir a $127 million contract for eight TITAN AI-enabled tactical intelligence ground-system units; despite the contract win, PLTR fell ~6% on September 2 as investors booked profits after the stock reached ~144x forward earnings.",
+    "why": "Palantir再获国防AI大单（TITAN是AI驱动战场情报系统），长期政府合同壁垒不变；但高估值引发获利回吐，IV可能随股价回调略降，sell put注意行权价选择",
+    "source": "Benzinga",
     "verified": false,
     "keywords": [
-      "特斯拉",
-      "Tesla",
-      "TSLA",
-      "Robotaxi",
-      "FSD",
-      "自动驾驶"
+      "Palantir",
+      "PLTR",
+      "TITAN",
+      "US Army",
+      "defense",
+      "government contract",
+      "AI"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
-    "published_date": "2026-09-03",
-    "still_developing": false
-  },
-  {
-    "id": "6487a7b17f44d303",
-    "tier": 2,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "09:02",
-    "group": "个股",
-    "title": "Snowflake (SNOW) Q2 earnings report 2027",
-    "summary": "Snowflake发布Q2 FY2027财报（截至2026年7月31日），产品收入15.5亿美元超预期14.8亿美元，同比增35%；调整后EPS 0.62美元大超预期0.45美元；Q3指引强劲，股价盘后大涨逾20%。",
-    "why": "Snowflake大幅超预期印证企业AI数据云需求持续强劲，是科技/AI板块情绪转暖的重要信号；AI基础设施需求加速支撑英伟达、美光等持仓逻辑。",
-    "source": "CNBC",
-    "verified": false,
-    "keywords": [
-      "Snowflake",
-      "SNOW",
-      "AI",
-      "数据中心",
-      "科技"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
+    "url": "https://www.benzinga.com/markets/tech/26/09/61566511/palantir-full-battlefield-system-us-army-contract-futurum-strategist",
     "published_date": "2026-09-02",
     "still_developing": false
   }
