@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-05 08:24 (北京时间)",
+  "updated_at": "2026-09-05 13:22 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,96 +9,232 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-05 08:24 (北京时间)",
-    "new_count": 3,
-    "degraded": 0,
+    "at": "2026-09-05 13:22 (北京时间)",
+    "new_count": 7,
+    "degraded": 8,
     "input_missing": false
   },
   "items": [
     {
-      "id": "0231263d2500f82b",
+      "id": "4c6c287ca5eae094",
+      "title": "US August payrolls +162K, unemployment ticks to 4.3%; Fed rate-hike odds rise to ~59%",
+      "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+      "source": "CNBC",
+      "published_date": "2026-09-05",
+      "category": "大盘头条",
       "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
-      "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
-      "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "jobs report",
-        "nonfarm payrolls",
-        "Treasury yield",
-        "Federal Reserve",
-        "US stocks",
-        "rate hike"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
-      "published_date": "2026-09-04",
+      "verified": false,
       "still_developing": false,
-      "first_seen": "2026-09-05",
-      "is_new": true
-    },
-    {
-      "id": "b1c40777b4210ebd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
+      "why": "8月非农就业数据超预期（+162K vs 预期+145K），失业率升至4.3%。数据公布后市场对9月Fed加息25bp的预期升至约59%，美债收益率走高，纳指期货承压。为当日最重要宏观事件。source=CNBC（白名单），published_date=2026-09-05（当日），verified=false（无primary_official核对）。",
+      "keywords": [
+        "宏观",
+        "macro",
         "US",
-        "HK"
+        "Fed",
+        "就业",
+        "利率"
       ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
-      "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
-      "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Federal Reserve",
-        "FOMC",
-        "interest rate hike",
-        "CPI",
-        "inflation",
-        "monetary policy"
+      "_schema_issues": [
+        "缺少必填字段 summary",
+        "缺少必填字段 markets"
       ],
+      "markets": [],
+      "group": "个股",
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
-      "published_date": "2026-09-04",
-      "still_developing": false,
+      "lang": "en",
+      "time": "13:22",
       "first_seen": "2026-09-05",
       "is_new": true
     },
     {
-      "id": "59dcf3e249da2a0f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
-      "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
-      "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "科创50",
-        "厄尔尼诺",
-        "猪肉股",
-        "科技板块"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
+      "id": "33364cdbd2d83480",
+      "title": "特斯拉Cybercab OTA更新令市场失望，股价下跌约6%；NHTSA同步开启安全调查",
+      "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+      "source": "CNBC",
       "published_date": "2026-09-04",
+      "category": "个股",
+      "tier": 1,
+      "verified": false,
       "still_developing": false,
+      "why": "Cybercab最新OTA升级与预期落差较大，叠加NHTSA宣布展开安全调查，特斯拉单日下跌约6%。直接影响持仓，属tier1个股负面事件。source=CNBC（白名单），published_date=2026-09-04，verified=false。",
+      "keywords": [
+        "US",
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Cybercab",
+        "Robotaxi",
+        "自动驾驶",
+        "监管"
+      ],
+      "_schema_issues": [
+        "缺少必填字段 summary",
+        "缺少必填字段 markets"
+      ],
+      "markets": [],
+      "group": "个股",
+      "translated": false,
+      "lang": "zh",
+      "time": "13:22",
+      "first_seen": "2026-09-05",
+      "is_new": true
+    },
+    {
+      "id": "a0d0804db8c9a799",
+      "title": "港股9月4日全线反弹，恒生指数+1.74%、恒生科技+2.27%，科技股领涨",
+      "url": "https://hk.investing.com/news/stock-market-news/article-1643000",
+      "source": "格隆汇",
+      "published_date": "2026-09-04",
+      "category": "大盘头条",
+      "tier": 2,
+      "verified": false,
+      "still_developing": false,
+      "why": "9月4日港股收盘大幅反弹，恒生指数+1.74%、恒生科技指数+2.27%，互联网/科技股全线走强，覆盖持仓腾讯、阿里、美团等。source=格隆汇（白名单，刊载于hk.investing.com页面但内容属格隆汇原创），published_date=2026-09-04，verified=false。",
+      "keywords": [
+        "HK",
+        "港股",
+        "恒生指数",
+        "恒生科技"
+      ],
+      "_schema_issues": [
+        "缺少必填字段 summary",
+        "缺少必填字段 markets"
+      ],
+      "markets": [],
+      "group": "个股",
+      "translated": false,
+      "lang": "zh",
+      "time": "13:22",
+      "first_seen": "2026-09-05",
+      "is_new": true
+    },
+    {
+      "id": "b13c12746d4ae570",
+      "title": "闪迪/SanDisk宣布NAND闪存涨价约10%，Micron同步受益，存储股集体大涨",
+      "url": "https://www.thepaper.cn/newsDetail_forward_31546776",
+      "source": "澎湃新闻",
+      "published_date": "2026-09-04",
+      "category": "大盘头条",
+      "tier": 2,
+      "verified": false,
+      "still_developing": false,
+      "why": "SanDisk宣布对NAND闪存产品涨价约10%，带动存储板块全面上涨：SanDisk(SNDK)+8%、Micron(MU)+6%、SK Hynix跟涨。属行业级别事件，直接影响持仓美光和SK海力士，故归类为大盘头条。source=澎湃新闻（白名单），published_date=2026-09-04，verified=false。",
+      "keywords": [
+        "semiconductor",
+        "NAND",
+        "存储",
+        "闪迪",
+        "SanDisk",
+        "SNDK",
+        "美光",
+        "MU",
+        "SK海力士"
+      ],
+      "_schema_issues": [
+        "缺少必填字段 summary",
+        "缺少必填字段 markets"
+      ],
+      "markets": [],
+      "group": "个股",
+      "translated": false,
+      "lang": "zh",
+      "time": "13:22",
+      "first_seen": "2026-09-05",
+      "is_new": true
+    },
+    {
+      "id": "e2b21a8a16ba1dc4",
+      "title": "苹果进入Ternus时代，9月9日发布会在即；AI功能与内存制约成新CEO首要挑战",
+      "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+      "source": "CNBC",
+      "published_date": "2026-09-01",
+      "category": "大盘头条",
+      "tier": 2,
+      "verified": false,
+      "still_developing": true,
+      "why": "苹果新CEO Ternus首次主导的9月9日产品发布会即将举行，市场关注AI功能落地节奏及内存供应紧张对iPhone 17系列的影响。事件发生于2026-09-01（距运行日4天），发布会尚未召开，持续发酵，故标记still_developing=true。source=CNBC（白名单），verified=false。",
+      "keywords": [
+        "US",
+        "Apple",
+        "AAPL",
+        "科技",
+        "AI",
+        "发布会"
+      ],
+      "_schema_issues": [
+        "缺少必填字段 summary",
+        "缺少必填字段 markets"
+      ],
+      "markets": [],
+      "group": "个股",
+      "translated": false,
+      "lang": "zh",
+      "time": "13:22",
+      "first_seen": "2026-09-05",
+      "is_new": true
+    },
+    {
+      "id": "2a6c3865e07de0a5",
+      "title": "Circle宣布Arc主网9月16日上线，BlackRock、DTCC、Visa加入创始验证人",
+      "url": "https://www.circle.com/pressroom/circle-announces-founding-validator-cohort-and-major-integrations-for-arc-ahead-of-september-16-mainnet-launch",
+      "source": "Circle",
+      "published_date": "2026-09-04",
+      "category": "个股",
+      "tier": 2,
+      "verified": false,
+      "still_developing": false,
+      "why": "Circle官方新闻稿宣布Arc主网将于9月16日上线，BlackRock、DTCC、Visa等机构加入创始验证人阵营，为USDC生态重要里程碑事件。source=Circle官方新闻稿（公司IR，属primary_official范畴），published_date=2026-09-04，verified=false（暂未与交易所公告交叉验证）。",
+      "keywords": [
+        "US",
+        "Circle",
+        "CRCL",
+        "USDC",
+        "stablecoin",
+        "稳定币",
+        "crypto",
+        "区块链"
+      ],
+      "_schema_issues": [
+        "缺少必填字段 summary",
+        "缺少必填字段 markets"
+      ],
+      "markets": [],
+      "group": "个股",
+      "translated": false,
+      "lang": "zh",
+      "time": "13:22",
+      "first_seen": "2026-09-05",
+      "is_new": true
+    },
+    {
+      "id": "3005a009bbd58bb9",
+      "title": "小米汽车8月交付量突破3万台，创单月新高；YU7等新车型研发稳步推进",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-09-01/doc-iniqhscz8307654.shtml",
+      "source": "新浪财经",
+      "published_date": "2026-09-01",
+      "category": "个股",
+      "tier": 3,
+      "verified": false,
+      "still_developing": true,
+      "why": "小米汽车8月交付量超3万台（单月创历史新高），雷军同日确认YU7等新车型进展顺利。事件发生于2026-09-01（距运行日4天），9月交付数据持续跟踪中，故标记still_developing=true。source=新浪财经（白名单media_cn），verified=false（未与官方公告核对具体交付数字）。",
+      "keywords": [
+        "HK",
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "小米汽车",
+        "YU7",
+        "交付"
+      ],
+      "_schema_issues": [
+        "缺少必填字段 summary",
+        "缺少必填字段 markets"
+      ],
+      "markets": [],
+      "group": "个股",
+      "translated": false,
+      "lang": "zh",
+      "time": "13:22",
       "first_seen": "2026-09-05",
       "is_new": true
     },
@@ -1311,6 +1447,65 @@
       "is_new": false
     },
     {
+      "id": "0231263d2500f82b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
+      "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
+      "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "jobs report",
+        "nonfarm payrolls",
+        "Treasury yield",
+        "Federal Reserve",
+        "US stocks",
+        "rate hike"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-05",
+      "is_new": false
+    },
+    {
+      "id": "b1c40777b4210ebd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
+      "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
+      "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Federal Reserve",
+        "FOMC",
+        "interest rate hike",
+        "CPI",
+        "inflation",
+        "monetary policy"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-05",
+      "is_new": false
+    },
+    {
       "id": "23581db44a0f16ba",
       "tier": 2,
       "lang": "en",
@@ -2410,6 +2605,34 @@
       "published_date": "2026-09-02",
       "still_developing": false,
       "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "59dcf3e249da2a0f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
+      "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
+      "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "科创50",
+        "厄尔尼诺",
+        "猪肉股",
+        "科技板块"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-05",
       "is_new": false
     },
     {
