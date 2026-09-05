@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-04 18:19 (北京时间)",
+  "updated_at": "2026-09-05 08:24 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,283 +9,98 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-04 18:19 (北京时间)",
-    "new_count": 6,
+    "at": "2026-09-05 08:24 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "9f340aeffc20557a",
+      "id": "0231263d2500f82b",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "HK",
         "US"
       ],
       "time": "08:30",
       "group": "大盘头条",
-      "title": "Asian stocks rally as traders pare Fed-hike bets ahead of US jobs data",
-      "summary": "Asian benchmarks rose broadly on Friday: Hong Kong's Hang Seng climbed 2.2% to 25,765, Japan's Nikkei gained 1.3%, and Seoul/Singapore/Taipei all rose over 1%. The rally followed Fed Governor Waller's signals of a September rate hold; markets now await August U.S. non-farm payrolls due later today.",
-      "why": "美联储9月按兵不动预期进一步升温，推动港股恒指大涨2.2%至25765点，科技股领涨亚太；对持有港股仓位（sell put策略）形成阶段性支撑，非农数据今晚是下一关键催化剂",
-      "source": "Reuters via Yahoo Finance",
+      "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
+      "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
+      "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "Fed",
-        "rate hike",
-        "Asian stocks",
-        "Hong Kong",
-        "Hang Seng",
-        "Nikkei",
-        "jobs data"
+        "jobs report",
+        "nonfarm payrolls",
+        "Treasury yield",
+        "Federal Reserve",
+        "US stocks",
+        "rate hike"
       ],
       "translated": false,
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-traders-pare-024214659.html",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
       "published_date": "2026-09-04",
       "still_developing": false,
-      "first_seen": "2026-09-04",
+      "first_seen": "2026-09-05",
       "is_new": true
     },
     {
-      "id": "d468e1333ef4741d",
+      "id": "b1c40777b4210ebd",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "06:00",
+      "time": "14:00",
       "group": "大盘头条",
-      "title": "Fresh US-Iran strikes send oil surging past $90 WTI, $95 Brent; yields jump",
-      "summary": "U.S. and Iranian forces exchanged fresh strikes, renewing fears of prolonged Strait of Hormuz disruption — through which over 20% of global oil trade flows. WTI settled above $90/bbl and Brent topped $95 for the first time since late July, marking oil's biggest weekly gain since July; Treasury yields spiked before pulling back.",
-      "why": "美伊战争再度升级是本轮最大地缘风险，油价飙升推高通胀预期，叠加美联储决策不确定性；亚太能源股受益，但整体市场波动率抬升对期权卖方需谨慎管理仓位",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "US-Iran war",
-        "oil price",
-        "Hormuz",
-        "geopolitical",
-        "Brent",
-        "WTI",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/02/us-iran-trump-war-escalation-latest-fed-rate-g20-bessent-yen-.html",
-      "published_date": "2026-09-02",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": true
-    },
-    {
-      "id": "92202d8966f27622",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "August 2026 jobs report today: only 53K payrolls forecast amid 'jobless summer'",
-      "summary": "The Bureau of Labor Statistics releases the August jobs report Friday, September 4 at 8:30 AM ET; consensus forecasts call for just 53,000 new nonfarm payrolls after the prior two months showed a net loss of 3,000 jobs, potentially reinforcing the Fed's case to hold rates in September.",
-      "why": "弱非农数据将进一步压低美联储9月加息概率，利好风险资产和港股；若数据大幅低于预期，市场有望延续本周升势，期权卖方（sell put）策略短期处于有利环境",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "nonfarm payrolls",
-        "NFP",
-        "jobs report",
-        "Fed",
-        "labor market",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
-      "published_date": "2026-09-03",
-      "still_developing": true,
-      "first_seen": "2026-09-04",
-      "is_new": true
-    },
-    {
-      "id": "941b4e6c576634cc",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "个股",
-      "title": "Costco August 2026 net sales $23.70B, up 9.9%; FY2026 full-year sales $297.3B",
-      "summary": "Costco reported August 2026 net sales of $23.70 billion (+9.9% YoY), with comparable sales up 8.4% (U.S. +9.0%, Canada +4.0%, international +9.5%) and e-commerce surging 17.9%; FY2026 full-year net sales reached $297.3 billion (+10.2%), closing in on $300B.",
-      "why": "好市多销售数据持续超预期，会员消费韧性强；FY2026全年接近3000亿美元是重要里程碑，Q4季报定于9月24日，期权到期前有催化剂窗口值得关注",
-      "source": "Costco官方新闻稿 via GlobeNewswire",
-      "verified": true,
-      "keywords": [
-        "Costco",
-        "COST",
-        "sales",
-        "comparable sales",
-        "membership",
-        "retail"
-      ],
-      "translated": false,
-      "url": "https://www.globenewswire.com/news-release/2026/09/02/3355518/0/en/costco-wholesale-corporation-reports-august-sales-results.html",
-      "published_date": "2026-09-02",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": true
-    },
-    {
-      "id": "0c01fef67efa4f7d",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Xiaomi makes historic IFA 2026 debut: CyberOne humanoid on factory floors, in-house XRING AI chip, EV European push",
-      "summary": "Xiaomi debuted at IFA 2026 in Berlin with its largest overseas booth (3,300 sqm, 380+ products) under the 'Human × Car × Home' theme, showcasing CyberOne humanoid robot deployed on EV assembly lines with 98% task success rate, the new XRING O3 3nm AI chip, and signed deals with German EV dealers targeting a 2027 European launch with €7.4B R&D commitment.",
-      "why": "小米IFA首秀是品牌出海战略破圈关键里程碑：汽车拟2027年入欧洲、机器人量产验证、自研芯片齐推；多重叙事共振有望推动1810.HK估值重估，IFA媒体曝光度达历史新高",
-      "source": "Korea Economic Daily (en.sedaily.com)",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "IFA",
-        "机器人",
-        "AI芯片",
-        "汽车",
-        "欧洲",
-        "出海"
-      ],
-      "translated": false,
-      "url": "https://en.sedaily.com/finance/2026/09/03/xiaomi-makes-ifa-debut-with-humanoid-robot-and-in-house-ai",
-      "published_date": "2026-09-03",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": true
-    },
-    {
-      "id": "703704ea04f9f951",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "Meituan's Keeta faces Brazil antitrust deepened probe after iFood complaint over predatory pricing",
-      "summary": "Brazil's CADE ordered a deepened antitrust investigation into Meituan-backed Keeta after local rival iFood (Prosus) filed a formal complaint alleging predatory pricing — Keeta offers up to 250 reais per order and subsidizes up to 80% per transaction — and requested a preliminary injunction to halt below-cost operations.",
-      "why": "延续报道：CADE已命令展开更深层次审查，事件持续发酵。巴西监管若发出禁令可能实质阻碍Keeta扩张，美团3690.HK国际化叙事受压；持有美团仓位需持续跟踪巴西监管进展",
+      "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
+      "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
+      "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "Keeta",
-        "Brazil",
-        "antitrust",
-        "iFood",
-        "出海"
+        "Federal Reserve",
+        "FOMC",
+        "interest rate hike",
+        "CPI",
+        "inflation",
+        "monetary policy"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival",
-      "published_date": "2026-08-31",
-      "still_developing": true,
-      "first_seen": "2026-09-04",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-05",
       "is_new": true
     },
     {
-      "id": "fba27dc144098d42",
-      "tier": 1,
+      "id": "59dcf3e249da2a0f",
+      "tier": 2,
       "lang": "zh",
       "markets": [
-        "US",
-        "HK",
         "A"
       ],
-      "time": "08:00",
+      "time": "15:30",
       "group": "大盘头条",
-      "title": "美国拟对华加征7.5%超额产能关税，9月24日川习峰会前完成贸易上限布局",
-      "summary": "彭博报道，美国计划在9月24日华盛顿川习峰会前，依301条款产能过剩调查结果对中国商品加征7.5%关税。加上现有关税，合计将达20%——恰好是中美吉隆坡贸易休战协议上限。该休战协议于11月10日到期，此举或作为谈判筹码。",
-      "why": "延续报道：关税重回20%上限直接冲击对华出口相关中概股、制造业供应链；也令Temu/拼多多境外扩张成本再度攀升。对港股消费科技标的（阿里、腾讯、美团）构成估值压力，sell put 需注意方向风险。9月24日川习峰会谈判结果将是下一个关键节点。",
-      "source": "Bloomberg",
+      "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
+      "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
+      "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "中美贸易",
-        "关税",
-        "Trump",
-        "Xi",
-        "301条款",
-        "产能过剩"
+        "A股",
+        "科创50",
+        "厄尔尼诺",
+        "猪肉股",
+        "科技板块"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
-      "published_date": "2026-08-24",
-      "still_developing": true,
-      "first_seen": "2026-08-28",
-      "is_new": false
-    },
-    {
-      "id": "8664baca752c58b9",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "联储新主席Warsh今日Jackson Hole发表首次主旨演讲，市场押注9月会议方向",
-      "summary": "美联储新任主席Kevin Warsh（2026年5月就任）今日（8/28）上午10时ET在杰克逊霍尔年会发表首次主旨演讲，主题为《金融创新：对支付与政策的影响》。当前通胀3.4%（高于2%目标），30年期美债收益率5.31%（2007年以来最高），市场定价9月16日FOMC会议约1/3概率加息。本次演讲是Warsh确立货币政策立场的关键首秀。",
-      "why": "Warsh演讲直接决定9月16日降息/加息/按兵不动预期，影响全市场波动率曲面；若鹰派偏紧，美元走强，港股/中概估值承压；若信号宽松，有利于持仓中成长科技股 sell put 策略的盈利空间。期权交易者需密切关注VIX和implied vol走向。",
-      "source": "Kansas City Fed官方 / Bloomberg",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "Warsh",
-        "Jackson Hole",
-        "利率",
-        "货币政策",
-        "FOMC"
-      ],
-      "translated": false,
-      "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/",
-      "published_date": "2026-08-28",
-      "still_developing": true,
-      "first_seen": "2026-08-28",
-      "is_new": false
-    },
-    {
-      "id": "488d216098e2bc81",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Stock market today Aug. 27: Nasdaq surges 1.4%, S&P 500 gains 0.7% as Nvidia earnings revive AI optimism",
-      "summary": "美股8月27日大幅反弹，纳指涨1.4%，S&P 500涨0.7%，道指涨约0.2%至53,564点。英伟达发布爆表Q2财报后单日飙涨8.74%，带动Salesforce(+21.5%)、IBM(+3.8%)等科技股全线上涨。麦当劳(-2.6%)、迪士尼(-2.6%)等传统消费股走弱。",
-      "why": "纳指+1.4%大涨确认AI基础设施投资周期未见顶；科技板块全面反弹对持有NVDA、GOOGL等美股仓位有直接正面影响。迪士尼DIS盘中-2.6%，持有DIS期权需关注。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "纳斯达克",
-        "S&P 500",
-        "英伟达",
-        "美股"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
-      "published_date": "2026-08-27",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
+      "published_date": "2026-09-04",
       "still_developing": false,
-      "first_seen": "2026-08-28",
-      "is_new": false
+      "first_seen": "2026-09-05",
+      "is_new": true
     },
     {
       "id": "d89b1cd646324a19",
@@ -1319,6 +1134,68 @@
       "is_new": false
     },
     {
+      "id": "9f340aeffc20557a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Asian stocks rally as traders pare Fed-hike bets ahead of US jobs data",
+      "summary": "Asian benchmarks rose broadly on Friday: Hong Kong's Hang Seng climbed 2.2% to 25,765, Japan's Nikkei gained 1.3%, and Seoul/Singapore/Taipei all rose over 1%. The rally followed Fed Governor Waller's signals of a September rate hold; markets now await August U.S. non-farm payrolls due later today.",
+      "why": "美联储9月按兵不动预期进一步升温，推动港股恒指大涨2.2%至25765点，科技股领涨亚太；对持有港股仓位（sell put策略）形成阶段性支撑，非农数据今晚是下一关键催化剂",
+      "source": "Reuters via Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "Fed",
+        "rate hike",
+        "Asian stocks",
+        "Hong Kong",
+        "Hang Seng",
+        "Nikkei",
+        "jobs data"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-traders-pare-024214659.html",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "d468e1333ef4741d",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "Fresh US-Iran strikes send oil surging past $90 WTI, $95 Brent; yields jump",
+      "summary": "U.S. and Iranian forces exchanged fresh strikes, renewing fears of prolonged Strait of Hormuz disruption — through which over 20% of global oil trade flows. WTI settled above $90/bbl and Brent topped $95 for the first time since late July, marking oil's biggest weekly gain since July; Treasury yields spiked before pulling back.",
+      "why": "美伊战争再度升级是本轮最大地缘风险，油价飙升推高通胀预期，叠加美联储决策不确定性；亚太能源股受益，但整体市场波动率抬升对期权卖方需谨慎管理仓位",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "US-Iran war",
+        "oil price",
+        "Hormuz",
+        "geopolitical",
+        "Brent",
+        "WTI",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/02/us-iran-trump-war-escalation-latest-fed-rate-g20-bessent-yen-.html",
+      "published_date": "2026-09-02",
+      "still_developing": false,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
       "id": "2681cdfc81705cda",
       "tier": 1,
       "lang": "en",
@@ -1431,35 +1308,6 @@
       "published_date": "2026-09-02",
       "still_developing": false,
       "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "1f99b520017727da",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "19:00",
-      "group": "大盘头条",
-      "title": "美团（3690.HK）今日盘后发布Q2 2026业绩，电话会议香港时间晚7时",
-      "summary": "美团定于8月28日（今日）港股收盘后发布2026年第二季度财报，并于香港时间晚7时举行业绩电话会议。此前股价从高点122港元回调至约78港元，市场关注外卖、即时零售增速及Keeta国际化进展。",
-      "why": "美团是恒指重要成份股，业绩发布日隐含波动率通常放大。重点关注：外卖/即时零售GMV增速；Keeta在港/中东扩张进度；大众点评到店业务变化；管理层对竞争（京东、抖音团购）的表述。对持有3690.HK期权者，今日为高波动风险窗口。",
-      "source": "Meituan IR官方",
-      "verified": false,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "外卖",
-        "即时零售",
-        "Keeta"
-      ],
-      "translated": false,
-      "url": "https://www.meituan.com/en-US/investor/calendar",
-      "published_date": "2026-08-28",
-      "still_developing": true,
-      "first_seen": "2026-08-28",
       "is_new": false
     },
     {
@@ -2416,6 +2264,127 @@
       "is_new": false
     },
     {
+      "id": "92202d8966f27622",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "August 2026 jobs report today: only 53K payrolls forecast amid 'jobless summer'",
+      "summary": "The Bureau of Labor Statistics releases the August jobs report Friday, September 4 at 8:30 AM ET; consensus forecasts call for just 53,000 new nonfarm payrolls after the prior two months showed a net loss of 3,000 jobs, potentially reinforcing the Fed's case to hold rates in September.",
+      "why": "弱非农数据将进一步压低美联储9月加息概率，利好风险资产和港股；若数据大幅低于预期，市场有望延续本周升势，期权卖方（sell put）策略短期处于有利环境",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "nonfarm payrolls",
+        "NFP",
+        "jobs report",
+        "Fed",
+        "labor market",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+      "published_date": "2026-09-03",
+      "still_developing": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "941b4e6c576634cc",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "个股",
+      "title": "Costco August 2026 net sales $23.70B, up 9.9%; FY2026 full-year sales $297.3B",
+      "summary": "Costco reported August 2026 net sales of $23.70 billion (+9.9% YoY), with comparable sales up 8.4% (U.S. +9.0%, Canada +4.0%, international +9.5%) and e-commerce surging 17.9%; FY2026 full-year net sales reached $297.3 billion (+10.2%), closing in on $300B.",
+      "why": "好市多销售数据持续超预期，会员消费韧性强；FY2026全年接近3000亿美元是重要里程碑，Q4季报定于9月24日，期权到期前有催化剂窗口值得关注",
+      "source": "Costco官方新闻稿 via GlobeNewswire",
+      "verified": true,
+      "keywords": [
+        "Costco",
+        "COST",
+        "sales",
+        "comparable sales",
+        "membership",
+        "retail"
+      ],
+      "translated": false,
+      "url": "https://www.globenewswire.com/news-release/2026/09/02/3355518/0/en/costco-wholesale-corporation-reports-august-sales-results.html",
+      "published_date": "2026-09-02",
+      "still_developing": false,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "0c01fef67efa4f7d",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Xiaomi makes historic IFA 2026 debut: CyberOne humanoid on factory floors, in-house XRING AI chip, EV European push",
+      "summary": "Xiaomi debuted at IFA 2026 in Berlin with its largest overseas booth (3,300 sqm, 380+ products) under the 'Human × Car × Home' theme, showcasing CyberOne humanoid robot deployed on EV assembly lines with 98% task success rate, the new XRING O3 3nm AI chip, and signed deals with German EV dealers targeting a 2027 European launch with €7.4B R&D commitment.",
+      "why": "小米IFA首秀是品牌出海战略破圈关键里程碑：汽车拟2027年入欧洲、机器人量产验证、自研芯片齐推；多重叙事共振有望推动1810.HK估值重估，IFA媒体曝光度达历史新高",
+      "source": "Korea Economic Daily (en.sedaily.com)",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "IFA",
+        "机器人",
+        "AI芯片",
+        "汽车",
+        "欧洲",
+        "出海"
+      ],
+      "translated": false,
+      "url": "https://en.sedaily.com/finance/2026/09/03/xiaomi-makes-ifa-debut-with-humanoid-robot-and-in-house-ai",
+      "published_date": "2026-09-03",
+      "still_developing": false,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "703704ea04f9f951",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "Meituan's Keeta faces Brazil antitrust deepened probe after iFood complaint over predatory pricing",
+      "summary": "Brazil's CADE ordered a deepened antitrust investigation into Meituan-backed Keeta after local rival iFood (Prosus) filed a formal complaint alleging predatory pricing — Keeta offers up to 250 reais per order and subsidizes up to 80% per transaction — and requested a preliminary injunction to halt below-cost operations.",
+      "why": "延续报道：CADE已命令展开更深层次审查，事件持续发酵。巴西监管若发出禁令可能实质阻碍Keeta扩张，美团3690.HK国际化叙事受压；持有美团仓位需持续跟踪巴西监管进展",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "Keeta",
+        "Brazil",
+        "antitrust",
+        "iFood",
+        "出海"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival",
+      "published_date": "2026-08-31",
+      "still_developing": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
       "id": "6487a7b17f44d303",
       "tier": 2,
       "lang": "en",
@@ -2441,33 +2410,6 @@
       "published_date": "2026-09-02",
       "still_developing": false,
       "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "f702471095ab5735",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "腾讯《王者万象棋》定档9月10日全平台上线，预约量逾7000万",
-      "summary": "腾讯旗下《王者荣耀》IP自走棋新作《王者万象棋》正式宣布9月10日全平台上线（iOS/Android/HarmonyOS/PC），预约量突破7000万。游戏收录85位英雄，支持18人同屏对战。",
-      "why": "里程碑软新闻：《王者荣耀》IP商业化路径延伸，7000万预约量验证IP韧性。若公测流水超预期，有助于腾讯国内游戏板块收入回暖（腾讯Q2国内游戏已+17%），对0700.HK sell put 策略属中性偏正面催化。",
-      "source": "新浪财经科技",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "王者荣耀",
-        "游戏",
-        "0700.HK"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-27/doc-inipuqhm9089656.shtml",
-      "published_date": "2026-08-27",
-      "still_developing": false,
-      "first_seen": "2026-08-28",
       "is_new": false
     },
     {

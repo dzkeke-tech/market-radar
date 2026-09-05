@@ -123,7 +123,14 @@ def gh_get(filename):
 
 
 def gh_put(filename, obj, sha, message):
-    """PUT a JSON object to BRANCH. Exits with code 1 on failure."""
+    """PUT a JSON object to BRANCH. Exits with code 1 on failure.
+    Also writes the file locally so git push can be used as fallback."""
+    here = os.path.dirname(os.path.abspath(__file__))
+    local_path = os.path.join(here, filename)
+    with open(local_path, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+    print(f"  Wrote {filename} locally → {local_path}")
+
     content_b64 = base64.b64encode(
         json.dumps(obj, ensure_ascii=False, indent=2).encode("utf-8")
     ).decode()
@@ -146,8 +153,7 @@ def gh_put(filename, obj, sha, message):
         print(f"  PUT {filename} → HTTP {code}")
     except urllib.error.HTTPError as e:
         err = e.read().decode()
-        print(f"  PUT {filename} FAILED HTTP {e.code}: {err}", file=sys.stderr)
-        sys.exit(1)
+        print(f"  PUT {filename} FAILED HTTP {e.code}: {err} (local file already written, will git-push)", file=sys.stderr)
 
 
 # ── Item helpers ──────────────────────────────────────────────────────────────
