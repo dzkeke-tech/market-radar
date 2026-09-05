@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-05 08:24 (北京时间)",
+  "updated_at": "2026-09-05 18:22 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,94 +9,124 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-05 08:24 (北京时间)",
-    "new_count": 3,
+    "at": "2026-09-05 18:22 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "0231263d2500f82b",
-      "tier": 1,
+      "id": "4cb9fc7b774f594a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "China's Moonshot Said to Seek Up to $5 Billion in Hong Kong IPO This Year",
+      "summary": "Moonshot AI (maker of Kimi K3) confidentially filed for HK IPO targeting $3–5B. Company valued at ~$50B; Kimi K3 has 2.8T parameters and generates ~$300M annualized revenue. Microsoft, Amazon, Google in cloud distribution talks.",
+      "why": "Kimi K3是中国最大开权重大模型，$500亿估值港股IPO将成今年港股科技板块最重要催化之一；消息已在9月4日推升恒生指数科技板块，港股AI/互联网持仓情绪进一步改善；后续上市条款细节将是重要催化剂。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "Moonshot AI",
+        "Kimi",
+        "Kimi K3",
+        "Hong Kong IPO",
+        "港股IPO",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-05",
+      "is_new": true
+    },
+    {
+      "id": "33364cdbd2d83480",
+      "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
-      "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
-      "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "jobs report",
-        "nonfarm payrolls",
-        "Treasury yield",
-        "Federal Reserve",
-        "US stocks",
-        "rate hike"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
-      "published_date": "2026-09-04",
-      "still_developing": false,
-      "first_seen": "2026-09-05",
-      "is_new": true
-    },
-    {
-      "id": "b1c40777b4210ebd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
-      "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
-      "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Federal Reserve",
-        "FOMC",
-        "interest rate hike",
-        "CPI",
-        "inflation",
-        "monetary policy"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
-      "published_date": "2026-09-04",
-      "still_developing": false,
-      "first_seen": "2026-09-05",
-      "is_new": true
-    },
-    {
-      "id": "59dcf3e249da2a0f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
       "time": "15:30",
       "group": "大盘头条",
-      "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
-      "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
-      "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
-      "source": "新浪财经",
+      "title": "Tesla's stock drops as Cybercab update 'underwhelms,' NHTSA probe",
+      "summary": "NHTSA opened investigation into ~1,000 Tesla Cybercabs over FMVSS safety certification. The vehicle lacks steering wheel/pedals; Zoox faced same audit in 2022 and spent 4 years in regulatory limbo. TSLA fell ~5.92% on Sep 4 to ~$374.64.",
+      "why": "特斯拉Cybercab商业化刚起步即遭NHTSA审查，参照Zoox案例有4年拖延风险；Robotaxi叙事短期明显受挫，TSLA股价承压；对持有TSLA Sell Put的投资者需关注行权价支撑位，隐含波动率可能上升。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "A股",
-        "科创50",
-        "厄尔尼诺",
-        "猪肉股",
-        "科技板块"
+        "Tesla",
+        "TSLA",
+        "Cybercab",
+        "NHTSA",
+        "Robotaxi",
+        "自动驾驶"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
+      "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-05",
+      "is_new": true
+    },
+    {
+      "id": "365f4eae5508fd47",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Hong Kong stocks rebound from choppy trading triggered by overnight turmoil in US",
+      "summary": "Hang Seng Index rebounded Sep 4, breaking a multi-session losing streak. Tech led gains: Tencent +2.1%, Alibaba +1.8%, Meituan +1.3%, Xiaomi +0.8%, JD.com +2.5%. Moonshot AI IPO filing and Fed Waller's less-restrictive signal boosted sentiment.",
+      "why": "港股技术性企稳，科技互联网板块集体走强；Moonshot AI港股IPO消息成为重要催化；Fed Waller偏鸽信号暂时对冲了就业数据加息预期；恒指关键支撑区域需持续跟踪，对港股Sell Put策略有直接影响。",
+      "source": "SCMP",
+      "verified": false,
+      "keywords": [
+        "Hang Seng",
+        "港股",
+        "恒生指数",
+        "腾讯",
+        "阿里巴巴",
+        "美团"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/china-business/article/3358123/hong-kong-stocks-rebound-contrast-overnight-sell-offs-us",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-05",
+      "is_new": true
+    },
+    {
+      "id": "2a6c3865e07de0a5",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Circle Announces Founding Validator Cohort & Arc Integrations Ahead of September 16 Mainnet Launch",
+      "summary": "Circle's Arc blockchain launches Sep 16 with 11 institutional founding validators including BlackRock, Visa, Mastercard, and DTCC. BlackRock's BUIDL tokenized money market fund will deploy on Arc. ARC token presale raised $222M at $3B FDV.",
+      "why": "Arc上线使USDC成为机构级区块链的原生gas资产，BlackRock+Visa+Mastercard+DTCC的验证节点阵容意味着Circle从稳定币发行商升级为金融基础设施运营商；9月3日CRCL已涨16.46%至$103，9月16日Arc主网上线是下一个期权波动率事件。",
+      "source": "Circle Official",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "Arc",
+        "stablecoin",
+        "稳定币",
+        "BlackRock"
+      ],
+      "translated": false,
+      "url": "https://www.circle.com/pressroom/circle-announces-founding-validator-cohort-and-major-integrations-for-arc-ahead-of-september-16-mainnet-launch",
       "published_date": "2026-09-04",
       "still_developing": false,
       "first_seen": "2026-09-05",
@@ -1311,6 +1341,65 @@
       "is_new": false
     },
     {
+      "id": "0231263d2500f82b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
+      "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
+      "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "jobs report",
+        "nonfarm payrolls",
+        "Treasury yield",
+        "Federal Reserve",
+        "US stocks",
+        "rate hike"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-05",
+      "is_new": false
+    },
+    {
+      "id": "b1c40777b4210ebd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
+      "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
+      "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Federal Reserve",
+        "FOMC",
+        "interest rate hike",
+        "CPI",
+        "inflation",
+        "monetary policy"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-05",
+      "is_new": false
+    },
+    {
       "id": "23581db44a0f16ba",
       "tier": 2,
       "lang": "en",
@@ -2410,6 +2499,34 @@
       "published_date": "2026-09-02",
       "still_developing": false,
       "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "59dcf3e249da2a0f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
+      "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
+      "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "科创50",
+        "厄尔尼诺",
+        "猪肉股",
+        "科技板块"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
+      "published_date": "2026-09-04",
+      "still_developing": false,
+      "first_seen": "2026-09-05",
       "is_new": false
     },
     {
