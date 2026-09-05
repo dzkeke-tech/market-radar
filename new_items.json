@@ -1,187 +1,169 @@
 [
   {
-    "id": "2681cdfc81705cda",
+    "id": "0231263d2500f82b",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US",
-      "HK",
-      "A"
+      "US"
     ],
-    "time": "09:03",
+    "time": "08:30",
     "group": "大盘头条",
-    "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
-    "summary": "美联储理事沃勒9月3日发出鸽派信号：若通胀数据无意外，支持9月FOMC维持利率不变。市场对9月加息押注骤降约12个百分点，2年期美债收益率下行3bp至4.34%。",
-    "why": "利率路径直接影响全球估值与期权隐含波动率；sell put 策略在加息预期降温时通常受益于IV回落，权利金压缩风险降低。",
-    "source": "CNBC",
+    "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
+    "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
+    "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
+    "source": "Bloomberg",
     "verified": true,
     "keywords": [
-      "Fed",
-      "Waller",
-      "rate hold",
-      "利率"
+      "jobs report",
+      "nonfarm payrolls",
+      "Treasury yield",
+      "Federal Reserve",
+      "US stocks",
+      "rate hike"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
-    "published_date": "2026-09-03",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
+    "published_date": "2026-09-04",
     "still_developing": false
   },
   {
-    "id": "9f0dca1aee35b949",
+    "id": "b1c40777b4210ebd",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US",
       "HK"
     ],
-    "time": "09:03",
+    "time": "14:00",
     "group": "大盘头条",
-    "title": "Stock Market Today: Dow, S&P Live Updates for September 4",
-    "summary": "9月3日美股大涨：标普500 +1.06%报7747.71点，纳指 +1.4%报26584.06点，道指升624点（+1.18%）报53686点。沃勒鸽派表态叠加英伟达大型并购消息双重提振，港股ADR跟涨，亚股料追升。",
-    "why": "美股全面反弹改善全球风险偏好，港股ADR做好，持仓组合整体受益；大盘大涨后隐含波动率通常有所压缩，卖put权利金需重新评估时机。",
+    "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
+    "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
+    "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
     "source": "Bloomberg",
     "verified": true,
     "keywords": [
-      "S&P 500",
-      "Nasdaq",
-      "Dow Jones",
-      "美股"
+      "Federal Reserve",
+      "FOMC",
+      "interest rate hike",
+      "CPI",
+      "inflation",
+      "monetary policy"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
-    "published_date": "2026-09-03",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
+    "published_date": "2026-09-04",
     "still_developing": false
   },
   {
-    "id": "079397fd03fc0808",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "09:03",
-    "group": "大盘头条",
-    "title": "Nvidia Agrees to $13 Billion Deal for AI Platform Hugging Face",
-    "summary": "英伟达正式确认以约130亿美元收购AI开源平台Hugging Face，并附约10亿美元员工留任奖励包。英伟达承诺维持平台开放性。受此消息提振，NVDA盘后涨约1.8%。",
-    "why": "年度最大AI并购交易，英伟达锁定AI模型开源生态主导权，进一步巩固其在AI产业链的定价权；并购消息往往推升相关期权隐含波动率。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "英伟达",
-      "Nvidia",
-      "NVDA",
-      "Hugging Face",
-      "AI芯片",
-      "并购"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
-    "published_date": "2026-09-03",
-    "still_developing": false
-  },
-  {
-    "id": "b222ff72c78a4fd8",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "09:02",
-    "group": "大盘头条",
-    "title": "Google Avoids Breakup as Judge Orders Ad Tech Unit Changes",
-    "summary": "美国联邦法官裁定谷歌无需出售广告交易平台AdX，改要求广告技术工具与竞争对手实现互操作性。Alphabet由此避免被强制拆分，广告业务（占营收主体）经营连续性获保障。",
-    "why": "裁定消除Alphabet最大监管尾部风险，广告收入基本盘无虞；对持有GOOGL者，可关注股价反弹后卖covered call机会。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "谷歌",
-      "Google",
-      "Alphabet",
-      "GOOGL",
-      "反垄断",
-      "AdX"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration",
-    "published_date": "2026-09-02",
-    "still_developing": false
-  },
-  {
-    "id": "2289c00f6b8b797f",
+    "id": "e845c4cb3befea90",
     "tier": 2,
     "lang": "zh",
     "markets": [
       "HK"
     ],
-    "time": "09:03",
-    "group": "个股",
-    "title": "腾讯控股9月3日回购22.9万股丨港股公告精选",
-    "summary": "腾讯控股（00700.HK）于9月3日按每股435.2至441港元回购22.9万股，单日耗资约1亿港元。",
-    "why": "腾讯持续每日约1亿港元回购，展示管理层对当前估值的强力背书，对组合稳定性构成支撑；回购持续进行利于covered call 策略底部安全垫。",
-    "source": "21世纪经济报道",
+    "time": "16:00",
+    "group": "大盘头条",
+    "title": "港股收评：恒生指数涨1.74%，恒生科技指数涨2.27%；科网股普涨",
+    "summary": "9月4日港股全线大涨，恒生指数收报25,650.87点，涨437.56点（+1.74%）；恒生科技指数涨2.27%；国企指数涨2.02%，全日成交2,768亿港元。科网股领涨：美团+5.28%、百度+4.81%、小米+3.64%、京东+3.27%、阿里+2.42%、腾讯+2.26%。",
+    "why": "港股单日大涨，持有腾讯、美团、小米、阿里等港股标的浮盈显著；科网板块隐含波动率在上涨后通常回落，有利于 sell put 策略降低权利金成本；港股在当日美国就业数据公布前已收盘，次日走势将受美国非农冲击影响。",
+    "source": "界面新闻",
     "verified": true,
     "keywords": [
+      "港股",
+      "恒生指数",
+      "恒生科技指数",
+      "科网股",
+      "美团",
+      "小米",
       "腾讯",
-      "Tencent",
-      "0700.HK",
-      "回购"
+      "阿里"
     ],
     "translated": false,
-    "url": "https://m.21jingji.com/article/20260903/herald/83d060b42b47b388f291391b25c51fc9.html",
-    "published_date": "2026-09-03",
+    "url": "https://www.jiemian.com/article/15056533.html",
+    "published_date": "2026-09-04",
     "still_developing": false
   },
   {
-    "id": "6bd954d31be82efd",
+    "id": "59dcf3e249da2a0f",
     "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "15:30",
+    "group": "大盘头条",
+    "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
+    "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
+    "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "A股",
+      "科创50",
+      "厄尔尼诺",
+      "猪肉股",
+      "科技板块"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
+    "published_date": "2026-09-04",
+    "still_developing": false
+  },
+  {
+    "id": "c028e3a63fb71531",
+    "tier": 1,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "09:03",
-    "group": "个股",
-    "title": "Tesla Cybercab launches in Austin: commercial robotaxi service begins",
-    "summary": "特斯拉9月3日在奥斯汀举办Cybercab邀请制发布活动，这款无方向盘/无踏板双座Robotaxi正式商业运营，通过特斯拉Robotaxi APP可叫车，定价约为Uber一半。TSLA当日盘中涨逾7%。",
-    "why": "Cybercab商业化落地是特斯拉从汽车制造商向AI机器人公司转型的关键里程碑；股价大涨后隐含波动率上升，sell put 卖方需审慎评估行权价与期限。",
-    "source": "CNBC",
-    "verified": false,
+    "time": "10:00",
+    "group": "大盘头条",
+    "title": "21 Major Banks Including Goldman, BofA, Citi, UBS Launch Joint USD Stablecoin Venture",
+    "summary": "A consortium of 21 financial institutions—including Goldman Sachs, Bank of America, Citi, Wells Fargo, Deutsche Bank, and UBS—announced a joint venture to issue a USD-denominated stablecoin targeting H1 2027 launch, initially for wholesale and cross-border payments. The venture will also explore G7-currency stablecoins. It complies with the GENIUS Act framework.",
+    "why": "全球最大金融机构联合推出银行背书稳定币，是Circle(CRCL)/USDC最直接的竞争威胁，同时也验证稳定币成为主流金融基础设施的趋势；持有CRCL的期权策略需重新评估竞争格局对其长期市占率与估值的影响；延续报道：事件持续发酵中。",
+    "source": "CoinDesk",
+    "verified": true,
     "keywords": [
-      "特斯拉",
+      "stablecoin",
+      "Goldman Sachs",
+      "Bank of America",
+      "Citi",
+      "USDC",
+      "GENIUS Act",
+      "Circle",
+      "CRCL"
+    ],
+    "translated": false,
+    "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+    "published_date": "2026-09-01",
+    "still_developing": true
+  },
+  {
+    "id": "21ca5f6957fcef92",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "20:00",
+    "group": "个股",
+    "title": "Tesla Launches First Commercial Cybercab Robotaxi Service in Austin, TX",
+    "summary": "Tesla officially launched its Cybercab autonomous taxi service in Austin, Texas on September 3 with 45 state-authorized vehicles. The two-seat, pedal-free vehicle runs entirely on Tesla's FSD software. Nevada separately approved commercial robotaxi permits for Tesla, Waymo, and Uber, authorizing up to 8,000 driverless vehicles in Clark County.",
+    "why": "Cybercab商业运营正式落地是 TSLA 估值故事的核心里程碑；初期规模仅45辆，市场短期或维持观望，但自动驾驶监管准入（内华达、德克萨斯双州许可）为全国推广打开通道；持有 TSLA 期权需关注隐含波动率在里程碑兑现后的走向。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
       "Tesla",
-      "TSLA",
-      "Robotaxi",
+      "Cybercab",
+      "robotaxi",
       "FSD",
-      "自动驾驶"
+      "autonomous driving",
+      "TSLA",
+      "Austin"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
+    "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
     "published_date": "2026-09-03",
-    "still_developing": false
-  },
-  {
-    "id": "6487a7b17f44d303",
-    "tier": 2,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "09:02",
-    "group": "个股",
-    "title": "Snowflake (SNOW) Q2 earnings report 2027",
-    "summary": "Snowflake发布Q2 FY2027财报（截至2026年7月31日），产品收入15.5亿美元超预期14.8亿美元，同比增35%；调整后EPS 0.62美元大超预期0.45美元；Q3指引强劲，股价盘后大涨逾20%。",
-    "why": "Snowflake大幅超预期印证企业AI数据云需求持续强劲，是科技/AI板块情绪转暖的重要信号；AI基础设施需求加速支撑英伟达、美光等持仓逻辑。",
-    "source": "CNBC",
-    "verified": false,
-    "keywords": [
-      "Snowflake",
-      "SNOW",
-      "AI",
-      "数据中心",
-      "科技"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
-    "published_date": "2026-09-02",
     "still_developing": false
   }
 ]
