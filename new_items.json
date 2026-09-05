@@ -1,58 +1,33 @@
 [
   {
-    "id": "fe8aeae0000f6ae1",
     "tier": 1,
-    "lang": "zh",
+    "lang": "en",
     "markets": [
-      "US"
-    ],
-    "time": "08:00",
-    "group": "大盘头条",
-    "title": "美国8月ADP就业新增3.8万，创年内最低，降息预期升温",
-    "summary": "美国8月私营部门就业新增3.8万人，大幅低于市场预期4.7万人及7月修正值4.6万人，创今年1月以来最小单月增幅。数据公布后现货黄金短线拉升，市场对美联储9月16日议息会议加息预期有所降温。",
-    "why": "ADP小非农爆冷表明劳动市场降温，若非农数据同样偏弱，美联储维持利率不变概率大增；利率路径直接影响 sell put 端的 delta 曝险与隐含波动率。",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "美联储",
-      "ADP",
-      "就业",
-      "降息",
-      "宏观"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/money/bond/2026-09-02/doc-iniqnawn4504270.shtml",
-    "published_date": "2026-09-02",
-    "still_developing": false
-  },
-  {
-    "id": "608e8808e9e26944",
-    "tier": 1,
-    "lang": "zh",
-    "markets": [
+      "US",
+      "HK",
       "A"
     ],
-    "time": "15:30",
+    "time": "18:00",
     "group": "大盘头条",
-    "title": "A股三大指数大幅回落：上证跌0.97%，创业板跌2.39%；军工装备板块逆势领涨",
-    "summary": "A股三大指数低开走弱，上证指数收跌0.97%至3941.39点，深证成指跌1.88%，创业板指跌2.39%。军工装备、橡胶制品等板块逆势领涨，北方长龙涨逾13%，内蒙一机2连板；粮食概念、煤炭集体下跌，中资券商与锂电池概念同步走弱，港股赣锋锂业跌超10%。",
-    "why": "创业板成分股中含多只科技/消费标的，大跌可能触发期权卖方保证金压力；军工板块逆势提示资金轮动方向，宏观风险偏好显著走低，需评估 A 股持仓暴露。",
-    "source": "新浪财经",
+    "title": "Nvidia to Buy Hugging Face for $12.9 Billion in Open-Source AI Push",
+    "summary": "NVIDIA entered into a definitive agreement on September 2 to acquire Hugging Face for $12.93 billion — $11.9B to shareholders plus $1B equity retention for employees. Hugging Face hosts 3M open-source models and 18M developers. The deal is expected to close in H1 2027, pending regulatory approval.",
+    "why": "英伟达此笔130亿美元的AI平台收购是2026年最大科技并购之一，意味着英伟达从芯片硬件向软件/平台生态全面延伸，对整个AI供应链（包括港股/A股AI相关标的）估值逻辑产生重大重塑。对持有英伟达期权的投资者，短期隐含波动率值得关注。",
+    "source": "Bloomberg / CNBC / TechCrunch",
     "verified": true,
     "keywords": [
-      "A股",
-      "上证指数",
-      "创业板",
-      "军工",
-      "宏观"
+      "英伟达",
+      "Nvidia",
+      "NVDA",
+      "AI芯片",
+      "Hugging Face"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-02/doc-iniqmmyy7715363.shtml",
-    "published_date": "2026-09-02",
-    "still_developing": false
+    "url": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
+    "published_date": "2026-09-03",
+    "still_developing": false,
+    "id": "079397fd03fc0808"
   },
   {
-    "id": "2e4892be8bebc0b8",
     "tier": 1,
     "lang": "zh",
     "markets": [
@@ -60,145 +35,91 @@
       "HK",
       "A"
     ],
-    "time": "09:00",
+    "time": "20:30",
     "group": "大盘头条",
-    "title": "美联储大消息推动全球股市反转，黄金突破4400美元；港股恒科跌0.74%",
-    "summary": "ADP数据走弱后，美联储9月16日维持利率不变预期升温，美股三大指数收涨（标普+0.46%、纳指+0.45%）。黄金现货再次触及4400美元/盎司上方。港股恒生指数收跌0.07%，恒生科技指数跌0.74%，中资券商股领跌；A股同步走弱。",
-    "why": "美联储政策预期转向对 sell put 策略最有直接意义：若9月确认按兵不动，指数支撑位相对稳固，put 时间价值磨损有利于卖方；黄金突破4400关注老铺黄金持仓逻辑。",
-    "source": "新浪财经",
+    "title": "美国8月非农就业新增16.2万大幅超预期，美联储9月加息概率突破60%",
+    "summary": "美国劳工统计局9月4日公布，8月非农就业新增16.2万人，约为市场预期5.5万的三倍，远好于7月的-2.3万，失业率维持4.1%，平均时薪环比+0.3%/同比+3.1%。强劲数据令联邦基金期货显示美联储9月加息概率升破60%。",
+    "why": "非农大幅超预期彻底逆转了市场对9月按兵不动的押注，美债收益率将重新上行，短期内对全球高估值成长股（港股科技、A股成长板块）形成压制。此前手头卖出Put的投资者需密切关注9月15-16日FOMC落地前的波动率定价变化。",
+    "source": "BLS（美国劳工统计局）",
     "verified": true,
     "keywords": [
       "美联储",
-      "黄金",
-      "港股",
-      "宏观",
-      "macro"
+      "非农就业",
+      "Fed",
+      "加息"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/wm/2026-09-03/doc-iniqpksa2184613.shtml",
-    "published_date": "2026-09-03",
-    "still_developing": false
+    "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
+    "published_date": "2026-09-04",
+    "still_developing": false,
+    "id": "72e2b490476f09c4"
   },
   {
-    "id": "c1d9546940131fae",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US"
+      "US",
+      "HK",
+      "A"
     ],
-    "time": "17:00",
+    "time": "16:30",
     "group": "大盘头条",
-    "title": "Dell surges 15%+ after record AI server orders; Q2 revenue $46.97B, +58% YoY",
-    "summary": "Dell Technologies Q2 FY2027: revenue $46.97B (+58% YoY), beating $44.5B estimate. AI-optimized server revenue hit a record $16.4B; total AI order backlog reached $95B. Adjusted EPS $7.04 vs. $4.92 expected. Full-year AI server forecast raised to $74B (>200% YoY growth). Stock surged ~15.8% after hours.",
-    "why": "Dell AI服务器订单创纪录是AI基础设施需求的晴雨表，直接支撑英伟达GPU需求预期；也反映企业IT资本支出加速，对持仓中 NVDA、GOOGL 等有正向估值效应。",
-    "source": "CNBC",
-    "verified": true,
+    "title": "US Equities Snap 3-Day Losing Streak on Sept. 3; Fed's Waller Flags Data-Dependent Stance on Sept. Rate Decision",
+    "summary": "The S&P 500 and Nasdaq both rallied on September 3 as the 10-year Treasury yield retreated from its multi-year high of 4.818%, and Fed Governor Waller stated the September 15-16 FOMC rate decision would hinge entirely on the August CPI print due September 11. Markets subsequently priced a ~55% chance of a September hike — a figure revised sharply upward after the September 4 blowout NFP print.",
+    "why": "Waller讲话界定了本轮最核心的宏观交易窗口：9月11日CPI与9月16日FOMC。若CPI再度超预期，加息概率将进一步拉升，全球权益市场（尤其港股科技、A股成长）面临估值压缩风险；Sell Put仓位需对行权价区间做好保护。",
+    "source": "Bloomberg / CNBC",
+    "verified": false,
     "keywords": [
-      "AI服务器",
-      "Dell",
-      "earnings",
-      "数据中心",
-      "英伟达"
+      "美联储",
+      "Fed",
+      "宏观",
+      "美债收益率"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
-    "published_date": "2026-09-01",
-    "still_developing": false
+    "url": "https://www.bloomberg.com/news/articles/2026-09-03/fed-s-waller-says-september-rate-decision-hinges-on-august-cpi",
+    "published_date": "2026-09-03",
+    "still_developing": false,
+    "id": "7a674c93ed4610a4"
   },
   {
-    "id": "de9030a5cf577eb6",
     "tier": 2,
     "lang": "en",
     "markets": [
-      "US"
+      "US",
+      "HK"
     ],
-    "time": "09:30",
+    "time": "17:00",
     "group": "大盘头条",
-    "title": "U.S. 10-year Treasury yield hits 4.818%, highest since Nov 2023; Japan 10Y crosses 3% for first time since 1996",
-    "summary": "The U.S. benchmark 10-year Treasury yield touched 4.818%, its highest level since November 2023. Japan's 10-year JGB crossed 3% for the first time since 1996, and the U.K. gilt reached 5.2501%, highest since June 2008. Rising global yields reflect persistent inflation and hawkish monetary policy signals ahead of the September 16 FOMC. WTI crude also rose ~1% to $91/barrel amid renewed U.S.-Iran tensions.",
-    "why": "美债收益率创近3年新高推高全球折现率，压制成长股估值；若收益率维持高位，持仓中高估值科技股（NVDA、GOOGL等）行权价设置应更保守。油价上涨加剧通胀预期，延长高利率时间窗口。",
-    "source": "Federal Reserve H.15",
-    "verified": false,
-    "keywords": [
-      "美债收益率",
-      "利率",
-      "macro",
-      "宏观",
-      "油价"
-    ],
-    "translated": false,
-    "url": "https://www.federalreserve.gov/releases/h15/",
-    "published_date": "2026-09-03",
-    "still_developing": false
-  },
-  {
-    "id": "c8adb5cf1e6a00bb",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "10:00",
-    "group": "个股",
-    "title": "Nvidia nears ~$14B deal to acquire Hugging Face this week — Bloomberg",
-    "summary": "Bloomberg reports Nvidia is close to finalizing an acquisition of open-source AI platform Hugging Face at roughly $14 billion, up from the $12.9B reported on Aug 27. No final agreement signed yet. The deal would include a ~$1B employee retention package and bring the world's most widely used AI model-sharing platform under Nvidia ownership. Nvidia previously held a stake from a 2023 funding round valuing Hugging Face at $4.5B.",
-    "why": "若收购落定，英伟达将从芯片硬件延伸至AI模型生态，加固竞争壁垒；中长期利好 NVDA 估值逻辑；并购溢价若触发市场对 AI 并购潮预期，也可能提振腾讯、阿里等自有模型投入的认可度。",
-    "source": "Bloomberg",
+    "title": "Broadcom Q3 FY2026: AI Chip Revenue Triples to $16.7B (+221% YoY); Q4 Guidance Slightly Misses; FY2026 AI Revenue Outlook $58B",
+    "summary": "Broadcom reported Q3 FY2026 results after the close on September 2: revenue $29.6B (+86% YoY), AI semiconductor revenue $16.7B (+221% YoY, +54% QoQ), adjusted EPS $3.32 (beat). Q4 revenue guidance of $34.8B came in slightly below consensus of $35.03B. The company raised its full-year AI revenue outlook to $58B, with FY2027 at ~$115B.",
+    "why": "博通业绩是全球AI基础设施投资景气度的重要探针。AI芯片营收三倍式增长印证超大规模云厂商Capex仍极强劲，对港股/A股AI产业链（半导体设备、封装测试）是正面佐证。Q4指引小幅不及预期提示高预期风险，对Covered Call策略适时锁定收益提供了参考。延续报道：市场仍在消化Q4指引影响。",
+    "source": "CNBC / Broadcom IR",
     "verified": true,
     "keywords": [
-      "英伟达",
-      "Nvidia",
-      "NVDA",
-      "Hugging Face",
-      "并购",
-      "AI芯片"
+      "AI芯片",
+      "GPU",
+      "数据中心",
+      "Broadcom",
+      "AVGO"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-nears-14-billion-hugging-face-deal-this-week",
+    "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
     "published_date": "2026-09-02",
-    "still_developing": true
+    "still_developing": true,
+    "id": "c658e660afaa34c1"
   },
   {
-    "id": "68668280ed76b338",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "11:00",
+    "time": "15:45",
     "group": "个股",
-    "title": "Google launches Gemini 3.8 Flash and cybersecurity model; judge rejects DOJ bid to break up ad exchange",
-    "summary": "Alphabet launched Gemini 3.8 Flash (coding/agentic focus) and a new cybersecurity model for enterprise/government clients. A federal judge also rejected the DOJ's push to force Google to sell its ad exchange, delivering a key antitrust win. Gemini app has 950M+ monthly users; Google Cloud customers spending ~50% above their original commitments.",
-    "why": "谷歌AI产品密集发布叠加反垄断胜诉，排除资产剥离风险；GOOGL 估值去除了法律不确定性折价；若持有 GOOGL 的 sell put，当前法律风险显著降低，行权价可适当调整。",
-    "source": "CNBC",
-    "verified": true,
-    "keywords": [
-      "谷歌",
-      "Google",
-      "Alphabet",
-      "GOOGL",
-      "Gemini",
-      "DeepMind",
-      "反垄断"
-    ],
-    "translated": false,
-    "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-    "published_date": "2026-09-02",
-    "still_developing": false
-  },
-  {
-    "id": "b8a7be043e54f6c0",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "16:45",
-    "group": "个股",
-    "title": "Tesla Cybercab launches today in Austin: two-seat autonomous robotaxi (no wheel, no pedals) enters commercial service",
-    "summary": "Tesla's official Cybercab launch event takes place today (Sept 3) at 4:45 PM CT in Austin, TX. The purpose-built two-seat robotaxi uses no steering wheel or pedals and runs on Tesla's AI4 computer and FSD stack. Texas regulators authorized 45 Cybercabs for commercial use as of Aug 31; Austin riders may hail via the existing Robotaxi app as early as next week. Musk has previously indicated a sub-$30k consumer price target.",
-    "why": "延续报道：Cybercab商业发布活动今日举行，FSD商业化里程碑落地将验证特斯拉自动驾驶营收模式；若发布活动顺利，短期正向催化 TSLA 股价；若出现技术或监管障碍，下行风险需评估 sell put 行权价。",
-    "source": "All Things Elon / multiple sources cross-confirmed",
+    "title": "Tesla Stock Falls ~6% After Cybercab Launch Event Disappoints; NHTSA Opens Safety Probe",
+    "summary": "Tesla held a private Cybercab launch event on September 4 that left key autonomy questions unanswered — Musk did not attend, no livestream, only a small group of shareholders and creators under NDA. The NHTSA simultaneously announced an audit into how Tesla self-certified the Cybercab (which lacks steering wheel, pedals, and mirrors) as regulatory-compliant. TSLA fell ~6% on above-average volume.",
+    "why": "特斯拉Cybercab发布会令市场失望，加上NHTSA安全调查，短期催化剂变负面。对持有TSLA Sell Put仓位的投资者，-6%单日跌幅接近或穿越部分行权价，建议评估滚动或止损；Covered Call可趁反弹早收期权。",
+    "source": "CNBC / Motley Fool",
     "verified": false,
     "keywords": [
       "特斯拉",
@@ -207,36 +128,126 @@
       "Robotaxi",
       "FSD",
       "自动驾驶",
-      "Cybercab"
+      "马斯克",
+      "Musk"
     ],
     "translated": false,
-    "url": "https://www.allthings-elon.com/articles/tesla-cybercab-launch-event-austin-sept-3-2026-08-31",
-    "published_date": "2026-08-31",
-    "still_developing": true
+    "url": "https://www.cnbc.com/2026/09/04/tesla-shares-are-falling-after-cybercab-event-what-analysts-are-saying.html",
+    "published_date": "2026-09-04",
+    "still_developing": false,
+    "id": "0cb440044f5c6713"
   },
   {
-    "id": "99767a44ba11fa3b",
-    "tier": 3,
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "Micron Targets 2× HBM Monthly Capacity to 100K Wafers by End-2026; 12-Layer HBM4 to Hit 50% of Output",
+    "summary": "Micron Technology disclosed plans to double its monthly HBM production capacity to approximately 100,000 wafers by year-end 2026, up from current levels. The company is also scaling 12-layer HBM4 products for Nvidia's next-generation AI accelerators, targeting HBM4 at up to 50% of total HBM output by year-end, to close the gap with SK Hynix (58% HBM market share) and overtake Samsung.",
+    "why": "美光大幅扩产HBM确认AI内存需求持续强劲，对SK海力士（最大HBM供应商）和美光本身的增长预期均形成正面验证。相关港股标的的AI芯片相关估值逻辑获支撑；若HBM供给最终超需，注意未来18-24个月价格走势对利润率的影响。",
+    "source": "Digitimes / Gurufocus",
+    "verified": false,
+    "keywords": [
+      "美光",
+      "Micron",
+      "MU",
+      "HBM",
+      "HBM4",
+      "DRAM",
+      "存储芯片",
+      "内存"
+    ],
+    "translated": false,
+    "url": "https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html",
+    "published_date": "2026-09-04",
+    "still_developing": false,
+    "id": "8526716baeb1ca88"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "15:00",
+    "group": "个股",
+    "title": "Army Awards $192M to Palantir and Anduril to Produce Eight TITAN AI Battlefield Systems",
+    "summary": "The US Army Contracting Command awarded Palantir USG and Anduril Industries a combined $192 million production contract to deliver eight Tactical Intelligence Targeting Access Node (TITAN) systems — four Advanced and four Basic variants — over the next 18 months. TITAN integrates space, aerial, and terrestrial sensor data into actionable AI-powered targeting intelligence.",
+    "why": "Palantir获得美国陆军TITAN批产合同，是Gotham平台军事化落地的重要里程碑，标志公司从原型阶段进入规模交付阶段。对预期Palantir赢单的多头持仓有短期正面催化；期权方面，PLTR Q2业绩后已急升，此次合同能否再触新高、进一步提升Sell Put的IV溢价值得关注。",
+    "source": "The Defense Post / Breaking Defense / Axios",
+    "verified": false,
+    "keywords": [
+      "Palantir",
+      "PLTR",
+      "AIP",
+      "Gotham",
+      "国防AI",
+      "政府合同"
+    ],
+    "translated": false,
+    "url": "https://thedefensepost.com/2026/09/03/palantir-targeting-stations-us-army/",
+    "published_date": "2026-09-03",
+    "still_developing": false,
+    "id": "304023ba237b0525"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "08:00",
+    "group": "个股",
+    "title": "Circle Confirms Arc Mainnet Launch Sept. 16 with BlackRock, Visa, Mastercard, DTCC as Founding Validators",
+    "summary": "Circle announced the founding validator cohort for its purpose-built Layer-1 blockchain Arc, set to launch publicly on September 16, 2026 — one day before the U.S. Senate's CLARITY Act cloture vote. Founding institutional validators include BlackRock, DTCC, Visa, Mastercard, ICE, Standard Chartered, MoneyGram, and SBI Group. USDC circulation stands at $73.3B with 70% of stablecoin transaction volume.",
+    "why": "Circle Arc主网启动是2026年加密/金融科技最重要里程碑事件之一。传统金融机构作为验证节点加入，标志稳定币基础设施向银行级合规迈出关键一步。叠加GENIUS Act监管推进，CRCL股价年内波动性持续偏高，Sell Put可关注主网发布前后期权IV溢价机会。",
+    "source": "Circle IR（官方新闻稿）/ CoinDesk",
+    "verified": true,
+    "keywords": [
+      "Circle",
+      "CRCL",
+      "USDC",
+      "稳定币",
+      "stablecoin",
+      "GENIUS Act",
+      "稳定币法案"
+    ],
+    "translated": false,
+    "url": "https://www.circle.com/pressroom/circle-announces-founding-validator-cohort-and-major-integrations-for-arc-ahead-of-september-16-mainnet-launch",
+    "published_date": "2026-09-04",
+    "still_developing": false,
+    "id": "2a6c3865e07de0a5"
+  },
+  {
+    "tier": 2,
     "lang": "zh",
     "markets": [
       "HK"
     ],
-    "time": "19:00",
+    "time": "12:00",
     "group": "个股",
-    "title": "腾讯控股9月1日回购22.6万股、耗资约1亿港元；9月2日再回购22.9万股",
-    "summary": "腾讯控股（00700.HK）于2026年9月1日通过联交所回购22.6万股股份，耗资约1亿港元；9月2日再回购约22.9万股，合计耗资约2亿港元。公司持续执行日均约1亿港元的回购计划，为股价提供托底支撑。",
-    "why": "延续报道：腾讯持续每日回购约1亿港元，是港股市场重要的内生支撑力量；有利于 sell put 下行风险管控，关注单日金额是否出现显著变化作为预警信号。",
-    "source": "新浪财经（引用港交所披露易）",
+    "title": "小米汽车IFA 2026宣布2027年进入欧洲市场，与八家德国经销商签MOU；集团同日回购180万股",
+    "summary": "小米汽车在IFA 2026柏林媒体日（9月3日）宣布将于2027年正式进入德国等欧洲市场，并与Ernst Dello、Emil Frey等八大德国汽车经销商集团签署合作备忘录，展示新一代SU7及SU7 Ultra等车型。同日，小米集团以27.4-27.48港元区间回购180万股，耗资约4938万港元。",
+    "why": "小米汽车欧洲市场计划落地是继中国市场累计交付逾70万辆后的重大出海里程碑，有助于重估小米整体估值。回购信号管理层对当前股价的信心。对持有1810.HK仓位的投资者，欧洲拓展带来中长期增长预期支撑；期权方面可关注Sell Put隐含波动率定价变化。",
+    "source": "South China Morning Post（SCMP）/ TechNode",
     "verified": true,
     "keywords": [
-      "腾讯",
-      "Tencent",
-      "0700.HK",
-      "回购"
+      "小米",
+      "Xiaomi",
+      "1810.HK",
+      "小米汽车",
+      "SU7",
+      "YU7",
+      "雷军",
+      "AIoT"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqihzt8150112.shtml",
-    "published_date": "2026-09-01",
-    "still_developing": true
+    "url": "https://www.scmp.com/economy/china-economy/article/3366322/another-chinese-ev-maker-joins-grid-europe-xiaomi-launch-sales-next-year",
+    "published_date": "2026-09-03",
+    "still_developing": false,
+    "id": "10425b18574bb40a"
   }
 ]
