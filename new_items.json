@@ -1,6 +1,6 @@
 [
   {
-    "id": "0231263d2500f82b",
+    "id": "4c6c287ca5eae094",
     "tier": 1,
     "lang": "en",
     "markets": [
@@ -8,162 +8,229 @@
     ],
     "time": "08:30",
     "group": "大盘头条",
-    "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
-    "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
-    "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
-    "source": "Bloomberg",
+    "title": "U.S. Payrolls Rose 162,000 in August, Much More Than Expected; Unemployment at 4.1%",
+    "summary": "美国8月非农就业新增16.2万，远超预期5.3万，前两月上修；失业率维持4.1%。强劲数据推高美联储9月15-16日FOMC加息25bp预期，货币市场隐含概率升至约60%，10年期美债收益率升至4.789%，美股三大指数回调。",
+    "why": "宏观关键驱动因子：加息预期升温推高折现率，美股全线承压；sell put卖方须警惕隐含波动率上行与正股双重压制；覆盖持仓（消费/科技）估值均受影响，9月FOMC前须控好delta敞口。",
+    "source": "CNBC",
     "verified": true,
     "keywords": [
-      "jobs report",
+      "美联储",
+      "加息",
+      "非农就业",
       "nonfarm payrolls",
-      "Treasury yield",
-      "Federal Reserve",
-      "US stocks",
-      "rate hike"
+      "FOMC",
+      "利率",
+      "宏观"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
+    "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
     "published_date": "2026-09-04",
     "still_developing": false
   },
   {
-    "id": "b1c40777b4210ebd",
+    "id": "079397fd03fc0808",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US",
-      "HK"
+      "US"
     ],
-    "time": "14:00",
+    "time": "09:00",
     "group": "大盘头条",
-    "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
-    "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
-    "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
+    "title": "Nvidia Agrees to $13 Billion Deal for AI Platform Hugging Face",
+    "summary": "英伟达宣布以约130亿美元收购开源AI平台Hugging Face，其中119亿付股东、10亿留用员工；为英伟达史上第二大并购。Hugging Face拥有超1800万开发者、300万+模型、20万家企业用户，平台将保持开放生态。交易预计明年上半年完成。",
+    "why": "英伟达将GPU硬件霸权向软件生态延伸，形成AI算力+模型分发一体化闭环，对腾讯混元/阿里云通义等AI平台形成竞争升级；大型并购落地后短期NVDA sell put机会需评估；对整个AI赛道估值有重构影响。",
     "source": "Bloomberg",
     "verified": true,
     "keywords": [
-      "Federal Reserve",
-      "FOMC",
-      "interest rate hike",
-      "CPI",
-      "inflation",
-      "monetary policy"
+      "英伟达",
+      "Nvidia",
+      "NVDA",
+      "Hugging Face",
+      "AI芯片",
+      "并购",
+      "AI平台",
+      "GPU",
+      "数据中心"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
-    "published_date": "2026-09-04",
-    "still_developing": false
+    "url": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
+    "published_date": "2026-09-03",
+    "still_developing": true
   },
   {
-    "id": "e845c4cb3befea90",
+    "id": "33364cdbd2d83480",
     "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "16:00",
-    "group": "大盘头条",
-    "title": "港股收评：恒生指数涨1.74%，恒生科技指数涨2.27%；科网股普涨",
-    "summary": "9月4日港股全线大涨，恒生指数收报25,650.87点，涨437.56点（+1.74%）；恒生科技指数涨2.27%；国企指数涨2.02%，全日成交2,768亿港元。科网股领涨：美团+5.28%、百度+4.81%、小米+3.64%、京东+3.27%、阿里+2.42%、腾讯+2.26%。",
-    "why": "港股单日大涨，持有腾讯、美团、小米、阿里等港股标的浮盈显著；科网板块隐含波动率在上涨后通常回落，有利于 sell put 策略降低权利金成本；港股在当日美国就业数据公布前已收盘，次日走势将受美国非农冲击影响。",
-    "source": "界面新闻",
-    "verified": true,
-    "keywords": [
-      "港股",
-      "恒生指数",
-      "恒生科技指数",
-      "科网股",
-      "美团",
-      "小米",
-      "腾讯",
-      "阿里"
-    ],
-    "translated": false,
-    "url": "https://www.jiemian.com/article/15056533.html",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "59dcf3e249da2a0f",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "A"
-    ],
-    "time": "15:30",
-    "group": "大盘头条",
-    "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
-    "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
-    "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "A股",
-      "科创50",
-      "厄尔尼诺",
-      "猪肉股",
-      "科技板块"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "c028e3a63fb71531",
-    "tier": 1,
     "lang": "en",
     "markets": [
       "US"
     ],
     "time": "10:00",
     "group": "大盘头条",
-    "title": "21 Major Banks Including Goldman, BofA, Citi, UBS Launch Joint USD Stablecoin Venture",
-    "summary": "A consortium of 21 financial institutions—including Goldman Sachs, Bank of America, Citi, Wells Fargo, Deutsche Bank, and UBS—announced a joint venture to issue a USD-denominated stablecoin targeting H1 2027 launch, initially for wholesale and cross-border payments. The venture will also explore G7-currency stablecoins. It complies with the GENIUS Act framework.",
-    "why": "全球最大金融机构联合推出银行背书稳定币，是Circle(CRCL)/USDC最直接的竞争威胁，同时也验证稳定币成为主流金融基础设施的趋势；持有CRCL的期权策略需重新评估竞争格局对其长期市占率与估值的影响；延续报道：事件持续发酵中。",
-    "source": "CoinDesk",
+    "title": "Tesla Launches Cybercab in Austin; NHTSA Opens Investigation Into Self-Certification Hours Later",
+    "summary": "马斯克在德克萨斯奥斯汀正式启动无方向盘Cybercab商业服务，同日NHTSA立即开展安全合规审计，审查特斯拉是否正确自证该车型符合FMVSS；这是美国史上首例无传统控制设备量产乘用车商业运营。TSLA股价当日下跌。",
+    "why": "自动驾驶监管里程碑：联邦监管机构与商业化同步介入，对整个AV赛道形成监管预期压制；TSLA股价短期承压，持有TSLA sell put需评估下行风险；监管不确定性提振期权隐含波动率，或有covered call机会。",
+    "source": "CNBC",
     "verified": true,
     "keywords": [
-      "stablecoin",
-      "Goldman Sachs",
-      "Bank of America",
-      "Citi",
-      "USDC",
-      "GENIUS Act",
-      "Circle",
-      "CRCL"
+      "特斯拉",
+      "Tesla",
+      "TSLA",
+      "Cybercab",
+      "Robotaxi",
+      "NHTSA",
+      "自动驾驶",
+      "FSD",
+      "马斯克",
+      "Musk"
     ],
     "translated": false,
-    "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
-    "published_date": "2026-09-01",
+    "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+    "published_date": "2026-09-04",
     "still_developing": true
   },
   {
-    "id": "21ca5f6957fcef92",
-    "tier": 1,
+    "id": "c375807cc795a864",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "07:00",
+    "group": "大盘头条",
+    "title": "Energy Prices Surge as Iran Conflict Threatens Oil, Gas Supplies for Winter",
+    "summary": "伊朗冲突再度升级，欧洲天然气期货涨至三年高位，布伦特原油逼近100美元/桶（年内峰值118美元，6月底一度回落至71美元）。能源通胀重燃加剧各央行政策两难，欧洲政界就冬季储备拉响警报。",
+    "why": "油价破百将推升全球通胀预期，对美联储9月加息构成叠加压力；消费板块（海底捞/美团/携程）运营成本面临上行；携程/旅游类标的若高油价持续将受票价传导冲击；数据中心电力成本也对半导体类资产形成二阶影响。延续报道：伊朗冲突自2026年2月持续发酵。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "伊朗",
+      "油价",
+      "能源",
+      "原油",
+      "宏观",
+      "通胀",
+      "地缘",
+      "macro"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-09-02/energy-prices-surge-as-politicians-sound-alarm-ahead-of-winter",
+    "published_date": "2026-09-02",
+    "still_developing": true
+  },
+  {
+    "id": "d4ace468c19183b1",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "10:30",
+    "group": "大盘头条",
+    "title": "Gold Slides More Than 2% After Robust U.S. Payrolls Boosts Rate Hike Bets",
+    "summary": "国际金价在强劲就业数据公布后大跌逾2%至4429美元/盎司；白银下挫逾3%，铂金跌2%；美元走强与实际利率上行双重压制贵金属。中国境内现货金参考约957元/克（9月1日）。",
+    "why": "直接压制老铺黄金（6181.HK）：金价下行压缩其高溢价产品定价空间，消费者黄金首饰购买意愿受抑；若美联储9月如期加息，金价承压或延续至四季度；可评估短期底部支撑后的sell put机会。",
+    "source": "CNBC",
+    "verified": false,
+    "keywords": [
+      "金价",
+      "黄金",
+      "老铺黄金",
+      "6181.HK",
+      "美联储",
+      "加息",
+      "贵金属",
+      "Laopu Gold"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/09/04/gold-holds-ground-with-us-payrolls-data-on-radar.html",
+    "published_date": "2026-09-04",
+    "still_developing": false
+  },
+  {
+    "id": "69cc2c4fa55085e2",
+    "tier": 2,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "20:00",
+    "time": "09:30",
     "group": "个股",
-    "title": "Tesla Launches First Commercial Cybercab Robotaxi Service in Austin, TX",
-    "summary": "Tesla officially launched its Cybercab autonomous taxi service in Austin, Texas on September 3 with 45 state-authorized vehicles. The two-seat, pedal-free vehicle runs entirely on Tesla's FSD software. Nevada separately approved commercial robotaxi permits for Tesla, Waymo, and Uber, authorizing up to 8,000 driverless vehicles in Clark County.",
-    "why": "Cybercab商业运营正式落地是 TSLA 估值故事的核心里程碑；初期规模仅45辆，市场短期或维持观望，但自动驾驶监管准入（内华达、德克萨斯双州许可）为全国推广打开通道；持有 TSLA 期权需关注隐含波动率在里程碑兑现后的走向。",
-    "source": "CNBC",
-    "verified": true,
+    "title": "Palantir Climbs 8% on $127M U.S. Army TITAN Production Order and Expanded PwC Alliance",
+    "summary": "美国陆军将AI使能战术情报系统TITAN正式转入量产，向Palantir下达1.27亿美元交付订单（首批8套系统），并预计2027财年再追加；同日Palantir与普华永道扩大战略联盟，PLTR股价单日上涨约8%。",
+    "why": "TITAN量产订单是Palantir国防AI从试验阶段迈入规模化的关键里程碑，验证商业模式可复制性；sell put卖方可留意合同落地后冲高的covered call机会；国防AI订单持续累积有助于估值重估。延续报道：Palantir与Nvidia的主权AI合作也在同期推进。",
+    "source": "Seeking Alpha",
+    "verified": false,
     "keywords": [
-      "Tesla",
-      "Cybercab",
-      "robotaxi",
-      "FSD",
-      "autonomous driving",
-      "TSLA",
-      "Austin"
+      "Palantir",
+      "PLTR",
+      "AIP",
+      "国防AI",
+      "政府合同",
+      "Gotham",
+      "Foundry"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
+    "url": "https://seekingalpha.com/news/4640159-palantir-technologies-climbs-8-percent-amid-army-contract-pwc-alliance",
     "published_date": "2026-09-03",
-    "still_developing": false
+    "still_developing": true
+  },
+  {
+    "id": "d2f65c50cba4f496",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "17:00",
+    "group": "个股",
+    "title": "Costco Reports August 2026 Net Sales of $23.70 Billion, Up 9.9% Year-Over-Year",
+    "summary": "好市多公布2026年8月净销售额237亿美元，同比+9.9%；同期全公司可比销售额+8.4%（美国+9.0%，加拿大+4.0%，其他国际+9.5%）。FY2026全年销售额2973亿美元，同比+10.2%；第四季度销售额939亿美元，同比+11.3%。Q4完整财报将于9月24日发布。",
+    "why": "连续月销售高增长确认会员仓储零售模式在消费降级环境下的韧性；COST正股有估值支撑；9月24日财报是期权策略重要时间节点，可评估财报前后的sell put或covered call机会。延续报道：FY2026年销售增长延续强劲。",
+    "source": "Costco Investor Relations (Official)",
+    "verified": true,
+    "keywords": [
+      "好市多",
+      "Costco",
+      "COST",
+      "会员店",
+      "仓储会员",
+      "零售",
+      "销售额"
+    ],
+    "translated": false,
+    "url": "https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Reports-August-Sales-Results/default.aspx",
+    "published_date": "2026-09-02",
+    "still_developing": true
+  },
+  {
+    "id": "b6b1b8d4f7c4db96",
+    "tier": 3,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "小米汽车8月交付量超3万台创连续第五月达标，备战澎程新车型上市",
+    "summary": "小米汽车2026年8月交付量超30000台，为连续第五个月突破3万台关口，在售SU7系列与YU7系列均有贡献。公司表示正全力为新车型澎程的上市交付做准备，澎程为小米汽车阵容的重要扩充。",
+    "why": "连续5月超3万台交付验证小米汽车产能与需求双稳固；澎程新车型即将发布为新一轮估值催化剂；关注1810.HK港股期权隐含波动率在新车发布前的时间价值窗口。延续报道：月度交付数据持续更新。",
+    "source": "财联社",
+    "verified": false,
+    "keywords": [
+      "小米",
+      "Xiaomi",
+      "1810.HK",
+      "小米汽车",
+      "YU7",
+      "SU7",
+      "雷军",
+      "AIoT"
+    ],
+    "translated": false,
+    "url": "https://www.cls.cn/detail/2470297",
+    "published_date": "2026-09-01",
+    "still_developing": true
   }
 ]
