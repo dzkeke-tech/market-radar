@@ -1,169 +1,202 @@
 [
   {
-    "id": "0231263d2500f82b",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "08:30",
-    "group": "大盘头条",
-    "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
-    "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
-    "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "jobs report",
-      "nonfarm payrolls",
-      "Treasury yield",
-      "Federal Reserve",
-      "US stocks",
-      "rate hike"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "b1c40777b4210ebd",
+    "id": "4c6c287ca5eae094",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US",
-      "HK"
-    ],
-    "time": "14:00",
-    "group": "大盘头条",
-    "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
-    "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
-    "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "Federal Reserve",
-      "FOMC",
-      "interest rate hike",
-      "CPI",
-      "inflation",
-      "monetary policy"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "e845c4cb3befea90",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "HK"
-    ],
-    "time": "16:00",
-    "group": "大盘头条",
-    "title": "港股收评：恒生指数涨1.74%，恒生科技指数涨2.27%；科网股普涨",
-    "summary": "9月4日港股全线大涨，恒生指数收报25,650.87点，涨437.56点（+1.74%）；恒生科技指数涨2.27%；国企指数涨2.02%，全日成交2,768亿港元。科网股领涨：美团+5.28%、百度+4.81%、小米+3.64%、京东+3.27%、阿里+2.42%、腾讯+2.26%。",
-    "why": "港股单日大涨，持有腾讯、美团、小米、阿里等港股标的浮盈显著；科网板块隐含波动率在上涨后通常回落，有利于 sell put 策略降低权利金成本；港股在当日美国就业数据公布前已收盘，次日走势将受美国非农冲击影响。",
-    "source": "界面新闻",
-    "verified": true,
-    "keywords": [
-      "港股",
-      "恒生指数",
-      "恒生科技指数",
-      "科网股",
-      "美团",
-      "小米",
-      "腾讯",
-      "阿里"
-    ],
-    "translated": false,
-    "url": "https://www.jiemian.com/article/15056533.html",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "59dcf3e249da2a0f",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
+      "HK",
       "A"
     ],
-    "time": "15:30",
+    "time": "08:30",
     "group": "大盘头条",
-    "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
-    "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
-    "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
-    "source": "新浪财经",
+    "title": "US Adds 162,000 Jobs in August, Topping All Estimates; Fed Rate-Hike Odds Jump to 58%",
+    "summary": "August nonfarm payrolls surged to 162,000, far above consensus of 53,000, while unemployment held at 4.1%. The 2-year Treasury yield hit its highest since January 2025 as markets priced in a 58% probability of a rate hike at the Fed's September 15–16 FOMC meeting.",
+    "why": "非农大超预期令美联储9月加息概率升至58%，短端利率急涨；如果9月真的加息，高估值科技股和港股估值均承压，持有的sell put策略须关注行权价附近的隐含波动率变化。",
+    "source": "CNBC / Bloomberg",
     "verified": true,
     "keywords": [
-      "A股",
-      "科创50",
-      "厄尔尼诺",
-      "猪肉股",
-      "科技板块"
+      "美联储",
+      "非农",
+      "加息",
+      "FOMC",
+      "Fed",
+      "interest rate",
+      "nonfarm payrolls"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
+    "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
     "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "c028e3a63fb71531",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "10:00",
-    "group": "大盘头条",
-    "title": "21 Major Banks Including Goldman, BofA, Citi, UBS Launch Joint USD Stablecoin Venture",
-    "summary": "A consortium of 21 financial institutions—including Goldman Sachs, Bank of America, Citi, Wells Fargo, Deutsche Bank, and UBS—announced a joint venture to issue a USD-denominated stablecoin targeting H1 2027 launch, initially for wholesale and cross-border payments. The venture will also explore G7-currency stablecoins. It complies with the GENIUS Act framework.",
-    "why": "全球最大金融机构联合推出银行背书稳定币，是Circle(CRCL)/USDC最直接的竞争威胁，同时也验证稳定币成为主流金融基础设施的趋势；持有CRCL的期权策略需重新评估竞争格局对其长期市占率与估值的影响；延续报道：事件持续发酵中。",
-    "source": "CoinDesk",
-    "verified": true,
-    "keywords": [
-      "stablecoin",
-      "Goldman Sachs",
-      "Bank of America",
-      "Citi",
-      "USDC",
-      "GENIUS Act",
-      "Circle",
-      "CRCL"
-    ],
-    "translated": false,
-    "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
-    "published_date": "2026-09-01",
     "still_developing": true
   },
   {
-    "id": "21ca5f6957fcef92",
+    "id": "43f750e06b81e4d8",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "A"
+    ],
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "8家中央金融企业共增资3600亿元，财政部近期发行3000亿特别国债补充国有银行及保险资本",
+    "summary": "工商银行、农业银行等8家中央金融企业集中公布增资计划，合计补充核心一级资本3600亿元；财政部将发行3000亿元特别国债定向注资，进出口银行获300亿元、中国出口信保获100亿元，中国人保等四家保险公司合计增资600亿元。",
+    "why": "国有大行和保险机构大规模补充资本，短期利好金融板块估值；同时反映监管层对银行资本充足率的关切，对高股息、低波动资产的配置逻辑进一步强化，影响持仓中港股金融类高息标的。",
+    "source": "财联社",
+    "verified": true,
+    "keywords": [
+      "国有银行",
+      "资本补充",
+      "特别国债",
+      "工商银行",
+      "农业银行",
+      "财政部"
+    ],
+    "translated": false,
+    "url": "https://www.cls.cn/detail/2475196",
+    "published_date": "2026-09-06",
+    "still_developing": false
+  },
+  {
+    "id": "a35b4fe132b3e659",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK",
+      "A"
+    ],
+    "time": "18:00",
+    "group": "大盘头条",
+    "title": "OPEC+ Keeps October Oil Production Quotas Unchanged, Completing Rollback of 2023 Cuts",
+    "summary": "Seven core OPEC+ members including Saudi Arabia and Russia agreed to maintain October production targets, completing the phased rollback of a 1.65 million bpd voluntary cut. Analysts note OPEC+ currently has limited power over the physical market as Iran-linked output disruptions persist.",
+    "why": "OPEC+维持10月产量不变，油价短期支撑；能源成本稳定对消费类及出行类标的（携程、美团）成本端有间接利好，同时对通胀预期影响有限，不改变美联储加息路径预期。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "OPEC+",
+      "油价",
+      "原油",
+      "石油产量",
+      "能源"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/09/06/opec-oil-output-october.html",
+    "published_date": "2026-09-06",
+    "still_developing": false
+  },
+  {
+    "id": "a013da167de04c5f",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "A"
+    ],
+    "time": "10:00",
+    "group": "大盘头条",
+    "title": "大摩下调港股及A股指数目标价，恒生指数目标降至26550点，反映宏观与流动性同步走弱",
+    "summary": "摩根士丹利将恒生指数目标价下调至26550点、恒生中国企业指数目标降至8900点、MSCI中国指数目标降至80点、沪深300指数目标降至4880点，理由是宏观经济与市场流动性同步走弱。",
+    "why": "大摩下调港股及A股目标价是重要情绪信号，直接压制持仓中港股标的估值上行空间；sell put策略须注意行权价是否接近新目标价支撑位，波动率可能上升。",
+    "source": "财新",
+    "verified": false,
+    "keywords": [
+      "摩根士丹利",
+      "大摩",
+      "港股",
+      "A股",
+      "恒生指数",
+      "目标价",
+      "沪深300"
+    ],
+    "translated": false,
+    "url": "https://finance.caixin.com/2026-09-04/102481812.html",
+    "published_date": "2026-09-04",
+    "still_developing": false
+  },
+  {
+    "id": "a0f5f526129b5905",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "20:00",
+    "time": "09:00",
     "group": "个股",
-    "title": "Tesla Launches First Commercial Cybercab Robotaxi Service in Austin, TX",
-    "summary": "Tesla officially launched its Cybercab autonomous taxi service in Austin, Texas on September 3 with 45 state-authorized vehicles. The two-seat, pedal-free vehicle runs entirely on Tesla's FSD software. Nevada separately approved commercial robotaxi permits for Tesla, Waymo, and Uber, authorizing up to 8,000 driverless vehicles in Clark County.",
-    "why": "Cybercab商业运营正式落地是 TSLA 估值故事的核心里程碑；初期规模仅45辆，市场短期或维持观望，但自动驾驶监管准入（内华达、德克萨斯双州许可）为全国推广打开通道；持有 TSLA 期权需关注隐含波动率在里程碑兑现后的走向。",
+    "title": "Nvidia Agrees to Buy Hugging Face for $12.9 Billion, Expanding Up the AI Stack",
+    "summary": "Nvidia will acquire Hugging Face, the open-source AI platform, for approximately $12.9 billion, including up to $1 billion in employee retention. CEO Jensen Huang said the deal will 'expand access to AI for developers and institutions worldwide.' Bloomberg and CNBC both confirmed the deal signed on September 3.",
+    "why": "英伟达收购Hugging Face标志着其从芯片向AI平台层扩张，强化了护城河但也引发反垄断关注；对GPU需求的长期驱动逻辑不变，持有NVDA多头或卖put策略方向依然成立，短期关注监管审查进度。",
+    "source": "CNBC / Bloomberg",
+    "verified": true,
+    "keywords": [
+      "英伟达",
+      "Nvidia",
+      "NVDA",
+      "Hugging Face",
+      "AI",
+      "收购",
+      "acquisition"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+    "published_date": "2026-09-03",
+    "still_developing": true
+  },
+  {
+    "id": "33364cdbd2d83480",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:30",
+    "group": "个股",
+    "title": "Tesla Stock Drops 6% as Cybercab Launch Underwhelms and NHTSA Opens Safety Probe",
+    "summary": "Tesla shares fell 6% after the Austin Cybercab commercial launch failed to impress investors; NHTSA opened a probe into ~1,000 Cybercabs citing the absence of a steering wheel, pedals and mirrors. CEO Musk did not appear at the invite-only event. Wells Fargo flagged 'early execution issues' including routing errors and missed destinations.",
+    "why": "Cybercab商业落地初期翻车+监管调查拖累TSLA股价，FSD中国市场扩张叙事受冲击；持有TSLA卖put须关注股价跌幅是否接近行权价，隐含波动率可能短期上升。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
+      "特斯拉",
       "Tesla",
-      "Cybercab",
-      "robotaxi",
-      "FSD",
-      "autonomous driving",
       "TSLA",
-      "Austin"
+      "Cybercab",
+      "Robotaxi",
+      "NHTSA",
+      "FSD",
+      "自动驾驶"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
-    "published_date": "2026-09-03",
+    "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+    "published_date": "2026-09-04",
+    "still_developing": true
+  },
+  {
+    "id": "8ac0f75c9047cfb9",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "09:30",
+    "group": "个股",
+    "title": "小米汽车累计交付量超80万辆，雷军今日宣布重要里程碑",
+    "summary": "小米CEO雷军于9月7日宣布小米汽车累计交付量突破80万辆，2026年8月单月交付量已超过3万辆，全年550,000辆目标推进顺利，增程澎程系列新车亦计划于9月正式发布。",
+    "why": "累计80万辆里程碑强化小米汽车品牌势能，有助于1810.HK估值重估；电动汽车业务首次单季盈利后，AI+硬件协同故事持续兑现，对长期持有者是正面催化，sell put策略可维持原行权价。",
+    "source": "界面新闻",
+    "verified": false,
+    "keywords": [
+      "小米",
+      "Xiaomi",
+      "1810.HK",
+      "小米汽车",
+      "累计交付",
+      "雷军",
+      "里程碑"
+    ],
+    "translated": false,
+    "url": "https://www.jiemian.com/article/15060546.html",
+    "published_date": "2026-09-07",
     "still_developing": false
   }
 ]
