@@ -1,169 +1,317 @@
 [
   {
-    "id": "0231263d2500f82b",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "08:30",
-    "group": "大盘头条",
-    "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
-    "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
-    "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "jobs report",
-      "nonfarm payrolls",
-      "Treasury yield",
-      "Federal Reserve",
-      "US stocks",
-      "rate hike"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "b1c40777b4210ebd",
+    "id": "4c6c287ca5eae094",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US",
-      "HK"
+      "HK",
+      "A"
     ],
-    "time": "14:00",
+    "time": "08:30",
     "group": "大盘头条",
-    "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
-    "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
-    "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
-    "source": "Bloomberg",
+    "title": "August Jobs Report Crushes Estimates: Payrolls +162K vs. 53K Forecast, Unemployment Holds at 4.1%",
+    "summary": "U.S. nonfarm payrolls rose 162,000 in August, tripling the 53,000 consensus estimate; July was revised upward. Unemployment held at 4.1%. The blowout report immediately pushed Fed rate hike probability to ~60% for the Sep 15–16 FOMC meeting, with Treasury yields surging and equity futures slipping.",
+    "why": "就业报告大幅超预期，9月FOMC加息25bp概率升至60%；本周五CPI是最终决定性指标。对以sell put为主的期权策略，需关注加息落地后成分股隐含波动率变化，以及港股（HKD联系汇率压力）和A股的联动影响；行权价安全边际需重评。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "Fed",
+      "rate hike",
+      "jobs report",
+      "FOMC",
+      "nonfarm payrolls",
+      "unemployment"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+    "published_date": "2026-09-04",
+    "still_developing": true
+  },
+  {
+    "id": "f5b7815a05a8109f",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK",
+      "A"
+    ],
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "Trump Ramps Up Pressure on Fed Chair Warsh; Markets Price 60% Odds of September Rate Hike",
+    "summary": "Following the blowout August jobs report, markets priced ~60% odds of a 25bp hike at the Sep 15–16 FOMC. President Trump, VP, Treasury Secretary, and senior economic advisors all publicly urged the Fed not to hike — an unusually broad political campaign. CME FedWatch put hike probability at 60.4%. CPI data due Friday is the next pivot.",
+    "why": "政治压力与市场定价的分歧加大了9月FOMC不确定性。若CPI超预期则加息定局，高成长科技股（NVDA/GOOGL/科技持仓）面临估值下修；sell put策略需关注期权行权价安全边际，特别是9月15日财报密集期前的波动率。",
+    "source": "CNBC",
     "verified": true,
     "keywords": [
       "Federal Reserve",
+      "rate hike",
       "FOMC",
-      "interest rate hike",
+      "Trump",
+      "Kevin Warsh",
       "CPI",
-      "inflation",
-      "monetary policy"
+      "inflation"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
-    "published_date": "2026-09-04",
-    "still_developing": false
+    "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+    "published_date": "2026-09-05",
+    "still_developing": true
   },
   {
-    "id": "e845c4cb3befea90",
-    "tier": 2,
-    "lang": "zh",
+    "id": "15e92f709f2c71d8",
+    "tier": 1,
+    "lang": "en",
     "markets": [
-      "HK"
-    ],
-    "time": "16:00",
-    "group": "大盘头条",
-    "title": "港股收评：恒生指数涨1.74%，恒生科技指数涨2.27%；科网股普涨",
-    "summary": "9月4日港股全线大涨，恒生指数收报25,650.87点，涨437.56点（+1.74%）；恒生科技指数涨2.27%；国企指数涨2.02%，全日成交2,768亿港元。科网股领涨：美团+5.28%、百度+4.81%、小米+3.64%、京东+3.27%、阿里+2.42%、腾讯+2.26%。",
-    "why": "港股单日大涨，持有腾讯、美团、小米、阿里等港股标的浮盈显著；科网板块隐含波动率在上涨后通常回落，有利于 sell put 策略降低权利金成本；港股在当日美国就业数据公布前已收盘，次日走势将受美国非农冲击影响。",
-    "source": "界面新闻",
-    "verified": true,
-    "keywords": [
-      "港股",
-      "恒生指数",
-      "恒生科技指数",
-      "科网股",
-      "美团",
-      "小米",
-      "腾讯",
-      "阿里"
-    ],
-    "translated": false,
-    "url": "https://www.jiemian.com/article/15056533.html",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "59dcf3e249da2a0f",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
+      "US",
+      "HK",
       "A"
     ],
-    "time": "15:30",
+    "time": "07:00",
     "group": "大盘头条",
-    "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
-    "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
-    "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
-    "source": "新浪财经",
+    "title": "U.S. Strikes Iranian Crude Carriers; Oil Spikes, Markets Reprice Geopolitical Risk",
+    "summary": "Late Sunday, U.S. forces struck Iranian crude oil carriers, escalating the US-Iran conflict ongoing since February 2026. Brent crude rose sharply; Bitcoin fell as risk-off sentiment spread. Strait of Hormuz disruption risk is now elevated, compounding the existing oil price shock that has pushed crude toward $97/bbl.",
+    "why": "美军打击伊朗油轮是本轮美伊冲突（2026年2月以来）的重大升级，直接推升油价。油价通胀二次抬头将强化Fed加息逻辑；同时对消费类持仓（麦当劳、海底捞、携程等）构成成本压力；卖出期权策略须警惕地缘事件驱动的波动率尖峰。",
+    "source": "CoinDesk",
     "verified": true,
     "keywords": [
-      "A股",
-      "科创50",
-      "厄尔尼诺",
-      "猪肉股",
-      "科技板块"
+      "Iran",
+      "oil",
+      "geopolitical",
+      "US military",
+      "Brent crude",
+      "Strait of Hormuz"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
-    "published_date": "2026-09-04",
+    "url": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers",
+    "published_date": "2026-09-07",
     "still_developing": false
   },
   {
-    "id": "c028e3a63fb71531",
-    "tier": 1,
+    "id": "76686d591aa72e49",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "06:00",
+    "group": "大盘头条",
+    "title": "$320 Million Bitcoin Exploit Hits Liquid Network; Sidechain Halts All Transactions",
+    "summary": "A purported white-hat hacker withdrew ~4,000 BTC ($320M) from Liquid Network's federation wallet by exploiting a software bug in Elements. The Bitcoin sidechain — used by exchanges as a settlement layer — halted all new transactions. The hacker has offered conditional return of funds once the vulnerability is patched. Bloomberg confirmed the exploit.",
+    "why": "加密货币基础设施重大安全事件，影响以Liquid Network为结算层的交易所（含富途牛牛合作平台）；若资金无法追回将冲击市场信心。Circle（USDC）、Coinbase等相关标的短期不确定性上升；波动率看涨。",
+    "source": "CoinDesk",
+    "verified": true,
+    "keywords": [
+      "Bitcoin",
+      "Liquid Network",
+      "crypto hack",
+      "exploit",
+      "BTC",
+      "sidechain"
+    ],
+    "translated": false,
+    "url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+    "published_date": "2026-09-07",
+    "still_developing": false
+  },
+  {
+    "id": "2143ea61ced028db",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "07:30",
+    "group": "大盘头条",
+    "title": "Bitcoin Holds $79K as Rate-Hike Odds Climb; Zcash Surges 45% in a Week, Crypto Eyes CPI",
+    "summary": "Bitcoin traded at $79,300–79,700 Monday morning, down ~1% from midnight UTC, as ~60% Fed hike odds weighed on risk assets (US Labor Day holiday). Zcash (ZEC) cleared $1,000 for the first time since 2016, rising 45% on the week. Coinbase switching perpetuals venue to Deribit this week. CPI Friday is the next major catalyst.",
+    "why": "比特币在加息预期与油价双重压力下维持震荡，未见明显下跌说明市场已部分消化加息预期；本周五CPI是关键催化剂。对Circle（CRCL）和富途（FUTU）等加密相关持仓，需关注市场情绪转变节点。",
+    "source": "CoinDesk",
+    "verified": true,
+    "keywords": [
+      "Bitcoin",
+      "BTC",
+      "crypto",
+      "rate hike",
+      "CPI",
+      "Zcash",
+      "Coinbase",
+      "Deribit"
+    ],
+    "translated": false,
+    "url": "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week",
+    "published_date": "2026-09-07",
+    "still_developing": false
+  },
+  {
+    "id": "c658e660afaa34c1",
+    "tier": 2,
     "lang": "en",
     "markets": [
       "US"
     ],
     "time": "10:00",
     "group": "大盘头条",
-    "title": "21 Major Banks Including Goldman, BofA, Citi, UBS Launch Joint USD Stablecoin Venture",
-    "summary": "A consortium of 21 financial institutions—including Goldman Sachs, Bank of America, Citi, Wells Fargo, Deutsche Bank, and UBS—announced a joint venture to issue a USD-denominated stablecoin targeting H1 2027 launch, initially for wholesale and cross-border payments. The venture will also explore G7-currency stablecoins. It complies with the GENIUS Act framework.",
-    "why": "全球最大金融机构联合推出银行背书稳定币，是Circle(CRCL)/USDC最直接的竞争威胁，同时也验证稳定币成为主流金融基础设施的趋势；持有CRCL的期权策略需重新评估竞争格局对其长期市占率与估值的影响；延续报道：事件持续发酵中。",
-    "source": "CoinDesk",
+    "title": "Broadcom Q3 Revenue +85% YoY to $29.6B; AI Chip Revenue Tripling, FY2027 AI Target $115 Billion",
+    "summary": "Broadcom fiscal Q3 revenue rose 85% YoY to $29.59B, beating the $29.36B estimate. AI semiconductor revenue tripled in Q3. CEO Hock Tan guided FY2027 AI revenue to $115B (doubling again to $230B in FY2028), backed by custom-chip deals with Google, Meta, and OpenAI. AVGO stock fell slightly on \"investors wanted more\" reaction.",
+    "why": "Broadcom业绩揭示AI芯片需求仍在高速增长，对英伟达（NVDA）估值有正面共鸣；同时支撑SK海力士/美光HBM需求前景。AI资本开支周期未见顶、持有科技股的长期逻辑强化；但市场反应平淡（\"买预期卖事实\"），提示sell call策略需注意位置。",
+    "source": "CNBC",
     "verified": true,
     "keywords": [
-      "stablecoin",
-      "Goldman Sachs",
-      "Bank of America",
-      "Citi",
-      "USDC",
-      "GENIUS Act",
-      "Circle",
-      "CRCL"
+      "Broadcom",
+      "AVGO",
+      "AI chip",
+      "semiconductor",
+      "earnings",
+      "custom chip"
     ],
     "translated": false,
-    "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
-    "published_date": "2026-09-01",
+    "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+    "published_date": "2026-09-02",
     "still_developing": true
   },
   {
-    "id": "21ca5f6957fcef92",
+    "id": "a0f5f526129b5905",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "20:00",
+    "time": "10:30",
     "group": "个股",
-    "title": "Tesla Launches First Commercial Cybercab Robotaxi Service in Austin, TX",
-    "summary": "Tesla officially launched its Cybercab autonomous taxi service in Austin, Texas on September 3 with 45 state-authorized vehicles. The two-seat, pedal-free vehicle runs entirely on Tesla's FSD software. Nevada separately approved commercial robotaxi permits for Tesla, Waymo, and Uber, authorizing up to 8,000 driverless vehicles in Clark County.",
-    "why": "Cybercab商业运营正式落地是 TSLA 估值故事的核心里程碑；初期规模仅45辆，市场短期或维持观望，但自动驾驶监管准入（内华达、德克萨斯双州许可）为全国推广打开通道；持有 TSLA 期权需关注隐含波动率在里程碑兑现后的走向。",
+    "title": "Nvidia Agrees to Acquire Hugging Face for ~$13 Billion, Expanding Up the AI Stack",
+    "summary": "Nvidia agreed to buy open-source AI platform Hugging Face for $12.9B — its second-largest deal ever, after the $20B Groq acquisition. Hugging Face is the leading platform for building and sharing AI models. CEO Jensen Huang: 'Open models matter greatly to our company.' The deal moves Nvidia from chips to AI software/model distribution.",
+    "why": "英伟达收购Hugging Face（开源模型最大平台）是战略性向上整合——从硬件到软件生态，强化对AI全栈的控制力。短期NVDA股价催化剂（4天前宣布，可能部分已消化），长期护城河显著拓宽；需关注反垄断审查（AI垄断争议）引入的波动率风险；对sell put策略：NVDA波动率可能因此上升。",
     "source": "CNBC",
     "verified": true,
     "keywords": [
-      "Tesla",
-      "Cybercab",
-      "robotaxi",
-      "FSD",
-      "autonomous driving",
-      "TSLA",
-      "Austin"
+      "Nvidia",
+      "NVDA",
+      "Hugging Face",
+      "AI",
+      "acquisition",
+      "open source",
+      "Jensen Huang"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
+    "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
     "published_date": "2026-09-03",
+    "still_developing": true
+  },
+  {
+    "id": "10425b18574bb40a",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "09:30",
+    "group": "个股",
+    "title": "Xiaomi Confirms European EV Launch in 2027; Signs MoUs With 8 German Dealers at IFA Berlin",
+    "summary": "At IFA Berlin 2026, Xiaomi Auto confirmed plans to begin EU sales in 2027, signing memoranda of understanding with 8 major German automotive dealer groups including Emil Frey and LUEG Mobility. The company will face 35.3%+10% EU tariffs as it did not participate in the 2023 anti-subsidy probe. No local manufacturing is planned as a first step.",
+    "why": "小米汽车欧洲进入战略公开化：dealer网络签约先行，意味着2027年交付计划落实性增强；欧盟35.3%关税是实质性障碍，但不影响高端定位（Human×Car×Home生态溢价）。对1810.HK持仓：欧洲故事为中期估值催化剂，近期还有今日（9月7日）国内秋季发布会（澎程EREV+18 Fold）提供短期驱动。",
+    "source": "South China Morning Post",
+    "verified": true,
+    "keywords": [
+      "Xiaomi",
+      "小米",
+      "1810.HK",
+      "EV",
+      "Europe",
+      "IFA",
+      "SU7",
+      "YU7"
+    ],
+    "translated": false,
+    "url": "https://www.scmp.com/economy/china-economy/article/3366322/another-chinese-ev-maker-joins-grid-europe-xiaomi-launch-sales-next-year",
+    "published_date": "2026-09-05",
     "still_developing": false
+  },
+  {
+    "id": "a19bfe9f7482a77c",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "Meituan Q2 Snaps Losing Streak With Profitable June Quarter; Delivery Price War Easing Faster Than Expected",
+    "summary": "Meituan returned to profitability in Q2 2026, with revenue rising ~21% YoY. The food-delivery price war eased more quickly than anticipated, with Alibaba and JD also narrowing quick-commerce losses. Bloomberg: analyst earnings estimates for the period surged, potentially reviving China delivery-sector stocks after months of valuation compression. Douyin competition is flagged as ongoing risk.",
+    "why": "美团季度扭亏是重大转折信号：价格战退潮+即时零售放量双重验证盈利拐点。对3690.HK持仓：sell put行权价安全边际明显提升；Douyin外卖仍是潜在压力，但竞争烈度下降趋势若持续，估值修复空间大。需留意9月15日前后的具体财报数据。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "Meituan",
+      "美团",
+      "3690.HK",
+      "earnings",
+      "food delivery",
+      "China tech",
+      "Q2 2026"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-09-02/meituan-s-500-estimate-surge-may-revive-china-delivery-stocks",
+    "published_date": "2026-09-02",
+    "still_developing": true
+  },
+  {
+    "id": "8ed6a0cfb14a95f4",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "携程同程股价年内跌超40%！业绩增长却遭跳水，OTA估值逻辑被重写",
+    "summary": "截至2026年9月初，携程集团(9961.HK)和同程旅行股价年内均下跌逾40%。尽管整体营收保持增长，国内酒店ADR（平均日房价）持续下行导致佣金收入受压，OTA板块市盈率已压缩至12–16倍历史低位。携程77.27亿元反垄断罚款虽于7月27日落地、解除监管悬念，但供给过剩引发的酒店价格战仍是核心结构性问题。",
+    "why": "9月15日Q2财报是近期最关键催化剂：若ADR企稳则有估值修复机会；若继续下行则行权价下方风险暴露更大。对携程9961.HK持仓（sell put为主）：建议财报前维持保守、财报后根据ADR数据再重新评估行权价位。",
+    "source": "新浪财经",
+    "verified": false,
+    "keywords": [
+      "携程",
+      "Trip.com",
+      "9961.HK",
+      "OTA",
+      "ADR",
+      "估值",
+      "反垄断",
+      "旅游"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/roll/2026-09-03/doc-iniquyir0523374.shtml",
+    "published_date": "2026-09-03",
+    "still_developing": true
+  },
+  {
+    "id": "35662ac77e6aba33",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "08:00",
+    "group": "个股",
+    "title": "Samsung and SK Hynix Set to Widen Memory Chip Lead Over China Through 2028; HBM4 Mass Shipments Underway",
+    "summary": "South Korea's memory chip output advantage over China is set to grow significantly, with new Samsung and SK Hynix plants adding ~600,000 wafers/month capacity by 2028. SK Hynix confirmed HBM4 mass shipments began in Q2 2026 and HBM4E sample shipments in H1. Nvidia locked down SK Hynix's HBM supply as part of a $500B AI deal with SK Group.",
+    "why": "SK海力士的HBM4领先地位持续巩固：中国追赶进度落后、韩国产能扩张确保AI芯片HBM供应稳定。对持有SK海力士（000660）或通过美光（MU）间接暴露存储赛道的策略：AI基础设施建设周期延长、HBM需求能见度高。短期风险是加息压力可能压制半导体估值。",
+    "source": "Bloomberg",
+    "verified": true,
+    "keywords": [
+      "SK Hynix",
+      "SK海力士",
+      "Samsung",
+      "HBM4",
+      "memory chip",
+      "AI",
+      "semiconductor",
+      "Korea"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/korea-s-memory-chip-lead-over-china-set-to-grow-report-says",
+    "published_date": "2026-09-04",
+    "still_developing": true
   }
 ]
