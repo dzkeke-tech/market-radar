@@ -1,6 +1,6 @@
 [
   {
-    "id": "0231263d2500f82b",
+    "id": "4c6c287ca5eae094",
     "tier": 1,
     "lang": "en",
     "markets": [
@@ -8,162 +8,197 @@
     ],
     "time": "08:30",
     "group": "大盘头条",
-    "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
-    "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
-    "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
+    "title": "US August Payrolls Jump 162,000, Triple the 53,000 Forecast; Fed September Hike Odds Rise to 62%",
+    "summary": "Nonfarm payrolls rose 162,000 in August, well above the 53,000 consensus, while unemployment held at 4.1%. Rate futures now price ~62% probability of a Fed rate hike at the Sept. 15-16 FOMC meeting, up from ~55% before the report. Average hourly earnings rose 0.3% m/m.",
+    "why": "非农大幅超预期是本周最重大宏观事件，将9月16日FOMC加息概率从55%推至62%；隐含波动率上升，所有卖出期权（sell put/covered call）策略须关注短期方向风险；下周CPI数据将提供进一步确认。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "nonfarm payrolls",
+      "Fed",
+      "FOMC",
+      "macro",
+      "rate hike",
+      "宏观"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+    "published_date": "2026-09-04",
+    "still_developing": true
+  },
+  {
+    "id": "a0f5f526129b5905",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:00",
+    "group": "大盘头条",
+    "title": "Nvidia Agrees to Buy Hugging Face for $12.93B, Completing AI Vertical Integration from Silicon to Model Marketplace",
+    "summary": "Nvidia entered a definitive agreement to acquire Hugging Face for $12.93B ($11.9B cash + up to $1B staff equity retention). Hugging Face hosts 18M+ developers, 3M+ models, and 1M+ applications. Deal expected to close H1 2027 pending regulatory approval. Platform will remain multi-cloud and multi-accelerator.",
+    "why": "延续报道：英伟达此举从芯片延伸至AI开发者平台，完成从硅到模型市场全栈垂直整合；分析师称战略意义重大，NVDA盘中涨约2%；交割需等监管批准，持有NVDA的期权需关注整合进展与反垄断风险对隐含波动率的影响。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "英伟达",
+      "Nvidia",
+      "NVDA",
+      "Hugging Face",
+      "AI",
+      "M&A",
+      "收购",
+      "GPU"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+    "published_date": "2026-09-03",
+    "still_developing": true
+  },
+  {
+    "id": "2d68c53a071fe2f9",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:30",
+    "group": "大盘头条",
+    "title": "Tesla Cybercab Goes Public in Austin, NHTSA Opens Safety Probe; Shares Tumble on Underwhelming Launch",
+    "summary": "Tesla opened Cybercab robotaxi rides to the public in Austin on Sept. 4 (45 vehicles authorized, no steering wheel or pedals). NHTSA launched a formal investigation into how Tesla self-certified the vehicle as federally compliant. Tesla stock fell sharply; federal rules cap no-steering-wheel vehicle sales at 2,500/year.",
+    "why": "延续报道：Robotaxi首次商业化里程碑，但NHTSA调查形成监管不确定性，股价已大跌；联邦年售2500辆上限若不获豁免将严重制约规模扩张；对TSLA期权持仓，波动率上升且方向不明，需关注调查结论与监管进展。",
     "source": "Bloomberg",
     "verified": true,
     "keywords": [
-      "jobs report",
-      "nonfarm payrolls",
-      "Treasury yield",
-      "Federal Reserve",
-      "US stocks",
-      "rate hike"
+      "特斯拉",
+      "Tesla",
+      "TSLA",
+      "Cybercab",
+      "Robotaxi",
+      "FSD",
+      "NHTSA",
+      "自动驾驶"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
-    "published_date": "2026-09-04",
-    "still_developing": false
+    "url": "https://www.bloomberg.com/news/articles/2026-09-03/tesla-readies-cybercab-launch-event-that-s-shrouded-in-mystery",
+    "published_date": "2026-09-03",
+    "still_developing": true
   },
   {
-    "id": "b1c40777b4210ebd",
+    "id": "67c23ee03a15bc51",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US",
       "HK"
     ],
-    "time": "14:00",
+    "time": "10:00",
     "group": "大盘头条",
-    "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
-    "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
-    "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
+    "title": "Middle East Tensions Push Oil Above $93; Asian Stocks Fall, S&P 500 Futures Drop Ahead of Sept. 8 Open",
+    "summary": "Escalating Middle East tensions pushed Brent crude above $93/barrel, amplifying inflation concerns. Asian equities fell and S&P 500 futures declined heading into the Sept. 8 session, as markets absorbed the stronger jobs data and rising Fed hike probability.",
+    "why": "中东地缘风险叠加非农超预期，油价通胀压力与加息预期形成双重压制；港股三大指数同步走低，所有持仓短期估值承压；高油价与加息预期组合对消费类持仓（餐饮、旅游、零售）影响尤为显著。",
     "source": "Bloomberg",
     "verified": true,
     "keywords": [
-      "Federal Reserve",
-      "FOMC",
-      "interest rate hike",
-      "CPI",
-      "inflation",
-      "monetary policy"
+      "中东",
+      "oil",
+      "macro",
+      "S&P 500",
+      "港股",
+      "通胀",
+      "geopolitical"
     ],
     "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
-    "published_date": "2026-09-04",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-07/stock-market-today-dow-s-p-live-updates",
+    "published_date": "2026-09-07",
     "still_developing": false
   },
   {
-    "id": "e845c4cb3befea90",
+    "id": "2143ea61ced028db",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "10:30",
+    "group": "大盘头条",
+    "title": "Bitcoin Holds $79,000 as Fed Hike Odds Climb; September Historically Crypto's Worst Month",
+    "summary": "BTC traded near $79,000 as of Sept. 7, pressured by rising Fed rate hike expectations after the payrolls beat. September has historically been bitcoin's worst-performing month since 2013. Broader crypto market slipped with hike odds climbing to 62%.",
+    "why": "加密市场随加息预期升温整体承压；Circle（CRCL）USDC储备金收益与利率正相关，高利率环境短期利好CRCL核心收入，但若市场情绪恶化将压制整体估值；CLARITY Act参议院投票预计9月15日，是CRCL近期重要催化剂。",
+    "source": "CoinDesk",
+    "verified": true,
+    "keywords": [
+      "Bitcoin",
+      "BTC",
+      "crypto",
+      "Fed",
+      "加息",
+      "Circle",
+      "CRCL",
+      "USDC",
+      "稳定币"
+    ],
+    "translated": false,
+    "url": "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week",
+    "published_date": "2026-09-07",
+    "still_developing": false
+  },
+  {
+    "id": "b8020091241e60f6",
     "tier": 2,
     "lang": "zh",
     "markets": [
       "HK"
     ],
-    "time": "16:00",
-    "group": "大盘头条",
-    "title": "港股收评：恒生指数涨1.74%，恒生科技指数涨2.27%；科网股普涨",
-    "summary": "9月4日港股全线大涨，恒生指数收报25,650.87点，涨437.56点（+1.74%）；恒生科技指数涨2.27%；国企指数涨2.02%，全日成交2,768亿港元。科网股领涨：美团+5.28%、百度+4.81%、小米+3.64%、京东+3.27%、阿里+2.42%、腾讯+2.26%。",
-    "why": "港股单日大涨，持有腾讯、美团、小米、阿里等港股标的浮盈显著；科网板块隐含波动率在上涨后通常回落，有利于 sell put 策略降低权利金成本；港股在当日美国就业数据公布前已收盘，次日走势将受美国非农冲击影响。",
-    "source": "界面新闻",
-    "verified": true,
-    "keywords": [
-      "港股",
-      "恒生指数",
-      "恒生科技指数",
-      "科网股",
-      "美团",
-      "小米",
-      "腾讯",
-      "阿里"
-    ],
-    "translated": false,
-    "url": "https://www.jiemian.com/article/15056533.html",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "59dcf3e249da2a0f",
-    "tier": 2,
-    "lang": "zh",
-    "markets": [
-      "A"
-    ],
-    "time": "15:30",
-    "group": "大盘头条",
-    "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
-    "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
-    "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
-    "source": "新浪财经",
-    "verified": true,
-    "keywords": [
-      "A股",
-      "科创50",
-      "厄尔尼诺",
-      "猪肉股",
-      "科技板块"
-    ],
-    "translated": false,
-    "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "c028e3a63fb71531",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "10:00",
-    "group": "大盘头条",
-    "title": "21 Major Banks Including Goldman, BofA, Citi, UBS Launch Joint USD Stablecoin Venture",
-    "summary": "A consortium of 21 financial institutions—including Goldman Sachs, Bank of America, Citi, Wells Fargo, Deutsche Bank, and UBS—announced a joint venture to issue a USD-denominated stablecoin targeting H1 2027 launch, initially for wholesale and cross-border payments. The venture will also explore G7-currency stablecoins. It complies with the GENIUS Act framework.",
-    "why": "全球最大金融机构联合推出银行背书稳定币，是Circle(CRCL)/USDC最直接的竞争威胁，同时也验证稳定币成为主流金融基础设施的趋势；持有CRCL的期权策略需重新评估竞争格局对其长期市占率与估值的影响；延续报道：事件持续发酵中。",
-    "source": "CoinDesk",
-    "verified": true,
-    "keywords": [
-      "stablecoin",
-      "Goldman Sachs",
-      "Bank of America",
-      "Citi",
-      "USDC",
-      "GENIUS Act",
-      "Circle",
-      "CRCL"
-    ],
-    "translated": false,
-    "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
-    "published_date": "2026-09-01",
-    "still_developing": true
-  },
-  {
-    "id": "21ca5f6957fcef92",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "20:00",
+    "time": "18:30",
     "group": "个股",
-    "title": "Tesla Launches First Commercial Cybercab Robotaxi Service in Austin, TX",
-    "summary": "Tesla officially launched its Cybercab autonomous taxi service in Austin, Texas on September 3 with 45 state-authorized vehicles. The two-seat, pedal-free vehicle runs entirely on Tesla's FSD software. Nevada separately approved commercial robotaxi permits for Tesla, Waymo, and Uber, authorizing up to 8,000 driverless vehicles in Clark County.",
-    "why": "Cybercab商业运营正式落地是 TSLA 估值故事的核心里程碑；初期规模仅45辆，市场短期或维持观望，但自动驾驶监管准入（内华达、德克萨斯双州许可）为全国推广打开通道；持有 TSLA 期权需关注隐含波动率在里程碑兑现后的走向。",
-    "source": "CNBC",
+    "title": "腾讯控股(00700)9月7日斥资约1亿港元回购22.8万股，年内累计回购逾4300万股",
+    "summary": "腾讯控股于2026年9月7日在联交所回购22.8万股，回购价格区间港元438.4至442.4，合计耗资约1亿港元。截至本次公告，年内已累计回购43,240,700股，授权总额为911,799,163股（2026年5月13日股东会通过）。",
+    "why": "腾讯持续高频、高金额回购（近期每日约1亿港元），年内累计已超4300万股，对股价形成有力支撑，有助于EPS稳定增长；稳定的回购节奏降低持仓波动预期，有利于维持sell put策略的安全垫。",
+    "source": "联交所披露 (HKEXnews) / 智通财经",
     "verified": true,
     "keywords": [
-      "Tesla",
-      "Cybercab",
-      "robotaxi",
-      "FSD",
-      "autonomous driving",
-      "TSLA",
-      "Austin"
+      "腾讯",
+      "Tencent",
+      "0700.HK",
+      "00700",
+      "回购",
+      "buyback"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
-    "published_date": "2026-09-03",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0907/listconews02.htm",
+    "published_date": "2026-09-07",
     "still_developing": false
+  },
+  {
+    "id": "2a6c3865e07de0a5",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "21:00",
+    "group": "个股",
+    "title": "Circle Confirms Arc Blockchain Sept. 16 Mainnet Launch With BlackRock, DTCC, Visa, Mastercard as Founding Validators",
+    "summary": "Circle announced the founding validator cohort for Arc ahead of its Sept. 16 public mainnet launch: BlackRock, DTCC, Galaxy, Global Payments, ICE, Mastercard, MoneyGram, SBI Group, Standard Chartered, Sumitomo, and Visa. Arc uses USDC as native gas token, targets tokenized assets and institutional cross-border payments.",
+    "why": "延续报道：Circle Arc主网是CRCL自上市以来最重要的产品催化剂，代表稳定币基础设施向Layer-1区块链扩展；BlackRock/DTCC/Visa/Mastercard机构背书阵容强大，CRCL自8月5日财报已涨约61%；9月15日CLARITY Act投票+9月16日主网双催化，期权隐含波动率可能在此期间上升。",
+    "source": "Circle IR / CoinDesk",
+    "verified": true,
+    "keywords": [
+      "Circle",
+      "CRCL",
+      "USDC",
+      "Arc",
+      "stablecoin",
+      "BlackRock",
+      "DTCC",
+      "Visa",
+      "稳定币",
+      "blockchain"
+    ],
+    "translated": false,
+    "url": "https://www.circle.com/pressroom/circle-announces-founding-validator-cohort-and-major-integrations-for-arc-ahead-of-september-16-mainnet-launch",
+    "published_date": "2026-09-04",
+    "still_developing": true
   }
 ]
