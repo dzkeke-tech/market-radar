@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-05 08:24 (北京时间)",
+  "updated_at": "2026-09-09 08:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,571 +9,193 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-05 08:24 (北京时间)",
-    "new_count": 3,
+    "at": "2026-09-09 08:16 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "0231263d2500f82b",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
-      "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
-      "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "jobs report",
-        "nonfarm payrolls",
-        "Treasury yield",
-        "Federal Reserve",
-        "US stocks",
-        "rate hike"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
-      "published_date": "2026-09-04",
-      "still_developing": false,
-      "first_seen": "2026-09-05",
-      "is_new": true
-    },
-    {
-      "id": "b1c40777b4210ebd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
-      "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
-      "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Federal Reserve",
-        "FOMC",
-        "interest rate hike",
-        "CPI",
-        "inflation",
-        "monetary policy"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
-      "published_date": "2026-09-04",
-      "still_developing": false,
-      "first_seen": "2026-09-05",
-      "is_new": true
-    },
-    {
-      "id": "59dcf3e249da2a0f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
-      "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
-      "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "科创50",
-        "厄尔尼诺",
-        "猪肉股",
-        "科技板块"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
-      "published_date": "2026-09-04",
-      "still_developing": false,
-      "first_seen": "2026-09-05",
-      "is_new": true
-    },
-    {
-      "id": "d89b1cd646324a19",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "Fed Chair Warsh signals possible rate hike at Jackson Hole, says inflation still too high",
-      "summary": "Federal Reserve Chair Kevin Warsh said at the Jackson Hole symposium that inflation remains above the 2% target and the Fed has 'work to do,' signaling potential rate increases. The 2-year Treasury yield jumped over 6 basis points to 4.298%, and market odds of a September rate hike rose to 46%.",
-      "why": "新任美联储主席Warsh首次杰克逊霍尔讲话显著鹰派，加息预期回升将压制估值并抬升期权隐含波动率；卖put策略需重新评估各标的行权价安全边际。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Federal Reserve",
-        "Jackson Hole",
-        "interest rates",
-        "inflation",
-        "Warsh"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
-      "published_date": "2026-08-28",
-      "still_developing": false,
-      "first_seen": "2026-08-29",
-      "is_new": false
-    },
-    {
-      "id": "e29f2aea66431425",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "20:00",
-      "group": "个股",
-      "title": "Meituan snaps losing streak with profitable June quarter though Douyin threat looms",
-      "summary": "Meituan (3690.HK) reported Q2 2026 revenue of RMB 104.6 billion (+14.4% YoY), with adjusted net profit of RMB 2.16 billion, reversing a RMB 4.97 billion loss in Q1. Keeta turned profitable in Saudi Arabia within 22 months of entry. The company holds a RMB 168.3 billion cash position.",
-      "why": "美团Q2扭亏且Keeta海外盈利是重要里程碑；外卖价格战趋缓改善利润能见度；高现金储备可支撑股东回报，对sell put策略有支撑；但抖音竞争威胁仍是长期风险。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "Q2 earnings",
-        "Keeta",
-        "外卖"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/tech/big-tech/article/3365595/meituan-snaps-losing-streak-profitable-june-quarter-though-douyin-threat-looms",
-      "published_date": "2026-08-28",
-      "still_developing": false,
-      "first_seen": "2026-08-29",
-      "is_new": false
-    },
-    {
-      "id": "196ed7dce2514a02",
+      "id": "490544dbcf9577f1",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "US",
         "HK",
         "A"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "沃什杰克逊霍尔首秀偏鹰：通胀未真正降下来，9月加息重回视野",
-      "summary": "美联储主席沃什在杰克逊霍尔年会发表首次主旨演讲，措辞偏鹰：7月PCE通胀3.7%（三年新高），核心PCE 3.3%，沃什称近期数据未令他相信基本通胀趋势已有重大改善，并暗示还有更多工作要做。讲话后市场对9月加息25bp的概率从35.4%骤升至约56%；10年期美债收益率升至4.68%。",
-      "why": "加息预期骤升直接压制权益估值；若9月真加息，sell put 的 theta 短期受益但 delta 敞口风险上升；港股、A股下周开盘面临进一步回调压力，组合整体偏防御。",
-      "source": "财新/新浪财经",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "Jackson Hole",
-        "通胀",
-        "加息",
-        "PCE",
-        "沃什"
-      ],
-      "translated": false,
-      "url": "https://opinion.caixin.com/2026-08-28/102478962.html",
-      "published_date": "2026-08-28",
-      "still_developing": false,
-      "first_seen": "2026-08-30",
-      "is_new": false
-    },
-    {
-      "id": "e8cc795a309f133e",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "Core PCE: In line but not enough to lower Fed rate hike expectations",
-      "summary": "July PCE headline inflation rose to 3.7% YoY — a 3-year high — while core PCE held at 3.3% YoY and +0.2% MoM, broadly in-line with estimates but insufficient to ease rate-hike fears. Fed futures now price ~38% odds of a September hike and 1–2 hikes by year-end.",
-      "why": "为本轮 Warsh 鹰派讲话提供了数据背书；通胀未改善的格局下，美股 VIX 可能阶段性走高，期权 premium 短期利好 sellers；核心 PCE 3.3% 远超 2% 目标，加息路径尚未终结。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "PCE",
-        "inflation",
-        "Fed",
-        "rate hike",
-        "宏观",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/26/core-pce-in-line-but-not-enough-to-lower-fed-rate-hike-expectations.html",
-      "published_date": "2026-08-26",
-      "still_developing": true,
-      "first_seen": "2026-08-30",
-      "is_new": false
-    },
-    {
-      "id": "5584e83b3de25bd0",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
-      "summary": "Nvidia has reportedly agreed to acquire Hugging Face — the dominant open-source AI model hub — for $12.9 billion per The Information and CNBC. The deal is not yet signed and could fall apart. Hugging Face was last valued at $7B in initial Nvidia negotiations and $4.5B in a 2023 funding round backed by Google, Amazon, Salesforce and IBM. The acquisition would extend Nvidia's reach from GPU chips into AI software and model-distribution infrastructure.",
-      "why": "英伟达从芯片硬件延伸至模型生态控制权，若成交，将巩固其 AI 全栈护城河；NVDA 短期隐含波动率可能因并购不确定性走高，对 sell put 策略较为有利；需关注反垄断审查风险以及成交前的消息面波动。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Nvidia",
-        "NVDA",
-        "Hugging Face",
-        "AI",
-        "acquisition",
-        "英伟达",
-        "并购"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
-      "published_date": "2026-08-27",
-      "still_developing": true,
-      "first_seen": "2026-08-30",
-      "is_new": false
-    },
-    {
-      "id": "35c375b179fc9ecd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-28T00:00:00Z",
-      "group": "大盘头条",
-      "title": "Warsh Jackson Hole讲话鹰派，9月加息概率升至57-59%",
-      "summary": "美联储理事Warsh在杰克逊霍尔年会上表示\"我们在通胀上还有更多工作要做\"，重申鹰派立场。市场对9月加息的押注从35%飙升至约57-59%（CME FedWatch）。2年期美债收益率单日上行12bp至4.356%，30年期升至5.211%；美元指数上涨0.4%。",
-      "why": "利率路径是影响整体估值和期权波动率的核心宏观变量；9月加息概率骤升将直接压低高PE科技股及港股。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Jackson Hole",
-        "Warsh",
-        "Fed",
-        "rate hike",
-        "9月加息",
-        "美债收益率",
-        "CME FedWatch"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/wall-street-piles-on-rate-hike-bets-as-warsh-renews-hawkish-tone",
-      "published_date": "2026-08-28",
-      "still_developing": false,
-      "first_seen": "2026-08-30",
-      "is_new": false
-    },
-    {
-      "id": "fc385e8735b31947",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "08/29",
-      "group": "大盘头条",
-      "title": "香港特区政府宣布成立促进股票市场流动性专责小组，唐家成任主席",
-      "summary": "香港特区政府8月29日公布成立专责小组，全面检视影响港股流动性的因素（含上市制度、市场结构、交易机制），并向行政长官提交短、中、长期改善建议。小组由唐家成担任主席，涵盖8位金融业代表及港证监、港交所等监管机构。",
-      "why": "港府主动出手专项提振市场流动性，属于政策面重要催化；对持有港股优质资产（腾讯、美团、小米等）的长线组合构成中期利好，有助改善买卖价差与整体成交。",
-      "source": "证券时报",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "流动性",
-        "香港",
-        "专责小组",
-        "唐家成",
-        "HKEX",
-        "市场改革"
-      ],
-      "translated": false,
-      "url": "https://www.stcn.com/article/detail/963788.html",
-      "published_date": "2026-08-29",
-      "still_developing": false,
-      "first_seen": "2026-08-30",
-      "is_new": false
-    },
-    {
-      "id": "bcb156e21fa66842",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "20:00",
-      "group": "个股",
-      "title": "美团Q2营收首破千亿达1046亿元(+14.4%)，调整后净利25.24亿元大增69%",
-      "summary": "美团2026年Q2营收1046.43亿元，同比增长14.4%，首次单季突破千亿；调整后净利润25.24亿元，同比增长69%。核心本地商业营收715亿元(+10.1%)，新业务营收331亿元(+25%)，亏损持续收窄。研发投入77亿元(+22.5%)。CEO王兴表示AI聚焦真实业务落地，拒绝成为纯粹的Token工厂。",
-      "why": "美团Q2业绩强劲，营收和利润均大幅超预期，即时零售韧性印证外卖+闪购增量逻辑；持仓covered call可待股价进一步回升后酌情操作；王兴AI策略务实表态为差异化估值逻辑加分。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "财报",
-        "Q2",
-        "即时零售",
-        "外卖"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipwhrr8999174.shtml",
-      "published_date": "2026-08-28",
-      "still_developing": true,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "03c096530a5534dd",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "两部门：将个人住房贷款最长期限由30年延长至40年，同步规定竣工备案后才可放贷",
-      "summary": "中国人民银行、国家金融监督管理总局8月28日联合发布《关于改革完善房地产信贷管理的意见》，将个人住房贷款期限由最长30年延至最长40年，以100万元贷款/3%利率测算月供可减少约640元。另规定预售项目须竣工备案后才能放贷，保障购房人权益；开发贷款期限延至最长5-7年。",
-      "why": "重大房地产信贷制度改革，降低月供刺激购房需求，已推动今日地产股大幅反弹；对消费回暖（美团、海底捞、携程等消费标的）有间接利好，中长期关注内需提振传导效应。延续报道：新政8月28日落地，市场持续消化政策影响。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "房地产政策",
-        "住房贷款",
-        "央行",
-        "金监局",
-        "40年房贷",
-        "房地产信贷",
-        "楼市新政"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-28/doc-inipwnxp9005397.shtml",
-      "published_date": "2026-08-28",
-      "still_developing": true,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "a458764c3fa84166",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US",
-        "A"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Oil Jumps 2% at Asia Open as US Military Strikes Iranian Rocket Launchers Near Strait of Hormuz",
-      "summary": "Brent crude surged above $90 a barrel in early Asia trading Monday after US forces struck Iranian rocket launchers preparing to mine the Strait of Hormuz on Sunday. The waterway — through which roughly one-fifth of global oil supply transits — has seen shipping effectively collapse since the conflict began in late February.",
-      "why": "中东地缘风险急剧升级：布伦特原油突破$90，推高全球通胀预期；霍尔木兹海峡封锁持续，能源板块受催化；叠加鹰派美联储形成stagflation风险，对科技成长类持仓估值构成双重压力；隐含波动率抬升有利于期权卖方收取更高权利金，但需关注整体市场方向风险。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "oil",
-        "Iran",
-        "Strait of Hormuz",
-        "geopolitical",
-        "crude",
-        "Brent",
-        "Middle East"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-30/latest-oil-market-news-and-analysis-for-aug-31",
-      "published_date": "2026-08-30",
-      "still_developing": false,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "ea92713a0d1c8adb",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "港股9月开门黑：恒指跌0.93%，科指挫1.49%，科网内房普跌",
-      "summary": "恒生指数9月1日收跌0.93%报25,307点，恒生科技指数挫1.49%；腾讯跌1.4%、阿里跌1.7%、美团跌0.7%、小米跌0.3%。美联储鹰派预期升温叠加美伊局势再度紧张，市场情绪受压。",
-      "why": "港股大盘走势影响全部持仓估值，科技板块普跌对腾讯/阿里/美团/小米形成直接压力；波动率上升有利于sell put策略，可关注近月隐含波动率变化。",
-      "source": "智通财经/dimsumdaily.hk",
-      "verified": true,
-      "keywords": [
-        "HK",
-        "恒生指数",
-        "科技股",
-        "港股"
-      ],
-      "translated": false,
-      "url": "https://www.dimsumdaily.hk/hang-seng-index-opens-lower-as-technology-shares-fall/",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "ee68dcd504777120",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "美伊冲突骤然升级推动油价三周最大涨幅，WTI升至86.57美元",
-      "summary": "美军袭击伊朗控制的拉拉克岛火箭发射装置，伊朗随即对阿联酋和约旦发动反击，特朗普威胁袭击伊朗主要出口枢纽哈尔克岛。WTI原油涨约2.8%至每桶86.57美元，布伦特升至91.28美元，均创三周最大单日涨幅。",
-      "why": "地缘冲突与油价飙升推升全球通胀预期，强化美联储鹰派立场，对高估值科技股及港股形成双重压制；能源成本上升也影响消费类持仓基本面。",
-      "source": "Reuters/新浪财经",
-      "verified": true,
-      "keywords": [
-        "油价",
-        "中东",
-        "美伊",
-        "WTI",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://fxdailyreport.com/wti-crude-oil-price-analysis-for-september-1-2026/",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "025de4ad0087fa19",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK"
       ],
       "time": "09:00",
       "group": "大盘头条",
-      "title": "Shein Hong Kong IPO Shares Slide on First Day of Trading; Raised $1.74B",
-      "summary": "Shein priced 280 million shares at HK$48.56 each, raising approximately HK$13.6 billion ($1.74 billion), valuing the company at ~$26.5 billion. Shares fell on the first day of trading as investors reacted cautiously to slowing revenue growth, rising competition, and a first-quarter net loss of $99 million.",
-      "why": "Hope港IPO市场冷热指标；Shein首日破发反映港股当前风险偏好较低，对高估值成长股（如泡泡玛特、蜜雪冰城）形成情绪压力。",
+      "title": "胡塞武装袭击沙特阿美设施，Brent原油触99.22美元/桶，油价9月涨幅逾8%",
+      "summary": "伊朗盟友胡塞武装对沙特阿美及多处炼厂发动无人机与弹道导弹攻击，沙特能源部宣布部分油田及贾赞400万桶/日炼厂暂停运营。Brent原油最高触及99.22美元/桶，WTI达94.60美元/桶，9月累计涨逾8%。",
+      "why": "油价逼近100美元直接推高通胀预期，美联储9月18-19日会议加息概率随之升至约60%；能源成本上行压缩消费/零售板块利润，港美股整体情绪承压；持有高估值科技/消费个股的 sell put 头寸需关注隐含波动率扩张风险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "Brent原油",
+        "沙特",
+        "胡塞武装",
+        "通胀",
+        "美联储",
+        "地缘政治"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "f5b7815a05a8109f",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:05",
+      "group": "大盘头条",
+      "title": "美联储9/18-19会议加息概率升至60%，特朗普全力施压Warsh暂缓",
+      "summary": "美联储内部鹰鸽分歧激化：上次会议9比3投票维持3.5%-3.75%利率不变，3位异见委员明确要求加息。最新数据显示，加息25bp概率已升至约60%；特朗普、副总统、财长等同步公开施压Fed主席Warsh暂缓行动。9月8日油价飙升进一步强化通胀上行预期。",
+      "why": "若9/18加息落地，港股/美股整体估值承压，高PE科技与消费股跌幅往往领先；卖出期权的隐含波动率在会议前一周通常走阔，是调整 sell put 行权价的时间窗口；应提前评估现有仓位的利率敏感度。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "加息",
+        "FOMC",
+        "利率",
+        "货币政策",
+        "Warsh",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+      "published_date": "2026-09-05",
+      "still_developing": true,
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "9c1040ae4466a0a9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:10",
+      "group": "大盘头条",
+      "title": "港股恒生指数9月8日连跌0.5%至25,283点，投资者待中国8月贸易数据",
+      "summary": "恒生指数9月8日下跌约0.5%收报25,283点，连续第二日走弱，主因油价飙升加剧通胀担忧，市场同时等待中国8月贸易数据以评估经济复苏节奏。",
+      "why": "恒指连跌两日，港股整体情绪偏弱；贸易数据若低于预期将进一步压制消费/出口相关个股；对持有港股 sell put 仓位而言，需关注行权价保护垫是否充足。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "贸易数据",
+        "中国经济",
+        "油价"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "4cb9fc7b774f594a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:20",
+      "group": "大盘头条",
+      "title": "月之暗面Moonshot AI机密申请港交所IPO，拟融资30-50亿美元，估值500亿美元",
+      "summary": "Kimi大模型母公司月之暗面已机密提交港股上市申请，计划于9月底前递交正式招股书，最快今年底或2027年Q1挂牌。此次IPO拟融资30-50亿美元，当前融资轮估值约500亿美元。花旗、高盛、德银、中金为联席保荐人，美国银行担任整体协调人。",
+      "why": "中国头部AI独角兽赴港IPO提振港股科技板块情绪，有利于恒生科技指数相关持仓；500亿美元估值创大模型赛道新高，可能带动市场重估同类型AI/互联网平台（腾讯、阿里、美团等）的AI价值；后续IPO进展将影响港股科技板块整体流动性。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "Shein",
-        "IPO",
-        "HK",
-        "港股"
+        "Moonshot AI",
+        "月之暗面",
+        "Kimi",
+        "港股IPO",
+        "AI",
+        "港交所",
+        "大模型"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-ipo-what-to-know-about-hong-kong-listing-valuation",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "first_seen": "2026-09-01",
-      "is_new": false
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
+      "published_date": "2026-09-04",
+      "still_developing": true,
+      "first_seen": "2026-09-09",
+      "is_new": true
     },
     {
-      "id": "c8a018b7ee10bec4",
-      "tier": 1,
-      "lang": "en",
+      "id": "654173f4c4c7f663",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "15:00",
+      "time": "09:25",
       "group": "个股",
-      "title": "Tesla Climbs 6% as Cybercab Robotaxi Launch Set for September 3 in Austin",
-      "summary": "Tesla shares rose nearly 6%, breaking above the 50-day moving average, as investors focused on the September 3 Cybercab launch event in Austin. The invite-only event will also be livestreamed; the two-seat, pedal-free vehicle relies on Tesla's AI4 computer and the company plans ~2,500 robotaxi deployments in 2026.",
-      "why": "Cybercab正式发布是TSLA今年最大催化剂，FSD商业化落地预期推升估值；若发布顺利，短期内TSLA隐含波动率可能冲高后回落，covered call获利机会值得关注。",
-      "source": "Motor1/Yahoo Finance",
-      "verified": false,
+      "title": "Circle (CRCL) 签约约4亿美元收购新加坡B2B支付平台Tazapay",
+      "summary": "Circle签署协议以约4亿美元股票对价收购新加坡跨境支付平台Tazapay，后者年化支付量逾250亿美元，约60%交易量已含稳定币。此次收购将为USDC增加60家银行/金融科技合作伙伴及逾100个市场的本地出金能力，交割预计2027年完成（需新加坡MAS批准）。",
+      "why": "Circle以股票收购Tazapay直接扩大USDC在亚太及新兴市场的支付基础设施，强化GENIUS Act实施后的护城河；收购消息落地，关注CRCL股价短期隐含波动率的影响——4亿美元股票对价意味着一定稀释压力，可评估是否适合 sell call 策略。",
+      "source": "CoinDesk",
+      "verified": true,
       "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "Tazapay",
+        "跨境支付",
+        "收购"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "33364cdbd2d83480",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "特斯拉Cybercab商业上路当日遭NHTSA审查，股价跌6%",
+      "summary": "特斯拉9月3日在奥斯汀启动首批Cybercab商业运营（约1000辆，无方向盘/踏板），NHTSA次日即宣布对Cybercab的FMVSS安全认证程序展开审查，质疑Tesla自我认证合规性。发布会CEO马斯克缺席，活动仅对小范围股东和网红保密举行，华尔街普遍认为「不达预期」，特斯拉股价单日跌6%至约352美元。",
+      "why": "NHTSA审查若升级为正式调查，可能推迟Cybercab大规模部署（原计划2026年铺开1万辆），对特斯拉FSD/Robotaxi估值逻辑直接构成压制；TSLA股价近期震荡，隐含波动率偏高，持有TSLA sell put需密切跟踪监管进展，调整行权价或及时平仓。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
         "Tesla",
         "TSLA",
         "Cybercab",
         "Robotaxi",
-        "FSD",
-        "自动驾驶"
+        "NHTSA",
+        "自动驾驶",
+        "FSD"
       ],
       "translated": false,
-      "url": "https://www.motor1.com/news/805874/tesla-cybercab-robotaxi-launch-austin/",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "e8dc7a0f526a131b",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-31",
-      "published_date": "2026-08-31",
-      "group": "大盘头条",
-      "title": "美伊军事冲突推高油价，美股8月31日收跌0.33%但月线累涨2.6%",
-      "summary": "美国对伊朗拉腊克岛（Larak Island）发动空袭，地缘风险推高油价，美股尾盘承压：标普500收跌0.33%至7,686.14点，道指跌374点，纳指跌0.12%。但8月整月标普累涨2.6%、纳指+3.9%、科技板块+6%以上。",
-      "why": "美伊军事冲突为当日最大宏观风险事件，同时油价飙升影响大盘与能源板块；月线收官数据为资产配置参考，符合大盘头条条件。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "美股",
-        "标普500",
-        "美伊冲突",
-        "油价",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
-      "still_developing": false,
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "03d2efe5fac92d35",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-08-27",
-      "published_date": "2026-08-27",
-      "group": "个股",
-      "title": "蜜雪冰城上半年净利润同比降14.7%至23.19亿元，上市以来首次盈利下滑",
-      "summary": "蜜雪冰城（2097.HK）2026年上半年营收152.16亿元（+2.3%），净利润23.19亿元（-14.7%），为上市以来首次盈利同比下滑。原因主要为原材料成本上涨及门店扩张费用增加。业绩公布后股价盘中跌近8%。",
-      "why": "蜜雪冰城盈利首次下滑属重大基本面事件，涉及持仓标的，直接影响估值重估。still_developing因业绩消化、分析师下调预期仍在进行中。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "蜜雪冰城",
-        "Mixue",
-        "2097.HK",
-        "现制茶饮",
-        "业绩",
-        "净利润"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipucsw0757264.shtml",
+      "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+      "published_date": "2026-09-04",
       "still_developing": true,
-      "first_seen": "2026-09-01",
-      "is_new": false
+      "first_seen": "2026-09-09",
+      "is_new": true
     },
     {
       "tier": 1,
@@ -1311,606 +933,62 @@
       "is_new": false
     },
     {
-      "id": "23581db44a0f16ba",
-      "tier": 2,
+      "id": "0231263d2500f82b",
+      "tier": 1,
       "lang": "en",
       "markets": [
-        "US",
-        "HK",
-        "A"
+        "US"
       ],
-      "time": "08:45",
+      "time": "08:30",
       "group": "大盘头条",
-      "title": "Gold Holds Above $4,600 as Global Markets Position Ahead of Warsh's Jackson Hole Keynote",
-      "summary": "Physical gold traded above $4,600/oz on Friday — near a three-month high — as markets braced for Fed Chair Warsh's inaugural Jackson Hole speech. Bond yields rose and the U.S. dollar drifted lower into the Fed policy moment. The 2026 Jackson Hole symposium theme is 'Financial Innovation: Implications for Payments and Policy,' running August 27–29.",
-      "why": "黄金维持在$4600以上高位直接利好老铺黄金（6181.HK）的产品需求和品牌溢价；同时杰克逊霍尔会议带来的宏观不确定性是隐含波动率上升的潜在驱动力，对持有sell put组合需格外关注。",
+      "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
+      "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
+      "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "gold",
-        "黄金",
-        "Jackson Hole",
-        "Fed",
-        "Warsh",
-        "老铺黄金",
-        "macro"
+        "jobs report",
+        "nonfarm payrolls",
+        "Treasury yield",
+        "Federal Reserve",
+        "US stocks",
+        "rate hike"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/live-blog/2026-08-28/fed-meeting-at-jackson-hole-and-warsh-speech-live-updates",
-      "published_date": "2026-08-28",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
+      "published_date": "2026-09-04",
       "still_developing": false,
-      "first_seen": "2026-08-29",
+      "first_seen": "2026-09-05",
       "is_new": false
     },
     {
-      "id": "ed1e6dce02bd22d8",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "China Industrial Profits Rose 17.6% in Jan–Jul 2026; July Alone Slows to +11.2%, a 7-Month Low",
-      "summary": "China's NBS data released August 27 showed industrial profits up 17.6% YoY for the first seven months of 2026 (total: RMB 4.58 trillion), but July standalone growth decelerated to 11.2% — the weakest monthly pace in seven months. Computer, communications and electronic equipment manufacturing surged 110%; high-tech manufacturing profits rose 50.1%.",
-      "why": "NBS官方数据显示中国工业利润增速放缓，7月单月创7个月新低，反映消费需求疲弱信号；科技制造业利润+110%对腾讯、阿里云、小米等科技持仓基本面中性偏正；数据支持政府后续维持宽松政策的预期，利于A股整体情绪。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "China",
-        "industrial profits",
-        "NBS",
-        "macro",
-        "宏观",
-        "A股",
-        "工业利润"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
-      "published_date": "2026-08-27",
-      "still_developing": false,
-      "first_seen": "2026-08-29",
-      "is_new": false
-    },
-    {
-      "id": "2c5643df7f9a8055",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "U.S. Treasury launches 'Operation Economic Outcast' against Iran, targeting crypto, gold, aviation",
-      "summary": "The U.S. Treasury sanctioned nearly 60 Iran-linked targets on August 24 in a campaign dubbed 'Operation Economic Outcast,' designating digital assets as a sanctionable sector under EO 13902 and adding crypto wallet addresses across Bitcoin, Ethereum, and Tron networks. Bitcoin surged past $80,000 on the news.",
-      "why": "稳定币/加密基础设施受地缘政策直接影响；Bitcoin超$80K有利于Circle（USDC流通量）；同时该制裁行动推升油价预期，间接影响通胀路径。延续报道：制裁实施和市场余震仍在持续。",
-      "source": "The Block",
-      "verified": true,
-      "keywords": [
-        "Iran",
-        "sanctions",
-        "crypto",
-        "Bitcoin",
-        "USDC",
-        "Circle",
-        "稳定币"
-      ],
-      "translated": false,
-      "url": "https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648",
-      "published_date": "2026-08-24",
-      "still_developing": true,
-      "first_seen": "2026-08-29",
-      "is_new": false
-    },
-    {
-      "id": "6705b5b49935fb81",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "14:30",
-      "group": "大盘头条",
-      "title": "Gold drops over 1% as Warsh's hawkish Jackson Hole remarks lift rate-hike bets",
-      "summary": "Gold fell more than 1% on Friday after Fed Chair Warsh's hawkish speech at Jackson Hole drove rate-hike expectations higher. Comex December gold fell as much as 3.2% to $4,515 per ounce, with spot gold at approximately $4,454, down 3.18% on the day.",
-      "why": "金价大跌直接利空老铺黄金（6181.HK）等黄金相关标的；加息预期上升同时令成长股估值承压，需评估相关持仓的sell put行权价保护空间。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "gold",
-        "金价",
-        "Warsh",
-        "Jackson Hole",
-        "rate hike",
-        "老铺黄金"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/28/gold-slips-as-fed-chief-warshs-jackson-hole-speech-looms.html",
-      "published_date": "2026-08-28",
-      "still_developing": false,
-      "first_seen": "2026-08-29",
-      "is_new": false
-    },
-    {
-      "id": "e051e4894345c5b9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "小米Q2 2026：营收1089亿，EV交付10.4万辆，AI研发投入占比近30%",
-      "summary": "小米2026年Q2营收1089亿元，调整后净利62亿元，毛利率19.8%。智能手机出货3120万部、ASP创历史新高1351元，高端机型占比32.1%；智能EV交付10.42万辆（同比+28.2%），SU7系列累计交付突破50万辆，SkyNomad SUV系列亮相；AIoT全球MAU 7.67亿、连网设备116亿台。研发投入92亿元（+18.9%），AI相关占近30%。",
-      "why": "EV交付量级稳步提升，ASP创高显示品牌力向上突破；AI硬件生态（AIoT+手机+车）协同效应渐显；1810.HK sell put 可持续关注，但研发高投入短期仍压制利润率扩张节奏。注：数据来自小米官方财报电话，未找到白名单媒体独立报道，verified:false。",
-      "source": "Investing.com/小米Q2 2026财报电话",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "SU7",
-        "YU7",
-        "EV",
-        "AIoT",
-        "Q2财报"
-      ],
-      "translated": false,
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-xiaomi-q2-2026-profit-holds-as-evs-and-ai-grow-93CH-4865241",
-      "published_date": "2026-08-26",
-      "still_developing": true,
-      "first_seen": "2026-08-30",
-      "is_new": false
-    },
-    {
-      "id": "bcfdd8c40987c222",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-28T00:00:00Z",
-      "group": "大盘头条",
-      "title": "CNBC：9月加息决策已成「五五开」，期货市场押注持续升温",
-      "summary": "CNBC报道，CME FedWatch显示9月FOMC会议加息概率升至57.5%，市场对全年再加息次数的预期亦随之上修。债券市场反应明显：短端收益率领涨，收益率曲线再度平坦化。",
-      "why": "为Bloomberg Warsh报道的补充核实源，强化9月加息为基准情景的判断，对sell put策略的行权价选择有参考价值。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Fed",
-        "rate hike",
-        "CME FedWatch",
-        "9月加息",
-        "September FOMC"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
-      "published_date": "2026-08-28",
-      "still_developing": false,
-      "first_seen": "2026-08-30",
-      "is_new": false
-    },
-    {
-      "id": "87b644a468498095",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-08-26T00:00:00Z",
-      "group": "个股",
-      "title": "小米发布三款自研玄戒芯片：旗舰SoC O3、AI加速器O100、自动驾驶芯片D100",
-      "summary": "小米（1810.HK）在8月24日新品发布会基础上披露更多芯片技术细节：玄戒O3为旗舰手机SoC（台积电3nm，240亿晶体管），将随小米18 Fold于9月发布；O100为AI推理加速芯片（1.22TB/s内存带宽）；D100为自动驾驶专用芯片，三款芯片覆盖手机/AI/汽车三大业务线。",
-      "why": "自研芯片三线布局标志小米从组装品牌向技术公司战略跃升，长期有助提升毛利率与供应链自主性；是中期持股逻辑的重要里程碑。8月24日发布会事件持续发酵中（still_developing）。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "玄戒",
-        "O3",
-        "O100",
-        "D100",
-        "自研芯片",
-        "小米18 Fold"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipqsye2253996.shtml",
-      "published_date": "2026-08-26",
-      "still_developing": true,
-      "first_seen": "2026-08-30",
-      "is_new": false
-    },
-    {
-      "id": "09b700ab5ab41523",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "08/28",
-      "group": "个股",
-      "title": "美团Q2 2026营收1046亿元同比增14.4%，净利润转正；Keeta沙特入驻22个月实现盈利",
-      "summary": "美团2026年第二季度营收人民币1046亿元（同比+14.4%），净利润由亏转盈。国际外卖品牌Keeta在香港持续盈利，2026年7月在沙特阿拉伯实现盈利（入驻仅22个月）。集团现金及等价物1683亿元；开源AI模型LongCat 2.0提升运营效率。",
-      "why": "美团Q2盈利超预期，净利润转正且Keeta海外快速盈利，对持有3690.HK的组合属明确正面催化；当前AI策略（LongCat）落地初显成效，支持中长期估值修复，可考虑在估值回调时布局 sell put。",
-      "source": "美团官方新闻稿",
-      "verified": true,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "Q2 2026",
-        "财报",
-        "外卖",
-        "Keeta",
-        "即时零售",
-        "沙特"
-      ],
-      "translated": false,
-      "url": "https://www.prnewswire.com/apac/news-releases/meituan-announces-2026-second-quarter-results-302849608.html",
-      "published_date": "2026-08-28",
-      "still_developing": false,
-      "first_seen": "2026-08-30",
-      "is_new": false
-    },
-    {
-      "id": "8abad25d65b58033",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "财新中国制造业PMI升至50.4重回扩张，官方PMI回升至49.8景气改善",
-      "summary": "8月31日，财新中国制造业PMI录得50.4，较7月回升0.6个百分点，重回荣枯线以上；官方国家统计局制造业PMI为49.8%，环比+0.6ppt，仍处收缩区间但大型企业PMI升至50.6%；综合PMI为49.5%。财新与官方数据均同步改善。",
-      "why": "制造业PMI双双回升，财新PMI重返扩张区间，为9月A股及港股蓝筹情绪提供正向支撑；外需仍有下滑压力，对出口导向标的影响需持续观察。",
-      "source": "财联社",
-      "verified": true,
-      "keywords": [
-        "PMI",
-        "制造业",
-        "财新",
-        "宏观",
-        "中国经济"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/1785579",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "646b778eface0e26",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "A股中报8月31日收官，早盘缩量震荡；恒指平开沪指低开，分析师看好9月估值修复",
-      "summary": "8月31日为A股上市公司中报披露截止日，早盘沪指半日成交约6253亿元，较前日小幅萎缩，缺乏增量资金；恒生指数平开，上证综指低开0.35%。分析师认为8月调整已充分释放风险，9月有望迎来估值修复与情绪回暖，AI硬件、通信设备、半导体设备为主要推荐方向。",
-      "why": "中报收官确认A股基本面分化，9月起进入业绩空窗期，市场重心转向估值驱动；AI半导体持续被推荐与英伟达超预期财报相互强化，科技消费板块中长期配置逻辑不变。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "中报",
-        "港股",
-        "恒生指数",
-        "9月",
-        "估值修复",
-        "市场"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-31/doc-iniqetnx9057121.shtml",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "52ede3e253c69ff4",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Shein prices Hong Kong IPO at HK$48.56/share, $26.5B valuation; shares to debut September 1",
-      "summary": "Fast-fashion giant Shein priced its long-awaited Hong Kong IPO at HK$48.56/share (near mid-range), raising ~HK$13.6B ($1.73B) at a $26.5B valuation — a sharp discount to its $100B peak in 2022 and $66B in 2023, reflecting rising costs and slowing growth after the US eliminated the de minimis exemption. Shares begin trading on the Hong Kong Stock Exchange on September 1.",
-      "why": "延续报道：希音明日(9/1)港股挂牌，IPO定价HK$48.56（8月27日彭博确认中位定价，8月31日完成最终定价）。跨境消费电商板块估值重估在即；Temu/拼多多出海策略在同类关税压力下的竞争格局演变值得关注。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "Shein",
-        "希音",
-        "港股",
-        "IPO",
-        "跨境电商",
-        "快时尚",
-        "港交所"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/shein-is-said-to-guide-hong-kong-ipo-price-to-middle-of-range",
-      "published_date": "2026-08-27",
-      "still_developing": true,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "c6fe0bd026e9ba87",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:45",
-      "group": "大盘头条",
-      "title": "A股三大指数周一集体低开：科技/贵金属领跌，房地产板块大幅高开（融创、碧桂园各涨逾14%）",
-      "summary": "上证指数低开0.65%，深成指低开1.35%，创业板指低开1.67%，超4000只个股下跌；贵金属、算力硬件、半导体等板块跌幅居前。受央行40年房贷新政提振，内房股大幅反弹，融创中国、碧桂园涨超14%，世茂集团涨超10%。港股恒生指数低开0.64%，美团涨超2%。",
-      "why": "科技与消费科技板块今日整体承压（受全球宏观紧缩预期拖累），持有腾讯、阿里、小米等港股标的的sell put策略需关注盘中波动率；地产政策利好对消费（餐饮、旅游）有间接提振，美团等标的盘中录得上涨。",
-      "source": "中新网",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "沪指",
-        "创业板",
-        "科技板块",
-        "房地产",
-        "地产股",
-        "港股",
-        "恒生指数"
-      ],
-      "translated": false,
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687107.shtml",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "c7cf894a5dc54198",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:30",
-      "group": "大盘头条",
-      "title": "Bitcoin slides below $78,000 as crypto markets digest Warsh's hawkish Jackson Hole remarks",
-      "summary": "Bitcoin dropped below $78,000 after Fed Chair Warsh's hawkish Jackson Hole speech reversed a rally that had briefly pushed BTC to a three-month high near $81,455. U.S. spot Bitcoin ETFs drew ~$924.5 million in the Aug 24-28 week (strongest month for inflows in 2026). Circle's USDC circulation grew by $1.8 billion over the past week, demonstrating resilient stablecoin demand despite market turbulence.",
-      "why": "加密市场受美联储鹰派信号直接打压，持有Circle(CRCL)需注意波动率上升背景下估值承压；USDC环流量持续增长（+18亿美元/周）显示稳定币基本面稳健，对Circle中长期没有实质损害，但短期可能随整体加密市场回调。延续报道：Warsh讲话后市场持续消化。",
-      "source": "CoinDesk",
-      "verified": true,
-      "keywords": [
-        "Bitcoin",
-        "crypto",
-        "USDC",
-        "Circle",
-        "CRCL",
-        "稳定币",
-        "加密市场",
-        "比特币"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
-      "published_date": "2026-08-28",
-      "still_developing": true,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "84d6524c07907a01",
-      "tier": 2,
+      "id": "b1c40777b4210ebd",
+      "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "18:00",
+      "time": "14:00",
       "group": "大盘头条",
-      "title": "S&P 500 Falls 0.3% on Warsh Hawkish Shock; US Futures Edge Lower Monday as Oil Spike Compounds Risk-Off Mood",
-      "summary": "S&P 500 closed -0.3% Friday following Fed Chair Warsh's hawkish Jackson Hole remarks, while the dollar posted its biggest monthly gain. US equity futures edged further lower Monday as oil jumped 2% on the Iran military strikes. The dual headwinds of higher-for-longer rates and geopolitically-driven oil prices raise stagflation fears and compound pressure on growth equities.",
-      "why": "双重风险同步升温（联储鹰派+地缘油价冲击）：成长股短线估值承压，港股科技面临美股调整传导；整体隐含波动率抬升有利于sell put收取更高权利金，但须检视持仓delta风险；美元升至月度高点对港股/人民币资产形成流动性压力。",
+      "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
+      "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
+      "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "S&P 500",
-        "stock market",
-        "futures",
-        "risk-off",
-        "stagflation",
-        "dollar",
-        "Dow Jones"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-30/stock-market-today-dow-s-p-live-updates",
-      "published_date": "2026-08-30",
-      "still_developing": false,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "2cb5a95bb2cefc09",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "百度正式完成港交所双重主要上市，9月1日起生效",
-      "summary": "百度（9888.HK）9月1日起从港股第二上市转为双重主要上市，不涉及新股发行或融资。股票简称中的\"S\"标记同步移除，百度港股与ADR继续可互换，预计纳入港股通资格有望扩大内地投资者参与度。",
-      "why": "百度完成主要上市后有望被纳入港股通，机构资金关注度提升；作为AI/互联网板块标志性事件，对腾讯/阿里/美团等同类港股估值有一定带动意义。",
-      "source": "TechNode/Baidu官方公告",
-      "verified": true,
-      "keywords": [
-        "百度",
-        "港股通",
-        "双重主要上市",
-        "HK"
-      ],
-      "translated": false,
-      "url": "https://technode.com/2026/09/01/baidu-dual-primary-listing-hong-kong-nasdaq/",
-      "published_date": "2026-09-01",
-      "still_developing": false,
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "e203e79c7e735c2b",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "Anthropic Signs $35 Billion Six-Year Cloud Deal With Nvidia-Backed Lambda",
-      "summary": "Anthropic agreed to a six-year, $35 billion cloud-computing deal with Lambda, a cloud provider backed by Nvidia. The deal covers ~350 MW of Nvidia GPU capacity at a data centre in Nueces County, Texas developed by Hut 8. Nvidia itself will hold the data-centre lease and Lambda will pay an undisclosed amount for access.",
-      "why": "对英伟达利多：超大规模算力需求持续兑现，强化NVDA数据中心收入可见度；也验证AI基础设施资本开支长期旺盛，有利于Palantir等AI平台公司的估值叙事。",
-      "source": "Bloomberg/Reuters",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI芯片",
-        "数据中心",
-        "Anthropic"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "ed2f6eef4e5ac892",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US",
-        "A"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "高通9月1日起芯片价格上调10-15%，安卓手机厂商成本面临上行压力",
-      "summary": "高通CEO克里斯蒂亚诺·阿蒙在7月29日财报电话会确认从9月1日起提价，高端旗舰芯片涨幅10-15%。原因是TSMC等代工厂封装/晶圆成本大幅上涨，高通将成本转嫁给OEM厂商；安卓手机售价或跟涨，消费者换机周期或延长。",
-      "why": "直接影响小米（1810.HK）的成本结构——小米手机高度依赖骁龙芯片；若无法转嫁价格，毛利率承压；若跟随涨价，出货量可能受压。短期内对小米形成不确定性，可适当调整sell put行权价。",
-      "source": "MacRumors/NotebookCheck",
-      "verified": false,
-      "keywords": [
-        "高通",
-        "Qualcomm",
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "芯片",
-        "semiconductor"
-      ],
-      "translated": false,
-      "url": "https://www.macrumors.com/2026/08/31/qualcomm-chip-price-increase/",
-      "published_date": "2026-08-31",
-      "still_developing": false,
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "a9dcdd46289e2330",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-29",
-      "published_date": "2026-08-29",
-      "group": "大盘头条",
-      "title": "美国8月非农就业9月4日公布，市场预期从7月-2.3万反弹至+5.5万",
-      "summary": "Bloomberg预览：8月非农就业人数预计新增约5.5万人，扭转7月意外萎缩2.3万的局面。该数据将于9月4日（周四）公布，是联储9月FOMC会议（9月16日）前最后一份重磅就业报告，市场认为强劲数据将支持沃什鹰派立场、弱化降息预期。",
-      "why": "非农前瞻为下周最重要宏观事件预警，影响美股波动率及期权定价，与sell put策略直接相关。still_developing因数据尚未发布，仍在持续发酵阶段。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "非农就业",
-        "美联储",
-        "宏观",
-        "就业报告",
+        "Federal Reserve",
         "FOMC",
-        "利率"
+        "interest rate hike",
+        "CPI",
+        "inflation",
+        "monetary policy"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-29/us-jobs-report-seen-backing-warsh-view-of-labor-market",
-      "still_developing": true,
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "ecffeac008297a79",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-08-31",
-      "published_date": "2026-08-31",
-      "group": "个股",
-      "title": "特斯拉8月31日涨5.51%至$367.95，Cybercab将于9月3日在奥斯汀正式发布",
-      "summary": "TSLA当日收涨5.51%报$367.95，为当日美股涨幅最大蓝筹之一。催化剂：Cybercab（Robotaxi）定于9月3日（周三）在德州奥斯汀举行正式发布活动，市场预期FSD商业化进程将加速。",
-      "why": "Cybercab发布为近期TSLA最重要催化剂，直接关系Robotaxi商业化时间表与估值重估逻辑。持仓标的，波动率事件需跟踪。",
-      "source": "moomoo",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "TSLA",
-        "Robotaxi",
-        "Cybercab",
-        "FSD",
-        "自动驾驶"
-      ],
-      "translated": false,
-      "url": "https://www.moomoo.com/news/post/75081326/us-stock-market-movements-tesla-tslaus-rises-over-5-cybercab",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
+      "published_date": "2026-09-04",
       "still_developing": false,
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "03b7333dcc3fdcfa",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-08-28",
-      "published_date": "2026-08-28",
-      "group": "个股",
-      "title": "腾讯8月28日回购266万股耗资约10亿港元",
-      "summary": "腾讯（0700.HK）于2026年8月28日在港交所回购266万股，成交价区间372.4-383港元，合计耗资约10亿港元。",
-      "why": "腾讯单日大额回购（~10亿港元）为持续护盘信号，结合sell put策略需关注回购支撑价格区间（372-383港元为当日买入区间）。verified=true因回购为HKEXnews强制披露事项，财联社报道与交易所数据一致。still_developing因回购计划仍在持续执行中。",
-      "source": "财联社",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "回购",
-        "港股"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/1779848",
-      "still_developing": true,
-      "first_seen": "2026-09-01",
+      "first_seen": "2026-09-05",
       "is_new": false
     },
     {
@@ -2413,32 +1491,31 @@
       "is_new": false
     },
     {
-      "id": "aa4050a2f9f9dddf",
-      "tier": 3,
-      "lang": "en",
+      "id": "59dcf3e249da2a0f",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
-        "HK"
+        "A"
       ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "Tencent (00700) repurchased 670,000 shares for HK$301 million on August 27",
-      "summary": "Tencent Holdings (0700.HK) bought back 670,000 shares for approximately HK$301 million on August 27, 2026, per HKEX filing. The company has repurchased 40.1 million shares under the current authorization allowing up to 911.8 million shares.",
-      "why": "腾讯持续每日回购（约HK$3亿/次）是底部支撑信号，累计回购4010万股；对持有0700.HK的sell put仓位有价格支撑作用，但属常规操作，仅供参考。",
-      "source": "富途牛牛",
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
+      "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
+      "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "回购",
-        "buyback",
-        "HKEX"
+        "A股",
+        "科创50",
+        "厄尔尼诺",
+        "猪肉股",
+        "科技板块"
       ],
       "translated": false,
-      "url": "https://www.moomoo.com/news/post/75372196/tencent-00700-repurchased-670000-shares-for-hk-301-million-on",
-      "published_date": "2026-08-27",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
+      "published_date": "2026-09-04",
       "still_developing": false,
-      "first_seen": "2026-08-29",
+      "first_seen": "2026-09-05",
       "is_new": false
     },
     {
