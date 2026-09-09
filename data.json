@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-09 08:16 (北京时间)",
+  "updated_at": "2026-09-09 13:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,191 +9,161 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-09 08:16 (北京时间)",
-    "new_count": 6,
+    "at": "2026-09-09 13:20 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "490544dbcf9577f1",
+      "id": "67c23ee03a15bc51",
       "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "胡塞武装袭击沙特阿美设施，Brent原油触99.22美元/桶，油价9月涨幅逾8%",
-      "summary": "伊朗盟友胡塞武装对沙特阿美及多处炼厂发动无人机与弹道导弹攻击，沙特能源部宣布部分油田及贾赞400万桶/日炼厂暂停运营。Brent原油最高触及99.22美元/桶，WTI达94.60美元/桶，9月累计涨逾8%。",
-      "why": "油价逼近100美元直接推高通胀预期，美联储9月18-19日会议加息概率随之升至约60%；能源成本上行压缩消费/零售板块利润，港美股整体情绪承压；持有高估值科技/消费个股的 sell put 头寸需关注隐含波动率扩张风险。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "油价",
-        "Brent原油",
-        "沙特",
-        "胡塞武装",
-        "通胀",
-        "美联储",
-        "地缘政治"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
-      "published_date": "2026-09-08",
-      "still_developing": false,
-      "first_seen": "2026-09-09",
-      "is_new": true
-    },
-    {
-      "id": "f5b7815a05a8109f",
-      "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "09:05",
+      "time": "16:00",
       "group": "大盘头条",
-      "title": "美联储9/18-19会议加息概率升至60%，特朗普全力施压Warsh暂缓",
-      "summary": "美联储内部鹰鸽分歧激化：上次会议9比3投票维持3.5%-3.75%利率不变，3位异见委员明确要求加息。最新数据显示，加息25bp概率已升至约60%；特朗普、副总统、财长等同步公开施压Fed主席Warsh暂缓行动。9月8日油价飙升进一步强化通胀上行预期。",
-      "why": "若9/18加息落地，港股/美股整体估值承压，高PE科技与消费股跌幅往往领先；卖出期权的隐含波动率在会议前一周通常走阔，是调整 sell put 行权价的时间窗口；应提前评估现有仓位的利率敏感度。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "加息",
-        "FOMC",
-        "利率",
-        "货币政策",
-        "Warsh",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-      "published_date": "2026-09-05",
-      "still_developing": true,
-      "first_seen": "2026-09-09",
-      "is_new": true
-    },
-    {
-      "id": "9c1040ae4466a0a9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:10",
-      "group": "大盘头条",
-      "title": "港股恒生指数9月8日连跌0.5%至25,283点，投资者待中国8月贸易数据",
-      "summary": "恒生指数9月8日下跌约0.5%收报25,283点，连续第二日走弱，主因油价飙升加剧通胀担忧，市场同时等待中国8月贸易数据以评估经济复苏节奏。",
-      "why": "恒指连跌两日，港股整体情绪偏弱；贸易数据若低于预期将进一步压制消费/出口相关个股；对持有港股 sell put 仓位而言，需关注行权价保护垫是否充足。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "贸易数据",
-        "中国经济",
-        "油价"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
-      "published_date": "2026-09-08",
-      "still_developing": false,
-      "first_seen": "2026-09-09",
-      "is_new": true
-    },
-    {
-      "id": "4cb9fc7b774f594a",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:20",
-      "group": "大盘头条",
-      "title": "月之暗面Moonshot AI机密申请港交所IPO，拟融资30-50亿美元，估值500亿美元",
-      "summary": "Kimi大模型母公司月之暗面已机密提交港股上市申请，计划于9月底前递交正式招股书，最快今年底或2027年Q1挂牌。此次IPO拟融资30-50亿美元，当前融资轮估值约500亿美元。花旗、高盛、德银、中金为联席保荐人，美国银行担任整体协调人。",
-      "why": "中国头部AI独角兽赴港IPO提振港股科技板块情绪，有利于恒生科技指数相关持仓；500亿美元估值创大模型赛道新高，可能带动市场重估同类型AI/互联网平台（腾讯、阿里、美团等）的AI价值；后续IPO进展将影响港股科技板块整体流动性。",
+      "title": "Dow tumbles 628 pts as Middle East oil surge, US-Canada trade war, and Fed fears hit markets",
+      "summary": "Dow Jones fell 628.18 pts (-1.18%) to 52,786.07, S&P 500 -0.58% to 7,673.52, Nasdaq -0.32% to 26,421.41 on Sept 8. Triple headwinds: Houthi strikes on Saudi energy sent oil near $100; Canada's $27.6B retaliatory tariffs took effect; CPI data due later this week keeps Fed rate-hike bets elevated.",
+      "why": "美股三杀——中东地缘冲击、美加贸易战升级、美联储加息预期共振，港股次日开盘承压风险显著；持有期权的标的注意波动率走高。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "Moonshot AI",
-        "月之暗面",
-        "Kimi",
-        "港股IPO",
-        "AI",
-        "港交所",
-        "大模型"
+        "宏观",
+        "macro",
+        "美股",
+        "US market",
+        "道琼斯"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
-      "published_date": "2026-09-04",
-      "still_developing": true,
-      "first_seen": "2026-09-09",
-      "is_new": true
-    },
-    {
-      "id": "654173f4c4c7f663",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "09:25",
-      "group": "个股",
-      "title": "Circle (CRCL) 签约约4亿美元收购新加坡B2B支付平台Tazapay",
-      "summary": "Circle签署协议以约4亿美元股票对价收购新加坡跨境支付平台Tazapay，后者年化支付量逾250亿美元，约60%交易量已含稳定币。此次收购将为USDC增加60家银行/金融科技合作伙伴及逾100个市场的本地出金能力，交割预计2027年完成（需新加坡MAS批准）。",
-      "why": "Circle以股票收购Tazapay直接扩大USDC在亚太及新兴市场的支付基础设施，强化GENIUS Act实施后的护城河；收购消息落地，关注CRCL股价短期隐含波动率的影响——4亿美元股票对价意味着一定稀释压力，可评估是否适合 sell call 策略。",
-      "source": "CoinDesk",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "Tazapay",
-        "跨境支付",
-        "收购"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/stock-market-today-dow-s-p-live-updates",
       "published_date": "2026-09-08",
       "still_developing": false,
       "first_seen": "2026-09-09",
       "is_new": true
     },
     {
-      "id": "33364cdbd2d83480",
+      "id": "17af138b904101ca",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "China August exports surge 25%, trade surplus hits record $119.09B ahead of Xi-Trump summit",
+      "summary": "China August exports grew 25% YoY (vs. 23.9% in July), driven by autos and high-tech goods. Trade surplus widened to a record $119.09B from $112.5B in July. Exports to the US rose 34.4% YoY; bilateral US-China surplus hit $29.2B. Imports up 28.2% (slightly below 30% estimate). Data comes ahead of an expected Xi-Trump meeting in late September.",
+      "why": "出口持续强劲印证中国制造业韧性，港股出口链及制造业相关标的受益；中美双边顺差扩大或增加谈判筹码，美中关系博弈依然是港股核心变量；持仓消费与互联网股受贸易摩擦间接影响需持续关注。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro",
+        "A股",
+        "HK",
+        "中国出口",
+        "贸易顺差"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "cd4308dc658327fe",
       "tier": 2,
-      "lang": "zh",
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Memory stocks buck market selloff: Micron +6%, SanDisk +12%, SK Hynix +8% on Goldman note and AI demand",
+      "summary": "On a broad market down day (Sept 8), AI memory stocks surged. Goldman Sachs flagged improving technicals; Dell's $95B AI server backlog confirmed insatiable DRAM/NAND demand. Micron's capacity reportedly fully allocated through end-2026. UBS raised HBM price growth forecast to 79% annually. Lynx Equity set PT $1,325 for Micron, $2,450 for SanDisk.",
+      "why": "内存供给吃紧持续，AI服务器需求过剩——对持仓SK海力士(南方两倍做多)、美光、闪迪直接利好；HBM定价上行对做空波动率策略中的covered call提供更高premium空间。",
+      "source": "Yahoo Finance / Goldman Sachs",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "美光",
+        "Micron",
+        "SanDisk",
+        "SNDK",
+        "HBM",
+        "DRAM",
+        "AI芯片",
+        "存储芯片"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/technology/articles/micron-sandisk-lead-memory-chip-174447419.html",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "6330b15d9d25f3b5",
+      "tier": 2,
+      "lang": "en",
       "markets": [
         "US"
       ],
       "time": "09:30",
       "group": "个股",
-      "title": "特斯拉Cybercab商业上路当日遭NHTSA审查，股价跌6%",
-      "summary": "特斯拉9月3日在奥斯汀启动首批Cybercab商业运营（约1000辆，无方向盘/踏板），NHTSA次日即宣布对Cybercab的FMVSS安全认证程序展开审查，质疑Tesla自我认证合规性。发布会CEO马斯克缺席，活动仅对小范围股东和网红保密举行，华尔街普遍认为「不达预期」，特斯拉股价单日跌6%至约352美元。",
-      "why": "NHTSA审查若升级为正式调查，可能推迟Cybercab大规模部署（原计划2026年铺开1万辆），对特斯拉FSD/Robotaxi估值逻辑直接构成压制；TSLA股价近期震荡，隐含波动率偏高，持有TSLA sell put需密切跟踪监管进展，调整行权价或及时平仓。",
-      "source": "CNBC",
-      "verified": true,
+      "title": "Intel jumps >10% on Northland upgrade ($120 PT), $20B equity raise, CPU price hike, and Terafab foundry upside",
+      "summary": "Intel shares rose >10% on Sept 8, bucking the broad market sell-off. Northland Securities upgraded to Outperform ($120 target), citing Terafab foundry partnership with SpaceX/Tesla as a scale driver. Intel announced a $20B common stock offering at $95/share to fund capex. DigiTimes reported CPU prices could rise ~10% in early October. High-NA EUV milestone also announced with ASML.",
+      "why": "英特尔晶圆代工反转叙事持续强化，Terafab若落地将为持续亏损的Foundry业务提供规模化支撑；短期关注$20B股权摊薄影响；持有INTC相关期权的注意隐含波动率变化。",
+      "source": "CNBC / Benzinga / Motley Fool",
+      "verified": false,
       "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Cybercab",
-        "Robotaxi",
-        "NHTSA",
-        "自动驾驶",
-        "FSD"
+        "英特尔",
+        "Intel",
+        "INTC",
+        "foundry",
+        "晶圆代工",
+        "CPU",
+        "Terafab",
+        "18A"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
-      "published_date": "2026-09-04",
-      "still_developing": true,
+      "url": "https://www.cnbc.com/video/2026/09/08/tuesday-september-8-2026-cramer.html",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "a0f9828a06b022be",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "Palantir names Nebius preferred sovereign AI infrastructure partner; integrates compute inside AIP enterprise perimeter",
+      "summary": "Palantir and Nebius announced a strategic partnership on Sept 8: Palantir designates Nebius its preferred sovereign AI infrastructure partner, integrating Nebius's GPU compute and inference endpoints inside the Palantir enterprise perimeter. Partnership targets enterprise clients demanding data sovereignty over hyperscalers. Nebius stock (NBIS) jumped on the announcement.",
+      "why": "Palantir持续扩大AI生态圈，Sovereign AI叙事再强化；对AIP平台高续费率预期有支撑；PLTR已连续大幅上涨，关注9月18日前后期权到期仓位是否过于拥挤，注意平仓风险。",
+      "source": "Nebius Newsroom / SEC 6-K",
+      "verified": true,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "AI",
+        "sovereign AI",
+        "AIP",
+        "Foundry",
+        "AI平台"
+      ],
+      "translated": false,
+      "url": "https://nebius.com/newsroom/palantir-and-nebius-partner-to-deliver-a-complete-sovereign-ai-stack-to-palantir-customers",
+      "published_date": "2026-09-08",
+      "still_developing": false,
       "first_seen": "2026-09-09",
       "is_new": true
     },
@@ -992,6 +962,69 @@
       "is_new": false
     },
     {
+      "id": "490544dbcf9577f1",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "胡塞武装袭击沙特阿美设施，Brent原油触99.22美元/桶，油价9月涨幅逾8%",
+      "summary": "伊朗盟友胡塞武装对沙特阿美及多处炼厂发动无人机与弹道导弹攻击，沙特能源部宣布部分油田及贾赞400万桶/日炼厂暂停运营。Brent原油最高触及99.22美元/桶，WTI达94.60美元/桶，9月累计涨逾8%。",
+      "why": "油价逼近100美元直接推高通胀预期，美联储9月18-19日会议加息概率随之升至约60%；能源成本上行压缩消费/零售板块利润，港美股整体情绪承压；持有高估值科技/消费个股的 sell put 头寸需关注隐含波动率扩张风险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "Brent原油",
+        "沙特",
+        "胡塞武装",
+        "通胀",
+        "美联储",
+        "地缘政治"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "f5b7815a05a8109f",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:05",
+      "group": "大盘头条",
+      "title": "美联储9/18-19会议加息概率升至60%，特朗普全力施压Warsh暂缓",
+      "summary": "美联储内部鹰鸽分歧激化：上次会议9比3投票维持3.5%-3.75%利率不变，3位异见委员明确要求加息。最新数据显示，加息25bp概率已升至约60%；特朗普、副总统、财长等同步公开施压Fed主席Warsh暂缓行动。9月8日油价飙升进一步强化通胀上行预期。",
+      "why": "若9/18加息落地，港股/美股整体估值承压，高PE科技与消费股跌幅往往领先；卖出期权的隐含波动率在会议前一周通常走阔，是调整 sell put 行权价的时间窗口；应提前评估现有仓位的利率敏感度。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "加息",
+        "FOMC",
+        "利率",
+        "货币政策",
+        "Warsh",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+      "published_date": "2026-09-05",
+      "still_developing": true,
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
       "tier": 2,
       "lang": "zh",
       "markets": [
@@ -1516,6 +1549,125 @@
       "published_date": "2026-09-04",
       "still_developing": false,
       "first_seen": "2026-09-05",
+      "is_new": false
+    },
+    {
+      "id": "9c1040ae4466a0a9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:10",
+      "group": "大盘头条",
+      "title": "港股恒生指数9月8日连跌0.5%至25,283点，投资者待中国8月贸易数据",
+      "summary": "恒生指数9月8日下跌约0.5%收报25,283点，连续第二日走弱，主因油价飙升加剧通胀担忧，市场同时等待中国8月贸易数据以评估经济复苏节奏。",
+      "why": "恒指连跌两日，港股整体情绪偏弱；贸易数据若低于预期将进一步压制消费/出口相关个股；对持有港股 sell put 仓位而言，需关注行权价保护垫是否充足。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "贸易数据",
+        "中国经济",
+        "油价"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "4cb9fc7b774f594a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:20",
+      "group": "大盘头条",
+      "title": "月之暗面Moonshot AI机密申请港交所IPO，拟融资30-50亿美元，估值500亿美元",
+      "summary": "Kimi大模型母公司月之暗面已机密提交港股上市申请，计划于9月底前递交正式招股书，最快今年底或2027年Q1挂牌。此次IPO拟融资30-50亿美元，当前融资轮估值约500亿美元。花旗、高盛、德银、中金为联席保荐人，美国银行担任整体协调人。",
+      "why": "中国头部AI独角兽赴港IPO提振港股科技板块情绪，有利于恒生科技指数相关持仓；500亿美元估值创大模型赛道新高，可能带动市场重估同类型AI/互联网平台（腾讯、阿里、美团等）的AI价值；后续IPO进展将影响港股科技板块整体流动性。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Moonshot AI",
+        "月之暗面",
+        "Kimi",
+        "港股IPO",
+        "AI",
+        "港交所",
+        "大模型"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
+      "published_date": "2026-09-04",
+      "still_developing": true,
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "654173f4c4c7f663",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:25",
+      "group": "个股",
+      "title": "Circle (CRCL) 签约约4亿美元收购新加坡B2B支付平台Tazapay",
+      "summary": "Circle签署协议以约4亿美元股票对价收购新加坡跨境支付平台Tazapay，后者年化支付量逾250亿美元，约60%交易量已含稳定币。此次收购将为USDC增加60家银行/金融科技合作伙伴及逾100个市场的本地出金能力，交割预计2027年完成（需新加坡MAS批准）。",
+      "why": "Circle以股票收购Tazapay直接扩大USDC在亚太及新兴市场的支付基础设施，强化GENIUS Act实施后的护城河；收购消息落地，关注CRCL股价短期隐含波动率的影响——4亿美元股票对价意味着一定稀释压力，可评估是否适合 sell call 策略。",
+      "source": "CoinDesk",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "Tazapay",
+        "跨境支付",
+        "收购"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "33364cdbd2d83480",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "特斯拉Cybercab商业上路当日遭NHTSA审查，股价跌6%",
+      "summary": "特斯拉9月3日在奥斯汀启动首批Cybercab商业运营（约1000辆，无方向盘/踏板），NHTSA次日即宣布对Cybercab的FMVSS安全认证程序展开审查，质疑Tesla自我认证合规性。发布会CEO马斯克缺席，活动仅对小范围股东和网红保密举行，华尔街普遍认为「不达预期」，特斯拉股价单日跌6%至约352美元。",
+      "why": "NHTSA审查若升级为正式调查，可能推迟Cybercab大规模部署（原计划2026年铺开1万辆），对特斯拉FSD/Robotaxi估值逻辑直接构成压制；TSLA股价近期震荡，隐含波动率偏高，持有TSLA sell put需密切跟踪监管进展，调整行权价或及时平仓。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Cybercab",
+        "Robotaxi",
+        "NHTSA",
+        "自动驾驶",
+        "FSD"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+      "published_date": "2026-09-04",
+      "still_developing": true,
+      "first_seen": "2026-09-09",
       "is_new": false
     },
     {
