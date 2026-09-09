@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-09 08:16 (北京时间)",
+  "updated_at": "2026-09-09 18:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,191 +9,261 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-09 08:16 (北京时间)",
-    "new_count": 6,
+    "at": "2026-09-09 18:20 (北京时间)",
+    "new_count": 9,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "490544dbcf9577f1",
+      "id": "7f3a712a2e2071dc",
       "tier": 1,
-      "lang": "zh",
+      "group": "大盘头条",
+      "title": "华为发布麒麟9050 Pro：全球首款「韬定律」逻辑折叠架构旗舰芯片",
+      "summary": "华为正式推出麒麟9050 Pro，采用全球首款基于「韬定律」逻辑折叠架构的旗舰移动SoC，集成5G+工业互联网基带，CPU/GPU性能较上代大幅提升，预计率先搭载于Mate 80系列。",
+      "why": "旗舰芯片自研突破直接影响华为手机竞争力与供应链生态，关联A股半导体赛道（国产芯片/设备）及港股科技板块情绪，与组合中小米(1810.HK)、SK海力士存储需求方向形成对照。",
+      "source": "财联社",
+      "url": "https://m.cls.cn/detail/2475777",
+      "published_date": "2026-09-07",
       "markets": [
-        "US",
         "HK",
         "A"
       ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "胡塞武装袭击沙特阿美设施，Brent原油触99.22美元/桶，油价9月涨幅逾8%",
-      "summary": "伊朗盟友胡塞武装对沙特阿美及多处炼厂发动无人机与弹道导弹攻击，沙特能源部宣布部分油田及贾赞400万桶/日炼厂暂停运营。Brent原油最高触及99.22美元/桶，WTI达94.60美元/桶，9月累计涨逾8%。",
-      "why": "油价逼近100美元直接推高通胀预期，美联储9月18-19日会议加息概率随之升至约60%；能源成本上行压缩消费/零售板块利润，港美股整体情绪承压；持有高估值科技/消费个股的 sell put 头寸需关注隐含波动率扩张风险。",
-      "source": "CNBC",
-      "verified": true,
       "keywords": [
-        "油价",
-        "Brent原油",
-        "沙特",
-        "胡塞武装",
-        "通胀",
-        "美联储",
-        "地缘政治"
+        "华为",
+        "麒麟",
+        "半导体",
+        "AI芯片",
+        "科技"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
-      "published_date": "2026-09-08",
-      "still_developing": false,
-      "first_seen": "2026-09-09",
-      "is_new": true
-    },
-    {
-      "id": "f5b7815a05a8109f",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:05",
-      "group": "大盘头条",
-      "title": "美联储9/18-19会议加息概率升至60%，特朗普全力施压Warsh暂缓",
-      "summary": "美联储内部鹰鸽分歧激化：上次会议9比3投票维持3.5%-3.75%利率不变，3位异见委员明确要求加息。最新数据显示，加息25bp概率已升至约60%；特朗普、副总统、财长等同步公开施压Fed主席Warsh暂缓行动。9月8日油价飙升进一步强化通胀上行预期。",
-      "why": "若9/18加息落地，港股/美股整体估值承压，高PE科技与消费股跌幅往往领先；卖出期权的隐含波动率在会议前一周通常走阔，是调整 sell put 行权价的时间窗口；应提前评估现有仓位的利率敏感度。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "加息",
-        "FOMC",
-        "利率",
-        "货币政策",
-        "Warsh",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-      "published_date": "2026-09-05",
-      "still_developing": true,
-      "first_seen": "2026-09-09",
-      "is_new": true
-    },
-    {
-      "id": "9c1040ae4466a0a9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:10",
-      "group": "大盘头条",
-      "title": "港股恒生指数9月8日连跌0.5%至25,283点，投资者待中国8月贸易数据",
-      "summary": "恒生指数9月8日下跌约0.5%收报25,283点，连续第二日走弱，主因油价飙升加剧通胀担忧，市场同时等待中国8月贸易数据以评估经济复苏节奏。",
-      "why": "恒指连跌两日，港股整体情绪偏弱；贸易数据若低于预期将进一步压制消费/出口相关个股；对持有港股 sell put 仓位而言，需关注行权价保护垫是否充足。",
-      "source": "CNBC",
       "verified": false,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "贸易数据",
-        "中国经济",
-        "油价"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
-      "published_date": "2026-09-08",
-      "still_developing": false,
+      "lang": "zh",
+      "time": "18:20",
       "first_seen": "2026-09-09",
       "is_new": true
     },
     {
-      "id": "4cb9fc7b774f594a",
-      "tier": 2,
+      "id": "eda78226e323140a",
+      "tier": 1,
+      "group": "大盘头条",
+      "title": "财政部拟注资国有银行逾3000亿元；央行单日逆回购5000亿维稳资金面",
+      "summary": "财政部计划向六大国有银行注入超3000亿元资本金以补充核心一级资本，同步释放信贷空间；中国人民银行当日开展5000亿元7天期逆回购操作，维护季末流动性平稳。",
+      "why": "超大规模财政注资信号正向，直接提振银行板块估值；逆回购呵护流动性有助于稳定大盘情绪，与港股及A股整体走势高度相关。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2475332",
+      "published_date": "2026-09-07",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "keywords": [
+        "财政政策",
+        "货币政策",
+        "央行",
+        "银行",
+        "宏观"
+      ],
+      "translated": false,
+      "verified": false,
       "lang": "zh",
+      "time": "18:20",
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "a1897daa21383199",
+      "tier": 2,
+      "group": "大盘头条",
+      "title": "工信部发布「十五五」信息通信业发展规划：5G+工业互联网列为核心方向",
+      "summary": "工业和信息化部正式印发「十五五」（2026-2030）信息通信业发展规划，将5G-A/6G研发、工业互联网、算力网络列为重点建设方向，并对半导体自给率、云计算等设定量化目标。",
+      "why": "五年规划明确政策方向，利好国内通信设备、芯片、云计算赛道；与组合中腾讯云、阿里云等方向形成政策加持，同时为半导体自主化主题提供中期逻辑。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2475823",
+      "published_date": "2026-09-07",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "keywords": [
+        "工信部",
+        "5G",
+        "半导体",
+        "科技",
+        "宏观"
+      ],
+      "translated": false,
+      "verified": false,
+      "lang": "zh",
+      "time": "18:20",
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "9147673a4397f28d",
+      "tier": 2,
+      "group": "大盘头条",
+      "title": "江波龙港股首日破发：A+H两地上市定价争议引发市场关注",
+      "summary": "存储芯片企业江波龙电子（H股）于港交所挂牌首日收盘价较发行价下跌逾10%，市场对其A+H两地上市定价分歧及国产存储赛道估值溢价展开讨论。",
+      "why": "国产存储龙头A+H上市定价失利，短期拖累港股存储/芯片板块情绪，与组合中SK海力士、美光等存储标的间接相关；也反映跨市场套利资金对港股溢价的定价分歧。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2476361",
+      "published_date": "2026-09-08",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "keywords": [
+        "江波龙",
+        "存储芯片",
+        "港股IPO",
+        "半导体",
+        "科技"
+      ],
+      "translated": false,
+      "verified": false,
+      "lang": "zh",
+      "time": "18:20",
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "afea14ccd4fa5ad0",
+      "tier": 2,
+      "group": "个股",
+      "title": "Kioxia拒绝SK Hynix深度绑定提议，承诺独立控制闪存产能",
+      "summary": "Bloomberg报道，日本闪存厂商Kioxia已正式拒绝SK Hynix提出的深度产能绑定合作框架，强调将维持独立经营并自主管控NAND Flash产能定价，以避免对单一客户过度依赖。",
+      "why": "直接涉及组合标的SK海力士(000660/7709.HK)的供应链战略；Kioxia独立产能可能加剧NAND供给竞争，对存储价格走势和SK Hynix利润率形成压力，也影响美光(MU)、闪迪(SNDK)等存储标的竞争格局。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/kioxia-dismisses-sk-hynix-tie-up-vows-to-ease-chip-price-rises",
+      "published_date": "2026-09-09",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "Kioxia",
+        "NAND",
+        "闪迪",
+        "美光",
+        "存储芯片"
+      ],
+      "translated": true,
+      "verified": false,
+      "lang": "zh",
+      "time": "18:20",
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "10e728f0d00699cf",
+      "tier": 2,
+      "group": "个股",
+      "title": "现货黄金突破3650美元/盎司阶段新高，老铺黄金(6181.HK)受益",
+      "summary": "受美联储降息预期升温及全球避险需求共同驱动，现货黄金价格于亚市盘中突破3650美元/盎司，创近阶段新高；国内金价同步走高，黄金珠宝零售商估值逻辑受到正向催化。",
+      "why": "金价上行直接利好组合标的老铺黄金(6181.HK)，其业绩与金价高度正相关；同时强化持有黄金相关股票的估值逻辑，适合评估 Sell Put 时机。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15074415.html",
+      "published_date": "2026-09-09",
       "markets": [
         "HK"
       ],
-      "time": "09:20",
-      "group": "大盘头条",
-      "title": "月之暗面Moonshot AI机密申请港交所IPO，拟融资30-50亿美元，估值500亿美元",
-      "summary": "Kimi大模型母公司月之暗面已机密提交港股上市申请，计划于9月底前递交正式招股书，最快今年底或2027年Q1挂牌。此次IPO拟融资30-50亿美元，当前融资轮估值约500亿美元。花旗、高盛、德银、中金为联席保荐人，美国银行担任整体协调人。",
-      "why": "中国头部AI独角兽赴港IPO提振港股科技板块情绪，有利于恒生科技指数相关持仓；500亿美元估值创大模型赛道新高，可能带动市场重估同类型AI/互联网平台（腾讯、阿里、美团等）的AI价值；后续IPO进展将影响港股科技板块整体流动性。",
-      "source": "Bloomberg",
-      "verified": true,
       "keywords": [
-        "Moonshot AI",
-        "月之暗面",
-        "Kimi",
-        "港股IPO",
-        "AI",
-        "港交所",
-        "大模型"
+        "老铺黄金",
+        "黄金",
+        "金价",
+        "珠宝",
+        "6181.HK"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
-      "published_date": "2026-09-04",
-      "still_developing": true,
+      "verified": false,
+      "lang": "zh",
+      "time": "18:20",
       "first_seen": "2026-09-09",
       "is_new": true
     },
     {
-      "id": "654173f4c4c7f663",
+      "id": "67a2ecad882d875b",
       "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "09:25",
       "group": "个股",
-      "title": "Circle (CRCL) 签约约4亿美元收购新加坡B2B支付平台Tazapay",
-      "summary": "Circle签署协议以约4亿美元股票对价收购新加坡跨境支付平台Tazapay，后者年化支付量逾250亿美元，约60%交易量已含稳定币。此次收购将为USDC增加60家银行/金融科技合作伙伴及逾100个市场的本地出金能力，交割预计2027年完成（需新加坡MAS批准）。",
-      "why": "Circle以股票收购Tazapay直接扩大USDC在亚太及新兴市场的支付基础设施，强化GENIUS Act实施后的护城河；收购消息落地，关注CRCL股价短期隐含波动率的影响——4亿美元股票对价意味着一定稀释压力，可评估是否适合 sell call 策略。",
-      "source": "CoinDesk",
-      "verified": true,
+      "title": "小米「澎程」增程SUV正式上市，售价区间覆盖25-35万元",
+      "summary": "小米汽车在发布会上正式推出增程版SUV「澎程」，搭载自研澎湃增程系统，CLTC综合续航超1400公里，定价区间25-35万元，计划第四季度开始交付。",
+      "why": "小米(1810.HK)汽车产品线扩张、进入高利润增程赛道，是判断汽车业务盈亏平衡时间线和股价估值重估的关键事件；与特斯拉、比亚迪等直接竞争，也关联动力电池供应链标的。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2476352",
+      "published_date": "2026-09-07",
+      "markets": [
+        "HK"
+      ],
       "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "Tazapay",
-        "跨境支付",
-        "收购"
+        "小米",
+        "Xiaomi",
+        "小米汽车",
+        "1810.HK",
+        "SU7",
+        "增程"
       ],
       "translated": false,
-      "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+      "verified": false,
+      "lang": "zh",
+      "time": "18:20",
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
+      "id": "7da002b22402ff8c",
+      "tier": 2,
+      "group": "个股",
+      "title": "Pop Mart将在巴黎开设欧洲最大旗舰店，与LVMH洽谈合作",
+      "summary": "据SCMP报道，泡泡玛特计划于2026年Q4在巴黎香榭丽舍大道开设欧洲最大旗舰店，并正与LVMH集团就联名及渠道合作进行初步洽谈，以应对部分市场海外销售增速放缓。",
+      "why": "直接涉及组合标的泡泡玛特(9992.HK)；巴黎旗舰店+LVMH潜在合作是品牌高端化出海的里程碑事件，有助于提升欧洲市场收入占比，对估值重估有正向催化作用。",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/business/china-business/article/3366630/labubu-meets-lvmh-pop-mart-open-flagship-store-paris-amid-cooling-overseas-sales",
       "published_date": "2026-09-08",
-      "still_developing": false,
+      "markets": [
+        "HK"
+      ],
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "Labubu",
+        "9992.HK",
+        "出海",
+        "品牌"
+      ],
+      "translated": true,
+      "verified": false,
+      "lang": "zh",
+      "time": "18:20",
       "first_seen": "2026-09-09",
       "is_new": true
     },
     {
-      "id": "33364cdbd2d83480",
-      "tier": 2,
-      "lang": "zh",
+      "id": "6e07630ad5c0760f",
+      "tier": 3,
+      "group": "大盘头条",
+      "title": "港交所调整港股通标的名单：多只中小市值股票纳入或移除",
+      "summary": "港交所及沪深交易所宣布新一轮港股通标的名单调整，共计新增逾20只港股纳入互联互通范围，同时剔除部分流动性不足标的，调整将于下月生效。",
+      "why": "港股通标的变更直接影响南向资金流入方向及流动性溢价；纳入标的短期获得增量资金关注，对组合中港股标的的估值流动性有间接影响，亦是港股市场结构性变化的重要信号。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2475366",
+      "published_date": "2026-09-07",
       "markets": [
-        "US"
+        "HK"
       ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "特斯拉Cybercab商业上路当日遭NHTSA审查，股价跌6%",
-      "summary": "特斯拉9月3日在奥斯汀启动首批Cybercab商业运营（约1000辆，无方向盘/踏板），NHTSA次日即宣布对Cybercab的FMVSS安全认证程序展开审查，质疑Tesla自我认证合规性。发布会CEO马斯克缺席，活动仅对小范围股东和网红保密举行，华尔街普遍认为「不达预期」，特斯拉股价单日跌6%至约352美元。",
-      "why": "NHTSA审查若升级为正式调查，可能推迟Cybercab大规模部署（原计划2026年铺开1万辆），对特斯拉FSD/Robotaxi估值逻辑直接构成压制；TSLA股价近期震荡，隐含波动率偏高，持有TSLA sell put需密切跟踪监管进展，调整行权价或及时平仓。",
-      "source": "CNBC",
-      "verified": true,
       "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Cybercab",
-        "Robotaxi",
-        "NHTSA",
-        "自动驾驶",
-        "FSD"
+        "港股通",
+        "互联互通",
+        "港股",
+        "南向资金",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
-      "published_date": "2026-09-04",
-      "still_developing": true,
+      "verified": false,
+      "lang": "zh",
+      "time": "18:20",
       "first_seen": "2026-09-09",
       "is_new": true
     },
@@ -992,6 +1062,69 @@
       "is_new": false
     },
     {
+      "id": "490544dbcf9577f1",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "胡塞武装袭击沙特阿美设施，Brent原油触99.22美元/桶，油价9月涨幅逾8%",
+      "summary": "伊朗盟友胡塞武装对沙特阿美及多处炼厂发动无人机与弹道导弹攻击，沙特能源部宣布部分油田及贾赞400万桶/日炼厂暂停运营。Brent原油最高触及99.22美元/桶，WTI达94.60美元/桶，9月累计涨逾8%。",
+      "why": "油价逼近100美元直接推高通胀预期，美联储9月18-19日会议加息概率随之升至约60%；能源成本上行压缩消费/零售板块利润，港美股整体情绪承压；持有高估值科技/消费个股的 sell put 头寸需关注隐含波动率扩张风险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "Brent原油",
+        "沙特",
+        "胡塞武装",
+        "通胀",
+        "美联储",
+        "地缘政治"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "f5b7815a05a8109f",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:05",
+      "group": "大盘头条",
+      "title": "美联储9/18-19会议加息概率升至60%，特朗普全力施压Warsh暂缓",
+      "summary": "美联储内部鹰鸽分歧激化：上次会议9比3投票维持3.5%-3.75%利率不变，3位异见委员明确要求加息。最新数据显示，加息25bp概率已升至约60%；特朗普、副总统、财长等同步公开施压Fed主席Warsh暂缓行动。9月8日油价飙升进一步强化通胀上行预期。",
+      "why": "若9/18加息落地，港股/美股整体估值承压，高PE科技与消费股跌幅往往领先；卖出期权的隐含波动率在会议前一周通常走阔，是调整 sell put 行权价的时间窗口；应提前评估现有仓位的利率敏感度。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "加息",
+        "FOMC",
+        "利率",
+        "货币政策",
+        "Warsh",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+      "published_date": "2026-09-05",
+      "still_developing": true,
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
       "tier": 2,
       "lang": "zh",
       "markets": [
@@ -1516,6 +1649,125 @@
       "published_date": "2026-09-04",
       "still_developing": false,
       "first_seen": "2026-09-05",
+      "is_new": false
+    },
+    {
+      "id": "9c1040ae4466a0a9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:10",
+      "group": "大盘头条",
+      "title": "港股恒生指数9月8日连跌0.5%至25,283点，投资者待中国8月贸易数据",
+      "summary": "恒生指数9月8日下跌约0.5%收报25,283点，连续第二日走弱，主因油价飙升加剧通胀担忧，市场同时等待中国8月贸易数据以评估经济复苏节奏。",
+      "why": "恒指连跌两日，港股整体情绪偏弱；贸易数据若低于预期将进一步压制消费/出口相关个股；对持有港股 sell put 仓位而言，需关注行权价保护垫是否充足。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "贸易数据",
+        "中国经济",
+        "油价"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "4cb9fc7b774f594a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:20",
+      "group": "大盘头条",
+      "title": "月之暗面Moonshot AI机密申请港交所IPO，拟融资30-50亿美元，估值500亿美元",
+      "summary": "Kimi大模型母公司月之暗面已机密提交港股上市申请，计划于9月底前递交正式招股书，最快今年底或2027年Q1挂牌。此次IPO拟融资30-50亿美元，当前融资轮估值约500亿美元。花旗、高盛、德银、中金为联席保荐人，美国银行担任整体协调人。",
+      "why": "中国头部AI独角兽赴港IPO提振港股科技板块情绪，有利于恒生科技指数相关持仓；500亿美元估值创大模型赛道新高，可能带动市场重估同类型AI/互联网平台（腾讯、阿里、美团等）的AI价值；后续IPO进展将影响港股科技板块整体流动性。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Moonshot AI",
+        "月之暗面",
+        "Kimi",
+        "港股IPO",
+        "AI",
+        "港交所",
+        "大模型"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
+      "published_date": "2026-09-04",
+      "still_developing": true,
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "654173f4c4c7f663",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:25",
+      "group": "个股",
+      "title": "Circle (CRCL) 签约约4亿美元收购新加坡B2B支付平台Tazapay",
+      "summary": "Circle签署协议以约4亿美元股票对价收购新加坡跨境支付平台Tazapay，后者年化支付量逾250亿美元，约60%交易量已含稳定币。此次收购将为USDC增加60家银行/金融科技合作伙伴及逾100个市场的本地出金能力，交割预计2027年完成（需新加坡MAS批准）。",
+      "why": "Circle以股票收购Tazapay直接扩大USDC在亚太及新兴市场的支付基础设施，强化GENIUS Act实施后的护城河；收购消息落地，关注CRCL股价短期隐含波动率的影响——4亿美元股票对价意味着一定稀释压力，可评估是否适合 sell call 策略。",
+      "source": "CoinDesk",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "Tazapay",
+        "跨境支付",
+        "收购"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+      "published_date": "2026-09-08",
+      "still_developing": false,
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "33364cdbd2d83480",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "特斯拉Cybercab商业上路当日遭NHTSA审查，股价跌6%",
+      "summary": "特斯拉9月3日在奥斯汀启动首批Cybercab商业运营（约1000辆，无方向盘/踏板），NHTSA次日即宣布对Cybercab的FMVSS安全认证程序展开审查，质疑Tesla自我认证合规性。发布会CEO马斯克缺席，活动仅对小范围股东和网红保密举行，华尔街普遍认为「不达预期」，特斯拉股价单日跌6%至约352美元。",
+      "why": "NHTSA审查若升级为正式调查，可能推迟Cybercab大规模部署（原计划2026年铺开1万辆），对特斯拉FSD/Robotaxi估值逻辑直接构成压制；TSLA股价近期震荡，隐含波动率偏高，持有TSLA sell put需密切跟踪监管进展，调整行权价或及时平仓。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Cybercab",
+        "Robotaxi",
+        "NHTSA",
+        "自动驾驶",
+        "FSD"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+      "published_date": "2026-09-04",
+      "still_developing": true,
+      "first_seen": "2026-09-09",
       "is_new": false
     },
     {
