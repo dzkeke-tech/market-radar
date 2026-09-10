@@ -1,169 +1,224 @@
 [
   {
-    "id": "0231263d2500f82b",
+    "id": "0bd1b6bc6c106485",
     "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US"
-    ],
-    "time": "08:30",
-    "group": "大盘头条",
-    "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
-    "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
-    "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "jobs report",
-      "nonfarm payrolls",
-      "Treasury yield",
-      "Federal Reserve",
-      "US stocks",
-      "rate hike"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "b1c40777b4210ebd",
-    "tier": 1,
-    "lang": "en",
-    "markets": [
-      "US",
-      "HK"
-    ],
-    "time": "14:00",
-    "group": "大盘头条",
-    "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
-    "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
-    "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
-    "source": "Bloomberg",
-    "verified": true,
-    "keywords": [
-      "Federal Reserve",
-      "FOMC",
-      "interest rate hike",
-      "CPI",
-      "inflation",
-      "monetary policy"
-    ],
-    "translated": false,
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
-    "published_date": "2026-09-04",
-    "still_developing": false
-  },
-  {
-    "id": "e845c4cb3befea90",
-    "tier": 2,
     "lang": "zh",
     "markets": [
       "HK"
     ],
-    "time": "16:00",
+    "time": "16:30",
     "group": "大盘头条",
-    "title": "港股收评：恒生指数涨1.74%，恒生科技指数涨2.27%；科网股普涨",
-    "summary": "9月4日港股全线大涨，恒生指数收报25,650.87点，涨437.56点（+1.74%）；恒生科技指数涨2.27%；国企指数涨2.02%，全日成交2,768亿港元。科网股领涨：美团+5.28%、百度+4.81%、小米+3.64%、京东+3.27%、阿里+2.42%、腾讯+2.26%。",
-    "why": "港股单日大涨，持有腾讯、美团、小米、阿里等港股标的浮盈显著；科网板块隐含波动率在上涨后通常回落，有利于 sell put 策略降低权利金成本；港股在当日美国就业数据公布前已收盘，次日走势将受美国非农冲击影响。",
-    "source": "界面新闻",
+    "title": "港股收评：恒指跌1.27% 科指跌2.04% 科网股普跌 智谱跌超10%",
+    "summary": "9月10日港股全线下跌，恒生指数跌1.27%报24954.47，恒生科技指数跌2.04%；美团、百度跌逾3%，应用软件板块跌幅居前，智谱跌超10%；内银股逆势走强，民生银行涨超3%。",
+    "why": "港股科网股整体承压，持仓腾讯、美团、阿里等标的均受拖累；科技指数跌幅超大盘，隐含波动率可能上行，对已持有港股期权仓位需留意行权风险。",
+    "source": "新浪财经",
     "verified": true,
     "keywords": [
       "港股",
-      "恒生指数",
       "恒生科技指数",
-      "科网股",
       "美团",
-      "小米",
-      "腾讯",
-      "阿里"
+      "百度"
     ],
     "translated": false,
-    "url": "https://www.jiemian.com/article/15056533.html",
-    "published_date": "2026-09-04",
+    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-10/doc-iniritau2826829.shtml",
+    "published_date": "2026-09-10",
     "still_developing": false
   },
   {
-    "id": "59dcf3e249da2a0f",
-    "tier": 2,
+    "id": "7d88fd19d6eda9b8",
+    "tier": 1,
     "lang": "zh",
     "markets": [
       "A"
     ],
     "time": "15:30",
     "group": "大盘头条",
-    "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
-    "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
-    "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
+    "title": "收评：三大股指集体收跌 全市场超4500只个股下挫",
+    "summary": "9月10日A股三大指数全线收跌，沪指跌0.43%报3934.40，深成指跌0.77%，创业板指跌0.49%，两市下跌个股逾4500只。银行股逆势全线上涨，南京银行、宁波银行涨超2%，多家银行股创历史新高；电力板块亦活跃，华银电力等多股涨停。20家A股上市银行披露中期分红预案，合计拟派现约2661亿元。",
+    "why": "A股宽幅调整，市场情绪偏弱，科技/消费赛道被整体压制；银行股创历史新高显示防御性资金轮动明显，对A股持仓的波动率判断需结合整体市场情绪。",
     "source": "新浪财经",
     "verified": true,
     "keywords": [
       "A股",
-      "科创50",
-      "厄尔尼诺",
-      "猪肉股",
-      "科技板块"
+      "三大指数",
+      "银行股",
+      "创历史新高",
+      "中期分红"
     ],
     "translated": false,
-    "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
-    "published_date": "2026-09-04",
+    "url": "https://finance.sina.com.cn/tob/2026-09-10/doc-inirinuw2927620.shtml",
+    "published_date": "2026-09-10",
     "still_developing": false
   },
   {
-    "id": "c028e3a63fb71531",
+    "id": "b1fe271ea2dbefd2",
     "tier": 1,
     "lang": "en",
     "markets": [
-      "US"
+      "US",
+      "HK",
+      "A"
     ],
-    "time": "10:00",
+    "time": "07:00",
     "group": "大盘头条",
-    "title": "21 Major Banks Including Goldman, BofA, Citi, UBS Launch Joint USD Stablecoin Venture",
-    "summary": "A consortium of 21 financial institutions—including Goldman Sachs, Bank of America, Citi, Wells Fargo, Deutsche Bank, and UBS—announced a joint venture to issue a USD-denominated stablecoin targeting H1 2027 launch, initially for wholesale and cross-border payments. The venture will also explore G7-currency stablecoins. It complies with the GENIUS Act framework.",
-    "why": "全球最大金融机构联合推出银行背书稳定币，是Circle(CRCL)/USDC最直接的竞争威胁，同时也验证稳定币成为主流金融基础设施的趋势；持有CRCL的期权策略需重新评估竞争格局对其长期市占率与估值的影响；延续报道：事件持续发酵中。",
-    "source": "CoinDesk",
+    "title": "Oil Nears $100 as Markets Assess Fed Rate Expectations and Iran Tensions",
+    "summary": "Brent crude climbed to $97.19/bbl as the US and Iran exchanged direct military fire in the Strait of Hormuz. Strong August US payrolls (162K vs. 53K expected) add pressure toward a rate hike at the Sept 15-16 FOMC meeting. Fed Governor Waller said he is inclined to support holding rates at 3.50%-3.75%, while oil's inflation pass-through sharpens hike risks.",
+    "why": "油价逼近$100及潜在美联储加息共同压制风险资产估值；对sell put策略而言，整体IV抬升有利于期权权利金收入，但标的跌破行权价风险需评估；霍尔木兹风险若升级或进一步推升能源通胀，影响持续。",
+    "source": "Yahoo Finance / Reuters",
     "verified": true,
     "keywords": [
-      "stablecoin",
-      "Goldman Sachs",
-      "Bank of America",
-      "Citi",
-      "USDC",
-      "GENIUS Act",
-      "Circle",
-      "CRCL"
+      "oil price",
+      "Iran",
+      "Fed",
+      "FOMC",
+      "rate hike",
+      "Brent",
+      "jobs data"
     ],
     "translated": false,
-    "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
-    "published_date": "2026-09-01",
+    "url": "https://finance.yahoo.com/energy/articles/oil-nears-100-markets-assess-085906233.html",
+    "published_date": "2026-09-08",
     "still_developing": true
   },
   {
-    "id": "21ca5f6957fcef92",
+    "id": "6331108795e51414",
     "tier": 1,
     "lang": "en",
     "markets": [
       "US"
     ],
-    "time": "20:00",
-    "group": "个股",
-    "title": "Tesla Launches First Commercial Cybercab Robotaxi Service in Austin, TX",
-    "summary": "Tesla officially launched its Cybercab autonomous taxi service in Austin, Texas on September 3 with 45 state-authorized vehicles. The two-seat, pedal-free vehicle runs entirely on Tesla's FSD software. Nevada separately approved commercial robotaxi permits for Tesla, Waymo, and Uber, authorizing up to 8,000 driverless vehicles in Clark County.",
-    "why": "Cybercab商业运营正式落地是 TSLA 估值故事的核心里程碑；初期规模仅45辆，市场短期或维持观望，但自动驾驶监管准入（内华达、德克萨斯双州许可）为全国推广打开通道；持有 TSLA 期权需关注隐含波动率在里程碑兑现后的走向。",
-    "source": "CNBC",
-    "verified": true,
+    "time": "08:50",
+    "group": "大盘头条",
+    "title": "Nvidia at Goldman Sachs Conference Sept. 10: Vera Rubin Production Begins, CPU Market Entry",
+    "summary": "Nvidia presented at the Goldman Sachs Communacopia + Technology Conference on Sept 10. The company confirmed its Vera Rubin AI platform has begun production shipments and is expected to contribute ~20% of data center revenue in Q3. Nvidia also enters the standalone CPU market with Rubin, directly challenging AMD and Intel in another segment.",
+    "why": "Vera Rubin量产确认是英伟达Q3数据中心收入的重大催化剂；进军CPU市场具长期增量意义；SK海力士作为70%的HBM4供应商将同步受益；持仓NVDA者需注意利好兑现后的期权隐含波动率回落效应。",
+    "source": "Yahoo Finance / Motley Fool",
+    "verified": false,
     "keywords": [
-      "Tesla",
-      "Cybercab",
-      "robotaxi",
-      "FSD",
-      "autonomous driving",
-      "TSLA",
-      "Austin"
+      "Nvidia",
+      "NVDA",
+      "Vera Rubin",
+      "Goldman Sachs",
+      "CPU",
+      "数据中心",
+      "黄仁勋"
     ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
-    "published_date": "2026-09-03",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-sept-10-big-day-233501907.html",
+    "published_date": "2026-09-08",
+    "still_developing": false
+  },
+  {
+    "id": "efb907cc1f0818f2",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "16:00",
+    "group": "个股",
+    "title": "Intel Stock Jumps 9% on Chip Price Hike Report, US Stake Gains $36 Billion",
+    "summary": "Intel (INTC) surged 9.05% on Sept 8, closing at $104.47, driven by: a planned 10% PC processor price hike effective Oct 5 (third hike this year); Intel and ASML confirming over 1 million wafers run through High-NA EUV machines (critical foundry milestone); and a Northland Securities upgrade to Outperform with $120 target.",
+    "why": "英特尔三连涨价策略转向利润保护，High-NA EUV百万片里程碑实质推进代工转型；这是英特尔复苏叙事的重要验证，可能支撑较高行权价的期权布局；与英伟达/AMD竞争态势重新分化值得关注。",
+    "source": "Yahoo Finance",
+    "verified": true,
+    "keywords": [
+      "Intel",
+      "INTC",
+      "CPU",
+      "晶圆代工",
+      "High-NA EUV",
+      "foundry",
+      "18A"
+    ],
+    "translated": false,
+    "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-jumps-9-chip-163052538.html",
+    "published_date": "2026-09-08",
+    "still_developing": false
+  },
+  {
+    "id": "69cc2c4fa55085e2",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "14:00",
+    "group": "个股",
+    "title": "Palantir Climbs 8% Amid Army Contract Win and Expanded PwC AI Alliance",
+    "summary": "Palantir (PLTR) surged ~8% Thursday Sept 10, its best single-day gain in a month, driven by an expanded PwC US strategic AI alliance — including an industry-first AI-native M&A platform on Foundry/AIP — plus a new US Army contract. The rally reverses Wednesday's 7% drop triggered by Google's Fairwind Program (Gemini 3.8 Flash Cyber for government AI).",
+    "why": "PLTR企业侧扩张（PwC M&A+ERP平台）是减少对政府客户集中依赖的关键信号；Google Fairwind竞争威胁短期引发波动，但目前未实质损伤PLTR客户群；对PLTR的sell put而言，高波动率短期对权利金有利，但需留意Google后续的政府AI渗透速度。",
+    "source": "Seeking Alpha / Yahoo Finance",
+    "verified": true,
+    "keywords": [
+      "Palantir",
+      "PLTR",
+      "PwC",
+      "AIP",
+      "Foundry",
+      "Army",
+      "陆军合同"
+    ],
+    "translated": false,
+    "url": "https://seekingalpha.com/news/4640159-palantir-technologies-climbs-8-percent-amid-army-contract-pwc-alliance",
+    "published_date": "2026-09-10",
+    "still_developing": false
+  },
+  {
+    "id": "bdbeb06dd8db6dd4",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "Memory Runs Dry: Samsung and SK Hynix Drop Below 10-Day Supply as HBM4 Devours Capacity",
+    "summary": "Samsung and SK Hynix have fallen below 10 days of finished DRAM inventory as HBM4 production for Nvidia's Vera Rubin consumes 3× conventional DRAM wafer capacity. SK Hynix holds ~70% of Nvidia's HBM4 orders; 16-Hi HBM4 (48GB/cube) is now in customer qualification for Q4 2026, with Samsung, SK Hynix and Micron all certified as Vera Rubin HBM4 suppliers.",
+    "why": "延续报道：Vera Rubin供应链持续紧张。HBM4供应告急利好SK海力士（及南方两倍做多ETF），普通DRAM产能被挤占可能推高DRAM现货价，美光作为认证供应商具同向受益逻辑。",
+    "source": "TechTimes",
+    "verified": false,
+    "keywords": [
+      "SK Hynix",
+      "SK海力士",
+      "HBM4",
+      "DRAM",
+      "Vera Rubin",
+      "Micron",
+      "高带宽内存"
+    ],
+    "translated": false,
+    "url": "https://www.techtimes.com/articles/326837/20260907/memory-runs-dry-samsung-sk-hynix-drop-below-10-day-supply-hbm4-devours-capacity.htm",
+    "published_date": "2026-09-07",
+    "still_developing": true
+  },
+  {
+    "id": "28b149c75e15ee18",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "Google's Fairwind Program: Cyber Defense AI Tools for Trusted Government Partners",
+    "summary": "Google launched the Fairwind Program, offering Gemini 3.8 Flash and Flash Cyber — restricted exclusively to government authorities, critical infrastructure operators, and vetted software partners. The capabilities directly overlap with Palantir's core federal/defense AI offerings and triggered a ~7% PLTR sell-off before Thursday's recovery.",
+    "why": "谷歌以Gemini 3.8 Flash直接进入政府AI市场，是PLTR中期最大竞争威胁之一；短期市场已对此定价后反弹，中期需追踪Fairwind计划的实际合同落地速度；对谷歌（GOOGL）持仓则是积极信号，显示其AI商业化拓展至高利润政府市场。",
+    "source": "Google Official Blog",
+    "verified": true,
+    "keywords": [
+      "Google",
+      "谷歌",
+      "Gemini",
+      "Fairwind",
+      "政府AI",
+      "网络安全",
+      "Palantir"
+    ],
+    "translated": false,
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "published_date": "2026-09-08",
     "still_developing": false
   }
 ]
