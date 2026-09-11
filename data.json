@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-11 13:28 (北京时间)",
+  "updated_at": "2026-09-11 18:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,72 +9,157 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-11 13:28 (北京时间)",
-    "new_count": 2,
+    "at": "2026-09-11 18:16 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "0dd52f02d62aa1d5",
-      "tier": 2,
+      "tier": 1,
       "lang": "en",
       "markets": [
-        "US",
-        "HK"
+        "US"
       ],
-      "time": "2026-09-09 00:00",
+      "time": "10:00",
       "group": "大盘头条",
-      "title": "Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path",
-      "summary": "Gold hovered near $4,400/oz, supported by safe-haven demand amid Middle East tensions while hawkish Fed rate-hike expectations and rising Treasury yields capped upside. The metal faces conflicting pressures ahead of the September 16 FOMC meeting, where markets price a ~57% probability of a 25bps rate hike to 3.75–4.0%. Federal Reserve Chair Kevin Warsh described financial conditions as 'not broadly restrictive' and flagged PCE at 3.7% YoY as a concern.",
-      "why": "黄金逼近4400美元/盎司为年内高位，与美联储9月加息预期及中东地缘风险形成张力；距今2天内仍在演变（9月16日FOMC会议将是关键催化剂），still_developing=true。Bloomberg白名单媒体。",
+      "title": "DOJ opens antitrust probe into Nvidia's ~$20B licensing deal with AI chip startup Groq",
+      "summary": "The US Justice Department sent Nvidia a formal information request, investigating whether its ~$20 billion non-exclusive IP license with Groq — which also included hiring several Groq executives including founder Jonathan Ross — was structured to sidestep HSR merger-notification thresholds. Nvidia calls the deal 'a prime example of the American system working as designed.'",
+      "why": "英伟达面临DOJ反垄断调查，短期监管不确定性上升；持有NVDA仓位需警惕监管利空冲击，Sell Put行权价应适当下移，留出更多保护空间。",
       "source": "Bloomberg",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "gold",
-        "XAU",
-        "FOMC",
-        "Fed",
-        "rate hike",
-        "safe haven",
-        "inflation",
-        "Treasury"
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "DOJ",
+        "AI芯片",
+        "Groq",
+        "反垄断"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-09/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path",
-      "published_date": "2026-09-09",
-      "still_developing": true,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns",
+      "published_date": "2026-09-10",
+      "still_developing": false,
+      "id": "9f9cc30105545c55",
       "first_seen": "2026-09-11",
       "is_new": true
     },
     {
-      "id": "ac425a2e61b580d5",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Apple unveils iPhone Duo foldable ($1,999) and iPhone 18 Pro lineup in CEO John Ternus's debut keynote",
+      "summary": "At the 'Surprise and Shine' event on Sept. 9, Apple revealed the iPhone Duo — its first foldable with a 7.6-inch unfolded display — starting at $1,999, alongside iPhone 18 Pro/Max, AirPods 5, and Watch Series 12. The same week saw Xiaomi's 18 Fold (CNY 10,999) and Huawei's Mate XT2 trifold (CNY 19,999), marking the most concentrated foldable device-release week in history.",
+      "why": "折叠屏手机超级发布周，行业级事件催化；苹果首款折叠机重塑高端折叠市场竞争格局，直接影响小米1810.HK高端份额预期，关注出货数据对股价催化。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Apple",
+        "iPhone Duo",
+        "折叠屏",
+        "消费电子",
+        "小米",
+        "华为"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-foldable-iphone-launch-event-gets-underway",
+      "published_date": "2026-09-09",
+      "still_developing": false,
+      "id": "e92d54d7a54b4e16",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "A"
+        "A",
+        "HK"
       ],
-      "time": "2026-09-09 00:00",
+      "time": "10:00",
       "group": "大盘头条",
-      "title": "燧原科技688801今日登陆科创板：发行价142.18元，募资近60亿元",
-      "summary": "燧原科技（688801.SH）于2026年9月11日正式登陆上交所科创板，发行价142.18元/股，总募资约60亿元人民币，为本月A股最大规模科创板IPO。公司主营面向AI训练/推理的国产GPU/NPU芯片，定位国内替代英伟达产品的高端算力赛道。首日交易数据尚未完整披露，上市后涨幅待观察。",
-      "why": "今日（9月11日）为燧原科技上市首日，属于正在发生中的市场事件；发行价及募资规模已由第一财经（白名单媒体）于9月9日报道，首日实际走势仍在演变中，still_developing=true。国产AI芯片赛道高度关注。",
+      "title": "金融强国建设十五五规划正式出台，明确2030年形成现代金融体系框架目标",
+      "summary": "国务院新闻办9月10日发布《金融强国建设十五五规划》，目标2030年基本形成中国特色现代金融体系框架、2035年基本建立；九大行动计划覆盖宏调体系完善、金融监管强化、风险防化、实体经济服务及对外开放扩大。证监会同步介绍贯彻落实情况。",
+      "why": "顶层政策出台，利好资本市场中长期稳定预期，直接提振金融板块；为港A两市互联网、消费龙头提供良好政策背景，与持仓赛道方向一致。",
       "source": "21世纪经济报道",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "燧原科技",
-        "688801",
-        "科创板",
-        "IPO",
-        "AI芯片",
-        "GPU",
-        "国产算力",
-        "A股"
+        "十五五规划",
+        "金融强国",
+        "金融监管",
+        "证监会",
+        "宏观政策"
       ],
       "translated": false,
-      "url": "https://m.21jingji.com/article/20260909/herald/d11f52c63b0151fff5f026ab497acce9.html",
-      "published_date": "2026-09-09",
+      "url": "https://m.21jingji.com/article/20260910/herald/d5c14e42300f8940a946167f7f8069d0.html",
+      "published_date": "2026-09-10",
+      "still_developing": false,
+      "id": "2a1b16cc9e386880",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:30",
+      "group": "个股",
+      "title": "Palantir AIPCon 11: NVIDIA and Palantir launch sovereign AI stack for supply chains; FAA, Cisco, L3Harris among customers",
+      "summary": "At AIPCon 11 on Sept. 10, Palantir and NVIDIA unveiled a joint enterprise AI stack combining Palantir's Ontology/AIP platform with NVIDIA Nemotron open models, first deployed in NVIDIA's own supply chain. Deployment options include on-prem with Cisco/Dell or cloud with Rackspace/Nebius. Customers including the FAA, Acrisure, L3Harris, and Zeta Global showcased live use cases.",
+      "why": "Palantir PLTR政府+企业AI合同持续放量，与英伟达深度绑定增强护城河；PLTR近月期权隐含波动率异常高（9月18日到期Call仓位过重），Sell Put空间有限，需保持较宽价外距离。",
+      "source": "BusinessWire",
+      "verified": true,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "AIP",
+        "AI平台",
+        "英伟达",
+        "国防AI",
+        "供应链"
+      ],
+      "translated": false,
+      "url": "https://www.businesswire.com/news/home/20260910834032/en/NVIDIA-and-Palantir-Bring-Sovereign-Intelligence-to-Critical-Supply-Chains",
+      "published_date": "2026-09-10",
+      "still_developing": false,
+      "id": "82fb44c2b256ba39",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "20:00",
+      "group": "个股",
+      "title": "小米18 Fold折叠屏（10999元起）与华为Mate XT2三折叠（19999元起）同日发布，苹果同周推出$1999折叠机正面竞争",
+      "summary": "9月7日，小米发布折叠屏旗舰小米18 Fold（中折叠设计，搭载骁龙8E6+玄戒O3），起售价10999元；华为同日发布第二代三折叠Mate XT2非凡大师，起售价19999元。苹果随后于9月9日推出iPhone Duo（$1,999/约14400元），9月折叠屏三强竞争格局确立。",
+      "why": "延续报道：小米/华为/苹果折叠屏三机同周，市场讨论持续。小米1810.HK折叠屏旗舰产品周期启动，竞争加剧；折叠机密集发布季可能推升小米期权隐含波动率，Covered Call机会可关注。",
+      "source": "36氪",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "折叠屏",
+        "小米18 Fold",
+        "华为",
+        "苹果"
+      ],
+      "translated": false,
+      "url": "https://www.36kr.com/p/3973284617941506",
+      "published_date": "2026-09-07",
       "still_developing": true,
+      "id": "fb1ed8b79c3bb002",
       "first_seen": "2026-09-11",
       "is_new": true
     },
@@ -702,6 +787,69 @@
       "published_date": "2026-09-04",
       "still_developing": true,
       "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "0dd52f02d62aa1d5",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "2026-09-09 00:00",
+      "group": "大盘头条",
+      "title": "Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path",
+      "summary": "Gold hovered near $4,400/oz, supported by safe-haven demand amid Middle East tensions while hawkish Fed rate-hike expectations and rising Treasury yields capped upside. The metal faces conflicting pressures ahead of the September 16 FOMC meeting, where markets price a ~57% probability of a 25bps rate hike to 3.75–4.0%. Federal Reserve Chair Kevin Warsh described financial conditions as 'not broadly restrictive' and flagged PCE at 3.7% YoY as a concern.",
+      "why": "黄金逼近4400美元/盎司为年内高位，与美联储9月加息预期及中东地缘风险形成张力；距今2天内仍在演变（9月16日FOMC会议将是关键催化剂），still_developing=true。Bloomberg白名单媒体。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "gold",
+        "XAU",
+        "FOMC",
+        "Fed",
+        "rate hike",
+        "safe haven",
+        "inflation",
+        "Treasury"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path",
+      "published_date": "2026-09-09",
+      "still_developing": true,
+      "first_seen": "2026-09-11",
+      "is_new": false
+    },
+    {
+      "id": "ac425a2e61b580d5",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "2026-09-09 00:00",
+      "group": "大盘头条",
+      "title": "燧原科技688801今日登陆科创板：发行价142.18元，募资近60亿元",
+      "summary": "燧原科技（688801.SH）于2026年9月11日正式登陆上交所科创板，发行价142.18元/股，总募资约60亿元人民币，为本月A股最大规模科创板IPO。公司主营面向AI训练/推理的国产GPU/NPU芯片，定位国内替代英伟达产品的高端算力赛道。首日交易数据尚未完整披露，上市后涨幅待观察。",
+      "why": "今日（9月11日）为燧原科技上市首日，属于正在发生中的市场事件；发行价及募资规模已由第一财经（白名单媒体）于9月9日报道，首日实际走势仍在演变中，still_developing=true。国产AI芯片赛道高度关注。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "燧原科技",
+        "688801",
+        "科创板",
+        "IPO",
+        "AI芯片",
+        "GPU",
+        "国产算力",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260909/herald/d11f52c63b0151fff5f026ab497acce9.html",
+      "published_date": "2026-09-09",
+      "still_developing": true,
+      "first_seen": "2026-09-11",
       "is_new": false
     },
     {
