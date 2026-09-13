@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-11 13:28 (北京时间)",
+  "updated_at": "2026-09-13 08:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,310 +9,183 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-11 13:28 (北京时间)",
-    "new_count": 2,
+    "at": "2026-09-13 08:19 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "0dd52f02d62aa1d5",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "2026-09-09 00:00",
-      "group": "大盘头条",
-      "title": "Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path",
-      "summary": "Gold hovered near $4,400/oz, supported by safe-haven demand amid Middle East tensions while hawkish Fed rate-hike expectations and rising Treasury yields capped upside. The metal faces conflicting pressures ahead of the September 16 FOMC meeting, where markets price a ~57% probability of a 25bps rate hike to 3.75–4.0%. Federal Reserve Chair Kevin Warsh described financial conditions as 'not broadly restrictive' and flagged PCE at 3.7% YoY as a concern.",
-      "why": "黄金逼近4400美元/盎司为年内高位，与美联储9月加息预期及中东地缘风险形成张力；距今2天内仍在演变（9月16日FOMC会议将是关键催化剂），still_developing=true。Bloomberg白名单媒体。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "gold",
-        "XAU",
-        "FOMC",
-        "Fed",
-        "rate hike",
-        "safe haven",
-        "inflation",
-        "Treasury"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-09/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path",
-      "published_date": "2026-09-09",
-      "still_developing": true,
-      "first_seen": "2026-09-11",
-      "is_new": true
-    },
-    {
-      "id": "ac425a2e61b580d5",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "2026-09-09 00:00",
-      "group": "大盘头条",
-      "title": "燧原科技688801今日登陆科创板：发行价142.18元，募资近60亿元",
-      "summary": "燧原科技（688801.SH）于2026年9月11日正式登陆上交所科创板，发行价142.18元/股，总募资约60亿元人民币，为本月A股最大规模科创板IPO。公司主营面向AI训练/推理的国产GPU/NPU芯片，定位国内替代英伟达产品的高端算力赛道。首日交易数据尚未完整披露，上市后涨幅待观察。",
-      "why": "今日（9月11日）为燧原科技上市首日，属于正在发生中的市场事件；发行价及募资规模已由第一财经（白名单媒体）于9月9日报道，首日实际走势仍在演变中，still_developing=true。国产AI芯片赛道高度关注。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "燧原科技",
-        "688801",
-        "科创板",
-        "IPO",
-        "AI芯片",
-        "GPU",
-        "国产算力",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260909/herald/d11f52c63b0151fff5f026ab497acce9.html",
-      "published_date": "2026-09-09",
-      "still_developing": true,
-      "first_seen": "2026-09-11",
-      "is_new": true
-    },
-    {
-      "id": "9f340aeffc20557a",
+      "id": "631cb0bb53d160e8",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "HK",
         "US"
       ],
-      "time": "08:30",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "Asian stocks rally as traders pare Fed-hike bets ahead of US jobs data",
-      "summary": "Asian benchmarks rose broadly on Friday: Hong Kong's Hang Seng climbed 2.2% to 25,765, Japan's Nikkei gained 1.3%, and Seoul/Singapore/Taipei all rose over 1%. The rally followed Fed Governor Waller's signals of a September rate hold; markets now await August U.S. non-farm payrolls due later today.",
-      "why": "美联储9月按兵不动预期进一步升温，推动港股恒指大涨2.2%至25765点，科技股领涨亚太；对持有港股仓位（sell put策略）形成阶段性支撑，非农数据今晚是下一关键催化剂",
-      "source": "Reuters via Yahoo Finance",
-      "verified": true,
-      "keywords": [
-        "Fed",
-        "rate hike",
-        "Asian stocks",
-        "Hong Kong",
-        "Hang Seng",
-        "Nikkei",
-        "jobs data"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-traders-pare-024214659.html",
-      "published_date": "2026-09-04",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "d468e1333ef4741d",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "Fresh US-Iran strikes send oil surging past $90 WTI, $95 Brent; yields jump",
-      "summary": "U.S. and Iranian forces exchanged fresh strikes, renewing fears of prolonged Strait of Hormuz disruption — through which over 20% of global oil trade flows. WTI settled above $90/bbl and Brent topped $95 for the first time since late July, marking oil's biggest weekly gain since July; Treasury yields spiked before pulling back.",
-      "why": "美伊战争再度升级是本轮最大地缘风险，油价飙升推高通胀预期，叠加美联储决策不确定性；亚太能源股受益，但整体市场波动率抬升对期权卖方需谨慎管理仓位",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "US-Iran war",
-        "oil price",
-        "Hormuz",
-        "geopolitical",
-        "Brent",
-        "WTI",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/02/us-iran-trump-war-escalation-latest-fed-rate-g20-bessent-yen-.html",
-      "published_date": "2026-09-02",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "2681cdfc81705cda",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "09:03",
-      "group": "大盘头条",
-      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
-      "summary": "美联储理事沃勒9月3日发出鸽派信号：若通胀数据无意外，支持9月FOMC维持利率不变。市场对9月加息押注骤降约12个百分点，2年期美债收益率下行3bp至4.34%。",
-      "why": "利率路径直接影响全球估值与期权隐含波动率；sell put 策略在加息预期降温时通常受益于IV回落，权利金压缩风险降低。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Fed",
-        "Waller",
-        "rate hold",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
-      "published_date": "2026-09-03",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "9f0dca1aee35b949",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:03",
-      "group": "大盘头条",
-      "title": "Stock Market Today: Dow, S&P Live Updates for September 4",
-      "summary": "9月3日美股大涨：标普500 +1.06%报7747.71点，纳指 +1.4%报26584.06点，道指升624点（+1.18%）报53686点。沃勒鸽派表态叠加英伟达大型并购消息双重提振，港股ADR跟涨，亚股料追升。",
-      "why": "美股全面反弹改善全球风险偏好，港股ADR做好，持仓组合整体受益；大盘大涨后隐含波动率通常有所压缩，卖put权利金需重新评估时机。",
+      "title": "US Hits Several Iran Oil Tankers in Response to Warship Attack; Brent Crude Surges Past $100",
+      "summary": "US forces destroyed five IRGC-linked oil tankers — four in the Gulf of Oman and one near Kharg Island — in retaliation for an Iranian ballistic missile strike on a US warship. Brent crude surged 3.4% to $101.21 in a single session, later climbing toward $105. Iran simultaneously launched missiles at a US base in Jordan; Houthi rebels attacked Saudi oil facilities across four southern cities.",
+      "why": "地缘冲突推高油价至$100+并维持高位，加剧通胀压力，进一步巩固联储加息预期；能源成本上升对消费与科技板块有压制作用；同时推高标的期权隐含波动率，对卖put需谨慎。",
       "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "oil",
+        "geopolitics",
+        "Iran",
+        "Brent crude",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/us-hits-several-iran-oil-tankers-in-response-to-warship-attack",
+      "published_date": "2026-09-09",
+      "still_developing": true,
+      "first_seen": "2026-09-13",
+      "is_new": true
+    },
+    {
+      "id": "61feaacc4799e3f2",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "17:30",
+      "group": "大盘头条",
+      "title": "Oracle's Cloud Infrastructure Revenue More Than Doubles; Sets $90B+ FY2027 Guidance",
+      "summary": "Oracle Q1 FY2027 results: cloud infrastructure revenue jumped more than 100% YoY; net income rose to $4.68B ($1.56/share) from $2.93B ($1.01/share) a year ago. Management raised full-year guidance to at least $90B in revenue with non-GAAP EPS of $8.10. Capital expenditures hit $28.5B in the quarter as the company continues massive AI data center buildout.",
+      "why": "Oracle云基础设施收入翻倍、$28.5B/季度资本支出证实AI算力建设需求持续爆发，利好英伟达（NVDA）GPU/Blackwell需求、SK海力士HBM及美光DRAM；为科技板块提供关键需求侧信号，对持有NVDA/Micron/SK Hynix的期权策略含义正面。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Oracle",
+        "AI chip",
+        "cloud",
+        "data center",
+        "英伟达",
+        "美光",
+        "SK海力士"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
+      "published_date": "2026-09-10",
+      "still_developing": true,
+      "first_seen": "2026-09-13",
+      "is_new": true
+    },
+    {
+      "id": "25252dbb8143cad1",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Trip.com Group to Report Q2 2026 Earnings on September 15; Options Imply ±5.6% Move",
+      "summary": "Trip.com Group Limited (TCOM/9961.HK) will announce its Q2 and H1 2026 financial results on Tuesday, September 15, 2026 after US market close, with a conference call at 8pm ET (September 16, 8am HKT). Consensus EPS estimate is $0.98 (YoY -2.97%). Management has guided Q2 net revenue growth of approximately 3%–8% YoY. Bloomberg options data implies a ±5.6% stock move around the announcement.",
+      "why": "本周二（9月15日）盘后携程发布财报，期权隐含波动±5.6%；对持有TCOM期权仓位的投资者为高度关注事件；Q2出境游旺季数据是核心看点，若业绩不及指引上沿，隐含波动率将快速坍缩——sell put/covered call两端均需评估时间节点风险。",
+      "source": "SEC EDGAR",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "9961.HK",
+        "earnings",
+        "期权"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001269238/000119312526379443/d431415d6k.htm",
+      "published_date": "2026-09-10",
+      "still_developing": true,
+      "first_seen": "2026-09-13",
+      "is_new": true
+    },
+    {
+      "id": "b06357123d5c4069",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Stocks Rebound Friday as Oil Pulls Back; Dow Gains 509 Points Ahead of Fed Week",
+      "summary": "All three major US indexes rose on September 11 as crude oil retreated from daily highs following the release of August CPI data. The Dow closed at 52,573.29 (+0.98%), S&P 500 at 7,656.98 (+0.86%), and Nasdaq Composite at 26,333.04 (+0.96%). Markets traded higher despite the lingering backdrop of elevated oil prices and imminent Fed rate decision.",
+      "why": "大盘在CPI数据公布当日反弹，但本周迎来FOMC决策（9月16日），高油价+紧缩预期组合下市场走势分歧明显；反弹不改利率压力主线，期权卖出策略需关注周中波动放大风险。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
         "S&P 500",
-        "Nasdaq",
         "Dow Jones",
-        "美股"
+        "Nasdaq",
+        "stock market",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
-      "published_date": "2026-09-03",
+      "url": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
+      "published_date": "2026-09-11",
       "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": false
+      "first_seen": "2026-09-13",
+      "is_new": true
     },
     {
-      "id": "079397fd03fc0808",
-      "tier": 1,
+      "id": "e92d54d7a54b4e16",
+      "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "09:03",
+      "time": "10:00",
       "group": "大盘头条",
-      "title": "Nvidia Agrees to $13 Billion Deal for AI Platform Hugging Face",
-      "summary": "英伟达正式确认以约130亿美元收购AI开源平台Hugging Face，并附约10亿美元员工留任奖励包。英伟达承诺维持平台开放性。受此消息提振，NVDA盘后涨约1.8%。",
-      "why": "年度最大AI并购交易，英伟达锁定AI模型开源生态主导权，进一步巩固其在AI产业链的定价权；并购消息往往推升相关期权隐含波动率。",
+      "title": "Apple Unveils First Foldable iPhone Duo, Starting at $1,999; Ships October 23",
+      "summary": "Apple announced the iPhone Duo, its first foldable smartphone, at CEO John Ternus's debut keynote on September 9. The device features a 5.4-inch outer and 7.6-inch inner display, starts at $1,999 (256GB), and will be available in Star White and Night Sky. Pre-orders open October 16; devices ship October 23 in the US and 70+ countries. Also announced: iPhone 18 Pro/Max, AirPods 5, and Apple Watch Series 12.",
+      "why": "折叠屏手机新品类正式开启；对谷歌（Pixel折叠）、三星及中国折叠机（小米18 Fold）形成直接竞争压力；Apple新产品周期带动消费电子赛道情绪与供应链（TSMC、display、内存）期待；关注发布后订单数据对科技消费板块估值的影响。",
       "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "Hugging Face",
-        "AI芯片",
-        "并购"
+        "Apple",
+        "iPhone Duo",
+        "foldable",
+        "iPhone 18",
+        "消费科技"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
-      "published_date": "2026-09-03",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": false
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-foldable-iphone-launch-event-gets-underway",
+      "published_date": "2026-09-09",
+      "still_developing": true,
+      "first_seen": "2026-09-13",
+      "is_new": true
     },
     {
-      "id": "b222ff72c78a4fd8",
-      "tier": 1,
-      "lang": "en",
+      "id": "04f1095250dfbd67",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
-        "US"
-      ],
-      "time": "09:02",
-      "group": "大盘头条",
-      "title": "Google Avoids Breakup as Judge Orders Ad Tech Unit Changes",
-      "summary": "美国联邦法官裁定谷歌无需出售广告交易平台AdX，改要求广告技术工具与竞争对手实现互操作性。Alphabet由此避免被强制拆分，广告业务（占营收主体）经营连续性获保障。",
-      "why": "裁定消除Alphabet最大监管尾部风险，广告收入基本盘无虞；对持有GOOGL者，可关注股价反弹后卖covered call机会。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "谷歌",
-        "Google",
-        "Alphabet",
-        "GOOGL",
-        "反垄断",
-        "AdX"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration",
-      "published_date": "2026-09-02",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "0231263d2500f82b",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "US August Jobs Shock: Payrolls Rise 162K vs 53K Forecast; Yields Hit 18-Month High",
-      "summary": "August nonfarm payrolls came in at 162,000, nearly 3x the 53,000 consensus, the strongest monthly gain since March. July was revised to +21,000 from -23,000. Unemployment held at 4.1%. The 2-year Treasury yield surged to its highest since January 2025. US stocks fell: S&P 500 -0.38%, Dow -0.51%, Nasdaq -0.29%.",
-      "why": "非农数据大幅超预期是本周最重磅宏观冲击，美债短端收益率飙升，美股高估值成长股估值承压；对 sell put 策略而言，波动率上升、行权价安全边际收窄，需重新审视各持仓期权的 delta 风险。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "jobs report",
-        "nonfarm payrolls",
-        "Treasury yield",
-        "Federal Reserve",
-        "US stocks",
-        "rate hike"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-jobs-report-august-2026-key-takeaways-on-employment-payrolls",
-      "published_date": "2026-09-04",
-      "still_developing": false,
-      "first_seen": "2026-09-05",
-      "is_new": false
-    },
-    {
-      "id": "b1c40777b4210ebd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
         "HK"
       ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "Fed September Rate Hike Odds Near 50% After Jobs Beat; CPI on Sept. 11 Is the Decider",
-      "summary": "Futures markets lifted the probability of a Fed rate hike at the Sept. 15–16 FOMC meeting to roughly 50% following the August jobs beat. The Fed has held rates at 3.5%–3.75% for five consecutive meetings; three FOMC members had already dissented, preferring +25 bps. September CPI (due Sept. 11) is now the pivotal data point.",
-      "why": "美联储9月加息概率升至约50%，直接影响美元资产估值和港股流动性；CPI是下周最关键变量——若通胀回落缓慢，加息将对高倍市盈率持仓（如PLTR、NVDA）形成进一步估值压力，卖出期权策略的隐含波动率值得重点跟踪。",
-      "source": "Bloomberg",
+      "time": "17:00",
+      "group": "个股",
+      "title": "腾讯控股9月11日大举回购270万股，耗资约10亿港元",
+      "summary": "财联社报道，腾讯控股（00700.HK）于2026年9月11日在港交所回购270万股，耗资约10亿港元，数据来源于港交所披露易。腾讯继续保持高频回购，当日收盘价428.400港元，上涨0.66%。",
+      "why": "腾讯股价年内下跌约26%，公司持续加大回购力度以支撑股价；每日约10亿港元的单日回购规模为期间最大，传递管理层对股价低估的强烈信号；对卖put策略而言，持续回购提供一定下行支撑，但联储加息背景下整体港股承压。",
+      "source": "财联社",
       "verified": true,
       "keywords": [
-        "Federal Reserve",
-        "FOMC",
-        "interest rate hike",
-        "CPI",
-        "inflation",
-        "monetary policy"
+        "腾讯",
+        "Tencent",
+        "回购",
+        "0700.HK"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
-      "published_date": "2026-09-04",
+      "url": "https://www.cls.cn/detail/1796205",
+      "published_date": "2026-09-11",
       "still_developing": false,
-      "first_seen": "2026-09-05",
-      "is_new": false
+      "first_seen": "2026-09-13",
+      "is_new": true
     },
     {
       "id": "490544dbcf9577f1",
@@ -406,183 +279,6 @@
       "published_date": "2026-09-10",
       "still_developing": false,
       "first_seen": "2026-09-11",
-      "is_new": false
-    },
-    {
-      "id": "92202d8966f27622",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "August 2026 jobs report today: only 53K payrolls forecast amid 'jobless summer'",
-      "summary": "The Bureau of Labor Statistics releases the August jobs report Friday, September 4 at 8:30 AM ET; consensus forecasts call for just 53,000 new nonfarm payrolls after the prior two months showed a net loss of 3,000 jobs, potentially reinforcing the Fed's case to hold rates in September.",
-      "why": "弱非农数据将进一步压低美联储9月加息概率，利好风险资产和港股；若数据大幅低于预期，市场有望延续本周升势，期权卖方（sell put）策略短期处于有利环境",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "nonfarm payrolls",
-        "NFP",
-        "jobs report",
-        "Fed",
-        "labor market",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
-      "published_date": "2026-09-03",
-      "still_developing": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "941b4e6c576634cc",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "个股",
-      "title": "Costco August 2026 net sales $23.70B, up 9.9%; FY2026 full-year sales $297.3B",
-      "summary": "Costco reported August 2026 net sales of $23.70 billion (+9.9% YoY), with comparable sales up 8.4% (U.S. +9.0%, Canada +4.0%, international +9.5%) and e-commerce surging 17.9%; FY2026 full-year net sales reached $297.3 billion (+10.2%), closing in on $300B.",
-      "why": "好市多销售数据持续超预期，会员消费韧性强；FY2026全年接近3000亿美元是重要里程碑，Q4季报定于9月24日，期权到期前有催化剂窗口值得关注",
-      "source": "Costco官方新闻稿 via GlobeNewswire",
-      "verified": true,
-      "keywords": [
-        "Costco",
-        "COST",
-        "sales",
-        "comparable sales",
-        "membership",
-        "retail"
-      ],
-      "translated": false,
-      "url": "https://www.globenewswire.com/news-release/2026/09/02/3355518/0/en/costco-wholesale-corporation-reports-august-sales-results.html",
-      "published_date": "2026-09-02",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "0c01fef67efa4f7d",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Xiaomi makes historic IFA 2026 debut: CyberOne humanoid on factory floors, in-house XRING AI chip, EV European push",
-      "summary": "Xiaomi debuted at IFA 2026 in Berlin with its largest overseas booth (3,300 sqm, 380+ products) under the 'Human × Car × Home' theme, showcasing CyberOne humanoid robot deployed on EV assembly lines with 98% task success rate, the new XRING O3 3nm AI chip, and signed deals with German EV dealers targeting a 2027 European launch with €7.4B R&D commitment.",
-      "why": "小米IFA首秀是品牌出海战略破圈关键里程碑：汽车拟2027年入欧洲、机器人量产验证、自研芯片齐推；多重叙事共振有望推动1810.HK估值重估，IFA媒体曝光度达历史新高",
-      "source": "Korea Economic Daily (en.sedaily.com)",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "IFA",
-        "机器人",
-        "AI芯片",
-        "汽车",
-        "欧洲",
-        "出海"
-      ],
-      "translated": false,
-      "url": "https://en.sedaily.com/finance/2026/09/03/xiaomi-makes-ifa-debut-with-humanoid-robot-and-in-house-ai",
-      "published_date": "2026-09-03",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "703704ea04f9f951",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "Meituan's Keeta faces Brazil antitrust deepened probe after iFood complaint over predatory pricing",
-      "summary": "Brazil's CADE ordered a deepened antitrust investigation into Meituan-backed Keeta after local rival iFood (Prosus) filed a formal complaint alleging predatory pricing — Keeta offers up to 250 reais per order and subsidizes up to 80% per transaction — and requested a preliminary injunction to halt below-cost operations.",
-      "why": "延续报道：CADE已命令展开更深层次审查，事件持续发酵。巴西监管若发出禁令可能实质阻碍Keeta扩张，美团3690.HK国际化叙事受压；持有美团仓位需持续跟踪巴西监管进展",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "Keeta",
-        "Brazil",
-        "antitrust",
-        "iFood",
-        "出海"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival",
-      "published_date": "2026-08-31",
-      "still_developing": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "6487a7b17f44d303",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:02",
-      "group": "个股",
-      "title": "Snowflake (SNOW) Q2 earnings report 2027",
-      "summary": "Snowflake发布Q2 FY2027财报（截至2026年7月31日），产品收入15.5亿美元超预期14.8亿美元，同比增35%；调整后EPS 0.62美元大超预期0.45美元；Q3指引强劲，股价盘后大涨逾20%。",
-      "why": "Snowflake大幅超预期印证企业AI数据云需求持续强劲，是科技/AI板块情绪转暖的重要信号；AI基础设施需求加速支撑英伟达、美光等持仓逻辑。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Snowflake",
-        "SNOW",
-        "AI",
-        "数据中心",
-        "科技"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
-      "published_date": "2026-09-02",
-      "still_developing": false,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "59dcf3e249da2a0f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "A股突变高开低走：科创50跌超2%，猪肉板块逆势涨停；厄尔尼诺超强事件确认",
-      "summary": "9月4日A股高开后全线回落，沪指跌0.3%，深成指跌0.79%，科创50指数跌超2.1%。世界气象组织发布公报确认厄尔尼诺事件已出现并预计增强为超强事件，猪肉、生猪养殖板块逆市大涨，多股涨停。",
-      "why": "A股科技板块回调、科创50领跌，A股科技持仓短期承压；厄尔尼诺超强确认引发粮食与农业板块阶段性炒作，与消费/科技持仓关联有限但反映市场情绪分化；需关注隔夜美股下跌对次日A股开盘的传导。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "科创50",
-        "厄尔尼诺",
-        "猪肉股",
-        "科技板块"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4152576.shtml",
-      "published_date": "2026-09-04",
-      "still_developing": false,
-      "first_seen": "2026-09-05",
       "is_new": false
     },
     {
@@ -702,6 +398,69 @@
       "published_date": "2026-09-04",
       "still_developing": true,
       "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "0dd52f02d62aa1d5",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "2026-09-09 00:00",
+      "group": "大盘头条",
+      "title": "Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path",
+      "summary": "Gold hovered near $4,400/oz, supported by safe-haven demand amid Middle East tensions while hawkish Fed rate-hike expectations and rising Treasury yields capped upside. The metal faces conflicting pressures ahead of the September 16 FOMC meeting, where markets price a ~57% probability of a 25bps rate hike to 3.75–4.0%. Federal Reserve Chair Kevin Warsh described financial conditions as 'not broadly restrictive' and flagged PCE at 3.7% YoY as a concern.",
+      "why": "黄金逼近4400美元/盎司为年内高位，与美联储9月加息预期及中东地缘风险形成张力；距今2天内仍在演变（9月16日FOMC会议将是关键催化剂），still_developing=true。Bloomberg白名单媒体。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "gold",
+        "XAU",
+        "FOMC",
+        "Fed",
+        "rate hike",
+        "safe haven",
+        "inflation",
+        "Treasury"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path",
+      "published_date": "2026-09-09",
+      "still_developing": true,
+      "first_seen": "2026-09-11",
+      "is_new": false
+    },
+    {
+      "id": "ac425a2e61b580d5",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "2026-09-09 00:00",
+      "group": "大盘头条",
+      "title": "燧原科技688801今日登陆科创板：发行价142.18元，募资近60亿元",
+      "summary": "燧原科技（688801.SH）于2026年9月11日正式登陆上交所科创板，发行价142.18元/股，总募资约60亿元人民币，为本月A股最大规模科创板IPO。公司主营面向AI训练/推理的国产GPU/NPU芯片，定位国内替代英伟达产品的高端算力赛道。首日交易数据尚未完整披露，上市后涨幅待观察。",
+      "why": "今日（9月11日）为燧原科技上市首日，属于正在发生中的市场事件；发行价及募资规模已由第一财经（白名单媒体）于9月9日报道，首日实际走势仍在演变中，still_developing=true。国产AI芯片赛道高度关注。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "燧原科技",
+        "688801",
+        "科创板",
+        "IPO",
+        "AI芯片",
+        "GPU",
+        "国产算力",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260909/herald/d11f52c63b0151fff5f026ab497acce9.html",
+      "published_date": "2026-09-09",
+      "still_developing": true,
+      "first_seen": "2026-09-11",
       "is_new": false
     },
     {
