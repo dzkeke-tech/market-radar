@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-14 08:22 (北京时间)",
+  "updated_at": "2026-09-14 13:24 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,279 +9,225 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-14 08:22 (北京时间)",
-    "new_count": 9,
-    "degraded": 3,
+    "at": "2026-09-14 13:24 (北京时间)",
+    "new_count": 7,
+    "degraded": 7,
     "input_missing": false
   },
   "items": [
     {
-      "id": "5f3bb9ceaeb05b8d",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-warns-of-ai-risks-as-chip-stocks-face-pressure",
-      "title": "Anthropic发布最新AI安全警告，科技/芯片板块承压",
-      "summary": "Anthropic在最新安全报告中警告前沿AI模型存在潜在灾难性风险，并呼吁加强监管。报告发布后市场情绪偏谨慎，英伟达、AMD等AI芯片股盘中承压。分析师指出，监管收紧预期是短期波动因子，但长期AI算力需求逻辑未变。",
-      "source": "Bloomberg",
-      "published_date": "2026-09-13",
-      "tier": 1,
-      "category": "大盘头条",
+      "id": "628f140aca33c75b",
+      "tier": 3,
+      "lang": "en",
       "markets": [
-        "US"
+        "US",
+        "HK"
       ],
+      "time": "22:00",
+      "group": "macro",
+      "title": "Anthropic、OpenAI、xAI领袖联名呼吁放缓AI前沿模型开发；美股科技期货重挫，半导体股承压",
+      "summary": "Dario Amodei发表约3800字文章呼吁AI放缓，Altman/Musk背书，OpenAI宣布今年不IPO。美股科技期货周日晚间大幅下跌，英伟达、美光、AMD等半导体股受冲击。",
+      "why": "直接影响组合持仓：英伟达(NVDA)、美光(MU)、SK海力士(7709.HK)等AI/存储芯片股的需求前景承压；腾讯(0700.HK)、阿里(9988.HK)AI业务估值逻辑受冲击。期权策略参考：短期隐含波动率大幅上升，sell put需谨慎，考虑适当上移行权价或暂缓展期。",
+      "source": "CNBC",
       "verified": true,
-      "still_developing": false,
-      "why": "当日要闻，AI监管风险对芯片板块短期情绪有压制",
       "keywords": [
-        "AI监管",
         "英伟达",
-        "芯片",
-        "Anthropic"
+        "美光",
+        "SK海力士",
+        "腾讯",
+        "阿里巴巴"
       ],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+      "published_date": "2026-09-13",
+      "still_developing": false,
+      "cross_ref": "",
       "_schema_issues": [
-        "缺少必填字段 why"
+        "tier 非法: 'T1'（应为 1/2/3）"
       ],
-      "group": "大盘头条",
-      "translated": false,
-      "lang": "zh",
-      "time": "08:22",
+      "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-14",
       "is_new": true
     },
     {
-      "id": "48d26712c1497c8d",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-13/fed-fomc-meeting-september-2026-rate-hike-25bp",
-      "title": "美联储FOMC本周议息（9/15-16），市场预期加息25bp",
-      "summary": "美联储9月15-16日议息会议将是本周最大宏观事件。利率期货显示市场定价25bp加息概率约72%，维持不变概率约28%。鲍威尔新闻发布会措辞将是关键，若点阵图暗示年内还有一次加息，风险资产短期或承压。港股、A股对美联储政策高度敏感。",
-      "source": "Bloomberg",
+      "id": "74acc10c46f51c00",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "23:00",
+      "group": "macro",
+      "title": "Vessel struck in Strait of Hormuz, UKMTO says; Iran-Gulf talks set for Monday",
+      "summary": "UKMTO确认9月13日又有商船在霍尔木兹海峡遭不明飞射物袭击，伊朗与海湾国家代表将于周一在阿曼举行会谈。布伦特原油维持高位近$105。",
+      "why": "霍尔木兹危机持续扩大尾部风险：原油价格企稳高位$105，能源价格再度推高通胀预期，压缩美联储降息空间；同时推高避险情绪，港美股市场波动加剧，sell put策略需关注组合整体delta敞口。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
       "published_date": "2026-09-13",
-      "tier": 1,
-      "category": "大盘头条",
+      "still_developing": true,
+      "cross_ref": "",
+      "_schema_issues": [
+        "缺少必填字段 keywords",
+        "tier 非法: 'T1'（应为 1/2/3）"
+      ],
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": true
+    },
+    {
+      "id": "7172f34e484b2699",
+      "tier": 3,
+      "lang": "zh",
       "markets": [
         "US",
         "HK",
         "A"
       ],
-      "verified": true,
-      "still_developing": true,
-      "why": "9/15-16议息会议结果尚未公布，事件仍在发酵",
-      "keywords": [
-        "FOMC",
-        "美联储",
-        "加息",
-        "宏观"
-      ],
-      "group": "大盘头条",
-      "translated": false,
-      "lang": "zh",
-      "time": "08:22",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "8414269e6948282f",
-      "url": "https://finance.yahoo.com/news/circle-crcl-clarity-act-cloture-vote-fomc-dual-catalysts-2026-09-13",
-      "title": "Circle(CRCL)双重催化：CLARITY Act程序票9/15 + FOMC 9/16",
-      "summary": "Circle本周面临两大事件：9月15日美国参议院将对CLARITY Act（稳定币监管法案）进行程序性终止辩论投票；9月16日FOMC加息决定若落地，利率环境明确后，稳定币储备收益可预期性提升。两者叠加，CRCL股价本周波动率隐含偏高。",
-      "source": "Yahoo Finance",
-      "published_date": "2026-09-13",
-      "tier": 1,
-      "category": "个股",
-      "markets": [
-        "US"
-      ],
+      "time": "09:00",
+      "group": "macro",
+      "title": "美联储9月15-16日FOMC前夕：通胀数据韧性超预期，加息预期持续升温",
+      "summary": "8月PPI与CPI相继公布，通胀韧性强于预期；霍尔木兹危机推高能源价格进一步加剧通胀压力。美联储9月16日公布利率决议（北京时间9月17日凌晨2时），主席沃什（Warsh）此前偏鹰派讲话令加息预期明显升温。",
+      "why": "延续报道：FOMC会议将于9月15-16日举行，决议9月17日凌晨公布，是近两天最重要的宏观催化事件。加息预期升温将直接压制成长股估值，对组合中NVDA/PLTR/BABA/9988.HK等高估值标的影响最大；sell put需提高警惕，考虑降低名义仓位或选择更低行权价。",
+      "source": "新浪财经",
       "verified": false,
-      "still_developing": true,
-      "why": "CLARITY Act投票9/15尚未发生，FOMC 9/16尚未发生，双重事件持续发酵；verified=false因主url为Yahoo Finance非白名单，且未能交叉到白名单媒体独立报道",
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "CLARITY Act",
-        "稳定币",
-        "FOMC"
-      ],
-      "group": "个股",
-      "translated": false,
-      "lang": "zh",
-      "time": "08:22",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "903078b8979da274",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/nvidia-doj-investigation-groq-20-billion-licensing-deal",
-      "title": "英伟达遭DOJ调查：Groq 200亿美元授权协议涉反竞争",
-      "summary": "彭博社报道，美国司法部已启动对英伟达的反垄断调查，焦点是英伟达与AI芯片初创公司Groq之间的约200亿美元IP授权协议，调查关注该协议是否构成对竞争对手的排他性限制。英伟达股价盘中下跌超3%。公司表示将配合调查。",
-      "source": "Bloomberg",
-      "published_date": "2026-09-10",
-      "tier": 1,
-      "category": "个股",
-      "markets": [
-        "US"
-      ],
-      "verified": true,
-      "still_developing": true,
-      "why": "DOJ调查正在进行，后续进展将持续影响NVDA估值",
       "keywords": [
         "英伟达",
-        "NVDA",
-        "DOJ",
-        "反垄断",
-        "Groq"
+        "Palantir",
+        "阿里巴巴"
       ],
-      "group": "个股",
       "translated": false,
-      "lang": "zh",
-      "time": "08:22",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "54c6eaee3af0a711",
-      "url": "https://www.reuters.com/markets/asia-pacific/hong-kong-stocks-hsi-weekly-loss-2026-09-12/",
-      "title": "港股周跌3.5%、沪深300周跌1.6%，外围压力主导",
-      "summary": "截至9月12日收盘，恒生指数本周累跌约3.5%，沪深300周跌约1.6%。美联储加息预期升温叠加油价高企，令风险偏好持续走低。科技股（腾讯、阿里、美团）和消费股领跌；黄金相关标的（老铺黄金）因避险情绪获支撑。",
-      "source": "Reuters",
-      "published_date": "2026-09-12",
-      "tier": 2,
-      "category": "大盘头条",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "verified": true,
-      "still_developing": false,
-      "why": "当周市场综述，对港股/A股持仓提供宏观背景",
-      "keywords": [
-        "恒生指数",
-        "沪深300",
-        "港股",
-        "A股",
-        "周跌"
-      ],
-      "_schema_issues": [
-        "缺少必填字段 why"
-      ],
-      "group": "大盘头条",
-      "translated": false,
-      "lang": "zh",
-      "time": "08:22",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "4c7ffca1719d9e08",
-      "url": "https://www.iea.org/reports/oil-market-report-september-2026",
-      "title": "IEA 9月石油市场报告：布油均价$105/桶，欧洲柴油溢价创新高",
-      "summary": "IEA9月报告：全球供应缺口持续，布伦特原油月均价约105美元/桶，欧洲柴油现货溢价突破200美元/吨。IEA维持2026年全球石油需求预测不变，但警告俄乌能源走廊风险持续。高油价对航空（携程）、餐饮（海底捞）、零售（沃尔玛、好市多）等成本端构成压力。",
-      "source": "IEA",
-      "published_date": "2026-09-09",
-      "tier": 2,
-      "category": "大盘头条",
-      "markets": [
-        "US"
-      ],
-      "verified": true,
-      "still_developing": true,
-      "why": "能源价格仍在高位发酵，对多个持仓标的成本端持续影响",
-      "keywords": [
-        "油价",
-        "IEA",
-        "布伦特",
-        "能源"
-      ],
-      "group": "大盘头条",
-      "translated": false,
-      "lang": "zh",
-      "time": "08:22",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "a0236efc57f48fd3",
-      "url": "https://www.tencent.com/en-us/investor/news.html",
-      "title": "腾讯(00700)连续20+交易日回购，港交所披露9/11单日1.5亿港元",
-      "summary": "据港交所披露易公告，腾讯控股9月11日单日回购约170万股，耗资约1.5亿港元，均价约88.2港元/股。腾讯本轮回购已连续超过20个交易日未中断，对股价形成持续支撑。",
-      "source": "腾讯IR/港交所披露易",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-09-11/doc-inirmruc2203009.shtml",
       "published_date": "2026-09-11",
-      "tier": 2,
-      "category": "个股",
+      "still_developing": true,
+      "cross_ref": "",
+      "_schema_issues": [
+        "tier 非法: 'T1'（应为 1/2/3）"
+      ],
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": true
+    },
+    {
+      "id": "586a4dd7ac277b89",
+      "tier": 3,
+      "lang": "zh",
       "markets": [
         "HK"
       ],
-      "verified": true,
-      "still_developing": true,
-      "why": "回购计划仍在持续，每日披露为连续事件；2026-09-11为最新单日数据",
+      "time": "09:35",
+      "group": "macro",
+      "title": "港股9月14日开盘：恒指低开0.42%，AI/半导体股普遍承压，石油服务股逆势活跃",
+      "summary": "受AI三巨头呼吁放缓开发消息拖累，港股9月14日恒生指数低开0.42%报24701.18点；腾讯-1.07%、阿里-1.86%、中芯国际近-2%。石油服务股逆市走强。",
+      "why": "组合持仓早盘表现：腾讯(0700.HK)、阿里(9988.HK)开盘即下跌，港股AI/科技板块整体承压，印证前夜美股科技期货大跌的传导。关注收盘后是否有腾讯加大回购护盘的公告。",
+      "source": "界面新闻",
+      "verified": false,
       "keywords": [
         "腾讯",
-        "00700",
-        "回购",
-        "港股",
-        "HKEX"
+        "阿里巴巴"
       ],
-      "group": "个股",
       "translated": false,
-      "lang": "zh",
-      "time": "08:22",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "9462cebb7d430088",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TCOM&type=6-K&dateb=&owner=include&count=10",
-      "title": "携程(TCOM/9961)Q2业绩明日披露，关注35亿反垄断一次性负担",
-      "summary": "携程将于9月15日（明日）发布2026年Q2财报。市场关注：国内出行及出境游复苏趋势；公司与监管和解的约35亿人民币反垄断相关一次性支出是否在本季体现；全年指引是否上修。携程9961.HK及TCOM近期震荡，业绩前波动率偏高。",
-      "source": "SEC EDGAR (6-K 2026-09-12)",
-      "published_date": "2026-09-12",
-      "tier": 2,
-      "category": "个股",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "verified": true,
-      "still_developing": true,
-      "why": "Q2业绩将于9/15披露，事件尚未完成",
-      "keywords": [
-        "携程",
-        "TCOM",
-        "9961.HK",
-        "业绩",
-        "反垄断"
-      ],
-      "group": "个股",
-      "translated": false,
-      "lang": "zh",
-      "time": "08:22",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "613f6919c0241b5c",
-      "url": "https://www.futunn.com/hk/news/detail/36500001",
-      "title": "科创50/上证50成分股调整9月14日正式生效",
-      "summary": "按沪深交易所公告，本次指数成分股调整（STAR50及SSE50）于2026年9月14日起正式生效。被纳入或剔除的个股通常在生效前后出现短期波动；跟踪该指数的ETF同步完成被动再平衡。投资者需关注相关标的在调整日前后的流动性变化。",
-      "source": "富途牛牛",
+      "url": "https://www.jiemian.com/article/15089510.html",
       "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_schema_issues": [
+        "tier 非法: 'T2'（应为 1/2/3）"
+      ],
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": true
+    },
+    {
+      "id": "53216cfc050e946d",
       "tier": 3,
-      "category": "大盘头条",
+      "lang": "zh",
       "markets": [
         "A"
       ],
-      "verified": true,
-      "still_developing": false,
-      "why": "指数调整当日生效，相关ETF被动再平衡可能引发流动性扰动",
+      "time": "09:35",
+      "group": "macro",
+      "title": "A股9月14日开盘：三大指数集体低开，算力/AI硬件板块领跌，油气板块逆势活跃",
+      "summary": "上证指数低开0.54%报3867.02点，深成指低开1.03%，创业板指低开1.29%。算力硬件、通信设备、贵金属板块领跌；油气开采及服务、软件开发板块高开走强。",
+      "why": "A股AI硬件/算力板块领跌，印证AI放缓担忧对产业链的传导。美光(MU)/SK海力士相关供应商承压；油气板块逆势上行对冲地缘风险，与霍尔木兹事件逻辑一致。",
+      "source": "智通财经",
+      "verified": false,
       "keywords": [
-        "科创50",
-        "上证50",
-        "指数调整",
-        "ETF"
+        "美光",
+        "SK海力士"
       ],
-      "_schema_issues": [
-        "缺少必填字段 why"
-      ],
-      "group": "大盘头条",
       "translated": false,
+      "url": "https://m.zhitongcaijing.com/content/contentimmediatelydetail.html?immediately_id=7578869",
+      "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_schema_issues": [
+        "tier 非法: 'T2'（应为 1/2/3）"
+      ],
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": true
+    },
+    {
+      "id": "04f1095250dfbd67",
+      "tier": 3,
       "lang": "zh",
-      "time": "08:22",
+      "markets": [
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "腾讯",
+      "title": "腾讯控股(00700.HK) 9月11日大幅加码回购：单日购回270万股耗资10亿港元",
+      "summary": "财联社9月11日电，腾讯控股于9月11日回购270万股，耗资10亿港元。单日回购规模较9月初每次22-23万股大幅提升，显示管理层在近期股价回调中显著加速回购。",
+      "why": "延续报道：腾讯回购节奏大幅提速（从每日22万股跳升至270万股），是管理层对当前估值的强烈信号，对持有0700.HK的sell put策略形成支撑。关注9月14日是否继续大额回购，若连续多日维持高位回购则可考虑在回调中加码sell put或买入正股。",
+      "source": "财联社",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "00700"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/1796205",
+      "published_date": "2026-09-11",
+      "still_developing": true,
+      "cross_ref": "",
+      "_schema_issues": [
+        "tier 非法: 'T2'（应为 1/2/3）"
+      ],
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": true
+    },
+    {
+      "id": "46b3f24c368e2a79",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:40",
+      "group": "SK海力士",
+      "title": "港股HBM存储ETF重挫：CSOP南方两倍做多SK海力士开盘跌超13%，日韩存储股全线大跌",
+      "summary": "受AI三巨头呼吁放缓AI开发拖累，港股存储芯片概念股9月14日开盘集体重挫：南方东英SK海力士每日杠杆最多(2x)产品（7709.HK）跌超13%，南方两倍做多三星电子跌超8%。日韩市场SK海力士本股跌超6%，铠侠跌近10%。",
+      "why": "SK海力士(7709.HK)两倍杠杆产品大幅下跌，直接影响组合中该仓位的持仓盈亏。HBM需求预期下修是核心逻辑，若AI放缓担忧持续，SK海力士/美光的sell put策略需考虑延迟展期或提高行权价保护。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "美光",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://www.gelonghui.com/live/",
+      "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_schema_issues": [
+        "tier 非法: 'T2'（应为 1/2/3）"
+      ],
+      "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-14",
       "is_new": true
     },
@@ -315,7 +261,8 @@
       "published_date": "2026-09-08",
       "still_developing": false,
       "first_seen": "2026-09-09",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "f5b7815a05a8109f",
@@ -346,7 +293,8 @@
       "published_date": "2026-09-05",
       "still_developing": true,
       "first_seen": "2026-09-09",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "f74155050e5406e4",
@@ -377,7 +325,8 @@
       "published_date": "2026-09-10",
       "still_developing": false,
       "first_seen": "2026-09-11",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "a5fd00758f210673",
@@ -408,7 +357,8 @@
       "published_date": "2026-09-11",
       "still_developing": true,
       "first_seen": "2026-09-13",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "27a7e97865557952",
@@ -439,7 +389,68 @@
       "published_date": "2026-09-11",
       "still_developing": true,
       "first_seen": "2026-09-13",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "8414269e6948282f",
+      "url": "https://finance.yahoo.com/news/circle-crcl-clarity-act-cloture-vote-fomc-dual-catalysts-2026-09-13",
+      "title": "Circle(CRCL)双重催化：CLARITY Act程序票9/15 + FOMC 9/16",
+      "summary": "Circle本周面临两大事件：9月15日美国参议院将对CLARITY Act（稳定币监管法案）进行程序性终止辩论投票；9月16日FOMC加息决定若落地，利率环境明确后，稳定币储备收益可预期性提升。两者叠加，CRCL股价本周波动率隐含偏高。",
+      "source": "Yahoo Finance",
+      "published_date": "2026-09-13",
+      "tier": 1,
+      "category": "个股",
+      "markets": [
+        "US"
+      ],
+      "verified": false,
+      "still_developing": true,
+      "why": "CLARITY Act投票9/15尚未发生，FOMC 9/16尚未发生，双重事件持续发酵；verified=false因主url为Yahoo Finance非白名单，且未能交叉到白名单媒体独立报道",
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "CLARITY Act",
+        "稳定币",
+        "FOMC"
+      ],
+      "group": "个股",
+      "translated": false,
+      "lang": "zh",
+      "time": "08:22",
+      "first_seen": "2026-09-14",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "903078b8979da274",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/nvidia-doj-investigation-groq-20-billion-licensing-deal",
+      "title": "英伟达遭DOJ调查：Groq 200亿美元授权协议涉反竞争",
+      "summary": "彭博社报道，美国司法部已启动对英伟达的反垄断调查，焦点是英伟达与AI芯片初创公司Groq之间的约200亿美元IP授权协议，调查关注该协议是否构成对竞争对手的排他性限制。英伟达股价盘中下跌超3%。公司表示将配合调查。",
+      "source": "Bloomberg",
+      "published_date": "2026-09-10",
+      "tier": 1,
+      "category": "个股",
+      "markets": [
+        "US"
+      ],
+      "verified": false,
+      "still_developing": true,
+      "why": "DOJ调查正在进行，后续进展将持续影响NVDA估值",
+      "keywords": [
+        "英伟达",
+        "NVDA",
+        "DOJ",
+        "反垄断",
+        "Groq"
+      ],
+      "group": "个股",
+      "translated": false,
+      "lang": "zh",
+      "time": "08:22",
+      "first_seen": "2026-09-14",
+      "is_new": false,
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref"
     },
     {
       "id": "9c1040ae4466a0a9",
@@ -467,7 +478,8 @@
       "published_date": "2026-09-08",
       "still_developing": false,
       "first_seen": "2026-09-09",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "4cb9fc7b774f594a",
@@ -482,7 +494,7 @@
       "summary": "Kimi大模型母公司月之暗面已机密提交港股上市申请，计划于9月底前递交正式招股书，最快今年底或2027年Q1挂牌。此次IPO拟融资30-50亿美元，当前融资轮估值约500亿美元。花旗、高盛、德银、中金为联席保荐人，美国银行担任整体协调人。",
       "why": "中国头部AI独角兽赴港IPO提振港股科技板块情绪，有利于恒生科技指数相关持仓；500亿美元估值创大模型赛道新高，可能带动市场重估同类型AI/互联网平台（腾讯、阿里、美团等）的AI价值；后续IPO进展将影响港股科技板块整体流动性。",
       "source": "Bloomberg",
-      "verified": true,
+      "verified": false,
       "keywords": [
         "Moonshot AI",
         "月之暗面",
@@ -497,7 +509,8 @@
       "published_date": "2026-09-04",
       "still_developing": true,
       "first_seen": "2026-09-09",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref"
     },
     {
       "id": "654173f4c4c7f663",
@@ -527,7 +540,8 @@
       "published_date": "2026-09-08",
       "still_developing": false,
       "first_seen": "2026-09-09",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "33364cdbd2d83480",
@@ -558,7 +572,8 @@
       "published_date": "2026-09-04",
       "still_developing": true,
       "first_seen": "2026-09-09",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "0dd52f02d62aa1d5",
@@ -590,7 +605,8 @@
       "published_date": "2026-09-09",
       "still_developing": true,
       "first_seen": "2026-09-11",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref"
     },
     {
       "id": "ac425a2e61b580d5",
@@ -621,7 +637,8 @@
       "published_date": "2026-09-09",
       "still_developing": true,
       "first_seen": "2026-09-11",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "2d8ef6208f8ae982",
@@ -638,7 +655,7 @@
       "summary": "Surging oil prices and mounting Fed rate-hike bets triggered a broad global selloff on September 10: the Hang Seng Index fell ~300 points to around 24,970; US 10-year Treasury yields climbed to 4.86%; and Wall Street stocks extended losses into a third consecutive session.",
       "why": "港股和美股同步承压——组合中的港股持仓（腾讯、泡泡玛特、美团、老铺黄金）短期均面临估值收缩压力；美债利率快速上行亦直接抬升期权定价的无风险利率基础，Sell Put总体吸引力暂降，宜评估各标的margin要求。",
       "source": "Bloomberg",
-      "verified": true,
+      "verified": false,
       "keywords": [
         "Hang Seng",
         "global selloff",
@@ -652,7 +669,8 @@
       "published_date": "2026-09-10",
       "still_developing": false,
       "first_seen": "2026-09-11",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref"
     },
     {
       "id": "fef7ac6b93301029",
@@ -684,7 +702,8 @@
       "published_date": "2026-09-10",
       "still_developing": false,
       "first_seen": "2026-09-11",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "主源 asia.nikkei.com 不可机检且未提供 cross_ref"
     },
     {
       "id": "380243beb9dfc549",
@@ -714,7 +733,8 @@
       "published_date": "2026-09-09",
       "still_developing": false,
       "first_seen": "2026-09-11",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "95f4f7cf5c0844b3",
@@ -744,7 +764,8 @@
       "published_date": "2026-09-09",
       "still_developing": false,
       "first_seen": "2026-09-11",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "b06357123d5c4069",
@@ -773,7 +794,8 @@
       "published_date": "2026-09-11",
       "still_developing": false,
       "first_seen": "2026-09-13",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "6a04ed56fa6ab677",
@@ -802,7 +824,8 @@
       "published_date": "2026-09-09",
       "still_developing": true,
       "first_seen": "2026-09-13",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "e0cbf4966e5846cc",
@@ -818,7 +841,7 @@
       "summary": "Spot gold steadied near $4,400/oz as of September 9-11, 2026, snapping a three-day losing streak with a 1% gain before pausing. Safe-haven demand driven by the 2026 Iran war and Saudi energy disruptions pushed gold higher, while rising US Treasury yields and Fed rate-hike expectations (now ~85% odds for September 25bp hike) provide a counterweight. On September 11, spot gold briefly touched $4,400.25 (+1.93% intraday).",
       "why": "黄金价格逼近$4,400，对持仓老铺黄金（6181.HK）构成短期正面催化——金价走强直接利好古法金珠宝需求与品牌溢价；同时关注美联储加息落地后黄金是否因利率上升而承压。",
       "source": "Bloomberg",
-      "verified": true,
+      "verified": false,
       "keywords": [
         "gold",
         "黄金",
@@ -832,7 +855,8 @@
       "published_date": "2026-09-09",
       "still_developing": true,
       "first_seen": "2026-09-13",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref"
     },
     {
       "id": "45b1eaa6f8e7f3da",
@@ -863,7 +887,8 @@
       "published_date": "2026-09-10",
       "still_developing": true,
       "first_seen": "2026-09-13",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "dc4f2b936bac7369",
@@ -894,7 +919,158 @@
       "published_date": "2026-09-08",
       "still_developing": true,
       "first_seen": "2026-09-13",
-      "is_new": false
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "54c6eaee3af0a711",
+      "url": "https://www.reuters.com/markets/asia-pacific/hong-kong-stocks-hsi-weekly-loss-2026-09-12/",
+      "title": "港股周跌3.5%、沪深300周跌1.6%，外围压力主导",
+      "summary": "截至9月12日收盘，恒生指数本周累跌约3.5%，沪深300周跌约1.6%。美联储加息预期升温叠加油价高企，令风险偏好持续走低。科技股（腾讯、阿里、美团）和消费股领跌；黄金相关标的（老铺黄金）因避险情绪获支撑。",
+      "source": "Reuters",
+      "published_date": "2026-09-12",
+      "tier": 2,
+      "category": "大盘头条",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "verified": false,
+      "still_developing": false,
+      "why": "当周市场综述，对港股/A股持仓提供宏观背景",
+      "keywords": [
+        "恒生指数",
+        "沪深300",
+        "港股",
+        "A股",
+        "周跌"
+      ],
+      "group": "大盘头条",
+      "translated": false,
+      "lang": "zh",
+      "time": "08:22",
+      "first_seen": "2026-09-14",
+      "is_new": false,
+      "_url_check": "主源 reuters.com 不可机检且未提供 cross_ref"
+    },
+    {
+      "id": "4c7ffca1719d9e08",
+      "url": "https://www.iea.org/reports/oil-market-report-september-2026",
+      "title": "IEA 9月石油市场报告：布油均价$105/桶，欧洲柴油溢价创新高",
+      "summary": "IEA9月报告：全球供应缺口持续，布伦特原油月均价约105美元/桶，欧洲柴油现货溢价突破200美元/吨。IEA维持2026年全球石油需求预测不变，但警告俄乌能源走廊风险持续。高油价对航空（携程）、餐饮（海底捞）、零售（沃尔玛、好市多）等成本端构成压力。",
+      "source": "IEA",
+      "published_date": "2026-09-09",
+      "tier": 2,
+      "category": "大盘头条",
+      "markets": [
+        "US"
+      ],
+      "verified": true,
+      "still_developing": true,
+      "why": "能源价格仍在高位发酵，对多个持仓标的成本端持续影响",
+      "keywords": [
+        "油价",
+        "IEA",
+        "布伦特",
+        "能源"
+      ],
+      "group": "大盘头条",
+      "translated": false,
+      "lang": "zh",
+      "time": "08:22",
+      "first_seen": "2026-09-14",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "a0236efc57f48fd3",
+      "url": "https://www.tencent.com/en-us/investor/news.html",
+      "title": "腾讯(00700)连续20+交易日回购，港交所披露9/11单日1.5亿港元",
+      "summary": "据港交所披露易公告，腾讯控股9月11日单日回购约170万股，耗资约1.5亿港元，均价约88.2港元/股。腾讯本轮回购已连续超过20个交易日未中断，对股价形成持续支撑。",
+      "source": "腾讯IR/港交所披露易",
+      "published_date": "2026-09-11",
+      "tier": 2,
+      "category": "个股",
+      "markets": [
+        "HK"
+      ],
+      "verified": true,
+      "still_developing": true,
+      "why": "回购计划仍在持续，每日披露为连续事件；2026-09-11为最新单日数据",
+      "keywords": [
+        "腾讯",
+        "00700",
+        "回购",
+        "港股",
+        "HKEX"
+      ],
+      "group": "个股",
+      "translated": false,
+      "lang": "zh",
+      "time": "08:22",
+      "first_seen": "2026-09-14",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "9462cebb7d430088",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TCOM&type=6-K&dateb=&owner=include&count=10",
+      "title": "携程(TCOM/9961)Q2业绩明日披露，关注35亿反垄断一次性负担",
+      "summary": "携程将于9月15日（明日）发布2026年Q2财报。市场关注：国内出行及出境游复苏趋势；公司与监管和解的约35亿人民币反垄断相关一次性支出是否在本季体现；全年指引是否上修。携程9961.HK及TCOM近期震荡，业绩前波动率偏高。",
+      "source": "SEC EDGAR (6-K 2026-09-12)",
+      "published_date": "2026-09-12",
+      "tier": 2,
+      "category": "个股",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "verified": true,
+      "still_developing": true,
+      "why": "Q2业绩将于9/15披露，事件尚未完成",
+      "keywords": [
+        "携程",
+        "TCOM",
+        "9961.HK",
+        "业绩",
+        "反垄断"
+      ],
+      "group": "个股",
+      "translated": false,
+      "lang": "zh",
+      "time": "08:22",
+      "first_seen": "2026-09-14",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "613f6919c0241b5c",
+      "url": "https://www.futunn.com/hk/news/detail/36500001",
+      "title": "科创50/上证50成分股调整9月14日正式生效",
+      "summary": "按沪深交易所公告，本次指数成分股调整（STAR50及SSE50）于2026年9月14日起正式生效。被纳入或剔除的个股通常在生效前后出现短期波动；跟踪该指数的ETF同步完成被动再平衡。投资者需关注相关标的在调整日前后的流动性变化。",
+      "source": "富途牛牛",
+      "published_date": "2026-09-14",
+      "tier": 3,
+      "category": "大盘头条",
+      "markets": [
+        "A"
+      ],
+      "verified": true,
+      "still_developing": false,
+      "why": "指数调整当日生效，相关ETF被动再平衡可能引发流动性扰动",
+      "keywords": [
+        "科创50",
+        "上证50",
+        "指数调整",
+        "ETF"
+      ],
+      "group": "大盘头条",
+      "translated": false,
+      "lang": "zh",
+      "time": "08:22",
+      "first_seen": "2026-09-14",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     }
   ]
 }
