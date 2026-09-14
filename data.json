@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-14 13:24 (北京时间)",
+  "updated_at": "2026-09-14 18:15 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,224 +9,124 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-14 13:24 (北京时间)",
-    "new_count": 7,
-    "degraded": 7,
+    "at": "2026-09-14 18:15 (北京时间)",
+    "new_count": 4,
+    "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "628f140aca33c75b",
-      "tier": 3,
+      "id": "fffd5542eb16e163",
+      "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "22:00",
-      "group": "macro",
-      "title": "Anthropic、OpenAI、xAI领袖联名呼吁放缓AI前沿模型开发；美股科技期货重挫，半导体股承压",
-      "summary": "Dario Amodei发表约3800字文章呼吁AI放缓，Altman/Musk背书，OpenAI宣布今年不IPO。美股科技期货周日晚间大幅下跌，英伟达、美光、AMD等半导体股受冲击。",
-      "why": "直接影响组合持仓：英伟达(NVDA)、美光(MU)、SK海力士(7709.HK)等AI/存储芯片股的需求前景承压；腾讯(0700.HK)、阿里(9988.HK)AI业务估值逻辑受冲击。期权策略参考：短期隐含波动率大幅上升，sell put需谨慎，考虑适当上移行权价或暂缓展期。",
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "AI stocks slide after Anthropic, OpenAI CEOs urge slowdown",
+      "summary": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman both called for slowing AI development, sparking a broad global selloff in AI-related stocks. SK Hynix fell over 6%, Samsung slid 4%, SoftBank dropped 10%, and Nvidia declined ~3% pre-market. Nasdaq 100 futures fell 1.2%, S&P 500 futures lost 0.6%.",
+      "why": "AI主题核心持仓（英伟达NVDA、SK海力士HBM相关）直接受压，SK海力士港股代理ETF（7709.HK两倍杠杆）波动放大；整体科技板块情绪恶化将提升相关期权隐含波动率，对卖期权策略需谨慎。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
+        "AI",
         "英伟达",
-        "美光",
         "SK海力士",
-        "腾讯",
-        "阿里巴巴"
+        "科技"
       ],
-      "translated": true,
-      "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
-      "published_date": "2026-09-13",
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
+      "published_date": "2026-09-14",
       "still_developing": false,
       "cross_ref": "",
-      "_schema_issues": [
-        "tier 非法: 'T1'（应为 1/2/3）"
-      ],
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-14",
       "is_new": true
     },
     {
-      "id": "74acc10c46f51c00",
-      "tier": 3,
+      "id": "78018718dfa2c9dc",
+      "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "23:00",
-      "group": "macro",
-      "title": "Vessel struck in Strait of Hormuz, UKMTO says; Iran-Gulf talks set for Monday",
-      "summary": "UKMTO确认9月13日又有商船在霍尔木兹海峡遭不明飞射物袭击，伊朗与海湾国家代表将于周一在阿曼举行会谈。布伦特原油维持高位近$105。",
-      "why": "霍尔木兹危机持续扩大尾部风险：原油价格企稳高位$105，能源价格再度推高通胀预期，压缩美联储降息空间；同时推高避险情绪，港美股市场波动加剧，sell put策略需关注组合整体delta敞口。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [],
-      "translated": true,
-      "url": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
-      "published_date": "2026-09-13",
-      "still_developing": true,
-      "cross_ref": "",
-      "_schema_issues": [
-        "缺少必填字段 keywords",
-        "tier 非法: 'T1'（应为 1/2/3）"
-      ],
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "7172f34e484b2699",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
       "time": "09:00",
-      "group": "macro",
-      "title": "美联储9月15-16日FOMC前夕：通胀数据韧性超预期，加息预期持续升温",
-      "summary": "8月PPI与CPI相继公布，通胀韧性强于预期；霍尔木兹危机推高能源价格进一步加剧通胀压力。美联储9月16日公布利率决议（北京时间9月17日凌晨2时），主席沃什（Warsh）此前偏鹰派讲话令加息预期明显升温。",
-      "why": "延续报道：FOMC会议将于9月15-16日举行，决议9月17日凌晨公布，是近两天最重要的宏观催化事件。加息预期升温将直接压制成长股估值，对组合中NVDA/PLTR/BABA/9988.HK等高估值标的影响最大；sell put需提高警惕，考虑降低名义仓位或选择更低行权价。",
-      "source": "新浪财经",
-      "verified": false,
+      "group": "大盘头条",
+      "title": "Satellite images show extent of damage to Saudi Arabia's oil pipeline that bypasses Strait of Hormuz",
+      "summary": "Saudi Arabia shut its East-West oil pipeline (7 million barrels/day capacity) after drone attacks, with satellite images showing pump station damage. Brent crude rose 3.4% to $108.17 per barrel Monday; WTI rose 3% to $103.07, adding significant inflationary pressure.",
+      "why": "油价飙升加剧通胀压力，叠加美联储明日（9/16）利率决议，加息预期进一步强化；能源成本上行对消费/餐饮持仓（海底捞、麦当劳）构成成本压力；老铺黄金因避险属性或受益。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "英伟达",
-        "Palantir",
-        "阿里巴巴"
+        "宏观",
+        "通胀",
+        "油价",
+        "地缘政治"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-09-11/doc-inirmruc2203009.shtml",
+      "url": "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
+      "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": true
+    },
+    {
+      "id": "50f55248e0ec5648",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "02:00",
+      "group": "大盘头条",
+      "title": "Stock market next week: Outlook for Sept. 14-18, 2026",
+      "summary": "FOMC meets Sept. 15-16 with the rate decision due 2 PM ET Wednesday. Fed funds futures as of Sept. 11 priced in ~59% odds of a 25bp rate hike (CNBC), as Fed Chair Kevin Warsh signaled a hawkish tilt at Jackson Hole after markets had priced ~70% chance of holding steady. Retail sales and inflation data also due this week.",
+      "why": "延续报道：FOMC利率决议于明日（9/16）公布，是本周最大市场催化剂。59%概率来自CNBC 9/11引用的联邦基金期货定价；沙特油价冲击后概率或已进一步上升。加息落地将压制成长股估值，所有持仓须防范高波动风险。沃什（Kevin Warsh）为现任美联储主席，2026年5月就职。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "美联储",
+        "利率",
+        "FOMC"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/11/stock-market-next-week-outlook-for-sept-14-18-2026.html",
       "published_date": "2026-09-11",
       "still_developing": true,
       "cross_ref": "",
-      "_schema_issues": [
-        "tier 非法: 'T1'（应为 1/2/3）"
-      ],
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-14",
       "is_new": true
     },
     {
-      "id": "586a4dd7ac277b89",
-      "tier": 3,
-      "lang": "zh",
+      "id": "6f0a4262dc53dff7",
+      "tier": 2,
+      "lang": "en",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "09:35",
-      "group": "macro",
-      "title": "港股9月14日开盘：恒指低开0.42%，AI/半导体股普遍承压，石油服务股逆势活跃",
-      "summary": "受AI三巨头呼吁放缓开发消息拖累，港股9月14日恒生指数低开0.42%报24701.18点；腾讯-1.07%、阿里-1.86%、中芯国际近-2%。石油服务股逆市走强。",
-      "why": "组合持仓早盘表现：腾讯(0700.HK)、阿里(9988.HK)开盘即下跌，港股AI/科技板块整体承压，印证前夜美股科技期货大跌的传导。关注收盘后是否有腾讯加大回购护盘的公告。",
-      "source": "界面新闻",
-      "verified": false,
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
+      "summary": "CNBC reports Anthropic is pursuing a Nasdaq IPO targeting a $2 trillion valuation, even while calling for AI development slowdowns. If completed, this would rank among the largest tech IPOs in history.",
+      "why": "Anthropic IPO将重新锚定AI板块估值参照系，对谷歌（GOOGL）、英伟达（NVDA）、Palantir（PLTR）等AI主题持仓有连带定价影响；超大规模IPO同时分流流动性，对期权卖权策略环境有影响。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "腾讯",
-        "阿里巴巴"
+        "AI",
+        "IPO",
+        "科技"
       ],
       "translated": false,
-      "url": "https://www.jiemian.com/article/15089510.html",
+      "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
       "published_date": "2026-09-14",
       "still_developing": false,
       "cross_ref": "",
-      "_schema_issues": [
-        "tier 非法: 'T2'（应为 1/2/3）"
-      ],
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "53216cfc050e946d",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:35",
-      "group": "macro",
-      "title": "A股9月14日开盘：三大指数集体低开，算力/AI硬件板块领跌，油气板块逆势活跃",
-      "summary": "上证指数低开0.54%报3867.02点，深成指低开1.03%，创业板指低开1.29%。算力硬件、通信设备、贵金属板块领跌；油气开采及服务、软件开发板块高开走强。",
-      "why": "A股AI硬件/算力板块领跌，印证AI放缓担忧对产业链的传导。美光(MU)/SK海力士相关供应商承压；油气板块逆势上行对冲地缘风险，与霍尔木兹事件逻辑一致。",
-      "source": "智通财经",
-      "verified": false,
-      "keywords": [
-        "美光",
-        "SK海力士"
-      ],
-      "translated": false,
-      "url": "https://m.zhitongcaijing.com/content/contentimmediatelydetail.html?immediately_id=7578869",
-      "published_date": "2026-09-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_schema_issues": [
-        "tier 非法: 'T2'（应为 1/2/3）"
-      ],
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "04f1095250dfbd67",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "18:00",
-      "group": "腾讯",
-      "title": "腾讯控股(00700.HK) 9月11日大幅加码回购：单日购回270万股耗资10亿港元",
-      "summary": "财联社9月11日电，腾讯控股于9月11日回购270万股，耗资10亿港元。单日回购规模较9月初每次22-23万股大幅提升，显示管理层在近期股价回调中显著加速回购。",
-      "why": "延续报道：腾讯回购节奏大幅提速（从每日22万股跳升至270万股），是管理层对当前估值的强烈信号，对持有0700.HK的sell put策略形成支撑。关注9月14日是否继续大额回购，若连续多日维持高位回购则可考虑在回调中加码sell put或买入正股。",
-      "source": "财联社",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "00700"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/1796205",
-      "published_date": "2026-09-11",
-      "still_developing": true,
-      "cross_ref": "",
-      "_schema_issues": [
-        "tier 非法: 'T2'（应为 1/2/3）"
-      ],
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-14",
-      "is_new": true
-    },
-    {
-      "id": "46b3f24c368e2a79",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:40",
-      "group": "SK海力士",
-      "title": "港股HBM存储ETF重挫：CSOP南方两倍做多SK海力士开盘跌超13%，日韩存储股全线大跌",
-      "summary": "受AI三巨头呼吁放缓AI开发拖累，港股存储芯片概念股9月14日开盘集体重挫：南方东英SK海力士每日杠杆最多(2x)产品（7709.HK）跌超13%，南方两倍做多三星电子跌超8%。日韩市场SK海力士本股跌超6%，铠侠跌近10%。",
-      "why": "SK海力士(7709.HK)两倍杠杆产品大幅下跌，直接影响组合中该仓位的持仓盈亏。HBM需求预期下修是核心逻辑，若AI放缓担忧持续，SK海力士/美光的sell put策略需考虑延迟展期或提高行权价保护。",
-      "source": "格隆汇",
-      "verified": false,
-      "keywords": [
-        "SK海力士",
-        "美光",
-        "英伟达"
-      ],
-      "translated": false,
-      "url": "https://www.gelonghui.com/live/",
-      "published_date": "2026-09-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_schema_issues": [
-        "tier 非法: 'T2'（应为 1/2/3）"
-      ],
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-14",
       "is_new": true
@@ -1042,6 +942,203 @@
       "first_seen": "2026-09-14",
       "is_new": false,
       "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "628f140aca33c75b",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "22:00",
+      "group": "macro",
+      "title": "Anthropic、OpenAI、xAI领袖联名呼吁放缓AI前沿模型开发；美股科技期货重挫，半导体股承压",
+      "summary": "Dario Amodei发表约3800字文章呼吁AI放缓，Altman/Musk背书，OpenAI宣布今年不IPO。美股科技期货周日晚间大幅下跌，英伟达、美光、AMD等半导体股受冲击。",
+      "why": "直接影响组合持仓：英伟达(NVDA)、美光(MU)、SK海力士(7709.HK)等AI/存储芯片股的需求前景承压；腾讯(0700.HK)、阿里(9988.HK)AI业务估值逻辑受冲击。期权策略参考：短期隐含波动率大幅上升，sell put需谨慎，考虑适当上移行权价或暂缓展期。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "美光",
+        "SK海力士",
+        "腾讯",
+        "阿里巴巴"
+      ],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+      "published_date": "2026-09-13",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": false
+    },
+    {
+      "id": "74acc10c46f51c00",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "23:00",
+      "group": "macro",
+      "title": "Vessel struck in Strait of Hormuz, UKMTO says; Iran-Gulf talks set for Monday",
+      "summary": "UKMTO确认9月13日又有商船在霍尔木兹海峡遭不明飞射物袭击，伊朗与海湾国家代表将于周一在阿曼举行会谈。布伦特原油维持高位近$105。",
+      "why": "霍尔木兹危机持续扩大尾部风险：原油价格企稳高位$105，能源价格再度推高通胀预期，压缩美联储降息空间；同时推高避险情绪，港美股市场波动加剧，sell put策略需关注组合整体delta敞口。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
+      "published_date": "2026-09-13",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": false,
+      "_schema_issues": [
+        "缺少必填字段 keywords"
+      ]
+    },
+    {
+      "id": "7172f34e484b2699",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "macro",
+      "title": "美联储9月15-16日FOMC前夕：通胀数据韧性超预期，加息预期持续升温",
+      "summary": "8月PPI与CPI相继公布，通胀韧性强于预期；霍尔木兹危机推高能源价格进一步加剧通胀压力。美联储9月16日公布利率决议（北京时间9月17日凌晨2时），主席沃什（Warsh）此前偏鹰派讲话令加息预期明显升温。",
+      "why": "延续报道：FOMC会议将于9月15-16日举行，决议9月17日凌晨公布，是近两天最重要的宏观催化事件。加息预期升温将直接压制成长股估值，对组合中NVDA/PLTR/BABA/9988.HK等高估值标的影响最大；sell put需提高警惕，考虑降低名义仓位或选择更低行权价。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Palantir",
+        "阿里巴巴"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-09-11/doc-inirmruc2203009.shtml",
+      "published_date": "2026-09-11",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": false
+    },
+    {
+      "id": "586a4dd7ac277b89",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:35",
+      "group": "macro",
+      "title": "港股9月14日开盘：恒指低开0.42%，AI/半导体股普遍承压，石油服务股逆势活跃",
+      "summary": "受AI三巨头呼吁放缓开发消息拖累，港股9月14日恒生指数低开0.42%报24701.18点；腾讯-1.07%、阿里-1.86%、中芯国际近-2%。石油服务股逆市走强。",
+      "why": "组合持仓早盘表现：腾讯(0700.HK)、阿里(9988.HK)开盘即下跌，港股AI/科技板块整体承压，印证前夜美股科技期货大跌的传导。关注收盘后是否有腾讯加大回购护盘的公告。",
+      "source": "界面新闻",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "阿里巴巴"
+      ],
+      "translated": false,
+      "url": "https://www.jiemian.com/article/15089510.html",
+      "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": false
+    },
+    {
+      "id": "53216cfc050e946d",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:35",
+      "group": "macro",
+      "title": "A股9月14日开盘：三大指数集体低开，算力/AI硬件板块领跌，油气板块逆势活跃",
+      "summary": "上证指数低开0.54%报3867.02点，深成指低开1.03%，创业板指低开1.29%。算力硬件、通信设备、贵金属板块领跌；油气开采及服务、软件开发板块高开走强。",
+      "why": "A股AI硬件/算力板块领跌，印证AI放缓担忧对产业链的传导。美光(MU)/SK海力士相关供应商承压；油气板块逆势上行对冲地缘风险，与霍尔木兹事件逻辑一致。",
+      "source": "智通财经",
+      "verified": false,
+      "keywords": [
+        "美光",
+        "SK海力士"
+      ],
+      "translated": false,
+      "url": "https://m.zhitongcaijing.com/content/contentimmediatelydetail.html?immediately_id=7578869",
+      "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": false
+    },
+    {
+      "id": "04f1095250dfbd67",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "腾讯",
+      "title": "腾讯控股(00700.HK) 9月11日大幅加码回购：单日购回270万股耗资10亿港元",
+      "summary": "财联社9月11日电，腾讯控股于9月11日回购270万股，耗资10亿港元。单日回购规模较9月初每次22-23万股大幅提升，显示管理层在近期股价回调中显著加速回购。",
+      "why": "延续报道：腾讯回购节奏大幅提速（从每日22万股跳升至270万股），是管理层对当前估值的强烈信号，对持有0700.HK的sell put策略形成支撑。关注9月14日是否继续大额回购，若连续多日维持高位回购则可考虑在回调中加码sell put或买入正股。",
+      "source": "财联社",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "00700"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/1796205",
+      "published_date": "2026-09-11",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": false
+    },
+    {
+      "id": "46b3f24c368e2a79",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:40",
+      "group": "SK海力士",
+      "title": "港股HBM存储ETF重挫：CSOP南方两倍做多SK海力士开盘跌超13%，日韩存储股全线大跌",
+      "summary": "受AI三巨头呼吁放缓AI开发拖累，港股存储芯片概念股9月14日开盘集体重挫：南方东英SK海力士每日杠杆最多(2x)产品（7709.HK）跌超13%，南方两倍做多三星电子跌超8%。日韩市场SK海力士本股跌超6%，铠侠跌近10%。",
+      "why": "SK海力士(7709.HK)两倍杠杆产品大幅下跌，直接影响组合中该仓位的持仓盈亏。HBM需求预期下修是核心逻辑，若AI放缓担忧持续，SK海力士/美光的sell put策略需考虑延迟展期或提高行权价保护。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "美光",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://www.gelonghui.com/live/",
+      "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-14",
+      "is_new": false
     },
     {
       "id": "613f6919c0241b5c",
