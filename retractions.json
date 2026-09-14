@@ -1,0 +1,11 @@
+{
+  "_说明": "撤稿清单。把要从雷达里撤掉的条目 id 写进 ids，推到 main 即可——merge_radar.py 每轮会把它们移出 data.json，并留在 seen.json 里防止被重新抓取。这是撤稿的唯一合法通道，不要手工改 data.json。",
+  "ids": [
+    "48d26712c1497c8d",
+    "5f3bb9ceaeb05b8d"
+  ],
+  "_why": {
+    "48d26712c1497c8d": "2026-09-14「美联储FOMC本周议息，市场预期加息25bp」——方向无误（确有25bp加息预期），但正文写「鲍威尔新闻发布会」，鲍威尔 2026-05 已卸任，现任主席为 Kevin Warsh；『定价72%』无出处；url 为拼造的 bloomberg.com 长 slug 却标 verified:true。",
+    "5f3bb9ceaeb05b8d": "2026-09-14「Anthropic发布最新AI安全警告」——事件属实（9/13 确有相关报道），但所挂 bloomberg.com 链接系编造，真实报道在 Business Standard / Invezz / Yahoo Finance。撤回后由后续轮次以真实链接重新收录。"
+  }
+}

@@ -1,4 +1,4 @@
-# 财经雷达 · Routine 指令 v6（轻量上下文版）
+# 财经雷达 · Routine 指令 v7（轻量上下文版）
 
 > 把「===」之间的全部内容粘贴进 Claude Code Routine 的 prompt 字段，**整段替换**现有内容。
 > 模型选 **Sonnet 4.6**；调度 UTC cron `0 0,5,10 * * *` = 北京时间 08:00 / 13:00 / 18:00。
@@ -122,6 +122,35 @@ curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
 - 只用 media_cn / media_en / media_anchor 白名单源；命中 demote 的降权或剔除。
 - **非白名单来源不得作为主 `url`**：如果某条新闻只在非白名单媒体（个人自媒体、转载聚合页等）上找到，必须先换用白名单信源交叉确认同一事件，确认不到就放弃该候选，不能直接把非白名单页面挂成 `url`。
 
+**2.9 事实必须来自本轮检索到的原文（v7 新增，硬规则）**
+
+- **任何人物姓名、职务、头衔、利率水平、概率数字、日程日期，都必须是本轮打开的
+  原文里写着的。不得凭记忆或常识填写。** 你的训练数据有截止日期，人事和政策会变；
+  凡是"我记得是这样"的内容，一律当作未经核实处理。
+- 已知易错点（2026-09-14 的教训）：那一轮写出"**鲍威尔**新闻发布会措辞将是关键"，
+  但鲍威尔 2026-05 任满卸任，**现任美联储主席是 Kevin Warsh（凯文·沃什）**，
+  5 月 22 日宣誓就职。同一条还写了"市场定价加息概率约 72%"，这个数字在任何原文里
+  都找不到。方向对不等于内容对——**错的名字比没有这条新闻更糟**。
+- 写到任何在任者（央行行长/主席、CEO、监管负责人、部长）时，必须在本轮检索结果里
+  看到这个名字才能写；只要没看到，就改成机构名（"美联储"、"美联储主席"），
+  不要填一个人名。
+- 涉及概率/定价的数字（"市场定价 X% 概率"），必须给出数字出处（CME FedWatch 的
+  具体日期快照、或原文中的表述），并且这个出处要写进 `summary` 或 `why`。
+
+**2.10 硬墙媒体必须给 cross_ref（v7 新增，硬规则）**
+
+- Bloomberg / Reuters / WSJ / FT / 日经 / The Information 这些源，脚本没法机检
+  （一律返回 403），所以**它们的链接是最容易被编造、也最难被发现的**。
+  2026-09-14 那轮的两条 `bloomberg.com/news/articles/2026-09-13/...` 长 slug
+  链接就是拼出来的，却都标着 `verified:true`。
+- 规则：主 `url` 落在上述任一硬墙域名时，**必须额外填一个 `cross_ref` 字段**，
+  内容是同一事件在另一个可机检白名单源上的链接（CNBC、SCMP、财新、第一财经、
+  格隆汇、智通财经、官方公告页等）。
+- 给不出 `cross_ref` 的，`merge_radar.py` 会把该条强制降为 `verified:false`
+  （App 上显示"待核实"）。这不是惩罚，就是 2.2(b)「≥2 个独立白名单报道」的机械化。
+- **反过来也成立：与其挂一个编造的 Bloomberg 链接，不如老老实实挂那个你真的
+  打开过的源。** `source` 写你真正读的那一篇，不要为了"看起来权威"改写成 Bloomberg。
+
 ## 3. 去重
 
 **3.1 id 去重（挡"同一篇文章"）**
@@ -167,6 +196,11 @@ curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
 
 > ⚠️ 只写**本次新增**的条目（去重后通过的）。不要合并历史、不要剪枝——这些由 merge_radar.py 完成。
 
+> ⚠️ **字段表是封闭的：下面列出的字段，一个不能少，一个不能多。**
+> 2026-09-14 那轮多写了一个 `category`（和 `group` 重复）。多余字段本身无害，
+> 但它是 prompt 漂移的第一个信号——上一次漂移（2026-08-11 写成 type/tags）
+> 直接让当天 7 条新闻全都没有"为何相关"。发现自己想写表外字段时，停下来重读本节。
+
 把本次新增条目写入工作区的 `new_items.json`：
 
 ```python
@@ -193,7 +227,10 @@ items = []  # 填入本次新增条目，每条结构如下：
 #   "translated": False,
 #   "url": "原文链接（真实报道/公告，非行情页，且必须是白名单信源或已交叉确认）",
 #   "published_date": "2026-07-25",   # 【v4新增，必填】原文实际发布日期，从原文时间戳读取
-#   "still_developing": False          # 【v4新增】published_date 超过2天但仍要收录时设 True，并在 why 里写明理由
+#   "still_developing": False,         # 【v4新增】published_date 超过2天但仍要收录时设 True，并在 why 里写明理由
+#   "cross_ref": ""                    # 【v7新增】主 url 落在 Bloomberg/Reuters/WSJ/FT/日经/The Information
+#                                      # 时必填：同一事件在另一个可机检白名单源上的链接（见 §2.10）。
+#                                      # 主 url 不是硬墙媒体时留空字符串即可。
 # }
 
 with open("new_items.json", "w", encoding="utf-8") as f:
@@ -202,46 +239,98 @@ with open("new_items.json", "w", encoding="utf-8") as f:
 
 ## 7. 调用 merge_radar.py 发布
 
-new_items.json 写好后，运行合并脚本（脚本自动读取历史、合并、剪枝、**按 published_date 做发布日期硬性过滤**、**按 dedupe_topics() 做事件级去重**、写回 GitHub main 分支）：
+new_items.json 写好后，运行合并脚本。**发布这一步完全由脚本负责，你不要插手。**
 
 ```bash
 cd /path/to/market-radar   # 替换为工作区实际路径
 python3 merge_radar.py
 ```
 
-**读日志判断成败，不要只看退出码**：脚本的退出码 1 有两种含义——(a) 发布过程中
-`gh_put` 收到 GitHub API 报错（日志里会有 `PUT ... FAILED HTTP ...`），这种情况
-main **没有更新**，是真失败；(b) 全部发布成功，只是部分条目字段不全被降级
-（日志里会有"本轮有 N 条字段不全，已降级发布...data.json 已成功写入"），这种
-main **已经更新**，不是失败。把日志贴出来看清楚是哪一种，不要看到非 0 退出码
-就直接假设"降级但已发布"从而忽略掉真正的 HTTP 失败。
+v10 起脚本自己会做完整条链路：GitHub API PUT → 失败则自动 `git push origin HEAD:main`
+兜底 → 最后回读 main 上的 data.json 比对 `updated_at`。三步都在代码里，不需要你再补动作。
 
-**⚠️ 无论退出码是什么，都不允许因为脚本报错就自己动手写 data.json/seen.json
-或者 git commit 兜底** ——这正是 2026-08-17 那次事故的成因（见文首 v6 changelog）。
-如果 `gh_put` 报错，就在运行日志里如实写"发布失败：<HTTP 错误内容>"，然后停止，
-下一轮 Routine 再重试即可，不要试图在本轮"抢救"发布结果。
+**7.0 先确认脚本版本（过渡期）**
+
+脚本启动时会打印一行 `merge_radar v10 (2026-09-14)`。
+
+- **看到 v10** → 按 7.1~7.5 执行，什么都不用补。
+- **没看到这一行**（说明 v10 补丁还没合并进 main）→ 脚本不会自己 push，
+  这时**只做一件事**：把脚本**自己写出来的** `data.json` / `seen.json`
+  原样提交并推到 main：
+
+  ```bash
+  git config user.name "Claude" && git config user.email "noreply@anthropic.com"
+  git add data.json seen.json
+  git commit -m "chore(radar): publish <本轮> radar run"
+  git push origin HEAD:main
+  ```
+
+  推完仍要回读 main 的 `updated_at` 确认（见 8.1）。
+  **注意：这一步只允许原样搬运脚本的产出。打开这两个文件改内容——哪怕只是"把
+  漏掉的 why 补回去"——都属于 7.1 明令禁止的手工兜底。**
+
+**7.1 【硬规则】绝对禁止手工兜底**
+
+无论脚本报什么错、退出码是几，**都不允许**：
+
+- 自己动手写 / 改 `data.json`、`seen.json`；
+- 自己 `git add data.json` 后 commit、push；
+- 在自己的上下文里"攒"出合并结果。
+
+这条规则有两次血的教训：2026-08-17 那次事故就是这么来的；2026-09-14 那轮又犯了一次
+——脚本的 schema 闸门判定 3 条新闻缺 `why`、按设计把 `why` 换成了占位提示，
+随后那轮的 agent 把 `why` 手工补了回去再 git push，结果 `_schema_issues` 标记没清掉，
+App 顶上"有 3 条新闻字段不全"的横幅挂了一整天，而数据其实是好的。**手工兜底修掉的是
+症状，留下的是假象。**
+
+正确做法：`why` 缺了，就回到第 6 步把 `new_items.json` 补全，然后**重新跑一次
+`python3 merge_radar.py`**；脚本会重新校验、重新发布。
+
+**7.2 读日志判断成败，不要只看退出码**
+
+退出码 1 有两种含义：
+
+- (a) 日志里有 `PUT ... FAILED` **且** `git push` 兜底也失败 **或** 回读校验未通过
+  → **真失败**，main 没有更新。按 7.4 报错。
+- (b) 日志里有"本轮有 N 条字段不全，已降级发布…data.json 已成功写入"，且回读校验
+  打印了 `✓ 校验通过` → main **已经更新**，不是失败。按 7.3 处理降级条目。
+
+把日志原文贴出来看清楚是哪一种，不要看到非 0 退出码就直接假设"降级但已发布"从而
+忽略掉真正的发布失败。
+
+**7.3 降级条目怎么处理**
+
+脚本会打印两类降级：
+
+- `⚠ Schema 降级 N 条` —— 字段不全。回第 6 步补全 `new_items.json` 再跑一次。
+- `⚠ url 机检降级 N 条` —— url 返回 404/410（疑似编造），或硬墙媒体没给 cross_ref。
+  **url 404 是严重信号：说明这条的链接根本不存在，几乎一定是编的。**
+  回去重新检索这个事件，找到真实链接再提交；找不到就整条丢弃，不要保留。
+
+**7.4 发布失败怎么办**
+
+不要手工编造 data.json、也不要假装成功，直接在第 8 步明确报告"本轮未能发布到 main"，
+并附上完整报错。下一轮 Routine 会重试。
+
+**7.5 撤稿走 retractions.json**
+
+要把某条已经发布的新闻从雷达上撤下来（发现是编造链接、事实错误等），**唯一的合法
+通道是 `retractions.json`**：把它的 `id` 加进 `ids` 数组，连同一句撤稿理由写进
+`_why`，然后连 `retractions.json` 一起提交推到 main。脚本每轮会把这些 id 移出
+data.json，并留在 seen.json 里防止被重新抓取。同样：**不要为了撤稿去手改 data.json**。
 
 ## 8. 运行自检
 
-**8.1 发布后核验（新增，务必执行）**：运行完 merge_radar.py 后，用下面的命令
-重新从 GitHub **main 分支**拉取 data.json，确认 `updated_at`/`last_run.at`
-就是这一轮刚写的时间戳（而不是上一轮遗留的旧值）：
-
-```bash
-curl -s "https://api.github.com/repos/dzkeke-tech/market-radar/contents/data.json?ref=main" \
-  -H "Authorization: Bearer $GITHUB_TOKEN" \
-  | python3 -c "import sys,json,base64; d=json.load(sys.stdin); print(json.loads(base64.b64decode(d['content'])).get('last_run'))"
-```
-
-如果 `last_run.at` 不是本轮的时间戳，说明发布并没有真正生效（哪怕脚本打印了
-"HTTP 200"，也可能是缓存/分支引用之类的问题）——这种情况下按发布失败处理，
-在日志里明确报错，不要满足于"脚本跑完没报错"就认为任务完成。
+**8.1 发布后核验**：v10 的 `verify_published()` 已经在脚本里做了这件事——回读
+main 上的 data.json 并比对 `updated_at`。你只需要在日志里确认看到 `✓ 校验通过`。
+如果看到 `✗ 校验未通过`，按 7.4 处理。
 
 **8.2 一句话自检**：本次新增 X / id 去重丢 Y / 事件级去重丢了几条（分别和哪条
-已有新闻判定为同一事件）/ merge_radar.py 是否返回 0，日志里是"真失败"还是
-"降级但已发布" / 8.1 的核验是否通过 / 有无无法核实条目 / **脚本本轮按发布日期
-过滤丢了几条、分别是什么原因** /
+已有新闻判定为同一事件）/ merge_radar.py 退出码与日志属于 7.2 的 (a) 还是 (b) /
+回读校验是否 `✓` / schema 降级几条、url 机检降级几条、分别怎么处理的 /
+脚本本轮按发布日期过滤丢了几条、分别是什么原因 /
 **覆盖自检：① media_anchor 大盘头条是否扫过？② entries 每个标的的 core+derived 是否都展开搜过？③ 港股/A股名单有没有被美股大新闻挤掉？④ 有无里程碑/破圈类软新闻被漏？⑤ 每条候选是否都填了 published_date，且都在原文页面核对过发布日期？⑥ 有没有把多篇/多日公告自己加总成"累计/聚合"数字？⑦ 有没有用非白名单页面直接当 url？⑧ 有没有和最近几轮已收录的新闻讲的是同一件事，却当成新新闻提交？**
+**⑨【v7新增】有没有哪个人名、职务、利率、概率数字是凭记忆写的而不是从本轮原文里读到的？⑩【v7新增】主 url 落在 Bloomberg/Reuters/WSJ/FT 的条目，是不是都给了 cross_ref？⑪【v7新增】本轮有没有手工改过 data.json / seen.json，或自己 git add data.json 提交过？（答案必须是"没有"）**
 
 ## 调优
 

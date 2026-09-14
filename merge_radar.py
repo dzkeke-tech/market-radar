@@ -69,6 +69,25 @@ seen.json 或本地 git commit 兜底；脚本这层无法强制这一点，只�
 再按标题/摘要的文本相似度 + keywords 重合度做一次"事件级"去重，与已发布历史
 （existing_items）和同批次候选互相比对，命中则丢弃并计入 seen，防止同一事件
 被反复收录。
+
+v10 改动（2026-09-14）：三件事，全部指向同一次事故。
+
+2026-09-14 08:22 那轮的产出有两个问题：(1) App 横幅长期挂着"有 3 条新闻字段
+不全"，但把这三条原样喂回 validate_item_schema() 却一个问题都没有——说明标记
+是陈旧的：闸门当轮确实判定 why 缺失并写了占位符，随后有人把 why 补了回去、
+却没清掉 _schema_issues。(2)「美联储FOMC本周议息」一条把主席写成鲍威尔
+（鲍威尔 2026-05 已卸任，现任 Kevin Warsh），url 是拼出来的 bloomberg.com
+长 slug，却标着 verified:true；同轮的 Anthropic 那条事件是真的，Bloomberg
+链接同样是编的。根因是那轮的检索/核实环节整个没跑，条目是凭记忆生成的。
+
+  (a) validate_item_schema() 进门先 pop 掉旧的 _schema_issues，并且 main() 每轮
+      对历史条目也重跑一次闸门——内容修好了，标记就自动摘掉，不会永久挂着。
+  (b) 新增 check_item_urls()：url 返回 404/410 视为编造，强制 verified=false；
+      Bloomberg/Reuters/WSJ 这类机器测不出的硬墙媒体，必须额外给一个可机检的
+      cross_ref，给不出就降为"待核实"。历史条目也会逐轮补测一次。
+  (c) 新增 retractions.json：撤稿的唯一合法通道。要撤掉一条已发布的新闻，
+      把 id 写进这个文件推到 main，脚本每轮把它移出 data.json 并留在 seen 里。
+      **不要手工改 data.json**——2026-08-17 和 2026-09-14 两次都栽在这里。
 """
 
 import json
@@ -151,9 +170,104 @@ def gh_put(filename, obj, sha, message):
         with urllib.request.urlopen(req) as r:
             code = r.status
         print(f"  PUT {filename} → HTTP {code}")
+        return True
     except urllib.error.HTTPError as e:
         err = e.read().decode()
-        print(f"  PUT {filename} FAILED HTTP {e.code}: {err} (local file already written, will git-push)", file=sys.stderr)
+        print(f"  PUT {filename} FAILED HTTP {e.code}: {err}", file=sys.stderr)
+        print(f"  → 本地文件已写好，稍后由 git_push_to_main() 兜底发布。", file=sys.stderr)
+        return False
+    except Exception as e:
+        print(f"  PUT {filename} FAILED ({type(e).__name__}: {e})", file=sys.stderr)
+        print(f"  → 本地文件已写好，稍后由 git_push_to_main() 兜底发布。", file=sys.stderr)
+        return False
+
+
+# ── v9：发布兜底与回读校验 ─────────────────────────────────────────────────
+#
+# v9 改动（2026-09-13）。触发原因：2026-09-05 起 Routine 沙箱的出口代理开始拦截
+# 对 api.github.com 的**写**请求（GET 正常，PUT 返回 403），而 2026-09-05 的提交
+# 375c359 又把 gh_put 失败时的 sys.exit(1) 去掉了，改成"写本地文件 + 靠 git push
+# 兜底"。问题是这个"兜底"从来没有写进代码，只存在于注释里——运行环境只会把工作区
+# 自动提交到它自己的一次性分支 claude/modest-goldberg-*，永远推不到 main。于是链路
+# 变成：PUT 403 → 脚本不报错 → 退出码 0 → Routine 显示成功 → App 永远看不到更新。
+# 9-05~9-07 和 9-11~9-13 两段停摆都是这个原因，中间几次恢复靠的是某轮 Routine 的
+# agent 自己临时想到去 git push（见 7a6c9b9 的提交说明），不可靠。
+#
+# 修法：把兜底做成代码里确定发生的一步，并在最后回读 main 做校验。
+#   - git_push_to_main()：API 写失败时，直接把 data.json/seen.json 提交并推到 main。
+#     沙箱对 github.com 的 git 推送是放行的（7a6c9b9 已验证），只有 REST API 写被拦。
+#   - verify_published()：无论走哪条路，最后都重新 GET 一次 main 的 data.json，
+#     比对 updated_at 是否等于本轮的值。对不上就 exit(1)。
+#     这样"跑了但没发出去"不再可能静默通过。
+
+def _run(cmd, cwd):
+    import subprocess
+    p = subprocess.run(cmd, cwd=cwd, capture_output=True, text=True)
+    out = (p.stdout or "") + (p.stderr or "")
+    print(f"  $ {' '.join(cmd)} → rc={p.returncode}")
+    for line in out.strip().splitlines()[:20]:
+        print(f"    {line}")
+    return p.returncode, out
+
+
+def git_push_to_main(message):
+    """API 写入失败时的兜底：把本地已写好的 data.json/seen.json 直接推到 main。
+
+    返回 True 表示推送成功。失败返回 False（由调用方 exit(1)）。
+    """
+    here = os.path.dirname(os.path.abspath(__file__))
+    print("\n→ REST API 写入失败，改用 git push 直接发布到 main …")
+
+    _run(["git", "config", "user.name", "Claude"], here)
+    _run(["git", "config", "user.email", "noreply@anthropic.com"], here)
+
+    rc, _ = _run(["git", "add", "data.json", "seen.json"], here)
+    if rc != 0:
+        return False
+
+    rc, out = _run(["git", "diff", "--cached", "--quiet"], here)
+    if rc == 0:
+        print("  没有待提交的改动，跳过 push。")
+        return True
+
+    rc, _ = _run(["git", "commit", "-m", message], here)
+    if rc != 0:
+        return False
+
+    rc, out = _run(["git", "push", "origin", "HEAD:main"], here)
+    if rc != 0:
+        # 可能是别的运行抢先推了，rebase 一次再试
+        _run(["git", "fetch", "origin", "main"], here)
+        rc2, _ = _run(["git", "rebase", "origin/main"], here)
+        if rc2 != 0:
+            _run(["git", "rebase", "--abort"], here)
+            return False
+        rc, out = _run(["git", "push", "origin", "HEAD:main"], here)
+
+    return rc == 0
+
+
+def verify_published(expected_updated_at):
+    """回读 main 的 data.json，确认 updated_at 就是本轮写入的值。
+
+    这是整个脚本唯一可信的"发布成功"判据——不看 PUT 的返回码，也不看 git 的退出码，
+    只看 App 真正读的那份文件到底变了没有。
+    """
+    print("\n→ 回读校验：重新拉取 main 的 data.json …")
+    try:
+        data, _ = gh_get("data.json")
+    except Exception as e:
+        print(f"  ⚠ 回读失败（{type(e).__name__}: {e}），无法校验发布结果。", file=sys.stderr)
+        return False
+    if not data:
+        print("  ⚠ main 上读不到 data.json。", file=sys.stderr)
+        return False
+    actual = data.get("updated_at")
+    ok = (actual == expected_updated_at)
+    print(f"  期望 updated_at = {expected_updated_at!r}")
+    print(f"  实际 updated_at = {actual!r}")
+    print("  ✓ 校验通过" if ok else "  ✗ 校验未通过：main 上的数据不是本轮写入的")
+    return ok
 
 
 # ── Item helpers ──────────────────────────────────────────────────────────────
@@ -225,6 +339,8 @@ AUTOFILL_DEFAULTS = {"group": "个股", "translated": False, "verified": False}
 # 这里做一次兼容映射，能救回来的就救，救不回来的（why/markets）交给下面拦截。
 FIELD_ALIASES = {"type": "group", "tags": "keywords"}
 
+RADAR_MERGE_VERSION = "v10 (2026-09-14)"
+
 VALID_MARKETS = {"HK", "US", "A"}
 MIN_WHY_LEN = 8  # 挡住 why 为 ""、"-"、"n/a" 这种敷衍值
 
@@ -256,6 +372,11 @@ def validate_item_schema(items, now_bj):
     out, degraded = [], []
 
     for it in items:
+        # 0) v10：先清掉上一轮留下的标记。否则一旦某轮被标记过，即使内容后来被
+        #    修好，页面上的"字段不全"横幅会永远挂着（2026-09-14 就是这个现象：
+        #    三条新闻的 why 明明是全的，_schema_issues 却还在）。
+        it.pop("_schema_issues", None)
+
         # 1) 别名兼容：canonical 字段缺失时，从旧字段名搬过来
         for old, new in FIELD_ALIASES.items():
             if old in it and not it.get(new):
@@ -320,6 +441,142 @@ def validate_item_schema(items, now_bj):
 
     # out 含全部条目（合格的 + 已修复标注的）；degraded 只是其中问题条目的索引
     return out, degraded
+
+# ── v10：url 机检闸门 ────────────────────────────────────────────────────────
+#
+# 2026-09-14 的事故：那一轮 Routine 根本没有真的去检索，直接凭记忆生成了条目，
+# 其中「美联储FOMC本周议息」一条把主席写成了鲍威尔（鲍威尔 2026-05 已卸任，
+# 现任是 Kevin Warsh），url 是拼出来的 bloomberg.com/.../fed-fomc-meeting-
+# september-2026-rate-hike-25bp，却标着 verified:true。
+#
+# 教训：verified 完全由 Routine 自报，脚本侧没有任何独立证据。v10 加两道机检：
+#   (a) 能联网就直接请求 url：404/410 视为编造，强制 verified=false；
+#       403/401/429/超时视为"机器测不出"，不改判（Bloomberg/Reuters 一律 403）。
+#   (b) 对 (a) 天然测不出的硬墙媒体，要求 Routine 额外给一个 cross_ref
+#       （第二个可机检的白名单链接）。给不出就强制 verified=false，
+#       在 App 上显示"待核实"。这正是 §2.2(b)「≥2 个独立白名单报道」的机械化。
+#
+# 设计原则同 v7 的 schema 闸门：**只降级、不阻断发布**，网络异常一律放行。
+
+# 机器测不出真伪的硬墙媒体（付费墙 / 反爬一律 403）
+OPAQUE_DOMAINS = {
+    "bloomberg.com", "wsj.com", "ft.com", "reuters.com",
+    "economist.com", "barrons.com", "nikkei.com", "theinformation.com",
+}
+
+URL_CHECK_TIMEOUT = 8
+URL_CHECK_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+
+def _host_of(url):
+    try:
+        from urllib.parse import urlparse
+        h = (urlparse(url).hostname or "").lower()
+        return h[4:] if h.startswith("www.") else h
+    except Exception:
+        return ""
+
+
+def _is_opaque(host):
+    return any(host == d or host.endswith("." + d) for d in OPAQUE_DOMAINS)
+
+
+def _probe(url):
+    """返回 (status_or_None, note)。任何异常都不抛出。"""
+    req = urllib.request.Request(url, method="GET", headers={"User-Agent": URL_CHECK_UA})
+    try:
+        with urllib.request.urlopen(req, timeout=URL_CHECK_TIMEOUT) as r:
+            return r.status, "ok"
+    except urllib.error.HTTPError as e:
+        return e.code, f"HTTP {e.code}"
+    except Exception as e:
+        return None, f"{type(e).__name__}"
+
+
+def check_item_urls(items):
+    """对候选条目做 url 机检。就地改写 items，返回被降级的条目列表。
+
+    环境变量 RADAR_SKIP_URL_CHECK=1 可整体跳过（离线环境用）。
+    """
+    import os as _os
+    if _os.environ.get("RADAR_SKIP_URL_CHECK") == "1":
+        print("· RADAR_SKIP_URL_CHECK=1，跳过 url 机检。")
+        return []
+
+    demoted = []
+    for it in items:
+        url = (it.get("url") or "").strip()
+        if not url.startswith("http"):
+            continue
+        host = _host_of(url)
+
+        # 行情/报价页：§2.1 明令禁止，直接判不合格
+        if "/quote/" in url or "/quotes/" in url or "/chart/" in url:
+            it.setdefault("_schema_issues", []).append(f"url 是行情/报价页，违反 §2.1: {url}")
+            it["_url_check"] = "行情页，不是新闻源"
+            if it.get("verified"):
+                it["verified"] = False
+            demoted.append((it, it["_url_check"]))
+            continue
+
+        if _is_opaque(host):
+            # 机器测不出 → 要求 cross_ref 作为第二来源
+            xref = (it.get("cross_ref") or "").strip()
+            if xref.startswith("http") and not _is_opaque(_host_of(xref)):
+                code, note = _probe(xref)
+                if code in (404, 410):
+                    it["_url_check"] = f"cross_ref 返回 {code}，疑似编造"
+                    if it.get("verified"):
+                        it["verified"] = False
+                    demoted.append((it, it["_url_check"]))
+                else:
+                    it["_url_check"] = f"主源 {host} 不可机检，cross_ref {note}"
+            else:
+                it["_url_check"] = f"主源 {host} 不可机检且未提供 cross_ref"
+                if it.get("verified"):
+                    it["verified"] = False
+                    demoted.append((it, it["_url_check"]))
+            continue
+
+        code, note = _probe(url)
+        if code in (404, 410):
+            it.setdefault("_schema_issues", []).append(f"url 返回 {code}，疑似编造链接: {url}")
+            it["_url_check"] = f"url {code}"
+            if it.get("verified"):
+                it["verified"] = False
+            demoted.append((it, it["_url_check"]))
+        elif code is None or code >= 400:
+            # 403/429/超时等一律不改判——很多站点对脚本一视同仁地拒绝
+            it["_url_check"] = f"未能机检（{note}）"
+        else:
+            it["_url_check"] = "ok"
+
+    return demoted
+
+
+def load_retractions():
+    """读取 retractions.json：{"ids": [...], "_why": {...}}。
+
+    撤稿的唯一合法通道。想从雷达里撤掉一条已发布的新闻，把它的 id 写进这个
+    文件并推到 main 即可——**不要手工改 data.json**（2026-08-17 的事故成因）。
+    列在这里的 id 每轮都会被移出 data.json，并留在 seen.json 里防止被重新抓取。
+    """
+    here = os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(here, "retractions.json")
+    if not os.path.exists(path):
+        return set()
+    try:
+        with open(path, encoding="utf-8") as f:
+            obj = json.load(f)
+        ids = {str(i) for i in (obj.get("ids") or [])}
+        if ids:
+            print(f"· retractions.json: {len(ids)} 条待撤稿 id")
+        return ids
+    except Exception as e:
+        print(f"⚠ retractions.json 解析失败（{e}），本轮忽略。", file=sys.stderr)
+        return set()
+
 
 def is_stale_branch(existing_items, today_str):
     """陈旧分支保护（v5 新增）。
@@ -539,6 +796,7 @@ def main():
         except json.JSONDecodeError as e:
             print(f"⚠ new_items.json 解析失败（{e}），本轮按「0 条新增」处理并继续发布。", file=sys.stderr)
             new_items, missing_input = [], True
+    print(f"merge_radar {RADAR_MERGE_VERSION}")
     print(f"Loaded {len(new_items)} candidate new items from new_items.json")
 
     now_bj    = datetime.now(TZ_BJ)
@@ -554,6 +812,13 @@ def main():
             print(f"  ! [{it.get('id','?')}] {str(it.get('title',''))[:40]}")
             for p in problems:
                 print(f"      → {p}")
+
+    # url 机检闸门（v10 新增）：见 check_item_urls 说明。只降级，不阻断。
+    url_demoted = check_item_urls(new_items)
+    if url_demoted:
+        print(f"\n⚠ url 机检降级 {len(url_demoted)} 条（已强制 verified=false）：")
+        for it, note in url_demoted:
+            print(f"  ! [{it.get('id','?')}] {str(it.get('title',''))[:40]} → {note}")
 
     # 发布日期硬性过滤（v4 新增）——见 validate_new_items 说明
     new_items, dropped = validate_new_items(new_items, today_str)
@@ -571,9 +836,37 @@ def main():
     existing_items = (data_json or {}).get("items", [])
     seen_ids       = set((seen_json or {}).get("ids", []))
 
+    # v10：撤稿。retractions.json 里的 id 直接从历史里移除，并留在 seen 里。
+    retracted_ids = load_retractions()
+    if retracted_ids:
+        before = len(existing_items)
+        existing_items = [i for i in existing_items if i.get("id") not in retracted_ids]
+        print(f"· 撤稿移除 {before - len(existing_items)} 条历史条目")
+        seen_ids |= retracted_ids
+
+    # v10：历史条目每轮重新过一遍 schema 闸门。闸门进门会先 pop 掉旧的
+    # _schema_issues，所以内容已经修好的条目会自动摘掉"字段不全"的标记，
+    # 不会像 2026-09-14 那样一直挂在页面横幅上。
+    existing_items, existing_degraded = validate_item_schema(existing_items, now_bj)
+    if existing_degraded:
+        print(f"· 历史条目里仍有 {len(existing_degraded)} 条字段不全（保持标记）")
+
+    # v10：历史条目补做一次 url 机检（只测没测过的，测过的带着 _url_check 不再重测）。
+    # 这样 v10 上线后，之前积压的编造链接会被一轮一轮地降级为"待核实"。
+    backfill = [i for i in existing_items if not i.get("_url_check")]
+    if backfill:
+        hist_demoted = check_item_urls(backfill)
+        if hist_demoted:
+            print(f"· 历史条目 url 机检降级 {len(hist_demoted)} 条：")
+            for it, note in hist_demoted:
+                print(f"  ! [{it.get('id','?')}] {str(it.get('title',''))[:40]} → {note}")
+
     # Deduplicate（id 级：同一篇文章）
     existing_ids = {i["id"] for i in existing_items}
-    truly_new = [i for i in new_items if i.get("id") not in seen_ids and i.get("id") not in existing_ids]
+    truly_new = [i for i in new_items
+                 if i.get("id") not in seen_ids
+                 and i.get("id") not in existing_ids
+                 and i.get("id") not in retracted_ids]
     skipped = len(new_items) - len(truly_new)
     print(f"After id-dedup: {len(truly_new)} new, {skipped} skipped")
 
@@ -640,10 +933,32 @@ def main():
     # Publish
     date_tag = now_bj.strftime("%Y-%m-%d")
     print("Publishing …")
-    gh_put("data.json", new_data, data_sha,
-           f"chore(radar): update market radar {date_tag} (+{len(truly_new)} items)")
-    gh_put("seen.json", new_seen, seen_sha,
-           f"chore(radar): update seen {date_tag}")
+    ok_data = gh_put("data.json", new_data, data_sha,
+                     f"chore(radar): update market radar {date_tag} (+{len(truly_new)} items)")
+    ok_seen = gh_put("seen.json", new_seen, seen_sha,
+                     f"chore(radar): update seen {date_tag}")
+
+    # v9 兜底：只要有任何一个文件没能通过 API 写入，就整体改走 git push。
+    if not (ok_data and ok_seen):
+        pushed = git_push_to_main(
+            f"chore(radar): update market radar {date_tag} (+{len(truly_new)} items)\n\n"
+            f"REST API PUT 被拦截，本轮由 merge_radar.py 的 git push 兜底发布到 main。"
+        )
+        if not pushed:
+            print("\n" + "=" * 68
+                  + "\n✗ 发布失败：REST API 写入被拒，git push 兜底也失败。"
+                    "\n  本轮数据没有进入 main，App 不会更新。请检查运行日志。\n"
+                  + "=" * 68, file=sys.stderr)
+            sys.exit(1)
+
+    # v9 回读校验：这是唯一可信的"发布成功"判据。
+    if not verify_published(updated_at):
+        print("\n" + "=" * 68
+              + "\n✗ 回读校验失败：main 上的 data.json 不是本轮写入的版本。"
+                "\n  Routine 不得再用本地 git commit 之类的方式自行兜底——"
+                "\n  请把这段日志报给用户。\n"
+              + "=" * 68, file=sys.stderr)
+        sys.exit(1)
 
     print(f"\n✓ +{len(truly_new)} new | {len(existing_items)} existing | {len(merged)} total in data.json"
           + (f" | {len(dropped)} dropped by date-validation" if dropped else "")
