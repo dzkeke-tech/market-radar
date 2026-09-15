@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-15 13:22 (北京时间)",
+  "updated_at": "2026-09-15 18:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,35 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-15 13:22 (北京时间)",
-    "new_count": 2,
+    "at": "2026-09-15 18:17 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "f12efff129f4c5d0",
+      "id": "d044dffbd1ce1932",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "HK",
-        "A"
+        "US",
+        "HK"
       ],
-      "time": "07:00",
+      "time": "18:00",
       "group": "大盘头条",
-      "title": "China August Retail Sales +0.4% YoY Miss Estimates; Industrial Output +5.2% Beats; Fixed Asset Investment -7.2% YTD",
-      "summary": "China's National Bureau of Statistics released August data: retail sales rose only 0.4% YoY (est. 0.8%), signaling weak consumer demand; industrial output grew 5.2% YoY (est. 4.8%), beating forecasts; fixed asset investment fell 7.2% year-to-date, indicating tepid business confidence.",
-      "why": "弱消费数据压制港股消费板块（美团、海底捞、携程、蜜雪冰城等）短期情绪；工业产出超预期支撑科技/制造板块；整体数据指向政策宽松预期升温，有利于港股科技大盘（腾讯、阿里、小米）估值修复。sell put 策略注意消费类标的短期 implied vol 可能因弱数据抬升。",
+      "title": "Fed Rate Decision Tomorrow: Market Prices ~90% Chance of 25bp Hike to 3.75-4.00%",
+      "summary": "The Federal Reserve is set to announce its rate decision on Sept 16 at 2PM ET. Markets via CME FedWatch are pricing approximately 90% probability of a 25bp hike, which would bring the fed funds rate to 3.75-4.00%, as Chair Kevin Warsh's hawkish Jackson Hole speech and elevated CPI data reinforced expectations.",
+      "why": "加息落地将直接压制估值倍数；sell put 隐含波动率在决议前一日处于高位，若加息已完全定价则决议后 IV 将急速收缩，需评估跨日 vega 风险。港股对美联储利率高度敏感，持仓腾讯/阿里/美团等均受影响。",
       "source": "CNBC",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "宏观",
-        "macro",
-        "消费"
+        "美联储",
+        "加息",
+        "Fed",
+        "Kevin Warsh",
+        "利率"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
-      "published_date": "2026-09-15",
+      "url": "https://www.cnbc.com/2026/09/14/fed-rate-hike-anticipated-what-it-means-for-your-money.html",
+      "published_date": "2026-09-14",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -45,26 +47,94 @@
       "is_new": true
     },
     {
-      "id": "369ecf840e01d126",
-      "tier": 2,
-      "lang": "zh",
+      "id": "dbeca33ba16ba9a6",
+      "tier": 1,
+      "lang": "en",
       "markets": [
-        "A"
+        "US",
+        "HK"
       ],
-      "time": "17:00",
+      "time": "17:30",
       "group": "大盘头条",
-      "title": "广汽集团筹划重大资产重组，拟收购一汽旗下合资公司股权，一汽将成第二大股东，「南北丰田」整合进入实质阶段",
-      "summary": "广汽集团公告筹划重大资产重组，拟购入一汽旗下整车合资公司股权，一汽将成广汽第二大股东；分析人士认为此举标志着「南北丰田」合并进入实质阶段，对丰田中国布局及国内传统车企竞争格局具有深远影响。",
-      "why": "中国汽车行业并购整合重大事件，传统合资车企竞争格局重塑，影响丰田等外资品牌在华策略；广汽A股停牌期间无法交易，复牌后波动率可能大幅上升；同时对小米汽车（竞争格局）、电动车赛道整体情绪有间接影响。",
-      "source": "新浪财经",
-      "verified": false,
+      "title": "US 10-Year Treasury Yield Briefly Hits 5.01%, Highest Since 2023",
+      "summary": "The 10-year US Treasury yield briefly touched 5.01% on Sept 14, its highest level since 2023, driven by persistent inflation concerns and rising expectations of a Fed rate hike. Elevated long-end yields increase discount rates for growth stocks globally.",
+      "why": "10年期美债利率突破5%是估值压制的关键阈值，直接影响高PE成长股（英伟达、谷歌、Palantir等）折现率；sell put 端需重新评估 delta 暴露，港股科技板块（腾讯0700/阿里9988/小米1810）短期承压。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "消费",
-        "汽车"
+        "美债",
+        "10年期国债",
+        "利率",
+        "Treasury",
+        "yield"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirveas7253658.shtml",
+      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
       "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-15",
+      "is_new": true
+    },
+    {
+      "id": "ac4e8f023c7fdc1f",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Brent Crude Surges ~4.5% Near $110/Barrel; S&P 500 -0.5%, Nasdaq -0.75% on Sept 14",
+      "summary": "Brent crude oil surged approximately 4.5% to near $110 per barrel on Sept 14 amid continued geopolitical tensions, while US equities retreated with the S&P 500 down ~0.5% and Nasdaq down ~0.75%. Bitcoin edged up 1.9% to $78,500 as risk appetite shifted.",
+      "why": "油价飙升加剧通胀预期，强化美联储鹰派立场，形成股市双重压制（成本端+折现率）；能源价格上行对消费类持仓（麦当劳MCD/好市多COST/蜜雪冰城2097）构成潜在成本压力；港美股科技仓位需警惕流动性收紧风险。",
+      "source": "CoinDesk",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "原油",
+        "Brent",
+        "S&P 500",
+        "纳斯达克",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
+      "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-15",
+      "is_new": true
+    },
+    {
+      "id": "39a574ed824d9c03",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Senate CLARITY Act Cloture Vote Today at 2:15PM ET; Passage Probability ~22-26% (Polymarket); Circle Pre-Market +~10%",
+      "summary": "The US Senate is holding a procedural cloture vote on the CLARITY Act crypto regulatory framework today (Sept 15) at 2:15PM ET. The bill needs 60 votes to advance; Polymarket pricing passage at approximately 22-26%. Circle (CRCL) was up roughly 10% in pre-market trading ahead of the vote, though banking lobby opposition remains strong.",
+      "why": "CLARITY Act是加密货币综合监管框架立法；通过将对稳定币/加密资产合法化产生里程碑影响，直接利好Circle (CRCL持仓)和比特币相关标的；失败则短期利空情绪释放。今日投票结果是关键催化剂，需密切跟踪。",
+      "source": "CoinDesk",
+      "verified": true,
+      "keywords": [
+        "CLARITY Act",
+        "稳定币",
+        "Circle",
+        "CRCL",
+        "USDC",
+        "加密货币监管",
+        "stablecoin"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
+      "published_date": "2026-09-15",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -379,6 +449,35 @@
       "first_seen": "2026-09-14",
       "is_new": false,
       "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref"
+    },
+    {
+      "id": "f12efff129f4c5d0",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "China August Retail Sales +0.4% YoY Miss Estimates; Industrial Output +5.2% Beats; Fixed Asset Investment -7.2% YTD",
+      "summary": "China's National Bureau of Statistics released August data: retail sales rose only 0.4% YoY (est. 0.8%), signaling weak consumer demand; industrial output grew 5.2% YoY (est. 4.8%), beating forecasts; fixed asset investment fell 7.2% year-to-date, indicating tepid business confidence.",
+      "why": "弱消费数据压制港股消费板块（美团、海底捞、携程、蜜雪冰城等）短期情绪；工业产出超预期支撑科技/制造板块；整体数据指向政策宽松预期升温，有利于港股科技大盘（腾讯、阿里、小米）估值修复。sell put 策略注意消费类标的短期 implied vol 可能因弱数据抬升。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "macro",
+        "消费"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+      "published_date": "2026-09-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-15",
+      "is_new": false
     },
     {
       "id": "b809d89bf56d74aa",
@@ -1032,6 +1131,33 @@
       "first_seen": "2026-09-14",
       "is_new": false,
       "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "369ecf840e01d126",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "广汽集团筹划重大资产重组，拟收购一汽旗下合资公司股权，一汽将成第二大股东，「南北丰田」整合进入实质阶段",
+      "summary": "广汽集团公告筹划重大资产重组，拟购入一汽旗下整车合资公司股权，一汽将成广汽第二大股东；分析人士认为此举标志着「南北丰田」合并进入实质阶段，对丰田中国布局及国内传统车企竞争格局具有深远影响。",
+      "why": "中国汽车行业并购整合重大事件，传统合资车企竞争格局重塑，影响丰田等外资品牌在华策略；广汽A股停牌期间无法交易，复牌后波动率可能大幅上升；同时对小米汽车（竞争格局）、电动车赛道整体情绪有间接影响。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "消费",
+        "汽车"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirveas7253658.shtml",
+      "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-15",
+      "is_new": false
     },
     {
       "id": "feb1acaa19ace2a7",
