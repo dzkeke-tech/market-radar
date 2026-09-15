@@ -10,11 +10,67 @@
   "positions": [],
   "last_run": {
     "at": "2026-09-15 13:22 (北京时间)",
-    "new_count": 0,
+    "new_count": 2,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "f12efff129f4c5d0",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "China August Retail Sales +0.4% YoY Miss Estimates; Industrial Output +5.2% Beats; Fixed Asset Investment -7.2% YTD",
+      "summary": "China's National Bureau of Statistics released August data: retail sales rose only 0.4% YoY (est. 0.8%), signaling weak consumer demand; industrial output grew 5.2% YoY (est. 4.8%), beating forecasts; fixed asset investment fell 7.2% year-to-date, indicating tepid business confidence.",
+      "why": "弱消费数据压制港股消费板块（美团、海底捞、携程、蜜雪冰城等）短期情绪；工业产出超预期支撑科技/制造板块；整体数据指向政策宽松预期升温，有利于港股科技大盘（腾讯、阿里、小米）估值修复。sell put 策略注意消费类标的短期 implied vol 可能因弱数据抬升。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "macro",
+        "消费"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+      "published_date": "2026-09-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-15",
+      "is_new": true
+    },
+    {
+      "id": "369ecf840e01d126",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "广汽集团筹划重大资产重组，拟收购一汽旗下合资公司股权，一汽将成第二大股东，「南北丰田」整合进入实质阶段",
+      "summary": "广汽集团公告筹划重大资产重组，拟购入一汽旗下整车合资公司股权，一汽将成广汽第二大股东；分析人士认为此举标志着「南北丰田」合并进入实质阶段，对丰田中国布局及国内传统车企竞争格局具有深远影响。",
+      "why": "中国汽车行业并购整合重大事件，传统合资车企竞争格局重塑，影响丰田等外资品牌在华策略；广汽A股停牌期间无法交易，复牌后波动率可能大幅上升；同时对小米汽车（竞争格局）、电动车赛道整体情绪有间接影响。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "消费",
+        "汽车"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirveas7253658.shtml",
+      "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-15",
+      "is_new": true
+    },
     {
       "id": "490544dbcf9577f1",
       "tier": 1,
