@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-16 13:14 (北京时间)",
+  "updated_at": "2026-09-16 13:15 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,195 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-16 13:14 (北京时间)",
-    "new_count": 0,
+    "at": "2026-09-16 13:15 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "e71549702ed21900",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "10-year Treasury yield tops 5% for first time since 2023; what it means for stocks",
+      "summary": "The 10-year U.S. Treasury yield briefly surpassed 5% on September 14, the first time since 2023, driven by elevated oil prices stoking inflation fears ahead of the Federal Reserve's policy meeting. The yield, a global benchmark for mortgages and bonds, rose as high as 5.01% before paring gains. CNBC analysis outlines how yields above 5% compress stock multiples, particularly for high-duration growth equities.",
+      "why": "美债10年期利率站上5%将直接压制科技股PE估值，对组合内高P/E持仓（腾讯、英伟达等）形成上行风险；同时，期权时间价值对利率敏感，卖put组合的理论收益受利率上升支撑，但需防范利率冲击导致的波动率跳升。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美债收益率",
+        "利率",
+        "通胀",
+        "宏观",
+        "债券"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/15/treasury-yields-stocks-investors.html",
+      "published_date": "2026-09-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-16",
+      "is_new": true
+    },
+    {
+      "id": "b79c7a696bedd7dd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "U.S. oil tops $105 as Saudi Arabia cancels crude cargoes after pipeline closure",
+      "summary": "Saudi Arabia cancelled several September crude deliveries to European customers after drone attacks forced the closure of its East-West pipeline, which can carry up to 7 million barrels per day and serves as an alternative route around the Strait of Hormuz. WTI crude surpassed $105, Brent hovered near $108, extending gains from the previous session. No timeline has been provided for when pipeline operations will resume.",
+      "why": "布伦特原油逼近110美元、年内涨幅已达76%，直接推高通胀预期并为美联储提供加息依据；能源价格高企亦对消费类持仓构成成本压力，需留意持仓中消费股（海底捞、携程、麦当劳等）的盈利承压风险。延续报道：沙特取消装船是9月15日新发展，系管道关闭事件的实质性升级。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "原油",
+        "中东",
+        "沙特",
+        "地缘",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "published_date": "2026-09-15",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-16",
+      "is_new": true
+    },
+    {
+      "id": "85f38faa31ab788e",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "携程Q2收入同比增6%达157亿元，但因反垄断罚款致净亏损24亿元",
+      "summary": "携程集团2026年Q2净营收157亿元，同比增长6%，符合指引；其中国际平台收入同比增逾50%，入境旅游收入高双位数增长。然而，监管机构国家市场监督管理总局（SAMR）开具的52亿元反垄断罚款计入一般及行政费用，导致Q2净亏损约24亿元，每股摊薄亏损3.89元。该罚款系今年7月25日宣布，是中国平台经济史上最大反垄断罚单之一。",
+      "why": "Q2业绩揭示了SAMR罚款的实际财务冲击：收入增长但净利润大幅转负，现金流出值得关注；若后续无重大政策风险，业务端国际增长强劲，对持有携程的卖put策略而言，此次一次性费用过后盈利能力有望恢复；期权隐含波动率可能在业绩发布后提升，适合重新评估行权价。数字来源：SEC EDGAR Form 6-K披露的Q2 2026业绩公告。",
+      "source": "SEC EDGAR",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "TCOM",
+        "Q2业绩",
+        "反垄断",
+        "SAMR"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001269238/000119312526379443/d431415dex992.htm",
+      "published_date": "2026-09-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-16",
+      "is_new": true
+    },
+    {
+      "id": "47da9ae5d324dbb1",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "Hong Kong targets biomedicine powerhouse status in debut 5-year plan unveiled today",
+      "summary": "Chief Executive John Lee unveiled Hong Kong's first Five-Year Plan for Economic and Social Development (2026–2030) and the 2026 Policy Address on September 16. The plan includes binding and aspirational targets across innovation, biomedicine, green finance and Northern Metropolis development. Biomedicine is designated as a strategic emerging industry aligned with China's 15th Five-Year Plan, with the Health Secretary noting it as a key focus area.",
+      "why": "香港首个五年规划是港股估值的长期重要政策锚；生物医药、创科、绿色金融等方向的明确政策支持有利于相关港股板块；对持仓中的港股（腾讯、美团、蜜雪冰城等）而言，政策稳定性提升本身就是正面催化剂，值得关注北部都会区开发相关主题的间接受益机会。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "香港",
+        "五年规划",
+        "施政报告",
+        "生物医药",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/china-business/article/3366922/hong-kong-targets-biomedicine-powerhouse-status-debut-five-year-plan",
+      "published_date": "2026-09-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-16",
+      "is_new": true
+    },
+    {
+      "id": "1ab4b8c440ffd9e6",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "Wells Fargo warns of 5-10% near-term S&P 500 downside; cuts year-end target to 7,700",
+      "summary": "Wells Fargo strategist Ohsung Kwon trimmed the firm's year-end S&P 500 target to 7,700 from 7,950, implying roughly 1% upside from Monday's close at 7,619.98. Kwon sees 5–10% near-term downside risk, citing late-cycle dynamics, multiple compression, rising oil prices clouding the inflation outlook, and the firm's liquidity indicator falling to its lowest level year-to-date.",
+      "why": "标普500年内上涨空间收窄、流动性趋紧是卖put策略的重要背景信号；市场若真的出现5-10%的回调，卖put组合面临被行权压力，需关注组合的整体Delta敞口与行权价分布；若指数接近7700点获支撑，则卖put策略收益区间更加可期。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "标普500",
+        "美股",
+        "策略师目标价",
+        "宏观",
+        "市场展望"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/15/a-sharp-stock-market-decline-could-lie-around-the-corner-wells-fargo-warns.html",
+      "published_date": "2026-09-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-16",
+      "is_new": true
+    },
+    {
+      "id": "bfa455ab49dcef37",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "美银CEO警告Q3投行手续费降幅超10%、交易收入基本持平",
+      "summary": "美国银行CEO布莱恩·莫伊尼汉在巴克莱年度全球金融服务会议上表示，Q3投资银行手续费预计降至16亿—18亿美元，较分析师预期的约20亿美元低约10%—20%，称'我们在部分业务上的定位不够理想'；Q3交易收入预计与上年同期基本持平。消息公布后，美银股价大跌逾5%，标普500银行指数跌约2.7%。",
+      "why": "投行收入下滑和银行股大跌是风险偏好收缩的信号，可能对组合中金融类期权（富途、盈透）的波动率定价产生影响；同时宏观流动性收紧与IPO市场降温，不利于科技股的再融资预期，需留意对腾讯、阿里巴巴等互联网股估值的传导效应。数字来自原文：莫伊尼汉在会议发言中给出16—18亿美元区间。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "美国银行",
+        "投行收入",
+        "金融股",
+        "宏观",
+        "流动性"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/bofa-ceo-sees-trading-revenue-relatively-flat-in-third-quarter",
+      "published_date": "2026-09-14",
+      "still_developing": false,
+      "cross_ref": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-09-16",
+      "is_new": true
+    },
     {
       "id": "490544dbcf9577f1",
       "tier": 1,
