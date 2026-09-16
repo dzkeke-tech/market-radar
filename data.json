@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-16 08:21 (北京时间)",
+  "updated_at": "2026-09-16 13:14 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,198 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-16 08:21 (北京时间)",
-    "new_count": 6,
+    "at": "2026-09-16 13:14 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "39b624565c91414c",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US",
-        "A"
-      ],
-      "time": "2026-09-15T10:30:00+08:00",
-      "group": "macro",
-      "title": "美联储FOMC决议今夜揭晓：市场定价25bp加息概率约90%",
-      "summary": "美联储将于北京时间2026年9月16日凌晨公布利率决议，CME FedWatch 2026-09-15快照显示9月会议加息25bp的隐含概率约90%。多数分析师预期联储继续推进货币紧缩周期，本次决议将附带最新点阵图和经济预测摘要(SEP)。",
-      "why": "直接影响全球风险资产定价，港股、A股、美股均对美联储利率路径高度敏感；加息落地及点阵图信号将决定短期波动率走向，影响组合内sell put及covered call的行权价选择。概率数字出自CME FedWatch 2026-09-15日盘快照，原文明确引用。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "FOMC",
-        "美联储",
-        "加息",
-        "利率决议",
-        "CME FedWatch",
-        "点阵图"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260915/herald/5c627cd2ff702070614e38991d76ed24.html",
-      "published_date": "2026-09-15",
-      "cross_ref": "",
-      "first_seen": "2026-09-16",
-      "is_new": true
-    },
-    {
-      "id": "064bb1b48b0cb83f",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "2026-09-14T16:00:00+08:00",
-      "group": "macro",
-      "title": "「超级央行周」：美日英三大央行本周密集议息，日本央行预期加息至1.25%",
-      "summary": "本周（2026年9月15-19日）美联储、日本央行、英国央行相继召开议息会议。市场预期日本央行将基准利率上调25bp至1.25%，英国央行按兵不动；美联储决议为本周重头戏。三大央行同周表态将对全球利率路径形成重要锚定。",
-      "why": "宏观利率环境变化直接影响组合所有港股和美股标的估值；日元潜在走强压制日经和港股科技股，英美利差变化影响期权隐含波动率，是本周最重要的宏观事件背景。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "央行",
-        "FOMC",
-        "美联储",
-        "日本央行",
-        "英国央行",
-        "加息",
-        "超级央行周",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260914/herald/88501ee2b8e63763245f2e1f0783f423.html",
-      "published_date": "2026-09-14",
-      "cross_ref": "",
-      "first_seen": "2026-09-16",
-      "is_new": true
-    },
-    {
-      "id": "15e2627cfcc7fad0",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "2026-09-14T20:00:00+08:00",
-      "group": "macro",
-      "title": "美8月核心CPI超预期，高盛维持9月加息预测",
-      "summary": "美国劳工部公布，8月核心CPI（剔除食品和能源）同比涨幅超出市场预期；高盛据此维持对美联储9月议息会议加息25bp的预测，认为通胀数据支持继续紧缩立场。",
-      "why": "CPI超预期强化9月加息预期，对组合内美股科技标的（英伟达NVDA、谷歌GOOGL、特斯拉TSLA等）估值构成压力；高盛9月加息预测被原文明确引用，非推断。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "CPI",
-        "通胀",
-        "美联储",
-        "高盛",
-        "加息",
-        "核心CPI",
-        "货币政策"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260914/herald/587a592915e44c1d845fde2f58d99ab6.html",
-      "published_date": "2026-09-14",
-      "cross_ref": "",
-      "first_seen": "2026-09-16",
-      "is_new": true
-    },
-    {
-      "id": "10f8aa054d93168d",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-09-15T16:30:00+08:00",
-      "group": "macro",
-      "title": "港股恒指受加息忧虑压制，9月15日收跌逾1%测两月低位",
-      "summary": "2026年9月15日收盘，恒生指数跌逾1%，受美联储加息预期升温压制，指数测试近两个月低位。港股科技股普遍承压，大市成交量温和。",
-      "why": "持仓港股核心标的（腾讯0700、阿里9988、美团3690、小米1810等）随大市受压，整体仓位净值下行；指数低位亦影响sell put策略的安全边际判断。",
-      "source": "富途牛牛",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "加息",
-        "市场行情",
-        "科技股",
-        "收盘"
-      ],
-      "translated": true,
-      "url": "https://news.futunn.com/post/79281300/hong-kong-stock-market-close-sep-15-hang-seng-index",
-      "published_date": "2026-09-15",
-      "cross_ref": "",
-      "first_seen": "2026-09-16",
-      "is_new": true
-    },
-    {
-      "id": "3dbf22bd64fa1850",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "2026-09-15T10:00:00+08:00",
-      "group": "macro",
-      "title": "中国8月经济数据：工业增加值增5.2%超预期，零售增速仅0.4%偏弱",
-      "summary": "国家统计局2026年9月15日发布，8月规模以上工业增加值同比增长5.2%，优于市场预期；社会消费品零售总额同比增长0.4%，增速明显偏弱，显示消费端复苏仍有压力。固定资产投资等其他分项数据同步公布。",
-      "why": "工业超预期利好A股制造业及出口链；零售偏弱制约消费股估值修复（海底捞6862、蜜雪冰城2097等）；宏观数据组合制约政策宽松预期的强度，影响港股整体风险偏好。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "工业增加值",
-        "零售",
-        "中国经济",
-        "NBS",
-        "宏观数据",
-        "A股",
-        "消费"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260915/herald/09ba20a71570ee618d191055466c52a3.html",
-      "published_date": "2026-09-15",
-      "cross_ref": "",
-      "first_seen": "2026-09-16",
-      "is_new": true
-    },
-    {
-      "id": "a1264e5dece79e0e",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-09-15T15:00:00+08:00",
-      "group": "stock",
-      "title": "港股半导体板块逆势反弹：存储芯片与先进封装获机构增配",
-      "summary": "2026年9月15日，港股半导体及硬件板块逆市上涨，存储芯片（HBM相关）和先进封装概念股受机构资金增配。富途牛牛报道，对AI算力需求降温的忧虑未能压制硬件板块整体表现，机构对存储超级周期预期维持。",
-      "why": "组合持仓中SK海力士相关产品（7709.HK、南方两倍做多SK Hynix CSOP）直接受益于存储芯片板块上涨；HBM需求预期是美光(MU)和闪迪(SNDK)估值的重要驱动因素。",
-      "source": "富途牛牛",
-      "verified": true,
-      "keywords": [
-        "SK海力士",
-        "半导体",
-        "HBM",
-        "存储芯片",
-        "先进封装",
-        "港股",
-        "硬件",
-        "AI芯片"
-      ],
-      "translated": true,
-      "url": "https://news.futunn.com/post/79277355/chatter-about-an-ai-cooling-fails-to-dampen-hardware-sector",
-      "published_date": "2026-09-15",
-      "cross_ref": "",
-      "first_seen": "2026-09-16",
-      "is_new": true
-    },
     {
       "id": "490544dbcf9577f1",
       "tier": 1,
@@ -698,6 +512,71 @@
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-15",
       "is_new": false
+    },
+    {
+      "id": "39b624565c91414c",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "2026-09-15T10:30:00+08:00",
+      "group": "macro",
+      "title": "美联储FOMC决议今夜揭晓：市场定价25bp加息概率约90%",
+      "summary": "美联储将于北京时间2026年9月16日凌晨公布利率决议，CME FedWatch 2026-09-15快照显示9月会议加息25bp的隐含概率约90%。多数分析师预期联储继续推进货币紧缩周期，本次决议将附带最新点阵图和经济预测摘要(SEP)。",
+      "why": "直接影响全球风险资产定价，港股、A股、美股均对美联储利率路径高度敏感；加息落地及点阵图信号将决定短期波动率走向，影响组合内sell put及covered call的行权价选择。概率数字出自CME FedWatch 2026-09-15日盘快照，原文明确引用。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "FOMC",
+        "美联储",
+        "加息",
+        "利率决议",
+        "CME FedWatch",
+        "点阵图"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260915/herald/5c627cd2ff702070614e38991d76ed24.html",
+      "published_date": "2026-09-15",
+      "cross_ref": "",
+      "first_seen": "2026-09-16",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "064bb1b48b0cb83f",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "2026-09-14T16:00:00+08:00",
+      "group": "macro",
+      "title": "「超级央行周」：美日英三大央行本周密集议息，日本央行预期加息至1.25%",
+      "summary": "本周（2026年9月15-19日）美联储、日本央行、英国央行相继召开议息会议。市场预期日本央行将基准利率上调25bp至1.25%，英国央行按兵不动；美联储决议为本周重头戏。三大央行同周表态将对全球利率路径形成重要锚定。",
+      "why": "宏观利率环境变化直接影响组合所有港股和美股标的估值；日元潜在走强压制日经和港股科技股，英美利差变化影响期权隐含波动率，是本周最重要的宏观事件背景。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "央行",
+        "FOMC",
+        "美联储",
+        "日本央行",
+        "英国央行",
+        "加息",
+        "超级央行周",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260914/herald/88501ee2b8e63763245f2e1f0783f423.html",
+      "published_date": "2026-09-14",
+      "cross_ref": "",
+      "first_seen": "2026-09-16",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "9c1040ae4466a0a9",
@@ -1408,6 +1287,133 @@
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-15",
       "is_new": false
+    },
+    {
+      "id": "15e2627cfcc7fad0",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "2026-09-14T20:00:00+08:00",
+      "group": "macro",
+      "title": "美8月核心CPI超预期，高盛维持9月加息预测",
+      "summary": "美国劳工部公布，8月核心CPI（剔除食品和能源）同比涨幅超出市场预期；高盛据此维持对美联储9月议息会议加息25bp的预测，认为通胀数据支持继续紧缩立场。",
+      "why": "CPI超预期强化9月加息预期，对组合内美股科技标的（英伟达NVDA、谷歌GOOGL、特斯拉TSLA等）估值构成压力；高盛9月加息预测被原文明确引用，非推断。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "通胀",
+        "美联储",
+        "高盛",
+        "加息",
+        "核心CPI",
+        "货币政策"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260914/herald/587a592915e44c1d845fde2f58d99ab6.html",
+      "published_date": "2026-09-14",
+      "cross_ref": "",
+      "first_seen": "2026-09-16",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "10f8aa054d93168d",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-09-15T16:30:00+08:00",
+      "group": "macro",
+      "title": "港股恒指受加息忧虑压制，9月15日收跌逾1%测两月低位",
+      "summary": "2026年9月15日收盘，恒生指数跌逾1%，受美联储加息预期升温压制，指数测试近两个月低位。港股科技股普遍承压，大市成交量温和。",
+      "why": "持仓港股核心标的（腾讯0700、阿里9988、美团3690、小米1810等）随大市受压，整体仓位净值下行；指数低位亦影响sell put策略的安全边际判断。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "加息",
+        "市场行情",
+        "科技股",
+        "收盘"
+      ],
+      "translated": true,
+      "url": "https://news.futunn.com/post/79281300/hong-kong-stock-market-close-sep-15-hang-seng-index",
+      "published_date": "2026-09-15",
+      "cross_ref": "",
+      "first_seen": "2026-09-16",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "3dbf22bd64fa1850",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "2026-09-15T10:00:00+08:00",
+      "group": "macro",
+      "title": "中国8月经济数据：工业增加值增5.2%超预期，零售增速仅0.4%偏弱",
+      "summary": "国家统计局2026年9月15日发布，8月规模以上工业增加值同比增长5.2%，优于市场预期；社会消费品零售总额同比增长0.4%，增速明显偏弱，显示消费端复苏仍有压力。固定资产投资等其他分项数据同步公布。",
+      "why": "工业超预期利好A股制造业及出口链；零售偏弱制约消费股估值修复（海底捞6862、蜜雪冰城2097等）；宏观数据组合制约政策宽松预期的强度，影响港股整体风险偏好。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "工业增加值",
+        "零售",
+        "中国经济",
+        "NBS",
+        "宏观数据",
+        "A股",
+        "消费"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260915/herald/09ba20a71570ee618d191055466c52a3.html",
+      "published_date": "2026-09-15",
+      "cross_ref": "",
+      "first_seen": "2026-09-16",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
+    },
+    {
+      "id": "a1264e5dece79e0e",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-09-15T15:00:00+08:00",
+      "group": "stock",
+      "title": "港股半导体板块逆势反弹：存储芯片与先进封装获机构增配",
+      "summary": "2026年9月15日，港股半导体及硬件板块逆市上涨，存储芯片（HBM相关）和先进封装概念股受机构资金增配。富途牛牛报道，对AI算力需求降温的忧虑未能压制硬件板块整体表现，机构对存储超级周期预期维持。",
+      "why": "组合持仓中SK海力士相关产品（7709.HK、南方两倍做多SK Hynix CSOP）直接受益于存储芯片板块上涨；HBM需求预期是美光(MU)和闪迪(SNDK)估值的重要驱动因素。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "SK海力士",
+        "半导体",
+        "HBM",
+        "存储芯片",
+        "先进封装",
+        "港股",
+        "硬件",
+        "AI芯片"
+      ],
+      "translated": true,
+      "url": "https://news.futunn.com/post/79277355/chatter-about-an-ai-cooling-fails-to-dampen-hardware-sector",
+      "published_date": "2026-09-15",
+      "cross_ref": "",
+      "first_seen": "2026-09-16",
+      "is_new": false,
+      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "628f140aca33c75b",
