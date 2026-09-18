@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-18 08:17 (北京时间)",
+  "updated_at": "2026-09-18 13:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,37 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-18 08:17 (北京时间)",
-    "new_count": 4,
+    "at": "2026-09-18 13:17 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "2f89fd14d074b888",
+      "id": "ce92328be6ee5b0e",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "US"
+        "US",
+        "HK",
+        "A"
       ],
-      "time": "05:00",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "Stock Market Today (Sept. 17): Dow surges 316 points, Nasdaq +1.69% as tech leads post-Fed recovery",
-      "summary": "U.S. equities staged a broad recovery on September 17 as investors digested the Fed's 25bp hike. Dow Jones closed up 316.14 points (+0.61%) at 51,778.04; S&P 500 gained 1.14% to 7,637.76; Nasdaq added 1.69% to 26,418.30. Nvidia and Amazon rose more than 2%, Microsoft gained 1.5%, driven by declining Treasury yields and falling oil prices.",
-      "why": "一日内V型反弹说明市场此前已充分消化加息预期；英伟达、亚马逊领涨为科技多头提供支撑。短期sell put策略的IV可能小幅下行，实际收益率走高仍是长线估值的负面因素，须留意10月再加息预期（市场现定价约50%概率）。",
-      "source": "TheStreet",
+      "title": "加息25个基点！美联储时隔三年首次加息，联邦基金利率升至3.75%-4%",
+      "summary": "美联储9月15-16日议息会议全票通过加息25个基点，联邦基金利率目标区间升至3.75%-4.00%，为2023年7月以来首次加息。会后声明偏鹰派，最新点阵图显示多数官员预计年内还将再加息一次，年末利率目标中值指向4.125%。香港金管局随即跟进，上调基准利率25个基点至4.25%。",
+      "why": "首次加息结束三年宽松周期，美元走强、美债收益率上行；港股/A股科技消费板块估值面临压力；对 sell put 策略，高利率环境下期权金收益提升，但需警惕加息路径风险拉大标的波动。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "S&P 500",
-        "Nasdaq",
-        "Dow Jones",
-        "美股",
-        "Fed rate hike",
-        "英伟达",
-        "Nvidia"
+        "美联储",
+        "FOMC",
+        "加息",
+        "利率决议",
+        "点阵图"
       ],
       "translated": false,
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-17-2026",
+      "url": "https://finance.sina.com.cn/roll/2026-09-17/doc-inisapnr0309644.shtml",
       "published_date": "2026-09-17",
       "still_developing": false,
       "cross_ref": "",
@@ -48,95 +48,152 @@
       "is_new": true
     },
     {
-      "id": "0864d58f8ffc8dc3",
+      "id": "77e65c983b58dec8",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK",
         "US"
       ],
-      "time": "10:00",
+      "time": "07:30",
       "group": "大盘头条",
-      "title": "日本央行今日加息至1.25%，创31年新高；美日双央行同步收紧格局确立",
-      "summary": "日本央行于9月18日两日议息会议结束后宣布加息25基点，将政策利率从1.00%上调至1.25%，为1995年以来最高水平。本轮是2024年3月以来加息周期中节奏最快的一次，受高通胀、强GDP及美方压力驱动。89%的市场分析师此前预测加息落地。",
-      "why": "延续报道：美联储与日本央行同步收紧，全球资金成本全面走高；日元套息交易（carry trade）逆转压力上升，历史上每次BOJ意外鹰派均触发港股/亚太科技股大幅波动。重点观察持仓中对高波动率敏感的期权仓位，考虑压缩Delta敞口。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "日本央行",
-        "BOJ",
-        "加息",
-        "套息交易",
-        "carry trade",
-        "日元"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260914/herald/772c8abf941070020294d1dc00146fe6.html",
-      "published_date": "2026-09-14",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-18",
-      "is_new": true
-    },
-    {
-      "id": "66d3adf55d2b1347",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "Oil prices ease from highs as Saudi Arabia reroutes crude via Hormuz after pipeline attack",
-      "summary": "Brent crude futures fell $1.01 to $104.82/bbl and WTI shed 52 cents to $101.91 on September 17, after Saudi Arabia stepped up crude exports through the Strait of Hormuz with U.S. military assistance, partially offsetting the closure of the Saudi East-West Pipeline struck by drones on September 10–11. The Strait of Hormuz remains effectively blocked by Iran amid the ongoing U.S.-Iran war.",
-      "why": "美伊战争持续，霍尔木兹仍受阻，油价高位（布伦特$105）是美联储本轮鹰派加息的主因；通胀压力可能延续至Q4。持仓中的能源敞口与通胀驱动型消费（老铺黄金、蜜雪冰城）需持续追踪；若油价进一步飙升，put premium将因波动率上行而提升。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "oil price",
-        "Hormuz",
-        "Iran war",
-        "Saudi Arabia",
-        "布伦特原油",
-        "地缘"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
-      "published_date": "2026-09-17",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-18",
-      "is_new": true
-    },
-    {
-      "id": "116e57d3b40999df",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "SEC issues 5-year 'Innovation Exemption' for tokenized NMS stock trading on blockchain venues",
-      "summary": "The U.S. Securities and Exchange Commission formally issued a five-year conditional exemption on September 17 allowing Tokenized Securities Venues (TSVs) to operate automated market makers and liquidity pools for trading tokenized NMS stocks, provided holders retain equivalent shareholder rights and trading halts are synchronized. This is the first SEC framework providing a regulated pathway for blockchain-based U.S. equity trading.",
-      "why": "直接利好Circle (CRCL)：Arc主网同日/次日上线，以USDC作为gas代币，完美契合SEC新规所定义的TSV场景；稳定币赛道监管环境系统性改善，CRCL「从稳定币发行方转型为制度化金融基础设施」的估值叙事获官方背书，可持续关注CRCL期权IV是否抬升。",
-      "source": "SEC.gov",
+      "title": "美股收盘：三大股指收涨，科技股与AI板块领涨，消化加息靴子落地",
+      "summary": "美股9月17日（美东时间）三大股指收涨，科技/AI板块领涨，英伟达等主要科技股普遍走高；油价回落提振市场情绪。加息靴子落地后市场重新聚焦AI增长叙事，纳斯达克表现强于道琼斯。英伟达CEO黄仁勋当日在苏格兰峰会发表的「2027芯片翻倍」预测是核心催化剂。",
+      "why": "美股科技消化加息后反弹，表明市场将AI增长逻辑置于短期利率风险之上；持有英伟达、谷歌等美股科技仓位的卖方期权策略，波动率仍处于较高水平；关注加息后美股是否延续反弹以判断后续期权策略方向。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "SEC",
-        "innovation exemption",
-        "tokenized securities",
-        "blockchain",
-        "USDC",
-        "Circle",
-        "CRCL"
+        "美股",
+        "纳斯达克",
+        "科技股",
+        "AI",
+        "加息消化",
+        "英伟达"
       ],
       "translated": false,
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisesms8814301.shtml",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-18",
+      "is_new": true
+    },
+    {
+      "id": "7b3fc83a38458498",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "黄仁勋：英伟达明年芯片销量将是今年的两倍",
+      "summary": "英伟达CEO黄仁勋在苏格兰峰会上发表讲话，称2027年公司芯片销量将约达2026年的两倍，因AI持续深度渗透医疗、制造、金融服务等多个行业。此前8月财报电话会已预告明年「翻倍」，此次是公开确认，英伟达盘中涨逾2%。",
+      "why": "销量翻倍指引强化Vera Rubin平台出货加速预期，提振整个AI算力板块；SK海力士HBM需求有望跟随增长；NVDA仍在高IV环境，sell put 期权金丰厚，但需关注美联储加息路径对高估值科技股的边际压力。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "黄仁勋",
+        "Jensen Huang",
+        "AI芯片",
+        "Rubin",
+        "NVDA"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/79430161/jensen-huang-nvidia-s-chip-sales-next-year-will-be",
       "published_date": "2026-09-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-18",
+      "is_new": true
+    },
+    {
+      "id": "83a2f164cd7afab9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "智通港股投資日誌|9月18日",
+      "summary": "美联储鹰派加息落地后，港股9月17日探底回升，恒指仍收跌，科技股相对抗跌，黄金股、石油股承压，汽车股逆势活跃。9月18日市场聚焦美债收益率走势与港股科技赛道估值修复成色，成交及外资流向是关键变量。",
+      "why": "港股在加息冲击后的实际走势和成交量是判断 sell put 标的执行风险的关键；科技消费仓位（腾讯、阿里、美团）在鹰派加息后的表现影响期权 delta 管理；HKMA 同步加息至4.25%提升港币存款成本，关注资金流出风险。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "加息",
+        "科技股",
+        "汽车股"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/hk/post/79430535/zhitong-hk-stock-investment-log-september-18",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-18",
+      "is_new": true
+    },
+    {
+      "id": "4922a3f5a6f87478",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "13:00",
+      "group": "大盘头条",
+      "title": "科技新热点浮出水面 A股机构热议结构性反弹成色",
+      "summary": "A股9月18日科技赛道上演结构性反弹，通信、半导体等方向领涨，全市场半日逾4500只个股上涨。美联储加息落地后，机构热议A股科技估值重构逻辑，人工智能、算力主题获资金青睐，成交额维持活跃。",
+      "why": "A股科技赛道反弹强化了AI/半导体主题的投资吸引力，与持仓中小米、好未来等科技相关标的形成联动；机构增持动向可作为 sell put 标的选择的参考信号；全市场成交活跃有助于压缩期权买卖价差。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "科技股",
+        "半导体",
+        "人工智能",
+        "结构性反弹",
+        "算力"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisencp3743573.shtml",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-18",
+      "is_new": true
+    },
+    {
+      "id": "ebfaad7a22b5f9ad",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "个股",
+      "title": "9月16日回购集合：腾讯控股(00700)耗资约1亿港元回购23.1万股",
+      "summary": "腾讯控股（00700）于9月16日斥资约1亿港元回购23.1万股，为近期持续回购操作的一部分。同日汇丰控股等多家港股公司亦开展回购行动，港股整体回购合计逾5.96亿港元。",
+      "why": "腾讯持续以约1亿港元/日节奏回购，彰显管理层对当前估值的信心；在美联储加息背景下港股整体承压，持续回购为腾讯股价提供支撑；sell put 持有腾讯期权时，回购对标的股价有托举作用，降低深度虚值 put 被执行的概率。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "0700.HK",
+        "回购",
+        "港股回购"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/79382577/september-16-buyback-summary-tencent-hsbc-holdings-and-others-conducted",
+      "published_date": "2026-09-16",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1024,6 +1081,70 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-17",
+      "is_new": false
+    },
+    {
+      "id": "2f89fd14d074b888",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "05:00",
+      "group": "大盘头条",
+      "title": "Stock Market Today (Sept. 17): Dow surges 316 points, Nasdaq +1.69% as tech leads post-Fed recovery",
+      "summary": "U.S. equities staged a broad recovery on September 17 as investors digested the Fed's 25bp hike. Dow Jones closed up 316.14 points (+0.61%) at 51,778.04; S&P 500 gained 1.14% to 7,637.76; Nasdaq added 1.69% to 26,418.30. Nvidia and Amazon rose more than 2%, Microsoft gained 1.5%, driven by declining Treasury yields and falling oil prices.",
+      "why": "一日内V型反弹说明市场此前已充分消化加息预期；英伟达、亚马逊领涨为科技多头提供支撑。短期sell put策略的IV可能小幅下行，实际收益率走高仍是长线估值的负面因素，须留意10月再加息预期（市场现定价约50%概率）。",
+      "source": "TheStreet",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "美股",
+        "Fed rate hike",
+        "英伟达",
+        "Nvidia"
+      ],
+      "translated": false,
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-17-2026",
+      "published_date": "2026-09-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-18",
+      "is_new": false
+    },
+    {
+      "id": "0864d58f8ffc8dc3",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "日本央行今日加息至1.25%，创31年新高；美日双央行同步收紧格局确立",
+      "summary": "日本央行于9月18日两日议息会议结束后宣布加息25基点，将政策利率从1.00%上调至1.25%，为1995年以来最高水平。本轮是2024年3月以来加息周期中节奏最快的一次，受高通胀、强GDP及美方压力驱动。89%的市场分析师此前预测加息落地。",
+      "why": "延续报道：美联储与日本央行同步收紧，全球资金成本全面走高；日元套息交易（carry trade）逆转压力上升，历史上每次BOJ意外鹰派均触发港股/亚太科技股大幅波动。重点观察持仓中对高波动率敏感的期权仓位，考虑压缩Delta敞口。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "日本央行",
+        "BOJ",
+        "加息",
+        "套息交易",
+        "carry trade",
+        "日元"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260914/herald/772c8abf941070020294d1dc00146fe6.html",
+      "published_date": "2026-09-14",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-18",
       "is_new": false
     },
     {
@@ -2171,6 +2292,70 @@
       "cross_ref": "https://seekingalpha.com/news/4643393-apple-considers-building-servers-with-in-house-chips-and-nvidia-networking-equipment-report",
       "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-09-17",
+      "is_new": false
+    },
+    {
+      "id": "66d3adf55d2b1347",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "Oil prices ease from highs as Saudi Arabia reroutes crude via Hormuz after pipeline attack",
+      "summary": "Brent crude futures fell $1.01 to $104.82/bbl and WTI shed 52 cents to $101.91 on September 17, after Saudi Arabia stepped up crude exports through the Strait of Hormuz with U.S. military assistance, partially offsetting the closure of the Saudi East-West Pipeline struck by drones on September 10–11. The Strait of Hormuz remains effectively blocked by Iran amid the ongoing U.S.-Iran war.",
+      "why": "美伊战争持续，霍尔木兹仍受阻，油价高位（布伦特$105）是美联储本轮鹰派加息的主因；通胀压力可能延续至Q4。持仓中的能源敞口与通胀驱动型消费（老铺黄金、蜜雪冰城）需持续追踪；若油价进一步飙升，put premium将因波动率上行而提升。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "oil price",
+        "Hormuz",
+        "Iran war",
+        "Saudi Arabia",
+        "布伦特原油",
+        "地缘"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "published_date": "2026-09-17",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-18",
+      "is_new": false
+    },
+    {
+      "id": "116e57d3b40999df",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "SEC issues 5-year 'Innovation Exemption' for tokenized NMS stock trading on blockchain venues",
+      "summary": "The U.S. Securities and Exchange Commission formally issued a five-year conditional exemption on September 17 allowing Tokenized Securities Venues (TSVs) to operate automated market makers and liquidity pools for trading tokenized NMS stocks, provided holders retain equivalent shareholder rights and trading halts are synchronized. This is the first SEC framework providing a regulated pathway for blockchain-based U.S. equity trading.",
+      "why": "直接利好Circle (CRCL)：Arc主网同日/次日上线，以USDC作为gas代币，完美契合SEC新规所定义的TSV场景；稳定币赛道监管环境系统性改善，CRCL「从稳定币发行方转型为制度化金融基础设施」的估值叙事获官方背书，可持续关注CRCL期权IV是否抬升。",
+      "source": "SEC.gov",
+      "verified": true,
+      "keywords": [
+        "SEC",
+        "innovation exemption",
+        "tokenized securities",
+        "blockchain",
+        "USDC",
+        "Circle",
+        "CRCL"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "published_date": "2026-09-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-18",
       "is_new": false
     },
     {
