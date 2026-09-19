@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-19 08:11 (北京时间)",
+  "updated_at": "2026-09-19 08:13 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,190 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-19 08:11 (北京时间)",
-    "new_count": 0,
+    "at": "2026-09-19 08:13 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "43dfd7d4a496354c",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+      "summary": "NVIDIA CEO Jensen Huang told reporters at a King Charles AI safety summit in Scotland on Sept. 17 that Nvidia expects to sell twice as many chips in 2027 as in 2026, citing expanding AI investment across industries and geographies. NVDA stock rose 2.54% to $219.34; the Philadelphia Semiconductor Index gained 3.14%.",
+      "why": "AI算力需求超预期指引，利好英伟达持仓及相关半导体链（SK海力士、美光）；宏观情绪改善有助于稳定HK科技股期权隐含波动率。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "NVDA",
+        "黄仁勋",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "published_date": "2026-09-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "7aea8d6be41e2007",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "9月18日港A股科技股集体反攻：恒生科技指数涨2.2%，A股创业板涨逾2%，半导体板块领涨",
+      "summary": "9月18日收盘，A股三大指数集体上涨，沪指涨近1%，创业板指涨超2%，全市场超4200只个股上涨，两市成交额2.08万亿元；港股恒生指数收涨0.6%，恒生科技指数涨2.2%；美联储加息后全球通胀担忧边际缓和，半导体及AI算力链领涨，背景是英伟达CEO黄仁勋宣布2027年芯片销量翻倍预期。",
+      "why": "A/港股同步反弹，半导体链持仓情绪改善；成交额2万亿以上反映资金回流意愿，短期covered call可适当候机。",
+      "source": "腾讯新闻",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "A股",
+        "半导体",
+        "恒生科技"
+      ],
+      "translated": false,
+      "url": "https://news.qq.com/rain/a/20260918A0AS3K00",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "bc121788505ea3fc",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "华为全联接大会2026：昇腾960超节点正式发布，性能翻倍，960DT提前至2027年Q1就绪",
+      "summary": "9月17日华为全联接大会，轮值董事长汪涛宣布昇腾960超节点正式发布，采用NPO近封装光互联技术；昇腾960DT将于2027年Q1推出，比原计划提前三个季度；960PR提前至2027年Q3；两款芯片性能均较上代翻倍；单超节点可扩展至4096卡，华为还披露2028/2029年昇腾970/980路线图。",
+      "why": "华为国产算力加速突围，影响AI芯片采购格局，利好A股算力/服务器/ICT产业链；同时使腾讯云/阿里云国产算力替代方案更具竞争力。",
+      "source": "腾讯新闻",
+      "verified": true,
+      "keywords": [
+        "华为",
+        "昇腾960",
+        "AI芯片",
+        "算力"
+      ],
+      "translated": false,
+      "url": "https://news.qq.com/rain/a/20260917A09Y2500",
+      "published_date": "2026-09-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "2122abfcd0916889",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "Gold hits weekly high near $4,400/oz as Fed hike tempers inflation fears",
+      "summary": "Spot gold rose to near $4,400/troy oz on Friday Sept. 18, on track for a weekly gain as the Fed's rate hike and falling oil prices eased inflation anxieties. Brent crude slid to around $98/bbl from over $107 earlier in the week; the weaker inflation outlook combined with a broadly lower dollar supported bullion.",
+      "why": "金价触及周高，利好老铺黄金（6181.HK）估值逻辑；同时低油价缓解美联储进一步鹰派压力，有利于港美股风险资产中期展望。",
+      "source": "Yahoo Finance",
+      "verified": true,
+      "keywords": [
+        "黄金",
+        "金价",
+        "老铺黄金",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-18-2026-gold-hits-weekly-high-as-inflation-concerns-fade-104807567.html",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "9d57f2be664dd353",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "个股",
+      "title": "Tencent (00700.HK) repurchased 237,000 shares for approximately HK$100 million on September 18",
+      "summary": "Tencent repurchased 237,000 shares at HK$425.2-430.2 per share for approximately HK$100 million on Sept. 18. The buyback follows a Sept. 15 repurchase of 229,000 shares for HK$101 million, maintaining its near-daily buyback cadence since mid-August.",
+      "why": "腾讯持续回购支撑股价底部；高盛同日下调目标价至650港元，但管理层回购行为释放对当前价位的信心，有助于维持sell put的期权策略安全边际。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "回购",
+        "0700.HK"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/79474070/tencent-00700-hk-repurchased-237000-shares-for-hk-100-million",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "5963ea6cd79cfa3e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "高盛下调腾讯目标价至650港元、阿里巴巴至172港元，理由是AI资本开支增加及股权融资压力",
+      "summary": "高盛发布中国互联网年底前布局报告，将腾讯控股（00700）12个月目标价从700港元下调至650港元，下调2026年下半年EPS最高5%；同时将阿里巴巴（09988）目标价降至172港元；高盛表示年底前偏好游戏及娱乐（利好腾讯游戏），其次是云计算与数据中心。",
+      "why": "目标价下调反映AI资本开支短期压制盈利能力，腾讯股价近4周已跌逾10%；sell put策略需关注行权价与当前价位偏离度；阿里巴巴估值同样受压，期权卖方需谨慎。",
+      "source": "腾讯新闻",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "阿里巴巴",
+        "高盛",
+        "目标价",
+        "AI资本开支"
+      ],
+      "translated": false,
+      "url": "https://news.qq.com/rain/a/20260917A086LL00",
+      "published_date": "2026-09-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
     {
       "id": "a5fd00758f210673",
       "tier": 1,
