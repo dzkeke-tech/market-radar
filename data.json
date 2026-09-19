@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-19 18:36 (北京时间)",
+  "updated_at": "2026-09-19 18:37 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,105 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-19 18:36 (北京时间)",
-    "new_count": 0,
+    "at": "2026-09-19 18:37 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "864d6e034f7eda5e",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "美国债市：短期美债承压，市场押注美联储继续加息",
+      "summary": "美联储9月16日全票通过加息25bp至3.75%-4%后，市场持续消化进一步紧缩预期；2年期美债收益率升至4.74%，10年期美债接近5%；美元指数升破106，港股次日恒指跌0.7%至24533点，上证跌0.4%。",
+      "why": "美联储时隔三年重启加息，沃什(Warsh)主席明确「通胀太高持续太久」，高盛预测年内或再加息一次（10月27-28日）；对港股/美股估值及sell put溢价水平有直接影响，关注隐含波动率变化。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "FOMC",
+        "加息",
+        "美债",
+        "美元"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapnm4346938.shtml",
+      "published_date": "2026-09-17",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "f5ce9649aec626fc",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "AI需求一浪叠一浪，英特尔CEO预警内存短缺恶化；美光高管：有意义供给2028年才到",
+      "summary": "英特尔CEO陈立武(Lip-Bu Tan)在AI Infra Summit警告内存价格涨5-7倍，产能不足已致多个AI项目推迟，CPU供货量仅满足需求50%；美光高管Sumit Sadana表示真正有效新增供给要到2028年才开始爬坡，行业供需平衡时间「看不到」。",
+      "why": "存储超级周期持续确认，直接利好美光(MU)持仓；内存供应瓶颈意味着HBM定价权维持，支持SK海力士/美光卖put策略中的高IV环境；英特尔自身供货吃紧也可能提振INTC短期报价。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "内存",
+        "英特尔",
+        "美光",
+        "HBM",
+        "存储芯片",
+        "AI基础设施"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/digi/2026-09-18/doc-inisfiic3436593.shtml",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "7627e222afdd16c7",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "现货黄金涨破4300美元",
+      "summary": "现货黄金9月17日盘中大幅上涨，突破4300美元/盎司关口；随后至9月18-19日进一步升至4350-4384美元区间，COMEX期金同步走强，主要驱动因素包括通胀预期上升及避险需求。",
+      "why": "金价逆势攀升（在美元强势背景下），反映市场对通胀持久性及全球紧缩副作用的担忧；老铺黄金(6181.HK)直接受益于金价走强，周大福等金饰品牌定价空间扩大。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "黄金",
+        "金价",
+        "老铺黄金",
+        "通胀",
+        "避险"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260917/herald/10fd8d377cc338f81c4907436e3d7689.html",
+      "published_date": "2026-09-17",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
     {
       "id": "a5fd00758f210673",
       "tier": 1,
