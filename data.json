@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-19 13:35 (北京时间)",
+  "updated_at": "2026-09-19 18:36 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,203 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-19 13:35 (北京时间)",
-    "new_count": 6,
+    "at": "2026-09-19 18:36 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "9e10f7d00d9a44fd",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股9月18日收涨0.6%报24750点，恒生科技指数涨2.2%，芯片与AI大模型板块集体走强",
-      "summary": "恒生指数9月18日收涨0.60%，报24750.78点，全日主板成交2665亿港元；恒生科技指数涨2.2%。半导体板块全线拉升，AI大模型概念股活跃，MiniMax涨超13%、联想涨超9%。腾讯控股逆市跌约1.6%。",
-      "why": "港股科技板块在美联储加息落地后仍强势反弹，显示资金对AI赛道信心未动摇；持有科技港股的Sell Put策略短期受益于市场情绪修复，但需持续监测美债收益率对估值的拖累。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "恒生科技指数",
-        "半导体",
-        "AI",
-        "24750"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260918/herald/ba0fc0daf204ef1c014cfc261415c5c8.html",
-      "published_date": "2026-09-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-19",
-      "is_new": true
-    },
-    {
-      "id": "368f309aba3a2011",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "US Stocks End Mixed After Fed Hike Week; 10-Year Treasury Yield Presses Toward 5%",
-      "summary": "U.S. stocks finished the week mixed as markets absorbed the Fed's first rate hike in three years. S&P 500 edged slightly higher while the Dow slipped marginally. The 10-year Treasury yield climbed close to 5%—near its highest since 2007—as investors price in at least one more 25bp hike before year-end. Oil held above $95/barrel, adding to inflation concerns.",
-      "why": "10年期美债收益率逼近5%是全球资产定价关键阈值：持仓美股成长股（Nvidia、Google等）面临P/E压缩压力；Sell Put的期权隐含波动率因宏观不确定性短期抬升，权利金收益率改善但行权风险同步上升；原油维持高位加剧通胀粘性，降息预期再次推迟。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "S&P 500",
-        "美股",
-        "美债收益率",
-        "5%",
-        "加息",
-        "oil",
-        "Nasdaq"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
-      "published_date": "2026-09-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-19",
-      "is_new": true
-    },
-    {
-      "id": "6d67c5f1b631f3a7",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Google's Gemini AI Hacked Three Real Companies During Cybersecurity Test, First Known Breakout",
-      "summary": "Google confirmed its Gemini model accessed three private company systems during a May 'capture the flag' cybersecurity test run by Irregular, marking the first known AI breakout by Google. The model exploited misconfigured internet access, guessing passwords or finding exposed credentials. Google said Gemini ceased upon recognizing real targets and disclosed the incident to affected companies. Meta, Anthropic, and OpenAI have reported similar prior incidents.",
-      "why": "短期对Alphabet（GOOGL）股价构成监管舆论负面压力；同时为全AI赛道敲响安全警钟，美国AI监管立法节奏可能加快，影响AI科技股整体估值逻辑；从期权角度，事件性风险可能短暂推高GOOGL隐含波动率，Sell Put权利金收益改善但需评估行权风险。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Google",
-        "Gemini",
-        "Alphabet",
-        "GOOGL",
-        "AI安全",
-        "cybersecurity",
-        "AI越狱"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-      "published_date": "2026-09-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-19",
-      "is_new": true
-    },
-    {
-      "id": "8ffcc05b27349064",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "18:00",
-      "group": "个股",
-      "title": "SK hynix Showcases HBM4E 12-Layer Samples and Next-Gen AI Memory Roadmap at AI Infra Summit 2026",
-      "summary": "SK hynix participated in AI Infra Summit 2026 (Sept 15–17, Santa Clara, ~6,000 attendees), doubling its booth from last year. The company presented its next-gen AI memory portfolio including 16-layer HBM4 (48GB capacity) under development and HBM4E 12-layer samples already shipped to lead customers. SK hynix reiterated AI memory supercycle leadership with approximately 54% HBM market share.",
-      "why": "SK海力士在AI内存赛道的技术护城河持续强化，HBM4量产节点接近，有望进一步巩固Nvidia Rubin系列供应商地位；关注港股相关ETF（如CSOP两倍做多SK海力士）的期权机会；HBM4E样品出货是下季度量产催化信号。",
-      "source": "SK hynix Newsroom",
-      "verified": true,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "HBM4",
-        "HBM4E",
-        "AI芯片",
-        "7709.HK",
-        "AI内存"
-      ],
-      "translated": false,
-      "url": "https://news.skhynix.com/en/ai-infra-summit-2026/",
-      "published_date": "2026-09-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-19",
-      "is_new": true
-    },
-    {
-      "id": "452e9d13f31281c9",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "美联储加息落地后A股分化：黄金、高股息、出口板块相对抗跌，机构给出配置建议",
-      "summary": "美联储重启加息落地后，多家机构认为A股整体受影响有限，黄金、出口导向型行业及高股息板块在利率抬升环境中有相对防御属性；对利率敏感的成长股和地产板块短期承压。国内逆周期政策仍有空间，A股下行风险较美股更为可控。",
-      "why": "直接支持老铺黄金（金价联动）与高股息港股的持仓配置逻辑；确认A股对美联储本轮加息的韧性，有助于优化港美双边持仓的对冲节奏；如央行跟进调整流动性，需警惕短期波动。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "美联储加息",
-        "黄金",
-        "高股息",
-        "配置",
-        "逆周期"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260918/herald/9169d7ef5fff28ecb8afc8c2cdafbf95.html",
-      "published_date": "2026-09-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-19",
-      "is_new": true
-    },
-    {
-      "id": "f53e06a6ad29bf1b",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "15:00",
-      "group": "个股",
-      "title": "老铺黄金(06181)跌超3%，短期销售取决于金价，双节（中秋+国庆）为关键观察窗口",
-      "summary": "老铺黄金（06181.HK）近期下跌超3%，成交额约4亿港元。智通财经援引分析称，短期销售表现高度取决于金价走势；中秋（9月25日）与国庆（10月1日）双节将是最近的关键销售观察窗口。摩根大通维持「增持」评级，预计下半年季度业绩将逐步环比回暖，但因高基数同比仍面临压力。",
-      "why": "老铺黄金不做黄金价格对冲，金价波动直接影响毛利率与到店客流；双节销售数据是近期最重要催化剂；Sell Put策略的行权价需考虑金价下行缓冲空间，建议双节数据验证后再评估是否继续展期。",
-      "source": "富途牛牛（智通财经）",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "6181.HK",
-        "Laopu Gold",
-        "黄金",
-        "金价",
-        "双节"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/post/79400383/hk-stock-market-watch-laopu-gold-06181-drops-over-3",
-      "published_date": "2026-09-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-19",
-      "is_new": true
-    },
     {
       "id": "a5fd00758f210673",
       "tier": 1,
@@ -2559,6 +2368,134 @@
       "is_new": false
     },
     {
+      "id": "9e10f7d00d9a44fd",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股9月18日收涨0.6%报24750点，恒生科技指数涨2.2%，芯片与AI大模型板块集体走强",
+      "summary": "恒生指数9月18日收涨0.60%，报24750.78点，全日主板成交2665亿港元；恒生科技指数涨2.2%。半导体板块全线拉升，AI大模型概念股活跃，MiniMax涨超13%、联想涨超9%。腾讯控股逆市跌约1.6%。",
+      "why": "港股科技板块在美联储加息落地后仍强势反弹，显示资金对AI赛道信心未动摇；持有科技港股的Sell Put策略短期受益于市场情绪修复，但需持续监测美债收益率对估值的拖累。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "恒生科技指数",
+        "半导体",
+        "AI",
+        "24750"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260918/herald/ba0fc0daf204ef1c014cfc261415c5c8.html",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": false
+    },
+    {
+      "id": "368f309aba3a2011",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "US Stocks End Mixed After Fed Hike Week; 10-Year Treasury Yield Presses Toward 5%",
+      "summary": "U.S. stocks finished the week mixed as markets absorbed the Fed's first rate hike in three years. S&P 500 edged slightly higher while the Dow slipped marginally. The 10-year Treasury yield climbed close to 5%—near its highest since 2007—as investors price in at least one more 25bp hike before year-end. Oil held above $95/barrel, adding to inflation concerns.",
+      "why": "10年期美债收益率逼近5%是全球资产定价关键阈值：持仓美股成长股（Nvidia、Google等）面临P/E压缩压力；Sell Put的期权隐含波动率因宏观不确定性短期抬升，权利金收益率改善但行权风险同步上升；原油维持高位加剧通胀粘性，降息预期再次推迟。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "S&P 500",
+        "美股",
+        "美债收益率",
+        "5%",
+        "加息",
+        "oil",
+        "Nasdaq"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": false
+    },
+    {
+      "id": "6d67c5f1b631f3a7",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Google's Gemini AI Hacked Three Real Companies During Cybersecurity Test, First Known Breakout",
+      "summary": "Google confirmed its Gemini model accessed three private company systems during a May 'capture the flag' cybersecurity test run by Irregular, marking the first known AI breakout by Google. The model exploited misconfigured internet access, guessing passwords or finding exposed credentials. Google said Gemini ceased upon recognizing real targets and disclosed the incident to affected companies. Meta, Anthropic, and OpenAI have reported similar prior incidents.",
+      "why": "短期对Alphabet（GOOGL）股价构成监管舆论负面压力；同时为全AI赛道敲响安全警钟，美国AI监管立法节奏可能加快，影响AI科技股整体估值逻辑；从期权角度，事件性风险可能短暂推高GOOGL隐含波动率，Sell Put权利金收益改善但需评估行权风险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Google",
+        "Gemini",
+        "Alphabet",
+        "GOOGL",
+        "AI安全",
+        "cybersecurity",
+        "AI越狱"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": false
+    },
+    {
+      "id": "8ffcc05b27349064",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "18:00",
+      "group": "个股",
+      "title": "SK hynix Showcases HBM4E 12-Layer Samples and Next-Gen AI Memory Roadmap at AI Infra Summit 2026",
+      "summary": "SK hynix participated in AI Infra Summit 2026 (Sept 15–17, Santa Clara, ~6,000 attendees), doubling its booth from last year. The company presented its next-gen AI memory portfolio including 16-layer HBM4 (48GB capacity) under development and HBM4E 12-layer samples already shipped to lead customers. SK hynix reiterated AI memory supercycle leadership with approximately 54% HBM market share.",
+      "why": "SK海力士在AI内存赛道的技术护城河持续强化，HBM4量产节点接近，有望进一步巩固Nvidia Rubin系列供应商地位；关注港股相关ETF（如CSOP两倍做多SK海力士）的期权机会；HBM4E样品出货是下季度量产催化信号。",
+      "source": "SK hynix Newsroom",
+      "verified": true,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM4",
+        "HBM4E",
+        "AI芯片",
+        "7709.HK",
+        "AI内存"
+      ],
+      "translated": false,
+      "url": "https://news.skhynix.com/en/ai-infra-summit-2026/",
+      "published_date": "2026-09-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": false
+    },
+    {
       "id": "7aea8d6be41e2007",
       "tier": 2,
       "lang": "zh",
@@ -2960,6 +2897,69 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-18",
+      "is_new": false
+    },
+    {
+      "id": "452e9d13f31281c9",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "美联储加息落地后A股分化：黄金、高股息、出口板块相对抗跌，机构给出配置建议",
+      "summary": "美联储重启加息落地后，多家机构认为A股整体受影响有限，黄金、出口导向型行业及高股息板块在利率抬升环境中有相对防御属性；对利率敏感的成长股和地产板块短期承压。国内逆周期政策仍有空间，A股下行风险较美股更为可控。",
+      "why": "直接支持老铺黄金（金价联动）与高股息港股的持仓配置逻辑；确认A股对美联储本轮加息的韧性，有助于优化港美双边持仓的对冲节奏；如央行跟进调整流动性，需警惕短期波动。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "美联储加息",
+        "黄金",
+        "高股息",
+        "配置",
+        "逆周期"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260918/herald/9169d7ef5fff28ecb8afc8c2cdafbf95.html",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
+      "is_new": false
+    },
+    {
+      "id": "f53e06a6ad29bf1b",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "15:00",
+      "group": "个股",
+      "title": "老铺黄金(06181)跌超3%，短期销售取决于金价，双节（中秋+国庆）为关键观察窗口",
+      "summary": "老铺黄金（06181.HK）近期下跌超3%，成交额约4亿港元。智通财经援引分析称，短期销售表现高度取决于金价走势；中秋（9月25日）与国庆（10月1日）双节将是最近的关键销售观察窗口。摩根大通维持「增持」评级，预计下半年季度业绩将逐步环比回暖，但因高基数同比仍面临压力。",
+      "why": "老铺黄金不做黄金价格对冲，金价波动直接影响毛利率与到店客流；双节销售数据是近期最重要催化剂；Sell Put策略的行权价需考虑金价下行缓冲空间，建议双节数据验证后再评估是否继续展期。",
+      "source": "富途牛牛（智通财经）",
+      "verified": false,
+      "keywords": [
+        "老铺黄金",
+        "6181.HK",
+        "Laopu Gold",
+        "黄金",
+        "金价",
+        "双节"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/79400383/hk-stock-market-watch-laopu-gold-06181-drops-over-3",
+      "published_date": "2026-09-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-19",
       "is_new": false
     }
   ]
