@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-20 13:40 (北京时间)",
+  "updated_at": "2026-09-20 18:35 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,151 +9,133 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-20 13:40 (北京时间)",
-    "new_count": 5,
+    "at": "2026-09-20 18:35 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "63bebd5a5ffef39b",
+      "id": "042b687ba7c29ba6",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "HK"
-      ],
-      "time": "2026-09-20T08:00:00Z",
-      "group": "宏观/货币政策",
-      "title": "HKMA raises base rate to 4.25% in lockstep with US Federal Reserve",
-      "summary": "Hong Kong Monetary Authority raised its base rate by 25bp to 4.25%, following the Federal Reserve's rate hike on September 17. Under the Linked Exchange Rate system, HKMA moves in tandem with the Fed to maintain the HKD peg.",
-      "why": "港股整体融资成本上升，高息环境对估值构成持续压制，尤其利率敏感型板块（地产/公用事业）；持仓腾讯0700、美团3690、小米1810、阿里9988等成长股估值受压；sell put时需关注IV上升带来的权利金机会，同时注意行权被触发风险。",
-      "source": "HKMA官方新闻稿",
-      "verified": true,
-      "keywords": [
-        "HK",
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260917-3/",
-      "published_date": "2026-09-17",
-      "still_developing": true,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": true
-    },
-    {
-      "id": "6c24496d7b99acea",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
         "US"
       ],
-      "time": "2026-09-20T08:04:00Z",
-      "group": "个股/携程",
-      "title": "China hits Trip.com with US$765 million antitrust penalty after six-month investigation",
-      "summary": "Chinese regulators fined Trip.com Group (9961.HK / TCOM) US$765 million (approximately RMB 5.2 billion) following a six-month antitrust investigation. The penalty caused the company to report a net loss of RMB 2.4 billion in Q2 2026, despite revenue growing 6% year-over-year to RMB 15.7 billion.",
-      "why": "监管罚款直接导致Q2净亏损RMB 24亿，对TCOM/9961.HK估值构成重大冲击；需评估罚款是否一次性计入。罚款落地后监管尾险基本出清，但市场短期情绪仍偏谨慎；持有携程相关期权时需关注IV及下行保护行权价，medium-term基本面仍由OTA出行复苏支撑。",
-      "source": "South China Morning Post",
+      "time": "18:35",
+      "group": "大盘头条",
+      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway",
+      "summary": "Warren Buffett, 96, stepped down as Berkshire Hathaway's board chairman effective September 18, assuming the role of chairman emeritus. His son Howard Buffett becomes chairman; Greg Abel has already been serving as CEO.",
+      "why": "全球投资界标志性事件；接班有充分铺垫（Abel已任CEO），短期市场影响有限，但消费/金融持仓风格能否延续值得长期跟踪。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "携程",
-        "Trip.com",
-        "Ctrip",
-        "9961.HK",
-        "TCOM",
-        "出境游",
-        "OTA"
+        "巴菲特",
+        "伯克希尔哈撒韦",
+        "Buffett",
+        "Berkshire Hathaway"
       ],
       "translated": false,
-      "url": "https://www.scmp.com/tech/policy/article/3361818/china-hits-tripcom-us765-million-antitrust-penalty-after-six-month-investigation",
-      "published_date": "2026-09-16",
-      "still_developing": true,
+      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-20",
       "is_new": true
     },
     {
-      "id": "9f166249e24f0d05",
-      "tier": 2,
+      "id": "56a11f17a385d835",
+      "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK"
-      ],
-      "time": "2026-09-20T08:01:00Z",
-      "group": "大盘/港股",
-      "title": "港股恒生指数9月17日收跌0.73%至24,533点，美联储鹰派加息压制估值",
-      "summary": "9月17日港股恒生指数下跌0.73%，收报24,533.57点。美联储加息25个基点至4.50%-4.75%并维持鹰派表态，引发市场对流动性收紧的忧虑，科技及消费板块均有不同程度下跌。",
-      "why": "持仓港股（腾讯0700、美团3690、小米1810、阿里9988等）均受到指数拖累；加息环境下sell put需考量标的向下破位风险，谨慎管理行权价，尤其近月合约。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
         "HK",
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260917/herald/04c7b2e6f8b2f969825334aa143f319e.html",
-      "published_date": "2026-09-17",
-      "still_developing": true,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": true
-    },
-    {
-      "id": "dce5de61e541759f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
         "A"
       ],
-      "time": "2026-09-20T08:02:00Z",
-      "group": "大盘/A股",
-      "title": "A股9月18日科技半导体领涨，沪指涨0.94%至3911.87，创业板涨2.25%，成交额逾2万亿元",
-      "summary": "9月18日A股市场大幅反弹，上证综指上涨0.94%至3,911.87点，创业板指大涨2.25%。半导体、AI、科技板块领涨，全市场成交额超2万亿元，资金情绪明显好转。",
-      "why": "A股科技板块强劲反弹，与加息利空消化后资金轮动入场的叙事一致；半导体赛道（SK海力士相关联动、国内存储链）值得持续跟踪；成交额逾2万亿显示市场活跃度高，存在进一步估值修复空间。",
+      "time": "18:35",
+      "group": "大盘头条",
+      "title": "商务部：何立峰将于9月19日—23日率团赴美举行经贸磋商",
+      "summary": "中共中央政治局委员、国务院副总理何立峰率团赴美，9月19-23日在纽约与美方举行经贸磋商，议题涵盖AI风险管理、贸易、稀土及11月到期关税延期，是习特会的前期准备。",
+      "why": "磋商结果直接影响A股/港股科技消费赛道情绪；若中美在AI管控和关税上达成缓和，腾讯、阿里巴巴、拼多多等中概科技股短期受益。",
       "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "A",
-        "科技",
-        "technology",
-        "semiconductor",
-        "宏观",
-        "macro"
+        "中美贸易",
+        "贸易磋商",
+        "何立峰",
+        "关税",
+        "AI管控",
+        "稀土",
+        "习特会"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/headline/2026-09-18/doc-inisfiif3497298.shtml",
-      "published_date": "2026-09-18",
-      "still_developing": false,
+      "url": "https://finance.sina.com.cn/wm/2026-09-19/doc-inisinhh9918249.shtml",
+      "published_date": "2026-09-19",
+      "still_developing": true,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-20",
       "is_new": true
     },
     {
-      "id": "f04afc77d546af3a",
+      "id": "298edfacbfa10b0b",
       "tier": 2,
       "lang": "zh",
       "markets": [
+        "A",
         "HK"
       ],
-      "time": "2026-09-20T08:03:00Z",
-      "group": "大盘/港股",
-      "title": "港股恒生指数9月18日收涨0.60%至24,750.78点，消化加息利空后技术性反弹",
-      "summary": "9月18日港股恒指回升0.60%至24,750.78点，科技股领涨，市场在消化美联储鹰派加息信号后出现技术性反弹。三季报业绩期临近，资金开始布局低估值优质标的。",
-      "why": "港股短线消化加息冲击，持仓腾讯0700、美团3690、小米1810等有望受益于估值修复；指数从24,533回暖至24,750为卖出更低行权价put提供缓冲，可适当下移行权价提升权利金收益。",
-      "source": "智通财经/富途牛牛",
-      "verified": true,
+      "time": "18:35",
+      "group": "大盘头条",
+      "title": "9·24行情即将两周年！下周迎重磅事件，A股怎么走？",
+      "summary": "下周A股迎来9·24行情两周年，叠加中秋/国庆跨长假风险、三季末机构考核约束及习特会预期。分析人士预计市场延续震荡与板块轮动，科技成长+红利防御双主线延续。",
+      "why": "节前流动性收缩+机构调仓压力，Sell Put行权价宜保守；若习特会积极信号落地，科技消费赛道短期反弹机会值得关注。",
+      "source": "新浪财经",
+      "verified": false,
       "keywords": [
-        "HK",
-        "宏观",
-        "macro"
+        "A股",
+        "9.24行情",
+        "国庆",
+        "中秋",
+        "习特会",
+        "市场展望"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/post/79430535/zhitong-hk-stock-investment-log-september-18",
-      "published_date": "2026-09-18",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-20/doc-inismvph6825113.shtml",
+      "published_date": "2026-09-20",
       "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-20",
+      "is_new": true
+    },
+    {
+      "id": "1df7e6c9310c9d25",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:35",
+      "group": "个股",
+      "title": "NHTSA Opens Investigation into Tesla Cybercab Self-Certification Following Austin Deployment",
+      "summary": "NHTSA on September 16 ordered Tesla to answer 21 detailed questions by September 30 on how it self-certified its Cybercab as compliant with federal safety standards. The probe (AQ26002) covers approximately 1,000 Cybercab vehicles; the Cybercab lacks steering wheel, pedals, and mirrors. Non-compliance risks up to 39 million in civil penalties.",
+      "why": "Robotaxi商业化遭重大监管阻力，9月30日为关键节点；若Tesla无法满足NHTSA要求，TSLA股价波动率上升，Sell Put行权价需保守设置。",
+      "source": "NHTSA.gov",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Cybercab",
+        "NHTSA",
+        "Robotaxi"
+      ],
+      "translated": false,
+      "url": "https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification",
+      "published_date": "2026-09-16",
+      "still_developing": true,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-20",
       "is_new": true
@@ -1293,6 +1275,65 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-19",
+      "is_new": false
+    },
+    {
+      "id": "63bebd5a5ffef39b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-09-20T08:00:00Z",
+      "group": "宏观/货币政策",
+      "title": "HKMA raises base rate to 4.25% in lockstep with US Federal Reserve",
+      "summary": "Hong Kong Monetary Authority raised its base rate by 25bp to 4.25%, following the Federal Reserve's rate hike on September 17. Under the Linked Exchange Rate system, HKMA moves in tandem with the Fed to maintain the HKD peg.",
+      "why": "港股整体融资成本上升，高息环境对估值构成持续压制，尤其利率敏感型板块（地产/公用事业）；持仓腾讯0700、美团3690、小米1810、阿里9988等成长股估值受压；sell put时需关注IV上升带来的权利金机会，同时注意行权被触发风险。",
+      "source": "HKMA官方新闻稿",
+      "verified": true,
+      "keywords": [
+        "HK",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260917-3/",
+      "published_date": "2026-09-17",
+      "still_developing": true,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-20",
+      "is_new": false
+    },
+    {
+      "id": "6c24496d7b99acea",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "2026-09-20T08:04:00Z",
+      "group": "个股/携程",
+      "title": "China hits Trip.com with US$765 million antitrust penalty after six-month investigation",
+      "summary": "Chinese regulators fined Trip.com Group (9961.HK / TCOM) US$765 million (approximately RMB 5.2 billion) following a six-month antitrust investigation. The penalty caused the company to report a net loss of RMB 2.4 billion in Q2 2026, despite revenue growing 6% year-over-year to RMB 15.7 billion.",
+      "why": "监管罚款直接导致Q2净亏损RMB 24亿，对TCOM/9961.HK估值构成重大冲击；需评估罚款是否一次性计入。罚款落地后监管尾险基本出清，但市场短期情绪仍偏谨慎；持有携程相关期权时需关注IV及下行保护行权价，medium-term基本面仍由OTA出行复苏支撑。",
+      "source": "South China Morning Post",
+      "verified": true,
+      "keywords": [
+        "携程",
+        "Trip.com",
+        "Ctrip",
+        "9961.HK",
+        "TCOM",
+        "出境游",
+        "OTA"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/tech/policy/article/3361818/china-hits-tripcom-us765-million-antitrust-penalty-after-six-month-investigation",
+      "published_date": "2026-09-16",
+      "still_developing": true,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-20",
       "is_new": false
     },
     {
@@ -2910,6 +2951,90 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-19",
+      "is_new": false
+    },
+    {
+      "id": "9f166249e24f0d05",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-09-20T08:01:00Z",
+      "group": "大盘/港股",
+      "title": "港股恒生指数9月17日收跌0.73%至24,533点，美联储鹰派加息压制估值",
+      "summary": "9月17日港股恒生指数下跌0.73%，收报24,533.57点。美联储加息25个基点至4.50%-4.75%并维持鹰派表态，引发市场对流动性收紧的忧虑，科技及消费板块均有不同程度下跌。",
+      "why": "持仓港股（腾讯0700、美团3690、小米1810、阿里9988等）均受到指数拖累；加息环境下sell put需考量标的向下破位风险，谨慎管理行权价，尤其近月合约。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "HK",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260917/herald/04c7b2e6f8b2f969825334aa143f319e.html",
+      "published_date": "2026-09-17",
+      "still_developing": true,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-20",
+      "is_new": false
+    },
+    {
+      "id": "dce5de61e541759f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "2026-09-20T08:02:00Z",
+      "group": "大盘/A股",
+      "title": "A股9月18日科技半导体领涨，沪指涨0.94%至3911.87，创业板涨2.25%，成交额逾2万亿元",
+      "summary": "9月18日A股市场大幅反弹，上证综指上涨0.94%至3,911.87点，创业板指大涨2.25%。半导体、AI、科技板块领涨，全市场成交额超2万亿元，资金情绪明显好转。",
+      "why": "A股科技板块强劲反弹，与加息利空消化后资金轮动入场的叙事一致；半导体赛道（SK海力士相关联动、国内存储链）值得持续跟踪；成交额逾2万亿显示市场活跃度高，存在进一步估值修复空间。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A",
+        "科技",
+        "technology",
+        "semiconductor",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/headline/2026-09-18/doc-inisfiif3497298.shtml",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-20",
+      "is_new": false
+    },
+    {
+      "id": "f04afc77d546af3a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-09-20T08:03:00Z",
+      "group": "大盘/港股",
+      "title": "港股恒生指数9月18日收涨0.60%至24,750.78点，消化加息利空后技术性反弹",
+      "summary": "9月18日港股恒指回升0.60%至24,750.78点，科技股领涨，市场在消化美联储鹰派加息信号后出现技术性反弹。三季报业绩期临近，资金开始布局低估值优质标的。",
+      "why": "港股短线消化加息冲击，持仓腾讯0700、美团3690、小米1810等有望受益于估值修复；指数从24,533回暖至24,750为卖出更低行权价put提供缓冲，可适当下移行权价提升权利金收益。",
+      "source": "智通财经/富途牛牛",
+      "verified": true,
+      "keywords": [
+        "HK",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/79430535/zhitong-hk-stock-investment-log-september-18",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-20",
       "is_new": false
     },
     {
