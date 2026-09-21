@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-21 08:38 (北京时间)",
+  "updated_at": "2026-09-21 13:34 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,69 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-21 08:38 (北京时间)",
-    "new_count": 3,
+    "at": "2026-09-21 13:34 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "c53d0cd21ca0e4fa",
+      "id": "ade468794a7c83f7",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
+        "HK",
+        "US",
+        "A"
       ],
-      "time": "06:00",
+      "time": "10:30",
       "group": "大盘头条",
-      "title": "OpenAI CEO Sam Altman will attend state dinner for Trump-Xi summit in Washington",
-      "summary": "CNBC reports that OpenAI CEO Sam Altman is confirmed to attend the state dinner at the White House on September 24 for the Trump-Xi summit. Tech and finance luminaries including Nvidia's Jensen Huang, Google's Sundar Pichai, Tesla's Elon Musk, Amazon's Jeff Bezos, Apple's Tim Cook, Dell's Michael Dell, and JPMorgan's Jamie Dimon are also confirmed attendees.",
-      "why": "顶级科技领袖集体出席特朗普-习近平峰会国宴，凸显AI治理与中美科技政策是本次峰会核心议题。英伟达（NVDA）、谷歌（GOOGL）、特斯拉（TSLA）相关政策表态值得重点关注；AI芯片出口管制的最新走向将直接影响英伟达和小米等标的估值，sell put策略需留意峰会前后隐含波动率变化。",
+      "title": "U.S. Treasury's Bessent, China's He to hold talks on AI, trade, critical minerals ahead of Trump-Xi summit",
+      "summary": "US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng met at JPMorgan HQ in New York to prepare for the September 24 Trump-Xi White House summit. Key topics: extension of the trade truce set to expire November 10, AI chip controls, tariff reductions, and rare-earth/critical-minerals access.",
+      "why": "贸易休战11月10日到期，延续与否是近期最大宏观变量；AI芯片管制的松紧直接影响持仓中国科技标的估值；港股、A股消费/科技板块短期情绪面利好，关注峰会实质成果。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "Trump-Xi峰会",
-        "AI政策",
-        "英伟达",
-        "OpenAI",
-        "黄仁勋",
-        "马斯克",
-        "奥特曼",
-        "白宫国宴"
+        "中美贸易",
+        "贸易休战",
+        "Trump-Xi summit",
+        "关税",
+        "AI芯片"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/09/16/openai-altman-trump-xi-summit.html",
-      "published_date": "2026-09-16",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-21",
-      "is_new": true
-    },
-    {
-      "id": "0163c1e1d20ccbb0",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "中国9月LPR按兵不动：1年期3.0%，5年期以上3.5%，连续16个月维持不变",
-      "summary": "中国人民银行9月20日公布，9月贷款市场报价利率（LPR）维持不变：1年期LPR为3.0%，5年期以上LPR为3.5%，均与上月持平，已连续第16个月未作调整。",
-      "why": "LPR维稳符合市场预期，短期内对港A市场流动性影响有限；但在美联储持续加息背景下，中美利差进一步扩大，对人民币汇率及外资流入港股形成压力。对持有高股息港股（海底捞、携程）和A股消费标的的中长期配置逻辑影响须持续跟踪。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "LPR",
-        "利率",
-        "中国人民银行",
-        "货币政策",
-        "贷款市场报价利率"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.cn/2026-09-20/detail-inismrfc1753236.d.html",
+      "url": "https://www.cnbc.com/2026/09/20/bessent-chinas-he-to-hold-talks-on-ai-trade-minerals-reuters.html",
       "published_date": "2026-09-20",
       "still_developing": false,
       "cross_ref": "",
@@ -80,35 +48,130 @@
       "is_new": true
     },
     {
-      "id": "98ec85cca0d59cbf",
-      "tier": 2,
-      "lang": "zh",
+      "id": "1b58f0a67e57e3e0",
+      "tier": 1,
+      "lang": "en",
       "markets": [
-        "A",
-        "US"
+        "US",
+        "HK"
       ],
-      "time": "08:30",
+      "time": "14:30",
       "group": "大盘头条",
-      "title": "粤芯半导体9月24日申购；高通骁龙峰会本周开幕丨一周前瞻",
-      "summary": "21世纪经济报道一周前瞻：粤芯半导体将于9月24日启动A股申购，是近期半导体领域重要IPO；高通骁龙峰会（Snapdragon Summit）本周即将开幕，预计发布下一代移动处理器；叠加9月24日特朗普-习近平白宫峰会，本周为重磅事件密集周。",
-      "why": "粤芯IPO提振A股半导体板块情绪；高通骁龙峰会新处理器将影响手机供应链（小米等）及美股芯片板块；Trump-Xi峰会与中美磋商进展是本周最大宏观变量，多事件共振窗口下隐含波动率可能走高，sell put需留意行权价缓冲。",
-      "source": "21世纪经济报道",
+      "title": "Investors react to Fed hike and market sell-off: Brace for 'higher for longer' rates",
+      "summary": "Fed Chair Kevin Warsh led the FOMC in a unanimous 25bp rate hike to 3.75%-4.00% on Sept 16 — the first hike in over three years. Warsh's phrase 'timelier return' to the 2% inflation target spooked markets: Dow fell 631.21 points, S&P 500 -0.45%. The dot-plot projects one more 25bp hike this year.",
+      "why": "延续报道：首次加息后'higher for longer'预期持续发酵，高利率压制美股科技估值；对持仓Sell Put策略而言，波动率上升利好权利金收入，但下行风险也加大；关注本周特朗普-习近平峰会能否提振风险偏好形成对冲。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "粤芯半导体",
-        "IPO",
-        "高通",
-        "骁龙峰会",
-        "Snapdragon",
-        "半导体",
-        "一周前瞻"
+        "美联储",
+        "Kevin Warsh",
+        "加息",
+        "利率决议",
+        "FOMC",
+        "higher for longer"
       ],
       "translated": false,
-      "url": "https://www.21jingji.com/article/20260921/herald/a7a400def6d5e47efa888ca861cb72a3.html",
+      "url": "https://www.cnbc.com/2026/09/16/investors-react-to-fed-hike-market-sell-off-brace-for-higher-rates-for-longer.html",
+      "published_date": "2026-09-16",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-21",
+      "is_new": true
+    },
+    {
+      "id": "dc8245397becd389",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Bitcoin rises above $81,000 while NEAR jumps 23% on Zcash swap traffic",
+      "summary": "Bitcoin traded above $81,000 on September 21, with crypto assets outperforming US equities. Macro backdrop: US 2-year Treasury yield remains elevated at around 4.76%, Brent crude near $102/barrel amid Middle East tensions and partial recovery in Saudi supply. Crypto's relative strength persists despite Fed tightening.",
+      "why": "BTC涨至81000美元，加密资产相对大盘明显跑赢；Circle/CRCL持仓受益于USDC生态增长与BTC强势双重催化；宏观风险：美联储'higher for longer'背景下加密市场抗跌性值得关注，对Sell Put期权时机有参考意义。",
+      "source": "CoinDesk",
+      "verified": true,
+      "keywords": [
+        "Bitcoin",
+        "BTC",
+        "加密货币",
+        "Circle",
+        "USDC",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
       "published_date": "2026-09-21",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-21",
+      "is_new": true
+    },
+    {
+      "id": "4fc0b4e8ba8d6b17",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "US stocks open higher Monday as investors look ahead to Trump-Xi summit; Dow posts third straight losing week",
+      "summary": "S&P 500 futures rose 0.3% and Nasdaq futures climbed Monday, September 20, as market sentiment improved ahead of the US-China high-level talks and the September 24 Trump-Xi summit. The Dow Jones had posted its third consecutive losing week on Friday, weighed down by higher-for-longer rate concerns after the September 16 Fed rate hike.",
+      "why": "美股开盘走高但仍处于连续三周下跌后的反弹测试；贸易峰会前市场情绪改善对港股/A股跨市场正相关；同时作为item1的市场背景item，反映了当日股市整体环境，两条合并理解中美谈判前夕市场情绪。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美股",
+        "S&P 500",
+        "道琼斯",
+        "Dow",
+        "市场情绪",
+        "Trump-Xi summit"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
+      "published_date": "2026-09-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-21",
+      "is_new": true
+    },
+    {
+      "id": "1d5003de9910149a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "Emerging market stocks and currencies gain after US-China talks described as 'very successful'",
+      "summary": "Emerging market equities and currencies rallied on September 21 after the Bessent-He talks were described as 'very successful' by both sides, boosting risk appetite ahead of the September 24 Trump-Xi summit. EM indices broadly advanced, with Hong Kong and mainland China markets outperforming; the offshore yuan strengthened.",
+      "why": "EM资产全面上涨，港股/A股领涨，体现中美关系缓和预期的直接市场反应；离岸人民币走强利好持仓中国资产的汇兑表现；这是谈判消息（item1）在市场层面的价格验证，两条互为印证。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "新兴市场",
+        "EM",
+        "港股",
+        "人民币",
+        "中美关系",
+        "Trump-Xi summit"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/emerging-market-stocks-currencies-gain-after-us-china-talks",
+      "published_date": "2026-09-21",
+      "still_developing": false,
+      "cross_ref": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-09-21",
       "is_new": true
     },
@@ -1337,6 +1400,39 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-20",
+      "is_new": false
+    },
+    {
+      "id": "c53d0cd21ca0e4fa",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "OpenAI CEO Sam Altman will attend state dinner for Trump-Xi summit in Washington",
+      "summary": "CNBC reports that OpenAI CEO Sam Altman is confirmed to attend the state dinner at the White House on September 24 for the Trump-Xi summit. Tech and finance luminaries including Nvidia's Jensen Huang, Google's Sundar Pichai, Tesla's Elon Musk, Amazon's Jeff Bezos, Apple's Tim Cook, Dell's Michael Dell, and JPMorgan's Jamie Dimon are also confirmed attendees.",
+      "why": "顶级科技领袖集体出席特朗普-习近平峰会国宴，凸显AI治理与中美科技政策是本次峰会核心议题。英伟达（NVDA）、谷歌（GOOGL）、特斯拉（TSLA）相关政策表态值得重点关注；AI芯片出口管制的最新走向将直接影响英伟达和小米等标的估值，sell put策略需留意峰会前后隐含波动率变化。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Trump-Xi峰会",
+        "AI政策",
+        "英伟达",
+        "OpenAI",
+        "黄仁勋",
+        "马斯克",
+        "奥特曼",
+        "白宫国宴"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/16/openai-altman-trump-xi-summit.html",
+      "published_date": "2026-09-16",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-21",
       "is_new": false
     },
     {
@@ -2945,6 +3041,70 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-20",
+      "is_new": false
+    },
+    {
+      "id": "0163c1e1d20ccbb0",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "中国9月LPR按兵不动：1年期3.0%，5年期以上3.5%，连续16个月维持不变",
+      "summary": "中国人民银行9月20日公布，9月贷款市场报价利率（LPR）维持不变：1年期LPR为3.0%，5年期以上LPR为3.5%，均与上月持平，已连续第16个月未作调整。",
+      "why": "LPR维稳符合市场预期，短期内对港A市场流动性影响有限；但在美联储持续加息背景下，中美利差进一步扩大，对人民币汇率及外资流入港股形成压力。对持有高股息港股（海底捞、携程）和A股消费标的的中长期配置逻辑影响须持续跟踪。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "LPR",
+        "利率",
+        "中国人民银行",
+        "货币政策",
+        "贷款市场报价利率"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.cn/2026-09-20/detail-inismrfc1753236.d.html",
+      "published_date": "2026-09-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-21",
+      "is_new": false
+    },
+    {
+      "id": "98ec85cca0d59cbf",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "粤芯半导体9月24日申购；高通骁龙峰会本周开幕丨一周前瞻",
+      "summary": "21世纪经济报道一周前瞻：粤芯半导体将于9月24日启动A股申购，是近期半导体领域重要IPO；高通骁龙峰会（Snapdragon Summit）本周即将开幕，预计发布下一代移动处理器；叠加9月24日特朗普-习近平白宫峰会，本周为重磅事件密集周。",
+      "why": "粤芯IPO提振A股半导体板块情绪；高通骁龙峰会新处理器将影响手机供应链（小米等）及美股芯片板块；Trump-Xi峰会与中美磋商进展是本周最大宏观变量，多事件共振窗口下隐含波动率可能走高，sell put需留意行权价缓冲。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "粤芯半导体",
+        "IPO",
+        "高通",
+        "骁龙峰会",
+        "Snapdragon",
+        "半导体",
+        "一周前瞻"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260921/herald/a7a400def6d5e47efa888ca861cb72a3.html",
+      "published_date": "2026-09-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-21",
       "is_new": false
     },
     {
