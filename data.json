@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-20 18:35 (北京时间)",
+  "updated_at": "2026-09-21 08:37 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,201 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-20 18:35 (北京时间)",
-    "new_count": 4,
+    "at": "2026-09-21 08:37 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "042b687ba7c29ba6",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "18:35",
-      "group": "大盘头条",
-      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway",
-      "summary": "Warren Buffett, 96, stepped down as Berkshire Hathaway's board chairman effective September 18, assuming the role of chairman emeritus. His son Howard Buffett becomes chairman; Greg Abel has already been serving as CEO.",
-      "why": "全球投资界标志性事件；接班有充分铺垫（Abel已任CEO），短期市场影响有限，但消费/金融持仓风格能否延续值得长期跟踪。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "巴菲特",
-        "伯克希尔哈撒韦",
-        "Buffett",
-        "Berkshire Hathaway"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-      "published_date": "2026-09-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": true
-    },
-    {
-      "id": "56a11f17a385d835",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "18:35",
-      "group": "大盘头条",
-      "title": "商务部：何立峰将于9月19日—23日率团赴美举行经贸磋商",
-      "summary": "中共中央政治局委员、国务院副总理何立峰率团赴美，9月19-23日在纽约与美方举行经贸磋商，议题涵盖AI风险管理、贸易、稀土及11月到期关税延期，是习特会的前期准备。",
-      "why": "磋商结果直接影响A股/港股科技消费赛道情绪；若中美在AI管控和关税上达成缓和，腾讯、阿里巴巴、拼多多等中概科技股短期受益。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "中美贸易",
-        "贸易磋商",
-        "何立峰",
-        "关税",
-        "AI管控",
-        "稀土",
-        "习特会"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-09-19/doc-inisinhh9918249.shtml",
-      "published_date": "2026-09-19",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": true
-    },
-    {
-      "id": "298edfacbfa10b0b",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "18:35",
-      "group": "大盘头条",
-      "title": "9·24行情即将两周年！下周迎重磅事件，A股怎么走？",
-      "summary": "下周A股迎来9·24行情两周年，叠加中秋/国庆跨长假风险、三季末机构考核约束及习特会预期。分析人士预计市场延续震荡与板块轮动，科技成长+红利防御双主线延续。",
-      "why": "节前流动性收缩+机构调仓压力，Sell Put行权价宜保守；若习特会积极信号落地，科技消费赛道短期反弹机会值得关注。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "9.24行情",
-        "国庆",
-        "中秋",
-        "习特会",
-        "市场展望"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-20/doc-inismvph6825113.shtml",
-      "published_date": "2026-09-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": true
-    },
-    {
-      "id": "1df7e6c9310c9d25",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "18:35",
-      "group": "个股",
-      "title": "NHTSA Opens Investigation into Tesla Cybercab Self-Certification Following Austin Deployment",
-      "summary": "NHTSA on September 16 ordered Tesla to answer 21 detailed questions by September 30 on how it self-certified its Cybercab as compliant with federal safety standards. The probe (AQ26002) covers approximately 1,000 Cybercab vehicles; the Cybercab lacks steering wheel, pedals, and mirrors. Non-compliance risks up to 39 million in civil penalties.",
-      "why": "Robotaxi商业化遭重大监管阻力，9月30日为关键节点；若Tesla无法满足NHTSA要求，TSLA股价波动率上升，Sell Put行权价需保守设置。",
-      "source": "NHTSA.gov",
-      "verified": true,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Cybercab",
-        "NHTSA",
-        "Robotaxi"
-      ],
-      "translated": false,
-      "url": "https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification",
-      "published_date": "2026-09-16",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": true
-    },
-    {
-      "id": "a5fd00758f210673",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "中东能源危机升级：沙特东西管道遭无人机袭击关闭，油价一度触及108美元",
-      "summary": "9月10日，来自伊拉克方向的无人机袭击沙特东西原油管道（每日运力约500万桶），沙特能源部被迫关闭该管道。这是2026年伊朗战争爆发、霍尔木兹海峡实际封闭后沙特的主要替代出口通道。与此同时，胡塞武装9月12日占领位于曼德海峡中央的佩里姆岛，红海航运进一步受阻。布伦特原油一度涨超$109/桶，WTI触$108，随后因沙特回应和多方协调小幅回落至$100附近。",
-      "why": "延续报道：沙特主要出口路线（霍尔木兹、东西管道、红海）三路同时受阻，构成2026年最严峻能源供应冲击，原油价格持续在$100上方将推高全球通胀预期，与本轮美联储加息周期叠加，压制科技成长股估值；对持仓中的能源敏感型期权策略（卖出期权时需重新评估隐含波动率）有直接影响。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "中东",
-        "石油",
-        "oil",
-        "Saudi Arabia",
-        "Houthi",
-        "伊朗战争",
-        "能源危机"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
-      "published_date": "2026-09-11",
-      "still_developing": true,
-      "first_seen": "2026-09-13",
-      "is_new": false,
-      "_url_check": "未能机检（URLError）"
-    },
-    {
-      "id": "27a7e97865557952",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "美国8月CPI同比3.4%，核心CPI环比超预期，美联储9月加息概率升至约85%",
-      "summary": "美国劳工统计局9月11日公布8月CPI：同比+3.4%（与7月持平），环比+0.4%；核心CPI（剔除食品和能源）环比+0.3%，高于预期0.2%，年率2.4%。汽油价格环比+3.9%贡献了月度涨幅约三分之一；科技软件价格同比+25.4%。美联储主席Kevin Warsh此前表示通胀改善不显著、Fed\"仍有工作要做\"。市场定价美联储9月15-16日FOMC会议加息25bp的概率升至约85%。",
-      "why": "加息预期上升直接压制纳斯达克/科技成长股估值（利率上升折现率走高），同时推高期权隐含波动率，对卖出期权策略的风险定价有重要参考；FOMC会议9月15-16日召开，结果将直接影响本轮持仓成本和方向。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "CPI",
-        "inflation",
-        "美联储",
-        "Fed",
-        "FOMC",
-        "加息",
-        "rate hike"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
-      "published_date": "2026-09-11",
-      "still_developing": true,
-      "first_seen": "2026-09-13",
-      "is_new": false,
-      "_url_check": "未能机检（URLError）"
-    },
     {
       "id": "fffd5542eb16e163",
       "tier": 1,
@@ -1278,6 +1089,68 @@
       "is_new": false
     },
     {
+      "id": "042b687ba7c29ba6",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:35",
+      "group": "大盘头条",
+      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway",
+      "summary": "Warren Buffett, 96, stepped down as Berkshire Hathaway's board chairman effective September 18, assuming the role of chairman emeritus. His son Howard Buffett becomes chairman; Greg Abel has already been serving as CEO.",
+      "why": "全球投资界标志性事件；接班有充分铺垫（Abel已任CEO），短期市场影响有限，但消费/金融持仓风格能否延续值得长期跟踪。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "巴菲特",
+        "伯克希尔哈撒韦",
+        "Buffett",
+        "Berkshire Hathaway"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "published_date": "2026-09-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-20",
+      "is_new": false
+    },
+    {
+      "id": "56a11f17a385d835",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "18:35",
+      "group": "大盘头条",
+      "title": "商务部：何立峰将于9月19日—23日率团赴美举行经贸磋商",
+      "summary": "中共中央政治局委员、国务院副总理何立峰率团赴美，9月19-23日在纽约与美方举行经贸磋商，议题涵盖AI风险管理、贸易、稀土及11月到期关税延期，是习特会的前期准备。",
+      "why": "磋商结果直接影响A股/港股科技消费赛道情绪；若中美在AI管控和关税上达成缓和，腾讯、阿里巴巴、拼多多等中概科技股短期受益。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "中美贸易",
+        "贸易磋商",
+        "何立峰",
+        "关税",
+        "AI管控",
+        "稀土",
+        "习特会"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/wm/2026-09-19/doc-inisinhh9918249.shtml",
+      "published_date": "2026-09-19",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-20",
+      "is_new": false
+    },
+    {
       "id": "63bebd5a5ffef39b",
       "tier": 1,
       "lang": "en",
@@ -1368,161 +1241,6 @@
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-20",
       "is_new": false
-    },
-    {
-      "id": "b06357123d5c4069",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "美股9月11日企稳反弹：标普+0.86%，纳指+0.96%，道指+0.98%，结束四连跌",
-      "summary": "9月11日（周五）美股三大指数集体收涨，原油从$108回落帮助市场情绪修复：道指收涨509点至52,573（+0.98%），标普500涨至7,657（+0.86%），纳斯达克涨至26,333（+0.96%）。然而美国10年期国债收益率已在过去数周上涨逾25bp、逼近5%，叠加加息预期，整体成长股仍承压。",
-      "why": "虽然单日反弹，但利率上行趋势和加息预期仍在，FOMC会议（9月15-16日）结果前后需关注持仓期权的gamma/vega风险；油价回落是暂时还是趋势性，需结合中东局势判断。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "S&P 500",
-        "Nasdaq",
-        "美股",
-        "market rally",
-        "美国国债",
-        "Treasury yield"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
-      "published_date": "2026-09-11",
-      "still_developing": false,
-      "first_seen": "2026-09-13",
-      "is_new": false,
-      "_url_check": "未能机检（URLError）"
-    },
-    {
-      "id": "6a04ed56fa6ab677",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "中国8月CPI同比升0.8%，PPI升3.8%超预期，能源与科技成本驱动通胀加速",
-      "summary": "中国国家统计局9月9日公布8月数据：CPI同比+0.8%（7月+0.5%），环比+0.4%；PPI同比+3.8%（7月+3.5%），高于预期，能源商品价格上涨和科技/机械需求旺盛是主要驱动。PPI持续走高表明中游制造业成本压力仍在累积，可能压缩企业利润空间。",
-      "why": "延续报道：中国通胀温和回升但PPI超预期暗示输入性成本压力——对港股中的消费/制造类标的（如美团、海底捞、蜜雪）毛利率判断有参考，且叠加全球能源危机背景，通胀前景对A/港股整体估值有负面传导。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "中国CPI",
-        "中国PPI",
-        "China inflation",
-        "能源",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
-      "published_date": "2026-09-09",
-      "still_developing": true,
-      "first_seen": "2026-09-13",
-      "is_new": false,
-      "_url_check": "未能机检（URLError）"
-    },
-    {
-      "id": "e0cbf4966e5846cc",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "Gold Steadies Near $4,400 as Middle East Risks and Fed Rate-Hike Path Clash",
-      "summary": "Spot gold steadied near $4,400/oz as of September 9-11, 2026, snapping a three-day losing streak with a 1% gain before pausing. Safe-haven demand driven by the 2026 Iran war and Saudi energy disruptions pushed gold higher, while rising US Treasury yields and Fed rate-hike expectations (now ~85% odds for September 25bp hike) provide a counterweight. On September 11, spot gold briefly touched $4,400.25 (+1.93% intraday).",
-      "why": "黄金价格逼近$4,400，对持仓老铺黄金（6181.HK）构成短期正面催化——金价走强直接利好古法金珠宝需求与品牌溢价；同时关注美联储加息落地后黄金是否因利率上升而承压。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "gold",
-        "黄金",
-        "safe haven",
-        "避险",
-        "老铺黄金",
-        "Middle East"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-09/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path",
-      "published_date": "2026-09-09",
-      "still_developing": true,
-      "first_seen": "2026-09-13",
-      "is_new": false,
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref"
-    },
-    {
-      "id": "45b1eaa6f8e7f3da",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "NVIDIA and Palantir Announce Sovereign AI Stack for Critical Supply Chains",
-      "summary": "On September 10, Palantir and NVIDIA jointly announced a sovereign AI operating system for supply chains, combining Palantir AIP with NVIDIA custom Nemotron open models. The joint AI stack is first deployed in NVIDIA's own supply chain operations to demonstrate real-world agentic AI. The collaboration was showcased at Palantir's AIPCon 11, held September 10.",
-      "why": "延续报道：Palantir（持仓PLTR）与Nvidia深化实质性企业AI合作，主权AI供应链场景是高价值政府/国防科技细分赛道，直接强化PLTR AIP平台的商业化叙事，对其政府合同续签和新客户拓展有正向信号；同时利好Nvidia在企业AI beyond数据中心的生态扩展。",
-      "source": "NVIDIA Newsroom",
-      "verified": true,
-      "keywords": [
-        "Palantir",
-        "PLTR",
-        "Nvidia",
-        "NVDA",
-        "AIP",
-        "sovereign AI",
-        "AI平台",
-        "supply chain"
-      ],
-      "translated": false,
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
-      "published_date": "2026-09-10",
-      "still_developing": true,
-      "first_seen": "2026-09-13",
-      "is_new": false,
-      "_url_check": "未能机检（URLError）"
-    },
-    {
-      "id": "dc4f2b936bac7369",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "小米18 Fold首销\"卖爆\"：首日销量较上代大折叠增长310%，顶配版售罄",
-      "summary": "小米首款中折叠旗舰小米18 Fold（起售价10,999元）9月10日开售，高管透露首销销量较上一代大折叠机型同比增长310%，16GB+1TB顶配版迅速售罄。手机搭载小米自研玄戒O3芯片（3nm，200TOPS NPU），是小米迄今最高端手机，标志其高端化与半导体自研战略的阶段性里程碑。",
-      "why": "延续报道：首销超预期印证小米高端化策略初步奏效，有助于市场重新定价1810.HK的消费电子溢价；自研芯片玄戒O3的商用意味着小米在毛利和供应链主动权上的潜在中长期利好，可能带动下半年业绩预期上修；卖出期权策略中，首销数据可作为判断股价短期支撑的参考。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "18 Fold",
-        "折叠屏",
-        "玄戒O3",
-        "高端手机",
-        "自研芯片"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-08/doc-inirauia9576779.shtml",
-      "published_date": "2026-09-08",
-      "still_developing": true,
-      "first_seen": "2026-09-13",
-      "is_new": false,
-      "_url_check": "未能机检（URLError）"
     },
     {
       "id": "6f0a4262dc53dff7",
@@ -2951,6 +2669,69 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-19",
+      "is_new": false
+    },
+    {
+      "id": "298edfacbfa10b0b",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "18:35",
+      "group": "大盘头条",
+      "title": "9·24行情即将两周年！下周迎重磅事件，A股怎么走？",
+      "summary": "下周A股迎来9·24行情两周年，叠加中秋/国庆跨长假风险、三季末机构考核约束及习特会预期。分析人士预计市场延续震荡与板块轮动，科技成长+红利防御双主线延续。",
+      "why": "节前流动性收缩+机构调仓压力，Sell Put行权价宜保守；若习特会积极信号落地，科技消费赛道短期反弹机会值得关注。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "9.24行情",
+        "国庆",
+        "中秋",
+        "习特会",
+        "市场展望"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-20/doc-inismvph6825113.shtml",
+      "published_date": "2026-09-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-20",
+      "is_new": false
+    },
+    {
+      "id": "1df7e6c9310c9d25",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:35",
+      "group": "个股",
+      "title": "NHTSA Opens Investigation into Tesla Cybercab Self-Certification Following Austin Deployment",
+      "summary": "NHTSA on September 16 ordered Tesla to answer 21 detailed questions by September 30 on how it self-certified its Cybercab as compliant with federal safety standards. The probe (AQ26002) covers approximately 1,000 Cybercab vehicles; the Cybercab lacks steering wheel, pedals, and mirrors. Non-compliance risks up to 39 million in civil penalties.",
+      "why": "Robotaxi商业化遭重大监管阻力，9月30日为关键节点；若Tesla无法满足NHTSA要求，TSLA股价波动率上升，Sell Put行权价需保守设置。",
+      "source": "NHTSA.gov",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Cybercab",
+        "NHTSA",
+        "Robotaxi"
+      ],
+      "translated": false,
+      "url": "https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification",
+      "published_date": "2026-09-16",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-20",
       "is_new": false
     },
     {
