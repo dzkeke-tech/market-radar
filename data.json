@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-21 18:35 (北京时间)",
+  "updated_at": "2026-09-21 18:36 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,134 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-21 18:35 (北京时间)",
-    "new_count": 0,
+    "at": "2026-09-21 18:36 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "2bac25347c1a8c6a",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股9月21日收评：恒指涨1.18%重回25000点上方，创新药全线爆发，中生制药领涨蓝筹",
+      "summary": "恒生指数收涨1.18%至25,042.71点；恒生科技指数涨0.4%；小米集团涨逾4%、阿里巴巴涨逾3%；创新药概念股全线大涨，金斯瑞生物科技涨逾6%；存储半导体/PCB概念股集体强势。",
+      "why": "当日港股收盘综述，data.json上次更新（13:34北京时间）之后的新增收盘行情，含多只关注标的（小米、阿里巴巴）大幅上涨，属市场级头条。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "小米",
+        "阿里巴巴",
+        "HK",
+        "创新药"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/79547234/hk-stocks-close-sep-21-hang-seng-index-rises-1",
+      "published_date": "2026-09-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-21",
+      "is_new": true
+    },
+    {
+      "id": "579fc6bbe27f1e0f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股9月21日收评：沪指涨0.97%，创指涨0.8%，地产+医药领涨，超4500股飘红",
+      "summary": "沪深两市收盘均上涨，沪指收涨0.97%，创业板指涨0.8%；地产板块与医药板块领涨全市场，超4500只个股飘红，市场情绪偏暖。",
+      "why": "当日A股收盘综述，data.json上次更新（13:34北京时间）之后的新增收盘数据，属市场级头条。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "沪指",
+        "创业板",
+        "地产",
+        "医药"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tob/2026-09-21/doc-inisqkzx2153961.shtml",
+      "published_date": "2026-09-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-21",
+      "is_new": true
+    },
+    {
+      "id": "6c01a8b176af7f0e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "A股“小作文”引发地产板块爆发：传政策将放松，世茂房地产等多股涨停",
+      "summary": "市场流传地产调控政策将进一步放松的「小作文」，引发地产板块集体大涨，世茂房地产等多只个股涨停，板块成为当日A股最强主线之一。",
+      "why": "9月21日盘中地产板块异动的主要催化剂，虽为未经证实的传言，但引发大幅行情波动，具有重要市场信号意义，且与当日地产领涨的收盘行情相互印证。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "地产",
+        "房地产政策",
+        "涨停"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-21/doc-inisqriy5786949.shtml",
+      "published_date": "2026-09-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-21",
+      "is_new": true
+    },
+    {
+      "id": "70abe26b41a6e4db",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "创新药再度大涨！海内外利好消息密集：十五五规划出台+美国财政部拟放宽中国药企授权规则",
+      "summary": "A股及港股创新药板块连续大涨，国内十五五规划明确支持创新药产业，美国财政部拟放宽对中国药企技术授权规则，内外政策利好共振，金斯瑞生物、中生制药等领涨。",
+      "why": "创新药板块是9月21日港股/A股最强主线之一，政策面内外共振形成明确催化，作为当日两市行情的重要驱动因素收录。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "创新药",
+        "医药",
+        "十五五",
+        "政策",
+        "港股",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260921/herald/a0c5c1419f737224902195e77e973ce2.html",
+      "published_date": "2026-09-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-21",
+      "is_new": true
+    },
     {
       "id": "fffd5542eb16e163",
       "tier": 1,
