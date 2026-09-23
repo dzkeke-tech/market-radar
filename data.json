@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-23 08:33 (北京时间)",
+  "updated_at": "2026-09-23 13:30 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,71 +9,105 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-23 08:33 (北京时间)",
-    "new_count": 2,
+    "at": "2026-09-23 13:30 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "9f861b2551d13cde",
-      "tier": 2,
+      "id": "11dbe3ecbc937af1",
+      "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
+        "HK",
+        "US",
+        "A"
       ],
-      "time": "2026-09-22T09:00:00-04:00",
-      "group": "Circle",
-      "title": "Binance buys $100M Circle stake, signs 5-year USDC promotion deal; private placement closed Sept. 17",
-      "summary": "Circle (CRCL) issued Binance 1.24 million Class A shares at $80.84 each in a private placement that closed September 17, raising $100 million. Under a new five-year partnership, Circle will pay Binance monthly incentives calculated as a percentage of USDC held through Circle's Modular Smart Contract Wallet service, while Binance will actively promote USDC across its platform. Binance co-CEO Richard Teng said the investment reflects \"long-duration conviction.\" The deal supersedes Circle-Binance USDC agreements from November 2024 and August 2025 and was confirmed by an SEC filing.",
-      "why": "Circle（CRCL）核心持仓事件：全球最大加密交易所战略入股并锁定5年推广协议，直接拓宽USDC全球分发渠道，对USDC储备金收入前景具正向催化；SEC filing确认，数字可核查，评估是否调整期权行权价或滚仓时机。",
-      "source": "CoinDesk",
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Xi Arrives in Washington; Trump-Xi Summit Thursday to Cover AI, Trade Truce, Rare Earths",
+      "summary": "Chinese President Xi Jinping arrived in Washington on September 23 for a state visit, with the summit meeting with President Trump scheduled for September 24. Key agenda items include extending the Busan trade ceasefire (expires November 10), AI governance and safety dialogue, critical minerals/rare earths controls, and Taiwan. US Treasury Secretary Bessent proposed a bilateral AI safety notification mechanism in pre-summit talks on September 20.",
+      "why": "中美峰会是本周最高级别地缘政治事件，直接影响所有中概股/港股估值；贸易停火延期与否决定关税风险，AI对话框架若达成利好科技板块，稀土管控谈判影响半导体供应链；sell put期权持仓在峰会前后可能面临更高波动率。",
+      "source": "South China Morning Post",
       "verified": true,
       "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "Binance",
-        "稳定币",
-        "stablecoin",
-        "私募配售"
+        "特朗普",
+        "习近平",
+        "中美峰会",
+        "AI治理",
+        "贸易停火",
+        "稀土",
+        "地缘"
       ],
       "translated": false,
-      "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "url": "https://www.scmp.com/economy/global-economy/article/3368020/xi-trump-summit-preview-what-watch-investors-brace-best-and-worst-scenarios",
       "published_date": "2026-09-22",
-      "still_developing": false,
+      "still_developing": true,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-23",
       "is_new": true
     },
     {
-      "id": "92cc35ac2cb0f458",
-      "tier": 3,
+      "id": "1844987749540921",
+      "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "2026-09-22T09:00:00+08:00",
-      "group": "腾讯",
-      "title": "腾讯混元发布图像3.5预览版：专业级图生图，最高2K分辨率，能力较3.0提升约30%",
-      "summary": "9月22日，腾讯混元正式发布混元图像3.5预览版（Hy Image3.5 Preview），定位专业级图像生成模型，经数百名内部设计师测试，较混元图像3.0综合能力提升约30%。支持文生图与图生图，单次请求最多上传5张参考图，支持多种画面比例，最高输出2K分辨率。腾讯云API定价每张2K图0.15元。已接入元宝AI助手、WorkRally、OnSolo、ima等多个应用，同步上线腾讯云TokenHub和媒体服务API。",
-      "why": "腾讯（0700.HK）混元AI能力持续迭代、图像生成加速商业化（元宝接入+云API上线+多应用落地），有助于评估AI变现进度；当日腾讯股价盘中涨超8%（参见今日港股收评），为近期行情中期方向参考。",
-      "source": "富途牛牛",
-      "verified": false,
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股收评：恒指涨0.18%，恒科涨0.34%，科网股活跃，存储概念走强",
+      "summary": "9月22日港股收评：恒生指数涨0.18%，恒生科技指数涨0.34%，科网股全面活跃。腾讯控股收涨5.02%报451.6港元，阿里巴巴涨近5%，两者带动板块表现；半导体/存储概念股下午走低，建材、造纸、交运跌幅居前。当日全港成交量活跃，Meta Muse AI情绪映射叠加腾讯自身AI产品发布推动科网股放量上涨。",
+      "why": "港股科网股9月22日走势强劲，腾讯单日贡献显著；下午半导体回调值得留意，整体市场处于双节长假（国庆+中秋）前的高位震荡区间。",
+      "source": "新浪财经",
+      "verified": true,
       "keywords": [
+        "港股",
+        "恒生指数",
         "腾讯",
-        "0700.HK",
-        "混元",
-        "AI",
-        "图像生成",
-        "大模型",
-        "腾讯云"
+        "阿里",
+        "科网股",
+        "存储概念"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/post/79588420/tencent-hunyuan-releases-preview-of-hunyuan-image-3-5-to",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-22/doc-inissuic8916166.shtml",
       "published_date": "2026-09-22",
       "still_developing": false,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-23",
+      "is_new": true
+    },
+    {
+      "id": "0ae7399fde1867ac",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:30",
+      "group": "个股",
+      "title": "Korean Chip Stocks Rally on Meta Muse AI Enthusiasm; SK Hynix Gains 3.3%",
+      "summary": "South Korean chip stocks rallied on September 22 as Meta's Muse AI agent success fueled expectations for rising memory demand. SK Hynix (000660.KS) gained 3.3% and Samsung Electronics rose as much as 3.5%. Hong Kong-listed chip stocks also surged, with Montage Technology opening more than 14% higher. Analysts note widespread AI agent adoption will increase inference workloads and boost demand for server CPUs and high-bandwidth memory.",
+      "why": "SK海力士(7709.HK/南方两倍做多)持仓直接受益；HBM4供给已锁定至2027年，AI需求叙事再次确认，期权方向卖出看跌期权逻辑得到强化；注意韩国原厂股与港股南向CSOP产品之间的溢价变化。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "韩国芯片",
+        "HBM",
+        "Meta",
+        "Muse",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/korean-chip-stocks-gain-as-meta-s-muse-ai-agent-spurs-enthusiasm",
+      "published_date": "2026-09-22",
+      "still_developing": false,
+      "cross_ref": "https://news.futunn.com/en/post/79580482/hk-stock-market-moves-montage-technology-06809-opens-more-than",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-09-23",
       "is_new": true
     },
@@ -3135,6 +3169,37 @@
       "is_new": false
     },
     {
+      "id": "9f861b2551d13cde",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-09-22T09:00:00-04:00",
+      "group": "Circle",
+      "title": "Binance buys $100M Circle stake, signs 5-year USDC promotion deal; private placement closed Sept. 17",
+      "summary": "Circle (CRCL) issued Binance 1.24 million Class A shares at $80.84 each in a private placement that closed September 17, raising $100 million. Under a new five-year partnership, Circle will pay Binance monthly incentives calculated as a percentage of USDC held through Circle's Modular Smart Contract Wallet service, while Binance will actively promote USDC across its platform. Binance co-CEO Richard Teng said the investment reflects \"long-duration conviction.\" The deal supersedes Circle-Binance USDC agreements from November 2024 and August 2025 and was confirmed by an SEC filing.",
+      "why": "Circle（CRCL）核心持仓事件：全球最大加密交易所战略入股并锁定5年推广协议，直接拓宽USDC全球分发渠道，对USDC储备金收入前景具正向催化；SEC filing确认，数字可核查，评估是否调整期权行权价或滚仓时机。",
+      "source": "CoinDesk",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "Binance",
+        "稳定币",
+        "stablecoin",
+        "私募配售"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "published_date": "2026-09-22",
+      "still_developing": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-23",
+      "is_new": false
+    },
+    {
       "id": "b7f649ef80b65262",
       "tier": 3,
       "lang": "zh",
@@ -3225,6 +3290,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-19",
+      "is_new": false
+    },
+    {
+      "id": "92cc35ac2cb0f458",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-09-22T09:00:00+08:00",
+      "group": "腾讯",
+      "title": "腾讯混元发布图像3.5预览版：专业级图生图，最高2K分辨率，能力较3.0提升约30%",
+      "summary": "9月22日，腾讯混元正式发布混元图像3.5预览版（Hy Image3.5 Preview），定位专业级图像生成模型，经数百名内部设计师测试，较混元图像3.0综合能力提升约30%。支持文生图与图生图，单次请求最多上传5张参考图，支持多种画面比例，最高输出2K分辨率。腾讯云API定价每张2K图0.15元。已接入元宝AI助手、WorkRally、OnSolo、ima等多个应用，同步上线腾讯云TokenHub和媒体服务API。",
+      "why": "腾讯（0700.HK）混元AI能力持续迭代、图像生成加速商业化（元宝接入+云API上线+多应用落地），有助于评估AI变现进度；当日腾讯股价盘中涨超8%（参见今日港股收评），为近期行情中期方向参考。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "0700.HK",
+        "混元",
+        "AI",
+        "图像生成",
+        "大模型",
+        "腾讯云"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/79588420/tencent-hunyuan-releases-preview-of-hunyuan-image-3-5-to",
+      "published_date": "2026-09-22",
+      "still_developing": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-23",
       "is_new": false
     }
   ]
