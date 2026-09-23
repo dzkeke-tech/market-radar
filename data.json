@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-22 18:24 (北京时间)",
+  "updated_at": "2026-09-23 08:33 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,353 +9,73 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-22 18:24 (北京时间)",
-    "new_count": 5,
+    "at": "2026-09-23 08:33 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "2b41d3985c772484",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "Meta's Muse AI agent tops US App Store, Meta stock surges 11%",
-      "summary": "Meta's personal AI agent app Muse hit No. 1 on the U.S. Apple App Store free charts within 10 days of launch, accumulating over 730,000 U.S. downloads. Wells Fargo and JPMorgan raised price targets on Meta. Chipmakers surged as early success for Meta's AI agent fueled optimism about demand for AI infrastructure.",
-      "why": "Meta Muse爆发带动AI算力整体估值抬升，对持仓英伟达、SK海力士等芯片股构成直接利好；AI代理赛道加速，可关注相关标的期权隐含波动率变化。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Meta",
-        "AI agent",
-        "Muse",
-        "AI芯片",
-        "chip rally"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
-      "published_date": "2026-09-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-22",
-      "is_new": true
-    },
-    {
-      "id": "aac54837b9c6d25b",
-      "tier": 1,
+      "id": "9f861b2551d13cde",
+      "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "AMD crosses $1 trillion market cap for the first time on AI chip demand",
-      "summary": "Advanced Micro Devices joined the $1 trillion market cap club for the first time on September 21, driven by a five-session rally of approximately 24% on soaring AI chip demand. AMD became the fourth U.S. chip company to reach this milestone after Nvidia, Broadcom, and Micron.",
-      "why": "AI芯片板块估值全面扩张，AMD万亿里程碑印证AI算力需求高景气；对持仓英伟达（NVDA）构成情绪面利好，AI算力相关期权波动率环境偏暖。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "AMD",
-        "AI芯片",
-        "trillion",
-        "市值"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
-      "published_date": "2026-09-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-22",
-      "is_new": true
-    },
-    {
-      "id": "608bf7159676ddd1",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "阿里云栖大会：公布Qwen4模型已在训练中，下代视频模型同步推进",
-      "summary": "2026年阿里云栖大会（9月22-24日，杭州）开幕首日，阿里巴巴公布全模态模型最新进展：Qwen4及下一代视频模型均已进入训练阶段，未来版本参数规模将扩展至5-10万亿。大会同期展示AI眼镜、AI耳机等硬件新品，千问大模型项目负责人亮相主论坛。",
-      "why": "云栖大会是BABA/9988持仓的关键近期催化剂，Qwen4进入训练阶段印证阿里AI战略持续落地；大会还有22-24日持续公告，短期波动率可能提升，适合关注9988/BABA期权机会。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "通义千问",
-        "Qwen4",
-        "云栖大会",
-        "BABA",
-        "9988.HK"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-09-22/doc-inissitm5734586.shtml",
-      "published_date": "2026-09-22",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-22",
-      "is_new": true
-    },
-    {
-      "id": "6dd4ee8c5535e078",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "A股三大指数集体高开，算力AI芯片概念领涨，油气板块走低",
-      "summary": "9月22日A股三大指数全线高开：沪指涨0.35%，深成指涨0.94%，创业板指涨1.37%，超3100只个股上涨。半导体、算力芯片、CPO等板块领涨，受益于隔夜美股科技板块大幅上行；油气、煤炭板块跌幅居前。央行同日表态经济运行总体平稳向好。",
-      "why": "A股算力链受益于全球AI情绪升温，国内相关半导体标的跟随受益；央行政策表态稳健，宏观风险可控，持仓背景正面。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "AI芯片",
-        "算力",
-        "三大指数",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260922/herald/e9d60a8995e67987748482a24816a26f.html",
-      "published_date": "2026-09-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-22",
-      "is_new": true
-    },
-    {
-      "id": "8ca0decdeaeb079d",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "腾讯大涨7%！机构：港股下半年行情围绕AI进展与确定性演绎",
-      "summary": "9月22日港股收盘，恒生指数涨0.18%实现3连升，恒生科技指数涨0.34%。科网股、存储概念股活跃，腾讯（00700）大涨约7%领涨权重股，阿里巴巴涨超4%。机构认为，Meta Muse AI代理的爆发验证了消费级AI代理市场，港股下半年行情将持续围绕AI进展与确定性演绎。",
-      "why": "港股科技股由AI情绪驱动的集体上涨，对0700/9988等核心持仓构成积极价格信号；机构看好港股AI主线延续，支撑下行止损与sell put策略。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "腾讯",
-        "恒指",
-        "AI",
-        "科网股",
-        "存储"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260922/herald/851af23be2d2059c6336899de6e8fef9.html",
-      "published_date": "2026-09-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-22",
-      "is_new": true
-    },
-    {
-      "id": "d044dffbd1ce1932",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "Fed Rate Decision Tomorrow: Market Prices ~90% Chance of 25bp Hike to 3.75-4.00%",
-      "summary": "The Federal Reserve is set to announce its rate decision on Sept 16 at 2PM ET. Markets via CME FedWatch are pricing approximately 90% probability of a 25bp hike, which would bring the fed funds rate to 3.75-4.00%, as Chair Kevin Warsh's hawkish Jackson Hole speech and elevated CPI data reinforced expectations.",
-      "why": "加息落地将直接压制估值倍数；sell put 隐含波动率在决议前一日处于高位，若加息已完全定价则决议后 IV 将急速收缩，需评估跨日 vega 风险。港股对美联储利率高度敏感，持仓腾讯/阿里/美团等均受影响。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "加息",
-        "Fed",
-        "Kevin Warsh",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/14/fed-rate-hike-anticipated-what-it-means-for-your-money.html",
-      "published_date": "2026-09-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-15",
-      "is_new": false
-    },
-    {
-      "id": "dbeca33ba16ba9a6",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "17:30",
-      "group": "大盘头条",
-      "title": "US 10-Year Treasury Yield Briefly Hits 5.01%, Highest Since 2023",
-      "summary": "The 10-year US Treasury yield briefly touched 5.01% on Sept 14, its highest level since 2023, driven by persistent inflation concerns and rising expectations of a Fed rate hike. Elevated long-end yields increase discount rates for growth stocks globally.",
-      "why": "10年期美债利率突破5%是估值压制的关键阈值，直接影响高PE成长股（英伟达、谷歌、Palantir等）折现率；sell put 端需重新评估 delta 暴露，港股科技板块（腾讯0700/阿里9988/小米1810）短期承压。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美债",
-        "10年期国债",
-        "利率",
-        "Treasury",
-        "yield"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-      "published_date": "2026-09-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-15",
-      "is_new": false
-    },
-    {
-      "id": "ac4e8f023c7fdc1f",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Brent Crude Surges ~4.5% Near $110/Barrel; S&P 500 -0.5%, Nasdaq -0.75% on Sept 14",
-      "summary": "Brent crude oil surged approximately 4.5% to near $110 per barrel on Sept 14 amid continued geopolitical tensions, while US equities retreated with the S&P 500 down ~0.5% and Nasdaq down ~0.75%. Bitcoin edged up 1.9% to $78,500 as risk appetite shifted.",
-      "why": "油价飙升加剧通胀预期，强化美联储鹰派立场，形成股市双重压制（成本端+折现率）；能源价格上行对消费类持仓（麦当劳MCD/好市多COST/蜜雪冰城2097）构成潜在成本压力；港美股科技仓位需警惕流动性收紧风险。",
+      "time": "2026-09-22T09:00:00-04:00",
+      "group": "Circle",
+      "title": "Binance buys $100M Circle stake, signs 5-year USDC promotion deal; private placement closed Sept. 17",
+      "summary": "Circle (CRCL) issued Binance 1.24 million Class A shares at $80.84 each in a private placement that closed September 17, raising $100 million. Under a new five-year partnership, Circle will pay Binance monthly incentives calculated as a percentage of USDC held through Circle's Modular Smart Contract Wallet service, while Binance will actively promote USDC across its platform. Binance co-CEO Richard Teng said the investment reflects \"long-duration conviction.\" The deal supersedes Circle-Binance USDC agreements from November 2024 and August 2025 and was confirmed by an SEC filing.",
+      "why": "Circle（CRCL）核心持仓事件：全球最大加密交易所战略入股并锁定5年推广协议，直接拓宽USDC全球分发渠道，对USDC储备金收入前景具正向催化；SEC filing确认，数字可核查，评估是否调整期权行权价或滚仓时机。",
       "source": "CoinDesk",
       "verified": true,
       "keywords": [
-        "油价",
-        "原油",
-        "Brent",
-        "S&P 500",
-        "纳斯达克",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
-      "published_date": "2026-09-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-15",
-      "is_new": false
-    },
-    {
-      "id": "39a574ed824d9c03",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Senate CLARITY Act Cloture Vote Today at 2:15PM ET; Passage Probability ~22-26% (Polymarket); Circle Pre-Market +~10%",
-      "summary": "The US Senate is holding a procedural cloture vote on the CLARITY Act crypto regulatory framework today (Sept 15) at 2:15PM ET. The bill needs 60 votes to advance; Polymarket pricing passage at approximately 22-26%. Circle (CRCL) was up roughly 10% in pre-market trading ahead of the vote, though banking lobby opposition remains strong.",
-      "why": "CLARITY Act是加密货币综合监管框架立法；通过将对稳定币/加密资产合法化产生里程碑影响，直接利好Circle (CRCL持仓)和比特币相关标的；失败则短期利空情绪释放。今日投票结果是关键催化剂，需密切跟踪。",
-      "source": "CoinDesk",
-      "verified": true,
-      "keywords": [
-        "CLARITY Act",
-        "稳定币",
         "Circle",
         "CRCL",
         "USDC",
-        "加密货币监管",
-        "stablecoin"
+        "Binance",
+        "稳定币",
+        "stablecoin",
+        "私募配售"
       ],
       "translated": false,
-      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
-      "published_date": "2026-09-15",
+      "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "published_date": "2026-09-22",
       "still_developing": false,
-      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-15",
-      "is_new": false
+      "first_seen": "2026-09-23",
+      "is_new": true
     },
     {
-      "id": "f12efff129f4c5d0",
-      "tier": 1,
-      "lang": "en",
+      "id": "92cc35ac2cb0f458",
+      "tier": 3,
+      "lang": "zh",
       "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "China August Retail Sales +0.4% YoY Miss Estimates; Industrial Output +5.2% Beats; Fixed Asset Investment -7.2% YTD",
-      "summary": "China's National Bureau of Statistics released August data: retail sales rose only 0.4% YoY (est. 0.8%), signaling weak consumer demand; industrial output grew 5.2% YoY (est. 4.8%), beating forecasts; fixed asset investment fell 7.2% year-to-date, indicating tepid business confidence.",
-      "why": "弱消费数据压制港股消费板块（美团、海底捞、携程、蜜雪冰城等）短期情绪；工业产出超预期支撑科技/制造板块；整体数据指向政策宽松预期升温，有利于港股科技大盘（腾讯、阿里、小米）估值修复。sell put 策略注意消费类标的短期 implied vol 可能因弱数据抬升。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "macro",
-        "消费"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
-      "published_date": "2026-09-15",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-15",
-      "is_new": false
-    },
-    {
-      "id": "b809d89bf56d74aa",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
         "HK"
       ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "Here Are the 2 Big Things We're Watching in This Week's Stock Market: FOMC Decision and AI Selloff",
-      "summary": "The Federal Reserve's September 15–16 FOMC meeting kicks off Tuesday with Wednesday's rate decision the week's central event. Chair Kevin Warsh's hawkish August 28 Jackson Hole speech left markets pricing a 25bp hike to 3.75%–4.00% as the most likely outcome. Simultaneously, AI-pacing concerns continued to drag semiconductor stocks, with the Philadelphia Semiconductor Index falling 5.9% on Monday September 14, the Nasdaq dropping 0.8%, and the S&P 500 slipping 0.5%.",
-      "why": "FOMC加息决议明日（9/16 02:00 ET）揭晓，若落地则科技/成长估值承压；半导体指数单日重挫5.9%为期权持仓者提供加保护思考契机；沃什新闻发布会措辞将是关键风险信号。",
-      "source": "CNBC",
-      "verified": true,
+      "time": "2026-09-22T09:00:00+08:00",
+      "group": "腾讯",
+      "title": "腾讯混元发布图像3.5预览版：专业级图生图，最高2K分辨率，能力较3.0提升约30%",
+      "summary": "9月22日，腾讯混元正式发布混元图像3.5预览版（Hy Image3.5 Preview），定位专业级图像生成模型，经数百名内部设计师测试，较混元图像3.0综合能力提升约30%。支持文生图与图生图，单次请求最多上传5张参考图，支持多种画面比例，最高输出2K分辨率。腾讯云API定价每张2K图0.15元。已接入元宝AI助手、WorkRally、OnSolo、ima等多个应用，同步上线腾讯云TokenHub和媒体服务API。",
+      "why": "腾讯（0700.HK）混元AI能力持续迭代、图像生成加速商业化（元宝接入+云API上线+多应用落地），有助于评估AI变现进度；当日腾讯股价盘中涨超8%（参见今日港股收评），为近期行情中期方向参考。",
+      "source": "富途牛牛",
+      "verified": false,
       "keywords": [
-        "FOMC",
-        "Fed",
-        "美联储",
-        "Warsh",
-        "沃什",
-        "加息",
-        "半导体",
-        "PHLX"
+        "腾讯",
+        "0700.HK",
+        "混元",
+        "AI",
+        "图像生成",
+        "大模型",
+        "腾讯云"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html",
-      "published_date": "2026-09-13",
+      "url": "https://news.futunn.com/post/79588420/tencent-hunyuan-releases-preview-of-hunyuan-image-3-5-to",
+      "published_date": "2026-09-22",
       "still_developing": false,
-      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-15",
-      "is_new": false
+      "first_seen": "2026-09-23",
+      "is_new": true
     },
     {
       "id": "856153b8b9d95fc5",
@@ -1376,6 +1096,98 @@
       "is_new": false
     },
     {
+      "id": "2b41d3985c772484",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "Meta's Muse AI agent tops US App Store, Meta stock surges 11%",
+      "summary": "Meta's personal AI agent app Muse hit No. 1 on the U.S. Apple App Store free charts within 10 days of launch, accumulating over 730,000 U.S. downloads. Wells Fargo and JPMorgan raised price targets on Meta. Chipmakers surged as early success for Meta's AI agent fueled optimism about demand for AI infrastructure.",
+      "why": "Meta Muse爆发带动AI算力整体估值抬升，对持仓英伟达、SK海力士等芯片股构成直接利好；AI代理赛道加速，可关注相关标的期权隐含波动率变化。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Meta",
+        "AI agent",
+        "Muse",
+        "AI芯片",
+        "chip rally"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+      "published_date": "2026-09-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-22",
+      "is_new": false
+    },
+    {
+      "id": "aac54837b9c6d25b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "AMD crosses $1 trillion market cap for the first time on AI chip demand",
+      "summary": "Advanced Micro Devices joined the $1 trillion market cap club for the first time on September 21, driven by a five-session rally of approximately 24% on soaring AI chip demand. AMD became the fourth U.S. chip company to reach this milestone after Nvidia, Broadcom, and Micron.",
+      "why": "AI芯片板块估值全面扩张，AMD万亿里程碑印证AI算力需求高景气；对持仓英伟达（NVDA）构成情绪面利好，AI算力相关期权波动率环境偏暖。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "AMD",
+        "AI芯片",
+        "trillion",
+        "市值"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
+      "published_date": "2026-09-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-22",
+      "is_new": false
+    },
+    {
+      "id": "608bf7159676ddd1",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "阿里云栖大会：公布Qwen4模型已在训练中，下代视频模型同步推进",
+      "summary": "2026年阿里云栖大会（9月22-24日，杭州）开幕首日，阿里巴巴公布全模态模型最新进展：Qwen4及下一代视频模型均已进入训练阶段，未来版本参数规模将扩展至5-10万亿。大会同期展示AI眼镜、AI耳机等硬件新品，千问大模型项目负责人亮相主论坛。",
+      "why": "云栖大会是BABA/9988持仓的关键近期催化剂，Qwen4进入训练阶段印证阿里AI战略持续落地；大会还有22-24日持续公告，短期波动率可能提升，适合关注9988/BABA期权机会。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "通义千问",
+        "Qwen4",
+        "云栖大会",
+        "BABA",
+        "9988.HK"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-22/doc-inissitm5734586.shtml",
+      "published_date": "2026-09-22",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-22",
+      "is_new": false
+    },
+    {
       "id": "d63b4034e42f070a",
       "tier": 1,
       "lang": "en",
@@ -1477,97 +1289,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-22",
-      "is_new": false
-    },
-    {
-      "id": "369ecf840e01d126",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "17:00",
-      "group": "大盘头条",
-      "title": "广汽集团筹划重大资产重组，拟收购一汽旗下合资公司股权，一汽将成第二大股东，「南北丰田」整合进入实质阶段",
-      "summary": "广汽集团公告筹划重大资产重组，拟购入一汽旗下整车合资公司股权，一汽将成广汽第二大股东；分析人士认为此举标志着「南北丰田」合并进入实质阶段，对丰田中国布局及国内传统车企竞争格局具有深远影响。",
-      "why": "中国汽车行业并购整合重大事件，传统合资车企竞争格局重塑，影响丰田等外资品牌在华策略；广汽A股停牌期间无法交易，复牌后波动率可能大幅上升；同时对小米汽车（竞争格局）、电动车赛道整体情绪有间接影响。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "消费",
-        "汽车"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirveas7253658.shtml",
-      "published_date": "2026-09-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-15",
-      "is_new": false
-    },
-    {
-      "id": "feb1acaa19ace2a7",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "Z.ai Shares Tumble Over 10% After $5 Billion Fundraising, Its Second Major Raise in Two Months",
-      "summary": "China's AI company Z.AI (2513.HK) announced plans to raise ~HK$39.27 billion ($5 billion) through a share placement of 22 million new H shares at HK$714 each (a 9.96% discount to the closing price of HK$793) plus zero-coupon convertible bonds due 2027. Shares fell more than 10% on Monday September 14. This follows a $4 billion placement in July, making Z.AI one of Hong Kong's most active AI fundraisers in 2026.",
-      "why": "港股AI独角兽高折价大规模配股+零息可转债组合拖累当日恒生科技指数；稀释压力短期压制估值，但也反映香港AI融资热情持续旺盛；期权隐含波动率在此类事件后通常放大，是观察港股AI板块定价修复机会的时间窗口。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Z.AI",
-        "智谱",
-        "港股",
-        "配股",
-        "可转债",
-        "AI融资",
-        "2513.HK"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
-      "published_date": "2026-09-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-15",
-      "is_new": false
-    },
-    {
-      "id": "6ef80d860a4619b0",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "Circle's USD400M Tazapay Deal Buys Emerging-Market Links That Take Years to Build",
-      "summary": "Circle (CRCL) agreed to acquire Singapore-based B2B cross-border payments platform Tazapay for $400 million in an all-stock transaction. Tazapay brings over $25 billion in annualized payment volume, 60+ banking and fintech partners, and local payout rails covering 100+ markets—extending Circle's USDC network into emerging markets at scale. Deal expected to close in 2027 pending regulatory approvals including the Monetary Authority of Singapore.",
-      "why": "Circle以$400M全股票对价将USDC支付触角延伸至100+新兴市场，是USDC商业化的里程碑事件；Arc主网预计9月16日上线为近期另一催化剂；持有CRCL头寸者可关注Tazapay整合进度及CLARITY Act参议院投票时间线。",
-      "source": "CoinDesk",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "Tazapay",
-        "稳定币",
-        "stablecoin",
-        "新兴市场"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-      "published_date": "2026-09-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-15",
       "is_new": false
     },
     {
@@ -3187,6 +2908,67 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-21",
+      "is_new": false
+    },
+    {
+      "id": "6dd4ee8c5535e078",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "A股三大指数集体高开，算力AI芯片概念领涨，油气板块走低",
+      "summary": "9月22日A股三大指数全线高开：沪指涨0.35%，深成指涨0.94%，创业板指涨1.37%，超3100只个股上涨。半导体、算力芯片、CPO等板块领涨，受益于隔夜美股科技板块大幅上行；油气、煤炭板块跌幅居前。央行同日表态经济运行总体平稳向好。",
+      "why": "A股算力链受益于全球AI情绪升温，国内相关半导体标的跟随受益；央行政策表态稳健，宏观风险可控，持仓背景正面。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "AI芯片",
+        "算力",
+        "三大指数",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260922/herald/e9d60a8995e67987748482a24816a26f.html",
+      "published_date": "2026-09-22",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-22",
+      "is_new": false
+    },
+    {
+      "id": "8ca0decdeaeb079d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "腾讯大涨7%！机构：港股下半年行情围绕AI进展与确定性演绎",
+      "summary": "9月22日港股收盘，恒生指数涨0.18%实现3连升，恒生科技指数涨0.34%。科网股、存储概念股活跃，腾讯（00700）大涨约7%领涨权重股，阿里巴巴涨超4%。机构认为，Meta Muse AI代理的爆发验证了消费级AI代理市场，港股下半年行情将持续围绕AI进展与确定性演绎。",
+      "why": "港股科技股由AI情绪驱动的集体上涨，对0700/9988等核心持仓构成积极价格信号；机构看好港股AI主线延续，支撑下行止损与sell put策略。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "腾讯",
+        "恒指",
+        "AI",
+        "科网股",
+        "存储"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260922/herald/851af23be2d2059c6336899de6e8fef9.html",
+      "published_date": "2026-09-22",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-22",
       "is_new": false
     },
     {
