@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-24 18:37 (北京时间)",
+  "updated_at": "2026-09-25 08:28 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,435 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-24 18:37 (北京时间)",
-    "new_count": 6,
+    "at": "2026-09-25 08:28 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "fc2e8fbe676725d4",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "Stock futures flat after soaring Treasury yields trigger market sell-off: Live updates",
-      "summary": "10年期美债收益率升至5.139%，创2007年以来新高；30年期收益率升至5.438%，创2004年以来高点。美股三大指数下跌：S&P 500跌0.8%，纳斯达克综合指数跌1.1%，道琼斯工业指数也走低。高估值科技股及AI半导体板块受折现率提升压制尤为显著，9月24日开盘前期货继续走弱。",
-      "why": "无风险利率飙升直接提高所有资产折现率，压缩科技成长股估值；对持仓标的（英伟达、Intel、Palantir等）的隐含波动率有上行压力；卖put策略需关注指数下行风险与波动率溢价是否已充分定价。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Treasury yield",
-        "10-year",
-        "S&P 500",
-        "Nasdaq",
-        "美债收益率",
-        "利率",
-        "市场下跌"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
-      "published_date": "2026-09-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-24",
-      "is_new": true
-    },
-    {
-      "id": "a608af2b84dfa28d",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "美股摔了VS两个产业利好，A股情绪二次确认？【每日信号】",
-      "summary": "9月24日A股三大指数集体下跌：沪指跌约0.93%至3900点，深证成指跌约1.74%，创业板指跌约1.84%，全市场逾4300只个股下跌。港股恒生指数跌0.5%，恒生科技指数跌0.95%，腾讯控股跌1.63%。美债收益率飙升引发全球风险偏好降温，叠加国庆长假前资金获利了结压力。",
-      "why": "A股国庆假期前流动性收缩格局延续，节前减仓惯性对短期期权时间价值有压制；港股通在假期期间暂停，需提前管理相关仓位敞口；腾讯、美团等港股核心持仓短线承压。",
-      "source": "21经济报道",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "港股",
-        "沪指",
-        "创业板",
-        "恒生科技",
-        "大盘下跌",
-        "节前"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260924/herald/b510d62d1c4bce77b56237c0b46ce73d.html",
-      "published_date": "2026-09-24",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-24",
-      "is_new": true
-    },
-    {
-      "id": "eb359fdf6a9e1294",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
-      "summary": "Kepler数据显示，9月亚洲原油进口量创伊朗战争爆发以来新高，供应紧张预期有所缓解。沙特阿拉伯准备重启东西走向原油管道，为石油出口提供绕开霍尔木兹海峡的替代通道。WTI原油价格在消息公布后走弱，此前已受伊朗战争影响持续高位运行（今年累计大幅上涨）。",
-      "why": "油价走势牵动全球通胀预期：油价回落有助于减轻美联储继续加息压力，对高估值科技股估值修复存在间接利好；反之若油价重新反弹将强化'higher for longer'预期；中东地缘局势仍是原油波动率上行风险来源。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "crude oil",
-        "Iran war",
-        "oil price",
-        "Hormuz",
-        "Saudi Arabia",
-        "原油",
-        "伊朗"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/amp/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
-      "published_date": "2026-09-24",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-24",
-      "is_new": true
-    },
-    {
-      "id": "b097275748d3aebe",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "「9.24」两周年重绘A股市值版图",
-      "summary": "2024年9月24日A股历史性政策转折已满两周年。两年间A股总市值从约81.67万亿元增至约129.5万亿元，增量约47.8万亿元，涨幅约58.5%；电子行业贡献最多（约39.1%），其市值已超越银行业首次登顶全行业第一。市场驱动逻辑也已由2024年的政策预期提振估值向业绩增长驱动切换。",
-      "why": "延续报道：2024-09-24正是此轮A股牛市的历史性起点，今日恰好两周年；当前市场整体估值已回归历史合理区间，政策红利边际递减，未来盈利增速将成为持仓标的价值分化的核心锚点，对中长期持股与择时策略具有重要参照意义。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "9·24行情",
-        "A股",
-        "两周年",
-        "市值",
-        "电子行业",
-        "牛市"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-09-20/doc-inisnssu9213413.shtml",
-      "published_date": "2026-09-20",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-24",
-      "is_new": true
-    },
-    {
-      "id": "f7350e8725006c40",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "14:00",
-      "group": "个股",
-      "title": "阿里平头哥发布新一代AI芯片真武V900 算力达前代3倍",
-      "summary": "阿里巴巴2026云栖大会（9月22-24日）重磅发布：平头哥最新训推一体AI芯片真武V900，算力为前代真武M890的3倍，已服务超650家企业客户，覆盖智驾、金融、大模型、具身智能等领域。搭载该芯片的磐久超节点服务器将于2027年Q1上市量产；同时预告了下一代真武J900（计划2028年Q1）。",
-      "why": "自研高端AI芯片强化阿里云护城河，降低对英伟达H100/B200等进口GPU的依赖，对BABA/9988估值具有中期正面意义；「替代算力」叙事在中美科技管制背景下持续强化；关注云栖大会完整财务指引对下半年云业务收入预期的影响。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "BABA",
-        "9988.HK",
-        "阿里云",
-        "AI芯片",
-        "云栖大会",
-        "平头哥"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/china/gncj/2026-09-22/doc-inissiti8969958.shtml",
-      "published_date": "2026-09-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-24",
-      "is_new": true
-    },
-    {
-      "id": "bf9fdeefda919596",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair",
-      "summary": "William Blair分析师发布报告，认为Circle (CRCL)和Coinbase (COIN)均已就加密市场复苏进行了合理定价，盈利预期趋于稳定。比特币仍是CRCL短期估值的主要驱动力；USDC市值增长将推动CRCL的下一轮上涨，且Circle独有的稳定币基础设施护城河在加密监管日趋明确的背景下持续加固。",
-      "why": "看多CRCL的分析师研报为卖put策略提供支撑信号；USDC稳定币采用率的持续扩张（Arc区块链、Tazapay收购、Binance战略合作等）强化中长期基本面；需留意比特币价格短期波动对CRCL股价的传导放大效应。",
-      "source": "The Block",
-      "verified": false,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "stablecoin",
-        "稳定币",
-        "Coinbase",
-        "crypto"
-      ],
-      "translated": false,
-      "url": "https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083",
-      "published_date": "2026-09-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-24",
-      "is_new": true
-    },
-    {
-      "id": "48ca2ba352c6a975",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "港股因美联储鹰派加息低开后收跌，恒指跌0.44%；港金管局同步升息至4.25%",
-      "summary": "9月17日恒生指数开盘跌0.94%（24480点），收盘跌0.44%报24604点；恒生科技指数跌0.34%，国企指数跌0.38%。香港金管局跟随美联储将基准利率上调25基点至4.25%。科网股普遍下跌：腾讯跌1.7%、美团跌2%、阿里巴巴跌1%；黄金股跌幅最大，汽车股逆势活跃（广汽集团涨超7%），金斯瑞生物科技涨超14%。",
-      "why": "美联储鹰派重启加息加上港金管局同步跟进，港股流动性收紧，离岸市场首当其冲。持仓中腾讯、阿里、美团等科网股皆跌逾1%-2%，关注后续期权隐含波动率变化；黄金持仓（老铺黄金）亦受黄金现货下跌拖累，须复核止损位。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "美联储",
-        "加息",
-        "科网股",
-        "腾讯",
-        "美团",
-        "阿里巴巴"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-17/doc-iniscqyc0291472.shtml",
-      "published_date": "2026-09-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "fe283a4d738a52f3",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "02:00",
-      "group": "大盘头条",
-      "title": "美联储三年来首次加息25基点至3.75%-4%；沃什警告通胀过高且持续过久，16人预期年内再度加息",
-      "summary": "美联储FOMC以12-0一致票通过加息25基点，将联邦基金利率目标区间上调至3.75%-4%，为2023年7月以来首次加息。主席沃什在发布会上表示通胀过高且持续过久，最新点阵图显示18位官员中有16位预期年内将再次收紧。会后美股道指下跌1.21%（逾600点），标普500跌0.44%，美债10年期收益率升破5%，美元指数升至约100.3。",
-      "why": "全球资产定价最重要事件：首次加息确认美联储超预期鹰派立场，港股/A股跟跌，隐含波动率或攀升；sell put方向需提高警惕，留意行权价保护。",
-      "source": "Federal Reserve",
-      "verified": true,
-      "keywords": [
-        "FOMC",
-        "加息",
-        "美联储",
-        "利率",
-        "宏观",
-        "沃什"
-      ],
-      "translated": false,
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "published_date": "2026-09-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "015939ce9dd797f2",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "HKMA跟随美联储上调基准利率至4.25%；港股恒指9月17日跌逾1.2%进入调整区间",
-      "summary": "香港金融管理局宣布将贴现窗基本利率上调25基点至4.25%，为2023年7月以来首次。受美联储加息冲击，恒生指数9月17日盘中跌逾1.2%至约24,409点，较2026年高点累计跌幅超11%正式进入调整区间；恒生科技指数跌约1.8%。",
-      "why": "港股联系汇率制度下自动跟随美联储；加息加重地产、高股息类股压力，利率敏感资产承压；组合内腾讯、美团等个股回购或提供支撑但大盘拖累不容忽视。",
-      "source": "South China Morning Post",
-      "verified": true,
-      "keywords": [
-        "HKMA",
-        "港股",
-        "恒生指数",
-        "加息",
-        "宏观",
-        "香港"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/business/banking-finance/article/3367783/hkma-raises-base-rate-quarter-point-425-first-increase-2023",
-      "published_date": "2026-09-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "50fcdecbcd024f3f",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "14:00",
-      "group": "个股",
-      "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing at Intel Ohio fab",
-      "summary": "Reuters reported SK Hynix is in early talks with Intel to produce memory chips in the U.S. for the first time, potentially using Intel's Ohio fab. Two scenarios discussed: SK Hynix leases part of Intel's Ohio facility, or forms a joint venture with Intel and cloud firms. Intel stock rose more than 4% on the day while SK Hynix shares also gained. SK Hynix confirmed it is \"exploring various options\" but no final decision has been taken.",
-      "why": "一箭双雕：若达成协议，英特尔代工业务获里程碑大客户，SK海力士完成美国产能布局；两个持仓均正面受益，watch IV ahead of potential formal announcement。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "SK海力士",
-        "SK Hynix",
-        "HBM",
-        "DRAM",
-        "代工",
-        "foundry"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
-      "published_date": "2026-09-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "84fa4b3051a4dbbb",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "02:00",
-      "group": "大盘头条",
-      "title": "美联储宣布加息25bp至3.75%-4.00%，三年来首次，道指重挫631点",
-      "summary": "美联储9月16日宣布将联邦基金利率目标区间上调25个基点至3.75%-4.00%，12名投票官员一致同意，为2023年以来首次加息，也是美联储主席沃什（Kevin Warsh）就任以来首次加息。沃什称通胀过高且持续时间过长，18名官员中16名预见年内可能还有加息。美股随后承压：道指收跌631.21点至51,461.90，标普500跌0.45%至7,551.81，纳指近乎平收。",
-      "why": "首次加息信号确认鹰派路径，折现率抬升将压制高估值成长股；Sell put策略下行权价评估需重视，美债收益率走高对港股流动性亦形成压制；若年内第二次加息落地，波动率或再度走高，covered call策略可酌情利用。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "加息",
-        "联邦基金利率",
-        "Kevin Warsh",
-        "FOMC",
-        "道指"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
-      "published_date": "2026-09-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "af5e4c642ed885ef",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "美参议院否决CLARITY加密监管法案，比特币当日跌逾5%",
-      "summary": "美国参议院9月15日以49:50程序性投票（需60票）否决CLARITY法案，终结2026年内为加密资产建立明确联邦监管框架的立法可能。比特币当日高点约79,562美元，投票结果公布后急跌至75,000美元一线，最大跌幅逾5%；Circle（CRCL）等加密相关概念股同步下挫。",
-      "why": "CLARITY法案出局令稳定币和加密市场监管不确定性延续至2027年，Circle/CRCL的USDC业务合规护城河有所弱化，短期隐含波动率上升；CRCL若继续持有，需考量监管风险重新定价对sell put行权价的影响。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "CLARITY法案",
-        "比特币",
-        "BTC",
-        "Circle",
-        "CRCL",
-        "加密监管",
-        "稳定币"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
-      "published_date": "2026-09-15",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "0a8553c3a37929ef",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Circle debuts Arc blockchain, CEO calls it \"more consequential than USDC\"",
-      "summary": "Circle (CRCL) launched Arc on September 15, a new blockchain it describes as an \"economic operating system\" for payments, tokenized markets, lending and trading — its biggest strategic push beyond issuing the $74 billion USDC stablecoin. More than 100 institutions and ecosystem firms are participating or exploring the network, including BlackRock, Mastercard, Visa, BNY and HSBC. CEO Jeremy Allaire called Arc potentially more consequential than USDC itself.",
-      "why": "Arc将Circle业务从单纯稳定币发行商升级为基础设施提供者，若100+机构生态建立，CRCL估值重构空间显著；需注意Arc定位与GENIUS Act（2025年已通过）的合规边界，以及同日CLARITY法案否决带来的双重监管背景，期权波动率短期偏高。",
-      "source": "CoinDesk",
-      "verified": false,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "Arc",
-        "USDC",
-        "稳定币",
-        "stablecoin",
-        "BlackRock",
-        "Mastercard"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
-      "published_date": "2026-09-15",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
     {
       "id": "d9e6d73b1e675610",
       "tier": 1,
@@ -1273,6 +850,38 @@
       "is_new": false
     },
     {
+      "id": "fc2e8fbe676725d4",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Stock futures flat after soaring Treasury yields trigger market sell-off: Live updates",
+      "summary": "10年期美债收益率升至5.139%，创2007年以来新高；30年期收益率升至5.438%，创2004年以来高点。美股三大指数下跌：S&P 500跌0.8%，纳斯达克综合指数跌1.1%，道琼斯工业指数也走低。高估值科技股及AI半导体板块受折现率提升压制尤为显著，9月24日开盘前期货继续走弱。",
+      "why": "无风险利率飙升直接提高所有资产折现率，压缩科技成长股估值；对持仓标的（英伟达、Intel、Palantir等）的隐含波动率有上行压力；卖put策略需关注指数下行风险与波动率溢价是否已充分定价。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Treasury yield",
+        "10-year",
+        "S&P 500",
+        "Nasdaq",
+        "美债收益率",
+        "利率",
+        "市场下跌"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
+      "published_date": "2026-09-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-24",
+      "is_new": false
+    },
+    {
       "id": "075250b14fa70b9a",
       "tier": 1,
       "lang": "zh",
@@ -1468,226 +1077,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-24",
-      "is_new": false
-    },
-    {
-      "id": "5b9a99ed5957c6b7",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "17:00",
-      "group": "大盘头条",
-      "title": "中东局势紧张推升油价，WTI暴涨4.57%至106美元创近5月新高",
-      "summary": "9月16日WTI原油期货收涨4.57%报106.02美元/桶，布伦特原油期货收涨3.03%报108.88美元/桶，双双创近5月新高。主因：沙特阿拉伯东西输油管道遭无人机袭击关闭，红海出口枢纽Yanbu港暂停装运；沙特转道阿曼苏哈尔港外船对船转运向亚洲炼厂供油，美军协助霍尔木兹海峡护航。9月17日夜盘油价有所回调。",
-      "why": "延续报道：9月13日以来美伊停火协议到期令霍尔木兹海峡局势骤紧，沙特管道受袭进一步升级，9月16日WTI油价创近5月新高。油价飙涨加剧通胀压力，或强化美联储维持高利率立场，对持仓成长股估值不利；同时关注能源板块机会及运输成本对消费股利润的间接影响。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "原油",
-        "WTI",
-        "油价",
-        "霍尔木兹",
-        "沙特",
-        "地缘政治"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908nmiq.html",
-      "published_date": "2026-09-16",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "030b32cc437b1c50",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "美股加息落地后高开低走，标普500指数收跌约0.5%；科技股相对抗跌",
-      "summary": "9月17日美股三大指数在美联储加息声明公布后冲高回落，标普500指数收跌约0.5%，纳斯达克100指数收盘基本持平（盘中一度涨1%后回吐），道指跌幅居前。美联储主席沃什措辞偏鹰，强调通胀仍过高且持续时间过长，令市场对年内继续加息预期升温。科技股相对其他板块坚挺，黄金现货一度跌至5周低位。",
-      "why": "加息落地科技股相对抗跌（市场已消化预期），但鹰派表态使高利率维持更长的概率上升，对全仓科技/成长股组合形成持续性压制；若纳指期权隐含波动率短期因不确定性消除而下降，可关注短期 sell put 机会。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "美股",
-        "标普500",
-        "纳斯达克",
-        "美联储",
-        "加息",
-        "科技股"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisaier3613019.shtml",
-      "published_date": "2026-09-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "cc5e75277c5774e1",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "美联储加息令黄金触及五周低位，现货金跌至4266美元附近，港股黄金股重挫",
-      "summary": "美联储宣布加息后美元走强，现货黄金跌至约4266美元/盎司（日内跌0.6%），触及五周低位。点阵图显示年内或再加息一次至4%-4.25%区间，加剧黄金多头抛压。港股黄金相关个股同步重挫，珠峰黄金跌超7%，老铺黄金（06181）跌近2%，黄金股成9月17日港股跌幅最大板块。",
-      "why": "直接影响持仓：老铺黄金（06181）随金价下跌承压；若此次加息开启新一轮强美元周期，黄金中期走势可能持续偏弱，须重新评估持仓配置与止损策略；期权层面可关注黄金ETF波动率变化。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "黄金",
-        "现货金",
-        "老铺黄金",
-        "美联储",
-        "加息",
-        "美元"
-      ],
-      "translated": false,
-      "url": "https://k.sina.cn/article_7857201856_1d45362c001908nokw.html",
-      "published_date": "2026-09-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "fb66d37a4810454d",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "Trump urges Fed to cut rates to 1% after rate hike, says he still has confidence in Chair Warsh",
-      "summary": "President Trump responded to the Federal Reserve's first rate hike since 2023 by demanding rates fall to \"1%, or less\", posting that the US is \"the Best Credit in the World — BY FAR.\" Trump said he still has confidence in Fed Chair Kevin Warsh despite the hike defying his explicit wishes to cut rates. The rate hike represented a significant defiance of Trump's wishes, as the president, vice president, and Treasury secretary had all urged the Fed not to raise rates.",
-      "why": "特朗普公开施压美联储降息，但明确表态仍信任沃什，意味着美联储独立性暂时维持；短期政治噪音，真正影响来自点阵图暗示的再加息路径。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Trump",
-        "特朗普",
-        "美联储",
-        "加息",
-        "利率",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
-      "published_date": "2026-09-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "3bcc01307d25b50d",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "A股9月16日全面反弹：科创50涨4.14%，半导体算力板块涨停领涨",
-      "summary": "9月16日A股主要指数集体收涨：科创50大涨4.14%，创业板指涨1.96%，上证指数涨0.71%至3891.60点。全市场逾4100只个股上涨、90余只涨停。半导体、光通信、算力硬件等AI基础设施板块为最强主线，有研硅、晶升股份等半导体标的封死20CM涨停。",
-      "why": "A股算力和半导体景气度高企，与英伟达、SK海力士等美股半导体持仓形成共振，行情延续可能推升科技板块隐含波动率；对持有相关sell put头寸者需评估向上突破风险。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "科创50",
-        "A股",
-        "半导体",
-        "算力",
-        "AI服务器",
-        "光通信"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260916/herald/cc04a500efbac78c1f74f28dd9867cbe.html",
-      "published_date": "2026-09-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "6df9fe38492cc223",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股9月16日收评：恒生科技指数涨0.79%，中东局势推升石油板块逆势领涨",
-      "summary": "9月16日恒生指数小幅收涨0.19%至24,713.78点，恒生科技指数涨0.79%至4,325.45点。受中东局势持续升温带动国际油价高位运行，石油板块全日涨幅居前；黄金股及算力硬件股同样走强，联想集团（0992.HK）大涨逾8%。市场等待美联储加息决议，整体风险偏好趋于谨慎。",
-      "why": "港股9月16日资金向油气、黄金避险资产轮动，与老铺黄金（6181.HK）相关标的景气共振；美联储加息确认后，港股9月17日面临进一步下行压力，HK持仓sell put的行权价安全边际需重新审视。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "恒生科技指数",
-        "中东",
-        "石油股",
-        "黄金股",
-        "港股"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260916/herald/f816a4c67b4578e98bfac755b5e21968.html",
-      "published_date": "2026-09-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-17",
-      "is_new": false
-    },
-    {
-      "id": "cf0d30905bb3af6c",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "报道：Apple拟2029年推M8企业AI服务器，或引入Nvidia NVLink Fusion互联技术",
-      "summary": "据Bloomberg及The Information报道，苹果正研发搭载M8 Ultra芯片的企业级AI服务器，目标于2029年前后推向市场，面向AI开发商、政府机构等客户。苹果考虑引入英伟达NVLink Fusion技术用于芯片间高速互联，提供双M8 Ultra和四M8 Ultra两种配置。若落地，苹果将在停产Xserve（2011年）后重返服务器市场，目前方案尚未最终确定。",
-      "why": "对英伟达（NVDA）而言，苹果采用NVLink Fusion是重量级潜在客户，意味着NVLink生态向顶级科技公司延伸，有助于强化英伟达在AI基础设施的护城河；实际影响视采购规模而定，目前仅为早期报告阶段，不影响近期业绩，但有利于长期估值叙事。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "苹果",
-        "Apple",
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "NVLink",
-        "M8",
-        "AI服务器"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/apple-is-developing-enterprise-server-for-ai-age-report-says",
-      "published_date": "2026-09-16",
-      "still_developing": false,
-      "cross_ref": "https://seekingalpha.com/news/4643393-apple-considers-building-servers-with-in-house-chips-and-nvidia-networking-equipment-report",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
-      "first_seen": "2026-09-17",
       "is_new": false
     },
     {
@@ -3230,6 +2619,136 @@
       "is_new": false
     },
     {
+      "id": "a608af2b84dfa28d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "美股摔了VS两个产业利好，A股情绪二次确认？【每日信号】",
+      "summary": "9月24日A股三大指数集体下跌：沪指跌约0.93%至3900点，深证成指跌约1.74%，创业板指跌约1.84%，全市场逾4300只个股下跌。港股恒生指数跌0.5%，恒生科技指数跌0.95%，腾讯控股跌1.63%。美债收益率飙升引发全球风险偏好降温，叠加国庆长假前资金获利了结压力。",
+      "why": "A股国庆假期前流动性收缩格局延续，节前减仓惯性对短期期权时间价值有压制；港股通在假期期间暂停，需提前管理相关仓位敞口；腾讯、美团等港股核心持仓短线承压。",
+      "source": "21经济报道",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "港股",
+        "沪指",
+        "创业板",
+        "恒生科技",
+        "大盘下跌",
+        "节前"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260924/herald/b510d62d1c4bce77b56237c0b46ce73d.html",
+      "published_date": "2026-09-24",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-24",
+      "is_new": false
+    },
+    {
+      "id": "eb359fdf6a9e1294",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
+      "summary": "Kepler数据显示，9月亚洲原油进口量创伊朗战争爆发以来新高，供应紧张预期有所缓解。沙特阿拉伯准备重启东西走向原油管道，为石油出口提供绕开霍尔木兹海峡的替代通道。WTI原油价格在消息公布后走弱，此前已受伊朗战争影响持续高位运行（今年累计大幅上涨）。",
+      "why": "油价走势牵动全球通胀预期：油价回落有助于减轻美联储继续加息压力，对高估值科技股估值修复存在间接利好；反之若油价重新反弹将强化'higher for longer'预期；中东地缘局势仍是原油波动率上行风险来源。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "crude oil",
+        "Iran war",
+        "oil price",
+        "Hormuz",
+        "Saudi Arabia",
+        "原油",
+        "伊朗"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/amp/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+      "published_date": "2026-09-24",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-24",
+      "is_new": false
+    },
+    {
+      "id": "b097275748d3aebe",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "「9.24」两周年重绘A股市值版图",
+      "summary": "2024年9月24日A股历史性政策转折已满两周年。两年间A股总市值从约81.67万亿元增至约129.5万亿元，增量约47.8万亿元，涨幅约58.5%；电子行业贡献最多（约39.1%），其市值已超越银行业首次登顶全行业第一。市场驱动逻辑也已由2024年的政策预期提振估值向业绩增长驱动切换。",
+      "why": "延续报道：2024-09-24正是此轮A股牛市的历史性起点，今日恰好两周年；当前市场整体估值已回归历史合理区间，政策红利边际递减，未来盈利增速将成为持仓标的价值分化的核心锚点，对中长期持股与择时策略具有重要参照意义。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "9·24行情",
+        "A股",
+        "两周年",
+        "市值",
+        "电子行业",
+        "牛市"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/wm/2026-09-20/doc-inisnssu9213413.shtml",
+      "published_date": "2026-09-20",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-24",
+      "is_new": false
+    },
+    {
+      "id": "f7350e8725006c40",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "14:00",
+      "group": "个股",
+      "title": "阿里平头哥发布新一代AI芯片真武V900 算力达前代3倍",
+      "summary": "阿里巴巴2026云栖大会（9月22-24日）重磅发布：平头哥最新训推一体AI芯片真武V900，算力为前代真武M890的3倍，已服务超650家企业客户，覆盖智驾、金融、大模型、具身智能等领域。搭载该芯片的磐久超节点服务器将于2027年Q1上市量产；同时预告了下一代真武J900（计划2028年Q1）。",
+      "why": "自研高端AI芯片强化阿里云护城河，降低对英伟达H100/B200等进口GPU的依赖，对BABA/9988估值具有中期正面意义；「替代算力」叙事在中美科技管制背景下持续强化；关注云栖大会完整财务指引对下半年云业务收入预期的影响。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "阿里云",
+        "AI芯片",
+        "云栖大会",
+        "平头哥"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/china/gncj/2026-09-22/doc-inissiti8969958.shtml",
+      "published_date": "2026-09-22",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-24",
+      "is_new": false
+    },
+    {
       "id": "71594759da6da8a7",
       "tier": 2,
       "lang": "zh",
@@ -3515,6 +3034,38 @@
       "still_developing": false,
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-23",
+      "is_new": false
+    },
+    {
+      "id": "bf9fdeefda919596",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair",
+      "summary": "William Blair分析师发布报告，认为Circle (CRCL)和Coinbase (COIN)均已就加密市场复苏进行了合理定价，盈利预期趋于稳定。比特币仍是CRCL短期估值的主要驱动力；USDC市值增长将推动CRCL的下一轮上涨，且Circle独有的稳定币基础设施护城河在加密监管日趋明确的背景下持续加固。",
+      "why": "看多CRCL的分析师研报为卖put策略提供支撑信号；USDC稳定币采用率的持续扩张（Arc区块链、Tazapay收购、Binance战略合作等）强化中长期基本面；需留意比特币价格短期波动对CRCL股价的传导放大效应。",
+      "source": "The Block",
+      "verified": false,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "stablecoin",
+        "稳定币",
+        "Coinbase",
+        "crypto"
+      ],
+      "translated": false,
+      "url": "https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083",
+      "published_date": "2026-09-22",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-24",
       "is_new": false
     }
   ]
