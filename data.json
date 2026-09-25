@@ -10,11 +10,136 @@
   "positions": [],
   "last_run": {
     "at": "2026-09-25 08:28 (北京时间)",
-    "new_count": 0,
+    "new_count": 4,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "caddf6d889f5e3a7",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Moonshot, DeepSeek secretly routed user requests to Claude, Anthropic claims; China launches probe",
+      "summary": "Anthropic一份154页报告指控中国七家AI公司（包括阿里巴巴Qwen、DeepSeek、Moonshot、小米、商汤等）将用户请求路由至Claude进行模型训练。中国网信办随即对DeepSeek和Moonshot展开调查。港股AI板块重挫：阿里巴巴(9988.HK)跌约4.2%，恒生科技指数跌1.33%，MiniMax跌6.8%，Z.AI跌超12%。",
+      "why": "港股AI板块系统性利空，监管不确定性压制阿里、腾讯估值；调查正在进行中（尚无处罚决定），当前时点与特朗普-习近平AI峰会叠加，后续政策走向需密切跟踪；延续报道：调查于9月22日启动，峰会AI议题谈判正在进行中。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "DeepSeek",
+        "Moonshot",
+        "阿里巴巴",
+        "AI监管",
+        "数据安全",
+        "恒生科技",
+        "小米"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3367112/moonshot-deepseek-secretly-routed-user-requests-claude-anthropic-claims",
+      "published_date": "2026-09-23",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-25",
+      "is_new": true
+    },
+    {
+      "id": "cbc1342050b51560",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:45",
+      "group": "大盘头条",
+      "title": "Stock market today: Dow falls for third session as 10-year Treasury yield tops 5.22%, highest since 2007",
+      "summary": "10年期美债收益率9月24日升至5.22%（2007年以来最高），30年期升至5.50%（2004年以来最高）；道指三连跌，标普500基本持平于7,704；美联储官员再度发表鹰派言论，市场消化'higher for longer'预期，油价上升亦加剧通胀担忧。",
+      "why": "美债收益率创近20年新高，对科技和成长股估值倍数形成持续压制；sell put策略需关注无风险利率走高对期权定价的影响，高利率环境下消费和科技板块的风险溢价上升，需谨慎评估现有仓位的strike设置。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美债收益率",
+        "美联储",
+        "加息",
+        "科技股",
+        "道指",
+        "标普500"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
+      "published_date": "2026-09-24",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-25",
+      "is_new": true
+    },
+    {
+      "id": "d211e70aa9be8312",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:15",
+      "group": "个股",
+      "title": "Circle lands $100 million from Binance to ramp up global USDC expansion",
+      "summary": "Binance向Circle投资1亿美元并签署五年推广协议，Circle将向Binance支付月度推广费用以支持USDC在Binance平台的使用。此举是Circle加速USDC国际化战略的重要一步，旨在与Tether争夺美元稳定币市场份额，尤其是GENIUS Act通过后的增量监管合规市场。",
+      "why": "对持仓Circle(CRCL)构成基本面利好：全球最大交易所流量背书+五年稳定收入基础，USDC国际市占率有望持续提升；延续报道：合作关系于9月22日宣布，商业条款已进入执行阶段。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "USDC",
+        "Binance",
+        "stablecoin",
+        "稳定币",
+        "CRCL",
+        "GENIUS Act"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/22/circle-lands-100-million-from-binance-to-ramp-up-global-usdc-expansion-.html",
+      "published_date": "2026-09-22",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-25",
+      "is_new": true
+    },
+    {
+      "id": "f76cdf6f90974133",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:30",
+      "group": "个股",
+      "title": "September 22 Buyback Roundup: Tencent repurchases 227,000 shares for HK$100.4 million",
+      "summary": "腾讯(0700.HK)9月22日通过港交所回购22.7万股，耗资约1.004亿港元（成交价约442.8-453.6港元/股）；自股东大会批准回购决议以来，腾讯累计回购约4648万股，占批准时已发行股份总数的0.51%。",
+      "why": "腾讯近期维持每日约一亿港元回购节奏，为股价提供底部支撑；当前股价因DeepSeek监管风险和AI货币化担忧持续受压，回购程序保护0700.HK 下行空间，适合评估 covered call 保护底部位置；延续报道：9月22日最新HKEX回购数据。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "回购",
+        "0700.HK",
+        "港股",
+        "股份回购"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1000054778/september-22-buyback-roundup-tencent-and-hsbc-holdings-among-others",
+      "published_date": "2026-09-22",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-25",
+      "is_new": true
+    },
     {
       "id": "d9e6d73b1e675610",
       "tier": 1,
