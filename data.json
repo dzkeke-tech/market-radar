@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-28 13:33 (北京时间)",
+  "updated_at": "2026-09-28 18:37 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,39 +9,39 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-28 13:33 (北京时间)",
-    "new_count": 4,
+    "at": "2026-09-28 18:37 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "413dad74fcaa8cf8",
+      "id": "fca12741a8624145",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "A",
-        "HK"
+        "HK",
+        "US",
+        "A"
       ],
-      "time": "上午",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "光通信板块集体崩盘：亨通光电跌停，「易中天」合计蒸发逾1700亿市值",
-      "summary": "亨通光电9月24日披露定增预案（拟募资不超66.36亿元，其中约20亿补充流动资金），引发市场对光纤产能过剩担忧；叠加Oracle向数据中心开发商发出不可抗力通知、北美算力基建交付或延期，光模块估值遭重创。9月28日亨通光电(600487)、华脉科技跌停，中际旭创(300308)跌超9%，港股中际旭创(03308.HK)跌超8%；A股「易中天」三股（中际旭创、新易盛、天孚通信）合计蒸发逾1700亿元市值。",
-      "why": "算力基建进度放缓预期直接击穿光模块高估值；暗示AI数据中心建设节奏可能不及预期，间接影响对AI基础设施乐观预期相关持仓的短期波动率；须关注能否蔓延至港股AI算力相关标的。",
+      "title": "霍尔木兹局势持续僵局，布伦特原油升至105美元",
+      "summary": "特朗普拒绝伊朗提出的重开霍尔木兹海峡七天方案，布伦特原油期货涨1.27%至105.64美元/桶，WTI涨0.76%至93.11美元/桶。伊朗外长表示未放弃外交接触但不会在既定条件上让步；胡塞武装袭击沙特基础设施加剧供应端担忧。",
+      "why": "油价急升直接推升通胀预期，强化美联储10月再度加息的市场定价，拖累高估值科技股的期望收益率；同时提升整体隐含波动率，sell put 策略应关注 IV 抬升带来的权利金变化与行权价保护充裕度。",
       "source": "21财经",
       "verified": true,
       "keywords": [
-        "光通信",
-        "亨通光电",
-        "中际旭创",
-        "光模块",
-        "CPO",
-        "算力",
-        "定增",
-        "Oracle"
+        "霍尔木兹",
+        "石油",
+        "中东",
+        "特朗普",
+        "伊朗",
+        "原油",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://m.21jingji.com/article/20260928/herald/a7d53a944f93bca03f72fdd4db1c2143.html",
+      "url": "https://www.21jingji.com/article/20260928/herald/1851b73b0b0e4dc3e0bd47d250de955d.html",
       "published_date": "2026-09-28",
       "still_developing": false,
       "cross_ref": "",
@@ -50,61 +50,94 @@
       "is_new": true
     },
     {
-      "id": "356b31d2ce8e4d88",
+      "id": "3e80e1b24a0f5d0e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "U.S. long-bond yields hit monthly highs; global risk assets under pressure",
+      "summary": "U.S. Treasury yields surged through September following the Fed's unanimous 25bps hike to 5.25–5.50% and the Middle East risk premium on oil. Long-end yields climbed sharply, pressuring equity multiples across rate-sensitive sectors and compressing carry for leveraged positions.",
+      "why": "收益率月内大幅走高压缩高市盈率科技股估值空间，并提升无风险利率门槛；对 sell-put 策略而言，高利率环境有利于权利金收入，但需警惕市场快速调整时 delta 风险敞口。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "美债",
+        "美联储",
+        "加息",
+        "收益率",
+        "通胀",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html",
+      "published_date": "2026-09-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
+      "is_new": true
+    },
+    {
+      "id": "40d9f13ca7178c3f",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "HK"
+        "A"
       ],
-      "time": "12:30",
+      "time": "10:00",
       "group": "大盘头条",
-      "title": "港股午评：中秋后首日恒指涨0.64%，三桶油涨超3%，科指跌0.54%",
-      "summary": "中秋假期后首个港股交易日，恒生指数午盘涨0.64%至24666.09点，国企指数涨0.57%报8212.3点；受中东油价上行带动，中国海洋石油、中国石油股份涨超3%，中国石油化工涨2.2%；恒生科技指数跌0.54%至4288.61点，光通信板块走低，中际旭创(03308.HK)盘中跌超8%。",
-      "why": "港股整体偏强但结构分化：能源板块受益油价上涨，科技权重受光通信崩盘拖累；组合中港股科技持仓须留意盘中分化压力，能源板块非持仓标的不建议追涨。",
+      "title": "新浪证券热点小时报（9月28日10时）：AI、PCB板块活跃，流动性受关注",
+      "summary": "9月28日上午A股，AI人工智能概念与PCB（印制电路板）板块交投活跃；市场流动性话题持续受关注，港股通资金动向亦被纳入观察。整体市场情绪趋于谨慎，延续震荡修复格局。",
+      "why": "PCB板块与AI算力基础设施直接相关，呼应英伟达/AMD数据中心扩张需求；A股流动性充裕为科技消费板块提供估值支撑，与港股科网持仓方向一致。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "AI",
+        "PCB",
+        "流动性",
+        "科技"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908p2ay.html",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
+      "is_new": true
+    },
+    {
+      "id": "d43d650db68f1c4c",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "10:30",
+      "group": "大盘头条",
+      "title": "美伊谈判本周有望恢复，油价走势分析：地缘溢价能否持续？",
+      "summary": "特朗普表示本周将与伊朗继续谈判，并称德黑兰当前提案条件若放在约一年前或可接受，暗示双方存在一定谈判空间。市场对伊朗海峡封锁长期化与短期外交突破的预期拉锯，将成为本周油价核心驱动。",
+      "why": "相较于首条油价上涨快报，本条聚焦本周外交动态与油价中期走向：若谈判突破，油价可能快速回落并缓解通胀压力；若继续僵持，能源板块继续受益。投资者应同时持有两个情景的期权保护策略。",
       "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "恒生指数",
-        "港股",
-        "三桶油",
-        "中国海洋石油",
-        "中际旭创",
-        "科技指"
+        "美伊谈判",
+        "霍尔木兹",
+        "原油",
+        "石油",
+        "外交",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initkarc8672493.shtml",
+      "url": "https://finance.sina.com.cn/roll/2026-09-28/doc-initkhwz8622298.shtml",
       "published_date": "2026-09-28",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-28",
-      "is_new": true
-    },
-    {
-      "id": "ca07b6416eb1bd36",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "全周",
-      "group": "大盘头条",
-      "title": "本周关键宏观：9月30日发布美国8月核心PCE，美联储加息路径关键校验",
-      "summary": "美国经济局将于9月30日（周三）发布8月核心PCE数据（美联储首选通胀指标），同日另有ADP就业数据；美联储已于9月16日将联邦基金利率上调25bp至3.75%-4.00%，最新dot plot显示年内或再度加息；本次PCE数据将是判断美联储政策节奏的关键节点。",
-      "why": "延续报道：美联储9月加息后首份PCE数据尚未发布；PCE若超预期将强化10月再加息预期，进一步压制风险资产估值；对组合内sell put策略而言，利率抬升叠加波动率上升需重新评估安全边际。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "核心PCE",
-        "美联储",
-        "通胀",
-        "加息",
-        "ADP就业",
-        "货币政策"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/25/stock-market-next-week-outlook-for-sept-28-oct-2-2026.html",
-      "published_date": "2026-09-25",
       "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -112,26 +145,29 @@
       "is_new": true
     },
     {
-      "id": "2f2c2eb34e38c80d",
-      "tier": 3,
+      "id": "7d774f1686322558",
+      "tier": 2,
       "lang": "zh",
       "markets": [
-        "A"
+        "HK"
       ],
-      "time": "今日",
-      "group": "大盘头条",
-      "title": "A股9月28日解禁：19家公司合计约193.75亿元限售股到期解禁",
-      "summary": "今日A股共计19家上市公司限售股到期解禁，合计解禁总市值约193.75亿元，市场需关注潜在的减持抛售压力。",
-      "why": "解禁事件是高优先跟踪题材；大额集中解禁可能对相关成分股形成短期抛售压力，但对当前组合直接影响有限，若持仓公司恰好有解禁须重点核查。",
-      "source": "智通财经",
-      "verified": false,
+      "time": "16:00",
+      "group": "个股",
+      "title": "腾讯、京东、百度、网易集体上涨，网易领涨科网板块",
+      "summary": "9月28日港股收盘，科网股集体走强。网易-S涨幅明显领涨，哔哩哔哩-W、腾讯音乐、腾讯控股、京东集团、百度集团、快手等均收涨；阿里巴巴-W、联想集团等小幅走低，科网板块整体呈涨多跌少格局。",
+      "why": "科网板块整体偏强有利于当前持仓；网易大涨或与其游戏/AI新品预期相关，值得追踪催化剂；阿里与腾讯分化值得关注，影响各自 sell put 行权价的保护边际。",
+      "source": "21财经",
+      "verified": true,
       "keywords": [
-        "解禁",
-        "限售股",
-        "A股"
+        "网易",
+        "腾讯",
+        "百度",
+        "京东",
+        "科网股",
+        "港股"
       ],
       "translated": false,
-      "url": "https://cn.investing.com/news/stock-market-news/article-3584783",
+      "url": "https://www.21jingji.com/article/20260928/herald/808cf6775b8f6132f6ea54663c691b70.html",
       "published_date": "2026-09-28",
       "still_developing": false,
       "cross_ref": "",
@@ -1394,6 +1430,40 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "413dad74fcaa8cf8",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "上午",
+      "group": "大盘头条",
+      "title": "光通信板块集体崩盘：亨通光电跌停，「易中天」合计蒸发逾1700亿市值",
+      "summary": "亨通光电9月24日披露定增预案（拟募资不超66.36亿元，其中约20亿补充流动资金），引发市场对光纤产能过剩担忧；叠加Oracle向数据中心开发商发出不可抗力通知、北美算力基建交付或延期，光模块估值遭重创。9月28日亨通光电(600487)、华脉科技跌停，中际旭创(300308)跌超9%，港股中际旭创(03308.HK)跌超8%；A股「易中天」三股（中际旭创、新易盛、天孚通信）合计蒸发逾1700亿元市值。",
+      "why": "算力基建进度放缓预期直接击穿光模块高估值；暗示AI数据中心建设节奏可能不及预期，间接影响对AI基础设施乐观预期相关持仓的短期波动率；须关注能否蔓延至港股AI算力相关标的。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "光通信",
+        "亨通光电",
+        "中际旭创",
+        "光模块",
+        "CPO",
+        "算力",
+        "定增",
+        "Oracle"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260928/herald/a7d53a944f93bca03f72fdd4db1c2143.html",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
       "is_new": false
     },
     {
@@ -2969,6 +3039,68 @@
       "is_new": false
     },
     {
+      "id": "356b31d2ce8e4d88",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午评：中秋后首日恒指涨0.64%，三桶油涨超3%，科指跌0.54%",
+      "summary": "中秋假期后首个港股交易日，恒生指数午盘涨0.64%至24666.09点，国企指数涨0.57%报8212.3点；受中东油价上行带动，中国海洋石油、中国石油股份涨超3%，中国石油化工涨2.2%；恒生科技指数跌0.54%至4288.61点，光通信板块走低，中际旭创(03308.HK)盘中跌超8%。",
+      "why": "港股整体偏强但结构分化：能源板块受益油价上涨，科技权重受光通信崩盘拖累；组合中港股科技持仓须留意盘中分化压力，能源板块非持仓标的不建议追涨。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "三桶油",
+        "中国海洋石油",
+        "中际旭创",
+        "科技指"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initkarc8672493.shtml",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
+      "is_new": false
+    },
+    {
+      "id": "ca07b6416eb1bd36",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "全周",
+      "group": "大盘头条",
+      "title": "本周关键宏观：9月30日发布美国8月核心PCE，美联储加息路径关键校验",
+      "summary": "美国经济局将于9月30日（周三）发布8月核心PCE数据（美联储首选通胀指标），同日另有ADP就业数据；美联储已于9月16日将联邦基金利率上调25bp至3.75%-4.00%，最新dot plot显示年内或再度加息；本次PCE数据将是判断美联储政策节奏的关键节点。",
+      "why": "延续报道：美联储9月加息后首份PCE数据尚未发布；PCE若超预期将强化10月再加息预期，进一步压制风险资产估值；对组合内sell put策略而言，利率抬升叠加波动率上升需重新评估安全边际。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "核心PCE",
+        "美联储",
+        "通胀",
+        "加息",
+        "ADP就业",
+        "货币政策"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/25/stock-market-next-week-outlook-for-sept-28-oct-2-2026.html",
+      "published_date": "2026-09-25",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
+      "is_new": false
+    },
+    {
       "id": "e570f1600c359830",
       "tier": 2,
       "lang": "en",
@@ -3187,6 +3319,34 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-26",
+      "is_new": false
+    },
+    {
+      "id": "2f2c2eb34e38c80d",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "今日",
+      "group": "大盘头条",
+      "title": "A股9月28日解禁：19家公司合计约193.75亿元限售股到期解禁",
+      "summary": "今日A股共计19家上市公司限售股到期解禁，合计解禁总市值约193.75亿元，市场需关注潜在的减持抛售压力。",
+      "why": "解禁事件是高优先跟踪题材；大额集中解禁可能对相关成分股形成短期抛售压力，但对当前组合直接影响有限，若持仓公司恰好有解禁须重点核查。",
+      "source": "智通财经",
+      "verified": false,
+      "keywords": [
+        "解禁",
+        "限售股",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://cn.investing.com/news/stock-market-news/article-3584783",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
       "is_new": false
     },
     {
