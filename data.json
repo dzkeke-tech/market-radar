@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-28 08:41 (北京时间)",
+  "updated_at": "2026-09-28 13:33 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,141 +9,129 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-28 08:41 (北京时间)",
+    "at": "2026-09-28 13:33 (北京时间)",
     "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "c3acbdbbfca70b2d",
+      "id": "413dad74fcaa8cf8",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "US",
-        "HK",
-        "A"
+        "A",
+        "HK"
       ],
-      "time": "07:30",
+      "time": "上午",
       "group": "大盘头条",
-      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
-      "summary": "President Trump publicly rejected Iran's conditional seven-day proposal to reopen the Strait of Hormuz, saying Iran is 'losing so badly.' Brent crude surged ~1.9% to about $106.30/bbl; WTI rose ~1.3% to ~$93.62/bbl in early Asia trading Monday. US equity futures fell: Dow futures -160+ points, S&P 500 and Nasdaq 100 futures each -~0.3%.",
-      "why": "油价急升对港股能源板块构成情绪支撑，但令美股整体承压（高通胀预期+利率上移）；对持仓中依赖原材料/能源的消费与制造标的有成本端压力；sell put 策略需警惕波动率扩大风险。",
+      "title": "光通信板块集体崩盘：亨通光电跌停，「易中天」合计蒸发逾1700亿市值",
+      "summary": "亨通光电9月24日披露定增预案（拟募资不超66.36亿元，其中约20亿补充流动资金），引发市场对光纤产能过剩担忧；叠加Oracle向数据中心开发商发出不可抗力通知、北美算力基建交付或延期，光模块估值遭重创。9月28日亨通光电(600487)、华脉科技跌停，中际旭创(300308)跌超9%，港股中际旭创(03308.HK)跌超8%；A股「易中天」三股（中际旭创、新易盛、天孚通信）合计蒸发逾1700亿元市值。",
+      "why": "算力基建进度放缓预期直接击穿光模块高估值；暗示AI数据中心建设节奏可能不及预期，间接影响对AI基础设施乐观预期相关持仓的短期波动率；须关注能否蔓延至港股AI算力相关标的。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "光通信",
+        "亨通光电",
+        "中际旭创",
+        "光模块",
+        "CPO",
+        "算力",
+        "定增",
+        "Oracle"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260928/herald/a7d53a944f93bca03f72fdd4db1c2143.html",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
+      "is_new": true
+    },
+    {
+      "id": "356b31d2ce8e4d88",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午评：中秋后首日恒指涨0.64%，三桶油涨超3%，科指跌0.54%",
+      "summary": "中秋假期后首个港股交易日，恒生指数午盘涨0.64%至24666.09点，国企指数涨0.57%报8212.3点；受中东油价上行带动，中国海洋石油、中国石油股份涨超3%，中国石油化工涨2.2%；恒生科技指数跌0.54%至4288.61点，光通信板块走低，中际旭创(03308.HK)盘中跌超8%。",
+      "why": "港股整体偏强但结构分化：能源板块受益油价上涨，科技权重受光通信崩盘拖累；组合中港股科技持仓须留意盘中分化压力，能源板块非持仓标的不建议追涨。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "三桶油",
+        "中国海洋石油",
+        "中际旭创",
+        "科技指"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initkarc8672493.shtml",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
+      "is_new": true
+    },
+    {
+      "id": "ca07b6416eb1bd36",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "全周",
+      "group": "大盘头条",
+      "title": "本周关键宏观：9月30日发布美国8月核心PCE，美联储加息路径关键校验",
+      "summary": "美国经济局将于9月30日（周三）发布8月核心PCE数据（美联储首选通胀指标），同日另有ADP就业数据；美联储已于9月16日将联邦基金利率上调25bp至3.75%-4.00%，最新dot plot显示年内或再度加息；本次PCE数据将是判断美联储政策节奏的关键节点。",
+      "why": "延续报道：美联储9月加息后首份PCE数据尚未发布；PCE若超预期将强化10月再加息预期，进一步压制风险资产估值；对组合内sell put策略而言，利率抬升叠加波动率上升需重新评估安全边际。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "Iran",
-        "Hormuz",
-        "oil",
-        "crude",
-        "Trump",
-        "Brent",
-        "WTI",
-        "US futures",
-        "Middle East"
+        "核心PCE",
+        "美联储",
+        "通胀",
+        "加息",
+        "ADP就业",
+        "货币政策"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-      "published_date": "2026-09-28",
-      "still_developing": false,
+      "url": "https://www.cnbc.com/2026/09/25/stock-market-next-week-outlook-for-sept-28-oct-2-2026.html",
+      "published_date": "2026-09-25",
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-28",
       "is_new": true
     },
     {
-      "id": "e570f1600c359830",
-      "tier": 2,
-      "lang": "en",
+      "id": "2f2c2eb34e38c80d",
+      "tier": 3,
+      "lang": "zh",
       "markets": [
-        "US",
-        "HK"
+        "A"
       ],
-      "time": "08:00",
+      "time": "今日",
       "group": "大盘头条",
-      "title": "Stock Market Today (Sept 28): US Futures Slip Amid Oil Surge and Elevated Treasury Yields",
-      "summary": "US equity-index futures slipped ~0.3% in early Asian trading as Middle East tensions reignited on Trump's rejection of Iran's Hormuz deal. US 10-year Treasury yields remain near cycle highs following the Fed's September rate hike to 3.75%–4%, weighing on growth stocks and broad risk sentiment.",
-      "why": "美债收益率高企压制成长股估值（英伟达、谷歌、特斯拉等持仓），同时HK市场需关注整体风险偏好下行；当日重大头条主要集中于伊朗冲突与宏观层面，当日个股重大头条偏少。Bloomberg为硬墙媒体，已提供CNBC交叉引用。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "US futures",
-        "Treasury yield",
-        "S&P 500",
-        "Nasdaq",
-        "interest rates",
-        "Fed",
-        "bond market",
-        "Iran"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates",
-      "published_date": "2026-09-27",
-      "still_developing": true,
-      "cross_ref": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
-      "first_seen": "2026-09-28",
-      "is_new": true
-    },
-    {
-      "id": "a3c80dcdaa4d314a",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "Hawkish Wind Sweeps the Fed: Three Officials Warn of Inflation Risks on the Same Day",
-      "summary": "Three Federal Reserve officials issued hawkish warnings about inflation risks on the same day, reinforcing the higher-for-longer rate environment. The coordinated hawkish tone is consistent with US 10-year Treasury yields sitting near cycle highs and the Fed's September hike to the 3.75%–4% target range.",
-      "why": "联储官员集体偏鹰信号强化高利率预期，对持仓成长股（英伟达、谷歌等）估值构成压制；与当前国债收益率高位格局相互印证。注：富途域名被代理封禁，正文无法读取，内容仅基于搜索摘要标题，verified=false。",
+      "title": "A股9月28日解禁：19家公司合计约193.75亿元限售股到期解禁",
+      "summary": "今日A股共计19家上市公司限售股到期解禁，合计解禁总市值约193.75亿元，市场需关注潜在的减持抛售压力。",
+      "why": "解禁事件是高优先跟踪题材；大额集中解禁可能对相关成分股形成短期抛售压力，但对当前组合直接影响有限，若持仓公司恰好有解禁须重点核查。",
       "source": "智通财经",
       "verified": false,
       "keywords": [
-        "Fed",
-        "inflation",
-        "hawkish",
-        "Treasury yield",
-        "interest rates",
-        "rate outlook",
-        "Federal Reserve"
+        "解禁",
+        "限售股",
+        "A股"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/en/post/1000247585/zhitong-hk-stocks-early-briefing-hawkish-wind-sweeps-the-fed",
-      "published_date": "2026-09-28",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-28",
-      "is_new": true
-    },
-    {
-      "id": "9a9371227d9b5a04",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "HK Market Weekly Preview: Four New Listings Debut Tuesday, HKEX Closed Thursday for National Day",
-      "summary": "The Hong Kong Stock Exchange will be closed on Thursday October 1 for National Day, leaving only three trading days this week (Monday Sept 29 – Wednesday Oct 1 eve). Four new shares debut on Tuesday Sept 29: Benmo Technology (06731.HK), Jingwang Electronics (03228.HK), Tongcheng New Materials (09607.HK), and Robotech (03757.HK). The compressed trading week combined with multiple IPO floats may affect market liquidity and sentiment.",
-      "why": "港股本周仅3个交易日+4只新股同日挂牌，流动性分散、短期波动率或抬升；Robotech(03757.HK)为人形机器人相关标的，可能引发板块情绪共鸣。注：富途域名被代理封禁，正文无法读取，内容仅基于搜索摘要，verified=false；发布日期2026-09-28为搜索结果后缀推断，当日重大头条偏少。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "HKEX",
-        "National Day",
-        "new listings",
-        "IPO",
-        "Robotech",
-        "Benmo Technology",
-        "Jingwang Electronics",
-        "Tongcheng"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/1000246994/hk-market-weekly-preview-hk-stock-exchange-closed-for-one",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3584783",
       "published_date": "2026-09-28",
       "still_developing": false,
       "cross_ref": "",
@@ -1406,6 +1394,42 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "c3acbdbbfca70b2d",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+      "summary": "President Trump publicly rejected Iran's conditional seven-day proposal to reopen the Strait of Hormuz, saying Iran is 'losing so badly.' Brent crude surged ~1.9% to about $106.30/bbl; WTI rose ~1.3% to ~$93.62/bbl in early Asia trading Monday. US equity futures fell: Dow futures -160+ points, S&P 500 and Nasdaq 100 futures each -~0.3%.",
+      "why": "油价急升对港股能源板块构成情绪支撑，但令美股整体承压（高通胀预期+利率上移）；对持仓中依赖原材料/能源的消费与制造标的有成本端压力；sell put 策略需警惕波动率扩大风险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Iran",
+        "Hormuz",
+        "oil",
+        "crude",
+        "Trump",
+        "Brent",
+        "WTI",
+        "US futures",
+        "Middle East"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
       "is_new": false
     },
     {
@@ -2945,6 +2969,73 @@
       "is_new": false
     },
     {
+      "id": "e570f1600c359830",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Stock Market Today (Sept 28): US Futures Slip Amid Oil Surge and Elevated Treasury Yields",
+      "summary": "US equity-index futures slipped ~0.3% in early Asian trading as Middle East tensions reignited on Trump's rejection of Iran's Hormuz deal. US 10-year Treasury yields remain near cycle highs following the Fed's September rate hike to 3.75%–4%, weighing on growth stocks and broad risk sentiment.",
+      "why": "美债收益率高企压制成长股估值（英伟达、谷歌、特斯拉等持仓），同时HK市场需关注整体风险偏好下行；当日重大头条主要集中于伊朗冲突与宏观层面，当日个股重大头条偏少。Bloomberg为硬墙媒体，已提供CNBC交叉引用。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "US futures",
+        "Treasury yield",
+        "S&P 500",
+        "Nasdaq",
+        "interest rates",
+        "Fed",
+        "bond market",
+        "Iran"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-09-27",
+      "still_developing": true,
+      "cross_ref": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-09-28",
+      "is_new": false
+    },
+    {
+      "id": "a3c80dcdaa4d314a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Hawkish Wind Sweeps the Fed: Three Officials Warn of Inflation Risks on the Same Day",
+      "summary": "Three Federal Reserve officials issued hawkish warnings about inflation risks on the same day, reinforcing the higher-for-longer rate environment. The coordinated hawkish tone is consistent with US 10-year Treasury yields sitting near cycle highs and the Fed's September hike to the 3.75%–4% target range.",
+      "why": "联储官员集体偏鹰信号强化高利率预期，对持仓成长股（英伟达、谷歌等）估值构成压制；与当前国债收益率高位格局相互印证。注：富途域名被代理封禁，正文无法读取，内容仅基于搜索摘要标题，verified=false。",
+      "source": "智通财经",
+      "verified": false,
+      "keywords": [
+        "Fed",
+        "inflation",
+        "hawkish",
+        "Treasury yield",
+        "interest rates",
+        "rate outlook",
+        "Federal Reserve"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1000247585/zhitong-hk-stocks-early-briefing-hawkish-wind-sweeps-the-fed",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
+      "is_new": false
+    },
+    {
       "id": "92cc35ac2cb0f458",
       "tier": 3,
       "lang": "zh",
@@ -3096,6 +3187,39 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-26",
+      "is_new": false
+    },
+    {
+      "id": "9a9371227d9b5a04",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "HK Market Weekly Preview: Four New Listings Debut Tuesday, HKEX Closed Thursday for National Day",
+      "summary": "The Hong Kong Stock Exchange will be closed on Thursday October 1 for National Day, leaving only three trading days this week (Monday Sept 29 – Wednesday Oct 1 eve). Four new shares debut on Tuesday Sept 29: Benmo Technology (06731.HK), Jingwang Electronics (03228.HK), Tongcheng New Materials (09607.HK), and Robotech (03757.HK). The compressed trading week combined with multiple IPO floats may affect market liquidity and sentiment.",
+      "why": "港股本周仅3个交易日+4只新股同日挂牌，流动性分散、短期波动率或抬升；Robotech(03757.HK)为人形机器人相关标的，可能引发板块情绪共鸣。注：富途域名被代理封禁，正文无法读取，内容仅基于搜索摘要，verified=false；发布日期2026-09-28为搜索结果后缀推断，当日重大头条偏少。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "HKEX",
+        "National Day",
+        "new listings",
+        "IPO",
+        "Robotech",
+        "Benmo Technology",
+        "Jingwang Electronics",
+        "Tongcheng"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1000246994/hk-market-weekly-preview-hk-stock-exchange-closed-for-one",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
       "is_new": false
     }
   ]
