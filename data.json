@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-27 18:35 (北京时间)",
+  "updated_at": "2026-09-28 08:41 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,346 +9,147 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-27 18:35 (北京时间)",
-    "new_count": 6,
+    "at": "2026-09-28 08:41 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "899fa62b79426957",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "美联储“鹰风”席卷，10月加息概率升至约七成",
-      "summary": "多位美联储官员密集释放鹰派信号，叠加9月制造业PMI超预期，市场据CME FedWatch数据（截至2026-09-24）将美联储10月27-28日FOMC会议加息概率定价至约73%。高盛研报亦预计10月将再加25bp，并称其“可能是本轮周期终曲”，关键取决于即将公布的PCE与非农数据。",
-      "why": "若10月落地加息，无风险利率进一步抬升将压制所有风险资产估值；持有sell put组合须警惕期权隐含波动率同步上移；美联储主席Kevin Warsh（沃什）自上任以来维持鹰派立场，与市场预期高度一致。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "加息",
-        "FOMC",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260926/herald/0dd1d436dba5bee1f0aaa99fa53a27fb.html",
-      "published_date": "2026-09-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": true
-    },
-    {
-      "id": "c92a997fd6efd091",
+      "id": "c3acbdbbfca70b2d",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "U.S. September Manufacturing PMI Hits 57.0 — Highest in 52 Months, Smashing 53.5 Forecast",
-      "summary": "S&P Global's flash US Manufacturing PMI surged to 57.0 in September 2026 from 53.9 in August, well above the consensus forecast of 53.5, marking the strongest business conditions improvement since May 2022. All five sub-indices contributed; production growth was its fastest since April 2022 and new orders hit their best pace in 4.5 years.",
-      "why": "超预期PMI强化了市场对美联储10月再度加息的押注，直接推高了美债收益率和美元，对持仓中的科技/消费科技股构成估值压力；同时也暗示终端消费需求仍强劲，对消费类标的（如好市多、美团）可能形成支撑。",
-      "source": "S&P Global PMI",
-      "verified": true,
-      "keywords": [
-        "PMI",
-        "制造业",
-        "美联储",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/bfb270a44c2b4490a0f1adb76b8e8f9f",
-      "published_date": "2026-09-23",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": true
-    },
-    {
-      "id": "87a2a2aa7391d676",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "油价涨、美债跌：美联储10月加息预期升温，美债10年期收益率重返5%上方",
-      "summary": "受油价持续高位（Brent约104美元/桶）叠加美联储鹰派信号影响，美国10年期国债收益率重返5%上方，创近期高位；美元指数升至8周新高。美银警告：若MOVE指数站上125同时全球金融ETF（IXG）跌破125美元，将触发避险去杠杆，引发美股恐慌抛售。",
-      "why": "10年期美债收益率超5%对持仓内高估值科技股（英伟达、谷歌、阿里）估值折现影响显著；同时高油价推高能源通胀，可能拖延美联储降息周期；霍尔木兹海峡谈判仍是全球通胀预期的核心地缘变量，值得持续追踪。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "美债",
-        "利率",
-        "油价",
-        "霍尔木兹",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-09-24/doc-iniswezr5093060.shtml",
-      "published_date": "2026-09-24",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": true
-    },
-    {
-      "id": "50764442d7266b2a",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "Alibaba Unveils Zhenwu V900 AI Chip, Launches Wan3.0 Video Model; CEO Eddie Wu Commits 380B Yuan to Full-Stack AI",
-      "summary": "At a major strategy event on September 22, Alibaba CEO Eddie Wu unveiled the company's self-developed Zhenwu V900 AI chip (entering mass production) and launched the Wan3.0 AI video model already in commercial use in film, advertising and tourism. Alibaba committed 380 billion yuan over three years to full-stack AI, following the August HK$80B follow-on share placement earmarked for AI infrastructure.",
-      "why": "中国大厂首发全栈自研AI芯片，直接减少英伟达依赖，同时Wan3.0商用化确认AI变现路径；对阿里云估值重估逻辑有重大推动，但巨额资本开支短期稀释回报；持有BABA的sell put需关注配股摊薄完成后的股价锚定区间。",
-      "source": "财新英文",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "BABA",
-        "9988.HK",
-        "AI芯片",
-        "Wan3.0",
-        "阿里云"
-      ],
-      "translated": false,
-      "url": "https://www.caixinglobal.com/2026-09-22/alibaba-unveils-new-ai-chip-as-it-deepens-ai-infrastructure-push-102487686.html",
-      "published_date": "2026-09-22",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": true
-    },
-    {
-      "id": "dd7ae1c7ec48777a",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "Micron (MU) Q4 FY2026 Earnings Due September 30 After Close; Consensus ~$51.2B Revenue, ~$31.56 EPS; Options Price ~10% Move",
-      "summary": "Micron Technology reports Q4 FY2026 results on Wednesday September 30 after market close, with the earnings call at 4:30 PM ET. Analyst consensus projects revenue of approximately $51.2B (up roughly 352% YoY) and non-GAAP EPS of approximately $31.56. MU stock has gained approximately 16% in the past month. Options are pricing approximately a 10% move around the report.",
-      "why": "对持有MU sell put组合而言，本轮财报是最大单一事件风险：若实际营收/EPS超预期（普遍预期极高），隐含波动率将在财报后大幅压缩（IV crush）；若未达预期则面临Gap down风险；建议在财报前确认Delta暴露与行权价距离。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "HBM",
-        "财报",
-        "DRAM"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/1000196890/earnings-preview-mu-to-report-financial-results-post-market-on",
-      "published_date": "2026-09-25",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": true
-    },
-    {
-      "id": "2df07fc99b0712c9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "下周外盘看点：美国8月PCE与9月非农数据将决定美联储10月走向",
-      "summary": "本周美联储官员密集发鹰后，下周美国8月PCE通胀数据（9月30日）和9月非农就业报告（10月3日）将成为市场决定美联储10月是否加息的关键。此外，美光科技Q4财报将于9月30日盘后公布，市场预期营收约51.2B美元。",
-      "why": "PCE若高于预期，加息概率将进一步升至接近100%，对波动率定价影响直接；同时美光财报亦将在同一天公布（见个股），可能带来额外波动，持有美光的sell put组合须准备应对单日10%以上的标的波动。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "PCE",
-        "非农",
-        "美联储",
-        "美光",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfxsk0269539.shtml",
-      "published_date": "2026-09-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": true
-    },
-    {
-      "id": "042b687ba7c29ba6",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "18:35",
-      "group": "大盘头条",
-      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway",
-      "summary": "Warren Buffett, 96, stepped down as Berkshire Hathaway's board chairman effective September 18, assuming the role of chairman emeritus. His son Howard Buffett becomes chairman; Greg Abel has already been serving as CEO.",
-      "why": "全球投资界标志性事件；接班有充分铺垫（Abel已任CEO），短期市场影响有限，但消费/金融持仓风格能否延续值得长期跟踪。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "巴菲特",
-        "伯克希尔哈撒韦",
-        "Buffett",
-        "Berkshire Hathaway"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-      "published_date": "2026-09-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": false
-    },
-    {
-      "id": "56a11f17a385d835",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
+        "US",
         "HK",
         "A"
       ],
-      "time": "18:35",
+      "time": "07:30",
       "group": "大盘头条",
-      "title": "商务部：何立峰将于9月19日—23日率团赴美举行经贸磋商",
-      "summary": "中共中央政治局委员、国务院副总理何立峰率团赴美，9月19-23日在纽约与美方举行经贸磋商，议题涵盖AI风险管理、贸易、稀土及11月到期关税延期，是习特会的前期准备。",
-      "why": "磋商结果直接影响A股/港股科技消费赛道情绪；若中美在AI管控和关税上达成缓和，腾讯、阿里巴巴、拼多多等中概科技股短期受益。",
-      "source": "新浪财经",
+      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+      "summary": "President Trump publicly rejected Iran's conditional seven-day proposal to reopen the Strait of Hormuz, saying Iran is 'losing so badly.' Brent crude surged ~1.9% to about $106.30/bbl; WTI rose ~1.3% to ~$93.62/bbl in early Asia trading Monday. US equity futures fell: Dow futures -160+ points, S&P 500 and Nasdaq 100 futures each -~0.3%.",
+      "why": "油价急升对港股能源板块构成情绪支撑，但令美股整体承压（高通胀预期+利率上移）；对持仓中依赖原材料/能源的消费与制造标的有成本端压力；sell put 策略需警惕波动率扩大风险。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "中美贸易",
-        "贸易磋商",
-        "何立峰",
-        "关税",
-        "AI管控",
-        "稀土",
-        "习特会"
+        "Iran",
+        "Hormuz",
+        "oil",
+        "crude",
+        "Trump",
+        "Brent",
+        "WTI",
+        "US futures",
+        "Middle East"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/wm/2026-09-19/doc-inisinhh9918249.shtml",
-      "published_date": "2026-09-19",
-      "still_developing": true,
+      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "published_date": "2026-09-28",
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": false
+      "first_seen": "2026-09-28",
+      "is_new": true
     },
     {
-      "id": "63bebd5a5ffef39b",
-      "tier": 1,
+      "id": "e570f1600c359830",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Stock Market Today (Sept 28): US Futures Slip Amid Oil Surge and Elevated Treasury Yields",
+      "summary": "US equity-index futures slipped ~0.3% in early Asian trading as Middle East tensions reignited on Trump's rejection of Iran's Hormuz deal. US 10-year Treasury yields remain near cycle highs following the Fed's September rate hike to 3.75%–4%, weighing on growth stocks and broad risk sentiment.",
+      "why": "美债收益率高企压制成长股估值（英伟达、谷歌、特斯拉等持仓），同时HK市场需关注整体风险偏好下行；当日重大头条主要集中于伊朗冲突与宏观层面，当日个股重大头条偏少。Bloomberg为硬墙媒体，已提供CNBC交叉引用。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "US futures",
+        "Treasury yield",
+        "S&P 500",
+        "Nasdaq",
+        "interest rates",
+        "Fed",
+        "bond market",
+        "Iran"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-09-27",
+      "still_developing": true,
+      "cross_ref": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-09-28",
+      "is_new": true
+    },
+    {
+      "id": "a3c80dcdaa4d314a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Hawkish Wind Sweeps the Fed: Three Officials Warn of Inflation Risks on the Same Day",
+      "summary": "Three Federal Reserve officials issued hawkish warnings about inflation risks on the same day, reinforcing the higher-for-longer rate environment. The coordinated hawkish tone is consistent with US 10-year Treasury yields sitting near cycle highs and the Fed's September hike to the 3.75%–4% target range.",
+      "why": "联储官员集体偏鹰信号强化高利率预期，对持仓成长股（英伟达、谷歌等）估值构成压制；与当前国债收益率高位格局相互印证。注：富途域名被代理封禁，正文无法读取，内容仅基于搜索摘要标题，verified=false。",
+      "source": "智通财经",
+      "verified": false,
+      "keywords": [
+        "Fed",
+        "inflation",
+        "hawkish",
+        "Treasury yield",
+        "interest rates",
+        "rate outlook",
+        "Federal Reserve"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1000247585/zhitong-hk-stocks-early-briefing-hawkish-wind-sweeps-the-fed",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-28",
+      "is_new": true
+    },
+    {
+      "id": "9a9371227d9b5a04",
+      "tier": 3,
       "lang": "en",
       "markets": [
         "HK"
       ],
-      "time": "2026-09-20T08:00:00Z",
-      "group": "宏观/货币政策",
-      "title": "HKMA raises base rate to 4.25% in lockstep with US Federal Reserve",
-      "summary": "Hong Kong Monetary Authority raised its base rate by 25bp to 4.25%, following the Federal Reserve's rate hike on September 17. Under the Linked Exchange Rate system, HKMA moves in tandem with the Fed to maintain the HKD peg.",
-      "why": "港股整体融资成本上升，高息环境对估值构成持续压制，尤其利率敏感型板块（地产/公用事业）；持仓腾讯0700、美团3690、小米1810、阿里9988等成长股估值受压；sell put时需关注IV上升带来的权利金机会，同时注意行权被触发风险。",
-      "source": "HKMA官方新闻稿",
-      "verified": true,
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "HK Market Weekly Preview: Four New Listings Debut Tuesday, HKEX Closed Thursday for National Day",
+      "summary": "The Hong Kong Stock Exchange will be closed on Thursday October 1 for National Day, leaving only three trading days this week (Monday Sept 29 – Wednesday Oct 1 eve). Four new shares debut on Tuesday Sept 29: Benmo Technology (06731.HK), Jingwang Electronics (03228.HK), Tongcheng New Materials (09607.HK), and Robotech (03757.HK). The compressed trading week combined with multiple IPO floats may affect market liquidity and sentiment.",
+      "why": "港股本周仅3个交易日+4只新股同日挂牌，流动性分散、短期波动率或抬升；Robotech(03757.HK)为人形机器人相关标的，可能引发板块情绪共鸣。注：富途域名被代理封禁，正文无法读取，内容仅基于搜索摘要，verified=false；发布日期2026-09-28为搜索结果后缀推断，当日重大头条偏少。",
+      "source": "富途牛牛",
+      "verified": false,
       "keywords": [
-        "HK",
-        "宏观",
-        "macro"
+        "HKEX",
+        "National Day",
+        "new listings",
+        "IPO",
+        "Robotech",
+        "Benmo Technology",
+        "Jingwang Electronics",
+        "Tongcheng"
       ],
       "translated": false,
-      "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260917-3/",
-      "published_date": "2026-09-17",
-      "still_developing": true,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": false
-    },
-    {
-      "id": "6c24496d7b99acea",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "2026-09-20T08:04:00Z",
-      "group": "个股/携程",
-      "title": "China hits Trip.com with US$765 million antitrust penalty after six-month investigation",
-      "summary": "Chinese regulators fined Trip.com Group (9961.HK / TCOM) US$765 million (approximately RMB 5.2 billion) following a six-month antitrust investigation. The penalty caused the company to report a net loss of RMB 2.4 billion in Q2 2026, despite revenue growing 6% year-over-year to RMB 15.7 billion.",
-      "why": "监管罚款直接导致Q2净亏损RMB 24亿，对TCOM/9961.HK估值构成重大冲击；需评估罚款是否一次性计入。罚款落地后监管尾险基本出清，但市场短期情绪仍偏谨慎；持有携程相关期权时需关注IV及下行保护行权价，medium-term基本面仍由OTA出行复苏支撑。",
-      "source": "South China Morning Post",
-      "verified": true,
-      "keywords": [
-        "携程",
-        "Trip.com",
-        "Ctrip",
-        "9961.HK",
-        "TCOM",
-        "出境游",
-        "OTA"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/tech/policy/article/3361818/china-hits-tripcom-us765-million-antitrust-penalty-after-six-month-investigation",
-      "published_date": "2026-09-16",
-      "still_developing": true,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": false
-    },
-    {
-      "id": "628afc5a034c9e99",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "A",
-        "US"
-      ],
-      "time": "2026-09-19T12:00:00+08:00",
-      "group": "macro",
-      "title": "特朗普-习近平9月24日白宫峰会：AI芯片管制、贸易休战是核心议题",
-      "summary": "习近平拟9月24日到访白宫，为十年来首次国事访问。双方预计讨论延续现行贸易休战（美国对中国关税豁免+中国稀土采购），以及AI高端芯片出口管制、台湾、稀土、波音订单等议题。贝森特（美国财长）与何立峰（中国国务院副总理）已在纽约预先会晤。高盛调查显示46%离岸投资者预期峰会后中国股市上涨。",
-      "why": "峰会是本周A股/港股最大催化剂：若贸易休战延续+芯片管控不再收紧，消费科技板块（腾讯、阿里、美团、泡泡玛特等）可能受益；反之则压制估值；Sell put 仓位需在峰会前评估 Delta 风险。",
-      "source": "South China Morning Post",
-      "verified": true,
-      "keywords": [
-        "特朗普",
-        "习近平",
-        "峰会",
-        "贸易",
-        "AI芯片",
-        "宏观"
-      ],
-      "translated": true,
-      "url": "https://www.scmp.com/business/china-business/article/3367417/handshake-or-arm-wrestling-match-what-chinas-stock-traders-expect-xi-trump-meeting",
-      "published_date": "2026-09-19",
-      "still_developing": true,
+      "url": "https://news.futunn.com/en/post/1000246994/hk-market-weekly-preview-hk-stock-exchange-closed-for-one",
+      "published_date": "2026-09-28",
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": false
+      "first_seen": "2026-09-28",
+      "is_new": true
     },
     {
       "id": "2bac25347c1a8c6a",
@@ -1361,6 +1162,157 @@
       "is_new": false
     },
     {
+      "id": "899fa62b79426957",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "美联储“鹰风”席卷，10月加息概率升至约七成",
+      "summary": "多位美联储官员密集释放鹰派信号，叠加9月制造业PMI超预期，市场据CME FedWatch数据（截至2026-09-24）将美联储10月27-28日FOMC会议加息概率定价至约73%。高盛研报亦预计10月将再加25bp，并称其“可能是本轮周期终曲”，关键取决于即将公布的PCE与非农数据。",
+      "why": "若10月落地加息，无风险利率进一步抬升将压制所有风险资产估值；持有sell put组合须警惕期权隐含波动率同步上移；美联储主席Kevin Warsh（沃什）自上任以来维持鹰派立场，与市场预期高度一致。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "加息",
+        "FOMC",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260926/herald/0dd1d436dba5bee1f0aaa99fa53a27fb.html",
+      "published_date": "2026-09-26",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "c92a997fd6efd091",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "U.S. September Manufacturing PMI Hits 57.0 — Highest in 52 Months, Smashing 53.5 Forecast",
+      "summary": "S&P Global's flash US Manufacturing PMI surged to 57.0 in September 2026 from 53.9 in August, well above the consensus forecast of 53.5, marking the strongest business conditions improvement since May 2022. All five sub-indices contributed; production growth was its fastest since April 2022 and new orders hit their best pace in 4.5 years.",
+      "why": "超预期PMI强化了市场对美联储10月再度加息的押注，直接推高了美债收益率和美元，对持仓中的科技/消费科技股构成估值压力；同时也暗示终端消费需求仍强劲，对消费类标的（如好市多、美团）可能形成支撑。",
+      "source": "S&P Global PMI",
+      "verified": true,
+      "keywords": [
+        "PMI",
+        "制造业",
+        "美联储",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/bfb270a44c2b4490a0f1adb76b8e8f9f",
+      "published_date": "2026-09-23",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "87a2a2aa7391d676",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "油价涨、美债跌：美联储10月加息预期升温，美债10年期收益率重返5%上方",
+      "summary": "受油价持续高位（Brent约104美元/桶）叠加美联储鹰派信号影响，美国10年期国债收益率重返5%上方，创近期高位；美元指数升至8周新高。美银警告：若MOVE指数站上125同时全球金融ETF（IXG）跌破125美元，将触发避险去杠杆，引发美股恐慌抛售。",
+      "why": "10年期美债收益率超5%对持仓内高估值科技股（英伟达、谷歌、阿里）估值折现影响显著；同时高油价推高能源通胀，可能拖延美联储降息周期；霍尔木兹海峡谈判仍是全球通胀预期的核心地缘变量，值得持续追踪。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "美债",
+        "利率",
+        "油价",
+        "霍尔木兹",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-09-24/doc-iniswezr5093060.shtml",
+      "published_date": "2026-09-24",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "50764442d7266b2a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "Alibaba Unveils Zhenwu V900 AI Chip, Launches Wan3.0 Video Model; CEO Eddie Wu Commits 380B Yuan to Full-Stack AI",
+      "summary": "At a major strategy event on September 22, Alibaba CEO Eddie Wu unveiled the company's self-developed Zhenwu V900 AI chip (entering mass production) and launched the Wan3.0 AI video model already in commercial use in film, advertising and tourism. Alibaba committed 380 billion yuan over three years to full-stack AI, following the August HK$80B follow-on share placement earmarked for AI infrastructure.",
+      "why": "中国大厂首发全栈自研AI芯片，直接减少英伟达依赖，同时Wan3.0商用化确认AI变现路径；对阿里云估值重估逻辑有重大推动，但巨额资本开支短期稀释回报；持有BABA的sell put需关注配股摊薄完成后的股价锚定区间。",
+      "source": "财新英文",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "BABA",
+        "9988.HK",
+        "AI芯片",
+        "Wan3.0",
+        "阿里云"
+      ],
+      "translated": false,
+      "url": "https://www.caixinglobal.com/2026-09-22/alibaba-unveils-new-ai-chip-as-it-deepens-ai-infrastructure-push-102487686.html",
+      "published_date": "2026-09-22",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
+      "id": "dd7ae1c7ec48777a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "Micron (MU) Q4 FY2026 Earnings Due September 30 After Close; Consensus ~$51.2B Revenue, ~$31.56 EPS; Options Price ~10% Move",
+      "summary": "Micron Technology reports Q4 FY2026 results on Wednesday September 30 after market close, with the earnings call at 4:30 PM ET. Analyst consensus projects revenue of approximately $51.2B (up roughly 352% YoY) and non-GAAP EPS of approximately $31.56. MU stock has gained approximately 16% in the past month. Options are pricing approximately a 10% move around the report.",
+      "why": "对持有MU sell put组合而言，本轮财报是最大单一事件风险：若实际营收/EPS超预期（普遍预期极高），隐含波动率将在财报后大幅压缩（IV crush）；若未达预期则面临Gap down风险；建议在财报前确认Delta暴露与行权价距离。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "美光",
+        "Micron",
+        "MU",
+        "HBM",
+        "财报",
+        "DRAM"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1000196890/earnings-preview-mu-to-report-financial-results-post-market-on",
+      "published_date": "2026-09-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-27",
+      "is_new": false
+    },
+    {
       "id": "f042eb8620f77f01",
       "tier": 1,
       "lang": "zh",
@@ -1454,185 +1406,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-27",
-      "is_new": false
-    },
-    {
-      "id": "298edfacbfa10b0b",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "18:35",
-      "group": "大盘头条",
-      "title": "9·24行情即将两周年！下周迎重磅事件，A股怎么走？",
-      "summary": "下周A股迎来9·24行情两周年，叠加中秋/国庆跨长假风险、三季末机构考核约束及习特会预期。分析人士预计市场延续震荡与板块轮动，科技成长+红利防御双主线延续。",
-      "why": "节前流动性收缩+机构调仓压力，Sell Put行权价宜保守；若习特会积极信号落地，科技消费赛道短期反弹机会值得关注。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "9.24行情",
-        "国庆",
-        "中秋",
-        "习特会",
-        "市场展望"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-20/doc-inismvph6825113.shtml",
-      "published_date": "2026-09-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": false
-    },
-    {
-      "id": "1df7e6c9310c9d25",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "18:35",
-      "group": "个股",
-      "title": "NHTSA Opens Investigation into Tesla Cybercab Self-Certification Following Austin Deployment",
-      "summary": "NHTSA on September 16 ordered Tesla to answer 21 detailed questions by September 30 on how it self-certified its Cybercab as compliant with federal safety standards. The probe (AQ26002) covers approximately 1,000 Cybercab vehicles; the Cybercab lacks steering wheel, pedals, and mirrors. Non-compliance risks up to 39 million in civil penalties.",
-      "why": "Robotaxi商业化遭重大监管阻力，9月30日为关键节点；若Tesla无法满足NHTSA要求，TSLA股价波动率上升，Sell Put行权价需保守设置。",
-      "source": "NHTSA.gov",
-      "verified": true,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Cybercab",
-        "NHTSA",
-        "Robotaxi"
-      ],
-      "translated": false,
-      "url": "https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification",
-      "published_date": "2026-09-16",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": false
-    },
-    {
-      "id": "9f166249e24f0d05",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-09-20T08:01:00Z",
-      "group": "大盘/港股",
-      "title": "港股恒生指数9月17日收跌0.73%至24,533点，美联储鹰派加息压制估值",
-      "summary": "9月17日港股恒生指数下跌0.73%，收报24,533.57点。美联储加息25个基点至4.50%-4.75%并维持鹰派表态，引发市场对流动性收紧的忧虑，科技及消费板块均有不同程度下跌。",
-      "why": "持仓港股（腾讯0700、美团3690、小米1810、阿里9988等）均受到指数拖累；加息环境下sell put需考量标的向下破位风险，谨慎管理行权价，尤其近月合约。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "HK",
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260917/herald/04c7b2e6f8b2f969825334aa143f319e.html",
-      "published_date": "2026-09-17",
-      "still_developing": true,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": false
-    },
-    {
-      "id": "dce5de61e541759f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "2026-09-20T08:02:00Z",
-      "group": "大盘/A股",
-      "title": "A股9月18日科技半导体领涨，沪指涨0.94%至3911.87，创业板涨2.25%，成交额逾2万亿元",
-      "summary": "9月18日A股市场大幅反弹，上证综指上涨0.94%至3,911.87点，创业板指大涨2.25%。半导体、AI、科技板块领涨，全市场成交额超2万亿元，资金情绪明显好转。",
-      "why": "A股科技板块强劲反弹，与加息利空消化后资金轮动入场的叙事一致；半导体赛道（SK海力士相关联动、国内存储链）值得持续跟踪；成交额逾2万亿显示市场活跃度高，存在进一步估值修复空间。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A",
-        "科技",
-        "technology",
-        "semiconductor",
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/headline/2026-09-18/doc-inisfiif3497298.shtml",
-      "published_date": "2026-09-18",
-      "still_developing": false,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": false
-    },
-    {
-      "id": "f04afc77d546af3a",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "2026-09-20T08:03:00Z",
-      "group": "大盘/港股",
-      "title": "港股恒生指数9月18日收涨0.60%至24,750.78点，消化加息利空后技术性反弹",
-      "summary": "9月18日港股恒指回升0.60%至24,750.78点，科技股领涨，市场在消化美联储鹰派加息信号后出现技术性反弹。三季报业绩期临近，资金开始布局低估值优质标的。",
-      "why": "港股短线消化加息冲击，持仓腾讯0700、美团3690、小米1810等有望受益于估值修复；指数从24,533回暖至24,750为卖出更低行权价put提供缓冲，可适当下移行权价提升权利金收益。",
-      "source": "智通财经/富途牛牛",
-      "verified": true,
-      "keywords": [
-        "HK",
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/post/79430535/zhitong-hk-stock-investment-log-september-18",
-      "published_date": "2026-09-18",
-      "still_developing": false,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
-      "is_new": false
-    },
-    {
-      "id": "530e73cf86133ac3",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "A",
-        "US"
-      ],
-      "time": "2026-09-18T14:00:00+08:00",
-      "group": "macro",
-      "title": "Yuan Surges Past 6.7 per Dollar to Three-Year High",
-      "summary": "The Chinese yuan surpassed 6.7 per dollar on September 18, hitting its strongest level in approximately three years, as the People's Bank of China strengthened its daily fixing for an eighth straight session. The advance is seen as a goodwill signal ahead of the September 24 Trump-Xi summit in Washington.",
-      "why": "人民币升值是峰会前中国释放善意的信号；人民币强势有助于提振港股的外资信心，亦令以美元计价的中资ADR（阿里、拼多多等）受惠；汇率走强同时可能压缩以出口为主的制造类标的。",
-      "source": "财新 Caixin",
-      "verified": true,
-      "keywords": [
-        "人民币",
-        "汇率",
-        "央行",
-        "宏观",
-        "峰会"
-      ],
-      "translated": false,
-      "url": "https://www.caixinglobal.com/2026-09-18/yuan-surges-past-67-per-dollar-to-three-year-high-102486356.html",
-      "published_date": "2026-09-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-20",
       "is_new": false
     },
     {
@@ -3078,6 +2851,36 @@
       "cross_ref": "https://seekingalpha.com/news/4645218-tencent-unveils-ai-image-model-to-narrow-gap-with-bytedance-alibaba-shares-rise",
       "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-09-26",
+      "is_new": false
+    },
+    {
+      "id": "2df07fc99b0712c9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "下周外盘看点：美国8月PCE与9月非农数据将决定美联储10月走向",
+      "summary": "本周美联储官员密集发鹰后，下周美国8月PCE通胀数据（9月30日）和9月非农就业报告（10月3日）将成为市场决定美联储10月是否加息的关键。此外，美光科技Q4财报将于9月30日盘后公布，市场预期营收约51.2B美元。",
+      "why": "PCE若高于预期，加息概率将进一步升至接近100%，对波动率定价影响直接；同时美光财报亦将在同一天公布（见个股），可能带来额外波动，持有美光的sell put组合须准备应对单日10%以上的标的波动。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "PCE",
+        "非农",
+        "美联储",
+        "美光",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfxsk0269539.shtml",
+      "published_date": "2026-09-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-27",
       "is_new": false
     },
     {
