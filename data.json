@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-09-30 08:37 (北京时间)",
+  "updated_at": "2026-09-30 13:35 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,14 +9,14 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-09-30 08:37 (北京时间)",
-    "new_count": 5,
+    "at": "2026-09-30 13:35 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "242c8027a3c3a3f7",
+      "id": "d0eb3e834a8ecd3a",
       "tier": 1,
       "lang": "zh",
       "markets": [
@@ -24,22 +24,26 @@
         "HK",
         "A"
       ],
-      "time": "03:00",
+      "time": "2026-09-30T08:00:00+08:00",
       "group": "大盘头条",
-      "title": "美10年期国债收益率突破5.27%，创2007年以来新高",
-      "summary": "9月29日，美国10年期国债收益率一度触及5.27%，刷新2007年6月以来最高纪录，连续五个交易日上行。美伊冲突推升能源价格、通胀预期抬头与美联储继续鹰派的预期共同驱动收益率上行。当日纳斯达克综指跌约0.9%，标普500跌0.8%，科技成长股承压明显。",
-      "why": "美债收益率创近二十年新高直接压制成长股估值；持仓腾讯/阿里/小米/英伟达/美光等高P/E标的隐含波动率可能上升，sell put 行权价与收权时机需重新审视",
-      "source": "21世纪经济报道",
+      "title": "纽约联储主席威廉姆斯：不急于行动，10月加息市场概率从约70%骤降至50%",
+      "summary": "纽约联储主席约翰·威廉姆斯2026年9月29日发表讲话，表示无需急于进一步加息，政策应保持数据依赖。受此影响，CME FedWatch显示市场对10月FOMC会议加息25bp的隐含概率从9月28日约70%骤降至约50%。威廉姆斯是FOMC副主席，其立场对下次会议利率路径有重要参考意义。",
+      "why": "10月加息预期骤然降温直接利好风险资产：港股、美股估值压力缓解，组合sell put策略的到期压力降低；在新任Fed主席沃什（Kevin Warsh）偏鹰立场主基调下，FOMC副主席释放鸽派信号尤为值得关注，意味着加息周期可能接近尾声。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "美债收益率",
-        "宏观",
-        "macro",
-        "美股"
+        "美联储",
+        "加息",
+        "FOMC",
+        "纽约联储",
+        "威廉姆斯",
+        "利率",
+        "货币政策",
+        "CME FedWatch"
       ],
       "translated": false,
-      "url": "https://www.21jingji.com/article/20260929/herald/c61ec69f9800e14af4f66782f301bdb3.html",
-      "published_date": "2026-09-29",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initptrt5919661.html",
+      "published_date": "2026-09-30",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -47,31 +51,34 @@
       "is_new": true
     },
     {
-      "id": "0ec957ec37858fb6",
-      "tier": 1,
+      "id": "fc4821dab1a9299d",
+      "tier": 2,
       "lang": "zh",
       "markets": [
-        "US",
-        "HK",
-        "A"
+        "US"
       ],
-      "time": "09:30",
+      "time": "2026-09-29T22:00:00+08:00",
       "group": "大盘头条",
-      "title": "美伊谈判再陷僵局：特朗普拒绝伊朗提议，布伦特原油盘中飙至$108/桶",
-      "summary": "9月28日，美国总统特朗普拒绝伊朗提出的停战换制裁方案，布伦特原油期货盘中急升至每桶约108美元；此前有传伊朗同意停止铀浓缩，油价曾短暂回落。谈判中间人表示伊朗代表无意在纽约联大期间直接与美方会面，供应缺口预期再度升温。",
-      "why": "油价高企强化美联储鹰派预期，利空高估值科技股及港股整体；能源通胀压力持续，关注持仓中消费/互联网板块宏观环境变化",
-      "source": "21世纪经济报道",
-      "verified": true,
+      "title": "美光今日盘后发布Q4财报：分析师预期EPS $31.61 / 营收$510亿，HBM需求是关键",
+      "summary": "美光(MU)将于北京时间2026年9月30日盘后公布Q4 FY2026财报。CNBC报道，分析师共识预期调整后EPS为31.61美元，营收约510亿美元。市场重点关注HBM（高带宽内存）需求走势、下季度指引及NAND市场展望，财报结果将验证或挑战'存储超级周期'叙事。",
+      "why": "美光(MU)和SK海力士（HBM供应链）均是持仓相关标的。财报预期与实际差异将影响整个HBM/DRAM概念股短期走势；下季度指引是判断存储周期是否已进入减速阶段的关键依据，直接影响后续期权策略行权价的选择。",
+      "source": "CNBC",
+      "verified": false,
       "keywords": [
-        "原油",
-        "美伊战争",
-        "宏观",
-        "通胀",
-        "macro"
+        "美光",
+        "MU",
+        "Micron",
+        "HBM",
+        "DRAM",
+        "NAND",
+        "存储",
+        "季报",
+        "财报",
+        "SK海力士"
       ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260928/herald/33ab4db184079e91ec14f801f8262303.html",
-      "published_date": "2026-09-28",
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/09/29/micron-earnings-this-week-could-test-whether-the-memory-boom-has-more-room-to-run.html",
+      "published_date": "2026-09-29",
       "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -79,94 +86,35 @@
       "is_new": true
     },
     {
-      "id": "b553bc1677305e4d",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "双节休市安排：A股10月1-7日休8天，港股仅10月1日（周四）休1天",
-      "summary": "沪深交易所10月1日（周四）至7日（周三）休市，10月8日（周四）恢复，共休8个交易日。香港交易所仅10月1日（国庆日，周四）休市，10月2日（周五）照常交易。港股通在A股休市期间（10月1-7日）暂停。美股、日韩股市正常开放。",
-      "why": "A股8天长假期间，若海外市场（美股/日元/油价）大幅波动，A股无法及时对冲；港股仅休1天，10月2日起可反映假期海外因素；建议在9月30日今日A股最后交易日前梳理仓位风险",
-      "source": "财联社",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "A股",
-        "国庆节",
-        "休市"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/2156155",
-      "published_date": "2026-09-28",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-30",
-      "is_new": true
-    },
-    {
-      "id": "ff5e23fe602334f8",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "中国9月官方制造业PMI今日公布，分析师预测50.1，料重返扩张区间",
-      "summary": "国家统计局于9月30日（今日）早9:30公布9月采购经理人指数（PMI），彭博调查经济学家预测中位数为50.1（8月值49.8），若实现则标志制造业活动结束连续两月收缩重返扩张区间。同日还将发布非制造业PMI与综合PMI。因10月1日起A股休市8天，数据将在最后一个A股交易日发布。",
-      "why": "若PMI重返50以上，对港股/A股消费与互联网板块构成短线提振；数据发布窗口处于A股最后一个交易日，市场情绪反应可能放大；关注腾讯/阿里/美团等内需驱动标的的短期反应",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "PMI",
-        "制造业",
-        "中国经济",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260928/herald/aa5aef75269da7a24ea2382e4d480b89.html",
-      "published_date": "2026-09-28",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-30",
-      "is_new": true
-    },
-    {
-      "id": "5bdefceabc99f463",
+      "id": "9dd4d5bbd94174c1",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "17:00",
+      "time": "2026-09-30T00:00:00+08:00",
       "group": "个股",
-      "title": "谷歌就欧盟DMA命令提起上诉，反对被迫向竞品AI开放Android及共享搜索数据",
-      "summary": "9月29日，谷歌母公司Alphabet向欧盟普通法院提起上诉，挑战欧盟委员会依据数字市场法案于7月发出的两项命令：一是要求2027年7月前开放Android 11项功能供竞品AI接入；二是要求2027年1月起向竞争性搜索引擎分享匿名化搜索点击数据。谷歌以损害用户隐私和安全为由提出抗议，违规罚款上限为全球年营收的10%。",
-      "why": "上诉期间执行压力有限，但监管不确定性持续压制GOOGL估值；若最终被迫开放，谷歌搜索垄断护城河受冲击，影响中长期持仓逻辑",
-      "source": "Bloomberg",
-      "verified": false,
+      "title": "特斯拉官方IR发布Q3交付量共识预期：461,974辆，较Q3 2025历史高点降约7%",
+      "summary": "特斯拉官方投资者关系页面公布公司汇编的Q3 2026交付量分析师共识：24位分析师预期均值461,974辆（中位数463,406辆，标准差约4.9%）。若按此实现，将较Q2 480,126辆降约3.8%，较Q3 2025记录497,099辆降约7%。储能共识预期15.9 GWh，或创历史新高。特斯拉交付数据预计于10月初公布。",
+      "why": "特斯拉(TSLA)是组合美股标的。官方IR共识预期提供正式量化锚点：实际交付若超共识将刺激股价大幅上涨（可能触发covered call），若低于则面临下行压力（影响sell put安全边际）。10月初交付报告将影响节后及美股期权走势。",
+      "source": "特斯拉投资者关系",
+      "verified": true,
       "keywords": [
-        "谷歌",
-        "GOOGL",
-        "欧盟",
-        "DMA",
-        "Gemini",
-        "Android"
+        "特斯拉",
+        "TSLA",
+        "Tesla",
+        "交付量",
+        "Q3",
+        "季报",
+        "FSD",
+        "Optimus"
       ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots",
+      "translated": true,
+      "url": "https://ir.tesla.com/press-release/delivery-consensus-third-quarter-2026",
       "published_date": "2026-09-29",
-      "still_developing": false,
+      "still_developing": true,
       "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-30",
       "is_new": true
     },
@@ -1523,6 +1471,69 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-29",
+      "is_new": false
+    },
+    {
+      "id": "242c8027a3c3a3f7",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "03:00",
+      "group": "大盘头条",
+      "title": "美10年期国债收益率突破5.27%，创2007年以来新高",
+      "summary": "9月29日，美国10年期国债收益率一度触及5.27%，刷新2007年6月以来最高纪录，连续五个交易日上行。美伊冲突推升能源价格、通胀预期抬头与美联储继续鹰派的预期共同驱动收益率上行。当日纳斯达克综指跌约0.9%，标普500跌0.8%，科技成长股承压明显。",
+      "why": "美债收益率创近二十年新高直接压制成长股估值；持仓腾讯/阿里/小米/英伟达/美光等高P/E标的隐含波动率可能上升，sell put 行权价与收权时机需重新审视",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "美债收益率",
+        "宏观",
+        "macro",
+        "美股"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260929/herald/c61ec69f9800e14af4f66782f301bdb3.html",
+      "published_date": "2026-09-29",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-30",
+      "is_new": false
+    },
+    {
+      "id": "0ec957ec37858fb6",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "美伊谈判再陷僵局：特朗普拒绝伊朗提议，布伦特原油盘中飙至$108/桶",
+      "summary": "9月28日，美国总统特朗普拒绝伊朗提出的停战换制裁方案，布伦特原油期货盘中急升至每桶约108美元；此前有传伊朗同意停止铀浓缩，油价曾短暂回落。谈判中间人表示伊朗代表无意在纽约联大期间直接与美方会面，供应缺口预期再度升温。",
+      "why": "油价高企强化美联储鹰派预期，利空高估值科技股及港股整体；能源通胀压力持续，关注持仓中消费/互联网板块宏观环境变化",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "原油",
+        "美伊战争",
+        "宏观",
+        "通胀",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20260928/herald/33ab4db184079e91ec14f801f8262303.html",
+      "published_date": "2026-09-28",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-30",
       "is_new": false
     },
     {
@@ -3020,6 +3031,98 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-29",
+      "is_new": false
+    },
+    {
+      "id": "b553bc1677305e4d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "双节休市安排：A股10月1-7日休8天，港股仅10月1日（周四）休1天",
+      "summary": "沪深交易所10月1日（周四）至7日（周三）休市，10月8日（周四）恢复，共休8个交易日。香港交易所仅10月1日（国庆日，周四）休市，10月2日（周五）照常交易。港股通在A股休市期间（10月1-7日）暂停。美股、日韩股市正常开放。",
+      "why": "A股8天长假期间，若海外市场（美股/日元/油价）大幅波动，A股无法及时对冲；港股仅休1天，10月2日起可反映假期海外因素；建议在9月30日今日A股最后交易日前梳理仓位风险",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "A股",
+        "国庆节",
+        "休市"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2156155",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-30",
+      "is_new": false
+    },
+    {
+      "id": "ff5e23fe602334f8",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "中国9月官方制造业PMI今日公布，分析师预测50.1，料重返扩张区间",
+      "summary": "国家统计局于9月30日（今日）早9:30公布9月采购经理人指数（PMI），彭博调查经济学家预测中位数为50.1（8月值49.8），若实现则标志制造业活动结束连续两月收缩重返扩张区间。同日还将发布非制造业PMI与综合PMI。因10月1日起A股休市8天，数据将在最后一个A股交易日发布。",
+      "why": "若PMI重返50以上，对港股/A股消费与互联网板块构成短线提振；数据发布窗口处于A股最后一个交易日，市场情绪反应可能放大；关注腾讯/阿里/美团等内需驱动标的的短期反应",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "PMI",
+        "制造业",
+        "中国经济",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20260928/herald/aa5aef75269da7a24ea2382e4d480b89.html",
+      "published_date": "2026-09-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-09-30",
+      "is_new": false
+    },
+    {
+      "id": "5bdefceabc99f463",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "17:00",
+      "group": "个股",
+      "title": "谷歌就欧盟DMA命令提起上诉，反对被迫向竞品AI开放Android及共享搜索数据",
+      "summary": "9月29日，谷歌母公司Alphabet向欧盟普通法院提起上诉，挑战欧盟委员会依据数字市场法案于7月发出的两项命令：一是要求2027年7月前开放Android 11项功能供竞品AI接入；二是要求2027年1月起向竞争性搜索引擎分享匿名化搜索点击数据。谷歌以损害用户隐私和安全为由提出抗议，违规罚款上限为全球年营收的10%。",
+      "why": "上诉期间执行压力有限，但监管不确定性持续压制GOOGL估值；若最终被迫开放，谷歌搜索垄断护城河受冲击，影响中长期持仓逻辑",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "谷歌",
+        "GOOGL",
+        "欧盟",
+        "DMA",
+        "Gemini",
+        "Android"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots",
+      "published_date": "2026-09-29",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-09-30",
       "is_new": false
     },
     {
