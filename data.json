@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-01 13:40 (北京时间)",
+  "updated_at": "2026-10-01 18:35 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,36 +9,35 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-01 13:40 (北京时间)",
-    "new_count": 3,
+    "at": "2026-10-01 18:35 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "3a80131b9833d296",
+      "id": "955500096ca1ee95",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "20:30",
+      "time": "21:42",
       "group": "大盘头条",
-      "title": "美国8月核心PCE通胀3.0%，大幅低于预期3.3%；美联储10月加息预期降温",
-      "summary": "美国8月核心PCE物价指数同比+3.0%（市场预期+3.3%）、环比+0.2%；整体PCE同比+3.4%（预期+3.7%），通胀读数双双低于预期。市场随即降低对美联储10月加息的定价。标普500指数9月累计下跌，录得6月以来最差单月表现。",
-      "why": "PCE是美联储最看重的通胀指标。本次读数明显低于预期，为10月按兵不动提供依据。标普9月月跌叠加长端利率高企，对美股及港股科技板块风险偏好有直接影响。",
-      "source": "CNBC",
+      "title": "美国8月PCE核心通胀低于预期，美联储10月加息押注大幅降温",
+      "summary": "美国8月核心PCE环比涨0.2%（预期0.3%），同比3.0%（预期3.3%）；整体PCE同比3.4%亦低于预期。数据公布后CME FedWatch显示10月加息概率降至约35%，美股期货拉升。",
+      "why": "核心通胀持续回落意味着美联储加息节奏放缓，直接影响risk-on/off切换；10月加息概率下降利好科技板块估值及港股，也降低持仓中sell-put被行权的尾风险。",
+      "source": "21世纪经济报道",
       "verified": true,
       "keywords": [
-        "宏观",
+        "美联储",
         "PCE",
         "通胀",
-        "美联储",
         "加息",
-        "标普500"
+        "宏观"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "url": "https://www.21jingji.com/article/20260930/herald/6fc97baef20176de617e36f7bc2a713c.html",
       "published_date": "2026-09-30",
       "still_developing": false,
       "cross_ref": "",
@@ -47,28 +46,28 @@
       "is_new": true
     },
     {
-      "id": "5d9442b84864bb0b",
+      "id": "8b6e70b712c3d581",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "小米汽车9月交付再创新高超4万台，澎程系列首月交付破万",
-      "summary": "小米汽车2026年9月交付量超40,000台，再创月度新高。澎程系列上市首月交付量即突破10,000台，产品上量速度超出市场预期。",
-      "why": "小米汽车（1810.HK）交付持续创新高，澎程系列作为增程+纯电新产品线首月即破万，有望驱动下半年交付增速超预期，对公司汽车业务估值重估有正向催化。",
-      "source": "新浪科技",
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "多位美联储官员鹰派发声；高盛将加息预期推迟至12月",
+      "summary": "明尼阿波利斯联储主席卡什卡利表示预计今年还将再加息一次；美联储理事库克强调通胀已持续过高太久。但高盛随后发报，将美联储下次加息预期从10月推迟至12月，并称不排除最终无需进一步加息。",
+      "why": "官员鹰鸽分歧加剧短期市场不确定性，隐含波动率走高利于持续收取期权权利金；若高盛预测准确，Q4市场压力边际缓解，关注现有sell-put持仓的delta变化。",
+      "source": "21世纪经济报道",
       "verified": true,
       "keywords": [
-        "小米",
-        "Xiaomi",
-        "小米汽车",
-        "澎程系列",
-        "交付量"
+        "美联储",
+        "加息",
+        "高盛",
+        "利率",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-initspnm1463197.shtml",
+      "url": "https://21jingji.com/article/20261001/herald/e8824ddf0cf8e89ebbfd72aab49f1138.html",
       "published_date": "2026-10-01",
       "still_developing": false,
       "cross_ref": "",
@@ -77,31 +76,90 @@
       "is_new": true
     },
     {
-      "id": "7f9c738b446643d1",
+      "id": "84345ec8158f0269",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "美股9月30日：道指跌0.86%，纳指涨0.24%，标普500录得年内最差单月",
+      "summary": "道指收于50906.05点（-443.87点，-0.86%），标普500收于7651.54点（-0.25%），纳斯达克综合指数收于26861.06点（+0.24%）。PCE温和令纳指技术股小幅回暖，但道指及标普9月整体偏弱。",
+      "why": "三大股指月末分化走势体现资金向科技板块集中；9月整体偏弱、波动率偏高，有利于sell put持续收取权利金；纳指强于道指，进一步确认AI/科技持仓的相对强势。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "美股",
+        "道指",
+        "纳指",
+        "标普500",
+        "月度收盘"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261001/herald/77cb5c2a7b2b35657272dc9a22f378e5.html",
+      "published_date": "2026-10-01",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-01",
+      "is_new": true
+    },
+    {
+      "id": "900884acc1a7963c",
       "tier": 2,
       "lang": "en",
       "markets": [
-        "HK",
         "US"
       ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "SK海力士联合台积电完成HBM5验证，蝉联TSMC OIP年度合作伙伴奖",
-      "summary": "SK海力士与台积电在TSMC开放创新平台（OIP）峰会宣布完成HBM5与台积电CoWoS先进封装技术的联合验证，并荣获TSMC OIP年度合作伙伴奖（3DFabric-HBM集成类），为连续第二年获此殊荣。",
-      "why": "HBM5完成与台积电联合验证为下一代AI加速器（2027+）铺路，进一步巩固SK海力士在高端AI存储赛道的领先地位；同期HBM4已进入英伟达Vera Rubin超级芯片，两代HBM供应链事件同步发酵，市场对供应链意义的消化仍在持续（公告发布于9月28日，3日内仍在发酵）。",
-      "source": "SK Hynix Newsroom",
+      "time": "20:00",
+      "group": "大盘头条",
+      "title": "Google releases Gemini 4 Argon, its most powerful AI model yet, focused on government and cybersecurity",
+      "summary": "Alphabet launched Gemini 4 Argon on September 30, initially available to US government and cybersecurity partners via the Fairwind Program. Supports outputs up to 1 million tokens, priced at $2/$10 per million input/output tokens. Internal concerns about coding performance were reported alongside the launch.",
+      "why": "谷歌(GOOGL)是持仓标的；Gemini 4 Argon强化政务安全赛道，有助于重估谷歌云AI收入增长预期；但内部对编程性能存疑，需观察后续企业客户采纳率以判断估值催化剂的可持续性。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "HBM5",
-        "HBM",
-        "台积电",
-        "TSMC",
-        "AI芯片"
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "Gemini",
+        "AI",
+        "GOOGL"
       ],
       "translated": false,
-      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026/",
+      "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+      "published_date": "2026-09-30",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-01",
+      "is_new": true
+    },
+    {
+      "id": "57639cfc3975b4d0",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "海通国际将老铺黄金(06181)目标价下调21%至HK$435，H2终端需求放缓，估值从14倍降至10倍市盈率",
+      "summary": "海通国际下调老铺黄金目标价至HK$435（前值HK$553），维持'优于大市'。理由为Q2以来终端需求放缓，高基数叠加消费环境偏弱，Q4同比增速料阶段性承压。公司H1收入198亿元（+60%），净利润42.67亿元（+88%）。",
+      "why": "延续报道：9月28日研报发出后股价持续承压，六连跌。老铺黄金(6181.HK)持仓相关；目标价大幅下调叠加金价高位震荡，sell put行权价需留足安全边际，短期回避激进的covered call；关注Q3销售数据以判断需求是否企稳。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "老铺黄金",
+        "Laopu Gold",
+        "6181.HK",
+        "目标价",
+        "黄金",
+        "海通国际"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/1000262102/major-brokerage-haitong-international-cuts-laopu-gold-06181-hk-target",
       "published_date": "2026-09-28",
       "still_developing": true,
       "cross_ref": "",
@@ -1520,6 +1578,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-09-30",
+      "is_new": false
+    },
+    {
+      "id": "3a80131b9833d296",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "20:30",
+      "group": "大盘头条",
+      "title": "美国8月核心PCE通胀3.0%，大幅低于预期3.3%；美联储10月加息预期降温",
+      "summary": "美国8月核心PCE物价指数同比+3.0%（市场预期+3.3%）、环比+0.2%；整体PCE同比+3.4%（预期+3.7%），通胀读数双双低于预期。市场随即降低对美联储10月加息的定价。标普500指数9月累计下跌，录得6月以来最差单月表现。",
+      "why": "PCE是美联储最看重的通胀指标。本次读数明显低于预期，为10月按兵不动提供依据。标普9月月跌叠加长端利率高企，对美股及港股科技板块风险偏好有直接影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "PCE",
+        "通胀",
+        "美联储",
+        "加息",
+        "标普500"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "published_date": "2026-09-30",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-01",
       "is_new": false
     },
     {
@@ -3103,6 +3192,69 @@
       "cross_ref": "",
       "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
       "first_seen": "2026-09-30",
+      "is_new": false
+    },
+    {
+      "id": "5d9442b84864bb0b",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "小米汽车9月交付再创新高超4万台，澎程系列首月交付破万",
+      "summary": "小米汽车2026年9月交付量超40,000台，再创月度新高。澎程系列上市首月交付量即突破10,000台，产品上量速度超出市场预期。",
+      "why": "小米汽车（1810.HK）交付持续创新高，澎程系列作为增程+纯电新产品线首月即破万，有望驱动下半年交付增速超预期，对公司汽车业务估值重估有正向催化。",
+      "source": "新浪科技",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "小米汽车",
+        "澎程系列",
+        "交付量"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-01/doc-initspnm1463197.shtml",
+      "published_date": "2026-10-01",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-01",
+      "is_new": false
+    },
+    {
+      "id": "7f9c738b446643d1",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "SK海力士联合台积电完成HBM5验证，蝉联TSMC OIP年度合作伙伴奖",
+      "summary": "SK海力士与台积电在TSMC开放创新平台（OIP）峰会宣布完成HBM5与台积电CoWoS先进封装技术的联合验证，并荣获TSMC OIP年度合作伙伴奖（3DFabric-HBM集成类），为连续第二年获此殊荣。",
+      "why": "HBM5完成与台积电联合验证为下一代AI加速器（2027+）铺路，进一步巩固SK海力士在高端AI存储赛道的领先地位；同期HBM4已进入英伟达Vera Rubin超级芯片，两代HBM供应链事件同步发酵，市场对供应链意义的消化仍在持续（公告发布于9月28日，3日内仍在发酵）。",
+      "source": "SK Hynix Newsroom",
+      "verified": true,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM5",
+        "HBM",
+        "台积电",
+        "TSMC",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026/",
+      "published_date": "2026-09-28",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-01",
       "is_new": false
     },
     {
