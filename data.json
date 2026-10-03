@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-03 08:28 (北京时间)",
+  "updated_at": "2026-10-03 13:33 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,77 +9,14 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-03 08:28 (北京时间)",
+    "at": "2026-10-03 13:33 (北京时间)",
     "new_count": 6,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "d73da80353d6bcdb",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes in November",
-      "summary": "The U.S. is deploying a third carrier strike group (USS Theodore Roosevelt) plus an amphibious force with 2,000 Marines to the Middle East. Trump has reportedly told aides he expects to resume bombing Iran after the November midterm elections, with the full buildup complete by November.",
-      "why": "中东军事升级：美国派遣第三艘航母及两千名海军陆战队，特朗普明确暗示11月选后恢复轰炸伊朗——这是在10月1日「航母出发→油价+4%」基础上的实质新进展，显著拉升地缘风险溢价，持续推高油价与通胀预期，压制全球风险偏好；对持有港股及美股标的的 sell put 需提高行权价保护。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "中东",
-        "美联储",
-        "宏观",
-        "地缘政治",
-        "油价",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html",
-      "published_date": "2026-10-02",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-03",
-      "is_new": true
-    },
-    {
-      "id": "0f52185fa3521a2c",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "G7 to release 100 million barrels of oil and diesel as Middle East disruptions keep fuel prices high",
-      "summary": "G7 nations agreed to release up to 100 million barrels of oil and diesel reserves through the IEA over four months, with a frontloaded 'substantial' diesel release within 20 days. Diesel futures fell 4.3% on the news; Brent crude settled around $102/bbl and WTI around $91/bbl.",
-      "why": "G7协调释放战略储备是对近期油价飙升的直接干预（中东冲突致霍尔木兹海峡受阻），短期压低柴油价格利好航运/运输成本；但中东局势未解、基本面供给缺口仍在，油价中期仍居高。航空、消费品等持仓受油价影响较大，期权策略需关注原油价格波动率。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "油价",
-        "宏观",
-        "macro",
-        "G7",
-        "energy"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-      "published_date": "2026-10-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-03",
-      "is_new": true
-    },
-    {
-      "id": "ad2f251cd9ddacc4",
+      "id": "0bb637031bdeb44f",
       "tier": 1,
       "lang": "zh",
       "markets": [
@@ -87,19 +24,20 @@
       ],
       "time": "16:30",
       "group": "大盘头条",
-      "title": "港股10月开门全线下挫，恒指失守24000点跌2.6%，科技、金融股领跌",
-      "summary": "10月2日港股首个交易日，恒生指数跌2.6%至约23,964点，恒生科技指数跌2.26%，国企指数跌2.31%。拖累因素：港股通（南向资金）因国庆黄金周休市缺席；中东局势趋紧打压航空股；博彩股因澳门9月收入低于预期下挫。",
-      "why": "港股通于10月1-7日黄金周期间休市，南向资金买盘缺失令大盘更易放大跌幅；当日恒指仅7只成分股上涨。持有港股科技/金融仓位的 sell put 应关注24000支撑位；国庆后10月7日恢复交易时南水是否回流是关键观察点。",
-      "source": "富途牛牛",
+      "title": "港股国庆后首日重挫，恒生指数跌2.6%创近6月最大单日跌幅，科网股全线下跌",
+      "summary": "10月2日港股恢复交易，恒生指数收报23972点，跌640点（跌幅2.6%），创3月以来最大单日跌幅；恒生科技指数跌2.26%。南向资金因内地国庆长假暂停，市场缺乏内资承接，美债收益率高企与美联储加息预期共同压制情绪，腾讯、美团、阿里均跌超2%，汇丰控股跌5.4%，友邦保险跌6%。",
+      "why": "港股大幅下跌叠加A股休市，反映外围宏观压力（高债息）对中国资产估值的冲击；sell put持仓须关注恒指支撑位，隐含波动率或短暂走高。",
+      "source": "21世纪经济报道",
       "verified": true,
       "keywords": [
         "恒生指数",
         "港股",
-        "宏观",
-        "HK"
+        "科技股",
+        "国庆假期",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/post/1000521324/hong-kong-stocks-close-oct-2-hang-seng-index-falls",
+      "url": "https://www.21jingji.com/article/20261002/herald/1b3a567ad423150149d99ef1c88bae4b.html",
       "published_date": "2026-10-02",
       "still_developing": false,
       "cross_ref": "",
@@ -108,28 +46,60 @@
       "is_new": true
     },
     {
-      "id": "8b16e374b59e49b9",
+      "id": "8bb3b606d4cef4fb",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "10:00",
+      "time": "18:00",
       "group": "大盘头条",
-      "title": "California tech CEO arrested over alleged $300M scheme to smuggle Nvidia AI servers to China",
-      "summary": "Greg Lui, owner of Earthmade Computer Inc., was arrested and faces charges of conspiracy, export-control violations, and money laundering for routing over $300M in Nvidia GPU servers to China via Malaysia and Singapore using false documents. Charges carry up to 20 years each on conspiracy counts.",
-      "why": "AI芯片出口管制执法显著升级——此为近期系列案件之一，标志着美国商务部/司法部对中国转口路径的审查已落地到具体逮捕行动。英伟达（NVDA）被要求解释是否错过红旗信号；合规成本上升、亚洲买家白名单收紧，或压制NVDA对华业务增量预期，并提升整体出口管制不确定性溢价。",
-      "source": "South China Morning Post",
+      "title": "10-year Treasury yield ticks higher to 5.28%, near 24-year high, despite softer jobs report",
+      "summary": "The benchmark 10-year US Treasury yield rose to approximately 5.28%, near its highest level since 2002, as the market digested elevated inflation concerns ahead of the October 28 Fed meeting. Yields had earlier surged to multi-year highs as surging fiscal deficits and strong economic expectations drove selling in government bonds; the September jobs miss provided only a brief respite.",
+      "why": "10Y收益率保持高位（超5.28%）是压制港股科网股和高估值美股的核心因素；收益率曲线变化对sell put策略的行权价选择和期权定价有直接影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美债",
+        "国债收益率",
+        "宏观",
+        "macro",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
+      "published_date": "2026-10-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-03",
+      "is_new": true
+    },
+    {
+      "id": "e13a11a1ce87fca2",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:30",
+      "group": "大盘头条",
+      "title": "Nvidia breaks to new all-time high above $236, market cap surpasses $5.7 trillion on AI demand and record $150B buyback",
+      "summary": "Nvidia stock broke to a new all-time high above $236 on October 2, surpassing its prior May peak of $236.54 intraday, and market cap exceeded $5.7 trillion. The move followed Nvidia's late September announcement of a $150 billion increase to its share repurchase program (record authorization increase in history), lifting total remaining buyback authority to $235 billion through fiscal 2028. Morgan Stanley reinstated Nvidia as its top semiconductor pick.",
+      "why": "英伟达创新高是全球AI算力需求持续旺盛的信号，对SK海力士（HBM供应商）、腾讯（AI芯片采购方）等持仓均有正向提振；英伟达本身也在watchlist，ATH+史上最大回购是tier 1级别利多。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
         "英伟达",
         "Nvidia",
         "NVDA",
         "AI芯片",
-        "semiconductor"
+        "GPU",
+        "Blackwell",
+        "回购"
       ],
       "translated": false,
-      "url": "https://www.scmp.com/news/us/article/3369637/us-man-arrested-over-alleged-300-million-scheme-smuggle-nvidia-ai-servers-china",
+      "url": "https://www.cnbc.com/2026/10/02/nvidia-breaks-through-to-new-record-highs-plus-more-good-news-for-boeing.html",
       "published_date": "2026-10-02",
       "still_developing": false,
       "cross_ref": "",
@@ -138,57 +108,93 @@
       "is_new": true
     },
     {
-      "id": "dfdb23406162ed62",
-      "tier": 2,
+      "id": "2a5c42863f2474d4",
+      "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report, holds gains after soft payroll data",
-      "summary": "Bitcoin briefly touched $86,885 on October 2, up roughly 1.5% on the day and 3% in October, ahead of the September jobs report. After the soft +29K payrolls print, BTC held near $86,000—up 2%+ in 24 hours. Bitcoin ETFs recorded $103M in inflows at the start of October.",
-      "why": "「Uptober」开局：软就业数据压低美联储10月加息预期，比特币与纳斯达克正相关性体现——风险资产共同受益于偏鸽信号。Circle（CRCL/USDC）等加密持仓受流动性预期改善利好；若11月28日FOMC保持不动，或进一步推动BTC向九万美元进发。",
-      "source": "CoinDesk",
-      "verified": true,
-      "keywords": [
-        "crypto",
-        "Bitcoin",
-        "USDC",
-        "稳定币",
-        "Circle"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-      "published_date": "2026-10-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-03",
-      "is_new": true
-    },
-    {
-      "id": "f319d272287e0bb5",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
+        "HK"
       ],
       "time": "08:00",
       "group": "个股",
-      "title": "Tesla Q3 2026 deliveries slip 2% YoY to 486,532 but beat Wall Street's 461,974 consensus; TSLA rises 5%",
-      "summary": "Tesla delivered 486,532 vehicles in Q3 2026 (Model 3/Y: 478,237; other: 8,295), above the 461,974 analyst consensus by ~5%. Deliveries were down 2.1% from Q3 2025 record of 497,099 but up 1% sequentially. Q3 financial results due October 21.",
-      "why": "交付超预期让 TSLA 单日涨5%，短期正面；但全年同比下降趋势延续，四季度财报（10/21）及全年指引才是长线关键。持有 TSLA sell put 仓位者须注意期权 IV 在财报前可能上升，covered call 可考虑在反弹后择机建仓。",
+      "title": "China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal – largest ever overseas compute agreement",
+      "summary": "Tencent signed a 5-year roughly $7 billion lease for ~100,000 advanced AI chips in Oracle's Southeast Asia data centers, with ~30% (~$2.1B) payable upfront. The chips cannot enter China under US export controls but can be accessed remotely. Described as Tencent's largest ever overseas lease agreement, the deal already weighed on Q2 free cash flow (negative RMB 13.8B) amid large AI-related prepayments. Capital expenditure in Q2 jumped 176% YoY to RMB 52.8B.",
+      "why": "腾讯以70亿美元锁定海外AI算力，是今年最大算力战略动作，显示腾讯AI推理/训练需求急剧扩大；对资本开支和自由现金流有负面影响，需关注期权定价中的不确定性。原始信源为FT，此处引用Seeking Alpha转载报道，待核实。",
+      "source": "Seeking Alpha",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "AI芯片",
+        "Oracle",
+        "混元",
+        "腾讯云"
+      ],
+      "translated": false,
+      "url": "https://seekingalpha.com/news/4648835-chinas-tencent-taps-oracle-for-100000-ai-chips-in-7b-lease-deal---report",
+      "published_date": "2026-10-01",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-03",
+      "is_new": true
+    },
+    {
+      "id": "b32bc017be19590d",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Citi: Xiaomi Group (01810.HK) delivered over 40,000 EVs in September, new monthly high in 2026; stock under pressure ahead of Q3 results",
+      "summary": "Xiaomi Auto delivered more than 40,000 vehicles in September 2026, its highest monthly total this year. The newly launched Sky Nomad series (N70/N90) contributed over 10,000 units in its first month. Cumulative deliveries for the first 9 months reached at least 286,475 units, or ~52.1% of the 550,000 annual target. Citi maintains a target price of HKD 34 but notes the stock may remain under pressure ahead of Q3 earnings.",
+      "why": "小米汽车9月月交付首破4万辆里程碑，Sky Nomad新品放量是核心驱动；仍距全年550,000辆目标（约完成52%）有明显差距，后续季度交付压力增大；Citi目标价HKD 34说明机构估值仍偏谨慎，适合关注sell put行权价区间。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "SU7",
+        "YU7",
+        "小米汽车",
+        "IoT"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1000514951/citi-xiaomi-group-w-01810-delivered-over-40000-electric-vehicles",
+      "published_date": "2026-10-01",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-03",
+      "is_new": true
+    },
+    {
+      "id": "f026225d676fbfcd",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Nike Q1 FY2027 earnings: Greater China revenue plunges 26%, full-year outlook cut to high-single-digit decline",
+      "summary": "Nike reported Q1 FY2027 revenue of $11.21 billion (down 4% YoY, missed estimates of $11.35B), while EPS of $0.48 beat estimates of $0.44. Greater China sales fell 26% YoY, a further deterioration from prior quarters. Nike guided full-year FY2027 revenue to decline by a high-single-digit percentage and announced a restructuring plan with layoffs.",
+      "why": "耐克中国大区收入连续下滑26%是中国消费市场持续疲软的风向标，影响对美团、海底捞、蜜雪冰城等消费板块的宏观判断；Nike非持仓但是重要的中国消费先行指标。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA"
+        "Nike",
+        "中国消费",
+        "大中华区",
+        "consumer",
+        "零售"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/02/tesla-tsla-q3-2026-vehicle-delivery-production.html",
-      "published_date": "2026-10-02",
+      "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+      "published_date": "2026-10-01",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1556,6 +1562,128 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-02",
+      "is_new": false
+    },
+    {
+      "id": "d73da80353d6bcdb",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes in November",
+      "summary": "The U.S. is deploying a third carrier strike group (USS Theodore Roosevelt) plus an amphibious force with 2,000 Marines to the Middle East. Trump has reportedly told aides he expects to resume bombing Iran after the November midterm elections, with the full buildup complete by November.",
+      "why": "中东军事升级：美国派遣第三艘航母及两千名海军陆战队，特朗普明确暗示11月选后恢复轰炸伊朗——这是在10月1日「航母出发→油价+4%」基础上的实质新进展，显著拉升地缘风险溢价，持续推高油价与通胀预期，压制全球风险偏好；对持有港股及美股标的的 sell put 需提高行权价保护。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "中东",
+        "美联储",
+        "宏观",
+        "地缘政治",
+        "油价",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html",
+      "published_date": "2026-10-02",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-03",
+      "is_new": false
+    },
+    {
+      "id": "0f52185fa3521a2c",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "大盘头条",
+      "title": "G7 to release 100 million barrels of oil and diesel as Middle East disruptions keep fuel prices high",
+      "summary": "G7 nations agreed to release up to 100 million barrels of oil and diesel reserves through the IEA over four months, with a frontloaded 'substantial' diesel release within 20 days. Diesel futures fell 4.3% on the news; Brent crude settled around $102/bbl and WTI around $91/bbl.",
+      "why": "G7协调释放战略储备是对近期油价飙升的直接干预（中东冲突致霍尔木兹海峡受阻），短期压低柴油价格利好航运/运输成本；但中东局势未解、基本面供给缺口仍在，油价中期仍居高。航空、消费品等持仓受油价影响较大，期权策略需关注原油价格波动率。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "宏观",
+        "macro",
+        "G7",
+        "energy"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+      "published_date": "2026-10-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-03",
+      "is_new": false
+    },
+    {
+      "id": "ad2f251cd9ddacc4",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股10月开门全线下挫，恒指失守24000点跌2.6%，科技、金融股领跌",
+      "summary": "10月2日港股首个交易日，恒生指数跌2.6%至约23,964点，恒生科技指数跌2.26%，国企指数跌2.31%。拖累因素：港股通（南向资金）因国庆黄金周休市缺席；中东局势趋紧打压航空股；博彩股因澳门9月收入低于预期下挫。",
+      "why": "港股通于10月1-7日黄金周期间休市，南向资金买盘缺失令大盘更易放大跌幅；当日恒指仅7只成分股上涨。持有港股科技/金融仓位的 sell put 应关注24000支撑位；国庆后10月7日恢复交易时南水是否回流是关键观察点。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "宏观",
+        "HK"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/1000521324/hong-kong-stocks-close-oct-2-hang-seng-index-falls",
+      "published_date": "2026-10-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-03",
+      "is_new": false
+    },
+    {
+      "id": "8b16e374b59e49b9",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "California tech CEO arrested over alleged $300M scheme to smuggle Nvidia AI servers to China",
+      "summary": "Greg Lui, owner of Earthmade Computer Inc., was arrested and faces charges of conspiracy, export-control violations, and money laundering for routing over $300M in Nvidia GPU servers to China via Malaysia and Singapore using false documents. Charges carry up to 20 years each on conspiracy counts.",
+      "why": "AI芯片出口管制执法显著升级——此为近期系列案件之一，标志着美国商务部/司法部对中国转口路径的审查已落地到具体逮捕行动。英伟达（NVDA）被要求解释是否错过红旗信号；合规成本上升、亚洲买家白名单收紧，或压制NVDA对华业务增量预期，并提升整体出口管制不确定性溢价。",
+      "source": "South China Morning Post",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "semiconductor"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/news/us/article/3369637/us-man-arrested-over-alleged-300-million-scheme-smuggle-nvidia-ai-servers-china",
+      "published_date": "2026-10-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-03",
       "is_new": false
     },
     {
@@ -2967,6 +3095,64 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-02",
+      "is_new": false
+    },
+    {
+      "id": "dfdb23406162ed62",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report, holds gains after soft payroll data",
+      "summary": "Bitcoin briefly touched $86,885 on October 2, up roughly 1.5% on the day and 3% in October, ahead of the September jobs report. After the soft +29K payrolls print, BTC held near $86,000—up 2%+ in 24 hours. Bitcoin ETFs recorded $103M in inflows at the start of October.",
+      "why": "「Uptober」开局：软就业数据压低美联储10月加息预期，比特币与纳斯达克正相关性体现——风险资产共同受益于偏鸽信号。Circle（CRCL/USDC）等加密持仓受流动性预期改善利好；若11月28日FOMC保持不动，或进一步推动BTC向九万美元进发。",
+      "source": "CoinDesk",
+      "verified": true,
+      "keywords": [
+        "crypto",
+        "Bitcoin",
+        "USDC",
+        "稳定币",
+        "Circle"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
+      "published_date": "2026-10-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-03",
+      "is_new": false
+    },
+    {
+      "id": "f319d272287e0bb5",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "Tesla Q3 2026 deliveries slip 2% YoY to 486,532 but beat Wall Street's 461,974 consensus; TSLA rises 5%",
+      "summary": "Tesla delivered 486,532 vehicles in Q3 2026 (Model 3/Y: 478,237; other: 8,295), above the 461,974 analyst consensus by ~5%. Deliveries were down 2.1% from Q3 2025 record of 497,099 but up 1% sequentially. Q3 financial results due October 21.",
+      "why": "交付超预期让 TSLA 单日涨5%，短期正面；但全年同比下降趋势延续，四季度财报（10/21）及全年指引才是长线关键。持有 TSLA sell put 仓位者须注意期权 IV 在财报前可能上升，covered call 可考虑在反弹后择机建仓。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/02/tesla-tsla-q3-2026-vehicle-delivery-production.html",
+      "published_date": "2026-10-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-03",
       "is_new": false
     },
     {
