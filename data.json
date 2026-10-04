@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-04 08:44 (北京时间)",
+  "updated_at": "2026-10-04 13:38 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,40 +9,105 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-04 08:44 (北京时间)",
-    "new_count": 1,
+    "at": "2026-10-04 13:38 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "1ab30cdcdab11e33c12e92ea87a97ba39bc8f4eb",
+      "id": "5e0345feedd7945b",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股国庆后首日重挫，恒生指数跌2.60%，10年美债收益率触及5.34%高位",
+      "summary": "10月2日港股恢复交易，恒生指数收跌640.98点（-2.60%）至23,972.29点，为3月以来最大单日跌幅；10年期美债收益率盘中触及5.34%，创逾24年新高。国庆假期内美债利率大幅攀升、9月非农数据意外疲软引发滞涨担忧，内地南向资金仍处假期关闭状态，外围利空被集中消化。",
+      "why": "港股重仓标的（腾讯、美团、小米等）普遍承压；高利率环境压缩估值，卖put仓位需关注行权价下移风险。下周南向资金重开（10月8日）若美债收益率未回落，波动率或持续偏高，隐含波动率值得留意。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "美债收益率",
+        "国庆",
+        "大跌"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-10-02/doc-initvtxf7219250.shtml",
+      "published_date": "2026-10-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-04",
+      "is_new": true
+    },
+    {
+      "id": "7239989428f566cc",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
+        "US",
+        "HK"
       ],
-      "time": "2026-10-02T14:00:00+00:00",
+      "time": "22:00",
       "group": "大盘头条",
-      "title": "Broadcom筹集600亿美元定制AI芯片 Anthropic成最大算力客户",
-      "summary": "Broadcom为Anthropic定制AI芯片启动约600亿美元融资：420亿美元A类高级担保优先级（银行联合承销），180亿美元B类次级由黑石领投（黑石自投90亿美元）。该融资与Anthropic承诺的五年1252亿美元TPU算力采购协议直接挂钩；Anthropic预计2027年成为Broadcom最大算力客户。",
-      "why": "史上最大规模定制AI芯片融资；验证ASIC路线对通用GPU的竞争挑战；黑石重仓AI基础设施；Anthropic算力战略向Broadcom/TPU转移，对英伟达中长期竞争格局有直接影响。",
+      "title": "G7 agrees to release up to 100 million barrels of emergency oil and diesel reserves over four months",
+      "summary": "G7 nations and IEA partners announced they will release up to 100 million barrels of strategic oil and diesel reserves over the next four months, with a front-loaded substantial diesel release in the first 20 days. The coordinated move, announced Oct 2 by French President Macron, follows Trump administration pressure to reduce fuel prices amid the ongoing US-Iran conflict that has pushed WTI crude to around $167/barrel. Goldman Sachs estimates the release offsets roughly half of the diesel price surge.",
+      "why": "大宗商品价格压力缓解有助于降低通胀预期，间接支持美联储暂停加息立场。油价下行对高估值科技股及消费股有正面估值效应，与持有组合的长期逻辑方向一致；但若储备释放规模不及预期或地缘冲突升级，油价仍有上行风险，需持续跟踪。",
       "source": "Bloomberg",
-      "verified": true,
+      "verified": false,
       "keywords": [
-        "Broadcom",
-        "AI芯片",
-        "Anthropic",
-        "ASIC",
-        "黑石",
-        "TPU",
-        "算力"
+        "G7",
+        "IEA",
+        "oil",
+        "diesel",
+        "油价",
+        "战略储备",
+        "美伊战争"
       ],
-      "translated": true,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic",
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-millions-of-barrels-of-diesel-and-oil",
       "published_date": "2026-10-02",
-      "still_developing": false,
-      "cross_ref": "https://seekingalpha.com/news/4649721-broadcom-gathers-60b-financing-package-to-fund-ai-chips-for-anthropic-report",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-10-04",
+      "is_new": true
+    },
+    {
+      "id": "a4aae38d92ae3a8c",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "Warsh top Fed deputies step in to give markets a clear message after weak jobs data",
+      "summary": "Following September non-farm payrolls that came in far below expectations, Fed Chair Warsh top deputies — Vice Chair Jefferson and NY Fed President Williams — stepped in with public statements emphasizing data-dependence and signaling no automatic rate hike at the Oct 27-28 FOMC meeting. Fed funds futures now price an 84% probability of a rate hold in October. The 10-year Treasury yield pulled back from its 5.34% intraday high after the officials spoke.",
+      "why": "美联储10月按兵不动概率升至84%，是近期卖put策略最大正面催化剂之一。利率预期逆转缓解了港股、科技股的估值压力；但若本周CPI超预期，加息预期可能反弹，需紧密跟踪。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "Fed",
+        "Warsh",
+        "沃什",
+        "非农",
+        "加息",
+        "利率预期",
+        "美债收益率"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-02/warsh-s-top-fed-deputies-step-in-to-give-markets-a-clear-message",
+      "published_date": "2026-10-02",
+      "still_developing": true,
+      "cross_ref": "https://www.cls.cn/detail/2393091",
       "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-10-04",
       "is_new": true
@@ -1562,6 +1627,38 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-03",
+      "is_new": false
+    },
+    {
+      "id": "1ab30cdcdab11e33c12e92ea87a97ba39bc8f4eb",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-10-02T14:00:00+00:00",
+      "group": "大盘头条",
+      "title": "Broadcom筹集600亿美元定制AI芯片 Anthropic成最大算力客户",
+      "summary": "Broadcom为Anthropic定制AI芯片启动约600亿美元融资：420亿美元A类高级担保优先级（银行联合承销），180亿美元B类次级由黑石领投（黑石自投90亿美元）。该融资与Anthropic承诺的五年1252亿美元TPU算力采购协议直接挂钩；Anthropic预计2027年成为Broadcom最大算力客户。",
+      "why": "史上最大规模定制AI芯片融资；验证ASIC路线对通用GPU的竞争挑战；黑石重仓AI基础设施；Anthropic算力战略向Broadcom/TPU转移，对英伟达中长期竞争格局有直接影响。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "Broadcom",
+        "AI芯片",
+        "Anthropic",
+        "ASIC",
+        "黑石",
+        "TPU",
+        "算力"
+      ],
+      "translated": true,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic",
+      "published_date": "2026-10-02",
+      "still_developing": false,
+      "cross_ref": "https://seekingalpha.com/news/4649721-broadcom-gathers-60b-financing-package-to-fund-ai-chips-for-anthropic-report",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-10-04",
       "is_new": false
     },
     {
