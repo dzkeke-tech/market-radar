@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-04 18:32 (北京时间)",
+  "updated_at": "2026-10-05 08:31 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,14 +9,14 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-04 18:32 (北京时间)",
-    "new_count": 4,
+    "at": "2026-10-05 08:31 (北京时间)",
+    "new_count": 1,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "f68bff06a2bf40f0",
+      "id": "b507c832c023db5e",
       "tier": 1,
       "lang": "zh",
       "markets": [
@@ -24,369 +24,28 @@
       ],
       "time": "16:00",
       "group": "大盘头条",
-      "title": "恒生指数节后大跌2.6%，创3月以来最大单日跌幅",
-      "summary": "港股国庆黄金周后首个交易日（10月2日）恒生指数收于23,972.29点，跌640.98点(-2.60%)，创3月23日以来最大单日跌幅；金融股领跌，汇丰控股跌5.38%，友邦保险跌5.98%；美国10年期国债收益率升破5.34%（逾20年新高）叠加内地黄金周Stock Connect暂停（10月1-7日）令港股失去北水支撑。",
-      "why": "港股节后大幅调整，short-dated期权隐含波动率大涨；美债收益率5.34%为跨资产关键压力位，对持港股卖put/covered call仓位需警惕隐含波动率波动；当日重大头条偏少（周五事件多已于前次运行收录）。",
-      "source": "Bloomberg",
-      "verified": false,
+      "title": "港股国庆假期后首日重挫，恒指急泻640点（-2.6%）失守24000点",
+      "summary": "恒生指数10月3日急跌640点（2.6%）至23,972点，创今年3月23日以来最大单日跌幅。内地国庆假期（10月1-7日）期间沪深港通南向通暂停，港股缺乏北水流入支撑；金融股领跌，友邦保险下跌约5.98%，汇丰控股下跌约5.38%；中东局势升温与全球债市抛售同步施压。",
+      "why": "港股本周（10月3日至7日）在无北水支撑情况下波动加剧；北向Stock Connect预计10月8日恢复后或出现超跌反弹机会，持仓腾讯（00700）、美团（03690）、泡泡玛特（09992）等应关注持仓风险。",
+      "source": "SCMP",
+      "verified": true,
       "keywords": [
-        "恒生指数",
+        "恒指",
         "港股",
-        "美债收益率",
-        "Hang Seng",
-        "HK"
+        "大盘",
+        "AIA",
+        "HSBC",
+        "Stock Connect",
+        "北水"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/hong-kong-stocks-slump-most-since-march-leading-losses-in-asia",
-      "published_date": "2026-10-02",
+      "url": "https://www.scmp.com/business/china-business/article/3347522/hong-kong-stocks-tumble-asia-strait-hormuz-crisis-deepens",
+      "published_date": "2026-10-03",
       "still_developing": false,
       "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-10-04",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-05",
       "is_new": true
-    },
-    {
-      "id": "5e8c978fdfe85886",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "中国地方国资机构为受限英伟达B300 Blackwell芯片采购提供融资（Bloomberg独家）",
-      "summary": "Bloomberg披露，深圳/北京地方政府控股的Semi-Tech Leasing向Glory View Technology提供逾30亿元融资，用于采购700余台服务器，其中含32台装载受美国出口管制的英伟达B300 Blackwell芯片的华硕服务器；报道发出后，Semi-Tech随即对工商公开文件中硬件描述和供应商名称进行溯后删除。",
-      "why": "出口管制合规风险：若美方跟进制裁，或对英伟达中国业务（已几乎被锁定）影响有限，但会加剧整体芯片限制收紧预期，对英伟达/AMD估值构成不确定性；期权卖方需关注NVDA隐含波动率。延续报道：事件于10月1日曝光，监管跟进和政治影响持续发酵。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "Blackwell",
-        "B300",
-        "出口管制",
-        "中国",
-        "芯片"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal",
-      "published_date": "2026-10-01",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-10-04",
-      "is_new": true
-    },
-    {
-      "id": "09a0a3307b27ab72",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Visa/Stripe/Mastercard/Coinbase consortium launches OUSD stablecoin, directly challenges USDC",
-      "summary": "Open Standard consortium — with Visa, Stripe, Mastercard, Coinbase, and Shopify as founding partners — launched OUSD on September 30 across four blockchains (Base, Ethereum, Solana, Tempo); initial liquidity commitment of $1 billion; OUSD now tradeable on Coinbase, Kraken, and Uniswap. Visa is also rolling out an internal stablecoin platform giving institutional clients direct OUSD access.",
-      "why": "OUSD直接冲击Circle/USDC稳定币市场份额；Visa等机构级背书使竞争级别显著提升；对CRCL仓位构成负面压力，期权隐含波动率或上升；属延续报道：9月30日上线，市场正持续评估对Circle的影响。",
-      "source": "The Block",
-      "verified": true,
-      "keywords": [
-        "USDC",
-        "OUSD",
-        "稳定币",
-        "stablecoin",
-        "Circle",
-        "Visa",
-        "Stripe"
-      ],
-      "translated": false,
-      "url": "https://www.theblock.co/post/408645/visa-launching-internal-stablecoin-platform-provides-access-ousd-fortune",
-      "published_date": "2026-09-30",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-04",
-      "is_new": true
-    },
-    {
-      "id": "154ffdc2035ab790",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "Circle urges EU to overhaul MiCA stablecoin reserve rules, scrap bank-deposit floor",
-      "summary": "Circle, alongside Hyperliquid and others, submitted comments to the EU's MiCA review calling for elimination of the mandatory bank-deposit floor for stablecoin reserves, removal of the 35% single-sovereign concentration cap and the 1.5% single-bank deposit limit; Circle proposes replacing these with a liquidity-based standard to allow greater reliance on U.S. Treasuries.",
-      "why": "MiCA改革若成功，可降低USDC在欧洲的运营合规成本，强化USDC在欧盟市场的竞争力；但改革结果不确定，叠加OUSD竞争压力，CRCL仓位中期持有需跟踪政策进展；属延续报道：10月1日提交，监管回应尚未明朗。",
-      "source": "The Block",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "USDC",
-        "MiCA",
-        "稳定币",
-        "stablecoin",
-        "GENIUS Act",
-        "欧盟"
-      ],
-      "translated": false,
-      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-      "published_date": "2026-10-01",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-04",
-      "is_new": true
-    },
-    {
-      "id": "899fa62b79426957",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "美联储“鹰风”席卷，10月加息概率升至约七成",
-      "summary": "多位美联储官员密集释放鹰派信号，叠加9月制造业PMI超预期，市场据CME FedWatch数据（截至2026-09-24）将美联储10月27-28日FOMC会议加息概率定价至约73%。高盛研报亦预计10月将再加25bp，并称其“可能是本轮周期终曲”，关键取决于即将公布的PCE与非农数据。",
-      "why": "若10月落地加息，无风险利率进一步抬升将压制所有风险资产估值；持有sell put组合须警惕期权隐含波动率同步上移；美联储主席Kevin Warsh（沃什）自上任以来维持鹰派立场，与市场预期高度一致。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "加息",
-        "FOMC",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260926/herald/0dd1d436dba5bee1f0aaa99fa53a27fb.html",
-      "published_date": "2026-09-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": false
-    },
-    {
-      "id": "c92a997fd6efd091",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "U.S. September Manufacturing PMI Hits 57.0 — Highest in 52 Months, Smashing 53.5 Forecast",
-      "summary": "S&P Global's flash US Manufacturing PMI surged to 57.0 in September 2026 from 53.9 in August, well above the consensus forecast of 53.5, marking the strongest business conditions improvement since May 2022. All five sub-indices contributed; production growth was its fastest since April 2022 and new orders hit their best pace in 4.5 years.",
-      "why": "超预期PMI强化了市场对美联储10月再度加息的押注，直接推高了美债收益率和美元，对持仓中的科技/消费科技股构成估值压力；同时也暗示终端消费需求仍强劲，对消费类标的（如好市多、美团）可能形成支撑。",
-      "source": "S&P Global PMI",
-      "verified": true,
-      "keywords": [
-        "PMI",
-        "制造业",
-        "美联储",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/bfb270a44c2b4490a0f1adb76b8e8f9f",
-      "published_date": "2026-09-23",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": false
-    },
-    {
-      "id": "87a2a2aa7391d676",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "油价涨、美债跌：美联储10月加息预期升温，美债10年期收益率重返5%上方",
-      "summary": "受油价持续高位（Brent约104美元/桶）叠加美联储鹰派信号影响，美国10年期国债收益率重返5%上方，创近期高位；美元指数升至8周新高。美银警告：若MOVE指数站上125同时全球金融ETF（IXG）跌破125美元，将触发避险去杠杆，引发美股恐慌抛售。",
-      "why": "10年期美债收益率超5%对持仓内高估值科技股（英伟达、谷歌、阿里）估值折现影响显著；同时高油价推高能源通胀，可能拖延美联储降息周期；霍尔木兹海峡谈判仍是全球通胀预期的核心地缘变量，值得持续追踪。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "美债",
-        "利率",
-        "油价",
-        "霍尔木兹",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-09-24/doc-iniswezr5093060.shtml",
-      "published_date": "2026-09-24",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": false
-    },
-    {
-      "id": "50764442d7266b2a",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "Alibaba Unveils Zhenwu V900 AI Chip, Launches Wan3.0 Video Model; CEO Eddie Wu Commits 380B Yuan to Full-Stack AI",
-      "summary": "At a major strategy event on September 22, Alibaba CEO Eddie Wu unveiled the company's self-developed Zhenwu V900 AI chip (entering mass production) and launched the Wan3.0 AI video model already in commercial use in film, advertising and tourism. Alibaba committed 380 billion yuan over three years to full-stack AI, following the August HK$80B follow-on share placement earmarked for AI infrastructure.",
-      "why": "中国大厂首发全栈自研AI芯片，直接减少英伟达依赖，同时Wan3.0商用化确认AI变现路径；对阿里云估值重估逻辑有重大推动，但巨额资本开支短期稀释回报；持有BABA的sell put需关注配股摊薄完成后的股价锚定区间。",
-      "source": "财新英文",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "BABA",
-        "9988.HK",
-        "AI芯片",
-        "Wan3.0",
-        "阿里云"
-      ],
-      "translated": false,
-      "url": "https://www.caixinglobal.com/2026-09-22/alibaba-unveils-new-ai-chip-as-it-deepens-ai-infrastructure-push-102487686.html",
-      "published_date": "2026-09-22",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": false
-    },
-    {
-      "id": "dd7ae1c7ec48777a",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "Micron (MU) Q4 FY2026 Earnings Due September 30 After Close; Consensus ~$51.2B Revenue, ~$31.56 EPS; Options Price ~10% Move",
-      "summary": "Micron Technology reports Q4 FY2026 results on Wednesday September 30 after market close, with the earnings call at 4:30 PM ET. Analyst consensus projects revenue of approximately $51.2B (up roughly 352% YoY) and non-GAAP EPS of approximately $31.56. MU stock has gained approximately 16% in the past month. Options are pricing approximately a 10% move around the report.",
-      "why": "对持有MU sell put组合而言，本轮财报是最大单一事件风险：若实际营收/EPS超预期（普遍预期极高），隐含波动率将在财报后大幅压缩（IV crush）；若未达预期则面临Gap down风险；建议在财报前确认Delta暴露与行权价距离。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "美光",
-        "Micron",
-        "MU",
-        "HBM",
-        "财报",
-        "DRAM"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/1000196890/earnings-preview-mu-to-report-financial-results-post-market-on",
-      "published_date": "2026-09-25",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": false
-    },
-    {
-      "id": "f042eb8620f77f01",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "20:00",
-      "group": "大盘头条",
-      "title": "中美峰会达成八项共识：对等削减300亿美元关税并启动AI对话机制",
-      "summary": "习近平访美期间，中美两国就经贸、AI及地缘政治等达成八项共识，其中包括对价值约300亿美元的非敏感商品实施对等降税安排（美方减对华小家电/玩具/装饰品关税，中方减农产品/木材/化妆品关税），并同意设立双边贸易委员会及11月启动首次AI对话。中国另承诺2027、2028年分别进口1000万吨美国煤炭。",
-      "why": "中美关系实质性缓和，为港股中资科网（腾讯/阿里/美团）移除最大外部风险溢价；AI对话机制启动亦利好相关AI基础设施赛道。港股10月8日（假期后首日开市）有望高开。持有sell put仓位时需注意波动率短期可能压缩。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "中美",
-        "贸易",
-        "关税",
-        "AI对话",
-        "峰会"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html",
-      "published_date": "2026-09-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": false
-    },
-    {
-      "id": "0a065731ab418358",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "10-Year Treasury Yield Hits 19-Year High at 5.23%; 30-Year Tops 5.53%",
-      "summary": "美国10年期国债收益率升至5.23%，创2007年以来新高；30年期突破5.53%为2004年来最高。通胀预期升温、美联储鹰派路线与霍尔木兹地缘三重压力叠加，当周债市经历年内最大跌幅。",
-      "why": "长债利率飙升直接压缩高PE科技/成长股估值，港股及美股科技持仓面临重新定价压力；sell put隐含波动率上行，行权价下行空间需重新评估。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美债",
-        "国债收益率",
-        "Treasury yield",
-        "美联储",
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-      "published_date": "2026-09-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": false
-    },
-    {
-      "id": "18fe399b6c014d9d",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "Warsh's Regime Change at the Fed Pushes Ahead — October Hike Odds ~64%",
-      "summary": "美联储主席沃什（Kevin Warsh）持续释放鹰派信号，强调通胀太高且持续太久，积极推进资产负债表收缩改革。CME FedWatch（2026-09-26数据）显示10月再加息25bp的概率约64%；年内利率中值点阵图暗示4.1%。",
-      "why": "沃什鹰派路线明确化，无风险利率继续上行；covered call策略受益于高隐含波动率；sell put须谨慎把控行权价以应对估值进一步压缩风险。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "Fed",
-        "Kevin Warsh",
-        "加息",
-        "利率",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
-      "published_date": "2026-09-25",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": false
     },
     {
       "id": "fca12741a8624145",
@@ -1659,6 +1318,68 @@
       "is_new": false
     },
     {
+      "id": "f68bff06a2bf40f0",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "恒生指数节后大跌2.6%，创3月以来最大单日跌幅",
+      "summary": "港股国庆黄金周后首个交易日（10月2日）恒生指数收于23,972.29点，跌640.98点(-2.60%)，创3月23日以来最大单日跌幅；金融股领跌，汇丰控股跌5.38%，友邦保险跌5.98%；美国10年期国债收益率升破5.34%（逾20年新高）叠加内地黄金周Stock Connect暂停（10月1-7日）令港股失去北水支撑。",
+      "why": "港股节后大幅调整，short-dated期权隐含波动率大涨；美债收益率5.34%为跨资产关键压力位，对持港股卖put/covered call仓位需警惕隐含波动率波动；当日重大头条偏少（周五事件多已于前次运行收录）。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "美债收益率",
+        "Hang Seng",
+        "HK"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-02/hong-kong-stocks-slump-most-since-march-leading-losses-in-asia",
+      "published_date": "2026-10-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-10-04",
+      "is_new": false
+    },
+    {
+      "id": "5e8c978fdfe85886",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "中国地方国资机构为受限英伟达B300 Blackwell芯片采购提供融资（Bloomberg独家）",
+      "summary": "Bloomberg披露，深圳/北京地方政府控股的Semi-Tech Leasing向Glory View Technology提供逾30亿元融资，用于采购700余台服务器，其中含32台装载受美国出口管制的英伟达B300 Blackwell芯片的华硕服务器；报道发出后，Semi-Tech随即对工商公开文件中硬件描述和供应商名称进行溯后删除。",
+      "why": "出口管制合规风险：若美方跟进制裁，或对英伟达中国业务（已几乎被锁定）影响有限，但会加剧整体芯片限制收紧预期，对英伟达/AMD估值构成不确定性；期权卖方需关注NVDA隐含波动率。延续报道：事件于10月1日曝光，监管跟进和政治影响持续发酵。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "Blackwell",
+        "B300",
+        "出口管制",
+        "中国",
+        "芯片"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal",
+      "published_date": "2026-10-01",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-10-04",
+      "is_new": false
+    },
+    {
       "id": "5e0345feedd7945b",
       "tier": 1,
       "lang": "zh",
@@ -1785,97 +1506,6 @@
       "cross_ref": "https://seekingalpha.com/news/4649721-broadcom-gathers-60b-financing-package-to-fund-ai-chips-for-anthropic-report",
       "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-10-04",
-      "is_new": false
-    },
-    {
-      "id": "2df07fc99b0712c9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "下周外盘看点：美国8月PCE与9月非农数据将决定美联储10月走向",
-      "summary": "本周美联储官员密集发鹰后，下周美国8月PCE通胀数据（9月30日）和9月非农就业报告（10月3日）将成为市场决定美联储10月是否加息的关键。此外，美光科技Q4财报将于9月30日盘后公布，市场预期营收约51.2B美元。",
-      "why": "PCE若高于预期，加息概率将进一步升至接近100%，对波动率定价影响直接；同时美光财报亦将在同一天公布（见个股），可能带来额外波动，持有美光的sell put组合须准备应对单日10%以上的标的波动。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "PCE",
-        "非农",
-        "美联储",
-        "美光",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfxsk0269539.shtml",
-      "published_date": "2026-09-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": false
-    },
-    {
-      "id": "1061a18d4510c910",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "南向资金连续五周净买入，腾讯控股当周获净买入16.95亿港元居首",
-      "summary": "本周（9月21-25日）南向资金合计净买入231.13亿港元，为连续第五周净买入。腾讯控股以16.95亿港元净买入居首，港股通当周买卖总额达286.9亿港元最高；阿里巴巴-W获净买入12.4亿港元，小米集团-W获净买入0.64亿港元。",
-      "why": "南向资金持续流入是港股中资互联网的重要资金支撑，连续五周净买入说明内资对港股核心资产仍保持增持意愿。腾讯作为最大净买入标的，与sell put仓位相关性最强。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "0700.HK",
-        "南向资金",
-        "港股通",
-        "阿里巴巴",
-        "小米"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20260927/herald/31dc5a5eb74064f1f59381e29cc39799.html",
-      "published_date": "2026-09-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
-      "is_new": false
-    },
-    {
-      "id": "139487349154918c",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "10:30",
-      "group": "大盘头条",
-      "title": "利好来了！多家A股公司密集披露算力大单",
-      "summary": "A股上市公司于节前密集披露AI算力相关合同，多笔订单金额在数亿至逾十亿元人民币不等，显示企业级AI基础设施需求持续旺盛。相关公司包括算力租赁及智算服务提供商。",
-      "why": "A股算力赛道订单加速落地，印证AI基础设施需求从叙事走向实质报表，对阿里云、腾讯云等云厂商形成正向参照。中美AI对话机制同日启动，进一步强化科技赛道做多逻辑。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "算力",
-        "AI",
-        "大单",
-        "智算",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20260927/herald/10497df087de49b5111bd28649cbb053.html",
-      "published_date": "2026-09-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-09-27",
       "is_new": false
     },
     {
@@ -3127,6 +2757,70 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-03",
+      "is_new": false
+    },
+    {
+      "id": "09a0a3307b27ab72",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Visa/Stripe/Mastercard/Coinbase consortium launches OUSD stablecoin, directly challenges USDC",
+      "summary": "Open Standard consortium — with Visa, Stripe, Mastercard, Coinbase, and Shopify as founding partners — launched OUSD on September 30 across four blockchains (Base, Ethereum, Solana, Tempo); initial liquidity commitment of $1 billion; OUSD now tradeable on Coinbase, Kraken, and Uniswap. Visa is also rolling out an internal stablecoin platform giving institutional clients direct OUSD access.",
+      "why": "OUSD直接冲击Circle/USDC稳定币市场份额；Visa等机构级背书使竞争级别显著提升；对CRCL仓位构成负面压力，期权隐含波动率或上升；属延续报道：9月30日上线，市场正持续评估对Circle的影响。",
+      "source": "The Block",
+      "verified": true,
+      "keywords": [
+        "USDC",
+        "OUSD",
+        "稳定币",
+        "stablecoin",
+        "Circle",
+        "Visa",
+        "Stripe"
+      ],
+      "translated": false,
+      "url": "https://www.theblock.co/post/408645/visa-launching-internal-stablecoin-platform-provides-access-ousd-fortune",
+      "published_date": "2026-09-30",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-04",
+      "is_new": false
+    },
+    {
+      "id": "154ffdc2035ab790",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "Circle urges EU to overhaul MiCA stablecoin reserve rules, scrap bank-deposit floor",
+      "summary": "Circle, alongside Hyperliquid and others, submitted comments to the EU's MiCA review calling for elimination of the mandatory bank-deposit floor for stablecoin reserves, removal of the 35% single-sovereign concentration cap and the 1.5% single-bank deposit limit; Circle proposes replacing these with a liquidity-based standard to allow greater reliance on U.S. Treasuries.",
+      "why": "MiCA改革若成功，可降低USDC在欧洲的运营合规成本，强化USDC在欧盟市场的竞争力；但改革结果不确定，叠加OUSD竞争压力，CRCL仓位中期持有需跟踪政策进展；属延续报道：10月1日提交，监管回应尚未明朗。",
+      "source": "The Block",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "USDC",
+        "MiCA",
+        "稳定币",
+        "stablecoin",
+        "GENIUS Act",
+        "欧盟"
+      ],
+      "translated": false,
+      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+      "published_date": "2026-10-01",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-04",
       "is_new": false
     },
     {
