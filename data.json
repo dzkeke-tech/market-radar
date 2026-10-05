@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-05 08:31 (北京时间)",
+  "updated_at": "2026-10-05 08:33 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,44 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-05 08:31 (北京时间)",
-    "new_count": 1,
+    "at": "2026-10-05 08:33 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
-    {
-      "id": "b507c832c023db5e",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "港股国庆假期后首日重挫，恒指急泻640点（-2.6%）失守24000点",
-      "summary": "恒生指数10月3日急跌640点（2.6%）至23,972点，创今年3月23日以来最大单日跌幅。内地国庆假期（10月1-7日）期间沪深港通南向通暂停，港股缺乏北水流入支撑；金融股领跌，友邦保险下跌约5.98%，汇丰控股下跌约5.38%；中东局势升温与全球债市抛售同步施压。",
-      "why": "港股本周（10月3日至7日）在无北水支撑情况下波动加剧；北向Stock Connect预计10月8日恢复后或出现超跌反弹机会，持仓腾讯（00700）、美团（03690）、泡泡玛特（09992）等应关注持仓风险。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "恒指",
-        "港股",
-        "大盘",
-        "AIA",
-        "HSBC",
-        "Stock Connect",
-        "北水"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/business/china-business/article/3347522/hong-kong-stocks-tumble-asia-strait-hormuz-crisis-deepens",
-      "published_date": "2026-10-03",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-05",
-      "is_new": true
-    },
     {
       "id": "fca12741a8624145",
       "tier": 1,
@@ -1506,6 +1474,38 @@
       "cross_ref": "https://seekingalpha.com/news/4649721-broadcom-gathers-60b-financing-package-to-fund-ai-chips-for-anthropic-report",
       "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-10-04",
+      "is_new": false
+    },
+    {
+      "id": "b507c832c023db5e",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股国庆假期后首日重挫，恒指急泻640点（-2.6%）失守24000点",
+      "summary": "恒生指数10月3日急跌640点（2.6%）至23,972点，创今年3月23日以来最大单日跌幅。内地国庆假期（10月1-7日）期间沪深港通南向通暂停，港股缺乏北水流入支撑；金融股领跌，友邦保险下跌约5.98%，汇丰控股下跌约5.38%；中东局势升温与全球债市抛售同步施压。",
+      "why": "港股本周（10月3日至7日）在无北水支撑情况下波动加剧；北向Stock Connect预计10月8日恢复后或出现超跌反弹机会，持仓腾讯（00700）、美团（03690）、泡泡玛特（09992）等应关注持仓风险。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "恒指",
+        "港股",
+        "大盘",
+        "AIA",
+        "HSBC",
+        "Stock Connect",
+        "北水"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/china-business/article/3347522/hong-kong-stocks-tumble-asia-strait-hormuz-crisis-deepens",
+      "published_date": "2026-10-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-05",
       "is_new": false
     },
     {
