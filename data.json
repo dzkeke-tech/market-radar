@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-06 08:30 (北京时间)",
+  "updated_at": "2026-10-06 13:37 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,162 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-06 08:30 (北京时间)",
-    "new_count": 5,
+    "at": "2026-10-06 13:37 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Nasdaq closes at fresh record as tech shares rise and traders look past higher yields",
-      "summary": "10月5日美股：纳指创历史新高收盘，标普500涨0.7%收于7722（距8月13日纪录仅差0.3%），道指涨0.5%。英伟达涨2.1%录得历史新高，Meta涨近2%，微软涨逾1%。10年期美债收益率突破5.34%，但未能阻挡科技股上行。",
-      "why": "美股大盘创新高，科技与成长主线强劲，与持仓方向一致；高债收益率环境下非科技板块承压，需关注持仓结构中利率敏感标的的风险敞口。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "纳斯达克",
-        "美股",
-        "大盘",
-        "科技股",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
-      "published_date": "2026-10-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "9e17fa7d362126b3",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-06",
-      "is_new": true
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "338家公司，1206亿港元！港股前三季度回购数据出炉",
-      "summary": "2026年1-9月，338家港股上市公司合计回购约1206亿港元，较2025年同期的1372亿港元下降约12%，但参与企业数从229家增至338家。腾讯以314.41亿港元居首，友邦保险（136.35亿）、小米（122.92亿）分列二、三。回购金额中位数从0.2亿升至0.4亿港元。",
-      "why": "港股整体回购活跃，对HK市场形成估值支撑；腾讯和小米均是核心持仓，其高强度回购计划有助于压缩下行空间、抬高期权行权价支撑位。",
-      "source": "证券时报",
-      "verified": true,
-      "keywords": [
-        "回购",
-        "港股",
-        "腾讯",
-        "小米",
-        "友邦"
-      ],
-      "translated": false,
-      "url": "https://www.stcn.com/article/detail/4206466.html",
-      "published_date": "2026-10-05",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "18d9c0fd17cfd01a",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-06",
-      "is_new": true
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "Stock futures are little changed after Nasdaq hits new record: Live updates",
-      "summary": "10月6日美股期货小幅平开，延续上一交易日纳指历史新高的涨势；市场继续消化弱就业数据对美联储政策路径的影响，以及10年期美债收益率突破5.34%带来的估值压力。成长与AI板块表现持续优于大盘。",
-      "why": "今日（10月6日）美股开盘前情绪指引；成长与AI持仓方向继续占优。需关注本周美债收益率能否在5.34%高位维持并对宽基指数产生更大压制。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美股",
-        "大盘",
-        "macro",
-        "纳斯达克",
-        "科技股"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html",
-      "published_date": "2026-10-05",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "40f78a56fd11dfde",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-06",
-      "is_new": true
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "17:00",
-      "group": "个股",
-      "title": "腾讯控股于10月5日斥资1.002亿港元回购23.8万股股份",
-      "summary": "腾讯控股（00700.HK）于2026年10月5日以每股416.6至423.4港元回购23.8万股，耗资约1.002亿港元。自回购决议通过以来，累计回购4855.37万股（占发行总量约0.53%）。10月2日同样回购23.8万股，耗资约1.003亿港元。",
-      "why": "腾讯保持约每日1亿港元的高频回购节奏，对下行空间形成支撑，利好腾讯Sell Put策略；近期回购累计规模已超314亿港元（前三季度），体现管理层对估值底部的信心。",
-      "source": "界面新闻",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "回购",
-        "0700.HK",
-        "00700"
-      ],
-      "translated": false,
-      "url": "https://www.jiemian.com/article/15162161.html",
-      "published_date": "2026-10-05",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "65679e6fbd7aa8c6",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-06",
-      "is_new": true
-    },
-    {
-      "id": "bc9c5671d35ca067",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "Stocks are hitting records despite surging yields. Cramer explains why",
-      "summary": "美国10年期国债收益率已突破5.34%（创多年新高），但以英伟达、微软、Meta为代表的AI科技龙头持续创历史新高，带动美股大盘再创纪录。机构逻辑：AI板块盈利能见度高、大规模回购提供支撑，令资金宁可持有科技股而非高收益率国债。",
-      "why": "高利率与高股价并存的市场结构是当前持仓的核心背景；对以AI+消费为主线的组合形成基本面支撑，也说明在高债收益率环境下Sell Put策略的行权价设置应以盈利和回购支撑位为锚，而非单纯以收益率折现逻辑定价。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美股",
-        "大盘",
-        "macro",
-        "美债收益率",
-        "科技股",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
-      "published_date": "2026-10-05",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-06",
-      "is_new": true
-    },
     {
       "id": "bfa150b9a27d4d01",
       "tier": 1,
@@ -1589,6 +1439,36 @@
       "is_new": false
     },
     {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Nasdaq closes at fresh record as tech shares rise and traders look past higher yields",
+      "summary": "10月5日美股：纳指创历史新高收盘，标普500涨0.7%收于7722（距8月13日纪录仅差0.3%），道指涨0.5%。英伟达涨2.1%录得历史新高，Meta涨近2%，微软涨逾1%。10年期美债收益率突破5.34%，但未能阻挡科技股上行。",
+      "why": "美股大盘创新高，科技与成长主线强劲，与持仓方向一致；高债收益率环境下非科技板块承压，需关注持仓结构中利率敏感标的的风险敞口。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "纳斯达克",
+        "美股",
+        "大盘",
+        "科技股",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+      "published_date": "2026-10-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "9e17fa7d362126b3",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
+      "is_new": false
+    },
+    {
       "id": "28d41f73b9f5ee86",
       "tier": 2,
       "lang": "zh",
@@ -2871,6 +2751,126 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-05",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "大盘头条",
+      "title": "338家公司，1206亿港元！港股前三季度回购数据出炉",
+      "summary": "2026年1-9月，338家港股上市公司合计回购约1206亿港元，较2025年同期的1372亿港元下降约12%，但参与企业数从229家增至338家。腾讯以314.41亿港元居首，友邦保险（136.35亿）、小米（122.92亿）分列二、三。回购金额中位数从0.2亿升至0.4亿港元。",
+      "why": "港股整体回购活跃，对HK市场形成估值支撑；腾讯和小米均是核心持仓，其高强度回购计划有助于压缩下行空间、抬高期权行权价支撑位。",
+      "source": "证券时报",
+      "verified": true,
+      "keywords": [
+        "回购",
+        "港股",
+        "腾讯",
+        "小米",
+        "友邦"
+      ],
+      "translated": false,
+      "url": "https://www.stcn.com/article/detail/4206466.html",
+      "published_date": "2026-10-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "18d9c0fd17cfd01a",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "12:00",
+      "group": "大盘头条",
+      "title": "Stock futures are little changed after Nasdaq hits new record: Live updates",
+      "summary": "10月6日美股期货小幅平开，延续上一交易日纳指历史新高的涨势；市场继续消化弱就业数据对美联储政策路径的影响，以及10年期美债收益率突破5.34%带来的估值压力。成长与AI板块表现持续优于大盘。",
+      "why": "今日（10月6日）美股开盘前情绪指引；成长与AI持仓方向继续占优。需关注本周美债收益率能否在5.34%高位维持并对宽基指数产生更大压制。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美股",
+        "大盘",
+        "macro",
+        "纳斯达克",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html",
+      "published_date": "2026-10-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "40f78a56fd11dfde",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "17:00",
+      "group": "个股",
+      "title": "腾讯控股于10月5日斥资1.002亿港元回购23.8万股股份",
+      "summary": "腾讯控股（00700.HK）于2026年10月5日以每股416.6至423.4港元回购23.8万股，耗资约1.002亿港元。自回购决议通过以来，累计回购4855.37万股（占发行总量约0.53%）。10月2日同样回购23.8万股，耗资约1.003亿港元。",
+      "why": "腾讯保持约每日1亿港元的高频回购节奏，对下行空间形成支撑，利好腾讯Sell Put策略；近期回购累计规模已超314亿港元（前三季度），体现管理层对估值底部的信心。",
+      "source": "界面新闻",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "回购",
+        "0700.HK",
+        "00700"
+      ],
+      "translated": false,
+      "url": "https://www.jiemian.com/article/15162161.html",
+      "published_date": "2026-10-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "65679e6fbd7aa8c6",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
+      "is_new": false
+    },
+    {
+      "id": "bc9c5671d35ca067",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:00",
+      "group": "大盘头条",
+      "title": "Stocks are hitting records despite surging yields. Cramer explains why",
+      "summary": "美国10年期国债收益率已突破5.34%（创多年新高），但以英伟达、微软、Meta为代表的AI科技龙头持续创历史新高，带动美股大盘再创纪录。机构逻辑：AI板块盈利能见度高、大规模回购提供支撑，令资金宁可持有科技股而非高收益率国债。",
+      "why": "高利率与高股价并存的市场结构是当前持仓的核心背景；对以AI+消费为主线的组合形成基本面支撑，也说明在高债收益率环境下Sell Put策略的行权价设置应以盈利和回购支撑位为锚，而非单纯以收益率折现逻辑定价。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美股",
+        "大盘",
+        "macro",
+        "美债收益率",
+        "科技股",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
+      "published_date": "2026-10-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
       "is_new": false
     },
     {
