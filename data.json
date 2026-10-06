@@ -10,11 +10,202 @@
   "positions": [],
   "last_run": {
     "at": "2026-10-06 13:37 (北京时间)",
-    "new_count": 0,
+    "new_count": 6,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "9094b30d6287eeeb",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "美债10/30年期收益率飙升至24年高位，债市抛售延伸至四季度",
+      "summary": "美国10年期国债收益率升至5.349%，30年期升至5.703%，均创2002年以来新高。债市抛售延续至四季度，长端利率急升加剧全球风险资产压力；德银警告债市与股市定价严重分裂。",
+      "why": "长端美债收益率突破24年高位，成长股估值承压；高利率环境提升理论无风险收益率，sell put权利金虽丰但标的下行风险显著上升，选择行权价需更审慎。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美债",
+        "收益率",
+        "利率",
+        "宏观",
+        "债券"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html",
+      "published_date": "2026-10-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
+      "is_new": true
+    },
+    {
+      "id": "f34789707ceb91f8",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:30",
+      "group": "大盘头条",
+      "title": "Fed October hike odds collapse to ~18% after weak jobs data; December hike remains 75%+ priced",
+      "summary": "Following September's weak 29K payrolls print, CME FedWatch now puts the probability of a Fed hold in October at 82%. Fed Vice Chair Jefferson and NY Fed President Williams indicated they want more data before acting. December hike remains well above 75% probability, keeping the rate path hawkish overall.",
+      "why": "延续报道：非农数据发布于10月2日，市场持续定价路径演变；10月加息风险基本解除利好风险资产短期修复，但12月加息预期+高美债收益率令整体流动性环境仍紧，sell put宜控制仓位和Delta风险。CME FedWatch数据截至10月5日。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Fed",
+        "rate hike",
+        "jobs report",
+        "payrolls",
+        "CME FedWatch",
+        "美联储"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "published_date": "2026-10-02",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
+      "is_new": true
+    },
+    {
+      "id": "e119e3dc97d7fda9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "港股10月6日涨约0.8%小幅回弹；A股国庆长假后10月8日复市，面临一周利空集中冲击",
+      "summary": "恒生指数10月6日上涨约0.8%，日经225微涨0.3%。A股上交所/深交所国庆休市至10月7日，10月8日（周四）正式复市，Stock Connect同步恢复；A股届时将一次性消化本周美债收益率飙升、油价高位、弱非农等多重外部利空。",
+      "why": "港股成交清淡（无Stock Connect北向资金支撑），恒指涨幅温和；A股复市首日走势是近期重要观察点，历史上黄金周后首日涨多跌少，但当前外部环境（债收益率+油价双高）复杂性远超往年，个股分化或加剧。",
+      "source": "InvestingLive",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "A股",
+        "恒生指数",
+        "黄金周",
+        "复市",
+        "Stock Connect"
+      ],
+      "translated": false,
+      "url": "https://finwire.io/news/stock-markets-news/investinglive-asia-pacific-market-news-tuesday-october-6-2026",
+      "published_date": "2026-10-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
+      "is_new": true
+    },
+    {
+      "id": "cf5a820bc46935d6",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "谷歌（Alphabet）接近与Constellation Energy签署逾10亿美元核电协议，AI数据中心抢购清洁能源再升级",
+      "summary": "据报道，谷歌母公司Alphabet正接近与Constellation Energy签署一份价值逾10亿美元的多年期核电采购协议，消息可能本周宣布。此前亚马逊已完成类似交易，科技巨头AI数据中心电力需求引发结构性能源竞赛。",
+      "why": "AI基础设施能源需求已成结构性长期主题，谷歌持仓的长期逻辑进一步强化；大型科技公司资本开支仍处扩张期，反映AI投资周期尚未见顶；亦体现AI竞赛对电力/核能板块的衍生利好。",
+      "source": "GuruFocus",
+      "verified": false,
+      "keywords": [
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "核电",
+        "AI",
+        "数据中心",
+        "能源"
+      ],
+      "translated": false,
+      "url": "https://www.gurufocus.com/news/9110550/googles-parent-alphabet-to-sign-1-billion-nuclear-power-deal-with-constellation-cag",
+      "published_date": "2026-10-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
+      "is_new": true
+    },
+    {
+      "id": "c1f184a8b9f85ab8",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "马斯克证实台积电参与Terafab晶圆厂谈判，英特尔盘前跌逾4%",
+      "summary": "马斯克10月4日确认台积电正与Terafab就德克萨斯晶圆厂进行初步谈判，台积电可能以提供工艺技术换取股权或产能承诺。英特尔为Terafab目前唯一命名合作伙伴，此消息引发英特尔代工战略受冲击的担忧，盘前跌逾4%；TSMC在台湾反涨约3%。",
+      "why": "英特尔代工护城河面临严峻挑战：若台积电入局，英特尔18A工艺的独家地位将被打破，对INTC中长期持仓逻辑构成实质性风险；对英伟达/台积电偏利好；需重新评估INTC相关仓位。",
+      "source": "Quartz",
+      "verified": false,
+      "keywords": [
+        "英特尔",
+        "Intel",
+        "INTC",
+        "台积电",
+        "TSMC",
+        "Terafab",
+        "马斯克",
+        "晶圆代工"
+      ],
+      "translated": false,
+      "url": "https://qz.com/intel-stock-tsmc-musk-terafab-chip-venture-100526",
+      "published_date": "2026-10-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
+      "is_new": true
+    },
+    {
+      "id": "186d92122fed5a44",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "17:22",
+      "group": "大盘头条",
+      "title": "Bitcoin at ~$86K entering October; ETF inflows cooling, Iran war and rate hike risk weigh",
+      "summary": "Bitcoin traded near $86,000 entering October, having rebounded ~47% from July lows but still 34% below its Oct 2025 ATH of $126K. Spot BTC ETF weekly inflows fell sharply from late-September peak. The Fed's Oct 27-28 meeting and geopolitical uncertainty from the Iran war are cited as key near-term headwinds.",
+      "why": "关注Circle（CRCL）及稳定币赛道；BTC整体承压不直接冲击USDC使用场景，但加密市场情绪降温可能影响CRCL估值；另需注意CRCL即将到来的期权期间隐含波动率变化。",
+      "source": "FXStreet",
+      "verified": false,
+      "keywords": [
+        "Bitcoin",
+        "BTC",
+        "crypto",
+        "ETF",
+        "stablecoin",
+        "Circle",
+        "CRCL"
+      ],
+      "translated": false,
+      "url": "https://fxstreet.com/cryptocurrencies/news/bitcoin-can-october-deliver-the-btc-breakout-202610051722",
+      "published_date": "2026-10-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-06",
+      "is_new": true
+    },
     {
       "id": "bfa150b9a27d4d01",
       "tier": 1,
