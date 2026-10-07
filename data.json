@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-07 13:43 (北京时间)",
+  "updated_at": "2026-10-07 18:36 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,36 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-07 13:43 (北京时间)",
-    "new_count": 4,
+    "at": "2026-10-07 18:36 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "32cd608fedb2cd07",
+      "id": "863a73b5dd307e7d",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "US"
+        "HK"
       ],
-      "time": "16:00",
+      "time": "16:10",
       "group": "大盘头条",
-      "title": "美债10年期收益率10月6日显著回落，市场静候FOMC纪要",
-      "summary": "据CNBC报道，美国10年期国债收益率于2026年10月6日从近期多年高位显著回落，市场参与者将目光聚焦于次日（10月7日）将公布的美联储9月FOMC会议纪要，研判后续货币政策路径。收益率下行为美股提供估值支撑，科技板块领涨。",
-      "why": "CNBC（白名单媒体），发布于2026-10-06，距今1日。10年期美债收益率为全球资产定价锚，其回落直接影响权益估值，与FOMC纪要事件组合，对A股节后及港股走势定价具有重要参考意义。",
-      "source": "CNBC",
-      "verified": false,
+      "title": "港股收评：恒指跌0.62%，恒生科技指数跌0.68%，科网股低迷，存储概念股走弱",
+      "summary": "国庆假期结束首个交易日，港股全线下跌。恒生指数收报24130.50点，跌0.62%；恒生科技指数跌0.68%。科网蓝筹中阿里跌逾2%、腾讯跌超1%、美团跌逾1%；存储概念股受内存价格走软影响全线低迷。",
+      "why": "港股国庆后首日收盘数据，直接反映持仓标的（腾讯0700.HK、阿里9988.HK、美团3690.HK）当日表现。存储概念弱势与仓位中SK海力士、美光方向一致。【注：今日大盘头条偏少，仅3条，因SpaceX $40B融资/Lambda AI $4B轮次/Anthropic IPO三大头条均未在白名单信源找到可引用URL，依§2.8规则放弃收录。】",
+      "source": "新浪财经",
+      "verified": true,
       "keywords": [
-        "美债",
-        "国债收益率",
-        "FOMC",
-        "美联储",
-        "利率"
+        "恒生指数",
+        "港股",
+        "腾讯",
+        "阿里巴巴",
+        "美团",
+        "存储"
       ],
-      "translated": true,
-      "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
-      "published_date": "2026-10-06",
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuksyf4997287.shtml",
+      "published_date": "2026-10-07",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -46,91 +47,33 @@
       "is_new": true
     },
     {
-      "id": "4317dab4487e97d9",
-      "tier": 2,
+      "id": "0af07d85d67385d1",
+      "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "16:30",
+      "time": "09:30",
       "group": "大盘头条",
-      "title": "标普500与纳斯达克指数10月6日双创历史新高",
-      "summary": "据彭博社10月6日报道，美股主要指数当日收盘双双创下历史新高，标普500指数与纳斯达克综合指数均突破前期纪录。美债收益率回落及市场对美联储后续政策预期趋于温和为此次上涨提供支撑，科技股表现突出。",
-      "why": "Bloomberg（硬墙域名），发布2026-10-06（距今1日）。美股ATH属一级宏观事件，对港股及A股节后定价具参考意义。cross_ref已填CNBC同日美债收益率及市场报道（白名单，同一日期，同一市场背景）。verified=false：主链接为硬墙，本轮无法独立核实具体指数点位。",
-      "source": "Bloomberg",
-      "verified": false,
+      "title": "谷歌与星座能源签署3,590兆瓦核电协议，890MW为新增产能，CEG股价盘前涨8%",
+      "summary": "Alphabet旗下谷歌与Constellation Energy签署20年核电购电协议，总容量3,590兆瓦，其中890兆瓦为新增核能产能，Constellation将为11座核电机组注资43亿美元升级改造，新增产能于2028至2032年陆续上线。消息公布后Constellation Energy（CEG）盘前涨约8%。",
+      "why": "谷歌/Alphabet（GOOGL）是仓位核心持仓，此协议反映其AI数据中心电力需求战略布局；43亿美元投入意味着未来5年能源成本锁定，对Alphabet长期资本开支预测产生直接影响。核能大规模商业采购属于市场级别信号，影响能源板块估值逻辑，属大盘头条级别事件。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "S&P500",
-        "纳斯达克",
-        "美股",
-        "历史新高",
-        "标普500"
+        "谷歌",
+        "Alphabet",
+        "GOOGL",
+        "核电",
+        "Constellation Energy",
+        "AI基础设施",
+        "数据中心"
       ],
       "translated": true,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-06/stock-market-today-dow-s-p-live-updates",
+      "url": "https://www.cnbc.com/2026/10/06/google-enters-massive-3point6-gw-power-deal-with-constellation-energy-.html",
       "published_date": "2026-10-06",
       "still_developing": false,
-      "cross_ref": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
-      "first_seen": "2026-10-07",
-      "is_new": true
-    },
-    {
-      "id": "db61731ad9028ff6",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "月之暗面完成末轮融资估值约500亿美元，计划2027年一季度赴港IPO",
-      "summary": "据彭博社报道，Kimi大模型开发商月之暗面已完成上市前最后一轮私募融资，估值约500亿美元，较上轮约315亿美元大幅提升，计划最早于2027年第一季度在香港进行首次公开募股，拟融资上限50亿美元。美国银行担任整体协调人，中金、德意志银行及高盛为保荐银行。监管机构已就数据安全问题对月之暗面及深度求索展开调查。",
-      "why": "Bloomberg（硬墙域名），发布2026-10-06（距今1日）。月之暗面以500亿美元估值赴港IPO若成行，将成为近年港股最大规模科技IPO之一，是港股市场级别头条。cross_ref已填SCMP同题报道（白名单 media_en，确认同一IPO申请事件）。verified=false：主链接为硬墙，cross_ref源因代理拦截本轮无法核实其确切发布日期。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "月之暗面",
-        "Kimi",
-        "港股IPO",
-        "AI",
-        "估值"
-      ],
-      "translated": true,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-06/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion",
-      "published_date": "2026-10-06",
-      "still_developing": false,
-      "cross_ref": "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
-      "first_seen": "2026-10-07",
-      "is_new": true
-    },
-    {
-      "id": "cac530f2d77e60bd",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "港股午评：恒指跌0.53%，科技指数跌0.91%，科网股低迷半导体承压",
-      "summary": "新浪财经2026年10月7日午间报道，港股早盘及午盘整体偏弱，恒生指数跌0.53%，恒生科技指数跌0.91%，科网股普遍低迷，半导体板块下挫。A股当日因国庆长假休市，港股独立运行，反映节日期间全球宏观扰动对港股的影响。",
-      "why": "新浪财经（白名单媒体），当日（2026-10-07）午间发布，时效性强。港股节日期间走势直接影响A股投资者对节后（10月8日）开盘预期的研判，属港股大盘头条。title文字取自新浪财经搜索返回的原始标题，数据（恒指-0.53%，科指-0.91%）来自文章标题原文。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "科技股",
-        "午评",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuknsf8219662.shtml",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
+      "cross_ref": "https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-07",
       "is_new": true
@@ -1457,6 +1400,36 @@
       "id": "9e17fa7d362126b3",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-06",
+      "is_new": false
+    },
+    {
+      "id": "32cd608fedb2cd07",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "美债10年期收益率10月6日显著回落，市场静候FOMC纪要",
+      "summary": "据CNBC报道，美国10年期国债收益率于2026年10月6日从近期多年高位显著回落，市场参与者将目光聚焦于次日（10月7日）将公布的美联储9月FOMC会议纪要，研判后续货币政策路径。收益率下行为美股提供估值支撑，科技板块领涨。",
+      "why": "CNBC（白名单媒体），发布于2026-10-06，距今1日。10年期美债收益率为全球资产定价锚，其回落直接影响权益估值，与FOMC纪要事件组合，对A股节后及港股走势定价具有重要参考意义。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "美债",
+        "国债收益率",
+        "FOMC",
+        "美联储",
+        "利率"
+      ],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+      "published_date": "2026-10-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-07",
       "is_new": false
     },
     {
@@ -2871,6 +2844,96 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-06",
+      "is_new": false
+    },
+    {
+      "id": "4317dab4487e97d9",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "标普500与纳斯达克指数10月6日双创历史新高",
+      "summary": "据彭博社10月6日报道，美股主要指数当日收盘双双创下历史新高，标普500指数与纳斯达克综合指数均突破前期纪录。美债收益率回落及市场对美联储后续政策预期趋于温和为此次上涨提供支撑，科技股表现突出。",
+      "why": "Bloomberg（硬墙域名），发布2026-10-06（距今1日）。美股ATH属一级宏观事件，对港股及A股节后定价具参考意义。cross_ref已填CNBC同日美债收益率及市场报道（白名单，同一日期，同一市场背景）。verified=false：主链接为硬墙，本轮无法独立核实具体指数点位。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "S&P500",
+        "纳斯达克",
+        "美股",
+        "历史新高",
+        "标普500"
+      ],
+      "translated": true,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-10-06",
+      "still_developing": false,
+      "cross_ref": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-10-07",
+      "is_new": false
+    },
+    {
+      "id": "db61731ad9028ff6",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "月之暗面完成末轮融资估值约500亿美元，计划2027年一季度赴港IPO",
+      "summary": "据彭博社报道，Kimi大模型开发商月之暗面已完成上市前最后一轮私募融资，估值约500亿美元，较上轮约315亿美元大幅提升，计划最早于2027年第一季度在香港进行首次公开募股，拟融资上限50亿美元。美国银行担任整体协调人，中金、德意志银行及高盛为保荐银行。监管机构已就数据安全问题对月之暗面及深度求索展开调查。",
+      "why": "Bloomberg（硬墙域名），发布2026-10-06（距今1日）。月之暗面以500亿美元估值赴港IPO若成行，将成为近年港股最大规模科技IPO之一，是港股市场级别头条。cross_ref已填SCMP同题报道（白名单 media_en，确认同一IPO申请事件）。verified=false：主链接为硬墙，cross_ref源因代理拦截本轮无法核实其确切发布日期。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "月之暗面",
+        "Kimi",
+        "港股IPO",
+        "AI",
+        "估值"
+      ],
+      "translated": true,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion",
+      "published_date": "2026-10-06",
+      "still_developing": false,
+      "cross_ref": "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-10-07",
+      "is_new": false
+    },
+    {
+      "id": "cac530f2d77e60bd",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "大盘头条",
+      "title": "港股午评：恒指跌0.53%，科技指数跌0.91%，科网股低迷半导体承压",
+      "summary": "新浪财经2026年10月7日午间报道，港股早盘及午盘整体偏弱，恒生指数跌0.53%，恒生科技指数跌0.91%，科网股普遍低迷，半导体板块下挫。A股当日因国庆长假休市，港股独立运行，反映节日期间全球宏观扰动对港股的影响。",
+      "why": "新浪财经（白名单媒体），当日（2026-10-07）午间发布，时效性强。港股节日期间走势直接影响A股投资者对节后（10月8日）开盘预期的研判，属港股大盘头条。title文字取自新浪财经搜索返回的原始标题，数据（恒指-0.53%，科指-0.91%）来自文章标题原文。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "科技股",
+        "午评",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuknsf8219662.shtml",
+      "published_date": "2026-10-07",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-07",
       "is_new": false
     },
     {
