@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-08 08:55 (北京时间)",
+  "updated_at": "2026-10-08 13:32 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,36 +9,35 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-08 08:55 (北京时间)",
-    "new_count": 3,
+    "at": "2026-10-08 13:32 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "253567b9cd83d3cc",
+      "id": "bb50e493d319751a",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "A",
         "HK"
       ],
-      "time": "08:30",
+      "time": "12:00",
       "group": "大盘头条",
-      "title": "机构研判节后A股有望量价齐升，科技主线或重新占优",
-      "summary": "多家机构于10朎8日节后首个交易日前发布研判报告，普遍认为国庆假期间港股反弹、全球风险偏好改善，A股节后开盘有望延续反弹态势，量价同步修复。科技板块（AI算力、半导体、智能驾驶）被认为是节后主线，消费板块需等待实际假日数据验证。",
-      "why": "节后首日机构一致研判方向是判断仓位持有信心的核心参考；科技主线重占优对腾讯、美团、泡泡玛特等港股标的有积极支撑。当日其余重大头条来源有限，本轮大盘头条仅确认2条白名单新稿，特此说明。",
+      "title": "A股国庆节后首个交易日三大指数分化，沪指冲高回落，成交额超万亿",
+      "summary": "A股10月8日节后首日开盘高开，沪深三大股指震荡分化，沪指冲高后回落，成交额超万亿元；港股亦同步开盘，市场关注节后资金流向与政策预期落地进展。",
+      "why": "国庆长假后首个交易日是A股资金情绪的重要风向标，关注港股持仓可通过沪深港通情绪传导判断短期走向。成交额超万亿反映市场活跃度，对持有港股/A股标的的组合具有直接参考意义。",
       "source": "新浪财经",
       "verified": false,
       "keywords": [
         "A股",
-        "节后首日",
-        "科技主线",
-        "机构研判",
-        "量价齐升"
+        "港股",
+        "节后行情",
+        "大盘"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-10-08/doc-iniumytr4530975.shtml",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908q8la.html",
       "published_date": "2026-10-08",
       "still_developing": false,
       "cross_ref": "",
@@ -47,61 +46,92 @@
       "is_new": true
     },
     {
-      "id": "2a9537e6c1acf9f8",
+      "id": "af434028b32295f6",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "22:00",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "谷歌广告技术反垄断案：DOJ与谷歌提交最终救济方案分歧犹存，强制拆分已被排除",
-      "summary": "美国司法部（DOJ）与谷歌（GOOGL）于10月2日前后向联邦法院提交广告技术反垄断案拟议最终判决，但双方对多项救济条款仍存在显著分歧。此前法官Brinkema于9月2日裁定拒绝强制分拆AdX，被视为谷歌重大胜利。当前预期谷歌将以行为性救济为主（开放FAPI、互操作性要求），而非结构性拆分，消除了GOOGL最大的下行风险。",
-      "why": "谷歌强制拆分被排除后，GOOGL的估値尾部风险大幅降低；最终判决落地前，行为性救济方案的具体内容将决定谷歌广告业务的合规成本，对其广告收入增速有直接影响；持有GOOGL仓位期间需跟踪该案最终裁定时间表。",
-      "source": "华尔街见闻",
+      "title": "英伟达市值逼近6万亿美元，超越苹果跻身全球第一大市值公司",
+      "summary": "受AI芯片需求持续强劲驱动，英伟达股价于10月6日周一大涨，市值逼近6万亿美元并超越苹果，成为全球市值最高公司。",
+      "why": "英伟达是组合重点持仓标的（NVDA），其市值创新高直接影响持仓估值；AI算力景气度持续向好亦对A股/港股AI基础设施板块有情绪带动效应。",
+      "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "谷歌",
-        "GOOGL",
-        "反垄断",
-        "广告技术",
-        "AdX",
-        "DOJ"
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "市值",
+        "AI芯片"
       ],
       "translated": false,
-      "url": "https://wallstreetcn.com/articles/3729794",
-      "published_date": "2026-10-07",
-      "still_developing": true,
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvp9131018.shtml",
+      "published_date": "2026-10-06",
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-08",
       "is_new": true
     },
     {
-      "id": "88847bb6b510d758",
+      "id": "54ef1dd27bbb9d01",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "美债10年期收益率升破5.27%创年内新高，节后A股走势面临外部压力",
+      "summary": "10月7日美债10年期收益率突破5.27%创年内新高，市场担忧美联储降息节奏进一步放缓；多家机构研判国庆后A股短期面临美债利率抬升与汇率压力，但中长期政策预期仍偏积极。",
+      "why": "美债长端利率是全球资产定价基准，破5.27%高位对港股估值（分母端）形成压制，同时影响美股科技板块（如英伟达、谷歌等组合持仓）的相对吸引力；是节后开市前最重要的宏观背景变量。",
+      "source": "第一财经",
+      "verified": false,
+      "keywords": [
+        "美债收益率",
+        "宏观",
+        "A股",
+        "港股",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261007/herald/bea156106cd8705c69d8b6a157743045.html",
+      "published_date": "2026-10-07",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-08",
+      "is_new": true
+    },
+    {
+      "id": "b4380811c05c5bd2",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "US"
+        "HK"
       ],
-      "time": "08:00",
+      "time": "10:00",
       "group": "个股",
-      "title": "SK海力士三季度前瞻：韩元升值与三星HBM4份额扩张构成双重压力，HBM4量产持续放量",
-      "summary": "市场预计SK海力士2026年三季度营业利涤78.8万亿韩元，低于二季度79.3万亿（因HBM4延迟fa货小幅低于预期）。主要风险包括：三星HBM4市占率已从二季度基准5%升至35%附近，韩元升值压制出口利润，以及HBM4与HBM3e混产期间产能利用率波动。三季度HBM4出货量预计环比大幅提升，三星与SK之间的市场争夺成为AI内存赛道核心变量。",
-      "why": "SK海力士NVDA HBM主要供应商；三季度实际出货与利润能否超预期，将直接影响AI芯片供应链的市场情绪，对NVDA持仓的隐含波动率和期权定价有传导效应；三星份额快速增长构成SK中期竞争力的不确定性，需持续跟踪。",
-      "source": "华尔街见闻",
+      "title": "小米SU7及YU7 10月推出限时优惠，价格下调幅度达数千元",
+      "summary": "小米汽车10月8日宣布对旗舰车型SU7及YU7推出阶段性限时优惠活动，各版本价格下调幅度不一，官方将调整定性为促销而非降价，意在提振第四季度交付量。",
+      "why": "小米汽车（1810.HK）是组合重要持仓，SU7/YU7定价策略直接影响Q4交付预期与市场份额走势；在竞争对手普遍加大促销力度背景下，小米的价格策略对近期股价有短期催化作用，适合结合期权卖方策略评估时机。",
+      "source": "第一财经",
       "verified": false,
       "keywords": [
-        "SK海力士",
-        "HBM4",
-        "三星",
-        "半导体",
-        "AI内存",
-        "三季度"
+        "小米",
+        "Xiaomi",
+        "SU7",
+        "YU7",
+        "小米汽车",
+        "1810.HK"
       ],
       "translated": false,
-      "url": "https://wallstreetcn.com/articles/3758134",
-      "published_date": "2026-10-07",
+      "url": "https://m.21jingji.com/article/20261008/herald/124a8e4b5b897ea08c94f92f9536c9c5.html",
+      "published_date": "2026-10-08",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1458,6 +1488,68 @@
       "is_new": false
     },
     {
+      "id": "253567b9cd83d3cc",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "机构研判节后A股有望量价齐升，科技主线或重新占优",
+      "summary": "多家机构于10朎8日节后首个交易日前发布研判报告，普遍认为国庆假期间港股反弹、全球风险偏好改善，A股节后开盘有望延续反弹态势，量价同步修复。科技板块（AI算力、半导体、智能驾驶）被认为是节后主线，消费板块需等待实际假日数据验证。",
+      "why": "节后首日机构一致研判方向是判断仓位持有信心的核心参考；科技主线重占优对腾讯、美团、泡泡玛特等港股标的有积极支撑。当日其余重大头条来源有限，本轮大盘头条仅确认2条白名单新稿，特此说明。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "节后首日",
+        "科技主线",
+        "机构研判",
+        "量价齐升"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-10-08/doc-iniumytr4530975.shtml",
+      "published_date": "2026-10-08",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-08",
+      "is_new": false
+    },
+    {
+      "id": "2a9537e6c1acf9f8",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "谷歌广告技术反垄断案：DOJ与谷歌提交最终救济方案分歧犹存，强制拆分已被排除",
+      "summary": "美国司法部（DOJ）与谷歌（GOOGL）于10月2日前后向联邦法院提交广告技术反垄断案拟议最终判决，但双方对多项救济条款仍存在显著分歧。此前法官Brinkema于9月2日裁定拒绝强制分拆AdX，被视为谷歌重大胜利。当前预期谷歌将以行为性救济为主（开放FAPI、互操作性要求），而非结构性拆分，消除了GOOGL最大的下行风险。",
+      "why": "谷歌强制拆分被排除后，GOOGL的估値尾部风险大幅降低；最终判决落地前，行为性救济方案的具体内容将决定谷歌广告业务的合规成本，对其广告收入增速有直接影响；持有GOOGL仓位期间需跟踪该案最终裁定时间表。",
+      "source": "华尔街见闻",
+      "verified": false,
+      "keywords": [
+        "谷歌",
+        "GOOGL",
+        "反垄断",
+        "广告技术",
+        "AdX",
+        "DOJ"
+      ],
+      "translated": false,
+      "url": "https://wallstreetcn.com/articles/3729794",
+      "published_date": "2026-10-07",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-08",
+      "is_new": false
+    },
+    {
       "id": "8594f677092eee49",
       "tier": 1,
       "lang": "zh",
@@ -2799,6 +2891,37 @@
       "cross_ref": null,
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-07",
+      "is_new": false
+    },
+    {
+      "id": "88847bb6b510d758",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "SK海力士三季度前瞻：韩元升值与三星HBM4份额扩张构成双重压力，HBM4量产持续放量",
+      "summary": "市场预计SK海力士2026年三季度营业利涤78.8万亿韩元，低于二季度79.3万亿（因HBM4延迟fa货小幅低于预期）。主要风险包括：三星HBM4市占率已从二季度基准5%升至35%附近，韩元升值压制出口利润，以及HBM4与HBM3e混产期间产能利用率波动。三季度HBM4出货量预计环比大幅提升，三星与SK之间的市场争夺成为AI内存赛道核心变量。",
+      "why": "SK海力士NVDA HBM主要供应商；三季度实际出货与利润能否超预期，将直接影响AI芯片供应链的市场情绪，对NVDA持仓的隐含波动率和期权定价有传导效应；三星份额快速增长构成SK中期竞争力的不确定性，需持续跟踪。",
+      "source": "华尔街见闻",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "HBM4",
+        "三星",
+        "半导体",
+        "AI内存",
+        "三季度"
+      ],
+      "translated": false,
+      "url": "https://wallstreetcn.com/articles/3758134",
+      "published_date": "2026-10-07",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-08",
       "is_new": false
     },
     {
