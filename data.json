@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-09 08:34 (北京时间)",
+  "updated_at": "2026-10-09 13:32 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,102 +9,101 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-09 08:34 (北京时间)",
+    "at": "2026-10-09 13:32 (北京时间)",
     "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "7bdbb68374d51e4c",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "04:30",
-      "group": "大盘头条",
-      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-      "summary": "OpenAI clarified its annualized revenue run rate is about $50 billion net—not the $70 billion gross figure widely cited—marking a significant downward revision to AI infrastructure demand expectations. Nvidia fell roughly 3%, Oracle dropped about 6%, Intel fell around 5%, and CoreWeave also declined as markets reassessed AI capex justification.",
-      "why": "OpenAI是AI芯片/云算力需求的核心锚点，收入口径从$70B调至$50B净值令市场重新评估AI资本开支的合理性。组合中英伟达(NVDA)受直接冲击，covered call溢价可能上升值得关注；同时为持有的科技类sell put头寸的delta风险敲警钟。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "OpenAI",
-        "Nvidia",
-        "NVDA",
-        "AI",
-        "Oracle",
-        "英伟达",
-        "CoreWeave"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "published_date": "2026-10-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": true
-    },
-    {
-      "id": "73814c3bde2893cc",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "05:00",
-      "group": "大盘头条",
-      "title": "Stock market today: S&P 500, Nasdaq fall for second day in a row as AI trade takes a hit",
-      "summary": "The Nasdaq fell 1.25% to 27,193, the S&P 500 dropped 0.47% to 7,765, while the Dow Jones edged up 0.10% to 51,231 on October 8. AI and semiconductor stocks led losses following the OpenAI revenue revision; oil briefly spiked above $102 on tanker attacks in the Strait of Hormuz; the 10-year Treasury yield hovered near 5.35%.",
-      "why": "美股二连跌，科技/AI板块受OpenAI收入下修+油价冲击+高债息三重压制，是对组合中英伟达、谷歌、英特尔等仓位影响最直接的日线数据。相较OpenAI专项条目，本条补充道指正收益、S&P收盘点位及油价冲击因子，信息增量明确。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "S&P 500",
-        "Nasdaq",
-        "美股",
-        "AI",
-        "Nvidia",
-        "semiconductor"
-      ],
-      "translated": false,
-      "url": "https://cnbc.com/2026/10/08/stock-market-today-live-updates.html",
-      "published_date": "2026-10-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": true
-    },
-    {
-      "id": "c1e6781b84db91e4",
+      "id": "36b50aa86e9beed9",
       "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "A股节后二日延续回调，科技板块领跌，创业板指逼近3000点整数关口",
+      "summary": "2026年10月9日，A股节后第二个交易日，三大指数继续走弱，创业板指盘中跌至近10个月新低，接近3000点整数关口。AI算力、光模块、存储等国庆前强势科技赛道领跌，银行板块凭借高股息属性相对抗跌。",
+      "why": "A股节后科技板块承压，与美股AI题材（OpenAI营收低于预期）同向调整；关注持仓组合中A股相关标的的联动风险，短期波动率或上升。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "创业板",
+        "AI算力",
+        "科技板块",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qcnq.html",
+      "published_date": "2026-10-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-09",
+      "is_new": true
+    },
+    {
+      "id": "198761897fb5840f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "港股节后科技板块逆美股颓势，恒生科技指数涨幅一度扩至约2%",
+      "summary": "2026年10月9日，港股科技板块整体呈抗跌态势，与美股AI题材同日走势出现阶段性背离；恒生科技指数盘中涨幅一度扩至约2%，小米、网易等龙头领涨。同期，江波龙H股已于10月8日起正式纳入沪港通及深港通标的证券名单。",
+      "why": "港股科技与美股AI板块短期背离，可能与内地资金节后重新配置有关；关注沪深港通资金流向变化，以及恒生科技持仓的波动率区间。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生科技",
+        "HK",
+        "沪港通",
+        "科技板块"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qbm6.html",
+      "published_date": "2026-10-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-09",
+      "is_new": true
+    },
+    {
+      "id": "b63e4205774f5c8a",
+      "tier": 3,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "03:30",
-      "group": "大盘头条",
-      "title": "Treasury yields: U.S. 10-year hits 5.35% intraday ahead of 30-year bond auction",
-      "summary": "The 10-year Treasury yield reached an intraday high of 5.35%—the highest level since approximately 2002—before pulling back to around 5.24% after a 30-year bond auction. The 30-year yield also approached near-24-year highs around 5.60%. Fed officials' remarks during the session helped temper the rise.",
-      "why": "10年期利率5.35%超越已收录2026-10-07条目的5.27%，本条补充盘中新高及30年期拍卖这一增量信息；高利率持续压制成长股估值倍数，对sell put策略安全垫（远离行权价空间）与期权隐含波动率均有影响。",
-      "source": "CNBC",
-      "verified": true,
+      "time": "06:00",
+      "group": "个股",
+      "title": "Tesla to Showcase Its Cybercab Robotaxi at Paris Motor Show Starting Oct. 12",
+      "summary": "Tesla will debut its Cybercab robotaxi in Europe for the first time at the Paris Motor Show (Oct. 12–18), exhibiting in Hall 7.1 alongside other FSD-equipped models available for test drives. Visitors will be able to interact with the Cybercab but not ride in it; European commercial availability is targeted for 2027. Tesla's FSD has also been renamed 'Tesla Assisted Driving' in Europe as part of EU regulatory efforts.",
+      "why": "延续报道：巴黎车展10月12日开幕，Cybercab首度亮相欧洲是品牌出海里程碑，FSD欧盟监管进展是TSLA中期欧洲收入逻辑的重要催化剂；可观察车展前后TSLA隐含波动率变化。",
+      "source": "Bloomberg",
+      "verified": false,
       "keywords": [
-        "美债",
-        "利率",
-        "Treasury",
-        "Federal Reserve",
-        "债券"
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Cybercab",
+        "Robotaxi",
+        "FSD",
+        "自动驾驶"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-      "published_date": "2026-10-08",
-      "still_developing": false,
+      "url": "https://bloomberg.com/news/articles/2026-10-06/tesla-to-showcase-its-cybercab-robotaxi-at-paris-auto-show",
+      "published_date": "2026-10-06",
+      "still_developing": true,
       "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
       "first_seen": "2026-10-09",
       "is_new": true
     },
@@ -1654,6 +1653,69 @@
       "is_new": false
     },
     {
+      "id": "7bdbb68374d51e4c",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "04:30",
+      "group": "大盘头条",
+      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+      "summary": "OpenAI clarified its annualized revenue run rate is about $50 billion net—not the $70 billion gross figure widely cited—marking a significant downward revision to AI infrastructure demand expectations. Nvidia fell roughly 3%, Oracle dropped about 6%, Intel fell around 5%, and CoreWeave also declined as markets reassessed AI capex justification.",
+      "why": "OpenAI是AI芯片/云算力需求的核心锚点，收入口径从$70B调至$50B净值令市场重新评估AI资本开支的合理性。组合中英伟达(NVDA)受直接冲击，covered call溢价可能上升值得关注；同时为持有的科技类sell put头寸的delta风险敲警钟。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "OpenAI",
+        "Nvidia",
+        "NVDA",
+        "AI",
+        "Oracle",
+        "英伟达",
+        "CoreWeave"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "published_date": "2026-10-08",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-09",
+      "is_new": false
+    },
+    {
+      "id": "73814c3bde2893cc",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "05:00",
+      "group": "大盘头条",
+      "title": "Stock market today: S&P 500, Nasdaq fall for second day in a row as AI trade takes a hit",
+      "summary": "The Nasdaq fell 1.25% to 27,193, the S&P 500 dropped 0.47% to 7,765, while the Dow Jones edged up 0.10% to 51,231 on October 8. AI and semiconductor stocks led losses following the OpenAI revenue revision; oil briefly spiked above $102 on tanker attacks in the Strait of Hormuz; the 10-year Treasury yield hovered near 5.35%.",
+      "why": "美股二连跌，科技/AI板块受OpenAI收入下修+油价冲击+高债息三重压制，是对组合中英伟达、谷歌、英特尔等仓位影响最直接的日线数据。相较OpenAI专项条目，本条补充道指正收益、S&P收盘点位及油价冲击因子，信息增量明确。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "Nasdaq",
+        "美股",
+        "AI",
+        "Nvidia",
+        "semiconductor"
+      ],
+      "translated": false,
+      "url": "https://cnbc.com/2026/10/08/stock-market-today-live-updates.html",
+      "published_date": "2026-10-08",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-09",
+      "is_new": false
+    },
+    {
       "id": "4d5fc28d03c4eb1a",
       "tier": 2,
       "lang": "zh",
@@ -2928,6 +2990,36 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-08",
+      "is_new": false
+    },
+    {
+      "id": "c1e6781b84db91e4",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "03:30",
+      "group": "大盘头条",
+      "title": "Treasury yields: U.S. 10-year hits 5.35% intraday ahead of 30-year bond auction",
+      "summary": "The 10-year Treasury yield reached an intraday high of 5.35%—the highest level since approximately 2002—before pulling back to around 5.24% after a 30-year bond auction. The 30-year yield also approached near-24-year highs around 5.60%. Fed officials' remarks during the session helped temper the rise.",
+      "why": "10年期利率5.35%超越已收录2026-10-07条目的5.27%，本条补充盘中新高及30年期拍卖这一增量信息；高利率持续压制成长股估值倍数，对sell put策略安全垫（远离行权价空间）与期权隐含波动率均有影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美债",
+        "利率",
+        "Treasury",
+        "Federal Reserve",
+        "债券"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
+      "published_date": "2026-10-08",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-09",
       "is_new": false
     },
     {
