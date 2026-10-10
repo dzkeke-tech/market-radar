@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-10 08:44 (北京时间)",
+  "updated_at": "2026-10-10 13:34 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,64 +9,70 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-10 08:44 (北京时间)",
-    "new_count": 5,
+    "at": "2026-10-10 13:34 (北京时间)",
+    "new_count": 7,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "51aec47d93aae42c",
+      "id": "10a8f939f221c2e5",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "US"
+        "US",
+        "HK",
+        "A"
       ],
-      "time": "09:00",
+      "time": "07:00",
       "group": "大盘头条",
-      "title": "Nikkei独家：苹果削减iPhone 18 Pro元件订单至少15%，高价抑制需求",
-      "summary": "Nikkei Asia独家报道，苹果已要求部分供应商削减iPhone 18 Pro及Pro Max的10月元件订单，幅度为15%至20%。供应链管理层将需求疲软归因于新机起售价上调100美元（Pro起售$1,199）及标准版iPhone 18推迟至2027年春季发布。苹果股价盘前跌逾1.6%。",
-      "why": "供应链减产是消费电子与半导体产业的负面信号，对台积电、存储厂商及相关供应商均有传导；苹果隐含波动率上升，卖出看跌期权需警惕下行风险。苹果可折叠新品Duo拟10月23日发布，届时将是方向性关键时间点。",
-      "source": "Nikkei Asia",
-      "verified": false,
+      "title": "Oil prices stable as market weighs supply risks, rising Middle East exports",
+      "summary": "Brent crude eased to ~$103/bbl on Oct 9 as Iran-US 'productive discussions' tempered fears, though tanker flows remain at ~90% of pre-war levels. EIA's October STEO raised Q4 2026 Brent forecast to average $105/bbl; the Sep 15 Saudi pipeline attack had briefly sent Brent to $131/bbl. A planned G7 strategic stock release was also reported.",
+      "why": "油价高企持续推升通胀预期，强化美联储维持高利率的立场；对高估值科技/消费成长股的估值压力较大。若油价再度飙升（沙特管道被攻击等风险）将冲击持仓组合；伊朗谈判进展值得持续追踪，有助于判断期权行权价设置方向。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "iPhone 18 Pro",
-        "苹果",
-        "供应链",
-        "减产"
+        "油价",
+        "Brent",
+        "Middle East",
+        "Iran",
+        "EIA",
+        "地缘政治",
+        "原油"
       ],
-      "translated": true,
-      "url": "https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand",
-      "published_date": "2026-10-09",
-      "still_developing": false,
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/06/oil-fell-as-traders-weigh-strong-mideast-exports-against-gulf-tensions.html",
+      "published_date": "2026-10-06",
+      "still_developing": true,
       "cross_ref": "",
-      "_url_check": "主源 asia.nikkei.com 不可机检且未提供 cross_ref",
+      "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-10",
       "is_new": true
     },
     {
-      "id": "d754c2e892b3ac19",
-      "tier": 1,
+      "id": "2ea3c15598715481",
+      "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "09:30",
+      "time": "21:30",
       "group": "大盘头条",
-      "title": "U.S. stocks cap volatile week with broad gains: Dow +0.8%, S&P 500 closes at 7,811.54, Nasdaq +0.6%",
-      "summary": "Stocks rallied Friday October 9 as Trump's comments about a Russia-U.S. diesel supply agreement lifted sentiment. The Dow Jones ended at 51,654.95 (+0.8%), S&P 500 at 7,811.54 (+0.6%), Nasdaq Composite at 27,366.17 (+0.6%). All three major indexes posted weekly gains, with the S&P 500 approaching an all-time high as Q3 earnings season kicks off.",
-      "why": "大盘周线收涨、标普接近历史高位，Q3财报季即将开启；对持仓估值正面，但高油价与高债收益率仍是周内拖累因素，卖出期权策略处于相对有利窗口，留意下周宏观数据与财报对走势的影响。",
-      "source": "CNBC",
-      "verified": true,
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rally to cap volatile week as earnings season nears",
+      "summary": "US stocks closed higher Oct 9: Dow +0.8%, S&P 500 +0.6%, Nasdaq +0.6%. All three major averages posted weekly gains, recovering from the AI-driven selloff earlier in the week. Big bank earnings season kicks off next week with results from JPMorgan, Goldman, Wells Fargo and others.",
+      "why": "美股在AI卖压中全面收复失地并周度收涨，说明市场情绪短期稳定；大型银行财报季下周启动，将为市场定下Q3盈利基调，影响整体风险偏好，对sell-put策略的delta/vega管理有直接指引意义。",
+      "source": "Yahoo Finance",
+      "verified": false,
       "keywords": [
-        "S&P 500",
-        "道指",
-        "纳指",
         "美股",
-        "Q3财报"
+        "Dow",
+        "S&P 500",
+        "Nasdaq",
+        "earnings season",
+        "财报季"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html",
       "published_date": "2026-10-09",
       "still_developing": false,
       "cross_ref": "",
@@ -75,28 +81,64 @@
       "is_new": true
     },
     {
-      "id": "97ce9b31d5ca9227",
-      "tier": 1,
-      "lang": "en",
+      "id": "0ad3ad8dfcb0b00c",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
-        "US"
+        "HK",
+        "A"
       ],
-      "time": "10:00",
+      "time": "19:00",
       "group": "大盘头条",
-      "title": "Fed Sep minutes: officials expect another rate hike before year-end; 10-year Treasury yield hits 5.344%, highest since 2002",
-      "summary": "FOMC September meeting minutes showed officials expect to raise rates again before year-end, with no specific timing given. A Fed official said the central bank will likely have to raise benchmark rates further. The 10-year U.S. Treasury yield hit an intraday high of 5.344%, its highest since 2002, while WTI crude near $92 added to inflationary pressure. The Nasdaq fell 1.25% on Thursday as AI-related stocks slid.",
-      "why": "10年期美债收益率创逾20年新高，对科技/成长股估值压制明显；隐含波动率上升有利于卖出期权，但需警惕利率敏感板块（尤其互联网/科技持仓）回调风险。美联储年内再加息预期强化，需重新评估期权到期日跨越潜在加息窗口的风险。",
-      "source": "CNBC",
-      "verified": false,
+      "title": "港股热点：恒科指大涨约3%，小米涨9.72%，阿里领涨，A股午后V形反攻",
+      "summary": "10月9日港股强劲反弹：恒生科技指数约涨3%，小米（1810.HK）+9.72%报25.96港元，阿里巴巴（9988.HK）涨约3.5%，科技与金融双轮驱动；恒生指数收24211点+1.79%。A股午后上演V形反弹，上证综指微涨0.05%收3813.79点，创业板指+0.22%。恒指夜期10月10日高水152点。",
+      "why": "港股/A股同步消化AI卖盘冲击并快速反弹，科技主线未受伤及。小米大涨直接利好持仓；A股午后由券商领涨，资金仍对估值修复有信心。恒指夜期高水暗示本周末前维持较积极情绪，有利于持put卖出方。",
+      "source": "新浪财经",
+      "verified": true,
       "keywords": [
-        "美联储",
-        "加息",
-        "美债收益率",
-        "FOMC",
-        "国债"
+        "港股",
+        "恒生指数",
+        "A股",
+        "小米",
+        "阿里巴巴",
+        "恒科指",
+        "V形反弹"
       ],
       "translated": false,
-      "url": "https://cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qevu.html",
+      "published_date": "2026-10-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-10",
+      "is_new": true
+    },
+    {
+      "id": "c9a1d79fb01a13d0",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A",
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "PBOC plans large liquidity injection via buyout reverse repos after Golden Week holiday",
+      "summary": "Following China's Golden Week national holiday (Oct 1-7), the PBOC announced a large-scale buyout reverse repo operation on Oct 8-9, injecting approximately 1.1-1.2 trillion yuan in 3-month tenor funding to maintain ample banking system liquidity. The central bank reiterated its 'appropriately loose' monetary policy stance and opposition to competitive currency depreciation.",
+      "why": "节后央行大额注水维稳流动性，是支撑A股/港股午后反弹的重要宏观背景；人民银行继续宽松立场对估值修复有利，降低了持有港股/A股的机会成本，有助于sell-put策略的实施环境。",
+      "source": "MNI Markets",
+      "verified": false,
+      "keywords": [
+        "人民银行",
+        "PBOC",
+        "逆回购",
+        "流动性",
+        "货币政策",
+        "宽松"
+      ],
+      "translated": false,
+      "url": "https://www.mnimarkets.com/articles/mni-brief-pboc-plans-big-liquidity-injection-after-holiday-1759225410458",
       "published_date": "2026-10-08",
       "still_developing": false,
       "cross_ref": "",
@@ -105,29 +147,30 @@
       "is_new": true
     },
     {
-      "id": "207b273c631a6b1f",
+      "id": "340347aa3edd32b3",
       "tier": 2,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "A"
+        "HK",
+        "US"
       ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "A股节后V型翻红：上证收3813.79（+0.05%），AI硬件年内涨83%，券商看好Q4结构性行情",
-      "summary": "A股三大指数10月9日节后首日午后V型反攻全线收涨，上证指数报3813.79点（+0.05%），深成指报12641.86点（+0.17%）。科技成长主线受资金追捧，Wind光模块（CPO）指数年内涨幅达83.99%；多家券商认为四季度A股底部支撑稳固，'科技成长+红利防御'均衡配置为主流建议。A股三季报披露季同步启动。",
-      "why": "A股企稳有助于港股互联网/消费情绪修复；AI硬件板块强势延续对英伟达/SK海力士等半导体持仓形成正向验证；三季报季启动，关注持仓中腾讯、小米、美团等的业绩验证时间窗。",
-      "source": "新浪财经",
+      "time": "21:00",
+      "group": "个股",
+      "title": "US market update: Dow rises 423 points, Alibaba (BABA) surges 5.36%",
+      "summary": "Alibaba Group (BABA) surged 5.36% on Oct 9, among the strongest performers in a broadly higher US market session. CICC maintained its Outperform rating with a HK$172 target, citing rapid growth in Alibaba Cloud revenue and profit with positive free cash flow. YTD the stock is still down ~24% amid heavy AI capex investments.",
+      "why": "阿里巴巴是中概股代表性标的；+5.36%单日涨幅说明市场情绪已从OpenAI收入担忧中恢复，云业务盈利能力受认可。中信证券HK$172目标意味着港股对应目前有上行空间；但YTD下跌24%的背景下，卖put者需关注后续财报（11月预计）是否验证云业务改善。",
+      "source": "GuruFocus",
       "verified": false,
       "keywords": [
-        "A股",
-        "上证指数",
-        "AI硬件",
-        "光模块",
-        "科技",
-        "三季报"
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "云计算",
+        "阿里云"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qfxg.html",
+      "url": "https://gurufocus.com/news/9117949/us-market-update-dow-rises-423-points-alibaba-baba-surges-536",
       "published_date": "2026-10-09",
       "still_developing": false,
       "cross_ref": "",
@@ -136,30 +179,64 @@
       "is_new": true
     },
     {
-      "id": "624d31c0caee4fdd",
-      "tier": 3,
-      "lang": "zh",
+      "id": "0bb8ea6ec32e0c5a",
+      "tier": 2,
+      "lang": "en",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "港股2026年前三季度新增上市116家，A+H双重上市扩至209家，IPO势头持续",
-      "summary": "新浪港股热点快报显示，截至2026年10月9日，港股年内新增上市企业达116家；前三季度有38家A股公司完成H股上市，A+H双重上市板块扩至209家。港交所改革措施持续推进，收窄买卖差价及T+1结算周期讨论继续深化。",
-      "why": "港股IPO及A+H扩容趋势持续，有助于港股整体流动性与定价效率提升；对持仓中互联网/消费类港股的估值体系形成支撑，同时需关注结算周期改革对期权保证金管理的潜在影响。",
-      "source": "新浪财经",
+      "time": "07:00",
+      "group": "个股",
+      "title": "SK Hynix ADR lockup expiry stirs anxiety over bumper ADR premium",
+      "summary": "SK Hynix's 90-day lockup on its US-listed ADRs (ticker: SKHY) expired Oct 8, 2026. The ADRs, which raised $26.5B at $149 in July 9's IPO, have been trading at approximately 38% premium over its Korean-listed shares. Conversion is capped at 2.5% of total shares outstanding, which analysts say may prevent the premium from collapsing quickly. Seoul shares fell 2.8% on Oct 9 despite AMD's endorsement of multi-generational HBM cooperation.",
+      "why": "SK Hynix ADR锁定期到期是重要技术面事件，38%溢价和有限转换机制决定套利空间受限，但增加了美股端的波动风险；AMD背书多代HBM合作但未附具体条款，市场反应偏谨慎。南方两倍做多海力士ETF持有者需重点关注此期权到期是否触发异常波动，以及HBM4市场份额数据（三星份额Q2升至33%、SK Hynix降至30%）对估值逻辑的影响。",
+      "source": "Bloomberg",
       "verified": false,
       "keywords": [
-        "港股",
-        "IPO",
-        "A+H",
-        "港交所",
-        "上市"
+        "SK海力士",
+        "SK Hynix",
+        "ADR",
+        "HBM",
+        "DRAM",
+        "存储芯片",
+        "锁定期"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qfrk.html",
-      "published_date": "2026-10-10",
-      "still_developing": false,
+      "url": "https://bloomberg.com/news/articles/2026-10-07/sk-hynix-lockup-expiry-stirs-anxiety-over-bumper-adr-premium",
+      "published_date": "2026-10-07",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-10-10",
+      "is_new": true
+    },
+    {
+      "id": "f58af8e4f858ca7d",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "The GENIUS Act Compliance Deadline: Treasury's October 19 Window",
+      "summary": "Treasury's GENIUS Act NPRM (docket TREAS-DO-2026-0496) has an October 19, 2026 comment deadline — the last window for industry to shape final stablecoin rules before the January 18, 2027 enforcement date. The Act bars stablecoin holders from earning yield. Circle's USDC hit $74.1B in circulation (vs $74.3B reserves) as of Oct 5. On Oct 7, Circle announced USDC/EURC integration into SAP enterprise payments.",
+      "why": "GENIUS Act最终规则将决定Circle（CRCL）的商业模式边界和分发成本结构；禁止付息规定直接影响Coinbase对USDC持有者提供的3.6%年化收益安排。Oct 19评论截止是关键节点，规则走向影响整个稳定币赛道估值，与Circle持仓的option定价密切相关。SAP整合是B2B支付场景拓展的里程碑式进展。",
+      "source": "Forkast News",
+      "verified": false,
+      "keywords": [
+        "Circle",
+        "USDC",
+        "GENIUS Act",
+        "稳定币",
+        "stablecoin",
+        "CRCL",
+        "SAP"
+      ],
+      "translated": false,
+      "url": "https://forkast.news/the-genius-act-compliance-deadline-treasurys-october-19-window/",
+      "published_date": "2026-10-08",
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-10",
@@ -1615,6 +1692,95 @@
       "is_new": false
     },
     {
+      "id": "51aec47d93aae42c",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Nikkei独家：苹果削减iPhone 18 Pro元件订单至少15%，高价抑制需求",
+      "summary": "Nikkei Asia独家报道，苹果已要求部分供应商削减iPhone 18 Pro及Pro Max的10月元件订单，幅度为15%至20%。供应链管理层将需求疲软归因于新机起售价上调100美元（Pro起售$1,199）及标准版iPhone 18推迟至2027年春季发布。苹果股价盘前跌逾1.6%。",
+      "why": "供应链减产是消费电子与半导体产业的负面信号，对台积电、存储厂商及相关供应商均有传导；苹果隐含波动率上升，卖出看跌期权需警惕下行风险。苹果可折叠新品Duo拟10月23日发布，届时将是方向性关键时间点。",
+      "source": "Nikkei Asia",
+      "verified": false,
+      "keywords": [
+        "iPhone 18 Pro",
+        "苹果",
+        "供应链",
+        "减产"
+      ],
+      "translated": true,
+      "url": "https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand",
+      "published_date": "2026-10-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "主源 asia.nikkei.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-10-10",
+      "is_new": false
+    },
+    {
+      "id": "d754c2e892b3ac19",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "U.S. stocks cap volatile week with broad gains: Dow +0.8%, S&P 500 closes at 7,811.54, Nasdaq +0.6%",
+      "summary": "Stocks rallied Friday October 9 as Trump's comments about a Russia-U.S. diesel supply agreement lifted sentiment. The Dow Jones ended at 51,654.95 (+0.8%), S&P 500 at 7,811.54 (+0.6%), Nasdaq Composite at 27,366.17 (+0.6%). All three major indexes posted weekly gains, with the S&P 500 approaching an all-time high as Q3 earnings season kicks off.",
+      "why": "大盘周线收涨、标普接近历史高位，Q3财报季即将开启；对持仓估值正面，但高油价与高债收益率仍是周内拖累因素，卖出期权策略处于相对有利窗口，留意下周宏观数据与财报对走势的影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "道指",
+        "纳指",
+        "美股",
+        "Q3财报"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
+      "published_date": "2026-10-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-10",
+      "is_new": false
+    },
+    {
+      "id": "97ce9b31d5ca9227",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "Fed Sep minutes: officials expect another rate hike before year-end; 10-year Treasury yield hits 5.344%, highest since 2002",
+      "summary": "FOMC September meeting minutes showed officials expect to raise rates again before year-end, with no specific timing given. A Fed official said the central bank will likely have to raise benchmark rates further. The 10-year U.S. Treasury yield hit an intraday high of 5.344%, its highest since 2002, while WTI crude near $92 added to inflationary pressure. The Nasdaq fell 1.25% on Thursday as AI-related stocks slid.",
+      "why": "10年期美债收益率创逾20年新高，对科技/成长股估值压制明显；隐含波动率上升有利于卖出期权，但需警惕利率敏感板块（尤其互联网/科技持仓）回调风险。美联储年内再加息预期强化，需重新评估期权到期日跨越潜在加息窗口的风险。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "加息",
+        "美债收益率",
+        "FOMC",
+        "国债"
+      ],
+      "translated": false,
+      "url": "https://cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
+      "published_date": "2026-10-08",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-10",
+      "is_new": false
+    },
+    {
       "id": "b37307fa29da0178",
       "tier": 2,
       "lang": "en",
@@ -2787,6 +2953,37 @@
       "is_new": false
     },
     {
+      "id": "207b273c631a6b1f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股节后V型翻红：上证收3813.79（+0.05%），AI硬件年内涨83%，券商看好Q4结构性行情",
+      "summary": "A股三大指数10月9日节后首日午后V型反攻全线收涨，上证指数报3813.79点（+0.05%），深成指报12641.86点（+0.17%）。科技成长主线受资金追捧，Wind光模块（CPO）指数年内涨幅达83.99%；多家券商认为四季度A股底部支撑稳固，'科技成长+红利防御'均衡配置为主流建议。A股三季报披露季同步启动。",
+      "why": "A股企稳有助于港股互联网/消费情绪修复；AI硬件板块强势延续对英伟达/SK海力士等半导体持仓形成正向验证；三季报季启动，关注持仓中腾讯、小米、美团等的业绩验证时间窗。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "上证指数",
+        "AI硬件",
+        "光模块",
+        "科技",
+        "三季报"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qfxg.html",
+      "published_date": "2026-10-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-10",
+      "is_new": false
+    },
+    {
       "id": "e5debef607fad1a2",
       "tier": 3,
       "lang": "zh",
@@ -2913,6 +3110,36 @@
       "cross_ref": "",
       "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
       "first_seen": "2026-10-09",
+      "is_new": false
+    },
+    {
+      "id": "624d31c0caee4fdd",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "港股2026年前三季度新增上市116家，A+H双重上市扩至209家，IPO势头持续",
+      "summary": "新浪港股热点快报显示，截至2026年10月9日，港股年内新增上市企业达116家；前三季度有38家A股公司完成H股上市，A+H双重上市板块扩至209家。港交所改革措施持续推进，收窄买卖差价及T+1结算周期讨论继续深化。",
+      "why": "港股IPO及A+H扩容趋势持续，有助于港股整体流动性与定价效率提升；对持仓中互联网/消费类港股的估值体系形成支撑，同时需关注结算周期改革对期权保证金管理的潜在影响。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "IPO",
+        "A+H",
+        "港交所",
+        "上市"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qfrk.html",
+      "published_date": "2026-10-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-10",
       "is_new": false
     }
   ]
