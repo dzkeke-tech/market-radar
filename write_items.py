@@ -1,0 +1,130 @@
+import json, hashlib
+
+def make_id(url, title=""):
+    s = (url or title or "").strip()
+    return hashlib.sha1(s.encode()).hexdigest()[:16]
+
+items = [
+    {
+        "id": make_id("https://wallstreetcn.com/livenews/3174239"),
+        "tier": 1,
+        "lang": "zh",
+        "markets": ["US"],
+        "time": "07:00",
+        "group": "大盘头条",
+        "title": "10年期美债收益率10月初升破5.31%触2002年以来最高；油价突破100美元压制美股",
+        "summary": "10月5日，10年期基准美债收益率收于5.3110%，盘中逼近2002年Q2高位5.47%；10月7日进一步升至5.36%。高收益率与油价突破100美元双重压制下，标普500自历史高点7818点回落。市场焦点转向10月14日CPI数据与10月FOMC。",
+        "why": "美债收益率创二十余年新高直接压制成长股估值；持有NVDA/GOOGL/TSLA等高PE标的sell put策略需关注Vega敞口——收益率进一步上升将拉高隐含波动率，call/put价差可能扩大。",
+        "source": "华尔街见闻",
+        "verified": False,
+        "keywords": ["美债收益率", "10年期国债", "美股", "S&P 500", "美联储", "油价"],
+        "translated": False,
+        "url": "https://wallstreetcn.com/livenews/3174239",
+        "published_date": "2026-10-05",
+        "still_developing": True,
+        "cross_ref": ""
+    },
+    {
+        "id": make_id("https://finance.eastmoney.com/a/202610083889642326.html"),
+        "tier": 1,
+        "lang": "zh",
+        "markets": ["HK"],
+        "time": "17:00",
+        "group": "大盘头条",
+        "title": "港股10月8日收盘：恒指跌1.43%至23785.79点，恒生科技指数跌2.89%",
+        "summary": "10月8日香港股市全线走弱，恒生指数收报23785.79点，跌1.43%；恒生科技指数跌2.89%，收报4073.38点。科技股领跌，内地科技龙头普遍下挫。",
+        "why": "港股延续弱势，科技股跌幅明显大于大盘。持有0700/9988/9992/3690等港股标的需关注短期下行风险；若手持相关行权期在近期的put期权，注意行权价支撑位测试。",
+        "source": "东方财富",
+        "verified": True,
+        "keywords": ["港股", "恒生指数", "恒生科技", "HK"],
+        "translated": False,
+        "url": "https://finance.eastmoney.com/a/202610083889642326.html",
+        "published_date": "2026-10-08",
+        "still_developing": False,
+        "cross_ref": ""
+    },
+    {
+        "id": make_id("https://k.sina.com.cn/article_7857201856_1d45362c001908qhhq.html"),
+        "tier": 1,
+        "lang": "zh",
+        "markets": ["A"],
+        "time": "11:00",
+        "group": "大盘头条",
+        "title": "A股10月9日早盘恐慌杀跌后午后反弹：沪指一度逼近年度低点3741，创业板指收涨",
+        "summary": "10月9日A股早盘大幅低开，沪指一度跌至3754点逼近年内低点3741点；创业板指盘中跌破3000点，跌幅逾3%。午后宽基ETF大额净流入托底，创业板指最终收涨0.22%，沪指收复大部分跌幅。",
+        "why": "A股连续测试年度关键支撑位，创业板3000点告失守但尾盘守回，短期情绪脆弱。持有A股标的的sell put策略需关注行权价与指数位置的安全边际，ETF净流入可作参考支撑。",
+        "source": "新浪财经",
+        "verified": False,
+        "keywords": ["A股", "沪指", "创业板", "ETF净流入", "大盘"],
+        "translated": False,
+        "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qhhq.html",
+        "published_date": "2026-10-10",
+        "still_developing": False,
+        "cross_ref": ""
+    },
+    {
+        "id": make_id("https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunrrf7654177.shtml"),
+        "tier": 1,
+        "lang": "zh",
+        "markets": ["US"],
+        "time": "09:00",
+        "group": "大盘头条",
+        "title": "非农爆冷强化美联储10月按兵不动预期，CPI数据14日发布成关键",
+        "summary": "9月美国非农就业新增大幅低于市场预期，联邦基金利率期货显示市场对美联储10月27-28日FOMC维持利率不变的预期升温。后续政策节奏仍取决于通胀走势，10月14日9月CPI数据（前值同比3.4%）将是关键观测窗口。",
+        "why": "非农疲软短期缓解加息担忧；但若14日CPI数据超预期反弹，可能令市场重新定价11月加息路径，覆盖期权策略的timing需审慎，CPI数据前波动率或抬升。",
+        "source": "新浪财经",
+        "verified": False,
+        "keywords": ["美联储", "非农", "FOMC", "CPI", "货币政策", "加息"],
+        "translated": False,
+        "url": "https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunrrf7654177.shtml",
+        "published_date": "2026-10-08",
+        "still_developing": False,
+        "cross_ref": ""
+    },
+    {
+        "id": make_id("https://wap.eastmoney.com/a/202610073888963845.html"),
+        "tier": 2,
+        "lang": "zh",
+        "markets": ["A"],
+        "time": "18:00",
+        "group": "大盘头条",
+        "title": "A股三季报密集披露期启动：已披露预告中预增为主，首份三季报10月10日揭幕",
+        "summary": "A股2026年三季报披露季正式开启，已发布前三季度业绩预告的公司中预增比例较高，生物医药、半导体等行业亮眼。沃华医药率先于10月10日披露首份三季报；海康威视、赣锋锂业等将于10月中旬陆续披露。",
+        "why": "三季报窗口开启，业绩超预期个股可能出现短期催化行情；半导体、医疗等板块若超预期，间接利好同赛道港股标的。关注持仓A股或相关ETF标的的业绩披露时间节点。",
+        "source": "东方财富",
+        "verified": False,
+        "keywords": ["A股", "三季报", "业绩预告", "半导体", "医药"],
+        "translated": False,
+        "url": "https://wap.eastmoney.com/a/202610073888963845.html",
+        "published_date": "2026-10-07",
+        "still_developing": True,
+        "cross_ref": ""
+    },
+    {
+        "id": make_id("https://finance.eastmoney.com/a/202610063888770297.html"),
+        "tier": 2,
+        "lang": "zh",
+        "markets": ["HK"],
+        "time": "17:30",
+        "group": "个股",
+        "title": "腾讯10月6日持续回购约23.5万股，总代价约1亿港元",
+        "summary": "腾讯控股（0700.HK）于10月6日在港交所回购约23.5万股，总代价约1亿港元，价格区间425.6至429.2港元，回购股份拟予注销。此次为腾讯自5月13日回购授权通过以来的持续例行操作。",
+        "why": "延续报道：腾讯持续每日稳定回购彰显管理层对股价的支撑意愿。持有0700.HK sell put策略的投资者，回购行动提供价格支撑缓冲；当前回购价格区间可作监测短期支撑位的参考。",
+        "source": "东方财富",
+        "verified": False,
+        "keywords": ["腾讯", "0700.HK", "回购", "股份回购"],
+        "translated": False,
+        "url": "https://finance.eastmoney.com/a/202610063888770297.html",
+        "published_date": "2026-10-06",
+        "still_developing": True,
+        "cross_ref": ""
+    }
+]
+
+with open("new_items.json", "w", encoding="utf-8") as f:
+    json.dump(items, f, ensure_ascii=False, indent=2)
+
+print(f"写入 {len(items)} 条新闻")
+for item in items:
+    print(f"  [{item['tier']}] {item['group']} | {item['published_date']} | {item['title'][:55]}")
+    print(f"       id={item['id']}")
