@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-11 13:36 (北京时间)",
+  "updated_at": "2026-10-11 18:37 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,71 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-11 13:36 (北京时间)",
-    "new_count": 2,
+    "at": "2026-10-11 18:37 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "6bfffdb5d97a4c85",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "TSMC September 2026 Revenue NT$511.86B, +54.6% YoY; Q3 Record NT$1.494T Exceeds Guidance",
-      "summary": "TSMC September 2026 monthly revenue reached NT$511.86 billion, up 54.6% year-on-year. Q3 2026 cumulative revenue hit a record NT$1.494 trillion, exceeding the company's guidance range, driven by strong AI infrastructure chip demand. Full Q3 earnings are scheduled for October 15.",
-      "why": "台积电九月单月营收同比+54.6%，Q3整季收入历史新高并超指引，是本周最关键的半导体基本面催化剂；10月15日Q3正式财报将影响英伟达、美光、SK海力士等供应链及相关sell-put行权价定价；本条10月8日发布（距今3天），Q3完整财报尚未公布，故标记still_developing。本轮为周日休市日，大盘头条新闻量有限，仅纳入具官方信源或白名单媒体佐证的条目，当日重大头条偏少。",
-      "source": "TSMC Investor Relations",
-      "verified": true,
-      "keywords": [
-        "TSMC",
-        "半导体",
-        "AI芯片",
-        "营收"
-      ],
-      "translated": false,
-      "url": "https://pr.tsmc.com/english/news/3343",
-      "published_date": "2026-10-08",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-11",
-      "is_new": true
-    },
-    {
-      "id": "5e4335a274be88f7",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "22:00",
-      "group": "个股",
-      "title": "Nvidia Commits $1 Billion to Advance US Science Over Five Years via Genesis Mission",
-      "summary": "Nvidia pledged $1 billion over the next five years to advance US science through the Genesis Mission, covering quantum computing and scientific infrastructure, announced by CEO Jensen Huang on October 8, 2026.",
-      "why": "英伟达以十亿美元官方承诺支持美国国家科学生态（量子计算、科研基础设施），与同日AI概念股普跌（OpenAI营收报道引发sell-off）形成正面反差，表明英伟达管理层对中长期AI需求高度信心；对英伟达sell-put策略的行权价保护具参考价值；官方IR新闻稿为primary_official已验证信源。10月8日发布（距今3天），五年期承诺仍处执行起步阶段，故标记still_developing。",
-      "source": "Nvidia Investor Relations",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "量子计算",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-1-Billion-to-Advance-US-Science-Over-the-Next-Five-Years/default.aspx",
-      "published_date": "2026-10-08",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-11",
-      "is_new": true
-    },
     {
       "id": "f68bff06a2bf40f0",
       "tier": 1,
@@ -1388,6 +1329,36 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-10",
+      "is_new": false
+    },
+    {
+      "id": "6bfffdb5d97a4c85",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "TSMC September 2026 Revenue NT$511.86B, +54.6% YoY; Q3 Record NT$1.494T Exceeds Guidance",
+      "summary": "TSMC September 2026 monthly revenue reached NT$511.86 billion, up 54.6% year-on-year. Q3 2026 cumulative revenue hit a record NT$1.494 trillion, exceeding the company's guidance range, driven by strong AI infrastructure chip demand. Full Q3 earnings are scheduled for October 15.",
+      "why": "台积电九月单月营收同比+54.6%，Q3整季收入历史新高并超指引，是本周最关键的半导体基本面催化剂；10月15日Q3正式财报将影响英伟达、美光、SK海力士等供应链及相关sell-put行权价定价；本条10月8日发布（距今3天），Q3完整财报尚未公布，故标记still_developing。本轮为周日休市日，大盘头条新闻量有限，仅纳入具官方信源或白名单媒体佐证的条目，当日重大头条偏少。",
+      "source": "TSMC Investor Relations",
+      "verified": true,
+      "keywords": [
+        "TSMC",
+        "半导体",
+        "AI芯片",
+        "营收"
+      ],
+      "translated": false,
+      "url": "https://pr.tsmc.com/english/news/3343",
+      "published_date": "2026-10-08",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
       "is_new": false
     },
     {
@@ -2751,6 +2722,35 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-10",
+      "is_new": false
+    },
+    {
+      "id": "5e4335a274be88f7",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "22:00",
+      "group": "个股",
+      "title": "Nvidia Commits $1 Billion to Advance US Science Over Five Years via Genesis Mission",
+      "summary": "Nvidia pledged $1 billion over the next five years to advance US science through the Genesis Mission, covering quantum computing and scientific infrastructure, announced by CEO Jensen Huang on October 8, 2026.",
+      "why": "英伟达以十亿美元官方承诺支持美国国家科学生态（量子计算、科研基础设施），与同日AI概念股普跌（OpenAI营收报道引发sell-off）形成正面反差，表明英伟达管理层对中长期AI需求高度信心；对英伟达sell-put策略的行权价保护具参考价值；官方IR新闻稿为primary_official已验证信源。10月8日发布（距今3天），五年期承诺仍处执行起步阶段，故标记still_developing。",
+      "source": "Nvidia Investor Relations",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "量子计算",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-1-Billion-to-Advance-US-Science-Over-the-Next-Five-Years/default.aspx",
+      "published_date": "2026-10-08",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
       "is_new": false
     },
     {
