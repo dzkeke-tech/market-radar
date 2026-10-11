@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-11 08:32 (北京时间)",
+  "updated_at": "2026-10-11 13:36 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,92 +9,35 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-11 08:32 (北京时间)",
-    "new_count": 6,
+    "at": "2026-10-11 13:36 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "b0aa3c1074acd8c2",
+      "id": "6bfffdb5d97a4c85",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "S&P 500 Gains 0.6% as Iran Fears Ease; Brent Holds Near $103",
-      "summary": "美东时间10月10日，标普500指数收涨约0.6%（约7,812点附近），道指涨逾400点。特朗普表示美国不会在中期选举前对伊朗发动军事打击，中东风险情绪短期改善；布伦特原油维持在约103美元/桶高位，伊朗霍尔木兹海峡油轮袭击频率升至战时高位。",
-      "why": "大盘方向信号；伊朗风险缓解利好风险资产短期情绪，但油价居高不下仍是通胀压力来源，关注对美联储10月27-28日会议预期的影响。",
-      "source": "Rio Times Online (October 10 briefing)",
-      "verified": false,
-      "keywords": [
-        "S&P 500",
-        "Iran",
-        "oil",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://riotimesonline.com/global-economy-briefing-october-10-2026",
-      "published_date": "2026-10-10",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-11",
-      "is_new": true
-    },
-    {
-      "id": "3ea1fb9250fb0c85",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "美国三季报财报季本周开幕，摩根大通10月13日率先公布，标普500 EPS预计同比增逾24%",
-      "summary": "本周（10月11日起）美国三季报季正式开幕，35家标普500成分股公布业绩，摩根大通定于10月13日盘前率先报告，美国银行预计10月14日跟进。分析师预计标普500三季报EPS同比增约24.6%，营收增速约11.6%。大行业绩将检验美联储3.75%-4%利率环境下的信贷质量与资本市场活跃度。",
-      "why": "延续报道：财报季全周持续；大行业绩是重大市场风险事件，可能触发期权隐含波动率波动，JPM超/低预期对金融板块和整体市场情绪均有指引意义。",
-      "source": "ClaritX AI / VT Markets",
-      "verified": false,
-      "keywords": [
-        "财报季",
-        "JPMorgan",
-        "earnings season",
-        "标普500"
-      ],
-      "translated": false,
-      "url": "https://www.claritx.ai/blog/q3-2026-earnings-kickoff-big-banks-economy",
-      "published_date": "2026-10-10",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-11",
-      "is_new": true
-    },
-    {
-      "id": "13c8446c46095cec",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
+        "US",
+        "HK"
       ],
       "time": "09:00",
       "group": "大盘头条",
-      "title": "达利欧：美债熊市尚未结束；10年期美债收益率逼近5.33%，30年期创24年高位",
-      "summary": "桥水基金创始人瑞·达利欧在新加坡米尔肯研究院峰会（10月8日）发言：政府和企业竞相争夺资本，美债熊市更有后劲，信用利差已开始扩大。当日10年期美债收益率上升逾5bp至5.331%，接近2002年以来高位；30年期收益率约5.702%，为近24年最高。",
-      "why": "延续报道：美债收益率持续高企（10月FOMC临近），压制成长股估值；Sell Put组合需关注高利率环境下的行权价保护，期权卖方保证金消耗提升。",
-      "source": "StockTwits（引述米尔肯研究院Asia Summit，Oct 8）",
-      "verified": false,
+      "title": "TSMC September 2026 Revenue NT$511.86B, +54.6% YoY; Q3 Record NT$1.494T Exceeds Guidance",
+      "summary": "TSMC September 2026 monthly revenue reached NT$511.86 billion, up 54.6% year-on-year. Q3 2026 cumulative revenue hit a record NT$1.494 trillion, exceeding the company's guidance range, driven by strong AI infrastructure chip demand. Full Q3 earnings are scheduled for October 15.",
+      "why": "台积电九月单月营收同比+54.6%，Q3整季收入历史新高并超指引，是本周最关键的半导体基本面催化剂；10月15日Q3正式财报将影响英伟达、美光、SK海力士等供应链及相关sell-put行权价定价；本条10月8日发布（距今3天），Q3完整财报尚未公布，故标记still_developing。本轮为周日休市日，大盘头条新闻量有限，仅纳入具官方信源或白名单媒体佐证的条目，当日重大头条偏少。",
+      "source": "TSMC Investor Relations",
+      "verified": true,
       "keywords": [
-        "美债收益率",
-        "Ray Dalio",
-        "macro",
-        "bond yield"
+        "TSMC",
+        "半导体",
+        "AI芯片",
+        "营收"
       ],
       "translated": false,
-      "url": "https://stocktwits.com/news-articles/markets/equity/ray-dalio-says-bond-bear-market-has-more-to-go-as-government-companies-compete-for-capital/cZDU1mCRBN0",
+      "url": "https://pr.tsmc.com/english/news/3343",
       "published_date": "2026-10-08",
       "still_developing": true,
       "cross_ref": "",
@@ -103,89 +46,28 @@
       "is_new": true
     },
     {
-      "id": "de9030a5cf577eb6",
+      "id": "5e4335a274be88f7",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "Fed Funds Rate 3.75%–4.00%; FOMC Meeting October 27–28; Core PCE Stays Above 3%",
-      "summary": "美联储H.15数据（10月9日）显示联邦基金有效利率3.88%，目标区间3.75%-4.00%。下次FOMC会议定于10月27-28日，市场期货定价显示年内可能还有一次25bp加息（1月区间约4.1%）。核心PCE通胀今年每月持续高于3%，支撑紧缩立场。美债10年期收益率约5.33%，为多年高位。",
-      "why": "利率路径直接影响Sell Put策略期权定价（Delta/Gamma/Vega）；10月FOMC临近，预期管理是未来两周关键变量，港股与美股估值均受高利率压制。",
-      "source": "Federal Reserve H.15（官方数据，Oct 9）",
+      "time": "22:00",
+      "group": "个股",
+      "title": "Nvidia Commits $1 Billion to Advance US Science Over Five Years via Genesis Mission",
+      "summary": "Nvidia pledged $1 billion over the next five years to advance US science through the Genesis Mission, covering quantum computing and scientific infrastructure, announced by CEO Jensen Huang on October 8, 2026.",
+      "why": "英伟达以十亿美元官方承诺支持美国国家科学生态（量子计算、科研基础设施），与同日AI概念股普跌（OpenAI营收报道引发sell-off）形成正面反差，表明英伟达管理层对中长期AI需求高度信心；对英伟达sell-put策略的行权价保护具参考价值；官方IR新闻稿为primary_official已验证信源。10月8日发布（距今3天），五年期承诺仍处执行起步阶段，故标记still_developing。",
+      "source": "Nvidia Investor Relations",
       "verified": true,
       "keywords": [
-        "美联储",
-        "FOMC",
-        "interest rate",
-        "macro",
-        "加息"
+        "英伟达",
+        "Nvidia",
+        "量子计算",
+        "AI"
       ],
       "translated": false,
-      "url": "https://www.federalreserve.gov/releases/h15/",
-      "published_date": "2026-10-09",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-11",
-      "is_new": true
-    },
-    {
-      "id": "a2a6da2ca8c71ee9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "10:30",
-      "group": "个股",
-      "title": "特斯拉Cybercab首次亮相欧洲，将于10月12日巴黎国际车展登场",
-      "summary": "彭博社报道（10月6日），特斯拉将携Cybercab机器人出租车参加10月12-18日巴黎国际车展（Mondial de l'Auto），为该车型首次在欧洲公开展示。展出车辆来自奥斯汀现役机器人出租车队（9月起商业运营，逾300辆）。展台还将展示Model 3/Y及Optimus Gen 2，访客可试驾六款其他车型的FSD，Cybercab现场不载客。",
-      "why": "延续报道：巴黎车展10月12日明日开幕，事件持续发展中；Cybercab欧洲首秀是品牌出海里程碑，配合FSD监管推进（EU投票已推至12月），对TSLA中长期Robotaxi商业化路线有催化意义。",
-      "source": "Bloomberg（via The Star Malaysia，Oct 8）",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Cybercab",
-        "Robotaxi",
-        "TSLA",
-        "巴黎车展"
-      ],
-      "translated": false,
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/tesla-to-showcase-its-cybercab-robotaxi-at-paris-auto-show",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-1-Billion-to-Advance-US-Science-Over-the-Next-Five-Years/default.aspx",
       "published_date": "2026-10-08",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-11",
-      "is_new": true
-    },
-    {
-      "id": "f154afaa01a0a3ff",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "特斯拉欧洲FSD正式更名Tesla Assisted Driving，德国支持EU审批，投票推迟至12月",
-      "summary": "路透社报道（10月7日），特斯拉在与德国交通部谈判后，已将欧洲多国网站的Full Self-Driving更名为Tesla Assisted Driving；德国交通部长Bilger表态力推欧盟层面批准，双方同意将速度超限幅度上限设为10%。当前该系统已在荷兰等8国获批；原定10月的EU全体投票已推迟至至少12月，因瑞典、法国等国对速度超限存有异议。",
-      "why": "延续报道：EU审批最早12月方能进行，事件持续发展；FSD欧洲合规推进是Robotaxi商业化扩张前提，德国背书是重要政治信号，进展顺利将正面催化TSLA中长期估值。",
-      "source": "Reuters（via The Star Malaysia，Oct 7）",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "FSD",
-        "Tesla Assisted Driving",
-        "TSLA",
-        "自动驾驶"
-      ],
-      "translated": false,
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/07/musk-welcomes-german-backing-for-tesla-driver-assistance-tech-as-group-chases-eu-approval",
-      "published_date": "2026-10-07",
       "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1509,6 +1391,64 @@
       "is_new": false
     },
     {
+      "id": "b0aa3c1074acd8c2",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "S&P 500 Gains 0.6% as Iran Fears Ease; Brent Holds Near $103",
+      "summary": "美东时间10月10日，标普500指数收涨约0.6%（约7,812点附近），道指涨逾400点。特朗普表示美国不会在中期选举前对伊朗发动军事打击，中东风险情绪短期改善；布伦特原油维持在约103美元/桶高位，伊朗霍尔木兹海峡油轮袭击频率升至战时高位。",
+      "why": "大盘方向信号；伊朗风险缓解利好风险资产短期情绪，但油价居高不下仍是通胀压力来源，关注对美联储10月27-28日会议预期的影响。",
+      "source": "Rio Times Online (October 10 briefing)",
+      "verified": false,
+      "keywords": [
+        "S&P 500",
+        "Iran",
+        "oil",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://riotimesonline.com/global-economy-briefing-october-10-2026",
+      "published_date": "2026-10-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
+      "is_new": false
+    },
+    {
+      "id": "3ea1fb9250fb0c85",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "美国三季报财报季本周开幕，摩根大通10月13日率先公布，标普500 EPS预计同比增逾24%",
+      "summary": "本周（10月11日起）美国三季报季正式开幕，35家标普500成分股公布业绩，摩根大通定于10月13日盘前率先报告，美国银行预计10月14日跟进。分析师预计标普500三季报EPS同比增约24.6%，营收增速约11.6%。大行业绩将检验美联储3.75%-4%利率环境下的信贷质量与资本市场活跃度。",
+      "why": "延续报道：财报季全周持续；大行业绩是重大市场风险事件，可能触发期权隐含波动率波动，JPM超/低预期对金融板块和整体市场情绪均有指引意义。",
+      "source": "ClaritX AI / VT Markets",
+      "verified": false,
+      "keywords": [
+        "财报季",
+        "JPMorgan",
+        "earnings season",
+        "标普500"
+      ],
+      "translated": false,
+      "url": "https://www.claritx.ai/blog/q3-2026-earnings-kickoff-big-banks-economy",
+      "published_date": "2026-10-10",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
+      "is_new": false
+    },
+    {
       "id": "09a0a3307b27ab72",
       "tier": 2,
       "lang": "en",
@@ -2811,6 +2751,125 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-10",
+      "is_new": false
+    },
+    {
+      "id": "13c8446c46095cec",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "达利欧：美债熊市尚未结束；10年期美债收益率逼近5.33%，30年期创24年高位",
+      "summary": "桥水基金创始人瑞·达利欧在新加坡米尔肯研究院峰会（10月8日）发言：政府和企业竞相争夺资本，美债熊市更有后劲，信用利差已开始扩大。当日10年期美债收益率上升逾5bp至5.331%，接近2002年以来高位；30年期收益率约5.702%，为近24年最高。",
+      "why": "延续报道：美债收益率持续高企（10月FOMC临近），压制成长股估值；Sell Put组合需关注高利率环境下的行权价保护，期权卖方保证金消耗提升。",
+      "source": "StockTwits（引述米尔肯研究院Asia Summit，Oct 8）",
+      "verified": false,
+      "keywords": [
+        "美债收益率",
+        "Ray Dalio",
+        "macro",
+        "bond yield"
+      ],
+      "translated": false,
+      "url": "https://stocktwits.com/news-articles/markets/equity/ray-dalio-says-bond-bear-market-has-more-to-go-as-government-companies-compete-for-capital/cZDU1mCRBN0",
+      "published_date": "2026-10-08",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
+      "is_new": false
+    },
+    {
+      "id": "de9030a5cf577eb6",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:00",
+      "group": "大盘头条",
+      "title": "Fed Funds Rate 3.75%–4.00%; FOMC Meeting October 27–28; Core PCE Stays Above 3%",
+      "summary": "美联储H.15数据（10月9日）显示联邦基金有效利率3.88%，目标区间3.75%-4.00%。下次FOMC会议定于10月27-28日，市场期货定价显示年内可能还有一次25bp加息（1月区间约4.1%）。核心PCE通胀今年每月持续高于3%，支撑紧缩立场。美债10年期收益率约5.33%，为多年高位。",
+      "why": "利率路径直接影响Sell Put策略期权定价（Delta/Gamma/Vega）；10月FOMC临近，预期管理是未来两周关键变量，港股与美股估值均受高利率压制。",
+      "source": "Federal Reserve H.15（官方数据，Oct 9）",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "FOMC",
+        "interest rate",
+        "macro",
+        "加息"
+      ],
+      "translated": false,
+      "url": "https://www.federalreserve.gov/releases/h15/",
+      "published_date": "2026-10-09",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
+      "is_new": false
+    },
+    {
+      "id": "a2a6da2ca8c71ee9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "10:30",
+      "group": "个股",
+      "title": "特斯拉Cybercab首次亮相欧洲，将于10月12日巴黎国际车展登场",
+      "summary": "彭博社报道（10月6日），特斯拉将携Cybercab机器人出租车参加10月12-18日巴黎国际车展（Mondial de l'Auto），为该车型首次在欧洲公开展示。展出车辆来自奥斯汀现役机器人出租车队（9月起商业运营，逾300辆）。展台还将展示Model 3/Y及Optimus Gen 2，访客可试驾六款其他车型的FSD，Cybercab现场不载客。",
+      "why": "延续报道：巴黎车展10月12日明日开幕，事件持续发展中；Cybercab欧洲首秀是品牌出海里程碑，配合FSD监管推进（EU投票已推至12月），对TSLA中长期Robotaxi商业化路线有催化意义。",
+      "source": "Bloomberg（via The Star Malaysia，Oct 8）",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Cybercab",
+        "Robotaxi",
+        "TSLA",
+        "巴黎车展"
+      ],
+      "translated": false,
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/tesla-to-showcase-its-cybercab-robotaxi-at-paris-auto-show",
+      "published_date": "2026-10-08",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
+      "is_new": false
+    },
+    {
+      "id": "f154afaa01a0a3ff",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "特斯拉欧洲FSD正式更名Tesla Assisted Driving，德国支持EU审批，投票推迟至12月",
+      "summary": "路透社报道（10月7日），特斯拉在与德国交通部谈判后，已将欧洲多国网站的Full Self-Driving更名为Tesla Assisted Driving；德国交通部长Bilger表态力推欧盟层面批准，双方同意将速度超限幅度上限设为10%。当前该系统已在荷兰等8国获批；原定10月的EU全体投票已推迟至至少12月，因瑞典、法国等国对速度超限存有异议。",
+      "why": "延续报道：EU审批最早12月方能进行，事件持续发展；FSD欧洲合规推进是Robotaxi商业化扩张前提，德国背书是重要政治信号，进展顺利将正面催化TSLA中长期估值。",
+      "source": "Reuters（via The Star Malaysia，Oct 7）",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "FSD",
+        "Tesla Assisted Driving",
+        "TSLA",
+        "自动驾驶"
+      ],
+      "translated": false,
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/07/musk-welcomes-german-backing-for-tesla-driver-assistance-tech-as-group-chases-eu-approval",
+      "published_date": "2026-10-07",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
       "is_new": false
     },
     {
