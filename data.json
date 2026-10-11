@@ -10,11 +10,104 @@
   "positions": [],
   "last_run": {
     "at": "2026-10-11 18:37 (北京时间)",
-    "new_count": 0,
+    "new_count": 3,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "f339922825e97701",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "A股国庆后首周整体承压，上证指数3800点附近震荡，ETF资金持续净流入",
+      "summary": "国庆假期后两个交易日（10月8-9日），A股先跌后涨，上证指数本周累计下跌约0.74%，沪深300跌约0.93%，科技板块调整较明显。尾盘10月9日三大指数翻红。两个交易日股票型ETF合计净流入约406.9亿元，显示机构资金逢低布局。",
+      "why": "A股科技板块承压，与美债高利率环境下成长股估值压缩逻辑一致；ETF大幅净流入显示资金对指数性价比认可，对持有消费/科技类A股仓位者，短期波动性依然可能偏高。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "上证指数",
+        "ETF",
+        "科技板块",
+        "国庆"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qlme.html",
+      "published_date": "2026-10-11",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
+      "is_new": true
+    },
+    {
+      "id": "d353a64c67413706",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "本周港股/全球市场关注：CPI（10月14日）、TSMC财报、零售销售数据密集登场",
+      "summary": "10月12-16日为数据与财报密集周：美国9月CPI（周三14日）、TSMC三季报（14日）、美国9月零售销售与PPI（周四15日）相继公布。港股市场风险偏好近期下降，恒生指数在24000点附近反复争夺，外资在高利率环境下对新兴市场持审慎态度。",
+      "why": "对持有港股科技仓位（腾讯、阿里、美团等）及相关期权的投资者，CPI超预期将强化加息预期并加大跨市场压力；TSMC业绩将为英伟达等AI芯片产业链提供前景指引。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "CPI",
+        "TSMC",
+        "港股",
+        "恒生指数",
+        "零售销售",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qmy6.html",
+      "published_date": "2026-10-11",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
+      "is_new": true
+    },
+    {
+      "id": "b2754d063c5a3613",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "小米SU7和YU7保值率连续三个月双双排名第一，YU7一年期保值率82.5%",
+      "summary": "据中国汽车流通协会与精真估联合发布的9月报告，小米YU7以82.5%的一年期保值率蝉联纯电动车型第一，小米SU7以75.1%蝉联纯电动轿车第一，双车均已连续三个月稳居同类榜首。",
+      "why": "保值率排名是消费者购车决策的重要参考，连续三月第一有助于强化品牌溢价认知，对小米汽车销量持续性及小米集团（1810.HK）估值有边际正面意义；但保值率本身不直接驱动短期股价，tier 3参考级别。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "SU7",
+        "YU7",
+        "小米汽车",
+        "保值率"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7879848900_1d5acf3c406803c0ba.html",
+      "published_date": "2026-10-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-11",
+      "is_new": true
+    },
     {
       "id": "f68bff06a2bf40f0",
       "tier": 1,
