@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-12 18:34 (北京时间)",
+  "updated_at": "2026-10-12 18:35 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,139 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-12 18:34 (北京时间)",
-    "new_count": 0,
+    "at": "2026-10-12 18:35 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "495948c20a29ca14",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "Pilot killed in Houthi attack on Riyadh airport; Brent crude near $103, Saudi coalition vows 'firm' response",
+      "summary": "Iran-backed Houthi forces struck King Khalid International Airport in Riyadh, killing a pilot; the Saudi-led coalition announced it would respond firmly. France and Saudi Arabia discussed measures to protect the Yanbu oil terminal. Brent crude front-month futures fell 1.3% to $102.94/bbl on Oct 9 amid ceasefire rumors, though supply disruption fears remain elevated. Attacks continued on Oct 10–11.",
+      "why": "中东供应风险持续推高布伦特原油，长期维持100美元以上将加速通胀，增大美联储年内再次加息的可能性；对能源/资源相关标的的sell put需警惕油价剧烈波动导致隐含波动率大幅抬升。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "布伦特原油",
+        "胡塞武装",
+        "沙特",
+        "中东",
+        "通胀",
+        "原油"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
+      "published_date": "2026-10-09",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-12",
+      "is_new": true
+    },
+    {
+      "id": "dc2b938c2918b656",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "JPMorgan, Goldman Sachs and other big banks report Q3 earnings this week; September CPI due Wednesday",
+      "summary": "JPMorgan Chase, Goldman Sachs, Wells Fargo and Citigroup report Q3 2026 results on Oct 13; Bank of America and Morgan Stanley follow on Oct 14. The September CPI report is released on Oct 14, the last inflation print before the Fed's Oct 27–28 meeting. Consensus sees CPI accelerating from 3.4% to approximately 3.6–3.7% year-on-year.",
+      "why": "财报季+CPI双重数据将同日登场（周三），银行净息差将验证高利率能否持续转化为盈利；若CPI超预期，10月加息概率可能从当前约20%明显上升，触发期权隐含波动率扩大，sell put持仓需提前评估风险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "大型银行",
+        "财报",
+        "JPMorgan",
+        "高盛",
+        "CPI",
+        "美联储"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html",
+      "published_date": "2026-10-11",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-12",
+      "is_new": true
+    },
+    {
+      "id": "fdb1cf35fbbf2a68",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "美债10年期收益率触5.36%创2002年来新高，30年期达5.73%；10年期国债拍卖中标利率创2000年11月来最高",
+      "summary": "国庆长假结束后中国投资者回归时，全球债市正经历新一轮大幅抛售。10年期美债收益率一度升至5.36%，30年期达5.73%，均创2002年以来最高水平。10月9日（周四）10年期国债拍卖标售得标收益率高达5.3%，为2000年11月以来美国10年期国债标售最高中标利率。丹斯克银行分析师警告长端收益率存在触及6%的风险。",
+      "why": "长端收益率持续高位压制全球风险资产估值，港股/A股在长假期间积累的利空集中释放；持有科技、消费类股票的sell put策略需关注收益率何时出现「转折点」，在此之前宜保守管理行权价与期限。",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "美债",
+        "国债收益率",
+        "通胀",
+        "美联储",
+        "债市",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2498947",
+      "published_date": "2026-10-09",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-12",
+      "is_new": true
+    },
+    {
+      "id": "d13990159b046f3c",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "中国证券报：节后A股机构研判，美债收益率「转折点」是加仓关键前提",
+      "summary": "国庆长假结束后A股机构研究认为，宏观压力有望边际减弱；近期市场主线将是三季度业绩披露窗口。多家机构指出，美债收益率出现实质性「转折点」是外资回流及增加持仓的关键前提条件，在此之前建议防御优先。",
+      "why": "机构对A股/港股仍持观望态度，不急于大幅加仓；季报披露期（10-11月）是标的研判的好时机，尤其关注腾讯、阿里等大型互联网股三季度指引，利率走向将决定估值能否修复。",
+      "source": "中国证券报",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "美债收益率",
+        "机构研判",
+        "季报",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://www.cs.com.cn/qs/2026/10/08/detail_2026100810043134.html",
+      "published_date": "2026-10-08",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-12",
+      "is_new": true
+    },
     {
       "id": "0f0a0267554f7ccc",
       "tier": 1,
