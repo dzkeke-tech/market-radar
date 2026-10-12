@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-12 08:36 (北京时间)",
+  "updated_at": "2026-10-12 13:31 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,36 +9,66 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-12 08:36 (北京时间)",
-    "new_count": 5,
+    "at": "2026-10-12 13:31 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "ec6e006cc7d59780",
+      "id": "55592cf833a1b806",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK",
-        "US"
+        "A",
+        "HK"
       ],
-      "time": "09:00",
+      "time": "10:00",
       "group": "大盘头条",
-      "title": "港股本周要闻前瞻｜阿斯麦及台积电财报验证AI投资势头 多家公司将披露业绩",
-      "summary": "本周财报窗口集中：阿斯麦（ASML）周三（10/14）发布三季报，台积电（TSMC）周四（10/15）公布完整季度业绩，摩根大通、高盛、花旗等美国大行周二（10/13）率先出炉，美国9月CPI数据亦于周三（10/14）公布。传音控股（02636.HK）将于周四在港上市。今日哥伦布日美国债市休市，股市正常交易。",
-      "why": "本周是年内最密集的财报+宏观数据窗口：ASML出货量与台积电毛利率指引决定AI资本开支预期，美国大行业绩折射宏观信用环境，CPI数据牵动美联储10月议息（10/27-28）利率路径，多重事件叠加或引发隐含波动率升温。",
-      "source": "新浪财经",
+      "title": "财政部：将实施更加积极的财政政策，加力扩大内需",
+      "summary": "财政部宣布将实施更加积极的财政政策，重点做好六方面工作，核心为加力扩大内需、推动科技与产业创新。2026年是十五五开局之年，财政政策将精准发力并适时推出增量政策，含向中央金融企业增资特别国债安排。",
+      "why": "财政政策明确加力信号，对消费、科技创新及内需相关持仓（美团、海底捞、蜜雪冰城等）中期利好；政策托底预期有助于抑制港股/A股期权隐含波动率的过度走高。",
+      "source": "央视财经",
       "verified": true,
       "keywords": [
-        "阿斯麦",
-        "台积电",
-        "三季报",
-        "CPI",
-        "港股财报"
+        "财政政策",
+        "扩大内需",
+        "十五五",
+        "增量政策",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmp5444138.shtml",
+      "url": "https://news.cctv.com/2026/10/10/ARTIbs0MplDSVFSWKiSnblg3261010.shtml",
+      "published_date": "2026-10-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-12",
+      "is_new": true
+    },
+    {
+      "id": "8d9cddc6ec8dacc4",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午评：恒指涨0.17%、科指跌0.55%，内银股活跃，光通信/PCB/存储概念股集体走低",
+      "summary": "10月12日港股午盘，恒生指数涨0.17%报24253.7点，恒生科技指数跌0.55%报4174.71点。板块分化：云办公板块涨幅居前，内银股活跃；光通信、PCB、存储概念板块集体走低。",
+      "why": "港股科技板块午盘分化偏弱；存储/PCB等AI基础设施概念板块回调，对相关持仓（SK海力士ETF等）有估值压力，Sell put策略需关注。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "恒生科技指数",
+        "港股",
+        "云办公",
+        "存储"
+      ],
+      "translated": false,
+      "url": "https://21jingji.com/article/20261012/herald/21c0823d4593f9d487426d88fd25739b.html",
       "published_date": "2026-10-12",
       "still_developing": false,
       "cross_ref": "",
@@ -47,119 +77,29 @@
       "is_new": true
     },
     {
-      "id": "faddc40245736d48",
+      "id": "e0d5a056adc783b0",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "HK"
+        "A"
       ],
-      "time": "20:00",
+      "time": "13:00",
       "group": "大盘头条",
-      "title": "港股上周五反弹：金融科技领涨、AI题材升温，小米单日涨约10%",
-      "summary": "上周五（10/10）港股出现明显反弹，金融科技板块领涨，AI应用题材升温，黄金及有色金属异动，小米（1810.HK）单日涨幅约10%。市场讨论港股科网板块经节后大幅回调后是否已形成买入窗口。",
-      "why": "港股反弹行情能否持续是本周关注焦点，ASML/台积电财报结果将成关键验证；小米在国内手机涨价后股价大涨，说明市场对其盈利能力提升已有预期，亦支持持仓及sell put策略的继续持有判断。",
+      "title": "A股午盘：沪指跌0.12%报3809点，创业板指跌1.27%，科技/半导体/算力板块普跌",
+      "summary": "10月12日午盘，沪指报3809.08点跌0.12%，深成指跌1.03%，创业板指跌1.27%，科创综指跌1.23%。科技、半导体、算力硬件板块普跌；煤炭、动力煤板块涨幅居前；哈药股份跌停（高管被留置）。",
+      "why": "A股科技板块持续走弱，3800点整数关口争夺仍在；科技板块偏弱对相关持仓构成短期压力，期权方面隐含波动率可能继续偏高。",
       "source": "新浪财经",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "港股",
-        "小米",
-        "金融科技",
-        "AI",
-        "反弹"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-11/doc-iniuwcyi8821375.shtml",
-      "published_date": "2026-10-11",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-12",
-      "is_new": true
-    },
-    {
-      "id": "7a887c4c2a1137e8",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "19:00",
-      "group": "大盘头条",
-      "title": "A股积极信号正在积累，机构最新研判：红利底仓、AI硬件进攻，均衡配置等待转机",
-      "summary": "多家机构发布10月A股策略：中信建投建议以红利资产（银行、煤炭、公用事业）为底仓，进攻端关注AI硬件算力及三季报业绩确定性方向；东吴证券建议均衡配置算力硬件与地产链消费龙头；广发证券指出全A缩量历史上常对应短期反弹机会。节后两日大幅调整后，市场在7月低点附近获支撑，宽基ETF放量。",
-      "why": "节后A股快速回调后积极信号积累是本周港股行情背景；机构看好三季报确定性方向与红利两极配置逻辑，对消费板块（美团、小米、海底捞等持仓）的防御价值有参考意义。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
+        "沪指",
         "A股",
-        "策略",
-        "AI",
-        "红利",
-        "机构研判"
+        "创业板指",
+        "科技板块",
+        "科创综指"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuwkfx5632109.shtml",
-      "published_date": "2026-10-11",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-12",
-      "is_new": true
-    },
-    {
-      "id": "cf5e3745554175fc",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "【中国银河策略】港股迎来阶段性行情：短期修复交易，科技与红利双线布局",
-      "summary": "中国银河证券策略报告认为，国庆后港股迎来阶段性修复行情，但中期反转尚未确认。截至10月2日，恒生指数市盈率约10.65倍（2010年以来59%分位）。策略方向：关注AI产业链科技板块及ESMO催化的创新药/CXO板块，同时布局银行、公用事业、电信等低波红利资产。风险：国内政策力度不及预期、贸易摩擦加剧。",
-      "why": "延续报道：策略报告于10月8日发布（距今4天），本周台积电/ASML财报仍在发酵，对港股AI板块（腾讯、阿里、小米等持仓）走势具参考价值；恒生指数当前估值处于历史中等水平，sell put策略有一定安全边际支撑。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "中国银河",
-        "策略",
-        "估值",
-        "红利"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/stockzmt/2026-10-08/doc-iniunmim4370626.shtml",
-      "published_date": "2026-10-08",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-12",
-      "is_new": true
-    },
-    {
-      "id": "9940243955564b0e",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "14:00",
-      "group": "个股",
-      "title": "华为、小米同日回应多款手机涨价：核心元器件成本上涨，旗舰机最高涨1000元",
-      "summary": "10月9日华为与小米同日宣布调涨多款机型售价，10月10日双方正式回应：小米客服表示因核心元器件（存储芯片）采购成本持续上涨而调整零售价，小米17 Ultra全系起售价上调1000元至7999元起；华为相关机型同步调整。此前8月小米已有一轮300-500元提价，本轮是年内第三次调价。",
-      "why": "手机价格上调通常利好毛利率，是小米（1810.HK）股价周五大涨约10%的重要催化；存储芯片涨价周期持续对美光/SK海力士等持仓亦有支撑。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "华为",
-        "手机涨价",
-        "存储芯片",
-        "毛利率"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniututc2023094.shtml",
-      "published_date": "2026-10-10",
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908qqds.html",
+      "published_date": "2026-10-12",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1377,6 +1317,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-11",
+      "is_new": false
+    },
+    {
+      "id": "ec6e006cc7d59780",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "港股本周要闻前瞻｜阿斯麦及台积电财报验证AI投资势头 多家公司将披露业绩",
+      "summary": "本周财报窗口集中：阿斯麦（ASML）周三（10/14）发布三季报，台积电（TSMC）周四（10/15）公布完整季度业绩，摩根大通、高盛、花旗等美国大行周二（10/13）率先出炉，美国9月CPI数据亦于周三（10/14）公布。传音控股（02636.HK）将于周四在港上市。今日哥伦布日美国债市休市，股市正常交易。",
+      "why": "本周是年内最密集的财报+宏观数据窗口：ASML出货量与台积电毛利率指引决定AI资本开支预期，美国大行业绩折射宏观信用环境，CPI数据牵动美联储10月议息（10/27-28）利率路径，多重事件叠加或引发隐含波动率升温。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "阿斯麦",
+        "台积电",
+        "三季报",
+        "CPI",
+        "港股财报"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmp5444138.shtml",
+      "published_date": "2026-10-12",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-12",
       "is_new": false
     },
     {
@@ -2828,6 +2799,126 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-11",
+      "is_new": false
+    },
+    {
+      "id": "faddc40245736d48",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "20:00",
+      "group": "大盘头条",
+      "title": "港股上周五反弹：金融科技领涨、AI题材升温，小米单日涨约10%",
+      "summary": "上周五（10/10）港股出现明显反弹，金融科技板块领涨，AI应用题材升温，黄金及有色金属异动，小米（1810.HK）单日涨幅约10%。市场讨论港股科网板块经节后大幅回调后是否已形成买入窗口。",
+      "why": "港股反弹行情能否持续是本周关注焦点，ASML/台积电财报结果将成关键验证；小米在国内手机涨价后股价大涨，说明市场对其盈利能力提升已有预期，亦支持持仓及sell put策略的继续持有判断。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "小米",
+        "金融科技",
+        "AI",
+        "反弹"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-11/doc-iniuwcyi8821375.shtml",
+      "published_date": "2026-10-11",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-12",
+      "is_new": false
+    },
+    {
+      "id": "7a887c4c2a1137e8",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "19:00",
+      "group": "大盘头条",
+      "title": "A股积极信号正在积累，机构最新研判：红利底仓、AI硬件进攻，均衡配置等待转机",
+      "summary": "多家机构发布10月A股策略：中信建投建议以红利资产（银行、煤炭、公用事业）为底仓，进攻端关注AI硬件算力及三季报业绩确定性方向；东吴证券建议均衡配置算力硬件与地产链消费龙头；广发证券指出全A缩量历史上常对应短期反弹机会。节后两日大幅调整后，市场在7月低点附近获支撑，宽基ETF放量。",
+      "why": "节后A股快速回调后积极信号积累是本周港股行情背景；机构看好三季报确定性方向与红利两极配置逻辑，对消费板块（美团、小米、海底捞等持仓）的防御价值有参考意义。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "策略",
+        "AI",
+        "红利",
+        "机构研判"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuwkfx5632109.shtml",
+      "published_date": "2026-10-11",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-12",
+      "is_new": false
+    },
+    {
+      "id": "cf5e3745554175fc",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "【中国银河策略】港股迎来阶段性行情：短期修复交易，科技与红利双线布局",
+      "summary": "中国银河证券策略报告认为，国庆后港股迎来阶段性修复行情，但中期反转尚未确认。截至10月2日，恒生指数市盈率约10.65倍（2010年以来59%分位）。策略方向：关注AI产业链科技板块及ESMO催化的创新药/CXO板块，同时布局银行、公用事业、电信等低波红利资产。风险：国内政策力度不及预期、贸易摩擦加剧。",
+      "why": "延续报道：策略报告于10月8日发布（距今4天），本周台积电/ASML财报仍在发酵，对港股AI板块（腾讯、阿里、小米等持仓）走势具参考价值；恒生指数当前估值处于历史中等水平，sell put策略有一定安全边际支撑。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "中国银河",
+        "策略",
+        "估值",
+        "红利"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/stockzmt/2026-10-08/doc-iniunmim4370626.shtml",
+      "published_date": "2026-10-08",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-12",
+      "is_new": false
+    },
+    {
+      "id": "9940243955564b0e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "14:00",
+      "group": "个股",
+      "title": "华为、小米同日回应多款手机涨价：核心元器件成本上涨，旗舰机最高涨1000元",
+      "summary": "10月9日华为与小米同日宣布调涨多款机型售价，10月10日双方正式回应：小米客服表示因核心元器件（存储芯片）采购成本持续上涨而调整零售价，小米17 Ultra全系起售价上调1000元至7999元起；华为相关机型同步调整。此前8月小米已有一轮300-500元提价，本轮是年内第三次调价。",
+      "why": "手机价格上调通常利好毛利率，是小米（1810.HK）股价周五大涨约10%的重要催化；存储芯片涨价周期持续对美光/SK海力士等持仓亦有支撑。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "华为",
+        "手机涨价",
+        "存储芯片",
+        "毛利率"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniututc2023094.shtml",
+      "published_date": "2026-10-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-12",
       "is_new": false
     },
     {
