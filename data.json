@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-13 08:36 (北京时间)",
+  "updated_at": "2026-10-13 13:36 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,105 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-13 08:36 (北京时间)",
-    "new_count": 4,
+    "at": "2026-10-13 13:36 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "9541fb8affb7dd63",
+      "id": "7fb1329e987dc306",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "美联储主席沃什将于10月16日在IMF曼谷年会发言，为FOMC静默期前最后公开窗口",
-      "summary": "IMF年会日程显示，美联储主席沃什将于北京时间10月16日在曼谷发表讲话。10月16日为10月27-28日FOMC会议前官员进入静默期的最后一天，此次发言是本轮加息周期中的关键政策信号窗口。",
-      "why": "沃什10月16日讲话是下一次FOMC前最后一次政策信号，市场对10月暂停加息持主流预期；若措辞偏鹰将显著上调加息概率、推高期权隐含波动率，直接冲击腾讯/谷歌/英伟达等高PE持仓的sell put保护区间。仍在发酵：讲话将于10月16日发生，本条为前瞻预告。",
-      "source": "第一财经（21财经）",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "沃什",
-        "IMF",
-        "FOMC",
-        "货币政策",
-        "加息"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261009/herald/cb73057014ed47440e0949967c3ab5f7.html",
-      "published_date": "2026-10-09",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": true
-    },
-    {
-      "id": "2202b61774324c49",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "21:00",
-      "group": "大盘头条",
-      "title": "美债市场进入关键周：9月CPI与沃什讲话双重催化，10年期收益率高位盘整",
-      "summary": "9月CPI数据将于10月14日公布（为FOMC会议前最后通胀数据），美联储主席沃什将于10月16日静默期前发言；10年期美债收益率维持高位，市场就下一次加息时点分歧加大。",
-      "why": "CPI+沃什讲话构成本周最高级别宏观风险事件双线并发：若CPI超预期叠加沃什鹰派表态，将引发短端利率跳升并压制高估值成长股（英伟达/谷歌/腾讯），同时扩大sell put策略中的Delta风险；操作上应在CPI公布前密切关注隐含波动率变化。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "CPI",
-        "通胀",
-        "美联储",
-        "沃什",
-        "美债",
-        "利率",
-        "FOMC"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuypex5313117.shtml",
-      "published_date": "2026-10-12",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": true
-    },
-    {
-      "id": "13ae63a9113bafbb",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
         "HK"
       ],
-      "time": "06:00",
+      "time": "15:30",
       "group": "大盘头条",
-      "title": "美股周一收盘：半导体指数创三个月新低，光通信重挫；沙特遇袭原油大涨",
-      "summary": "10月12日美股交易中，费城半导体指数创近三个月新低，光通信相关股票集体大跌；沙特Arabia遭袭导致原油价格大幅跳涨，AI硬件估值承压与地缘风险冲击市场情绪。",
-      "why": "半导体板块重挫直接压制英伟达、美光、SK海力士等核心持仓估值；原油跳涨推升通胀预期，强化美联储鹰派立场担忧，进一步压缩sell put策略的安全边际；英伟达相关put期权行权价风险敞口需重新评估。",
-      "source": "新浪财经",
+      "title": "港股今日全线下跌，恒生科技指数跌2.57%，芯片半导体股重挫",
+      "summary": "10月13日港股市场大幅下挫：恒生指数跌逾1%，恒生科技指数（HSTI）下跌2.57%，科技及半导体类股票成跌幅最大板块。国庆长假前累积的外部压力（美债收益率走高、美联储鹰派信号）于假后集中释放，芯片相关标的跌幅居前。",
+      "why": "恒生科技成分股是组合主要港股持仓区域，HSTI大跌直接影响腾讯（0700.HK）、阿里巴巴（9988.HK）、美团（3690.HK）、泡泡玛特（9992.HK）、小米（1810.HK）等个股的绝对收益，同时拉升Sell Put隐含波动率，利好收权利金但需警惕进一步下行风险。",
+      "source": "智通财经/富途牛牛",
       "verified": false,
       "keywords": [
+        "港股",
+        "恒生科技",
+        "HSTI",
+        "恒生指数",
+        "芯片",
         "半导体",
-        "英伟达",
-        "SK海力士",
-        "美光",
-        "原油",
-        "沙特",
-        "AI芯片"
+        "下跌"
       ],
       "translated": false,
-      "url": "https://k.sina.cn/article_5953189932_162d6782c067050p2s.html",
+      "url": "https://news.futunn.com/hk/post/1000908520/zhitong-hk-stock-investment-log-october-13",
       "published_date": "2026-10-13",
       "still_developing": false,
       "cross_ref": "",
@@ -116,29 +48,65 @@
       "is_new": true
     },
     {
-      "id": "94e4a580557e3766",
+      "id": "47607fb9dfd1fa6a",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "HK"
+        "HK",
+        "US"
       ],
-      "time": "10:30",
-      "group": "个股",
-      "title": "老铺黄金（6181.HK）股价跌超7%，花旗下调目标价",
-      "summary": "老铺黄金2026年10月12日股价大跌逾7%，花旗下调其目标价；与国际金价走势分化及机构仓位调整有关。",
-      "why": "老铺黄金为持仓个股，跌超7%且花旗下调目标价意味着机构定价中枢下移；若持有该股covered call或sell put仓位，需重新评估行权价保护区间是否充足，关注后续是否有更多机构跟进下调。",
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "日经225大跌1.76%，韩国KOSPI等亚太市场随之下挫",
+      "summary": "10月13日亚洲市场收盘，日经225指数下跌约1.76%，跌幅超1,200点。韩国KOSPI同步走低，亚太区股市全面承压。日本央行宽松政策与美债利率高企形成明显对比。市场担忧美联储持续紧缩将进一步打压全球风险资产情绪。",
+      "why": "日韩市场下跌传递全球性风险规避情绪，对港股情绪有联动影响；KOSPI大幅下跌亦拖累SK海力士（000660.KS，组合标的），为组合中半导体半导体仓位提供参考信号。",
       "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "老铺黄金",
-        "6181.HK",
-        "花旗",
-        "目标价",
-        "黄金"
+        "日经225",
+        "亚太市场",
+        "KOSPI",
+        "全球股市",
+        "日本",
+        "韩国",
+        "SK海力士"
       ],
       "translated": false,
-      "url": "https://k.sina.cn/article_2868676035_aafc85c302001yh6m.html",
-      "published_date": "2026-10-12",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908quei.html",
+      "published_date": "2026-10-13",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-13",
+      "is_new": true
+    },
+    {
+      "id": "c82bee2bc2c08e06",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "克利夫兰联储行长哈马克：通胀蔓延超出能源领域，支持加速加息",
+      "summary": "美联储克利夫兰联储行长贝思·哈马克（Beth Hammack，2026年有投票权）10月13日发表鹰派讲话，表示通胀压力已从能源领域蔓延至更广泛的服务和商品价格，AI投资扩大和关税上调均在推升成本。哈马克支持美联储未来采取更快速、更频繁的加息步伐，不应过早预期降息。",
+      "why": "哈马克是2026年FOMC有投票权委员，其鹰派表态强化市场对11月及以后持续加息的预期，进一步压制成长股估值并提高Sell Put操作的margin成本，需动态审视组合中高Delta put仓位的风险。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "哈马克",
+        "Hammack",
+        "加息",
+        "通胀",
+        "货币政策",
+        "鹰派"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qtlu.html",
+      "published_date": "2026-10-13",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1416,6 +1384,106 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-12",
+      "is_new": false
+    },
+    {
+      "id": "9541fb8affb7dd63",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "美联储主席沃什将于10月16日在IMF曼谷年会发言，为FOMC静默期前最后公开窗口",
+      "summary": "IMF年会日程显示，美联储主席沃什将于北京时间10月16日在曼谷发表讲话。10月16日为10月27-28日FOMC会议前官员进入静默期的最后一天，此次发言是本轮加息周期中的关键政策信号窗口。",
+      "why": "沃什10月16日讲话是下一次FOMC前最后一次政策信号，市场对10月暂停加息持主流预期；若措辞偏鹰将显著上调加息概率、推高期权隐含波动率，直接冲击腾讯/谷歌/英伟达等高PE持仓的sell put保护区间。仍在发酵：讲话将于10月16日发生，本条为前瞻预告。",
+      "source": "第一财经（21财经）",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "沃什",
+        "IMF",
+        "FOMC",
+        "货币政策",
+        "加息"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261009/herald/cb73057014ed47440e0949967c3ab5f7.html",
+      "published_date": "2026-10-09",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-13",
+      "is_new": false
+    },
+    {
+      "id": "2202b61774324c49",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "美债市场进入关键周：9月CPI与沃什讲话双重催化，10年期收益率高位盘整",
+      "summary": "9月CPI数据将于10月14日公布（为FOMC会议前最后通胀数据），美联储主席沃什将于10月16日静默期前发言；10年期美债收益率维持高位，市场就下一次加息时点分歧加大。",
+      "why": "CPI+沃什讲话构成本周最高级别宏观风险事件双线并发：若CPI超预期叠加沃什鹰派表态，将引发短端利率跳升并压制高估值成长股（英伟达/谷歌/腾讯），同时扩大sell put策略中的Delta风险；操作上应在CPI公布前密切关注隐含波动率变化。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "CPI",
+        "通胀",
+        "美联储",
+        "沃什",
+        "美债",
+        "利率",
+        "FOMC"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuypex5313117.shtml",
+      "published_date": "2026-10-12",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-13",
+      "is_new": false
+    },
+    {
+      "id": "13ae63a9113bafbb",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "美股周一收盘：半导体指数创三个月新低，光通信重挫；沙特遇袭原油大涨",
+      "summary": "10月12日美股交易中，费城半导体指数创近三个月新低，光通信相关股票集体大跌；沙特Arabia遭袭导致原油价格大幅跳涨，AI硬件估值承压与地缘风险冲击市场情绪。",
+      "why": "半导体板块重挫直接压制英伟达、美光、SK海力士等核心持仓估值；原油跳涨推升通胀预期，强化美联储鹰派立场担忧，进一步压缩sell put策略的安全边际；英伟达相关put期权行权价风险敞口需重新评估。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "半导体",
+        "英伟达",
+        "SK海力士",
+        "美光",
+        "原油",
+        "沙特",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://k.sina.cn/article_5953189932_162d6782c067050p2s.html",
+      "published_date": "2026-10-13",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-13",
       "is_new": false
     },
     {
@@ -2885,6 +2953,36 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-12",
+      "is_new": false
+    },
+    {
+      "id": "94e4a580557e3766",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:30",
+      "group": "个股",
+      "title": "老铺黄金（6181.HK）股价跌超7%，花旗下调目标价",
+      "summary": "老铺黄金2026年10月12日股价大跌逾7%，花旗下调其目标价；与国际金价走势分化及机构仓位调整有关。",
+      "why": "老铺黄金为持仓个股，跌超7%且花旗下调目标价意味着机构定价中枢下移；若持有该股covered call或sell put仓位，需重新评估行权价保护区间是否充足，关注后续是否有更多机构跟进下调。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "老铺黄金",
+        "6181.HK",
+        "花旗",
+        "目标价",
+        "黄金"
+      ],
+      "translated": false,
+      "url": "https://k.sina.cn/article_2868676035_aafc85c302001yh6m.html",
+      "published_date": "2026-10-12",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-13",
       "is_new": false
     },
     {
