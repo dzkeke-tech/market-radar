@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-14 08:33 (北京时间)",
+  "updated_at": "2026-10-14 08:34 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,137 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-14 08:33 (北京时间)",
-    "new_count": 0,
+    "at": "2026-10-14 08:34 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "gs-q3-2026-earnings-beat",
+      "tier": 1,
+      "group": "大盘头条",
+      "title": "高盛Q3业绩大超预期：EPS $17.01，营收$18.68B同比增23%",
+      "summary": "高盛2026年Q3每股收益$17.01，远超分析师约$13共识（约高出31%），营收$18.68B同比增长23%。投行手续费收入与资产管理业务双双强劲反弹。财报发布后股价盘前涨约3%，金融板块情绪明显提振。",
+      "why": "高盛是美国大行中Q3首个公布业绩的主要投资银行，超预期幅度为近年最大，对金融板块隐含波动率（IV）有直接影响，亦是美国经济软着陆预期的代理指标之一。",
+      "source": "CNBC",
+      "url": "https://cnbc.com/2026/10/13/bank-earnings-live-updates.html",
+      "published_date": "2026-10-13",
+      "verified": true,
+      "markets": [
+        "US"
+      ],
+      "keywords": [
+        "高盛",
+        "Goldman Sachs",
+        "GS",
+        "Q3业绩",
+        "美国银行财报",
+        "投行"
+      ],
+      "translated": false,
+      "lang": "zh",
+      "time": "08:34",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-14",
+      "is_new": true
+    },
+    {
+      "id": "us-cpi-sep-2026-release",
+      "tier": 1,
+      "group": "大盘头条",
+      "title": "美国9月CPI今日公布，界面/第一财经报道数据超预期",
+      "summary": "美国劳工部于北京时间10月14日20:30发布9月CPI数据，为美联储10月27-28日议息会议前最后一项关键通胀数据。市场原预期同比3.6-3.7%。界面新闻、第一财经标题均含'超预期'字样，暗示实际数据高于共识预期。具体数字待核实后更新。",
+      "why": "美联储10月议息会议（10月27-28日）前最后一组通胀数据，CPI超预期将强化暂停降息预期，对利率敏感型资产（科技股、REITs、长债）有直接压制作用。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-10-14/doc-inivctrq0494640.shtml",
+      "published_date": "2026-10-14",
+      "verified": false,
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "keywords": [
+        "美国CPI",
+        "通胀",
+        "美联储",
+        "议息",
+        "宏观",
+        "CPI超预期"
+      ],
+      "translated": false,
+      "lang": "zh",
+      "time": "08:34",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-14",
+      "is_new": true
+    },
+    {
+      "id": "kospi-chip-selloff-cxmt-oct2026",
+      "tier": 1,
+      "group": "大盘头条",
+      "title": "韩国KOSPI芯片股连续第五日下挫，SK海力士跌逾6%，中芯存储CXMT技术进展引发恐慌",
+      "summary": "韩国综合指数KOSPI 10月13日下跌约5.5%，连续第五个交易日收跌。SK海力士（000660）跌幅达6-10%，三星电子亦承压。导火索为中国存储芯片厂商CXMT（长鑫存储）技术进展消息，市场担忧韩系DRAM/HBM业务受到冲击；Broadcom相关评论亦加剧情绪下行。",
+      "why": "SK海力士是持仓标的（关键词库命中），同时全球存储芯片供应格局若发生变化，将直接影响HBM/DRAM定价预期，对我司持仓的SK海力士相关产品（南方两倍做多等）波动率影响显著。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-13/korean-chip-stocks-sink-on-chinese-rival-worry-broadcom-remarks",
+      "cross_ref": "",
+      "published_date": "2026-10-13",
+      "verified": false,
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "KOSPI",
+        "CXMT",
+        "长鑫存储",
+        "存储芯片",
+        "DRAM",
+        "HBM",
+        "韩股"
+      ],
+      "translated": false,
+      "lang": "zh",
+      "time": "08:34",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-10-14",
+      "is_new": true
+    },
+    {
+      "id": "us-bank-q3-earnings-mixed-2026",
+      "tier": 2,
+      "group": "大盘头条",
+      "title": "美国大行Q3财报分化：摩根大通罕见失利，花旗超预期",
+      "summary": "摩根大通Q3 EPS $5.57（含证券损失$0.18/股），低于市场共识$5.93，为罕见未达预期；花旗集团小幅超预期；富国银行营收略低于预期；美国银行盘后披露遭财政部罚款$12亿美元（AML/制裁违规），预计冲减每股约$0.17。大行财报分化加大板块内轮动。",
+      "why": "大行Q3财报集中披露是每季度金融板块的重要催化剂，摩根大通罕见失利（在过去16个季度中未见）引发市场对贷款利差收窄及费用上升的担忧，同日美国银行巨额监管罚款则是独立风险事件。",
+      "source": "CNBC",
+      "url": "https://cnbc.com/2026/10/13/bank-earnings-live-updates.html",
+      "published_date": "2026-10-13",
+      "verified": true,
+      "markets": [
+        "US"
+      ],
+      "keywords": [
+        "摩根大通",
+        "JPMorgan",
+        "花旗",
+        "Citigroup",
+        "富国银行",
+        "Wells Fargo",
+        "美国银行",
+        "Q3财报",
+        "大盘头条"
+      ],
+      "translated": false,
+      "lang": "zh",
+      "time": "08:34",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-14",
+      "is_new": true
+    },
     {
       "id": "863a73b5dd307e7d",
       "tier": 1,
