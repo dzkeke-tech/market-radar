@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-14 13:33 (北京时间)",
+  "updated_at": "2026-10-14 18:30 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,37 +9,68 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-14 13:33 (北京时间)",
-    "new_count": 3,
+    "at": "2026-10-14 18:30 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "0a41c36e32d1e893",
+      "id": "00ce41192e2f158f",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK",
-        "US",
-        "A"
+        "US"
       ],
-      "time": "10:00",
+      "time": "08:30",
       "group": "大盘头条",
-      "title": "中国9月出口激增36.3%，集成电路出口暴涨136%至449亿美元",
-      "summary": "中国海关总署数据：9月出口4471.8亿美元（+36.3% YoY），进口3136.5亿美元（+31%），贸易顺差1335亿美元。集成电路出口449.51亿美元（+136%），汽车出口+62%，均大幅超预期。",
-      "why": "集成电路出口136%暴涨反映AI算力供应链中国份额加速扩大，利好A股半导体及港股科技板块；超预期贸易顺差强化人民币韧性，为港股估值扩张提供宏观支撑；汽车出口激增支撑特斯拉上海工厂出货前景。",
-      "source": "路透社",
-      "verified": true,
+      "title": "美国9月CPI今日（10月14日）公布：市场共识同比涨3.6%，能源价格为主要推手",
+      "summary": "美国劳工统计局于美东时间10月14日08:30发布9月CPI数据，市场共识预期同比上涨3.6%（高于8月3.4%），核心CPI预期2.4%；能源与交通成本上涨是主要驱动力。数据将直接影响美联储10月28日议息会议走向。当前联邦基金利率目标区间为3.75%-4.00%，现任主席Kevin Warsh。",
+      "why": "通胀数据若高于预期，将提升10月加息概率，推高美债收益率，压制成长股估值，并影响持仓期权的隐含波动率；sell put策略需评估是否提高行权价保护。",
+      "source": "CNBC",
+      "verified": false,
       "keywords": [
-        "半导体",
-        "出口",
-        "贸易顺差",
-        "集成电路",
-        "宏观"
+        "CPI",
+        "通胀",
+        "美联储",
+        "加息",
+        "Kevin Warsh",
+        "利率",
+        "美债"
       ],
       "translated": false,
-      "url": "https://www.brecorder.com/news/40444136/chinas-exports-surge-363-yy-in-september-imports-up-31",
+      "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+      "published_date": "2026-10-13",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-14",
+      "is_new": true
+    },
+    {
+      "id": "9014e2eff3cd7e04",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股收盘（10月14日）：恒指跌0.13%报24314.17点，科技指数涨0.91%，美团涨超6%领升蓝筹",
+      "summary": "10月14日香港股市收盘：恒生指数跌0.13%（-31.05点）至24314.17点，全日成交额1934.75亿港元；恒生科技指数涨0.91%（+37.84点）至4174.47点；科网股活跃，美团-W（03690）涨逾6%领升蓝筹，乳业板块强势；生物医药及光通信板块下挫。",
+      "why": "港股整体小跌但科技独立上行，显示资金选择性流入科技消费；美团单日涨超6%需关注是否有期权套利机会；成交额偏低（约1935亿港元），可观察是否有持续放量信号。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "恒生科技指数",
+        "美团",
+        "科网股",
+        "收盘"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-14/doc-iniveqvq4522802.shtml",
       "published_date": "2026-10-14",
       "still_developing": false,
       "cross_ref": "",
@@ -48,30 +79,31 @@
       "is_new": true
     },
     {
-      "id": "4ec6a6017848d259",
+      "id": "68f31340cc6149aa",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "A",
         "HK"
       ],
-      "time": "14:00",
+      "time": "10:00",
       "group": "大盘头条",
-      "title": "中国下调新能源车出口退税率至9%，2027年4月起生效",
-      "summary": "财政部宣布将新能源汽车出口退税率由13%下调至9%，2027年4月1日起实施。该政策将压缩国内新能源车企出口利润空间约4个百分点。",
-      "why": "特斯拉上海工厂大量出口欧洲，退税率下调直接增加其单车出口成本；小米SU7/YU7出海逻辑短期承压；比亚迪等出口导向车企成本结构受影响。政策生效在2027Q2，当前影响为预期层面，仍需关注车企调价应对策略。",
+      "title": "淘宝天猫2026双11预售明日（10月15日）正式启动，京东已开启现货售卖",
+      "summary": "天猫与淘宝定于10月15日（周四）晚8点开启双11预售，活动持续至11月11日，天猫及京东同日举行2026双11新闻发布会；京东已抢先于10月12日开启全品类现货售卖。双11大促正式拉开序幕，阿里电商消费数据将成为重要跟踪指标。",
+      "why": "双11是衡量中国消费复苏力度的重要风向标；阿里（9988.HK/BABA）、京东等平台的GMV数据将影响电商股走势，并可能为蜜雪冰城等消费品牌的期权估值提供参考。注：发布日期根据内容（提及'明日10月15日'）判断为2026-10-14，未在URL中找到明确时间戳。",
       "source": "格隆汇",
-      "verified": true,
+      "verified": false,
       "keywords": [
-        "新能源汽车",
-        "出口退税",
-        "特斯拉",
-        "小米",
-        "政策"
+        "双十一",
+        "淘宝",
+        "天猫",
+        "阿里巴巴",
+        "电商",
+        "促销",
+        "消费"
       ],
       "translated": false,
-      "url": "https://m.gelonghui.com/live/2706467",
-      "published_date": "2026-10-12",
+      "url": "https://m.gelonghui.com/live/2706352",
+      "published_date": "2026-10-14",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -79,31 +111,32 @@
       "is_new": true
     },
     {
-      "id": "66c961ae3f3bba5d",
-      "tier": 2,
+      "id": "53261a7ee5bea5a0",
+      "tier": 3,
       "lang": "zh",
       "markets": [
-        "HK",
-        "US"
+        "HK"
       ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "美联储官员暗示10月27-28日会议或暂停加息，当前利率3.75%-4.00%",
-      "summary": "纽约联储主席Williams（10月13日）表示年内再加息属合理，但并非10月紧迫；联储理事Waller称当前收益率上行已在替代加息效果，市场隐含10月加息概率约20-25%。",
-      "why": "高利率环境对美股估值持续施压，尤其影响高PE科技股（英伟达、谷歌）；港股港元联系汇率制度下HIBOR随联储政策联动，关注互联网券商（富途）净息差变化；Circle（USDC）持有美国短债收益直接受益于高利率延续。",
-      "source": "华尔街见闻",
-      "verified": true,
+      "time": "11:00",
+      "group": "个股",
+      "title": "腾讯元器平台将于11月9日全面停服，旗下第一代通用智能体平台进入收缩期",
+      "summary": "腾讯旗下元器智能体创建平台于10月8日发布公告，宣布因业务调整将于2026年11月9日全面停服；10月29日起停止创建新智能体及分发API Key，对接公众号等外部渠道的智能体届时也将停止响应。用户数据过渡期至2027年1月9日。腾讯云ADP及公众号智能回复作为替代方案。",
+      "why": "腾讯元器收缩反映第一代通用智能体平台商业模式承压，行业正向更专业化的Agent方向演进；对腾讯（0700.HK）整体AI战略影响有限，但可作为观察AI产品迭代节奏的参考指标。",
+      "source": "新浪财经",
+      "verified": false,
       "keywords": [
-        "美联储",
-        "加息",
-        "利率",
-        "宏观",
-        "货币政策"
+        "腾讯",
+        "Tencent",
+        "元器",
+        "AI智能体",
+        "Agent",
+        "停服",
+        "腾讯云"
       ],
       "translated": false,
-      "url": "https://wallstreetcn.com/articles/3690870",
-      "published_date": "2026-10-13",
-      "still_developing": true,
+      "url": "https://finance.sina.cn/stock/jdts/2026-10-12/detail-iniuxmtr7248273.d.html",
+      "published_date": "2026-10-12",
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-14",
@@ -1392,6 +1425,38 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-13",
+      "is_new": false
+    },
+    {
+      "id": "0a41c36e32d1e893",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "中国9月出口激增36.3%，集成电路出口暴涨136%至449亿美元",
+      "summary": "中国海关总署数据：9月出口4471.8亿美元（+36.3% YoY），进口3136.5亿美元（+31%），贸易顺差1335亿美元。集成电路出口449.51亿美元（+136%），汽车出口+62%，均大幅超预期。",
+      "why": "集成电路出口136%暴涨反映AI算力供应链中国份额加速扩大，利好A股半导体及港股科技板块；超预期贸易顺差强化人民币韧性，为港股估值扩张提供宏观支撑；汽车出口激增支撑特斯拉上海工厂出货前景。",
+      "source": "路透社",
+      "verified": true,
+      "keywords": [
+        "半导体",
+        "出口",
+        "贸易顺差",
+        "集成电路",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.brecorder.com/news/40444136/chinas-exports-surge-363-yy-in-september-imports-up-31",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-14",
       "is_new": false
     },
     {
@@ -2893,6 +2958,68 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-13",
+      "is_new": false
+    },
+    {
+      "id": "4ec6a6017848d259",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "中国下调新能源车出口退税率至9%，2027年4月起生效",
+      "summary": "财政部宣布将新能源汽车出口退税率由13%下调至9%，2027年4月1日起实施。该政策将压缩国内新能源车企出口利润空间约4个百分点。",
+      "why": "特斯拉上海工厂大量出口欧洲，退税率下调直接增加其单车出口成本；小米SU7/YU7出海逻辑短期承压；比亚迪等出口导向车企成本结构受影响。政策生效在2027Q2，当前影响为预期层面，仍需关注车企调价应对策略。",
+      "source": "格隆汇",
+      "verified": true,
+      "keywords": [
+        "新能源汽车",
+        "出口退税",
+        "特斯拉",
+        "小米",
+        "政策"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/live/2706467",
+      "published_date": "2026-10-12",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-14",
+      "is_new": false
+    },
+    {
+      "id": "66c961ae3f3bba5d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "美联储官员暗示10月27-28日会议或暂停加息，当前利率3.75%-4.00%",
+      "summary": "纽约联储主席Williams（10月13日）表示年内再加息属合理，但并非10月紧迫；联储理事Waller称当前收益率上行已在替代加息效果，市场隐含10月加息概率约20-25%。",
+      "why": "高利率环境对美股估值持续施压，尤其影响高PE科技股（英伟达、谷歌）；港股港元联系汇率制度下HIBOR随联储政策联动，关注互联网券商（富途）净息差变化；Circle（USDC）持有美国短债收益直接受益于高利率延续。",
+      "source": "华尔街见闻",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "加息",
+        "利率",
+        "宏观",
+        "货币政策"
+      ],
+      "translated": false,
+      "url": "https://wallstreetcn.com/articles/3690870",
+      "published_date": "2026-10-13",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-14",
       "is_new": false
     },
     {
