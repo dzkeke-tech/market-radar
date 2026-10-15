@@ -10,11 +10,137 @@
   "positions": [],
   "last_run": {
     "at": "2026-10-15 13:26 (北京时间)",
-    "new_count": 0,
+    "new_count": 4,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "8a58c36c79ba8608",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US",
+        "A"
+      ],
+      "time": "09:15",
+      "group": "大盘头条",
+      "title": "韩国KOSPI触发Sidecar熔断，SK海力士、三星暴跌，芯片股杀跌蔓延亚太",
+      "summary": "2026年10月15日早盘，KOSPI指数急跌超6%，触发程序化交易熔断（Sidecar）暂停5分钟。SK海力士跌超8%、三星电子跌近7%，原因包括HBM4设备订单传闻延后及全球AI需求担忧。日经225跌超3%，港股存储及半导体概念股随之大幅走弱。",
+      "why": "亚太半导体系统性杀跌，存储板块（SK海力士相关CSOP产品、港股半导体ETF）受直接冲击；AI资本开支叙事承压，或短期提升英伟达、美光等持仓的期权隐含波动率，sell put需关注行权价位风险。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "KOSPI",
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "半导体",
+        "熔断"
+      ],
+      "translated": false,
+      "url": "https://21jingji.com/article/20261015/herald/81ce9127f9563858ffef5c36784e29a4.html",
+      "published_date": "2026-10-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-15",
+      "is_new": true
+    },
+    {
+      "id": "aa8ba8141139a7db",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "12:00",
+      "group": "大盘头条",
+      "title": "港股午盘：恒指跌1.47%失守24000点，科指跌2.94%；A股沪指盘中跌破3700点",
+      "summary": "2026年10月15日午盘，恒生指数跌1.47%至23955点，恒生科技指数跌2.94%至4051点，科网股、存储股全线走低，联想集团午盘跌超13%，宁德时代跌超6%。A股方面，沪指盘中一度跌破3700点，深证成指跌2.78%，创业板跌3.42%，超5000只个股下跌。",
+      "why": "港股科技成分股（腾讯、阿里、美团）集体受压；A股半导体、通信板块大幅回调，或影响相关持仓的期权定价；市场整体避险情绪上升，注意covered call是否需要提前管理。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "恒生科技",
+        "A股",
+        "港股",
+        "沪指"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-15/doc-inivhpnm7404520.shtml",
+      "published_date": "2026-10-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-15",
+      "is_new": true
+    },
+    {
+      "id": "33462c9cbbf54203",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "美国9月CPI走热拉高加息预期，现货黄金跌破4100美元，老铺黄金等金饰股承压",
+      "summary": "美国9月CPI同比涨3.7%高于预期，加息预期骤升，现货黄金价格随即跌破4100美元/盎司关口。黄金下跌拖累港股黄金珠宝相关板块，老铺黄金（6181.HK）等金饰标的面临估值与库存双重压力。",
+      "why": "直接涉及持仓标的老铺黄金（6181.HK）：金价下行压制其毛利率预期，高库存风险加剧；若金价进一步走低，sell put行权价保护需重新评估。",
+      "source": "财联社",
+      "verified": false,
+      "keywords": [
+        "黄金",
+        "金价",
+        "老铺黄金",
+        "CPI",
+        "加息"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2504926",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-15",
+      "is_new": true
+    },
+    {
+      "id": "c8be808a703a4464",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "腾讯完成自2020年来最大规模离岸债券发行：人民币260亿元+美元18亿，资金主要用于AI/芯片",
+      "summary": "腾讯控股（00700）于10月13日（纽约时间）完成全球中期票据（MTN）计划下的债券定价：美元债18亿（10年期6.10%、20年期6.75%），人民币债260亿元（10年期2.40%、30年期3.00%），预计10月21日发行。认购订单超155亿美元，超额认购约2.44倍。管理层透露资金主要用于AI资本开支，重点采购芯片。这是腾讯自2020年以来最大规模的离岸债券发行。",
+      "why": "表明腾讯AI扩张步伐积极，大规模融资意味着未来资本开支持续高位（2026上半年资本开支已达963亿元），可能压制短期EPS但有利于长期竞争壁垒；债券发行也显示机构投资者对腾讯信用背书，有助于支撑股价中期走势；持仓者可关注财报前后期权隐含波动率变化。",
+      "source": "华尔街见闻",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "债券",
+        "MTN",
+        "AI",
+        "芯片"
+      ],
+      "translated": false,
+      "url": "https://wallstreetcn.com/articles/3783564",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-15",
+      "is_new": true
+    },
     {
       "id": "5dfcd96828d67186",
       "tier": 1,
