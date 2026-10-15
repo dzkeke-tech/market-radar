@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-15 08:39 (北京时间)",
+  "updated_at": "2026-10-15 13:26 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,144 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-15 08:39 (北京时间)",
-    "new_count": 4,
+    "at": "2026-10-15 13:26 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "7514efd0f8744ba7",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "05:00",
-      "group": "大盘头条",
-      "title": "Wall Street closes sharply lower as hot CPI fuels rate-hike fears: S&P 500 −1.1%, Nasdaq −1.9%, chip stocks led sell-off",
-      "summary": "US stocks posted their steepest one-day declines since late July on October 14, after September CPI came in at 3.7% year-over-year and 0.6% month-over-month—both above consensus. The S&P 500 fell 1.1%, Nasdaq Composite dropped 1.9%, and the Philadelphia Semiconductor Index (SOX) tumbled 4.3%. Nvidia fell 3.2%, AMD lost 5.7%, and the Dow Jones edged down just 0.09%.",
-      "why": "美股大跌拖累港股ADR夜期走低，半导体板块SOX单日跌4.3%为近期最大跌幅。英伟达（持仓/观察名单）单日跌3.2%、AMD跌5.7%，隐含波动率（VIX）走高对sell put策略形成负面冲击。9月CPI 3.7%超市场共识（3.6%），强化了10月28日FOMC凯文·沃什（Kevin Warsh）再度加息的定价预期，成长股估值重估压力短期持续。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "S&P500",
-        "纳斯达克",
-        "英伟达",
-        "AI芯片",
-        "美联储",
-        "CPI",
-        "半导体",
-        "SOX"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
-      "published_date": "2026-10-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-15",
-      "is_new": true
-    },
-    {
-      "id": "7f49c260dc16389a",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "ASML Q3 2026: net sales €11.7B, net income €5.0B—both above consensus; Q4 guidance €14.2–15.2B",
-      "summary": "ASML reported Q3 2026 total net sales of €11.7 billion with a 57.5% gross margin and net income of €5.0 billion (basic EPS €12.95), all above analyst consensus. Q4 2026 guidance is net sales of €14.2–15.2 billion at approximately 57% gross margin; full-year 2026 guidance is maintained at €44–45 billion. Management cited strong AI-driven demand from logic and memory customers, with EUV supply constrained through at least 2028.",
-      "why": "ASML三季报大超预期，验证AI基础设施投资持续加速，为SK海力士（7709.HK持仓）和美光（MU持仓）等存储客户业绩提供正面先行信号。EUV供应瓶颈延续至2028年确认供应链定价权，对相关半导体标的估值有显著支撑；台积电三季报下周披露，ASML构成重要参照。港股科技/半导体板块（含SK海力士南向杠杆ETF）10月15日开盘或受利好提振。",
-      "source": "ASML Investor Relations",
-      "verified": true,
-      "keywords": [
-        "ASML",
-        "半导体",
-        "EUV",
-        "AI基础设施",
-        "SK海力士",
-        "美光",
-        "存储芯片",
-        "晶圆"
-      ],
-      "translated": false,
-      "url": "https://investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026",
-      "published_date": "2026-10-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-15",
-      "is_new": true
-    },
-    {
-      "id": "e3454b7ee3d79309",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "中国9月CPI同比涨0.9%低于预期，PPI同比创四年新高",
-      "summary": "国家统计局10月14日9:30发布数据，9月全国CPI同比上涨0.9%，低于市场预期的1.0%，食品价格小幅回落，旅游旺季推动服务价格环比上行。PPI同比涨幅创四年新高，反映能源价格上行及AI需求拉动下工业品价格强劲走势。",
-      "why": "CPI低于预期显示消费内需修复仍不稳固，短期对美团（3690.HK）、携程（9961.HK）、海底捞（6862.HK）等消费股存在压力；PPI持续走强与AI/算力相关工业品价格上升一致，对科技上游标的利好。A股与港股消费板块或受CPI偏弱情绪影响，双11预售期间消费数据将提供修复预期验证。注：本条verified=false，财联社URL未经内容核实，但数据与多家金融媒体10月14日报道一致，PPI四年高点为多源描述，具体数值未在本轮白名单原文中得到独立核实。",
-      "source": "财联社 (cls.cn)",
-      "verified": false,
-      "keywords": [
-        "CPI",
-        "PPI",
-        "通胀",
-        "中国经济",
-        "消费",
-        "宏观",
-        "美团",
-        "携程"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/2477726",
-      "published_date": "2026-10-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-15",
-      "is_new": true
-    },
-    {
-      "id": "5550f84ba8e51893",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "19:00",
-      "group": "大盘头条",
-      "title": "Bank of America Q3 2026: net income $8.1B including $1.2B regulatory settlement charge; diluted EPS $1.083",
-      "summary": "Bank of America filed its Q3 2026 earnings press release (SEC Exhibit 99.2) on October 14. Reported net income was $8.1 billion including a $1.2 billion pretax regulatory settlement charge that reduced diluted EPS by $0.17; on an adjusted basis net income was approximately $6.9 billion (EPS ~$0.91). Reported diluted EPS was $1.083. The settlement reflects ongoing U.S. regulatory scrutiny of large financial institutions.",
-      "why": "Q3美国大行财报季持续，BAC因含$1.2B监管罚款导致表面利润偏高，剔除一次性项目后核心盈利（EPS约$0.91）尚可。本轮已于10月13日覆盖摩根大通（罕见失利）与花旗（超预期），BAC补充大行财报全貌。整体金融板块Q3利润具韧性但承受监管成本，对港美两市风险偏好影响中性偏弱。当日大盘头条数量偏少（共4条），因10月14日18:30后主要事件集中于ASML与美股收盘，数量低于5条目标；未在非白名单来源中强行凑数。",
-      "source": "SEC EDGAR (Official Filing)",
-      "verified": true,
-      "keywords": [
-        "Bank of America",
-        "BAC",
-        "Q3财报",
-        "美国大行",
-        "金融监管",
-        "银行业"
-      ],
-      "translated": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex992.htm",
-      "published_date": "2026-10-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-15",
-      "is_new": true
-    },
     {
       "id": "5dfcd96828d67186",
       "tier": 1,
@@ -1434,6 +1302,73 @@
       "time": "08:34",
       "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
       "first_seen": "2026-10-14",
+      "is_new": false
+    },
+    {
+      "id": "7514efd0f8744ba7",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "05:00",
+      "group": "大盘头条",
+      "title": "Wall Street closes sharply lower as hot CPI fuels rate-hike fears: S&P 500 −1.1%, Nasdaq −1.9%, chip stocks led sell-off",
+      "summary": "US stocks posted their steepest one-day declines since late July on October 14, after September CPI came in at 3.7% year-over-year and 0.6% month-over-month—both above consensus. The S&P 500 fell 1.1%, Nasdaq Composite dropped 1.9%, and the Philadelphia Semiconductor Index (SOX) tumbled 4.3%. Nvidia fell 3.2%, AMD lost 5.7%, and the Dow Jones edged down just 0.09%.",
+      "why": "美股大跌拖累港股ADR夜期走低，半导体板块SOX单日跌4.3%为近期最大跌幅。英伟达（持仓/观察名单）单日跌3.2%、AMD跌5.7%，隐含波动率（VIX）走高对sell put策略形成负面冲击。9月CPI 3.7%超市场共识（3.6%），强化了10月28日FOMC凯文·沃什（Kevin Warsh）再度加息的定价预期，成长股估值重估压力短期持续。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P500",
+        "纳斯达克",
+        "英伟达",
+        "AI芯片",
+        "美联储",
+        "CPI",
+        "半导体",
+        "SOX"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-15",
+      "is_new": false
+    },
+    {
+      "id": "7f49c260dc16389a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "ASML Q3 2026: net sales €11.7B, net income €5.0B—both above consensus; Q4 guidance €14.2–15.2B",
+      "summary": "ASML reported Q3 2026 total net sales of €11.7 billion with a 57.5% gross margin and net income of €5.0 billion (basic EPS €12.95), all above analyst consensus. Q4 2026 guidance is net sales of €14.2–15.2 billion at approximately 57% gross margin; full-year 2026 guidance is maintained at €44–45 billion. Management cited strong AI-driven demand from logic and memory customers, with EUV supply constrained through at least 2028.",
+      "why": "ASML三季报大超预期，验证AI基础设施投资持续加速，为SK海力士（7709.HK持仓）和美光（MU持仓）等存储客户业绩提供正面先行信号。EUV供应瓶颈延续至2028年确认供应链定价权，对相关半导体标的估值有显著支撑；台积电三季报下周披露，ASML构成重要参照。港股科技/半导体板块（含SK海力士南向杠杆ETF）10月15日开盘或受利好提振。",
+      "source": "ASML Investor Relations",
+      "verified": true,
+      "keywords": [
+        "ASML",
+        "半导体",
+        "EUV",
+        "AI基础设施",
+        "SK海力士",
+        "美光",
+        "存储芯片",
+        "晶圆"
+      ],
+      "translated": false,
+      "url": "https://investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-15",
       "is_new": false
     },
     {
@@ -2855,6 +2790,71 @@
       "time": "08:34",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-14",
+      "is_new": false
+    },
+    {
+      "id": "e3454b7ee3d79309",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "中国9月CPI同比涨0.9%低于预期，PPI同比创四年新高",
+      "summary": "国家统计局10月14日9:30发布数据，9月全国CPI同比上涨0.9%，低于市场预期的1.0%，食品价格小幅回落，旅游旺季推动服务价格环比上行。PPI同比涨幅创四年新高，反映能源价格上行及AI需求拉动下工业品价格强劲走势。",
+      "why": "CPI低于预期显示消费内需修复仍不稳固，短期对美团（3690.HK）、携程（9961.HK）、海底捞（6862.HK）等消费股存在压力；PPI持续走强与AI/算力相关工业品价格上升一致，对科技上游标的利好。A股与港股消费板块或受CPI偏弱情绪影响，双11预售期间消费数据将提供修复预期验证。注：本条verified=false，财联社URL未经内容核实，但数据与多家金融媒体10月14日报道一致，PPI四年高点为多源描述，具体数值未在本轮白名单原文中得到独立核实。",
+      "source": "财联社 (cls.cn)",
+      "verified": false,
+      "keywords": [
+        "CPI",
+        "PPI",
+        "通胀",
+        "中国经济",
+        "消费",
+        "宏观",
+        "美团",
+        "携程"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2477726",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-15",
+      "is_new": false
+    },
+    {
+      "id": "5550f84ba8e51893",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "19:00",
+      "group": "大盘头条",
+      "title": "Bank of America Q3 2026: net income $8.1B including $1.2B regulatory settlement charge; diluted EPS $1.083",
+      "summary": "Bank of America filed its Q3 2026 earnings press release (SEC Exhibit 99.2) on October 14. Reported net income was $8.1 billion including a $1.2 billion pretax regulatory settlement charge that reduced diluted EPS by $0.17; on an adjusted basis net income was approximately $6.9 billion (EPS ~$0.91). Reported diluted EPS was $1.083. The settlement reflects ongoing U.S. regulatory scrutiny of large financial institutions.",
+      "why": "Q3美国大行财报季持续，BAC因含$1.2B监管罚款导致表面利润偏高，剔除一次性项目后核心盈利（EPS约$0.91）尚可。本轮已于10月13日覆盖摩根大通（罕见失利）与花旗（超预期），BAC补充大行财报全貌。整体金融板块Q3利润具韧性但承受监管成本，对港美两市风险偏好影响中性偏弱。当日大盘头条数量偏少（共4条），因10月14日18:30后主要事件集中于ASML与美股收盘，数量低于5条目标；未在非白名单来源中强行凑数。",
+      "source": "SEC EDGAR (Official Filing)",
+      "verified": true,
+      "keywords": [
+        "Bank of America",
+        "BAC",
+        "Q3财报",
+        "美国大行",
+        "金融监管",
+        "银行业"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex992.htm",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-15",
       "is_new": false
     },
     {
