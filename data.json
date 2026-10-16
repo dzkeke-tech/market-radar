@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-15 18:29 (北京时间)",
+  "updated_at": "2026-10-16 08:36 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,451 +9,69 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-15 18:29 (北京时间)",
-    "new_count": 3,
+    "at": "2026-10-16 08:36 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "f852f415d2fed9c8",
-      "tier": 1,
+      "id": "53283e4f17cc8ac9",
+      "tier": 2,
       "lang": "zh",
       "markets": [
-        "HK",
+        "HK"
+      ],
+      "time": "18:00",
+      "group": "个股",
+      "title": "腾讯（00700）10月14日斥资1亿港元回购23.7万股",
+      "summary": "腾讯控股10月14日在港交所回购23.7万股，耗资约1亿港元，与近期每日1亿港元的回购节奏保持一致。",
+      "why": "腾讯持续执行小额日常回购，稳定市场信心；回购规模相对发债金额较小，对股价支撑作用有限，但彰显管理层对当前估值的认可。持有腾讯covered call策略可关注回购支撑的下行保护。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "0700.HK",
+        "回购"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/hk/post/1001109294/on-october-14-tencent-00700-repurchased-237000-shares-for-hk",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": true
+    },
+    {
+      "id": "b4f45a8390da7301",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
         "US"
       ],
       "time": "11:00",
-      "group": "大盘头条",
-      "title": "亚太股市全线暴跌，韩国KOSPI跌逾8%触发熔断步入熊市",
-      "summary": "受美国9月CPI超预期与中国CXMT存储竞争叙事叠加冲击，10月15日亚太股市全线重挫。韩国KOSPI单日跌近8%触发熔断并步入技术性熊市，三星和SK海力士各跌逾9%；日经225大幅下跌，亚太MSCI指数跌2.7%触及7月以来低位。恒生科技指数跌近3%，A股创业板指盘中跌超4%。",
-      "why": "亚太市场集体崩跌推升全球风险厌恶情绪，波动率进一步上行；韩国熔断直接冲击SK海力士（持仓）的流动性与账面价值；全球beta风险急升，期权卖方策略承受明显压力，需关注未来一周隐含波动率走势。",
+      "group": "个股",
+      "title": "Palantir Settles 50M Pound London Metropolitan Police AI Contract Dispute Ahead of Trial",
+      "summary": "Palantir Technologies and the London Mayor's office settled their legal dispute over a blocked 50 million pound ($66 million) Metropolitan Police AI and data analytics contract. Both parties withdrew allegations without admitting wrongdoing; the Mayor's office stated Palantir can bid on future procurements. The settlement occurs as the UK still reviews Palantir's separate 330 million pound NHS contract.",
+      "why": "伦敦和解移除一个悬而未决的监管风险，同时表明Palantir在欧洲政府市场的合规形象部分恢复；NHS合同审查持续提供不确定性，对持有PLTR仓位构成潜在波动源，可关注sell put的隐含波动率时机。",
       "source": "Bloomberg",
       "verified": false,
       "keywords": [
-        "港股",
-        "韩国",
-        "KOSPI",
-        "熊市",
-        "亚太",
-        "全球市场",
-        "存储"
+        "Palantir",
+        "PLTR",
+        "国防AI",
+        "政府合同",
+        "AIP"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/chip-stocks-deepen-losses-as-concerns-mount-over-rates-ai-debt",
-      "published_date": "2026-10-15",
+      "url": "https://bloomberg.com/news/articles/2026-10-14/palantir-settles-suit-with-london-mayor-over-scrapped-policing-contract",
+      "published_date": "2026-10-14",
       "still_developing": false,
-      "cross_ref": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
-      "first_seen": "2026-10-15",
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-10-16",
       "is_new": true
-    },
-    {
-      "id": "d2e3f52e9ce1fbbf",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:00",
-      "group": "大盘头条",
-      "title": "A股全线重挫，创业板指跌超4%刷新年内新低，沪指险守3700点",
-      "summary": "10月15日A股大幅收跌：上证指数跌1.59%，深成指跌2.43%，创业板指跌2.92%（盘中一度跌超4%，刷新年内新低），科创50跌超3%，北证50跌3.44%。全市场超5100只个股下跌，成交约1.63万亿元较前一交易日放量约2186亿元。算力硬件、半导体芯片、煤炭、油气跌幅居前；白酒和银行相对抗跌，PCB与固态电池概念局部活跃。央行当日开展450亿元7天期逆回购（利率1.40%）。",
-      "why": "外围市场剧震传导A股，消费与科技板块大幅下跌直接冲击持仓组合；放量下跌表明市场恐慌性抛售；创业板年内新低意味着A股科技仓位整体亏损压力加大，需评估是否触及止损位。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "创业板",
-        "沪指",
-        "半导体",
-        "算力"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908r4g2.html",
-      "published_date": "2026-10-15",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-15",
-      "is_new": true
-    },
-    {
-      "id": "3c22094158d96a76",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "港股恒生科技指数午间跌近3%再创调整低点，百度跌约5%领跌科网板块",
-      "summary": "10月15日港股持续承压，恒生科技指数午间跌近2.94%刷新近期调整低点，恒生指数、国企指数分别下跌约1.47%及1.51%。大型科网股集体下跌，百度跌约5%为互联网板块最大跌幅；存储板块继续重挫，煤炭、石油股同步走弱。",
-      "why": "港股科技全线下跌直接压制腾讯、阿里等持仓估值；恒生科技指数持续破位令科网板块多头趋势受损；百度的大跌可能引发对整个互联网AI估值的重新审视，需警惕市场情绪进一步恶化。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "恒生科技",
-        "互联网",
-        "百度",
-        "科网"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908r3ma.html",
-      "published_date": "2026-10-15",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-15",
-      "is_new": true
-    },
-    {
-      "id": "5dfcd96828d67186",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "16:05",
-      "group": "大盘头条",
-      "title": "A股港股国庆节后首日双双走弱，科创50大跌4.82%，恒生科技创近两年新低",
-      "summary": "10月8日A股节后首日全线收跌：上证指数报3811.90点跌0.79%，创业板指跌3.15%，科创50大跌4.82%；港股恒生指数跌1.43%至23785点，恒生科技指数跌2.89%，科技与半导体板块领跌两地。",
-      "why": "节后首日科技股普跌，恒生科技指数创近两年新低，拖累腾讯、小米等港股科技持仓；但大跌后波动率抬升，可观察Sell Put机会窗口。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "港股",
-        "恒生科技",
-        "创业板",
-        "科创50",
-        "节后行情"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/y/2026-10-08/doc-iniunezm7683059.shtml",
-      "published_date": "2026-10-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "70cb0d27aad9c350",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "Dow falls 0.66%, S&P 500 and Nasdaq dip as bond yields hover near 5.35%",
-      "summary": "US stocks retreated Oct. 7 as the 10-year Treasury yield held near its 24-year high of 5.35%, weighing on tech valuations: Dow -0.66% to 51,179, S&P 500 -0.22% to 7,801, Nasdaq -0.22%, Philadelphia Semiconductor Index -1.15%.",
-      "why": "美债收益率高位长驻是港股/A股科技估值的持续压制因素，对英伟达、Palantir等高估值AI股尤其不利；同时为期权卖方提供更高的IV溢价环境。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美股",
-        "美债收益率",
-        "道指",
-        "纳指",
-        "标普500",
-        "费城半导体"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/06/stock-market-today-live-updates.html",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "3286a7c07a199685",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "SpaceX in talks to raise 0 billion from Apollo, banks to buy Nvidia GPUs for AI expansion",
-      "summary": "SpaceX is in early-stage talks with Apollo Capital and several banks, including PIMCO, to raise ~0B in loans and ~0B in investment-grade bonds using GPUs as collateral, to fund a massive Nvidia chip purchase. The deal remains preliminary and could still fall apart, Bloomberg and CNBC both reported Oct. 6-7.",
-      "why": "若成交，将成为NVDA最大单笔订单之一，极大增强其2027年营收能见度；对AI算力基础设施投资叙事起正向催化。NVDA为核心持仓，重点跟踪。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "SpaceX",
-        "Nvidia",
-        "GPU",
-        "AI芯片",
-        "Apollo",
-        "数据中心",
-        "英伟达"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "bb50e493d319751a",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "A股国庆节后首个交易日三大指数分化，沪指冲高回落，成交额超万亿",
-      "summary": "A股10月8日节后首日开盘高开，沪深三大股指震荡分化，沪指冲高后回落，成交额超万亿元；港股亦同步开盘，市场关注节后资金流向与政策预期落地进展。",
-      "why": "国庆长假后首个交易日是A股资金情绪的重要风向标，关注港股持仓可通过沪深港通情绪传导判断短期走向。成交额超万亿反映市场活跃度，对持有港股/A股标的的组合具有直接参考意义。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "港股",
-        "节后行情",
-        "大盘"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908q8la.html",
-      "published_date": "2026-10-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "af434028b32295f6",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "英伟达市值逼近6万亿美元，超越苹果跻身全球第一大市值公司",
-      "summary": "受AI芯片需求持续强劲驱动，英伟达股价于10月6日周一大涨，市值逼近6万亿美元并超越苹果，成为全球市值最高公司。",
-      "why": "英伟达是组合重点持仓标的（NVDA），其市值创新高直接影响持仓估值；AI算力景气度持续向好亦对A股/港股AI基础设施板块有情绪带动效应。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "市值",
-        "AI芯片"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/digi/2026-10-06/doc-iniufsvp9131018.shtml",
-      "published_date": "2026-10-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "54ef1dd27bbb9d01",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "A",
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "美债10年期收益率升破5.27%创年内新高，节后A股走势面临外部压力",
-      "summary": "10月7日美债10年期收益率突破5.27%创年内新高，市场担忧美联储降息节奏进一步放缓；多家机构研判国庆后A股短期面临美债利率抬升与汇率压力，但中长期政策预期仍偏积极。",
-      "why": "美债长端利率是全球资产定价基准，破5.27%高位对港股估值（分母端）形成压制，同时影响美股科技板块（如英伟达、谷歌等组合持仓）的相对吸引力；是节后开市前最重要的宏观背景变量。",
-      "source": "第一财经",
-      "verified": false,
-      "keywords": [
-        "美债收益率",
-        "宏观",
-        "A股",
-        "港股",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261007/herald/bea156106cd8705c69d8b6a157743045.html",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "253567b9cd83d3cc",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "机构研判节后A股有望量价齐升，科技主线或重新占优",
-      "summary": "多家机构于10朎8日节后首个交易日前发布研判报告，普遍认为国庆假期间港股反弹、全球风险偏好改善，A股节后开盘有望延续反弹态势，量价同步修复。科技板块（AI算力、半导体、智能驾驶）被认为是节后主线，消费板块需等待实际假日数据验证。",
-      "why": "节后首日机构一致研判方向是判断仓位持有信心的核心参考；科技主线重占优对腾讯、美团、泡泡玛特等港股标的有积极支撑。当日其余重大头条来源有限，本轮大盘头条仅确认2条白名单新稿，特此说明。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "节后首日",
-        "科技主线",
-        "机构研判",
-        "量价齐升"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-10-08/doc-iniumytr4530975.shtml",
-      "published_date": "2026-10-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "2a9537e6c1acf9f8",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "谷歌广告技术反垄断案：DOJ与谷歌提交最终救济方案分歧犹存，强制拆分已被排除",
-      "summary": "美国司法部（DOJ）与谷歌（GOOGL）于10月2日前后向联邦法院提交广告技术反垄断案拟议最终判决，但双方对多项救济条款仍存在显著分歧。此前法官Brinkema于9月2日裁定拒绝强制分拆AdX，被视为谷歌重大胜利。当前预期谷歌将以行为性救济为主（开放FAPI、互操作性要求），而非结构性拆分，消除了GOOGL最大的下行风险。",
-      "why": "谷歌强制拆分被排除后，GOOGL的估値尾部风险大幅降低；最终判决落地前，行为性救济方案的具体内容将决定谷歌广告业务的合规成本，对其广告收入增速有直接影响；持有GOOGL仓位期间需跟踪该案最终裁定时间表。",
-      "source": "华尔街见闻",
-      "verified": false,
-      "keywords": [
-        "谷歌",
-        "GOOGL",
-        "反垄断",
-        "广告技术",
-        "AdX",
-        "DOJ"
-      ],
-      "translated": false,
-      "url": "https://wallstreetcn.com/articles/3729794",
-      "published_date": "2026-10-07",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "8594f677092eee49",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "A股国庆节后首日高开，央行开展1.2万亿元3月期买断式逆回购",
-      "summary": "国庆假期（10月1-7日）结束后，A股市场于10月8日（周四）节后首日开盘。多家券商研判节后市场偏结构性轮动，消费、科技板块短期承压与反弹并存。央行于节后首个工作日开展1.2万亿元3个月期买断式逆回购，净投放资金约2000亿元，维持银行体系流动性充裕。",
-      "why": "节后首日走势直接影响消费与科技仓位短期表现；央行大额流动性操作对资金面有正面支撑作用，有助于卖出认沽策略的安全边际；重点观察腾讯、美团、泡泡玛特等港A双挂牌标的跟随表现。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "国庆节后",
-        "央行",
-        "买断式逆回购",
-        "流动性",
-        "开盘"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-07/doc-iniuknsi5050380.shtml",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "bea545ca5c865201",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "02:00",
-      "group": "大盘头条",
-      "title": "美联储公布9月FOMC会议纪要：内部加息分歧扩大，年内再加息预期保留",
-      "summary": "美联储于10月7日公布9月15-16日FOMC会议纪要，显示尽管投票结果一致，但内部官员对后续加息路径分歧有所扩大。多数参与者认为通胀回落仍不充分，年内至少还需一次加息。美联储主席沃什（Kevin Warsh）维持鹰派立场。市场目前定价10月会议大概率按兵不动，12月再加息预期保留。",
-      "why": "美联储加息路径是全球利率定价的核心锚，直接影响成长股估值和港股外资流向；纪要偏鹰派可能压制NVDA、TSLA等高PE标的，对sell put策略需关注隐含波动率变化；IBKR等金融标的可能受益于高利率环境。",
-      "source": "财联社",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "FOMC",
-        "加息",
-        "会议纪要",
-        "Kevin Warsh",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/2458004",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "7fc31878b1aee50e",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "21:00",
-      "group": "大盘头条",
-      "title": "美国10年期国债收益率触5.3%，逼近2024年以来高位",
-      "summary": "受FOMC加息预期升温及美国经济韧性数据支撑，美国10年期国债收益率10月上旬攀升至5.3%附近，逼近2024年10月创下的5.36%高位。高收益率持续压制全球成长股估值，令美股与港股科技板块承压。",
-      "why": "10年期美债收益率是全球资产定价的基准锚；若突破5.36%前高，将对持有科技成长股的仓位构成明显压力，需重新评估NVDA、GOOGL等标的的sell put行权价安全边际；同时推升美元，对港股及人民币资产形成间接压制。",
-      "source": "财联社",
-      "verified": false,
-      "keywords": [
-        "美债收益率",
-        "10年期国债",
-        "5.3%",
-        "利率",
-        "美联储",
-        "成长股"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/2482972",
-      "published_date": "2026-10-06",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
     },
     {
       "id": "ae09f37470a097d8",
@@ -1398,6 +1016,39 @@
       "is_new": false
     },
     {
+      "id": "f852f415d2fed9c8",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "亚太股市全线暴跌，韩国KOSPI跌逾8%触发熔断步入熊市",
+      "summary": "受美国9月CPI超预期与中国CXMT存储竞争叙事叠加冲击，10月15日亚太股市全线重挫。韩国KOSPI单日跌近8%触发熔断并步入技术性熊市，三星和SK海力士各跌逾9%；日经225大幅下跌，亚太MSCI指数跌2.7%触及7月以来低位。恒生科技指数跌近3%，A股创业板指盘中跌超4%。",
+      "why": "亚太市场集体崩跌推升全球风险厌恶情绪，波动率进一步上行；韩国熔断直接冲击SK海力士（持仓）的流动性与账面价值；全球beta风险急升，期权卖方策略承受明显压力，需关注未来一周隐含波动率走势。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "韩国",
+        "KOSPI",
+        "熊市",
+        "亚太",
+        "全球市场",
+        "存储"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/chip-stocks-deepen-losses-as-concerns-mount-over-rates-ai-debt",
+      "published_date": "2026-10-15",
+      "still_developing": false,
+      "cross_ref": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-10-15",
+      "is_new": false
+    },
+    {
       "id": "8a58c36c79ba8608",
       "tier": 1,
       "lang": "zh",
@@ -1526,224 +1177,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-15",
-      "is_new": false
-    },
-    {
-      "id": "d670b5cc304e7582",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "野村大和CEO：AI信仰逆转是日股牛市最大风险；AI泡沫破裂论随美债高企卷土重来",
-      "summary": "野村、大和证券CEO在最新表态中指出，AI牛市可延续至2027年，但AI信仰逆转是最大尾部风险；与此同时，市场出现AI斩杀线警告——美债收益率逼近5.35%可能触发AI高估值板块的系统性卖出。",
-      "why": "腾讯、英伟达等AI概念核心持仓在高利率环境下估值脆弱，AI叙事转向风险上升；期权策略需在隐含波动率高位时更审慎选择Sell Put行权价。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "AI泡沫",
-        "美债收益率",
-        "野村",
-        "大和",
-        "AI估值",
-        "科技股风险"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-08/doc-iniupafc4433534.shtml",
-      "published_date": "2026-10-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "b4380811c05c5bd2",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "小米SU7及YU7 10月推出限时优惠，价格下调幅度达数千元",
-      "summary": "小米汽车10月8日宣布对旗舰车型SU7及YU7推出阶段性限时优惠活动，各版本价格下调幅度不一，官方将调整定性为促销而非降价，意在提振第四季度交付量。",
-      "why": "小米汽车（1810.HK）是组合重要持仓，SU7/YU7定价策略直接影响Q4交付预期与市场份额走势；在竞争对手普遍加大促销力度背景下，小米的价格策略对近期股价有短期催化作用，适合结合期权卖方策略评估时机。",
-      "source": "第一财经",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "SU7",
-        "YU7",
-        "小米汽车",
-        "1810.HK"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261008/herald/124a8e4b5b897ea08c94f92f9536c9c5.html",
-      "published_date": "2026-10-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "88847bb6b510d758",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "SK海力士三季度前瞻：韩元升值与三星HBM4份额扩张构成双重压力，HBM4量产持续放量",
-      "summary": "市场预计SK海力士2026年三季度营业利涤78.8万亿韩元，低于二季度79.3万亿（因HBM4延迟fa货小幅低于预期）。主要风险包括：三星HBM4市占率已从二季度基准5%升至35%附近，韩元升值压制出口利润，以及HBM4与HBM3e混产期间产能利用率波动。三季度HBM4出货量预计环比大幅提升，三星与SK之间的市场争夺成为AI内存赛道核心变量。",
-      "why": "SK海力士NVDA HBM主要供应商；三季度实际出货与利润能否超预期，将直接影响AI芯片供应链的市场情绪，对NVDA持仓的隐含波动率和期权定价有传导效应；三星份额快速增长构成SK中期竞争力的不确定性，需持续跟踪。",
-      "source": "华尔街见闻",
-      "verified": false,
-      "keywords": [
-        "SK海力士",
-        "HBM4",
-        "三星",
-        "半导体",
-        "AI内存",
-        "三季度"
-      ],
-      "translated": false,
-      "url": "https://wallstreetcn.com/articles/3758134",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "cd7c16b8d3469262",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "美股三大指数从历史高位小幅回落：道指跌0.66%，小盘股领跌",
-      "summary": "10月7日美股收盘，三大指数从前期历史高位小幅回调：道指跌0.66%，标普500跌0.22%，纳斯达克跌0.22%，罗素2000小盘股指数跌1.31%。市场消化FOMC会议纪要偏鹰表态，能源与材料板块抗跌，科技与消费裁量品板块领跌。",
-      "why": "美股高位回调叠加美债收益率走高，对NVDA、TSLA、GOOGL等科技仓位短期构成压力；小盘股领跌反映市场风险偏好收窄，需关注sell put策略的delta/vega敞口。",
-      "source": "华尔街见闻",
-      "verified": false,
-      "keywords": [
-        "美股",
-        "道指",
-        "标普500",
-        "纳斯达克",
-        "回调",
-        "小盘股"
-      ],
-      "translated": false,
-      "url": "https://wallstreetcn.com/livenews/3143446",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "062ef2a101827d77",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "港股国庆黄金周期间低开高走，恒生指数较节前低位显著反弹",
-      "summary": "国庆黄金周期间（10月1-7日），港股市场在全球市场情绪改善带动下低开高走。恒生指数于10月2日创近期低点约23972点，此后持续走强，10月7日（A股重开前末日）早盘涨约2.4%至24540附近，较10月2日低点反弹约2.4%。外资对港股科技板块情绪有所修复。",
-      "why": "港股节中走强为A股重开提供积极参考，尤其利好腾讯（0700.HK）、美团（3690.HK）、泡泡玛特（9992.HK）等港股标的；情绪回暖有利于组合中港股仓位短期持有信心。",
-      "source": "财联社",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "国庆",
-        "黄金周",
-        "反弹",
-        "HK"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/2422851",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "0b464fc617065d61",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "美团Keeta巴西扩张提速：覆盖城市增至32个，App下载量破千万次",
-      "summary": "美团旗下国际外卖品牌Keeta于10月6日宣布，将在巴西现有11个城市基础上新增21个城市，总覆盖城市数升至32个，覆盖巴西主要都会区及周边城市群。同期Keeta在巴西的应用下载量已突破1000万次，增长势头持续加速。",
-      "why": "美团（3690.HK）国际化是中长期估值重构的关键驱动力；Keeta在巴西的快速扩张验证了出海策略的可复制性，对股价持有信心有正面支撑；需关注巴西市场竞争（Rappi、iFood）与监管成本对利润率的影响。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "美团",
-        "Keeta",
-        "巴西",
-        "海外扩张",
-        "外卖",
-        "3690.HK"
-      ],
-      "translated": true,
-      "url": "https://news.futunn.com/en/post/1000659150/keeta-to-expand-into-21-additional-cities-in-brazil-accelerating",
-      "published_date": "2026-10-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "8f2cbb185b96e344",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "特斯拉Cybercab本周亮相巴黎车展，欧洲FSD推广进程加速",
-      "summary": "特斯拉将于10月12-18日举办的巴黎车展上正式展示Cybercab无人驾驶出租车，官方发布活动展示页面。与此同时，特斯拉FSD欧洲版本持续推进，德国监管机构初步支持FSD欧洲落地计划。官方活动页面于10月6日前后对外公布。",
-      "why": "特斯拉（TSLA）Cybercab亮相欧洲顶级车展标志着Robotaxi商业化进程向欧洲延伸；FSD欧洲获德国支持是监管层面的实质性突破，对TSLA中期估值重构有正面意义；持有TSLA仓位期间可关注sell call保护时机。",
-      "source": "Tesla官方",
-      "verified": true,
-      "keywords": [
-        "特斯拉",
-        "TSLA",
-        "Cybercab",
-        "巴黎车展",
-        "FSD",
-        "Robotaxi"
-      ],
-      "translated": true,
-      "url": "https://www.tesla.com/event/meet-cybercab-paris-fr",
-      "published_date": "2026-10-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
       "is_new": false
     },
     {
@@ -2950,6 +2383,66 @@
       "is_new": false
     },
     {
+      "id": "d2e3f52e9ce1fbbf",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:00",
+      "group": "大盘头条",
+      "title": "A股全线重挫，创业板指跌超4%刷新年内新低，沪指险守3700点",
+      "summary": "10月15日A股大幅收跌：上证指数跌1.59%，深成指跌2.43%，创业板指跌2.92%（盘中一度跌超4%，刷新年内新低），科创50跌超3%，北证50跌3.44%。全市场超5100只个股下跌，成交约1.63万亿元较前一交易日放量约2186亿元。算力硬件、半导体芯片、煤炭、油气跌幅居前；白酒和银行相对抗跌，PCB与固态电池概念局部活跃。央行当日开展450亿元7天期逆回购（利率1.40%）。",
+      "why": "外围市场剧震传导A股，消费与科技板块大幅下跌直接冲击持仓组合；放量下跌表明市场恐慌性抛售；创业板年内新低意味着A股科技仓位整体亏损压力加大，需评估是否触及止损位。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "创业板",
+        "沪指",
+        "半导体",
+        "算力"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908r4g2.html",
+      "published_date": "2026-10-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-15",
+      "is_new": false
+    },
+    {
+      "id": "3c22094158d96a76",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "大盘头条",
+      "title": "港股恒生科技指数午间跌近3%再创调整低点，百度跌约5%领跌科网板块",
+      "summary": "10月15日港股持续承压，恒生科技指数午间跌近2.94%刷新近期调整低点，恒生指数、国企指数分别下跌约1.47%及1.51%。大型科网股集体下跌，百度跌约5%为互联网板块最大跌幅；存储板块继续重挫，煤炭、石油股同步走弱。",
+      "why": "港股科技全线下跌直接压制腾讯、阿里等持仓估值；恒生科技指数持续破位令科网板块多头趋势受损；百度的大跌可能引发对整个互联网AI估值的重新审视，需警惕市场情绪进一步恶化。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "恒生科技",
+        "互联网",
+        "百度",
+        "科网"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908r3ma.html",
+      "published_date": "2026-10-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-15",
+      "is_new": false
+    },
+    {
       "id": "33462c9cbbf54203",
       "tier": 2,
       "lang": "zh",
@@ -3074,38 +2567,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-15",
-      "is_new": false
-    },
-    {
-      "id": "f62968f5abc20ae9",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "18:00",
-      "group": "个股",
-      "title": "美团国庆消费报告：长线游增25%，人均到访1.2城，AI助手搜索量增29%",
-      "summary": "美团发布国庆假期消费数据：800公里以上长线游订单同比增25%，连住酒店预订增31%，AI智能助手小团搜索量环比增29%；数据显示国庆消费复苏态势良好。",
-      "why": "国庆消费数据强劲有利于美团短期业绩预期，尤其是到店与酒旅业务；AI助手使用率提升显示其消费场景AI化布局初现成效。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "美团",
-        "国庆",
-        "旅游",
-        "消费",
-        "到店",
-        "AI助手",
-        "3690.HK"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniumcpx8092228.shtml",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-08",
       "is_new": false
     },
     {
