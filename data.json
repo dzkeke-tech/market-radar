@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-16 13:36 (北京时间)",
+  "updated_at": "2026-10-16 18:28 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,151 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-16 13:36 (北京时间)",
-    "new_count": 5,
-    "degraded": 7,
-    "input_missing": false
+    "at": "2026-10-16 18:28 (北京时间)",
+    "new_count": 0,
+    "degraded": 0,
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "1927e8a1a2a2a8aa",
-      "url": "https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets",
-      "title": "苹果库克上海证实：中国已批准通义千问接入iPhone，10月下旬测试版上线",
-      "summary": "苹果CEO蒂姆·库克2026年10月15日在上海证实，阿里巴巴通义千问(Qwen)已通过中国监管审批，将于10月下旬以Apple Intelligence测试版集成至iPhone Duo及其他支持机型；功能涵盖实时翻译、写作工具及图片清理，Siri AI暂不纳入首批上线。消息推动阿里巴巴(9988.HK)10月16日午盘涨逾3.9%。",
-      "published_date": "2026-10-15",
-      "source": "South China Morning Post",
-      "tier": 1,
-      "group": "个股",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "9988.HK",
-        "BABA",
-        "通义千问",
-        "Qwen",
-        "Apple Intelligence",
-        "iPhone"
-      ],
-      "_schema_issues": [
-        "缺少必填字段 why",
-        "缺少必填字段 markets"
-      ],
-      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
-      "markets": [],
-      "translated": false,
-      "lang": "zh",
-      "time": "13:36",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-16",
-      "is_new": true
-    },
-    {
-      "id": "d8cb131bc7eb7e5f",
-      "url": "https://finance.sina.com.cn/wm/2026-10-13/doc-inivamwf7282611.shtml",
-      "title": "香港证监会指令暂停茶百道交易，孙然集团43.79亿港元遭冻结",
-      "summary": "香港证券及期货事务监察委员会于2026年10月13日向港交所发出指令，暂停茶百道(02555.HK)股份交易，指控涉嫌与IPO认购相关的诈骗及虚假陈述；孙然集团约43.79亿港元资产被冻结。茶百道为新茶饮连锁品牌，2024年4月于港交所主板上市。",
-      "published_date": "2026-10-13",
-      "source": "新浪财经",
-      "tier": 1,
-      "group": "大盘头条",
-      "verified": true,
-      "still_developing": true,
-      "why": "香港证监会执法行动（primary_official监管机构），交易暂停令仍生效，调查尚未终结，距今3天属活跃进行中事件。",
-      "keywords": [
-        "茶百道",
-        "02555.HK",
-        "港股",
-        "证监会",
-        "SFC",
-        "IPO",
-        "交易暂停"
-      ],
-      "_schema_issues": [
-        "缺少必填字段 markets"
-      ],
-      "markets": [],
-      "translated": false,
-      "lang": "zh",
-      "time": "13:36",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-16",
-      "is_new": true
-    },
-    {
-      "id": "6caef8e3adc89260",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivkwtm7719021.shtml",
-      "title": "港股10月16日早盘：恒指涨1.21%，科技板块领涨，阿里巴巴涨逾3.9%",
-      "summary": "2026年10月16日早盘，恒生指数上涨约1.21%至24353.69点，恒生科技指数涨2.09%，科技股整体反弹。阿里巴巴(9988.HK)因苹果确认通义千问接入iPhone消息大涨逾3.9%，腾讯(0700.HK)涨约1.5%，美团(3690.HK)跟涨。",
-      "published_date": "2026-10-16",
-      "source": "新浪财经",
-      "tier": 2,
-      "group": "大盘头条",
-      "verified": true,
-      "_schema_issues": [
-        "缺少必填字段 why",
-        "缺少必填字段 markets",
-        "缺少必填字段 keywords"
-      ],
-      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
-      "markets": [],
-      "keywords": [],
-      "translated": false,
-      "lang": "zh",
-      "time": "13:36",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-16",
-      "is_new": true
-    },
-    {
-      "id": "91649b6edebfc9dc",
-      "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-      "title": "US markets Oct 15: Chip stocks drop 10%+ on AI spending doubts, Sept CPI 3.7% deepens rate fears",
-      "summary": "2026年10月15日，美股芯片板块大幅下挫：SK海力士(000660)单日跌逾10%，AI资本开支可持续性受质疑，HBM4设备延迟报道加剧不确定性。美国9月CPI同比+3.7%（MoM +0.6%），核心CPI +2.6%，强化市场对美联储降息放缓预期，美债收益率走高。",
-      "published_date": "2026-10-15",
-      "source": "CNBC",
-      "tier": 2,
-      "group": "大盘头条",
-      "verified": true,
-      "_schema_issues": [
-        "缺少必填字段 why",
-        "缺少必填字段 markets",
-        "缺少必填字段 keywords"
-      ],
-      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
-      "markets": [],
-      "keywords": [],
-      "translated": false,
-      "lang": "en",
-      "time": "13:36",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-16",
-      "is_new": true
-    },
-    {
-      "id": "1a6903eff5639fb4",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908r8b8.html",
-      "title": "A股10月16日集体走强：创业板涨1.75%，算力军工领涨，CXMT概念股活跃",
-      "summary": "2026年10月16日，A股整体反弹：创业板指涨1.75%，算力（AI基础设施/数据中心）与军工板块领涨。长鑫存储(CXMT)在上海半导体大会宣布4F²工艺突破后相关概念股持续活跃，整体市值恢复约3万亿人民币水平。",
-      "published_date": "2026-10-16",
-      "source": "新浪财经",
-      "tier": 2,
-      "group": "大盘头条",
-      "verified": true,
-      "_schema_issues": [
-        "缺少必填字段 why",
-        "缺少必填字段 markets",
-        "缺少必填字段 keywords"
-      ],
-      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
-      "markets": [],
-      "keywords": [],
-      "translated": false,
-      "lang": "zh",
-      "time": "13:36",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-16",
-      "is_new": true
-    },
     {
       "id": "ae09f37470a097d8",
       "tier": 1,
@@ -1259,6 +1120,69 @@
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-15",
       "is_new": false
+    },
+    {
+      "id": "1927e8a1a2a2a8aa",
+      "url": "https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets",
+      "title": "苹果库克上海证实：中国已批准通义千问接入iPhone，10月下旬测试版上线",
+      "summary": "苹果CEO蒂姆·库克2026年10月15日在上海证实，阿里巴巴通义千问(Qwen)已通过中国监管审批，将于10月下旬以Apple Intelligence测试版集成至iPhone Duo及其他支持机型；功能涵盖实时翻译、写作工具及图片清理，Siri AI暂不纳入首批上线。消息推动阿里巴巴(9988.HK)10月16日午盘涨逾3.9%。",
+      "published_date": "2026-10-15",
+      "source": "South China Morning Post",
+      "tier": 1,
+      "group": "个股",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "9988.HK",
+        "BABA",
+        "通义千问",
+        "Qwen",
+        "Apple Intelligence",
+        "iPhone"
+      ],
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
+      "markets": [],
+      "translated": false,
+      "lang": "zh",
+      "time": "13:36",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": false,
+      "_schema_issues": [
+        "缺少必填字段 markets"
+      ]
+    },
+    {
+      "id": "d8cb131bc7eb7e5f",
+      "url": "https://finance.sina.com.cn/wm/2026-10-13/doc-inivamwf7282611.shtml",
+      "title": "香港证监会指令暂停茶百道交易，孙然集团43.79亿港元遭冻结",
+      "summary": "香港证券及期货事务监察委员会于2026年10月13日向港交所发出指令，暂停茶百道(02555.HK)股份交易，指控涉嫌与IPO认购相关的诈骗及虚假陈述；孙然集团约43.79亿港元资产被冻结。茶百道为新茶饮连锁品牌，2024年4月于港交所主板上市。",
+      "published_date": "2026-10-13",
+      "source": "新浪财经",
+      "tier": 1,
+      "group": "大盘头条",
+      "verified": true,
+      "still_developing": true,
+      "why": "香港证监会执法行动（primary_official监管机构），交易暂停令仍生效，调查尚未终结，距今3天属活跃进行中事件。",
+      "keywords": [
+        "茶百道",
+        "02555.HK",
+        "港股",
+        "证监会",
+        "SFC",
+        "IPO",
+        "交易暂停"
+      ],
+      "markets": [],
+      "translated": false,
+      "lang": "zh",
+      "time": "13:36",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": false,
+      "_schema_issues": [
+        "缺少必填字段 markets"
+      ]
     },
     {
       "id": "88313f3ba7bc68c9",
@@ -2649,6 +2573,78 @@
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-15",
       "is_new": false
+    },
+    {
+      "id": "6caef8e3adc89260",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivkwtm7719021.shtml",
+      "title": "港股10月16日早盘：恒指涨1.21%，科技板块领涨，阿里巴巴涨逾3.9%",
+      "summary": "2026年10月16日早盘，恒生指数上涨约1.21%至24353.69点，恒生科技指数涨2.09%，科技股整体反弹。阿里巴巴(9988.HK)因苹果确认通义千问接入iPhone消息大涨逾3.9%，腾讯(0700.HK)涨约1.5%，美团(3690.HK)跟涨。",
+      "published_date": "2026-10-16",
+      "source": "新浪财经",
+      "tier": 2,
+      "group": "大盘头条",
+      "verified": true,
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
+      "markets": [],
+      "keywords": [],
+      "translated": false,
+      "lang": "zh",
+      "time": "13:36",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": false,
+      "_schema_issues": [
+        "缺少必填字段 markets",
+        "缺少必填字段 keywords"
+      ]
+    },
+    {
+      "id": "91649b6edebfc9dc",
+      "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+      "title": "US markets Oct 15: Chip stocks drop 10%+ on AI spending doubts, Sept CPI 3.7% deepens rate fears",
+      "summary": "2026年10月15日，美股芯片板块大幅下挫：SK海力士(000660)单日跌逾10%，AI资本开支可持续性受质疑，HBM4设备延迟报道加剧不确定性。美国9月CPI同比+3.7%（MoM +0.6%），核心CPI +2.6%，强化市场对美联储降息放缓预期，美债收益率走高。",
+      "published_date": "2026-10-15",
+      "source": "CNBC",
+      "tier": 2,
+      "group": "大盘头条",
+      "verified": true,
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
+      "markets": [],
+      "keywords": [],
+      "translated": false,
+      "lang": "en",
+      "time": "13:36",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": false,
+      "_schema_issues": [
+        "缺少必填字段 markets",
+        "缺少必填字段 keywords"
+      ]
+    },
+    {
+      "id": "1a6903eff5639fb4",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908r8b8.html",
+      "title": "A股10月16日集体走强：创业板涨1.75%，算力军工领涨，CXMT概念股活跃",
+      "summary": "2026年10月16日，A股整体反弹：创业板指涨1.75%，算力（AI基础设施/数据中心）与军工板块领涨。长鑫存储(CXMT)在上海半导体大会宣布4F²工艺突破后相关概念股持续活跃，整体市值恢复约3万亿人民币水平。",
+      "published_date": "2026-10-16",
+      "source": "新浪财经",
+      "tier": 2,
+      "group": "大盘头条",
+      "verified": true,
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
+      "markets": [],
+      "keywords": [],
+      "translated": false,
+      "lang": "zh",
+      "time": "13:36",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": false,
+      "_schema_issues": [
+        "缺少必填字段 markets",
+        "缺少必填字段 keywords"
+      ]
     },
     {
       "id": "53283e4f17cc8ac9",
