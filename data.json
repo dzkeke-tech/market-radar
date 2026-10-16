@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-16 18:28 (北京时间)",
+  "updated_at": "2026-10-16 18:30 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,109 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-16 18:28 (北京时间)",
-    "new_count": 0,
+    "at": "2026-10-16 18:30 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "b8d785fa3db12c4d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "美国9月CPI超预期：整体通胀升至3.7%，能源驱动；加息预期升温",
+      "summary": "美国劳工统计局数据，9月CPI同比+3.7%（前值3.4%），环比+0.6%；核心CPI同比2.6%、环比+0.3%，均超预期。汽油价格单月暴涨9.1%，是最大拉动项，占月度涨幅一半以上。",
+      "why": "通胀双超预期，令美联储10月28日FOMC会议加息预期升温，港股/A股流动性承压；卖put者需关注波动率走高的期权对冲成本。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "通胀",
+        "美联储",
+        "加息",
+        "inflation"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": true
+    },
+    {
+      "id": "059f197f93f1d8f4",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "10:30",
+      "group": "大盘头条",
+      "title": "美联储主席沃什IMF曼谷年会发言：不预判10月加息，高盛解读为按兵不动",
+      "summary": "美联储主席凯文·沃什出席IMF 2026年曼谷年会炉边谈话，拒绝就10月28日FOMC会议利率走向给出明确信号。高盛解读为10月暂停加息，12月为下一次加息时机。当前联邦基金目标区间3.75%-4.00%（9月会议一致通过上调25bp）。沃什称AI生产率提升路径将非常颠簸，全球央行同步收紧格局中没有免费搭便车。",
+      "why": "市场聚焦10月28日FOMC，沃什措辞偏鸽短期利好港股/A股；暂停表态可缓解10Y美债收益率（10月约5.2%）对估值的压制，期权卖方持仓窗口或延长。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Fed",
+        "沃什",
+        "Warsh",
+        "加息",
+        "IMF",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "published_date": "2026-10-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": true
+    },
+    {
+      "id": "a5bd4deaa6cc0a23",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "14:00",
+      "group": "个股",
+      "title": "业界传SK海力士部分HBM4后段设备订单或推迟至2027年，股价连跌5日逾23%",
+      "summary": "据韩国DealSite、财联社报道，SK海力士部分HBM4封装后段设备订单原计划H2 2026交付，现进度出现不确定性，部分可能推迟至2027年初；公司尚未置评。Q3业绩预计10月27-28日发布（季报将披露HBM业务进展）。股价自10月初高点已累计下跌约23%。",
+      "why": "若HBM4量产时间表延迟，短期利空CSOP两倍做多SK海力士ETF及相关个股；但已向主要客户供应HBM4 16层样品，长期趋势未变；隐含波动率走高对期权卖方需谨慎管理delta敞口。",
+      "source": "财联社",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM4",
+        "HBM",
+        "存储芯片",
+        "内存"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2504450",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": true
+    },
     {
       "id": "ae09f37470a097d8",
       "tier": 1,
