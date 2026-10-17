@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-17 08:41 (北京时间)",
+  "updated_at": "2026-10-17 13:12 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,69 +9,99 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-17 08:41 (北京时间)",
-    "new_count": 2,
+    "at": "2026-10-17 13:12 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "76da8342d0776497",
-      "tier": 2,
+      "id": "9e406df090e05102",
+      "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "20:00",
-      "group": "英伟达",
-      "title": "Nvidia commits $250M in compute to UK agentic AI safety research over five years",
-      "summary": "Nvidia pledged a five-year compute donation valued at $250 million to support UK agentic AI safety and security research, working out to $50M in compute access annually. Named recipients include Oxford's BOLD (British Open-Ended Learning and Discovery) lab, UCL's SOFAIR lab, and Imperial College London. The compute will be delivered through UK-based Nvidia Cloud Partners with infrastructure hosted in the UK. Provider selection, technical architecture, and commercial terms have not yet been agreed.",
-      "why": "Nvidia（NVDA）以大规模算力捐赠强化在AI安全监管领域的话语权，与英国政府保持密切关系；此前仅5天Nvidia已向美国大学承诺10亿美元，英国此笔进一步确认其全球布局策略。事件仍在发酵——具体服务商、技术架构及商业条款尚未确定，后续落地细节将影响英伟达在欧洲AI监管格局中的地位评估。对NVDA sell put策略而言，AI安全叙事维持正面情绪。",
-      "source": "investor.nvidia.com",
-      "verified": false,
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
+      "summary": "CoreWeave债券收益率盘中触及15%引发AI基础设施泡沫担忧，纳指跌2.14%收于26,140，单周累跌4.5%，为近4个月最大周跌幅；半导体股指连续第8日下跌，周跌幅创2025年4月以来最大；VIX攀至22.31，Goldman Sachs报告显示对冲基金以近14个月最快速度抛售AI股。",
+      "why": "AI基础设施融资风险暴露（CoreWeave债务超$520亿、季度利息支出超经营利润），引发对整个AI产业链估值的系统性质疑；VIX跳涨30%使sell put策略收益短期改善，但若波动率继续走高需注意深度OTM风险，持有英伟达、谷歌等仓位需重新评估短期期权保护。",
+      "source": "CNN",
+      "verified": true,
       "keywords": [
-        "NVDA",
-        "英伟达",
-        "Nvidia",
-        "AI safety",
-        "UK",
-        "算力捐赠",
-        "agentic AI"
+        "AI",
+        "Nasdaq",
+        "CoreWeave",
+        "科技股",
+        "VIX",
+        "英伟达"
       ],
       "translated": false,
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-250-Million-to-Advance-UK-Agentic-Safety-and-Security-Research-Over-the-Next-Five-Years/default.aspx",
-      "published_date": "2026-10-14",
-      "still_developing": true,
+      "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
+      "published_date": "2026-10-16",
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-17",
       "is_new": true
     },
     {
-      "id": "7b649dcf131b1f7e",
-      "tier": 3,
+      "id": "a139b18f3cff2d6b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+      "summary": "伊朗持续扩大对霍尔木兹海峡商船的袭击，该水道原油过境量降至正常水平的约70%；胡塞武装炮击利雅得国际机场；乌克兰宣布将继续打击俄炼油厂；美俄「能源停火」协议宣告破裂。布伦特原油周五收于$109.86，WTI结算于$101.41，美国均价汽油达$6.33/加仑，较去年同期高出逾70%。",
+      "why": "油价超预期飙升将加剧全球通胀压力，强化美联储维持高利率的必要性；同时直接冲击高用能制造业（小米汽车、特斯拉）成本端，航空旅游（携程）也承压；对持仓中的消费科技标的构成估值压力。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "布伦特",
+        "伊朗",
+        "霍尔木兹",
+        "乌克兰",
+        "地缘政治"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+      "published_date": "2026-10-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-17",
+      "is_new": true
+    },
+    {
+      "id": "8ce81b6d6813111b",
+      "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
       "time": "10:00",
-      "group": "小米",
-      "title": "小米YU7 GT赛道专业套装完成工信部申报：配倍耐力高性能轮胎及ENDLESS制动片",
-      "summary": "小米汽车YU7 GT赛道专业套装已完成工信部申报参数备案，配置包括高性能减振套装、ENDLESS MA45B高性能制动片、21英寸锻造轮圈、倍耐力P ZERO高性能轮胎及同规格半热熔赛道胎，同时更新更宽轮眉以适配加宽轮胎（后轮由295mm升至约325mm）。小米官方表示赛道专业套装将于2026年内开放预售，具体时间与售价尚未公布。",
-      "why": "YU7 GT赛道套装工信部备案标志着该套件正式进入商业化流程，是小米汽车（1810.HK）高端化战略的具体落地——跑道套件价格预计显著高于基础版，有望提升单车利润率。已交付车辆轮胎规格已备案，赛道套装或仅面向新购车用户，限量属性可强化品牌热度。",
-      "source": "新浪财经",
-      "verified": false,
+      "group": "大盘头条",
+      "title": "港交所官宣：T+1，2028年下半年见！",
+      "summary": "港交所10月16日发布咨询总结，正式确认目标于2028年下半年将港股现货市场从T+2过渡至T+1结算，较此前最快2027年Q4计划推迟，以给市场参与者更多准备时间；港股通将同步过渡，分四阶段实施，最终日期待监管批准后另行公布。",
+      "why": "T+1结算改变流动性和融资安排，对依赖日内资金周转的机构投资者影响较大；长期有助于吸引国际资金，提升港股与国际市场接轨程度，利好市场流动性和估值中枢；期权结算也可能相应调整，需关注后续细则。",
+      "source": "21经济网",
+      "verified": true,
       "keywords": [
-        "小米",
-        "1810.HK",
-        "Xiaomi",
-        "YU7 GT",
-        "赛道专业套装",
-        "工信部",
-        "倍耐力"
+        "港交所",
+        "T+1",
+        "结算",
+        "港股",
+        "制度改革",
+        "港股通"
       ],
       "translated": false,
-      "url": "https://finance.sina.cn/tech/2026-10-16/detail-inivmiic6992674.d.html",
+      "url": "https://www.21jingji.com/article/20261016/herald/063aa20104df48155d435d08a0516cdb.html",
       "published_date": "2026-10-16",
       "still_developing": false,
       "cross_ref": "",
@@ -2589,6 +2619,38 @@
       "is_new": false
     },
     {
+      "id": "76da8342d0776497",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "20:00",
+      "group": "英伟达",
+      "title": "Nvidia commits $250M in compute to UK agentic AI safety research over five years",
+      "summary": "Nvidia pledged a five-year compute donation valued at $250 million to support UK agentic AI safety and security research, working out to $50M in compute access annually. Named recipients include Oxford's BOLD (British Open-Ended Learning and Discovery) lab, UCL's SOFAIR lab, and Imperial College London. The compute will be delivered through UK-based Nvidia Cloud Partners with infrastructure hosted in the UK. Provider selection, technical architecture, and commercial terms have not yet been agreed.",
+      "why": "Nvidia（NVDA）以大规模算力捐赠强化在AI安全监管领域的话语权，与英国政府保持密切关系；此前仅5天Nvidia已向美国大学承诺10亿美元，英国此笔进一步确认其全球布局策略。事件仍在发酵——具体服务商、技术架构及商业条款尚未确定，后续落地细节将影响英伟达在欧洲AI监管格局中的地位评估。对NVDA sell put策略而言，AI安全叙事维持正面情绪。",
+      "source": "investor.nvidia.com",
+      "verified": false,
+      "keywords": [
+        "NVDA",
+        "英伟达",
+        "Nvidia",
+        "AI safety",
+        "UK",
+        "算力捐赠",
+        "agentic AI"
+      ],
+      "translated": false,
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-250-Million-to-Advance-UK-Agentic-Safety-and-Security-Research-Over-the-Next-Five-Years/default.aspx",
+      "published_date": "2026-10-14",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-17",
+      "is_new": false
+    },
+    {
       "id": "624d31c0caee4fdd",
       "tier": 3,
       "lang": "zh",
@@ -2709,6 +2771,38 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-14",
+      "is_new": false
+    },
+    {
+      "id": "7b649dcf131b1f7e",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "小米",
+      "title": "小米YU7 GT赛道专业套装完成工信部申报：配倍耐力高性能轮胎及ENDLESS制动片",
+      "summary": "小米汽车YU7 GT赛道专业套装已完成工信部申报参数备案，配置包括高性能减振套装、ENDLESS MA45B高性能制动片、21英寸锻造轮圈、倍耐力P ZERO高性能轮胎及同规格半热熔赛道胎，同时更新更宽轮眉以适配加宽轮胎（后轮由295mm升至约325mm）。小米官方表示赛道专业套装将于2026年内开放预售，具体时间与售价尚未公布。",
+      "why": "YU7 GT赛道套装工信部备案标志着该套件正式进入商业化流程，是小米汽车（1810.HK）高端化战略的具体落地——跑道套件价格预计显著高于基础版，有望提升单车利润率。已交付车辆轮胎规格已备案，赛道套装或仅面向新购车用户，限量属性可强化品牌热度。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "1810.HK",
+        "Xiaomi",
+        "YU7 GT",
+        "赛道专业套装",
+        "工信部",
+        "倍耐力"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.cn/tech/2026-10-16/detail-inivmiic6992674.d.html",
+      "published_date": "2026-10-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-17",
       "is_new": false
     }
   ]
