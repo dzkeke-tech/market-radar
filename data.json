@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-16 18:30 (北京时间)",
+  "updated_at": "2026-10-17 08:41 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,235 +9,75 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-16 18:30 (北京时间)",
-    "new_count": 3,
+    "at": "2026-10-17 08:41 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "b8d785fa3db12c4d",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "美国9月CPI超预期：整体通胀升至3.7%，能源驱动；加息预期升温",
-      "summary": "美国劳工统计局数据，9月CPI同比+3.7%（前值3.4%），环比+0.6%；核心CPI同比2.6%、环比+0.3%，均超预期。汽油价格单月暴涨9.1%，是最大拉动项，占月度涨幅一半以上。",
-      "why": "通胀双超预期，令美联储10月28日FOMC会议加息预期升温，港股/A股流动性承压；卖put者需关注波动率走高的期权对冲成本。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "CPI",
-        "通胀",
-        "美联储",
-        "加息",
-        "inflation"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-      "published_date": "2026-10-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-16",
-      "is_new": true
-    },
-    {
-      "id": "059f197f93f1d8f4",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "10:30",
-      "group": "大盘头条",
-      "title": "美联储主席沃什IMF曼谷年会发言：不预判10月加息，高盛解读为按兵不动",
-      "summary": "美联储主席凯文·沃什出席IMF 2026年曼谷年会炉边谈话，拒绝就10月28日FOMC会议利率走向给出明确信号。高盛解读为10月暂停加息，12月为下一次加息时机。当前联邦基金目标区间3.75%-4.00%（9月会议一致通过上调25bp）。沃什称AI生产率提升路径将非常颠簸，全球央行同步收紧格局中没有免费搭便车。",
-      "why": "市场聚焦10月28日FOMC，沃什措辞偏鸽短期利好港股/A股；暂停表态可缓解10Y美债收益率（10月约5.2%）对估值的压制，期权卖方持仓窗口或延长。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "Fed",
-        "沃什",
-        "Warsh",
-        "加息",
-        "IMF",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-      "published_date": "2026-10-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-16",
-      "is_new": true
-    },
-    {
-      "id": "a5bd4deaa6cc0a23",
+      "id": "76da8342d0776497",
       "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "20:00",
+      "group": "英伟达",
+      "title": "Nvidia commits $250M in compute to UK agentic AI safety research over five years",
+      "summary": "Nvidia pledged a five-year compute donation valued at $250 million to support UK agentic AI safety and security research, working out to $50M in compute access annually. Named recipients include Oxford's BOLD (British Open-Ended Learning and Discovery) lab, UCL's SOFAIR lab, and Imperial College London. The compute will be delivered through UK-based Nvidia Cloud Partners with infrastructure hosted in the UK. Provider selection, technical architecture, and commercial terms have not yet been agreed.",
+      "why": "Nvidia（NVDA）以大规模算力捐赠强化在AI安全监管领域的话语权，与英国政府保持密切关系；此前仅5天Nvidia已向美国大学承诺10亿美元，英国此笔进一步确认其全球布局策略。事件仍在发酵——具体服务商、技术架构及商业条款尚未确定，后续落地细节将影响英伟达在欧洲AI监管格局中的地位评估。对NVDA sell put策略而言，AI安全叙事维持正面情绪。",
+      "source": "investor.nvidia.com",
+      "verified": false,
+      "keywords": [
+        "NVDA",
+        "英伟达",
+        "Nvidia",
+        "AI safety",
+        "UK",
+        "算力捐赠",
+        "agentic AI"
+      ],
+      "translated": false,
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-250-Million-to-Advance-UK-Agentic-Safety-and-Security-Research-Over-the-Next-Five-Years/default.aspx",
+      "published_date": "2026-10-14",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-17",
+      "is_new": true
+    },
+    {
+      "id": "7b649dcf131b1f7e",
+      "tier": 3,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "14:00",
-      "group": "个股",
-      "title": "业界传SK海力士部分HBM4后段设备订单或推迟至2027年，股价连跌5日逾23%",
-      "summary": "据韩国DealSite、财联社报道，SK海力士部分HBM4封装后段设备订单原计划H2 2026交付，现进度出现不确定性，部分可能推迟至2027年初；公司尚未置评。Q3业绩预计10月27-28日发布（季报将披露HBM业务进展）。股价自10月初高点已累计下跌约23%。",
-      "why": "若HBM4量产时间表延迟，短期利空CSOP两倍做多SK海力士ETF及相关个股；但已向主要客户供应HBM4 16层样品，长期趋势未变；隐含波动率走高对期权卖方需谨慎管理delta敞口。",
-      "source": "财联社",
-      "verified": false,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "HBM4",
-        "HBM",
-        "存储芯片",
-        "内存"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/2504450",
-      "published_date": "2026-10-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-16",
-      "is_new": true
-    },
-    {
-      "id": "ae09f37470a097d8",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "05:30",
-      "group": "大盘头条",
-      "title": "美债10年期升至5.365%创2002年4月来新高；美股10月7日三大指数全线收跌",
-      "summary": "美联储9月FOMC纪要发布后美债收益率继续走高：10年期升至5.365%（2002年4月以来最高），30年期升至5.732%（2002年5月以来最高）。美股10月7日全线收跌：道指跌341.41点（-0.66%）至51179.87点，标普500跌17.16点（-0.22%）至7801.77点，纳指跌61.19点（-0.22%）至27538.69点，银行股因高利率担忧明显承压。",
-      "why": "10年期美债破5.36%为24年来最高，贴现率上升直接压制成长股估值；港股美股核心持仓（科技/消费）sell put组合面临更高名义利率环境；关注高利率与企业盈利的平衡点何时打破",
+      "time": "10:00",
+      "group": "小米",
+      "title": "小米YU7 GT赛道专业套装完成工信部申报：配倍耐力高性能轮胎及ENDLESS制动片",
+      "summary": "小米汽车YU7 GT赛道专业套装已完成工信部申报参数备案，配置包括高性能减振套装、ENDLESS MA45B高性能制动片、21英寸锻造轮圈、倍耐力P ZERO高性能轮胎及同规格半热熔赛道胎，同时更新更宽轮眉以适配加宽轮胎（后轮由295mm升至约325mm）。小米官方表示赛道专业套装将于2026年内开放预售，具体时间与售价尚未公布。",
+      "why": "YU7 GT赛道套装工信部备案标志着该套件正式进入商业化流程，是小米汽车（1810.HK）高端化战略的具体落地——跑道套件价格预计显著高于基础版，有望提升单车利润率。已交付车辆轮胎规格已备案，赛道套装或仅面向新购车用户，限量属性可强化品牌热度。",
       "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "美债收益率",
-        "美股",
-        "道指",
-        "标普500",
-        "纳指",
-        "利率",
-        "美联储"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-08/detail-iniumytv4173772.d.html",
-      "published_date": "2026-10-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": false
-    },
-    {
-      "id": "f33e327d2531d4f3",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "05:00",
-      "group": "大盘头条",
-      "title": "标普500指数10月6日刷新年内第28次历史收盘高位（7818.93点）；Constellation Energy因Google 20年核电协议大涨逾12%",
-      "summary": "美股10月6日延续牛势：标普500收涨0.58%至7818.93点（年内第28次历史收盘新高），纳指同创历史新高，道指涨0.5%至51521.28点。Constellation Energy（CEG）因与谷歌签署20年890兆瓦核电供电协议涨逾12%，为当日最大拉涨力——AI数据中心对清洁电力需求持续旺盛；当日Brent原油报101.18美元，10年期美债收益率5.28%。",
-      "why": "AI算力与清洁能源需求催生谷歌+核电大单，能源基础设施叙事延续；标普年内第28次历史新高与次日FOMC纪要引发的回调形成对比，显示高利率（10年期5.28%→5.365%）叠加高估值的压缩风险在10月28日FOMC前持续发酵",
-      "source": "华尔街见闻",
       "verified": false,
       "keywords": [
-        "标普500",
-        "历史新高",
-        "谷歌",
-        "Alphabet",
-        "核能",
-        "Constellation Energy",
-        "美股"
+        "小米",
+        "1810.HK",
+        "Xiaomi",
+        "YU7 GT",
+        "赛道专业套装",
+        "工信部",
+        "倍耐力"
       ],
       "translated": false,
-      "url": "https://wallstreetcn.com/articles/3750171",
-      "published_date": "2026-10-06",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": false
-    },
-    {
-      "id": "7bdbb68374d51e4c",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "04:30",
-      "group": "大盘头条",
-      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-      "summary": "OpenAI clarified its annualized revenue run rate is about $50 billion net—not the $70 billion gross figure widely cited—marking a significant downward revision to AI infrastructure demand expectations. Nvidia fell roughly 3%, Oracle dropped about 6%, Intel fell around 5%, and CoreWeave also declined as markets reassessed AI capex justification.",
-      "why": "OpenAI是AI芯片/云算力需求的核心锚点，收入口径从$70B调至$50B净值令市场重新评估AI资本开支的合理性。组合中英伟达(NVDA)受直接冲击，covered call溢价可能上升值得关注；同时为持有的科技类sell put头寸的delta风险敲警钟。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "OpenAI",
-        "Nvidia",
-        "NVDA",
-        "AI",
-        "Oracle",
-        "英伟达",
-        "CoreWeave"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "published_date": "2026-10-08",
+      "url": "https://finance.sina.cn/tech/2026-10-16/detail-inivmiic6992674.d.html",
+      "published_date": "2026-10-16",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": false
-    },
-    {
-      "id": "73814c3bde2893cc",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "05:00",
-      "group": "大盘头条",
-      "title": "Stock market today: S&P 500, Nasdaq fall for second day in a row as AI trade takes a hit",
-      "summary": "The Nasdaq fell 1.25% to 27,193, the S&P 500 dropped 0.47% to 7,765, while the Dow Jones edged up 0.10% to 51,231 on October 8. AI and semiconductor stocks led losses following the OpenAI revenue revision; oil briefly spiked above $102 on tanker attacks in the Strait of Hormuz; the 10-year Treasury yield hovered near 5.35%.",
-      "why": "美股二连跌，科技/AI板块受OpenAI收入下修+油价冲击+高债息三重压制，是对组合中英伟达、谷歌、英特尔等仓位影响最直接的日线数据。相较OpenAI专项条目，本条补充道指正收益、S&P收盘点位及油价冲击因子，信息增量明确。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "S&P 500",
-        "Nasdaq",
-        "美股",
-        "AI",
-        "Nvidia",
-        "semiconductor"
-      ],
-      "translated": false,
-      "url": "https://cnbc.com/2026/10/08/stock-market-today-live-updates.html",
-      "published_date": "2026-10-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": false
+      "first_seen": "2026-10-17",
+      "is_new": true
     },
     {
       "id": "99160e58346c175d",
@@ -1219,6 +1059,72 @@
       "is_new": false
     },
     {
+      "id": "b8d785fa3db12c4d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "美国9月CPI超预期：整体通胀升至3.7%，能源驱动；加息预期升温",
+      "summary": "美国劳工统计局数据，9月CPI同比+3.7%（前值3.4%），环比+0.6%；核心CPI同比2.6%、环比+0.3%，均超预期。汽油价格单月暴涨9.1%，是最大拉动项，占月度涨幅一半以上。",
+      "why": "通胀双超预期，令美联储10月28日FOMC会议加息预期升温，港股/A股流动性承压；卖put者需关注波动率走高的期权对冲成本。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "通胀",
+        "美联储",
+        "加息",
+        "inflation"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": false
+    },
+    {
+      "id": "059f197f93f1d8f4",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "10:30",
+      "group": "大盘头条",
+      "title": "美联储主席沃什IMF曼谷年会发言：不预判10月加息，高盛解读为按兵不动",
+      "summary": "美联储主席凯文·沃什出席IMF 2026年曼谷年会炉边谈话，拒绝就10月28日FOMC会议利率走向给出明确信号。高盛解读为10月暂停加息，12月为下一次加息时机。当前联邦基金目标区间3.75%-4.00%（9月会议一致通过上调25bp）。沃什称AI生产率提升路径将非常颠簸，全球央行同步收紧格局中没有免费搭便车。",
+      "why": "市场聚焦10月28日FOMC，沃什措辞偏鸽短期利好港股/A股；暂停表态可缓解10Y美债收益率（10月约5.2%）对估值的压制，期权卖方持仓窗口或延长。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Fed",
+        "沃什",
+        "Warsh",
+        "加息",
+        "IMF",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "published_date": "2026-10-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": false
+    },
+    {
       "id": "1927e8a1a2a2a8aa",
       "url": "https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets",
       "title": "苹果库克上海证实：中国已批准通义千问接入iPhone，10月下旬测试版上线",
@@ -1280,156 +1186,6 @@
       "_schema_issues": [
         "缺少必填字段 markets"
       ]
-    },
-    {
-      "id": "88313f3ba7bc68c9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "10月7日港股收盘：恒生指数跌0.62%至24130.5点，恒生科技跌0.68%；国庆后首周延续弱势",
-      "summary": "港股10月7日：恒生指数收报24130.5点（-150.06点，-0.62%），恒生科技指数收报4194.49点（-28.59点，-0.68%）。国庆节后首周港股整体震荡偏弱，10月6日曾反弹1.0%至24280.56点但次日涨幅全数回吐；市场等待内地十一消费数据及FOMC进一步指引。",
-      "why": "恒生科技持仓在美债利率高企、FOMC信号偏鹰背景下延续横盘，节后首周走势若持续偏弱需关注是否有系统性卖压；关注即将公布的国庆消费数据能否提振信心",
-      "source": "东方财富",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技指数"
-      ],
-      "translated": false,
-      "url": "https://finance.eastmoney.com/a/202610073888883531.html",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": false
-    },
-    {
-      "id": "ea332af96ac674a9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "华尔街见闻：FOMC纪要发布后CME定价10月28日按兵不动概率约八成，年末再加息预期升温",
-      "summary": "9月FOMC纪要公布后，华尔街见闻报道显示：市场目前CME FedWatch定价10月28日会议不加息概率约80%，年底前12月加息可能性更高。纪要公布前，美联储副主席杰斐逊与纽约联储主席威廉姆斯的偏鸽表态已令10月加息定价跌至不足20%；但纪要本身显示「多数官员支持年底前再加息一次」，预示12月FOMC将成关键博弈节点。",
-      "why": "10月28日FOMC短期不加息预期降低隐波，但多数官员年内再加一次的信号使12月FOMC前市场不确定性上升；sell put策略建议关注12月到期合约的定价变化，评估是否需要提前收窄",
-      "source": "华尔街见闻",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "FOMC",
-        "CME FedWatch",
-        "利率",
-        "10月28日",
-        "货币政策"
-      ],
-      "translated": false,
-      "url": "https://wallstreetcn.com/articles/3783127",
-      "published_date": "2026-10-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": false
-    },
-    {
-      "id": "36b50aa86e9beed9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "A股节后二日延续回调，科技板块领跌，创业板指逼近3000点整数关口",
-      "summary": "2026年10月9日，A股节后第二个交易日，三大指数继续走弱，创业板指盘中跌至近10个月新低，接近3000点整数关口。AI算力、光模块、存储等国庆前强势科技赛道领跌，银行板块凭借高股息属性相对抗跌。",
-      "why": "A股节后科技板块承压，与美股AI题材（OpenAI营收低于预期）同向调整；关注持仓组合中A股相关标的的联动风险，短期波动率或上升。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "创业板",
-        "AI算力",
-        "科技板块",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qcnq.html",
-      "published_date": "2026-10-09",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": false
-    },
-    {
-      "id": "198761897fb5840f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "港股节后科技板块逆美股颓势，恒生科技指数涨幅一度扩至约2%",
-      "summary": "2026年10月9日，港股科技板块整体呈抗跌态势，与美股AI题材同日走势出现阶段性背离；恒生科技指数盘中涨幅一度扩至约2%，小米、网易等龙头领涨。同期，江波龙H股已于10月8日起正式纳入沪港通及深港通标的证券名单。",
-      "why": "港股科技与美股AI板块短期背离，可能与内地资金节后重新配置有关；关注沪深港通资金流向变化，以及恒生科技持仓的波动率区间。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "恒生科技",
-        "HK",
-        "沪港通",
-        "科技板块"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qbm6.html",
-      "published_date": "2026-10-09",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": false
-    },
-    {
-      "id": "c1e6781b84db91e4",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "03:30",
-      "group": "大盘头条",
-      "title": "Treasury yields: U.S. 10-year hits 5.35% intraday ahead of 30-year bond auction",
-      "summary": "The 10-year Treasury yield reached an intraday high of 5.35%—the highest level since approximately 2002—before pulling back to around 5.24% after a 30-year bond auction. The 30-year yield also approached near-24-year highs around 5.60%. Fed officials' remarks during the session helped temper the rise.",
-      "why": "10年期利率5.35%超越已收录2026-10-07条目的5.27%，本条补充盘中新高及30年期拍卖这一增量信息；高利率持续压制成长股估值倍数，对sell put策略安全垫（远离行权价空间）与期权隐含波动率均有影响。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美债",
-        "利率",
-        "Treasury",
-        "Federal Reserve",
-        "债券"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-      "published_date": "2026-10-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-09",
-      "is_new": false
     },
     {
       "id": "bcf04747ad154dfe",
@@ -2672,6 +2428,37 @@
       "is_new": false
     },
     {
+      "id": "a5bd4deaa6cc0a23",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "14:00",
+      "group": "个股",
+      "title": "业界传SK海力士部分HBM4后段设备订单或推迟至2027年，股价连跌5日逾23%",
+      "summary": "据韩国DealSite、财联社报道，SK海力士部分HBM4封装后段设备订单原计划H2 2026交付，现进度出现不确定性，部分可能推迟至2027年初；公司尚未置评。Q3业绩预计10月27-28日发布（季报将披露HBM业务进展）。股价自10月初高点已累计下跌约23%。",
+      "why": "若HBM4量产时间表延迟，短期利空CSOP两倍做多SK海力士ETF及相关个股；但已向主要客户供应HBM4 16层样品，长期趋势未变；隐含波动率走高对期权卖方需谨慎管理delta敞口。",
+      "source": "财联社",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM4",
+        "HBM",
+        "存储芯片",
+        "内存"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2504450",
+      "published_date": "2026-10-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-16",
+      "is_new": false
+    },
+    {
       "id": "6caef8e3adc89260",
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivkwtm7719021.shtml",
       "title": "港股10月16日早盘：恒指涨1.21%，科技板块领涨，阿里巴巴涨逾3.9%",
@@ -2799,38 +2586,6 @@
       "cross_ref": "",
       "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
       "first_seen": "2026-10-16",
-      "is_new": false
-    },
-    {
-      "id": "b63e4205774f5c8a",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "06:00",
-      "group": "个股",
-      "title": "Tesla to Showcase Its Cybercab Robotaxi at Paris Motor Show Starting Oct. 12",
-      "summary": "Tesla will debut its Cybercab robotaxi in Europe for the first time at the Paris Motor Show (Oct. 12–18), exhibiting in Hall 7.1 alongside other FSD-equipped models available for test drives. Visitors will be able to interact with the Cybercab but not ride in it; European commercial availability is targeted for 2027. Tesla's FSD has also been renamed 'Tesla Assisted Driving' in Europe as part of EU regulatory efforts.",
-      "why": "延续报道：巴黎车展10月12日开幕，Cybercab首度亮相欧洲是品牌出海里程碑，FSD欧盟监管进展是TSLA中期欧洲收入逻辑的重要催化剂；可观察车展前后TSLA隐含波动率变化。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "Cybercab",
-        "Robotaxi",
-        "FSD",
-        "自动驾驶"
-      ],
-      "translated": false,
-      "url": "https://bloomberg.com/news/articles/2026-10-06/tesla-to-showcase-its-cybercab-robotaxi-at-paris-auto-show",
-      "published_date": "2026-10-06",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-10-09",
       "is_new": false
     },
     {
