@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-17 13:12 (北京时间)",
+  "updated_at": "2026-10-17 18:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,102 +9,46 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-17 13:12 (北京时间)",
-    "new_count": 3,
-    "degraded": 0,
+    "at": "2026-10-17 18:20 (北京时间)",
+    "new_count": 1,
+    "degraded": 6,
     "input_missing": false
   },
   "items": [
     {
-      "id": "9e406df090e05102",
-      "tier": 1,
-      "lang": "en",
+      "id": "573b6037f9d4eeb2",
+      "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "16:30",
+      "time": "2026-10-15T06:00:00+08:00",
       "group": "大盘头条",
-      "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
-      "summary": "CoreWeave债券收益率盘中触及15%引发AI基础设施泡沫担忧，纳指跌2.14%收于26,140，单周累跌4.5%，为近4个月最大周跌幅；半导体股指连续第8日下跌，周跌幅创2025年4月以来最大；VIX攀至22.31，Goldman Sachs报告显示对冲基金以近14个月最快速度抛售AI股。",
-      "why": "AI基础设施融资风险暴露（CoreWeave债务超$520亿、季度利息支出超经营利润），引发对整个AI产业链估值的系统性质疑；VIX跳涨30%使sell put策略收益短期改善，但若波动率继续走高需注意深度OTM风险，持有英伟达、谷歌等仓位需重新评估短期期权保护。",
-      "source": "CNN",
-      "verified": true,
+      "title": "纳斯达克跌至近一个月低点，费城半导体指数连续7日累跌超14%",
+      "summary": "受美国9月CPI超预期推升加息预期、叠加市场对AI资本支出回报滞后担忧升温，10月15日纳斯达克指数跌至近一个月低点。费城半导体指数（SOX）连续七个交易日累计跌幅超过14%，英伟达、AMD等AI相关个股大幅下挫，市场情绪显著转向谨慎。",
+      "why": "组合内英伟达、SK海力士、美光、谷歌等AI相关持仓本周受到显著冲击，费城半导体指数持续下行影响相关期权隐含波动率和行权价设置。澎湃新闻白名单来源，published_date 2026-10-15距今2天；市场情绪及利率预期仍在演变，标记still_developing。",
+      "source": "澎湃新闻",
+      "verified": false,
       "keywords": [
-        "AI",
-        "Nasdaq",
-        "CoreWeave",
+        "纳斯达克",
+        "半导体",
+        "AI股",
+        "费城半导体",
         "科技股",
-        "VIX",
-        "英伟达"
+        "抛售",
+        "英伟达",
+        "NVDA",
+        "SOX"
       ],
       "translated": false,
-      "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
-      "published_date": "2026-10-16",
-      "still_developing": false,
+      "url": "https://m.thepaper.cn/newsDetail_forward_34247141",
+      "published_date": "2026-10-15",
+      "still_developing": true,
       "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-17",
-      "is_new": true
-    },
-    {
-      "id": "a139b18f3cff2d6b",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
+      "_schema_issues": [
+        "缺少必填字段 tier",
+        "tier 非法: None（应为 1/2/3）"
       ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-      "summary": "伊朗持续扩大对霍尔木兹海峡商船的袭击，该水道原油过境量降至正常水平的约70%；胡塞武装炮击利雅得国际机场；乌克兰宣布将继续打击俄炼油厂；美俄「能源停火」协议宣告破裂。布伦特原油周五收于$109.86，WTI结算于$101.41，美国均价汽油达$6.33/加仑，较去年同期高出逾70%。",
-      "why": "油价超预期飙升将加剧全球通胀压力，强化美联储维持高利率的必要性；同时直接冲击高用能制造业（小米汽车、特斯拉）成本端，航空旅游（携程）也承压；对持仓中的消费科技标的构成估值压力。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "油价",
-        "布伦特",
-        "伊朗",
-        "霍尔木兹",
-        "乌克兰",
-        "地缘政治"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-      "published_date": "2026-10-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-17",
-      "is_new": true
-    },
-    {
-      "id": "8ce81b6d6813111b",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "港交所官宣：T+1，2028年下半年见！",
-      "summary": "港交所10月16日发布咨询总结，正式确认目标于2028年下半年将港股现货市场从T+2过渡至T+1结算，较此前最快2027年Q4计划推迟，以给市场参与者更多准备时间；港股通将同步过渡，分四阶段实施，最终日期待监管批准后另行公布。",
-      "why": "T+1结算改变流动性和融资安排，对依赖日内资金周转的机构投资者影响较大；长期有助于吸引国际资金，提升港股与国际市场接轨程度，利好市场流动性和估值中枢；期权结算也可能相应调整，需关注后续细则。",
-      "source": "21经济网",
-      "verified": true,
-      "keywords": [
-        "港交所",
-        "T+1",
-        "结算",
-        "港股",
-        "制度改革",
-        "港股通"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261016/herald/063aa20104df48155d435d08a0516cdb.html",
-      "published_date": "2026-10-16",
-      "still_developing": false,
-      "cross_ref": "",
+      "tier": 3,
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-17",
       "is_new": true
@@ -1216,6 +1160,69 @@
       "_schema_issues": [
         "缺少必填字段 markets"
       ]
+    },
+    {
+      "id": "9e406df090e05102",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
+      "summary": "CoreWeave债券收益率盘中触及15%引发AI基础设施泡沫担忧，纳指跌2.14%收于26,140，单周累跌4.5%，为近4个月最大周跌幅；半导体股指连续第8日下跌，周跌幅创2025年4月以来最大；VIX攀至22.31，Goldman Sachs报告显示对冲基金以近14个月最快速度抛售AI股。",
+      "why": "AI基础设施融资风险暴露（CoreWeave债务超$520亿、季度利息支出超经营利润），引发对整个AI产业链估值的系统性质疑；VIX跳涨30%使sell put策略收益短期改善，但若波动率继续走高需注意深度OTM风险，持有英伟达、谷歌等仓位需重新评估短期期权保护。",
+      "source": "CNN",
+      "verified": true,
+      "keywords": [
+        "AI",
+        "Nasdaq",
+        "CoreWeave",
+        "科技股",
+        "VIX",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
+      "published_date": "2026-10-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-17",
+      "is_new": false
+    },
+    {
+      "id": "a139b18f3cff2d6b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+      "summary": "伊朗持续扩大对霍尔木兹海峡商船的袭击，该水道原油过境量降至正常水平的约70%；胡塞武装炮击利雅得国际机场；乌克兰宣布将继续打击俄炼油厂；美俄「能源停火」协议宣告破裂。布伦特原油周五收于$109.86，WTI结算于$101.41，美国均价汽油达$6.33/加仑，较去年同期高出逾70%。",
+      "why": "油价超预期飙升将加剧全球通胀压力，强化美联储维持高利率的必要性；同时直接冲击高用能制造业（小米汽车、特斯拉）成本端，航空旅游（携程）也承压；对持仓中的消费科技标的构成估值压力。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "布伦特",
+        "伊朗",
+        "霍尔木兹",
+        "乌克兰",
+        "地缘政治"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+      "published_date": "2026-10-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-17",
+      "is_new": false
     },
     {
       "id": "bcf04747ad154dfe",
@@ -2616,6 +2623,37 @@
       "cross_ref": "",
       "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
       "first_seen": "2026-10-16",
+      "is_new": false
+    },
+    {
+      "id": "8ce81b6d6813111b",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "港交所官宣：T+1，2028年下半年见！",
+      "summary": "港交所10月16日发布咨询总结，正式确认目标于2028年下半年将港股现货市场从T+2过渡至T+1结算，较此前最快2027年Q4计划推迟，以给市场参与者更多准备时间；港股通将同步过渡，分四阶段实施，最终日期待监管批准后另行公布。",
+      "why": "T+1结算改变流动性和融资安排，对依赖日内资金周转的机构投资者影响较大；长期有助于吸引国际资金，提升港股与国际市场接轨程度，利好市场流动性和估值中枢；期权结算也可能相应调整，需关注后续细则。",
+      "source": "21经济网",
+      "verified": true,
+      "keywords": [
+        "港交所",
+        "T+1",
+        "结算",
+        "港股",
+        "制度改革",
+        "港股通"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261016/herald/063aa20104df48155d435d08a0516cdb.html",
+      "published_date": "2026-10-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-17",
       "is_new": false
     },
     {
