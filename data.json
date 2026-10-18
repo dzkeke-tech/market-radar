@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-18 13:20 (北京时间)",
+  "updated_at": "2026-10-18 18:40 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,142 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-18 13:20 (北京时间)",
-    "new_count": 4,
+    "at": "2026-10-18 18:40 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "6c31b331e6789494",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股收评：恒生指数涨0.52%，恒生科技指数涨1.16%",
-      "summary": "10月16日港股收高，内房股领涨（龙湖集团涨逾6%，华润置地涨逾3%），黄金股大幅回升（灵宝黄金涨逾8%），光通信、商业航天、家电、芯片、AI板块走强；内银、煤炭、新消费、锂电池、光通信等板块走低。",
-      "why": "港股本周末收涨，为周一开盘情绪提供正面参考；科技指数跑赢大盘（+1.16%），对腾讯、美团等核心持仓构成支撑；黄金股强势或与金价及老铺黄金持仓相关。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "恒生科技指数",
-        "内房股",
-        "黄金股",
-        "龙湖集团"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261016/herald/af34237845526ab8429697aa3777f13d.html",
-      "published_date": "2026-10-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-18",
-      "is_new": true
-    },
-    {
-      "id": "e390ea9a5c3ce4cb",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "重磅数据来袭：统计局明日（10月19日）发布三季度GDP及9月经济数据",
-      "summary": "国家统计局将于10月19日（周一）发布中国2026年三季度GDP及9月工业产出、社会消费品零售总额、固定资产投资数据。第一财经首席调研均值预测三季度GDP同比增长4.4%（高于二季度4.3%），9月制造业PMI已回升至50.1%（时隔两月重返扩张区间）。预计投资增速仍偏弱（-7.3%）。",
-      "why": "中国宏观数据明日公布，A股港股将直接反应；若GDP超预期，有望提振消费、互联网板块（腾讯、阿里、美团、泡泡玛特）；数据不及预期可能令持仓的卖出期权承压；PMI已回升是先行正面信号。注：4.4%为经济学家调研预测均值，正式数据以统计局公告为准。",
-      "source": "第一财经",
-      "verified": false,
-      "keywords": [
-        "GDP",
-        "国家统计局",
-        "三季度",
-        "中国经济",
-        "宏观数据",
-        "PMI"
-      ],
-      "translated": false,
-      "url": "https://www.yicai.com/news/103395230.html",
-      "published_date": "2026-10-15",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-18",
-      "is_new": true
-    },
-    {
-      "id": "85abdc3665736f9d",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "06:00",
-      "group": "大盘头条",
-      "title": "5 things to know before the stock market opens Friday",
-      "summary": "CNBC's weekly pre-market rundown covers: continued AI chip sector weakness (Nvidia, AMD, semiconductors broadly under pressure); Tesla Q3 earnings due Oct. 21 after market close; Fed meeting Oct. 27-28 with Chair Warsh's decision in focus following hot September CPI; wave of Big Tech earnings (Alphabet Oct. 28, others); and China's Q3 GDP release on Oct. 19.",
-      "why": "本周最重要两个催化剂：特斯拉10月21日财报（持仓TSLA，需监测利润率和自由现金流指引，影响covered call策略）；美联储10月28日会议（影响整体隐含波动率和卖出期权定价）。CNBC原文内容系根据搜索结果推断，标verified:false。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "美联储",
-        "AI芯片",
-        "Nvidia",
-        "财报季",
-        "Google",
-        "Alphabet"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/16/5-things-to-know-before-the-stock-market-opens.html",
-      "published_date": "2026-10-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-18",
-      "is_new": true
-    },
-    {
-      "id": "c290b0a13b67825f",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
-      "summary": "Circle disclosed its H1 2026 USDC economics: approximately $1.4 billion in total revenue, with $819 million (roughly 59 cents per dollar) distributed to USDC distribution partners and transaction costs, ~$473 million reinvested in infrastructure and compliance, leaving Circle with about 7 cents in net profit per revenue dollar. CRCL stock traded near $82–$87.",
-      "why": "Circle（CRCL）盈利结构首次公开披露：59%的营收流向合作伙伴显示竞争护城河脆弱，利润率仅7%偏薄；但绝对营收规模（上半年14亿美元）远超预期，若下半年USDC流通量随全球扩张继续提升，全年营收有望超预期。注：具体财务数字待Circle IR或SEC文件核实，已标verified:false。",
-      "source": "The Block",
-      "verified": false,
-      "keywords": [
-        "Circle",
-        "USDC",
-        "CRCL",
-        "稳定币",
-        "营收",
-        "盈利模式",
-        "分润"
-      ],
-      "translated": false,
-      "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
-      "published_date": "2026-10-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-18",
-      "is_new": true
-    },
     {
       "id": "6bfffdb5d97a4c85",
       "tier": 1,
@@ -2373,6 +2243,136 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-17",
+      "is_new": false
+    },
+    {
+      "id": "6c31b331e6789494",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股收评：恒生指数涨0.52%，恒生科技指数涨1.16%",
+      "summary": "10月16日港股收高，内房股领涨（龙湖集团涨逾6%，华润置地涨逾3%），黄金股大幅回升（灵宝黄金涨逾8%），光通信、商业航天、家电、芯片、AI板块走强；内银、煤炭、新消费、锂电池、光通信等板块走低。",
+      "why": "港股本周末收涨，为周一开盘情绪提供正面参考；科技指数跑赢大盘（+1.16%），对腾讯、美团等核心持仓构成支撑；黄金股强势或与金价及老铺黄金持仓相关。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "恒生科技指数",
+        "内房股",
+        "黄金股",
+        "龙湖集团"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261016/herald/af34237845526ab8429697aa3777f13d.html",
+      "published_date": "2026-10-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-18",
+      "is_new": false
+    },
+    {
+      "id": "e390ea9a5c3ce4cb",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "重磅数据来袭：统计局明日（10月19日）发布三季度GDP及9月经济数据",
+      "summary": "国家统计局将于10月19日（周一）发布中国2026年三季度GDP及9月工业产出、社会消费品零售总额、固定资产投资数据。第一财经首席调研均值预测三季度GDP同比增长4.4%（高于二季度4.3%），9月制造业PMI已回升至50.1%（时隔两月重返扩张区间）。预计投资增速仍偏弱（-7.3%）。",
+      "why": "中国宏观数据明日公布，A股港股将直接反应；若GDP超预期，有望提振消费、互联网板块（腾讯、阿里、美团、泡泡玛特）；数据不及预期可能令持仓的卖出期权承压；PMI已回升是先行正面信号。注：4.4%为经济学家调研预测均值，正式数据以统计局公告为准。",
+      "source": "第一财经",
+      "verified": false,
+      "keywords": [
+        "GDP",
+        "国家统计局",
+        "三季度",
+        "中国经济",
+        "宏观数据",
+        "PMI"
+      ],
+      "translated": false,
+      "url": "https://www.yicai.com/news/103395230.html",
+      "published_date": "2026-10-15",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-18",
+      "is_new": false
+    },
+    {
+      "id": "85abdc3665736f9d",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "5 things to know before the stock market opens Friday",
+      "summary": "CNBC's weekly pre-market rundown covers: continued AI chip sector weakness (Nvidia, AMD, semiconductors broadly under pressure); Tesla Q3 earnings due Oct. 21 after market close; Fed meeting Oct. 27-28 with Chair Warsh's decision in focus following hot September CPI; wave of Big Tech earnings (Alphabet Oct. 28, others); and China's Q3 GDP release on Oct. 19.",
+      "why": "本周最重要两个催化剂：特斯拉10月21日财报（持仓TSLA，需监测利润率和自由现金流指引，影响covered call策略）；美联储10月28日会议（影响整体隐含波动率和卖出期权定价）。CNBC原文内容系根据搜索结果推断，标verified:false。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "美联储",
+        "AI芯片",
+        "Nvidia",
+        "财报季",
+        "Google",
+        "Alphabet"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/16/5-things-to-know-before-the-stock-market-opens.html",
+      "published_date": "2026-10-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-18",
+      "is_new": false
+    },
+    {
+      "id": "c290b0a13b67825f",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
+      "summary": "Circle disclosed its H1 2026 USDC economics: approximately $1.4 billion in total revenue, with $819 million (roughly 59 cents per dollar) distributed to USDC distribution partners and transaction costs, ~$473 million reinvested in infrastructure and compliance, leaving Circle with about 7 cents in net profit per revenue dollar. CRCL stock traded near $82–$87.",
+      "why": "Circle（CRCL）盈利结构首次公开披露：59%的营收流向合作伙伴显示竞争护城河脆弱，利润率仅7%偏薄；但绝对营收规模（上半年14亿美元）远超预期，若下半年USDC流通量随全球扩张继续提升，全年营收有望超预期。注：具体财务数字待Circle IR或SEC文件核实，已标verified:false。",
+      "source": "The Block",
+      "verified": false,
+      "keywords": [
+        "Circle",
+        "USDC",
+        "CRCL",
+        "稳定币",
+        "营收",
+        "盈利模式",
+        "分润"
+      ],
+      "translated": false,
+      "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
+      "published_date": "2026-10-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-18",
       "is_new": false
     },
     {
