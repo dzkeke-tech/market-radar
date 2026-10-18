@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-18 18:40 (北京时间)",
+  "updated_at": "2026-10-18 18:41 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,153 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-18 18:40 (北京时间)",
-    "new_count": 0,
+    "at": "2026-10-18 18:41 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "7d27325406023010",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "group": "大盘头条",
+      "title": "台积电三季报营收新台币14,942.4亿元同比增50.9% 净利润同比增68.7% 全年美元增速指引上调至约44%",
+      "summary": "台积电2026年10月15日公布三季度财报：合并营收新台币14,942.4亿元（约460亿美元），同比增长约50.9%，超出公司此前指引区间上沿（446–458亿美元）；净利润同比增长68.7%，高于市场一致预期；稀释后每股收益新台币29.43元（每单位ADS约4.60美元）。毛利率66.4%，环比收窄（上季度67.7%），主要受2nm制程爬坡费用拖累。高性能计算（HPC）业务贡献季度营收68%，环比增长22%；2nm制程营收占晶圆总收入8%。第四季度营收指引523–543亿美元，全年美元营收增速预期上调至约44%。台积电台北上市股份当日收跌2.0%。",
+      "why": "台积电为AI算力供应链核心代工商，三季报营收与净利润双双超预期、全年指引上调，是半导体与AI相关板块的重要估值锚；毛利率收窄与2nm爬坡成本的讨论仍在发酵，机构评级及目标价调整将持续影响英伟达等AI产业链标的（距今3天，仍在发酵期）",
+      "source": "新浪财经 / 中新经纬",
+      "verified": true,
+      "keywords": [
+        "台积电",
+        "TSMC",
+        "AI芯片",
+        "半导体",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://cj.sina.com.cn/articles/view/5993531560/1653e08a802001ppbo",
+      "published_date": "2026-10-15",
+      "still_developing": true,
+      "cross_ref": "https://pr.tsmc.com/english/news/3346",
+      "time": "18:41",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-18",
+      "is_new": true
+    },
+    {
+      "id": "61eb5c9f83107924",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "group": "大盘头条",
+      "title": "21世纪经济报道：A股ETF国庆后持续净流入 资金持续借道指数型产品布局市场",
+      "summary": "21世纪经济报道2026年10月18日报道A股ETF资金流向情况。国庆长假结束后，A股ETF市场持续录得净流入，宽基指数ETF为资金流入的主要方向，市场通过指数型产品的配置需求维持活跃。",
+      "why": "今日（10月18日）21财经对节后A股ETF资金入市趋势的专项报道；ETF资金流向是判断A股中期流动性与机构配置意向的核心指标",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "ETF",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261018/herald/45cc3bda545f94a4cfbe3c9ac0b3e156.html",
+      "published_date": "2026-10-18",
+      "time": "18:41",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-18",
+      "is_new": true
+    },
+    {
+      "id": "7501d990601ab35b",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "group": "大盘头条",
+      "title": "Mainland China, Hong Kong stocks fall as US inflation spurs Fed tightening concerns",
+      "summary": "美国劳工部10月14日公布9月CPI同比增速3.7%，高于市场预期3.6%，环比上涨0.6%；核心CPI同比2.6%，高于上月2.4%。加油站价格环比涨9.1%是最大单项驱动。数据公布后CME FedWatch显示美联储10月加息概率从22.1%跳升至约41.5%。香港及内地股市当日下挫，市场对美联储年内进一步收紧货币政策的担忧骤然升温。",
+      "why": "美国9月CPI意外超预期、美联储加息预期骤升，港股与A股当日均承压下行；美联储10月底议息会议临近，此宏观事件仍在主导风险资产定价（距今4天，仍在发酵期）",
+      "source": "South China Morning Post",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "macro",
+        "美联储",
+        "港股",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/china-business/article/3370932/mainland-china-hong-kong-stocks-fall-us-inflation-spurs-fed-tightening-concerns",
+      "published_date": "2026-10-14",
+      "still_developing": true,
+      "time": "18:41",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-18",
+      "is_new": true
+    },
+    {
+      "id": "48505d7f71e6f09f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "group": "大盘头条",
+      "title": "美国9月零售销售环比涨0.8%高于预期 加油站贡献约七成增幅 核心消费需求并不强劲",
+      "summary": "美国商务部10月15日公布9月零售销售数据：环比增长0.8%，高于市场预期的0.3%，同比增长6.3%；8月数据同步上修至环比+1.3%。剔除汽车与汽油后的核心零售环比增长0.2%；加油站销售环比增长6.4%，贡献整体增幅约70%。最贴近GDP口径的控制组零售环比仅增0.1%，显示能源价格上涨是消费超预期的主因，实际核心消费需求并不强劲。",
+      "why": "继9月CPI超预期之后，零售销售同样显著高于预期，高通胀+消费韧性组合进一步强化美联储年内再度加息预期，对港股、A股等风险资产构成压制；距今3天，美联储10月议息会议前市场敏感度仍高",
+      "source": "智通财经 / 新浪财经",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "macro",
+        "美联储",
+        "零售销售",
+        "美国经济"
+      ],
+      "translated": false,
+      "url": "https://cj.sina.com.cn/articles/view/5835524730/15bd30a7a02002bd1c",
+      "published_date": "2026-10-15",
+      "still_developing": true,
+      "time": "18:41",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-18",
+      "is_new": true
+    },
+    {
+      "id": "45e5368ede38ce70",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "group": "大盘头条",
+      "title": "A股10月15日ETF九大类全线净流入 合计约563.79亿元 宽基ETF吸金约446亿",
+      "summary": "据格隆汇10月16日报道，A股市场2026年10月15日ETF九大类别全部录得资金净流入，合计约563.79亿元，其中宽基指数ETF净流入约446亿元，为当日吸金主力。",
+      "why": "国庆长假后资金持续借道宽基ETF入市，反映机构与散户对A股指数型产品的配置意愿仍较强，是A股市场流动性与情绪的重要风向标",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "ETF",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/live/2713864",
+      "published_date": "2026-10-16",
+      "time": "18:41",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-18",
+      "is_new": true
+    },
     {
       "id": "6bfffdb5d97a4c85",
       "tier": 1,
