@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-19 13:30 (北京时间)",
+  "updated_at": "2026-10-19 18:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,39 +9,72 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-19 13:30 (北京时间)",
-    "new_count": 3,
+    "at": "2026-10-19 18:19 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "ba7679c3a95ee7a4",
+      "id": "b80eca3d1ebffaa5",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A",
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "国家统计局：中国三季度GDP同比增长4.5%超预期；前三季度累计增长4.6%",
+      "summary": "中国国家统计局10月19日发布数据：2026年三季度GDP同比增长4.5%，高于二季度4.3%及分析师普遍预期4.4%；前三季度GDP累计增长4.6%，全年目标区间4.5%–5%望达成。分产业：第三产业增长5.2%领跑，工业增速5.3%，进出口总额同比增长18.8%；但固定资产投资同比下降7.2%，官方亦承认内需不足问题仍突出。",
+      "why": "三季度GDP环比回升且超预期，对港股/A股消费与互联网板块情绪有正面提振；外贸强劲对出海标的（携程、美团Keeta、泡泡玛特）形成支撑。固投持续下滑和内需偏弱是结构性隐忧，需关注Q4刺激政策节奏对年底行情的催化。港股今日因重阳节翌日休市。",
+      "source": "国家统计局（经光明网报道）",
+      "verified": true,
+      "keywords": [
+        "GDP",
+        "宏观",
+        "中国经济",
+        "macro",
+        "A股",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://m.gmw.cn/2026-10/19/content_1304576977.htm",
+      "published_date": "2026-10-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-19",
+      "is_new": true
+    },
+    {
+      "id": "41dd283bcb654867",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "08:00",
+      "time": "不详",
       "group": "大盘头条",
-      "title": "CoreWeave Credit Default Swaps Hit Near-1,200bps Distress as AI Infrastructure Debt Stress Spreads",
-      "summary": "CoreWeave 5-year CDS surged to near 1,195bps (distress territory); bonds fell below 80 cents on the dollar and yielded above 15%. Philadelphia Semiconductor Index logged eight consecutive losing sessions. Nasdaq fell ~2.15% on Oct 16 and ~4.5% for the week — its worst weekly performance since June. Oracle and SoftBank CDS also hit records.",
-      "why": "AI基础设施债务危机（CoreWeave约510亿美元负债）引爆全面技术股抛售，纳指上周跌4.5%；英伟达、美光、SK海力士等持仓直接承压；隐含波动率骤升，卖出期权行权价安全垫需重新评估。",
-      "source": "CNBC",
-      "verified": true,
+      "title": "US Chip Stocks Record 8-Session Losing Streak—Worst Since 2008; SOX Erases $1.64T, SK Hynix Falls 11.4% in Asia",
+      "summary": "The Philadelphia Semiconductor Index (SOX) recorded an 8-day consecutive losing streak through Oct. 16, the longest since the 2008 financial crisis. The index was down 3.3% on Oct. 15 alone, erasing a cumulative $1.64 trillion over the prior six sessions. Catalysts include hotter-than-expected September CPI reigniting rate-hike bets, AI spending doubts after Broadcom's CEO drew a casino analogy, and China memory-chip competition (CXMT advances). In Asian trading, SK Hynix fell 11.4% and Samsung fell 10.6%.",
+      "why": "延续报道：8连跌为2008年以来最长，属全新里程碑事件。直接影响持仓：SK海力士（7709.HK/000660）在亚市大跌11.4%，美光（MU）、闪迪（SNDK）亦受波及；英伟达相对抗跌但同受压制。AI资本支出质疑升温或持续压制估值，sell put策略需警惕标的继续下探风险；HBM/存储赛道的长期逻辑不变，但短期波动率显著上升。",
+      "source": "Reuters（经Kitco转载）",
+      "verified": false,
       "keywords": [
-        "AI",
-        "CoreWeave",
-        "CRWV",
-        "纳斯达克",
-        "债务危机",
-        "CDS",
-        "半导体",
-        "AI基础设施"
+        "semiconductor",
+        "芯片",
+        "SK海力士",
+        "美光",
+        "英伟达",
+        "英特尔",
+        "technology",
+        "AI"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-10-15/us-chip-stocks-set-wipe-out-2-trillion-after-latest-selloff",
       "published_date": "2026-10-15",
       "still_developing": true,
       "cross_ref": "",
@@ -50,62 +83,63 @@
       "is_new": true
     },
     {
-      "id": "32c7b8516c034eca",
+      "id": "8cabdd8fdcc26523",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "不详",
+      "group": "个股",
+      "title": "Tesla Q3 2026 Earnings Due Oct. 21: Delivery Beat Sets Stage, but Analyst Focus Shifts to Margin Recovery and Robotaxi Scale",
+      "summary": "Tesla is scheduled to report Q3 2026 results after the close on Oct. 21. Q3 deliveries reached 486,532 vehicles, beating consensus of ~469K (down 2.1% YoY but up 1.3% QoQ). Analyst consensus: revenue ~$28B (S&P Global Visible Alpha), Q3 gross margin ~17.7% (vs. Q2 actual 16.8%). Key watch items: automotive margins, Cybercab fleet expansion in Texas, and FSD subscription growth (1.48M subscriptions as of Q2, up 56% YoY). Capex guidance above $25B for FY26 remains a free-cash-flow concern.",
+      "why": "延续报道：交付量超预期在10/3已确认，本条聚焦10/21财报的新催化剂：利润率是否回升、Robotaxi商业化进度将决定AI叙事强度。对期权策略而言，财报后隐含波动率压缩是关键时机，可考虑在财报前后调整covered call/sell put的行权价设置。",
+      "source": "S&P Global Market Intelligence",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Robotaxi",
+        "FSD",
+        "自动驾驶",
+        "电动车"
+      ],
+      "translated": false,
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/10/tesla-s-revenue-earnings-expected-to-edge-lower-despite-delivery-beat",
+      "published_date": "2026-10-15",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-19",
+      "is_new": true
+    },
+    {
+      "id": "93daf4fc0213449d",
       "tier": 2,
       "lang": "en",
       "markets": [
         "HK"
       ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Hang Seng Index Slips to ~24,063 as AI Selloff Hammers HK Tech; Hang Seng Tech Index Hits Two-Year Low",
-      "summary": "On Oct 15, Hang Seng Index fell to approximately 24,062.72; Lenovo dropped ~14.5%, AI developer Z.AI lost ~10%, Kingboard Laminates fell ~9.6%, SMIC down ~4%. Banks HSBC and Standard Chartered also fell sharply. The Hang Seng Tech Index hit a two-year low for the week.",
-      "why": "港股科技指数跌至两年低位，持仓腾讯、美团、小米、泡泡玛特均受累于AI基础设施资金重估；波动率攀升有利于卖出期权收权利金，但需注意标的股短期进一步下跌的尾部风险。",
-      "source": "富途牛牛",
+      "time": "不详",
+      "group": "个股",
+      "title": "Pop Mart Counts Down to London Oxford Street Flagship Opening — European HQ Strategy Reaches Milestone",
+      "summary": "A UK retail industry report dated Oct. 18 says Pop Mart's Oxford Street flagship store is about to open, part of a seven-store UK rollout announced when the company named London its European HQ in January 2026. The Oxford Street location places Pop Mart alongside Apple and Nike, expected to drive significant media coverage. Pop Mart's H1 2026 adjusted net profit reached 5.16B yuan (30% margin), and The Monsters/Labubu IP posted 4.45B yuan in H1 revenue (down 7.5% YoY) while Twinkle Twinkle surged 581% YoY.",
+      "why": "牛津街旗舰开业是泡泡玛特出海战略的欧洲里程碑，位于全球顶流商圈，预计引发大量国际媒体曝光；对于国际品牌认知度提升和海外收入增长（已超50%）是积极催化，长期支撑估值重估逻辑（国际化溢价）。Labubu系列虽环比承压，但多元IP矩阵（Twinkle Twinkle）有效对冲单一IP风险。",
+      "source": "Retail Technology Innovation Hub",
       "verified": false,
       "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技",
-        "AI",
-        "半导体",
-        "科技股",
-        "HSBC"
+        "泡泡玛特",
+        "Pop Mart",
+        "POPMART",
+        "Labubu",
+        "出海",
+        "9992.HK",
+        "消费"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/en/post/1001204473/hong-kong-stock-market-midday-review-the-three-major-indices",
-      "published_date": "2026-10-15",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-19",
-      "is_new": true
-    },
-    {
-      "id": "8e29f2e1d1189db1",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "A股10月19日集体低开，沪指跌约0.6%报3694点，科技成长板块承压",
-      "summary": "10月19日A股三大指数集体低开：沪指跌0.60%报3694.12点，深成指跌0.50%，创指跌0.43%。上周（10月12至16日）全A指数整体跌5.10%，科技成长板块承压明显。工商银行逆势上涨再创历史新高，两市合计成交活跃。",
-      "why": "A股科技板块延续上周调整，但银行板块逆向走强或提示防御情绪抬头；持有A股科技类标的需关注市场风格切换节奏，短期估值压力仍未消散。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "沪指",
-        "创业板",
-        "科技股",
-        "市场行情",
-        "成交额"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rl10.html",
-      "published_date": "2026-10-19",
+      "url": "https://retailtechinnovationhub.com/home/2026/10/18/pop-mart-counts-the-days-as-it-gears-up-for-launch-of-london-flagship-store-on-oxford-street",
+      "published_date": "2026-10-18",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1098,6 +1132,40 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-18",
+      "is_new": false
+    },
+    {
+      "id": "ba7679c3a95ee7a4",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "CoreWeave Credit Default Swaps Hit Near-1,200bps Distress as AI Infrastructure Debt Stress Spreads",
+      "summary": "CoreWeave 5-year CDS surged to near 1,195bps (distress territory); bonds fell below 80 cents on the dollar and yielded above 15%. Philadelphia Semiconductor Index logged eight consecutive losing sessions. Nasdaq fell ~2.15% on Oct 16 and ~4.5% for the week — its worst weekly performance since June. Oracle and SoftBank CDS also hit records.",
+      "why": "AI基础设施债务危机（CoreWeave约510亿美元负债）引爆全面技术股抛售，纳指上周跌4.5%；英伟达、美光、SK海力士等持仓直接承压；隐含波动率骤升，卖出期权行权价安全垫需重新评估。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "AI",
+        "CoreWeave",
+        "CRWV",
+        "纳斯达克",
+        "债务危机",
+        "CDS",
+        "半导体",
+        "AI基础设施"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "published_date": "2026-10-15",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-19",
       "is_new": false
     },
     {
@@ -2442,6 +2510,38 @@
       "is_new": false
     },
     {
+      "id": "32c7b8516c034eca",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Hang Seng Index Slips to ~24,063 as AI Selloff Hammers HK Tech; Hang Seng Tech Index Hits Two-Year Low",
+      "summary": "On Oct 15, Hang Seng Index fell to approximately 24,062.72; Lenovo dropped ~14.5%, AI developer Z.AI lost ~10%, Kingboard Laminates fell ~9.6%, SMIC down ~4%. Banks HSBC and Standard Chartered also fell sharply. The Hang Seng Tech Index hit a two-year low for the week.",
+      "why": "港股科技指数跌至两年低位，持仓腾讯、美团、小米、泡泡玛特均受累于AI基础设施资金重估；波动率攀升有利于卖出期权收权利金，但需注意标的股短期进一步下跌的尾部风险。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "恒生科技",
+        "AI",
+        "半导体",
+        "科技股",
+        "HSBC"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1001204473/hong-kong-stock-market-midday-review-the-three-major-indices",
+      "published_date": "2026-10-15",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-19",
+      "is_new": false
+    },
+    {
       "id": "ee7eacbc7280d567",
       "tier": 2,
       "lang": "zh",
@@ -2598,6 +2698,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-17",
+      "is_new": false
+    },
+    {
+      "id": "8e29f2e1d1189db1",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "A股10月19日集体低开，沪指跌约0.6%报3694点，科技成长板块承压",
+      "summary": "10月19日A股三大指数集体低开：沪指跌0.60%报3694.12点，深成指跌0.50%，创指跌0.43%。上周（10月12至16日）全A指数整体跌5.10%，科技成长板块承压明显。工商银行逆势上涨再创历史新高，两市合计成交活跃。",
+      "why": "A股科技板块延续上周调整，但银行板块逆向走强或提示防御情绪抬头；持有A股科技类标的需关注市场风格切换节奏，短期估值压力仍未消散。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "沪指",
+        "创业板",
+        "科技股",
+        "市场行情",
+        "成交额"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rl10.html",
+      "published_date": "2026-10-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-19",
       "is_new": false
     }
   ]
