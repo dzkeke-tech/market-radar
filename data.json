@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-20 08:18 (北京时间)",
+  "updated_at": "2026-10-20 13:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,37 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-20 08:18 (北京时间)",
-    "new_count": 8,
+    "at": "2026-10-20 13:17 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "177821c4aacab692",
+      "id": "50aaebfde3e4f396",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "HK",
-        "US"
+        "A",
+        "HK"
       ],
-      "time": "07:30",
+      "time": "10:00",
       "group": "大盘头条",
-      "title": "China's CXMT shares fall 8% as investors look past profit turnaround; context of chip rout",
-      "summary": "ChangXin Memory Technologies (CXMT) fell 7.8% on Oct. 19 despite forecasting 131–132.5 billion yuan net profit for Jan–Sept 2026. Earlier this month CXMT's denser-server-memory announcement triggered a global chip stock rout that wiped over 00B from Nvidia and peers; now CXMT itself is selling off.",
-      "why": "CXMT是10月芯片赛道动荡的核心触发因素；SK海力士、美光、英伟达等组合持仓均受冲击，且CXMT在盈利好转情况下股价仍跌，反映市场对中国存储芯片技术突破的长期担忧；隐含波动率短期偏高，sell put需谨慎选行权价。",
-      "source": "CNBC",
+      "title": "前三季度GDP同比增长4.6%，三季度单季增速回升至4.5%",
+      "summary": "国家统计局10月19日发布，2026年前三季度GDP总量约107万亿元，同比增长4.6%；三季度单季增长4.5%，环比提速0.2个百分点，好于部分国际机构预测。国统局副局长毛盛勇指出积极信号增多，但内需不足仍是突出矛盾。",
+      "why": "中国经济三季报温和超预期，提振港股与A股消费/互联网板块情绪；内需偏弱意味着货币/财政政策仍有宽松空间，对持有腾讯、阿里、美团等标的的sell put策略而言，可关注潜在政策催化带来的隐波变化。",
+      "source": "中新网",
       "verified": true,
       "keywords": [
-        "CXMT",
-        "AI芯片",
-        "英伟达",
-        "SK海力士",
-        "美光",
-        "半导体"
+        "GDP",
+        "中国经济",
+        "三季报",
+        "宏观",
+        "A股",
+        "港股"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717087.shtml",
       "published_date": "2026-10-19",
       "still_developing": false,
       "cross_ref": "",
@@ -48,30 +48,30 @@
       "is_new": true
     },
     {
-      "id": "ba8acf5ef0b4e9e0",
+      "id": "a767e9529ef667fb",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "US",
         "HK"
       ],
-      "time": "07:00",
+      "time": "12:30",
       "group": "大盘头条",
-      "title": "US tech stocks rebound Monday as chip ETF snaps 9-day slide; Nasdaq +1.1% ahead of Mag 7 earnings",
-      "summary": "On Oct. 19 the Nasdaq Composite rose 1.1% to 26,431 and S&P 500 gained 0.4% to 7,691 as tech and chip stocks bounced back from oversold levels. The Philadelphia Semiconductor ETF (SOXX) snapped a nine-consecutive-session losing streak. Of the 47 S&P 500 companies that have reported Q3, 85% beat estimates.",
-      "why": "科技板块经历9个交易日下跌后显著反弹，说明短期恐慌情绪有所缓和；对组合持有的英伟达、SK海力士等期权的卖出时机具有参考意义——高波动率环境正在收敛，是sell put策略潜在入场窗口。",
-      "source": "CNBC",
-      "verified": true,
+      "title": "港股重阳节后复市，恒指午市跌0.95%失守24000点，科技股持续承压",
+      "summary": "恒生指数午市报23956.93点，跌0.95%；恒生科技指数跌1.21%，报4058.39点。重阳节休市一日后复市，南向资金回归但首先抛售AI科技股，腾讯跌逾1%、阿里跌超3%、百度跌近2%。午市成交逾千亿港元。",
+      "why": "AI资金忧虑压制科技板块，持仓的港股互联网标的（腾讯、阿里、美团等）今日均承压；科技股波动率仍偏高，短期sell put需关注行权价安全边际，covered call收取时间价值的窗口或有利可图。",
+      "source": "21财经",
+      "verified": false,
       "keywords": [
-        "纳斯达克",
-        "AI芯片",
-        "科技",
-        "宏观",
-        "sell put"
+        "恒生指数",
+        "港股",
+        "科技股",
+        "AI",
+        "腾讯",
+        "阿里巴巴"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
-      "published_date": "2026-10-19",
+      "url": "https://m.21jingji.com/article/20261020/herald/268004891c81ede8a6089c85c76606a1.html",
+      "published_date": "2026-10-20",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -79,60 +79,30 @@
       "is_new": true
     },
     {
-      "id": "85ac50e34fd52bd9",
-      "tier": 1,
-      "lang": "en",
+      "id": "c90633bc71a81d6e",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
-        "US"
-      ],
-      "time": "07:40",
-      "group": "大盘头条",
-      "title": "Mag 7 earnings week: Tesla reports Oct. 21, Alphabet Oct. 28; SpaceX merger proxy adds intrigue",
-      "summary": "Tesla (TSLA) reports Q3 2026 after the close on Oct. 21, with EPS consensus ~/bin/bash.43 vs. /bin/bash.50 a year ago on ~7.9B revenue. Tesla's annual meeting proxy (filed Oct. 19) reveals a SpaceX board crossover, fueling a ~3.8% Monday rally on merger speculation. Alphabet reports Oct. 28, same day as SK Hynix results and FOMC.",
-      "why": "特斯拉Q3财报是本周最大催化剂；SpaceX并购传言带来重大不确定性（Barclays称可能年内公告）；期权隐含波动率极高，财报后波动率骤降是sell put方向的重要风险点。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "特斯拉",
-        "TSLA",
-        "SpaceX",
-        "Mag7",
-        "Q3财报"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html",
-      "published_date": "2026-10-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": true
-    },
-    {
-      "id": "f7b0f4440c7dc45b",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
         "HK"
       ],
-      "time": "07:50",
-      "group": "大盘头条",
-      "title": "Oil falls to 07.8 on Russia sanctions relief, but Iran Hormuz attacks keep supply risk elevated",
-      "summary": "Brent crude fell ~1.9% to 07.8 on Oct. 18 after Washington suspended Russia sanctions, but Iran continued escalating tanker attacks in the Strait of Hormuz. Hormuz crude flows were at 70% of pre-Iran-conflict levels. A Friday Brent spike to 10 — highest since May — reflected acute supply-chain risk.",
-      "why": "油价高位震荡（07-10）是输入性通胀的核心驱动力，直接影响9月CPI 3.7%以及美联储是否在10月28日进一步加息的判断；持仓中与消费相关的标的（麦当劳、海底捞、携程）受油价成本传导压力。",
-      "source": "CNBC",
-      "verified": true,
+      "time": "10:00",
+      "group": "个股",
+      "title": "泡泡玛特Labubu「一喵变猫」系列开售半小时库存充足，二级市场常规款率先破价",
+      "summary": "泡泡玛特于10月15日晚10点上线Labubu「一喵变猫」系列搪胶毛绒盲盒（共9常规+1隐藏），开售30分钟后多平台旗舰店仍有大量库存，二级市场部分常规款已低于129元官方定价。隐藏款溢价仍相对较高。",
+      "why": "Labubu顶流效应首次出现实质性冷却信号——常规款破发意味着泡泡玛特新品稀缺溢价收窄；作为9992.HK的核心IP，此现象需持续跟踪，若趋势持续或压制估值，持有者可考虑适度卖出covered call对冲。",
+      "source": "新浪财经",
+      "verified": false,
       "keywords": [
-        "油价",
-        "伊朗",
-        "地缘政治",
-        "宏观",
-        "通胀"
+        "泡泡玛特",
+        "Labubu",
+        "盲盒",
+        "港股",
+        "潮玩",
+        "9992.HK"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/amp/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
-      "published_date": "2026-10-18",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-16/doc-iniviqye4788039.shtml",
+      "published_date": "2026-10-16",
       "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -140,118 +110,61 @@
       "is_new": true
     },
     {
-      "id": "d33c8b21f96061c3",
-      "tier": 1,
-      "lang": "en",
+      "id": "0168b66c601c5efc",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
-        "HK",
         "US"
       ],
-      "time": "08:00",
+      "time": "11:00",
       "group": "个股",
-      "title": "SK hynix poised for record Q3 on HBM4 demand; 6th straight record expected, results Oct. 28",
-      "summary": "Analyst consensus (FnGuide) expects SK hynix Q3 2026 operating profit at ~76.96 trillion won, a 6th consecutive quarterly record. HBM4 revenue is fully counted from Q3, and J.P. Morgan estimates SK hynix holds ~54% of Nvidia's HBM supply in 2026. Results due Oct. 28 (Seoul time).",
-      "why": "SK海力士Q3季报（10月28日）与FOMC议息会议同日，双重催化剂叠加；HBM4全面放量验证AI内存超级周期，是CSOP两倍做多SK海力士ETF及相关期权持仓的核心逻辑验证；季报前sell put需考虑双边波动风险。",
-      "source": "MoneyToday",
+      "title": "英伟达Vera Rubin MGX AI工厂生态合作伙伴名单公布，美的、富士康等入局",
+      "summary": "OCP全球峰会上，英伟达公布Vera Rubin MGX AI工厂生态合作名单，涵盖台积电、富士康工业富联、美的集团、立讯精密等企业；联想已开始全球交付Vera Rubin NVL72机架级AI系统。Rubin平台推理算力较Blackwell提升约5倍。",
+      "why": "Rubin生态落地加速确认英伟达AI基础设施长期需求，对NVDA持仓构成中期正面催化；国内供应链（美的、立讯）受益标的可关注A股联动；高隐波背景下英伟达的sell put策略收益率依然较高。",
+      "source": "新浪科技",
       "verified": false,
       "keywords": [
-        "SK海力士",
-        "HBM4",
-        "HBM",
-        "存储芯片",
-        "DRAM"
+        "英伟达",
+        "Rubin",
+        "AI芯片",
+        "Blackwell",
+        "美的",
+        "富士康"
       ],
       "translated": false,
-      "url": "https://www.mt.co.kr/en/industry/2026/10/19/2026101913371799572",
-      "published_date": "2026-10-19",
-      "still_developing": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmazr8286487.shtml",
+      "published_date": "2026-10-16",
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-20",
       "is_new": true
     },
     {
-      "id": "41b72ca05f02da82",
-      "tier": 2,
-      "lang": "en",
+      "id": "c438c1ea7f1a84e4",
+      "tier": 3,
+      "lang": "zh",
       "markets": [
         "HK"
       ],
       "time": "09:00",
       "group": "个股",
-      "title": "Paralysed Keeta rider caught in insurance limbo after HK crash — gig-work law gap exposed",
-      "summary": "A 54-year-old Keeta delivery rider was paralysed in a May 2026 crash; Meituan's platform has not resolved his insurance claim months later. SCMP and HKFP report that Hong Kong's planned gig-work law could exclude riders injured 'between orders' from statutory compensation.",
-      "why": "Keeta是美团出海核心资产，此案若推动香港立法强化骑手保障要求，将增加平台运营成本，存在监管风险溢价；是美团港股沽期权需关注的负面催化剂。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "美团",
-        "Keeta",
-        "香港",
-        "监管",
-        "骑手"
-      ],
-      "translated": false,
-      "url": "https://scmp.com/news/hong-kong/society/article/3371322/left-paralysed-after-crash-hong-kong-keeta-rider-caught-insurance-limbo",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": true
-    },
-    {
-      "id": "6149b0d93af2dd82",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:15",
-      "group": "个股",
-      "title": "Temu settles Texas data privacy lawsuit for $3M; agrees to store US user data domestically",
-      "summary": "PDD Holdings' Temu agreed to a $3M settlement with Texas over data privacy and product safety claims. The deal requires Temu to store Texans' personal data on U.S.-based servers and annual independent product safety testing. Texas is the first state to resolve such claims; several others have similar suits pending.",
-      "why": "Temu是拼多多最大增长引擎；美国各州监管收紧（数据本地化+产品安全测试）将推高合规成本，后续类似诉讼风险仍高；对PDD期权看空方向有支撑，需关注是否形成全国性监管先例。",
-      "source": "Inside Retail Asia",
+      "title": "小米新车商标曝光：SU8、SU9等8款车型已通过初审",
+      "summary": "据新浪科技报道，国家知识产权局商标局数据显示，小米汽车多个新车型名称（包括SU8、SU9等8款）已陆续通过商标初审，意味着小米正在规划SU7/YU7之后的更多车型布局。",
+      "why": "小米汽车品牌矩阵扩张信号——多型号商标同步推进，可能加速1810.HK的汽车业务估值重估；当前SU7+YU7月销超4万辆，若SU8/SU9进入预售或正式发布，将是下一轮产品周期催化。",
+      "source": "新浪科技",
       "verified": false,
       "keywords": [
-        "拼多多",
-        "Temu",
-        "监管",
-        "美国"
+        "小米",
+        "小米汽车",
+        "SU7",
+        "1810.HK",
+        "商标",
+        "新车"
       ],
       "translated": false,
-      "url": "https://insideretail.asia/2026/10/19/temu-agrees-to-data-privacy-curbs-to-settle-us-lawsuit/",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": true
-    },
-    {
-      "id": "f0dd0afc4cd9f01e",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:45",
-      "group": "个股",
-      "title": "Moomoo extends U.S. options trading to pre-market and post-close sessions via Cboe",
-      "summary": "Futu's Moomoo launched extended options trading hours on Oct. 19: 25 U.S.-listed stocks and 5 ETFs now tradeable 7:30–9:25 a.m. ET (pre-market) and 4:00–4:15 p.m. ET (post-close) via Cboe Exchange, making Moomoo the first retail platform to offer these extended-hours options.",
-      "why": "富途拓展期权交易时段是moomoo差异化服务里程碑，提升用户活跃度与佣金收入；对FUTU估值有正面贡献，且对使用moomoo执行sell put/covered call策略的用户有直接实用意义（可捕捉盘前财报后波动率）。",
-      "source": "Moomoo (官方新闻稿)",
-      "verified": true,
-      "keywords": [
-        "富途",
-        "moomoo",
-        "期权",
-        "Futu"
-      ],
-      "translated": false,
-      "url": "https://stockhouse.com/news/press-releases/2026/10/19/moomoo-extends-options-trading-hours-with-pre-market-and-post-close-sessions",
-      "published_date": "2026-10-19",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-20/doc-inivvxct6507839.shtml",
+      "published_date": "2026-10-20",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1252,6 +1165,161 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-19",
+      "is_new": false
+    },
+    {
+      "id": "177821c4aacab692",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "China's CXMT shares fall 8% as investors look past profit turnaround; context of chip rout",
+      "summary": "ChangXin Memory Technologies (CXMT) fell 7.8% on Oct. 19 despite forecasting 131–132.5 billion yuan net profit for Jan–Sept 2026. Earlier this month CXMT's denser-server-memory announcement triggered a global chip stock rout that wiped over 00B from Nvidia and peers; now CXMT itself is selling off.",
+      "why": "CXMT是10月芯片赛道动荡的核心触发因素；SK海力士、美光、英伟达等组合持仓均受冲击，且CXMT在盈利好转情况下股价仍跌，反映市场对中国存储芯片技术突破的长期担忧；隐含波动率短期偏高，sell put需谨慎选行权价。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "CXMT",
+        "AI芯片",
+        "英伟达",
+        "SK海力士",
+        "美光",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+      "published_date": "2026-10-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "ba8acf5ef0b4e9e0",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "US tech stocks rebound Monday as chip ETF snaps 9-day slide; Nasdaq +1.1% ahead of Mag 7 earnings",
+      "summary": "On Oct. 19 the Nasdaq Composite rose 1.1% to 26,431 and S&P 500 gained 0.4% to 7,691 as tech and chip stocks bounced back from oversold levels. The Philadelphia Semiconductor ETF (SOXX) snapped a nine-consecutive-session losing streak. Of the 47 S&P 500 companies that have reported Q3, 85% beat estimates.",
+      "why": "科技板块经历9个交易日下跌后显著反弹，说明短期恐慌情绪有所缓和；对组合持有的英伟达、SK海力士等期权的卖出时机具有参考意义——高波动率环境正在收敛，是sell put策略潜在入场窗口。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "纳斯达克",
+        "AI芯片",
+        "科技",
+        "宏观",
+        "sell put"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+      "published_date": "2026-10-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "85ac50e34fd52bd9",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:40",
+      "group": "大盘头条",
+      "title": "Mag 7 earnings week: Tesla reports Oct. 21, Alphabet Oct. 28; SpaceX merger proxy adds intrigue",
+      "summary": "Tesla (TSLA) reports Q3 2026 after the close on Oct. 21, with EPS consensus ~/bin/bash.43 vs. /bin/bash.50 a year ago on ~7.9B revenue. Tesla's annual meeting proxy (filed Oct. 19) reveals a SpaceX board crossover, fueling a ~3.8% Monday rally on merger speculation. Alphabet reports Oct. 28, same day as SK Hynix results and FOMC.",
+      "why": "特斯拉Q3财报是本周最大催化剂；SpaceX并购传言带来重大不确定性（Barclays称可能年内公告）；期权隐含波动率极高，财报后波动率骤降是sell put方向的重要风险点。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "TSLA",
+        "SpaceX",
+        "Mag7",
+        "Q3财报"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html",
+      "published_date": "2026-10-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "f7b0f4440c7dc45b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:50",
+      "group": "大盘头条",
+      "title": "Oil falls to 07.8 on Russia sanctions relief, but Iran Hormuz attacks keep supply risk elevated",
+      "summary": "Brent crude fell ~1.9% to 07.8 on Oct. 18 after Washington suspended Russia sanctions, but Iran continued escalating tanker attacks in the Strait of Hormuz. Hormuz crude flows were at 70% of pre-Iran-conflict levels. A Friday Brent spike to 10 — highest since May — reflected acute supply-chain risk.",
+      "why": "油价高位震荡（07-10）是输入性通胀的核心驱动力，直接影响9月CPI 3.7%以及美联储是否在10月28日进一步加息的判断；持仓中与消费相关的标的（麦当劳、海底捞、携程）受油价成本传导压力。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "油价",
+        "伊朗",
+        "地缘政治",
+        "宏观",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/amp/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+      "published_date": "2026-10-18",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "d33c8b21f96061c3",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "SK hynix poised for record Q3 on HBM4 demand; 6th straight record expected, results Oct. 28",
+      "summary": "Analyst consensus (FnGuide) expects SK hynix Q3 2026 operating profit at ~76.96 trillion won, a 6th consecutive quarterly record. HBM4 revenue is fully counted from Q3, and J.P. Morgan estimates SK hynix holds ~54% of Nvidia's HBM supply in 2026. Results due Oct. 28 (Seoul time).",
+      "why": "SK海力士Q3季报（10月28日）与FOMC议息会议同日，双重催化剂叠加；HBM4全面放量验证AI内存超级周期，是CSOP两倍做多SK海力士ETF及相关期权持仓的核心逻辑验证；季报前sell put需考虑双边波动风险。",
+      "source": "MoneyToday",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "HBM4",
+        "HBM",
+        "存储芯片",
+        "DRAM"
+      ],
+      "translated": false,
+      "url": "https://www.mt.co.kr/en/industry/2026/10/19/2026101913371799572",
+      "published_date": "2026-10-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
       "is_new": false
     },
     {
@@ -2447,6 +2515,65 @@
       "is_new": false
     },
     {
+      "id": "41b72ca05f02da82",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Paralysed Keeta rider caught in insurance limbo after HK crash — gig-work law gap exposed",
+      "summary": "A 54-year-old Keeta delivery rider was paralysed in a May 2026 crash; Meituan's platform has not resolved his insurance claim months later. SCMP and HKFP report that Hong Kong's planned gig-work law could exclude riders injured 'between orders' from statutory compensation.",
+      "why": "Keeta是美团出海核心资产，此案若推动香港立法强化骑手保障要求，将增加平台运营成本，存在监管风险溢价；是美团港股沽期权需关注的负面催化剂。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "美团",
+        "Keeta",
+        "香港",
+        "监管",
+        "骑手"
+      ],
+      "translated": false,
+      "url": "https://scmp.com/news/hong-kong/society/article/3371322/left-paralysed-after-crash-hong-kong-keeta-rider-caught-insurance-limbo",
+      "published_date": "2026-10-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "6149b0d93af2dd82",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:15",
+      "group": "个股",
+      "title": "Temu settles Texas data privacy lawsuit for $3M; agrees to store US user data domestically",
+      "summary": "PDD Holdings' Temu agreed to a $3M settlement with Texas over data privacy and product safety claims. The deal requires Temu to store Texans' personal data on U.S.-based servers and annual independent product safety testing. Texas is the first state to resolve such claims; several others have similar suits pending.",
+      "why": "Temu是拼多多最大增长引擎；美国各州监管收紧（数据本地化+产品安全测试）将推高合规成本，后续类似诉讼风险仍高；对PDD期权看空方向有支撑，需关注是否形成全国性监管先例。",
+      "source": "Inside Retail Asia",
+      "verified": false,
+      "keywords": [
+        "拼多多",
+        "Temu",
+        "监管",
+        "美国"
+      ],
+      "translated": false,
+      "url": "https://insideretail.asia/2026/10/19/temu-agrees-to-data-privacy-curbs-to-settle-us-lawsuit/",
+      "published_date": "2026-10-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
       "id": "b7cdc01f465bafc3",
       "tier": 3,
       "lang": "en",
@@ -2603,6 +2730,35 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-19",
+      "is_new": false
+    },
+    {
+      "id": "f0dd0afc4cd9f01e",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:45",
+      "group": "个股",
+      "title": "Moomoo extends U.S. options trading to pre-market and post-close sessions via Cboe",
+      "summary": "Futu's Moomoo launched extended options trading hours on Oct. 19: 25 U.S.-listed stocks and 5 ETFs now tradeable 7:30–9:25 a.m. ET (pre-market) and 4:00–4:15 p.m. ET (post-close) via Cboe Exchange, making Moomoo the first retail platform to offer these extended-hours options.",
+      "why": "富途拓展期权交易时段是moomoo差异化服务里程碑，提升用户活跃度与佣金收入；对FUTU估值有正面贡献，且对使用moomoo执行sell put/covered call策略的用户有直接实用意义（可捕捉盘前财报后波动率）。",
+      "source": "Moomoo (官方新闻稿)",
+      "verified": true,
+      "keywords": [
+        "富途",
+        "moomoo",
+        "期权",
+        "Futu"
+      ],
+      "translated": false,
+      "url": "https://stockhouse.com/news/press-releases/2026/10/19/moomoo-extends-options-trading-hours-with-pre-market-and-post-close-sessions",
+      "published_date": "2026-10-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
       "is_new": false
     }
   ]
