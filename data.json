@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-21 13:15 (北京时间)",
+  "updated_at": "2026-10-21 18:14 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,37 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-21 13:15 (北京时间)",
-    "new_count": 6,
+    "at": "2026-10-21 18:14 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "1b720bc53c9773a2",
+      "id": "5b365e6efd073218",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "16:00",
-      "group": "个股",
-      "title": "泡泡玛特(9992.HK)四连跌创一年半新低，分析师警告Q3销售同比大幅下滑",
-      "summary": "泡泡玛特10月20日收跌4.6%至135.60港元，已连跌4个交易日，创2025年4月以来新低，成交量为平日约7倍。机构分析师（晨星）援引第三方监测数据，警告公司三季度销售同比跌幅超50%；高盛渠道跟踪数据亦显示天猫/抖音平台三季度销售同比下滑约30%。离岸信托税务风险为额外压力。公司三季报发布时间尚未确定。",
-      "why": "三季报暴雷风险显著，股价已持续下行；对该股持有期权的投资者应注意隐含波动率上升，covered call可考虑上移行权价；等待官方三季报确认后再布局更为稳妥。",
-      "source": "富途牛牛",
-      "verified": false,
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "SpaceX and Tesla Boards Form Special Committees to Explore Merger; Musk Calls Tie-Up a 'Good Idea'",
+      "summary": "Elon Musk confirmed on SpaceX's Q3 2026 earnings call (Oct. 20) that both companies' boards have formed independent special committees to explore a potential merger, with Musk recusing himself as a conflicted party. No terms have been agreed and no guarantee of a deal. The combined entity would be worth roughly $3.5 trillion, the largest corporate tie-up in history if completed. SpaceX shares surged ~10% in premarket trading.",
+      "why": "特斯拉(TSLA)持仓关键事件：并购讨论正式化将推升TSLA和SPCX短期隐含波动率，sell put的行权区间风险需重新评估；若并购最终落地将是史上最大规模企业重组，估值重估幅度巨大；同时SpaceX Q3业绩超预期、AI营收激增也利好市场情绪。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "三季度",
-        "销售下滑",
-        "股价",
-        "Labubu"
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "马斯克",
+        "Musk",
+        "自动驾驶"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/post/1001653556/pop-mart-falls-for-the-fourth-consecutive-session-what-is",
-      "published_date": "2026-10-20",
+      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "published_date": "2026-10-21",
       "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -47,153 +47,32 @@
       "is_new": true
     },
     {
-      "id": "831635457f5884cc",
+      "id": "226b4645e5aa4622",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "A"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "DeepSeek发布开源新推理框架，A股AI交易情绪回暖，云计算ETF涨超1%",
-      "summary": "据新浪财经今日报道，DeepSeek发布开源新推理框架引发市场关注，叠加AI业务强劲增长预期，A股AI相关概念回升，光模块等AI硬件赛道领涨，润泽科技涨近4%，云计算ETF指数涨超1%。",
-      "why": "国内AI开源生态持续推进是A股AI赛道的关键催化剂；腾讯云、阿里云等云计算标的受益；关注AI赛道波动率机会。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "DeepSeek",
-        "AI",
-        "光模块",
-        "云计算",
-        "AI硬件"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivyaar5541029.shtml",
-      "published_date": "2026-10-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-21",
-      "is_new": true
-    },
-    {
-      "id": "ea31734872629c9d",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "港股恒指早盘涨逾1%，阿里巴巴涨超2%，科网股全线走强",
-      "summary": "今日港股早盘三大指数高开，恒生指数涨超1%，科网股普遍上涨：阿里巴巴涨超2%，美团涨约1.2%，百度涨约1.5%，小米、腾讯均现涨幅；港股物理AI概念股同步走强。",
-      "why": "港股科网股整体向好，持仓腾讯（0700.HK）、阿里（9988.HK）、美团（3690.HK）盘中浮盈扩大；关注港股短期走势是否持续，及宁德时代大跌是否蔓延情绪。",
-      "source": "新浪港股热点",
-      "verified": false,
-      "keywords": [
-        "恒指",
-        "港股",
-        "科网股",
-        "阿里巴巴",
-        "美团",
-        "腾讯"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ru9c.html",
-      "published_date": "2026-10-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-21",
-      "is_new": true
-    },
-    {
-      "id": "695a4abf7afd15c1",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "A股四指数早盘高开，券商板块领涨，光模块等AI硬件方向走强",
-      "summary": "今日A股四大指数集体高开，上证指数涨0.14%，深成指涨0.32%，创业板指涨0.28%，科创综指涨0.9%；板块上，券商等金融股走强，光模块、存储等AI硬件赛道表现突出；数据要素概念股中海量数据开盘涨停。",
-      "why": "A股整体情绪偏积极，AI硬件与券商双线走强；关注宁德时代大跌能否形成情绪拖累，以及持仓A股标的（如好未来TAL）盘中表现。",
-      "source": "新浪A股热点",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "券商",
-        "光模块",
-        "AI硬件",
-        "科创"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ru84.html",
-      "published_date": "2026-10-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-21",
-      "is_new": true
-    },
-    {
-      "id": "a3021a3cb9f362ab",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
+        "HK",
         "A"
       ],
       "time": "09:00",
       "group": "大盘头条",
-      "title": "吴清金融街论坛发言释放稳市积极信号，A股年内分红回购规模达2.1万亿元",
-      "summary": "据新浪财经今日盘前报道，监管层相关官员（吴清）在金融街论坛发表讲话，释放稳市场、引入长期资金、推进改革的积极信号；同日数据显示，A股年内分红与回购合计规模已突破2.1万亿元；当日另有10家公司合计约640亿元市值限售股解禁。",
-      "why": "监管层积极表态与大规模分红回购对A股长期持仓形成支撑；今日解禁压力约640亿市值，需关注相关个股短期承压风险。",
-      "source": "新浪A股热点",
+      "title": "国资委筹备组建国家数据集团央企即将挂牌，数据要素板块港股A股走强",
+      "summary": "据中国证券报和财联社报道，国资委正筹备组建新央企国家数据集团，消息称近日将正式挂牌成立，主要职责为整合能源、交通、金融、医疗等领域数据资产、打破数据孤岛、构建统一数据要素市场。消息催化A股及港股数据要素、物理AI相关概念股走强。",
+      "why": "国家数据集团的成立将打造全国统一数据要素市场，有助于腾讯云、阿里云、AI基础设施等数字经济相关持仓标的的中长期估值；港股物理AI概念股受政策预期驱动，可关注相关标的短期波动机会。",
+      "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "A股",
-        "分红",
-        "回购",
-        "监管",
-        "解禁",
-        "稳市场"
+        "数据",
+        "AI",
+        "腾讯",
+        "阿里巴巴",
+        "Alibaba",
+        "阿里云"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ru1i.html",
-      "published_date": "2026-10-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-21",
-      "is_new": true
-    },
-    {
-      "id": "6f071e4bc2ac2885",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "小米(1810.HK)YU7+SU7双入1-9月纯电销量前十，YU7增速达202%",
-      "summary": "据中汽数研1-9月纯电动乘用车销量榜，小米旗下YU7以14.02万辆排名第6（同比增202.1%），SU7以13.38万辆排名第7，成为唯一两款车型同时跻身前十的单一品牌。",
-      "why": "小米汽车双车型入前十验证产品矩阵竞争力，对小米股价中长期基本面支撑积极；YU7高增速印证海外及高端市场扩张初步成效；SU7同比有所下滑需关注是否出现内部分流。",
-      "source": "新浪科技",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "小米汽车",
-        "YU7",
-        "SU7",
-        "电动车",
-        "销量"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-20/doc-inivwitm5797144.shtml",
-      "published_date": "2026-10-20",
-      "still_developing": false,
+      "url": "https://finance.sina.cn/fund/etf/2026-10-19/detail-inivtuet6948412.d.html",
+      "published_date": "2026-10-19",
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-21",
@@ -1212,6 +1091,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "1b720bc53c9773a2",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "个股",
+      "title": "泡泡玛特(9992.HK)四连跌创一年半新低，分析师警告Q3销售同比大幅下滑",
+      "summary": "泡泡玛特10月20日收跌4.6%至135.60港元，已连跌4个交易日，创2025年4月以来新低，成交量为平日约7倍。机构分析师（晨星）援引第三方监测数据，警告公司三季度销售同比跌幅超50%；高盛渠道跟踪数据亦显示天猫/抖音平台三季度销售同比下滑约30%。离岸信托税务风险为额外压力。公司三季报发布时间尚未确定。",
+      "why": "三季报暴雷风险显著，股价已持续下行；对该股持有期权的投资者应注意隐含波动率上升，covered call可考虑上移行权价；等待官方三季报确认后再布局更为稳妥。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "三季度",
+        "销售下滑",
+        "股价",
+        "Labubu"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/1001653556/pop-mart-falls-for-the-fourth-consecutive-session-what-is",
+      "published_date": "2026-10-20",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-21",
       "is_new": false
     },
     {
@@ -2548,6 +2458,159 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "831635457f5884cc",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "DeepSeek发布开源新推理框架，A股AI交易情绪回暖，云计算ETF涨超1%",
+      "summary": "据新浪财经今日报道，DeepSeek发布开源新推理框架引发市场关注，叠加AI业务强劲增长预期，A股AI相关概念回升，光模块等AI硬件赛道领涨，润泽科技涨近4%，云计算ETF指数涨超1%。",
+      "why": "国内AI开源生态持续推进是A股AI赛道的关键催化剂；腾讯云、阿里云等云计算标的受益；关注AI赛道波动率机会。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "光模块",
+        "云计算",
+        "AI硬件"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivyaar5541029.shtml",
+      "published_date": "2026-10-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-21",
+      "is_new": false
+    },
+    {
+      "id": "ea31734872629c9d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "港股恒指早盘涨逾1%，阿里巴巴涨超2%，科网股全线走强",
+      "summary": "今日港股早盘三大指数高开，恒生指数涨超1%，科网股普遍上涨：阿里巴巴涨超2%，美团涨约1.2%，百度涨约1.5%，小米、腾讯均现涨幅；港股物理AI概念股同步走强。",
+      "why": "港股科网股整体向好，持仓腾讯（0700.HK）、阿里（9988.HK）、美团（3690.HK）盘中浮盈扩大；关注港股短期走势是否持续，及宁德时代大跌是否蔓延情绪。",
+      "source": "新浪港股热点",
+      "verified": false,
+      "keywords": [
+        "恒指",
+        "港股",
+        "科网股",
+        "阿里巴巴",
+        "美团",
+        "腾讯"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ru9c.html",
+      "published_date": "2026-10-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-21",
+      "is_new": false
+    },
+    {
+      "id": "695a4abf7afd15c1",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "A股四指数早盘高开，券商板块领涨，光模块等AI硬件方向走强",
+      "summary": "今日A股四大指数集体高开，上证指数涨0.14%，深成指涨0.32%，创业板指涨0.28%，科创综指涨0.9%；板块上，券商等金融股走强，光模块、存储等AI硬件赛道表现突出；数据要素概念股中海量数据开盘涨停。",
+      "why": "A股整体情绪偏积极，AI硬件与券商双线走强；关注宁德时代大跌能否形成情绪拖累，以及持仓A股标的（如好未来TAL）盘中表现。",
+      "source": "新浪A股热点",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "券商",
+        "光模块",
+        "AI硬件",
+        "科创"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ru84.html",
+      "published_date": "2026-10-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-21",
+      "is_new": false
+    },
+    {
+      "id": "a3021a3cb9f362ab",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "吴清金融街论坛发言释放稳市积极信号，A股年内分红回购规模达2.1万亿元",
+      "summary": "据新浪财经今日盘前报道，监管层相关官员（吴清）在金融街论坛发表讲话，释放稳市场、引入长期资金、推进改革的积极信号；同日数据显示，A股年内分红与回购合计规模已突破2.1万亿元；当日另有10家公司合计约640亿元市值限售股解禁。",
+      "why": "监管层积极表态与大规模分红回购对A股长期持仓形成支撑；今日解禁压力约640亿市值，需关注相关个股短期承压风险。",
+      "source": "新浪A股热点",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "分红",
+        "回购",
+        "监管",
+        "解禁",
+        "稳市场"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ru1i.html",
+      "published_date": "2026-10-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-21",
+      "is_new": false
+    },
+    {
+      "id": "6f071e4bc2ac2885",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "小米(1810.HK)YU7+SU7双入1-9月纯电销量前十，YU7增速达202%",
+      "summary": "据中汽数研1-9月纯电动乘用车销量榜，小米旗下YU7以14.02万辆排名第6（同比增202.1%），SU7以13.38万辆排名第7，成为唯一两款车型同时跻身前十的单一品牌。",
+      "why": "小米汽车双车型入前十验证产品矩阵竞争力，对小米股价中长期基本面支撑积极；YU7高增速印证海外及高端市场扩张初步成效；SU7同比有所下滑需关注是否出现内部分流。",
+      "source": "新浪科技",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "小米汽车",
+        "YU7",
+        "SU7",
+        "电动车",
+        "销量"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-20/doc-inivwitm5797144.shtml",
+      "published_date": "2026-10-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-21",
       "is_new": false
     },
     {
