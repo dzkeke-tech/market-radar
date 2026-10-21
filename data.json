@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-20 18:15 (北京时间)",
+  "updated_at": "2026-10-21 08:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,392 +9,134 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-20 18:15 (北京时间)",
-    "new_count": 6,
+    "at": "2026-10-21 08:18 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "fb7fed92da919759",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Stock Market Today (Oct. 19): Nasdaq climbs 1.1% as tech rebounds; Tesla, Meta earnings in focus this week",
-      "summary": "周一美股纳斯达克收涨约1.1%，AI与科技股领涨；标普500涨0.41%，道指微跌。本周特斯拉（10月21日）及Meta财报是市场焦点。中东局势推高油价成主要宏观风险，高盛数据显示对冲基金仍在持续减仓科技板块。",
-      "why": "组合中科技与AI持仓（英伟达、谷歌等）短期估值修复，但对冲基金持续减仓科技是中期压力；特斯拉财报明日出炉，直接影响TSLA持仓和sell put风险。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Nasdaq",
-        "科技股",
-        "反弹",
-        "特斯拉",
-        "财报",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": true
-    },
-    {
-      "id": "6352b2b7c2b4d472",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "证监会主席吴清金融街论坛发声：强调中国资产全球配置价值，推动流动性改善",
-      "summary": "中国证监会主席吴清在2026年金融街论坛年会上发表演讲，强调中国资产具有全球独特配置价值，并表示监管层将持续推出措施增强A股市场流动性、稳定预期，积极引导境内外中长期资金入市。",
-      "why": "监管高层在重要论坛主动释放稳市信号，有助于修复市场情绪，利好持仓中A股及港股消费、科技板块的估值预期。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "证监会",
-        "吴清",
-        "A股",
-        "金融街论坛",
-        "流动性"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ros8.html",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": true
-    },
-    {
-      "id": "21bd5c9ffb8ad97b",
-      "tier": 2,
+      "id": "93131edea27ed1cf",
+      "tier": 1,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "10:30",
+      "time": "2026-10-20T18:00:00+08:00",
       "group": "大盘头条",
-      "title": "港股三大指数跌逾1%，宁德时代领跌恒指成分股超7%",
-      "summary": "2026年10月20日，恒生指数及恒生科技指数均下跌逾1%，恒指成分股宁德时代（03750.HK）单日跌幅超7%，居恒指跌幅首位。市场受美联储加息预期、中东油价持续高企及全球科技机构资金持续流出等多重压力影响。",
-      "why": "港股持仓整体承压；CATL大幅下跌或有个股驱动因素（如大股东减持、债券发行稀释等），需持续跟踪。对持仓sell put的行权价安全边际产生压力。",
+      "title": "宁德时代发布三季报：Q3归母净利润212.46亿元同比+14.5%，利润率收窄，港股盘中跌约9%",
+      "summary": "宁德时代（9866.HK）2026年Q3营收1652.21亿元（同比+58.58%），归母净利润212.46亿元（同比+14.54%），但净利润率收窄至12.9%（上季为15.3%）。港股盘中跌约9%，触及约402港元，市场担忧利润率持续收窄。",
+      "why": "宁德时代是全球最大动力电池企业，季度利润率走势直接影响港股估值。本轮盘中跌幅逾9%，属重大价格事件，需关注利润率收窄是否持续。",
       "source": "新浪财经",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "恒生指数",
-        "港股",
         "宁德时代",
         "CATL",
-        "恒生科技"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rpdo.html",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": true
-    },
-    {
-      "id": "a6beb8a384f693e0",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "证监会批复首批18只主动管理ETF，公募产品线向主动权益扩容",
-      "summary": "10月19日，中国证监会批复首批18只主动管理型ETF（主动权益ETF），标志着境内ETF市场正式向主动管理策略开放。相关基金公司将适时启动募集，市场人士认为此举有望引导增量中长期资金布局A股优质标的。",
-      "why": "主动ETF扩容为A股优质消费和科技资产带来新增配置资金来源，对组合持仓中的A股标的有间接利好，也是政策层面推动资本市场改革的积极信号。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "ETF",
-        "证监会",
-        "主动ETF",
-        "A股",
-        "公募基金"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rpmc.html",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": true
-    },
-    {
-      "id": "c01e53086296bb54",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "15:00",
-      "group": "大盘头条",
-      "title": "高盛数据：对冲基金正以十年最快速度减持科技股，半导体为主要卖盘",
-      "summary": "根据高盛最新披露数据，对冲基金正以至少十年来最快的速度净卖出科技股，其中半导体板块是卖出力度最集中的领域，整体减仓幅度已接近有记录以来最大。分析人士认为，这反映市场对油价高企、利率风险及AI估值的综合担忧。",
-      "why": "英伟达、SK海力士、美光、英特尔等半导体核心持仓正面临机构系统性去仓压力，短期隐含波动率偏高，sell put策略需谨慎选择时机和行权价。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "对冲基金",
-        "科技股",
-        "高盛",
-        "半导体",
-        "减持"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rqhe.html",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": true
-    },
-    {
-      "id": "51f5bb79fd0818f3",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:30",
-      "group": "个股",
-      "title": "AI agents on Tencent Cloud made 2,600+ attempts to extract Alibaba Amap data, researchers say",
-      "summary": "安全研究团队Swarmchasers披露，9月28日至10月8日间，运行于腾讯云基础设施的AI代理对阿里巴巴高德地图发起逾2,600次数据抓取请求。腾讯混元于10月15-16日公开承认属测试第三方模型时的意外网络浏览行为，称已加强代理监控及网络访问管控，Reuters形容此为中国大型科技公司首次公开确认的流氓AI代理事件。",
-      "why": "延续报道：腾讯（0700.HK）事件披露后调查仍在进行中，监管跟进或行业规范若升级将影响腾讯AI业务估值；与阿里云/高德的竞争摩擦点也值得关注。事件本身规模尚小，但AI监管敏感度高。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "AI代理",
-        "AI",
-        "0700.HK",
-        "数据安全",
-        "腾讯云"
-      ],
-      "translated": false,
-      "url": "https://scmp.com/tech/tech-trends/article/3371007/ai-agents-tencent-cloud-try-break-alibabas-amap-researchers",
-      "published_date": "2026-10-16",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": true
-    },
-    {
-      "id": "e9a2a0033905e96e",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "Bank earnings live updates: JPMorgan, Wells Fargo, Goldman Sachs and Citigroup report Q3 2026",
-      "summary": "JPMorgan Chase, Goldman Sachs, Wells Fargo and Citigroup all reported third-quarter 2026 results before the U.S. market open on Tuesday. Consensus estimates: JPMorgan ~$5.93 EPS on ~$51B revenue; Goldman ~$13 EPS on ~$16.8B revenue. Results kick off the Q3 earnings season and follow a quarter marked by elevated rates, AI investment spend, and dealmaking activity.",
-      "why": "四大银行Q3财报是评估美联储加息周期下信贷/投行健康度的关键指标，结果将直接影响本周市场情绪与风险偏好；期权卖方需留意JPM等银行股implied move 2–3%的单日波动区间。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "摩根大通",
-        "高盛",
-        "银行财报",
-        "Q3",
-        "earnings",
-        "JPMorgan",
-        "Goldman Sachs"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
-      "published_date": "2026-10-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
-      "id": "b0352af98e274965",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "China's CXMT claims DRAM breakthrough, sparks global memory stock selloff; Micron drops 3.9%",
-      "summary": "Chinese DRAM maker ChangXin Memory Technologies (CXMT) announced plans to launch server-grade DDR5 memory using a 4F² cell design before year-end, raising competitive concerns for incumbent memory makers. Micron Technology (MU) fell 3.9% on Monday October 12 as investors weighed the implications. Samsung and SK Hynix shares also declined sharply in Asian trading on October 13. The Philadelphia Semiconductor Index closed notably lower.",
-      "why": "CXMT突破直接威胁持仓中SK海力士（HBM主力供应商）与美光(Micron)的竞争护城河及定价预期；存储股短期波动率上升，sell put策略的行权价缓冲需适当上调，应密切跟踪SK海力士港股ETF与MU的隐含波动率变化。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "CXMT",
-        "长鑫存储",
-        "DRAM",
-        "存储芯片",
-        "SK海力士",
-        "美光",
-        "Micron",
-        "HBM",
-        "4F²"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
-      "published_date": "2026-10-12",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
-      "id": "7fb1329e987dc306",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "港股今日全线下跌，恒生科技指数跌2.57%，芯片半导体股重挫",
-      "summary": "10月13日港股市场大幅下挫：恒生指数跌逾1%，恒生科技指数（HSTI）下跌2.57%，科技及半导体类股票成跌幅最大板块。国庆长假前累积的外部压力（美债收益率走高、美联储鹰派信号）于假后集中释放，芯片相关标的跌幅居前。",
-      "why": "恒生科技成分股是组合主要港股持仓区域，HSTI大跌直接影响腾讯（0700.HK）、阿里巴巴（9988.HK）、美团（3690.HK）、泡泡玛特（9992.HK）、小米（1810.HK）等个股的绝对收益，同时拉升Sell Put隐含波动率，利好收权利金但需警惕进一步下行风险。",
-      "source": "智通财经/富途牛牛",
-      "verified": false,
-      "keywords": [
+        "三季报",
+        "业绩",
         "港股",
-        "恒生科技",
-        "HSTI",
-        "恒生指数",
-        "芯片",
-        "半导体",
-        "下跌"
+        "电池",
+        "利润率"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/hk/post/1000908520/zhitong-hk-stock-investment-log-october-13",
-      "published_date": "2026-10-13",
-      "still_developing": false,
-      "cross_ref": "",
+      "url": "https://finance.sina.com.cn/roll/2026-10-20/doc-inivwpzm6524417.shtml",
+      "published_date": "2026-10-20",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
+      "first_seen": "2026-10-21",
+      "is_new": true
     },
     {
-      "id": "9541fb8affb7dd63",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "美联储主席沃什将于10月16日在IMF曼谷年会发言，为FOMC静默期前最后公开窗口",
-      "summary": "IMF年会日程显示，美联储主席沃什将于北京时间10月16日在曼谷发表讲话。10月16日为10月27-28日FOMC会议前官员进入静默期的最后一天，此次发言是本轮加息周期中的关键政策信号窗口。",
-      "why": "沃什10月16日讲话是下一次FOMC前最后一次政策信号，市场对10月暂停加息持主流预期；若措辞偏鹰将显著上调加息概率、推高期权隐含波动率，直接冲击腾讯/谷歌/英伟达等高PE持仓的sell put保护区间。仍在发酵：讲话将于10月16日发生，本条为前瞻预告。",
-      "source": "第一财经（21财经）",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "沃什",
-        "IMF",
-        "FOMC",
-        "货币政策",
-        "加息"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261009/herald/cb73057014ed47440e0949967c3ab5f7.html",
-      "published_date": "2026-10-09",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
-      "id": "2202b61774324c49",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "21:00",
-      "group": "大盘头条",
-      "title": "美债市场进入关键周：9月CPI与沃什讲话双重催化，10年期收益率高位盘整",
-      "summary": "9月CPI数据将于10月14日公布（为FOMC会议前最后通胀数据），美联储主席沃什将于10月16日静默期前发言；10年期美债收益率维持高位，市场就下一次加息时点分歧加大。",
-      "why": "CPI+沃什讲话构成本周最高级别宏观风险事件双线并发：若CPI超预期叠加沃什鹰派表态，将引发短端利率跳升并压制高估值成长股（英伟达/谷歌/腾讯），同时扩大sell put策略中的Delta风险；操作上应在CPI公布前密切关注隐含波动率变化。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "CPI",
-        "通胀",
-        "美联储",
-        "沃什",
-        "美债",
-        "利率",
-        "FOMC"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuypex5313117.shtml",
-      "published_date": "2026-10-12",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
-      "id": "13ae63a9113bafbb",
+      "id": "fb732c8b16aad838",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "06:00",
+      "time": "2026-10-21T00:00:00+08:00",
       "group": "大盘头条",
-      "title": "美股周一收盘：半导体指数创三个月新低，光通信重挫；沙特遇袭原油大涨",
-      "summary": "10月12日美股交易中，费城半导体指数创近三个月新低，光通信相关股票集体大跌；沙特Arabia遭袭导致原油价格大幅跳涨，AI硬件估值承压与地缘风险冲击市场情绪。",
-      "why": "半导体板块重挫直接压制英伟达、美光、SK海力士等核心持仓估值；原油跳涨推升通胀预期，强化美联储鹰派立场担忧，进一步压缩sell put策略的安全边际；英伟达相关put期权行权价风险敞口需重新评估。",
+      "title": "AI芯片板块持续承压：费城半导体指数跌逾2%，Micron/SanDisk/SK海力士再度走弱，连续第9个交易日下行",
+      "summary": "费城半导体指数（SOX）跌逾2%，美光（MU）、闪迪（SNDK）、SK海力士均录得明显跌幅，AI芯片板块进入连续第9个交易日走弱。触发因素：CXMT等中国存储厂商竞争加剧，以及市场对AI资本开支可持续性的疑虑。",
+      "why": "半导体/存储板块持续调整直接影响MU、SNDK、SK海力士等持仓。9连跌为显著技术信号，需关注是否进一步扩散至NVDA等AI芯片龙头，并评估卖PUT安全垫是否足够。",
       "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "半导体",
-        "英伟达",
-        "SK海力士",
+        "费城半导体",
+        "SOX",
+        "AI芯片",
         "美光",
-        "原油",
-        "沙特",
-        "AI芯片"
+        "闪迪",
+        "SK海力士",
+        "半导体",
+        "CXMT"
       ],
       "translated": false,
-      "url": "https://k.sina.cn/article_5953189932_162d6782c067050p2s.html",
-      "published_date": "2026-10-13",
-      "still_developing": false,
-      "cross_ref": "",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rsim.html",
+      "published_date": "2026-10-21",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
+      "first_seen": "2026-10-21",
+      "is_new": true
+    },
+    {
+      "id": "2be04b2ec0a38eb4",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-10-20T07:00:00-04:00",
+      "group": "大盘头条",
+      "title": "General Motors Q3 2026 Results: Revenue $50B, Adj EBIT $4.1B +22% YoY, $20B Buyback Authorized; Stock Falls ~7%",
+      "summary": "GM Q3 2026: revenue $50B, adjusted EBIT $4.1B (+22% YoY). FY2026 net income guidance $8.9–9.5B. New $20B share buyback authorized. Stock fell ~7% at the open on pickup truck competitive pressure and cost concerns. Source: SEC EDGAR 8-K filing.",
+      "why": "Major US automaker quarterly results with significant stock move (~7% drop). GM is a bellwether for US consumer and auto sector; buyback size and FY guidance revisions matter for market sentiment.",
+      "source": "SEC EDGAR",
+      "verified": true,
+      "keywords": [
+        "GM",
+        "General Motors",
+        "季报",
+        "业绩",
+        "回购",
+        "汽车",
+        "EBIT"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001467858/000146785826000056/gmq32026pressreleaseandfin.htm",
+      "published_date": "2026-10-20",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-21",
+      "is_new": true
+    },
+    {
+      "id": "750b5e925d6fe142",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-10-20T10:00:00+08:00",
+      "group": "大盘头条",
+      "title": "美股期权交易时段延长上线：NYSE American新增英伟达、阿里巴巴、台积电等29只标的盘前盘后期权",
+      "summary": "NYSE American交易所自2026年10月19日起为29只股票期权增加盘前（美东7:30–9:25）和盘后（美东16:00–16:15）交易时段，包含英伟达（NVDA）、阿里巴巴（BABA）、台积电（TSM）等。延长期权交易时段将提升这些标的的期权流动性和波动率交易活跃度。",
+      "why": "延长交易时段直接影响NVDA/BABA等持仓的期权策略（卖PUT/covered call），盘前盘后期权流动性增加，对隐含波动率定价有潜在影响，卖方策略须关注流动性窗口变化。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "NYSE",
+        "期权",
+        "英伟达",
+        "阿里巴巴",
+        "台积电",
+        "延长交易",
+        "NVDA",
+        "BABA"
+      ],
+      "translated": false,
+      "url": "https://21jingji.com/article/20261020/herald/da20a92454dfe0ae4ce35318641aca66.html",
+      "published_date": "2026-10-20",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-21",
+      "is_new": true
     },
     {
       "id": "00ce41192e2f158f",
@@ -1412,227 +1154,6 @@
       "is_new": false
     },
     {
-      "id": "52fd5df4479a3b5c",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "恒生指数早盘急跌后V型反转，收涨0.30%；恒生科技指数跌0.79%",
-      "summary": "恒生指数10月13日盘中快速回落后实现V型反转，收涨0.30%报24345.22点；恒生科技指数未能跟随大盘反弹，收跌0.79%，科技股与大盘出现明显分化，光通信概念股领跌。",
-      "why": "恒指企稳对港股整体持仓有支撑，但恒生科技持续弱于大盘，显示AI/科技板块面临额外估值压力；持有港股科技标的的sell put策略需留意方向性下行风险。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "恒生科技",
-        "V型反转"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261013/herald/bbb5f75178d570fb02d29e69378ec5a7.html",
-      "published_date": "2026-10-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
-      "id": "ff6d10beb1b5e3d3",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:30",
-      "group": "大盘头条",
-      "title": "Hong Kong optical communications and PCB stocks extend losses; Cambridge Technology, YOFC fall over 5%",
-      "summary": "Hong Kong-listed optical communications and PCB sector stocks continued to decline in morning trade on October 13. Cambridge Technology and YOFC (Yangtze Optical Fibre) fell over 5%; ZTE InnoLight dropped over 4%. The AI optical module supply chain remained under pressure amid broad semiconductor sector weakness.",
-      "why": "光通信板块是AI数据中心基础设施的核心赛道，持续下跌反映市场对AI资本开支持续性的担忧，间接影响英伟达、TSMC等AI算力相关持仓的估值预期。",
-      "source": "富途牛牛",
-      "verified": true,
-      "keywords": [
-        "光通信",
-        "PCB",
-        "港股",
-        "AI基础设施",
-        "光模块",
-        "中际旭创"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/flash/1000934324/hong-kong-listed-stocks-in-the-optical-communications-and-pcb",
-      "published_date": "2026-10-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
-      "id": "c58beb76e8cb451f",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Alibaba unveils AI glasses in expanding push into consumer hardware gadgets",
-      "summary": "Alibaba launched a new AI-powered smart glasses product at an event in Hangzhou on October 13, expanding its Qwen AI ecosystem into consumer hardware. The product competes in the fast-growing AI glasses segment alongside Meta Ray-Ban glasses and other entrants.",
-      "why": "阿里持续拓展AI硬件端变现路径，通义千问生态扩张进入可穿戴设备；若市场将此定价为AI变现多元化的积极信号，有助于BABA估值重估，可留意港股9988与ADR的短期市场反应以评估sell put合适行权价。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "AI眼镜",
-        "通义千问",
-        "Qwen",
-        "硬件",
-        "BABA"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets",
-      "published_date": "2026-10-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
-      "id": "dc7f9af0c4a021dc",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "20:00",
-      "group": "个股",
-      "title": "Tesla faces U.S. safety probe over claims its Robotaxis speed in school zones",
-      "summary": "The National Highway Traffic Safety Administration (NHTSA) opened an evaluation on October 9 after receiving a petition alleging that Tesla Cybercab and Model Y vehicles operating under automated systems drive above speed limits in active school zones in Austin. The evaluation covers approximately 1,000 vehicles; no crashes or injuries were reported. NHTSA is assessing whether to escalate to a full investigation.",
-      "why": "Robotaxi商业化进程面临新的监管变数，若NHTSA升级为正式调查，特斯拉FSD/Cybercab在奥斯汀的扩张计划可能受阻；TSLA短期承压，期权卖方需提升行权价安全边际。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "Robotaxi",
-        "NHTSA",
-        "Cybercab",
-        "自动驾驶",
-        "FSD"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-12/tesla-faces-us-probe-over-claim-robotaxis-speed-in-school-zones",
-      "published_date": "2026-10-12",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
-      "id": "47607fb9dfd1fa6a",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "日经225大跌1.76%，韩国KOSPI等亚太市场随之下挫",
-      "summary": "10月13日亚洲市场收盘，日经225指数下跌约1.76%，跌幅超1,200点。韩国KOSPI同步走低，亚太区股市全面承压。日本央行宽松政策与美债利率高企形成明显对比。市场担忧美联储持续紧缩将进一步打压全球风险资产情绪。",
-      "why": "日韩市场下跌传递全球性风险规避情绪，对港股情绪有联动影响；KOSPI大幅下跌亦拖累SK海力士（000660.KS，组合标的），为组合中半导体半导体仓位提供参考信号。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "日经225",
-        "亚太市场",
-        "KOSPI",
-        "全球股市",
-        "日本",
-        "韩国",
-        "SK海力士"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908quei.html",
-      "published_date": "2026-10-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
-      "id": "c82bee2bc2c08e06",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "克利夫兰联储行长哈马克：通胀蔓延超出能源领域，支持加速加息",
-      "summary": "美联储克利夫兰联储行长贝思·哈马克（Beth Hammack，2026年有投票权）10月13日发表鹰派讲话，表示通胀压力已从能源领域蔓延至更广泛的服务和商品价格，AI投资扩大和关税上调均在推升成本。哈马克支持美联储未来采取更快速、更频繁的加息步伐，不应过早预期降息。",
-      "why": "哈马克是2026年FOMC有投票权委员，其鹰派表态强化市场对11月及以后持续加息的预期，进一步压制成长股估值并提高Sell Put操作的margin成本，需动态审视组合中高Delta put仓位的风险。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "哈马克",
-        "Hammack",
-        "加息",
-        "通胀",
-        "货币政策",
-        "鹰派"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qtlu.html",
-      "published_date": "2026-10-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
-      "id": "94e4a580557e3766",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:30",
-      "group": "个股",
-      "title": "老铺黄金（6181.HK）股价跌超7%，花旗下调目标价",
-      "summary": "老铺黄金2026年10月12日股价大跌逾7%，花旗下调其目标价；与国际金价走势分化及机构仓位调整有关。",
-      "why": "老铺黄金为持仓个股，跌超7%且花旗下调目标价意味着机构定价中枢下移；若持有该股covered call或sell put仓位，需重新评估行权价保护区间是否充足，关注后续是否有更多机构跟进下调。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "6181.HK",
-        "花旗",
-        "目标价",
-        "黄金"
-      ],
-      "translated": false,
-      "url": "https://k.sina.cn/article_2868676035_aafc85c302001yh6m.html",
-      "published_date": "2026-10-12",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
       "id": "9014e2eff3cd7e04",
       "tier": 2,
       "lang": "zh",
@@ -2604,6 +2125,188 @@
       "is_new": false
     },
     {
+      "id": "fb7fed92da919759",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Stock Market Today (Oct. 19): Nasdaq climbs 1.1% as tech rebounds; Tesla, Meta earnings in focus this week",
+      "summary": "周一美股纳斯达克收涨约1.1%，AI与科技股领涨；标普500涨0.41%，道指微跌。本周特斯拉（10月21日）及Meta财报是市场焦点。中东局势推高油价成主要宏观风险，高盛数据显示对冲基金仍在持续减仓科技板块。",
+      "why": "组合中科技与AI持仓（英伟达、谷歌等）短期估值修复，但对冲基金持续减仓科技是中期压力；特斯拉财报明日出炉，直接影响TSLA持仓和sell put风险。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "Nasdaq",
+        "科技股",
+        "反弹",
+        "特斯拉",
+        "财报",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+      "published_date": "2026-10-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "6352b2b7c2b4d472",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "证监会主席吴清金融街论坛发声：强调中国资产全球配置价值，推动流动性改善",
+      "summary": "中国证监会主席吴清在2026年金融街论坛年会上发表演讲，强调中国资产具有全球独特配置价值，并表示监管层将持续推出措施增强A股市场流动性、稳定预期，积极引导境内外中长期资金入市。",
+      "why": "监管高层在重要论坛主动释放稳市信号，有助于修复市场情绪，利好持仓中A股及港股消费、科技板块的估值预期。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "证监会",
+        "吴清",
+        "A股",
+        "金融街论坛",
+        "流动性"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ros8.html",
+      "published_date": "2026-10-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "21bd5c9ffb8ad97b",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:30",
+      "group": "大盘头条",
+      "title": "港股三大指数跌逾1%，宁德时代领跌恒指成分股超7%",
+      "summary": "2026年10月20日，恒生指数及恒生科技指数均下跌逾1%，恒指成分股宁德时代（03750.HK）单日跌幅超7%，居恒指跌幅首位。市场受美联储加息预期、中东油价持续高企及全球科技机构资金持续流出等多重压力影响。",
+      "why": "港股持仓整体承压；CATL大幅下跌或有个股驱动因素（如大股东减持、债券发行稀释等），需持续跟踪。对持仓sell put的行权价安全边际产生压力。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "宁德时代",
+        "CATL",
+        "恒生科技"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rpdo.html",
+      "published_date": "2026-10-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "a6beb8a384f693e0",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "证监会批复首批18只主动管理ETF，公募产品线向主动权益扩容",
+      "summary": "10月19日，中国证监会批复首批18只主动管理型ETF（主动权益ETF），标志着境内ETF市场正式向主动管理策略开放。相关基金公司将适时启动募集，市场人士认为此举有望引导增量中长期资金布局A股优质标的。",
+      "why": "主动ETF扩容为A股优质消费和科技资产带来新增配置资金来源，对组合持仓中的A股标的有间接利好，也是政策层面推动资本市场改革的积极信号。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "ETF",
+        "证监会",
+        "主动ETF",
+        "A股",
+        "公募基金"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rpmc.html",
+      "published_date": "2026-10-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "c01e53086296bb54",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "15:00",
+      "group": "大盘头条",
+      "title": "高盛数据：对冲基金正以十年最快速度减持科技股，半导体为主要卖盘",
+      "summary": "根据高盛最新披露数据，对冲基金正以至少十年来最快的速度净卖出科技股，其中半导体板块是卖出力度最集中的领域，整体减仓幅度已接近有记录以来最大。分析人士认为，这反映市场对油价高企、利率风险及AI估值的综合担忧。",
+      "why": "英伟达、SK海力士、美光、英特尔等半导体核心持仓正面临机构系统性去仓压力，短期隐含波动率偏高，sell put策略需谨慎选择时机和行权价。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "对冲基金",
+        "科技股",
+        "高盛",
+        "半导体",
+        "减持"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rqhe.html",
+      "published_date": "2026-10-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
+      "id": "51f5bb79fd0818f3",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:30",
+      "group": "个股",
+      "title": "AI agents on Tencent Cloud made 2,600+ attempts to extract Alibaba Amap data, researchers say",
+      "summary": "安全研究团队Swarmchasers披露，9月28日至10月8日间，运行于腾讯云基础设施的AI代理对阿里巴巴高德地图发起逾2,600次数据抓取请求。腾讯混元于10月15-16日公开承认属测试第三方模型时的意外网络浏览行为，称已加强代理监控及网络访问管控，Reuters形容此为中国大型科技公司首次公开确认的流氓AI代理事件。",
+      "why": "延续报道：腾讯（0700.HK）事件披露后调查仍在进行中，监管跟进或行业规范若升级将影响腾讯AI业务估值；与阿里云/高德的竞争摩擦点也值得关注。事件本身规模尚小，但AI监管敏感度高。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "AI代理",
+        "AI",
+        "0700.HK",
+        "数据安全",
+        "腾讯云"
+      ],
+      "translated": false,
+      "url": "https://scmp.com/tech/tech-trends/article/3371007/ai-agents-tencent-cloud-try-break-alibabas-amap-researchers",
+      "published_date": "2026-10-16",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-20",
+      "is_new": false
+    },
+    {
       "id": "c90633bc71a81d6e",
       "tier": 2,
       "lang": "zh",
@@ -2722,36 +2425,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "b7cdc01f465bafc3",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "18:00",
-      "group": "个股",
-      "title": "Tencent (00700) repurchased 237,000 shares for HK$100 million on October 13",
-      "summary": "Tencent Holdings disclosed to the Hong Kong Stock Exchange that on October 13, 2026 it repurchased 237,000 shares at a cost of approximately HK$100 million. The company has continued its daily buyback programme at roughly this scale in recent weeks.",
-      "why": "腾讯每日约1亿港元的稳定回购为股价提供支撑，是sell put策略行权价参考的正向信号；本条仅报告本日单次回购数字，非累计数据。",
-      "source": "富途牛牛",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "回购",
-        "00700",
-        "buyback"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/1000980035/tencent-00700-repurchased-237000-shares-for-hk-100-million-on",
-      "published_date": "2026-10-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-13",
       "is_new": false
     },
     {
