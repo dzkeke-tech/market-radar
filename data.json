@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-21 18:14 (北京时间)",
+  "updated_at": "2026-10-22 08:22 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,45 +9,109 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-21 18:14 (北京时间)",
-    "new_count": 2,
+    "at": "2026-10-22 08:22 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "5b365e6efd073218",
+      "id": "e129462430345619",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08:30",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "SpaceX and Tesla Boards Form Special Committees to Explore Merger; Musk Calls Tie-Up a 'Good Idea'",
-      "summary": "Elon Musk confirmed on SpaceX's Q3 2026 earnings call (Oct. 20) that both companies' boards have formed independent special committees to explore a potential merger, with Musk recusing himself as a conflicted party. No terms have been agreed and no guarantee of a deal. The combined entity would be worth roughly $3.5 trillion, the largest corporate tie-up in history if completed. SpaceX shares surged ~10% in premarket trading.",
-      "why": "特斯拉(TSLA)持仓关键事件：并购讨论正式化将推升TSLA和SPCX短期隐含波动率，sell put的行权区间风险需重新评估；若并购最终落地将是史上最大规模企业重组，估值重估幅度巨大；同时SpaceX Q3业绩超预期、AI营收激增也利好市场情绪。",
+      "title": "Meta Q3 2026营收646亿美元同比+26%超预期，Q4指引730-760亿美元",
+      "summary": "Meta第三季度营收646.01亿美元(同比+26%)，超市场预期约633亿美元；广告展示量+10%、单价+14%；含99亿美元多州检察长和解费用后GAAP营业利润降至约130亿美元。Q4收入指引730-760亿美元大幅超预期，2026年资本支出指引上调至1350-1450亿美元。",
+      "why": "广告业务强劲叠加Q4大超预期指引，拉动美股科技板块情绪向好；AI基础设施持续扩张对英伟达等持仓构成正面催化；关注科技大盘整体隐含波动率变化对卖出期权策略的影响。",
       "source": "CNBC",
-      "verified": true,
+      "verified": false,
       "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "马斯克",
-        "Musk",
-        "自动驾驶"
+        "Meta",
+        "美股",
+        "财报",
+        "广告",
+        "AI"
       ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
       "published_date": "2026-10-21",
-      "still_developing": true,
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-21",
+      "first_seen": "2026-10-22",
       "is_new": true
     },
     {
-      "id": "226b4645e5aa4622",
+      "id": "378d3748a229a8de",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "20:00",
+      "group": "大盘头条",
+      "title": "SpaceX Q3 2026营收146亿美元首次录得净利44亿美元，AI超算业务76亿美元首超星链",
+      "summary": "SpaceX第三季度总营收约146亿美元(同比+161%)，远超市场预期约127亿美元；AI/超级智能(SI)业务营收约76亿美元(同比约增9倍)，首次超越星链业务约52亿美元成最大营收来源；净利润44亿美元，为公司史上首次盈利。Q3资本支出约196亿美元，Q4预计350-400亿美元。",
+      "why": "SpaceX AI算力业务爆发性增长重燃市场AI叙事，推动美股科技板块走强；AI数据中心需求加速信号对英伟达（NVDA）等AI芯片持仓构成直接正面催化；警惕超预期指引引发波动率收窄影响covered call策略时机。",
+      "source": "SpaceX官方IR",
+      "verified": false,
+      "keywords": [
+        "SpaceX",
+        "AI",
+        "美股",
+        "科技",
+        "英伟达",
+        "NVDA"
+      ],
+      "translated": true,
+      "url": "https://s21.q4cdn.com/184289198/files/content_files/SpaceX-Reports-Third-Quarter-2026-Results.pdf",
+      "published_date": "2026-10-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-22",
+      "is_new": true
+    },
+    {
+      "id": "78e710901193bfc9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "美股10月21日三大指数全线上涨，纳斯达克中国金龙指数跌超3%；阿里、拼多多跌超4%",
+      "summary": "美股10月21日收盘：道指涨0.69%报52856点，标普涨0.58%报7757点，纳指涨1.05%报26702点，科技股受SpaceX与Meta业绩驱动走强。但纳斯达克中国金龙指数跌超3%，中概股集体回调，阿里巴巴、京东、拼多多跌超4%，小鹏集团跌超6%。",
+      "why": "中概股与美股大市走势严重分化，关注中美政策预期对BABA、PDD等中概持仓期权仓位的影响；中概股隐含波动率或上升，需评估现有卖出Put策略的保护空间是否充足。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "中概股",
+        "美股",
+        "纳斯达克",
+        "阿里巴巴",
+        "BABA",
+        "拼多多",
+        "PDD",
+        "小鹏"
+      ],
+      "translated": false,
+      "url": "https://k.sina.cn/article_5953466437_162dab0450670bfm1e.html",
+      "published_date": "2026-10-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-22",
+      "is_new": true
+    },
+    {
+      "id": "98027c193fea63b5",
       "tier": 2,
       "lang": "zh",
       "markets": [
@@ -56,184 +120,27 @@
       ],
       "time": "09:00",
       "group": "大盘头条",
-      "title": "国资委筹备组建国家数据集团央企即将挂牌，数据要素板块港股A股走强",
-      "summary": "据中国证券报和财联社报道，国资委正筹备组建新央企国家数据集团，消息称近日将正式挂牌成立，主要职责为整合能源、交通、金融、医疗等领域数据资产、打破数据孤岛、构建统一数据要素市场。消息催化A股及港股数据要素、物理AI相关概念股走强。",
-      "why": "国家数据集团的成立将打造全国统一数据要素市场，有助于腾讯云、阿里云、AI基础设施等数字经济相关持仓标的的中长期估值；港股物理AI概念股受政策预期驱动，可关注相关标的短期波动机会。",
-      "source": "新浪财经",
+      "title": "港股10月21日恒生指数跌0.9%收23651点；恒科指跌1.3%，A股沪指跌约0.6%",
+      "summary": "港股10月21日收市：恒生指数收报23651.87点，跌215.87点（约0.9%）；恒生科技指数跌约1.3%收3994.77点，科技成长板块承压。A股方面，上证综指跌约0.6%报约3713点，与港股同步走弱。恒指期货报23602点，低水约50点。",
+      "why": "港股及A股科技股同步下跌，夜期低水暗示开盘情绪偏弱；恒科指跌幅大于恒指整体，对持有港股科技成分股相关期权需警惕短期跌势蔓延，卖出期权策略需关注日内波动扩大风险。",
+      "source": "智通财经",
       "verified": false,
       "keywords": [
-        "数据",
-        "AI",
-        "腾讯",
-        "阿里巴巴",
-        "Alibaba",
-        "阿里云"
+        "恒生指数",
+        "港股",
+        "A股",
+        "上证指数",
+        "恒生科技",
+        "科技股"
       ],
       "translated": false,
-      "url": "https://finance.sina.cn/fund/etf/2026-10-19/detail-inivtuet6948412.d.html",
-      "published_date": "2026-10-19",
-      "still_developing": true,
+      "url": "https://hk.investing.com/news/stock-market-news/article-1710206",
+      "published_date": "2026-10-22",
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-21",
+      "first_seen": "2026-10-22",
       "is_new": true
-    },
-    {
-      "id": "00ce41192e2f158f",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "美国9月CPI今日（10月14日）公布：市场共识同比涨3.6%，能源价格为主要推手",
-      "summary": "美国劳工统计局于美东时间10月14日08:30发布9月CPI数据，市场共识预期同比上涨3.6%（高于8月3.4%），核心CPI预期2.4%；能源与交通成本上涨是主要驱动力。数据将直接影响美联储10月28日议息会议走向。当前联邦基金利率目标区间为3.75%-4.00%，现任主席Kevin Warsh。",
-      "why": "通胀数据若高于预期，将提升10月加息概率，推高美债收益率，压制成长股估值，并影响持仓期权的隐含波动率；sell put策略需评估是否提高行权价保护。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "CPI",
-        "通胀",
-        "美联储",
-        "加息",
-        "Kevin Warsh",
-        "利率",
-        "美债"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
-      "published_date": "2026-10-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-14",
-      "is_new": false
-    },
-    {
-      "id": "0a41c36e32d1e893",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US",
-        "A"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "中国9月出口激增36.3%，集成电路出口暴涨136%至449亿美元",
-      "summary": "中国海关总署数据：9月出口4471.8亿美元（+36.3% YoY），进口3136.5亿美元（+31%），贸易顺差1335亿美元。集成电路出口449.51亿美元（+136%），汽车出口+62%，均大幅超预期。",
-      "why": "集成电路出口136%暴涨反映AI算力供应链中国份额加速扩大，利好A股半导体及港股科技板块；超预期贸易顺差强化人民币韧性，为港股估值扩张提供宏观支撑；汽车出口激增支撑特斯拉上海工厂出货前景。",
-      "source": "路透社",
-      "verified": true,
-      "keywords": [
-        "半导体",
-        "出口",
-        "贸易顺差",
-        "集成电路",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.brecorder.com/news/40444136/chinas-exports-surge-363-yy-in-september-imports-up-31",
-      "published_date": "2026-10-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-14",
-      "is_new": false
-    },
-    {
-      "id": "gs-q3-2026-earnings-beat",
-      "tier": 1,
-      "group": "大盘头条",
-      "title": "高盛Q3业绩大超预期：EPS $17.01，营收$18.68B同比增23%",
-      "summary": "高盛2026年Q3每股收益$17.01，远超分析师约$13共识（约高出31%），营收$18.68B同比增长23%。投行手续费收入与资产管理业务双双强劲反弹。财报发布后股价盘前涨约3%，金融板块情绪明显提振。",
-      "why": "高盛是美国大行中Q3首个公布业绩的主要投资银行，超预期幅度为近年最大，对金融板块隐含波动率（IV）有直接影响，亦是美国经济软着陆预期的代理指标之一。",
-      "source": "CNBC",
-      "url": "https://cnbc.com/2026/10/13/bank-earnings-live-updates.html",
-      "published_date": "2026-10-13",
-      "verified": true,
-      "markets": [
-        "US"
-      ],
-      "keywords": [
-        "高盛",
-        "Goldman Sachs",
-        "GS",
-        "Q3业绩",
-        "美国银行财报",
-        "投行"
-      ],
-      "translated": false,
-      "lang": "zh",
-      "time": "08:34",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-14",
-      "is_new": false
-    },
-    {
-      "id": "us-cpi-sep-2026-release",
-      "tier": 1,
-      "group": "大盘头条",
-      "title": "美国9月CPI今日公布，界面/第一财经报道数据超预期",
-      "summary": "美国劳工部于北京时间10月14日20:30发布9月CPI数据，为美联储10月27-28日议息会议前最后一项关键通胀数据。市场原预期同比3.6-3.7%。界面新闻、第一财经标题均含'超预期'字样，暗示实际数据高于共识预期。具体数字待核实后更新。",
-      "why": "美联储10月议息会议（10月27-28日）前最后一组通胀数据，CPI超预期将强化暂停降息预期，对利率敏感型资产（科技股、REITs、长债）有直接压制作用。",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-10-14/doc-inivctrq0494640.shtml",
-      "published_date": "2026-10-14",
-      "verified": false,
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "keywords": [
-        "美国CPI",
-        "通胀",
-        "美联储",
-        "议息",
-        "宏观",
-        "CPI超预期"
-      ],
-      "translated": false,
-      "lang": "zh",
-      "time": "08:34",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-14",
-      "is_new": false
-    },
-    {
-      "id": "kospi-chip-selloff-cxmt-oct2026",
-      "tier": 1,
-      "group": "大盘头条",
-      "title": "韩国KOSPI芯片股连续第五日下挫，SK海力士跌逾6%，中芯存储CXMT技术进展引发恐慌",
-      "summary": "韩国综合指数KOSPI 10月13日下跌约5.5%，连续第五个交易日收跌。SK海力士（000660）跌幅达6-10%，三星电子亦承压。导火索为中国存储芯片厂商CXMT（长鑫存储）技术进展消息，市场担忧韩系DRAM/HBM业务受到冲击；Broadcom相关评论亦加剧情绪下行。",
-      "why": "SK海力士是持仓标的（关键词库命中），同时全球存储芯片供应格局若发生变化，将直接影响HBM/DRAM定价预期，对我司持仓的SK海力士相关产品（南方两倍做多等）波动率影响显著。",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-13/korean-chip-stocks-sink-on-chinese-rival-worry-broadcom-remarks",
-      "cross_ref": "",
-      "published_date": "2026-10-13",
-      "verified": false,
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "KOSPI",
-        "CXMT",
-        "长鑫存储",
-        "存储芯片",
-        "DRAM",
-        "HBM",
-        "韩股"
-      ],
-      "translated": false,
-      "lang": "zh",
-      "time": "08:34",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-10-14",
-      "is_new": false
     },
     {
       "id": "f852f415d2fed9c8",
@@ -1094,6 +1001,37 @@
       "is_new": false
     },
     {
+      "id": "5b365e6efd073218",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "SpaceX and Tesla Boards Form Special Committees to Explore Merger; Musk Calls Tie-Up a 'Good Idea'",
+      "summary": "Elon Musk confirmed on SpaceX's Q3 2026 earnings call (Oct. 20) that both companies' boards have formed independent special committees to explore a potential merger, with Musk recusing himself as a conflicted party. No terms have been agreed and no guarantee of a deal. The combined entity would be worth roughly $3.5 trillion, the largest corporate tie-up in history if completed. SpaceX shares surged ~10% in premarket trading.",
+      "why": "特斯拉(TSLA)持仓关键事件：并购讨论正式化将推升TSLA和SPCX短期隐含波动率，sell put的行权区间风险需重新评估；若并购最终落地将是史上最大规模企业重组，估值重估幅度巨大；同时SpaceX Q3业绩超预期、AI营收激增也利好市场情绪。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "马斯克",
+        "Musk",
+        "自动驾驶"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "published_date": "2026-10-21",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-21",
+      "is_new": false
+    },
+    {
       "id": "1b720bc53c9773a2",
       "tier": 1,
       "lang": "zh",
@@ -1184,163 +1122,6 @@
       "published_date": "2026-10-21",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-21",
-      "is_new": false
-    },
-    {
-      "id": "9014e2eff3cd7e04",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "港股收盘（10月14日）：恒指跌0.13%报24314.17点，科技指数涨0.91%，美团涨超6%领升蓝筹",
-      "summary": "10月14日香港股市收盘：恒生指数跌0.13%（-31.05点）至24314.17点，全日成交额1934.75亿港元；恒生科技指数涨0.91%（+37.84点）至4174.47点；科网股活跃，美团-W（03690）涨逾6%领升蓝筹，乳业板块强势；生物医药及光通信板块下挫。",
-      "why": "港股整体小跌但科技独立上行，显示资金选择性流入科技消费；美团单日涨超6%需关注是否有期权套利机会；成交额偏低（约1935亿港元），可观察是否有持续放量信号。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "恒生科技指数",
-        "美团",
-        "科网股",
-        "收盘"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-14/doc-iniveqvq4522802.shtml",
-      "published_date": "2026-10-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-14",
-      "is_new": false
-    },
-    {
-      "id": "68f31340cc6149aa",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "淘宝天猫2026双11预售明日（10月15日）正式启动，京东已开启现货售卖",
-      "summary": "天猫与淘宝定于10月15日（周四）晚8点开启双11预售，活动持续至11月11日，天猫及京东同日举行2026双11新闻发布会；京东已抢先于10月12日开启全品类现货售卖。双11大促正式拉开序幕，阿里电商消费数据将成为重要跟踪指标。",
-      "why": "双11是衡量中国消费复苏力度的重要风向标；阿里（9988.HK/BABA）、京东等平台的GMV数据将影响电商股走势，并可能为蜜雪冰城等消费品牌的期权估值提供参考。注：发布日期根据内容（提及'明日10月15日'）判断为2026-10-14，未在URL中找到明确时间戳。",
-      "source": "格隆汇",
-      "verified": false,
-      "keywords": [
-        "双十一",
-        "淘宝",
-        "天猫",
-        "阿里巴巴",
-        "电商",
-        "促销",
-        "消费"
-      ],
-      "translated": false,
-      "url": "https://m.gelonghui.com/live/2706352",
-      "published_date": "2026-10-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-14",
-      "is_new": false
-    },
-    {
-      "id": "4ec6a6017848d259",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "中国下调新能源车出口退税率至9%，2027年4月起生效",
-      "summary": "财政部宣布将新能源汽车出口退税率由13%下调至9%，2027年4月1日起实施。该政策将压缩国内新能源车企出口利润空间约4个百分点。",
-      "why": "特斯拉上海工厂大量出口欧洲，退税率下调直接增加其单车出口成本；小米SU7/YU7出海逻辑短期承压；比亚迪等出口导向车企成本结构受影响。政策生效在2027Q2，当前影响为预期层面，仍需关注车企调价应对策略。",
-      "source": "格隆汇",
-      "verified": true,
-      "keywords": [
-        "新能源汽车",
-        "出口退税",
-        "特斯拉",
-        "小米",
-        "政策"
-      ],
-      "translated": false,
-      "url": "https://m.gelonghui.com/live/2706467",
-      "published_date": "2026-10-12",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-14",
-      "is_new": false
-    },
-    {
-      "id": "66c961ae3f3bba5d",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "美联储官员暗示10月27-28日会议或暂停加息，当前利率3.75%-4.00%",
-      "summary": "纽约联储主席Williams（10月13日）表示年内再加息属合理，但并非10月紧迫；联储理事Waller称当前收益率上行已在替代加息效果，市场隐含10月加息概率约20-25%。",
-      "why": "高利率环境对美股估值持续施压，尤其影响高PE科技股（英伟达、谷歌）；港股港元联系汇率制度下HIBOR随联储政策联动，关注互联网券商（富途）净息差变化；Circle（USDC）持有美国短债收益直接受益于高利率延续。",
-      "source": "华尔街见闻",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "加息",
-        "利率",
-        "宏观",
-        "货币政策"
-      ],
-      "translated": false,
-      "url": "https://wallstreetcn.com/articles/3690870",
-      "published_date": "2026-10-13",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-14",
-      "is_new": false
-    },
-    {
-      "id": "us-bank-q3-earnings-mixed-2026",
-      "tier": 2,
-      "group": "大盘头条",
-      "title": "美国大行Q3财报分化：摩根大通罕见失利，花旗超预期",
-      "summary": "摩根大通Q3 EPS $5.57（含证券损失$0.18/股），低于市场共识$5.93，为罕见未达预期；花旗集团小幅超预期；富国银行营收略低于预期；美国银行盘后披露遭财政部罚款$12亿美元（AML/制裁违规），预计冲减每股约$0.17。大行财报分化加大板块内轮动。",
-      "why": "大行Q3财报集中披露是每季度金融板块的重要催化剂，摩根大通罕见失利（在过去16个季度中未见）引发市场对贷款利差收窄及费用上升的担忧，同日美国银行巨额监管罚款则是独立风险事件。",
-      "source": "CNBC",
-      "url": "https://cnbc.com/2026/10/13/bank-earnings-live-updates.html",
-      "published_date": "2026-10-13",
-      "verified": true,
-      "markets": [
-        "US"
-      ],
-      "keywords": [
-        "摩根大通",
-        "JPMorgan",
-        "花旗",
-        "Citigroup",
-        "富国银行",
-        "Wells Fargo",
-        "美国银行",
-        "Q3财报",
-        "大盘头条"
-      ],
-      "translated": false,
-      "lang": "zh",
-      "time": "08:34",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-14",
       "is_new": false
     },
     {
@@ -2461,6 +2242,38 @@
       "is_new": false
     },
     {
+      "id": "226b4645e5aa4622",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "国资委筹备组建国家数据集团央企即将挂牌，数据要素板块港股A股走强",
+      "summary": "据中国证券报和财联社报道，国资委正筹备组建新央企国家数据集团，消息称近日将正式挂牌成立，主要职责为整合能源、交通、金融、医疗等领域数据资产、打破数据孤岛、构建统一数据要素市场。消息催化A股及港股数据要素、物理AI相关概念股走强。",
+      "why": "国家数据集团的成立将打造全国统一数据要素市场，有助于腾讯云、阿里云、AI基础设施等数字经济相关持仓标的的中长期估值；港股物理AI概念股受政策预期驱动，可关注相关标的短期波动机会。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "数据",
+        "AI",
+        "腾讯",
+        "阿里巴巴",
+        "Alibaba",
+        "阿里云"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.cn/fund/etf/2026-10-19/detail-inivtuet6948412.d.html",
+      "published_date": "2026-10-19",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-21",
+      "is_new": false
+    },
+    {
       "id": "831635457f5884cc",
       "tier": 2,
       "lang": "zh",
@@ -2672,38 +2485,6 @@
       "published_date": "2026-10-20",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-21",
-      "is_new": false
-    },
-    {
-      "id": "53261a7ee5bea5a0",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "腾讯元器平台将于11月9日全面停服，旗下第一代通用智能体平台进入收缩期",
-      "summary": "腾讯旗下元器智能体创建平台于10月8日发布公告，宣布因业务调整将于2026年11月9日全面停服；10月29日起停止创建新智能体及分发API Key，对接公众号等外部渠道的智能体届时也将停止响应。用户数据过渡期至2027年1月9日。腾讯云ADP及公众号智能回复作为替代方案。",
-      "why": "腾讯元器收缩反映第一代通用智能体平台商业模式承压，行业正向更专业化的Agent方向演进；对腾讯（0700.HK）整体AI战略影响有限，但可作为观察AI产品迭代节奏的参考指标。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "元器",
-        "AI智能体",
-        "Agent",
-        "停服",
-        "腾讯云"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-12/detail-iniuxmtr7248273.d.html",
-      "published_date": "2026-10-12",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-14",
       "is_new": false
     },
     {
