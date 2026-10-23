@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-23 08:13 (北京时间)",
+  "updated_at": "2026-10-23 13:14 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,125 +9,71 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-23 08:13 (北京时间)",
-    "new_count": 6,
+    "at": "2026-10-23 13:14 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "7e6736c317ce4044",
+      "id": "05488b4c9e64fb08",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
+        "US",
+        "HK",
+        "A"
       ],
       "time": "22:00",
       "group": "大盘头条",
-      "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
-      "summary": "Meta Q3 2026 revenue rose 26% YoY to $64.6B, beating estimates of ~$63.4B. Full-year 2026 capex guidance raised to $135–145B (from $130–145B). Free cash flow turned negative amid surging AI infrastructure spend. Stock fell ~7% after hours.",
-      "why": "Meta是AI资本开支风向标；FCF转负、capex持续上调触发本轮科技股重估；短期期权隐含波动率上升，sell put需谨慎；Q4指引$73–76B为下季度预期锚定。",
-      "source": "CNBC",
+      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+      "summary": "Wall Street's Philadelphia Semiconductor Index posted its biggest single-day decline since June on Oct 22, dragging the Nasdaq down more than 2.5%. Asian markets followed: South Korea's Kosdaq fell roughly 3.5%, Japan's Nikkei lost 1.4%, while China's CSI 300 extended its slide into technical bear-market territory (down more than 20% from recent highs). Bitcoin retreated to around $82,000 alongside the broader risk-off move.",
+      "why": "AI投资回报疑虑再度引爆全球芯片股抛售，A股/港股/美股科技持仓同步承压；隐含波动率(IV)急升，持有科技股short put仓位需密切关注行权价下行风险；比特币同步回调印证风险情绪全面收缩",
+      "source": "CoinDesk",
       "verified": true,
       "keywords": [
-        "Meta",
-        "AI capex",
-        "free cash flow",
-        "earnings",
-        "Q3 2026"
+        "semiconductor",
+        "chip stocks",
+        "Nasdaq",
+        "Kosdaq",
+        "CSI 300",
+        "bear market",
+        "Bitcoin",
+        "AI spending"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+      "url": "https://coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
       "published_date": "2026-10-22",
-      "still_developing": false,
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-23",
       "is_new": true
     },
     {
-      "id": "822e95abc09bbab7",
+      "id": "62faa5a81f0089fe",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "新浪美股热点小时报丨2026年10月23日：美股科技股大跌，纳指跌逾2%创6月以来最惨单日",
-      "summary": "受市场对人工智能公司资本开支回报疑虑加剧，叠加地缘政治推升油价，纳斯达克综合指数22日收跌约2%，创6月以来最差单日表现，科技股普遍走弱。",
-      "why": "科技股全面回调，持仓中腾讯、阿里、美团港股联动压力加大；美股AI资本开支叙事重估是本轮下跌核心逻辑；后续关注Q3财报季能否提振信心。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "美股",
-        "纳指",
-        "AI资本开支",
-        "科技股",
-        "大跌"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s1yi.html",
-      "published_date": "2026-10-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": true
-    },
-    {
-      "id": "f4926b890d275123",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "新浪半导体热点小时报丨2026年10月23日：费城半导体指数重挫逾5%，泛林集团领跌约10%",
-      "summary": "10月22日美股中，费城半导体指数大跌逾5%。泛林集团（Lam Research）因下季度业绩指引未达市场较高预期，单日股价跌幅约10%，拖累芯片板块。",
-      "why": "SK海力士、美光、英伟达联动受压；泛林集团指引下修是HBM/存储供应链的重要参考，需关注对SK海力士10月29日Q3财报的预期影响；半导体ETF期权波动率抬升。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "费城半导体指数",
-        "泛林集团",
-        "Lam Research",
-        "半导体",
-        "芯片"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s2ag.html",
-      "published_date": "2026-10-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": true
-    },
-    {
-      "id": "4acf956921963b1a",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
+        "A"
       ],
       "time": "09:00",
       "group": "大盘头条",
-      "title": "新浪财经热点小时报丨2026年10月23日：地缘紧张推升国际油价，布伦特原油涨约2.56%",
-      "summary": "受地缘政治紧张态势影响，布伦特原油22日上涨约2.56%，升至111美元/桶附近，通胀预期再度升温，成为美联储10月28日会议决策的新变量。",
-      "why": "油价走高加剧通胀担忧，加大美联储维持高利率的概率；对消费及科技股估值构成间接压力；需关注美联储10月28日会议是否超预期行动。",
+      "title": "A股三大指数集体下跌 创业板指跌4.37% 成长股承压",
+      "summary": "10月22日A股三大指数集体下跌：上证指数跌1.48%，深证成指跌2.96%，创业板指跌4.37%。沪深两市成交约1.5万亿元，近5000只个股下跌，成长/科技方向跌幅明显大于大盘蓝筹。市场人士指出，美国10年期国债收益率高位运行持续压制科技成长股，但部分行业龙头三季报盈利仍在增长，估值已进入合理区间。",
+      "why": "A股成长股大幅调整，科技/消费持仓面临压力；创业板-4.37%在统计上触发短期超卖信号，sell put投资者需评估是否存在被行权风险；下方支撑位值得关注",
       "source": "新浪财经",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "油价",
-        "布伦特",
-        "地缘政治",
-        "通胀",
-        "美联储"
+        "A股",
+        "上证指数",
+        "创业板",
+        "科技股",
+        "成长股",
+        "美债收益率"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s26k.html",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s20a.html",
       "published_date": "2026-10-23",
       "still_developing": false,
       "cross_ref": "",
@@ -136,60 +82,64 @@
       "is_new": true
     },
     {
-      "id": "1896096c6f162044",
-      "tier": 2,
+      "id": "e93fd49202eabc0b",
+      "tier": 1,
       "lang": "en",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "16:30",
+      "time": "21:00",
       "group": "大盘头条",
-      "title": "Alibaba Leads Hong Kong Tech Slide on China Regulatory Move",
-      "summary": "Chinese authorities summoned major e-commerce operators and called for tighter product-quality standards. Alibaba fell 6.12% on Oct 22, breaking below HK$100. The Hang Seng Tech Index dropped 5.03% to its lowest since September 2024.",
-      "why": "阿里巴巴被约谈叠加AI投入回报质疑引发港股科技板块连锁抛售；监管范围是否扩大至腾讯、美团是下一个风险变量；短期波动率上升，covered call可考虑适当防御。",
-      "source": "Bloomberg",
+      "title": "Brent crude tops $113 on Houthi attacks; gold slips below $4,000 for first time since July",
+      "summary": "Brent crude topped $113 a barrel after further Houthi attacks on Saudi Arabia and escalating US-Iran tensions. Gold traded below $4,000 per ounce for the first time since July, unwinding some of its recent safe-haven premium even as geopolitical risks rose. The Fed's two-day meeting starts Oct 27; markets currently lean toward a hold at the 3.75–4.00% target range.",
+      "why": "油价飙升对通胀预期构成上行压力，可能强化美联储鹰派立场；黄金跌破4000美元或显示部分避险资金获利了结；下周FOMC决议（10月28日）将成为近期最大催化剂，关注美联储主席沃什的政策表态",
+      "source": "CNBC",
       "verified": false,
       "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "监管",
-        "港股",
-        "恒生科技指数"
+        "Brent crude",
+        "oil",
+        "Houthi",
+        "Saudi Arabia",
+        "gold",
+        "Fed",
+        "FOMC",
+        "Kevin Warsh"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-22/alibaba-shares-post-steepest-drop-in-two-months-on-china-curbs",
+      "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
       "published_date": "2026-10-22",
-      "still_developing": false,
-      "cross_ref": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-23",
       "is_new": true
     },
     {
-      "id": "ed7a22d096afecb8",
+      "id": "dcd0b1a4b8b7141d",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "泡泡玛特六连跌，段永平此前称还会再买一些",
-      "summary": "泡泡玛特（9992.HK）股价已连续6个交易日收跌，累计跌幅超14%，创近一年半来新低。第三方渠道监测显示Q3销售数据同比显著下滑。知名投资人段永平表示仍会再买一些，但不会超过已发行股份的10%。",
-      "why": "泡泡玛特是消费类重点标的，连跌6日且渠道数据偏弱；段永平入场声明有护盘效果，但若Q3业绩正式披露确认销售下滑，可能引发进一步调整；sell put行权价需向下调整以给足安全边际。",
-      "source": "21世纪经济报道",
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午评：恒指涨0.58% 科指涨0.86% 汽车股走强 锂电池股回暖",
+      "summary": "10月23日午盘，恒生指数涨0.58%报23066.79点，恒生科技指数涨0.86%，国企指数涨0.93%。汽车股领涨，锂电池股回暖；小米涨超5%，联想跌超3%。前一交易日港股重挫（恒指-3.03%，恒科-5.03%），午盘出现明显技术性反弹。",
+      "why": "前日暴跌后港股出现超跌反弹；小米涨超5%是午盘最大亮点，汽车/锂电板块强势或反映国内政策预期；持有港股科技标的的仓位可观察反弹可持续性再决定是否调整covered call",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "9992.HK",
-        "段永平",
-        "盲盒",
-        "潮玩"
+        "港股",
+        "恒生指数",
+        "恒生科技",
+        "小米",
+        "汽车股",
+        "锂电池",
+        "技术性反弹"
       ],
       "translated": false,
-      "url": "https://m.21jingji.com/article/20261022/herald/55761ef2dbd27a33ee0000677f9f5f21.html",
-      "published_date": "2026-10-22",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-23/doc-iniweqhw2046043.shtml",
+      "published_date": "2026-10-23",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1197,6 +1147,96 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-22",
+      "is_new": false
+    },
+    {
+      "id": "7e6736c317ce4044",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "22:00",
+      "group": "大盘头条",
+      "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
+      "summary": "Meta Q3 2026 revenue rose 26% YoY to $64.6B, beating estimates of ~$63.4B. Full-year 2026 capex guidance raised to $135–145B (from $130–145B). Free cash flow turned negative amid surging AI infrastructure spend. Stock fell ~7% after hours.",
+      "why": "Meta是AI资本开支风向标；FCF转负、capex持续上调触发本轮科技股重估；短期期权隐含波动率上升，sell put需谨慎；Q4指引$73–76B为下季度预期锚定。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Meta",
+        "AI capex",
+        "free cash flow",
+        "earnings",
+        "Q3 2026"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+      "published_date": "2026-10-22",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-23",
+      "is_new": false
+    },
+    {
+      "id": "822e95abc09bbab7",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "新浪美股热点小时报丨2026年10月23日：美股科技股大跌，纳指跌逾2%创6月以来最惨单日",
+      "summary": "受市场对人工智能公司资本开支回报疑虑加剧，叠加地缘政治推升油价，纳斯达克综合指数22日收跌约2%，创6月以来最差单日表现，科技股普遍走弱。",
+      "why": "科技股全面回调，持仓中腾讯、阿里、美团港股联动压力加大；美股AI资本开支叙事重估是本轮下跌核心逻辑；后续关注Q3财报季能否提振信心。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "美股",
+        "纳指",
+        "AI资本开支",
+        "科技股",
+        "大跌"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s1yi.html",
+      "published_date": "2026-10-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-23",
+      "is_new": false
+    },
+    {
+      "id": "f4926b890d275123",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "新浪半导体热点小时报丨2026年10月23日：费城半导体指数重挫逾5%，泛林集团领跌约10%",
+      "summary": "10月22日美股中，费城半导体指数大跌逾5%。泛林集团（Lam Research）因下季度业绩指引未达市场较高预期，单日股价跌幅约10%，拖累芯片板块。",
+      "why": "SK海力士、美光、英伟达联动受压；泛林集团指引下修是HBM/存储供应链的重要参考，需关注对SK海力士10月29日Q3财报的预期影响；半导体ETF期权波动率抬升。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "费城半导体指数",
+        "泛林集团",
+        "Lam Research",
+        "半导体",
+        "芯片"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s2ag.html",
+      "published_date": "2026-10-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-23",
       "is_new": false
     },
     {
@@ -2529,6 +2569,97 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-22",
+      "is_new": false
+    },
+    {
+      "id": "4acf956921963b1a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "新浪财经热点小时报丨2026年10月23日：地缘紧张推升国际油价，布伦特原油涨约2.56%",
+      "summary": "受地缘政治紧张态势影响，布伦特原油22日上涨约2.56%，升至111美元/桶附近，通胀预期再度升温，成为美联储10月28日会议决策的新变量。",
+      "why": "油价走高加剧通胀担忧，加大美联储维持高利率的概率；对消费及科技股估值构成间接压力；需关注美联储10月28日会议是否超预期行动。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "油价",
+        "布伦特",
+        "地缘政治",
+        "通胀",
+        "美联储"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s26k.html",
+      "published_date": "2026-10-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-23",
+      "is_new": false
+    },
+    {
+      "id": "1896096c6f162044",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Alibaba Leads Hong Kong Tech Slide on China Regulatory Move",
+      "summary": "Chinese authorities summoned major e-commerce operators and called for tighter product-quality standards. Alibaba fell 6.12% on Oct 22, breaking below HK$100. The Hang Seng Tech Index dropped 5.03% to its lowest since September 2024.",
+      "why": "阿里巴巴被约谈叠加AI投入回报质疑引发港股科技板块连锁抛售；监管范围是否扩大至腾讯、美团是下一个风险变量；短期波动率上升，covered call可考虑适当防御。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "监管",
+        "港股",
+        "恒生科技指数"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/alibaba-shares-post-steepest-drop-in-two-months-on-china-curbs",
+      "published_date": "2026-10-22",
+      "still_developing": false,
+      "cross_ref": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-10-23",
+      "is_new": false
+    },
+    {
+      "id": "ed7a22d096afecb8",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "泡泡玛特六连跌，段永平此前称还会再买一些",
+      "summary": "泡泡玛特（9992.HK）股价已连续6个交易日收跌，累计跌幅超14%，创近一年半来新低。第三方渠道监测显示Q3销售数据同比显著下滑。知名投资人段永平表示仍会再买一些，但不会超过已发行股份的10%。",
+      "why": "泡泡玛特是消费类重点标的，连跌6日且渠道数据偏弱；段永平入场声明有护盘效果，但若Q3业绩正式披露确认销售下滑，可能引发进一步调整；sell put行权价需向下调整以给足安全边际。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "段永平",
+        "盲盒",
+        "潮玩"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261022/herald/55761ef2dbd27a33ee0000677f9f5f21.html",
+      "published_date": "2026-10-22",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-23",
       "is_new": false
     },
     {
