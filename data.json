@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-24 18:21 (北京时间)",
+  "updated_at": "2026-10-25 08:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,190 +9,170 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-24 18:21 (北京时间)",
-    "new_count": 4,
+    "at": "2026-10-25 08:17 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "375e2997e60ec4ce",
+      "id": "cd40eef1af734964",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "美联储10月27-28日议息会议在即：市场预期维持利率不变概率逾90%，12月加息押注升温",
-      "summary": "CME联储观察10月24日数据显示，美联储10月28日维持3.75%-4.00%利率不变的概率约90.6%，加息25基点概率约9.4%；对12月加息押注更重，概率约67.5%。美联储主席沃什（Kevin Warsh）此前表示不预先透露决议方向，会议结果存在不确定性。10年期美债收益率近期升至约5.14%。",
-      "why": "【当日重大头条偏少：本轮去重后仅得4条头条，未达5条硬下限；今日较早运行（13:15北京时间）已收录Meta Q3与Tesla Q3，本次无新的个股重大条目可补充。】本周最大宏观事件，结果直接影响美股估值与波动率水平；FOMC前短期隐含波动率偏高，Sell Put策略宜在结果落地后操作，避免被spike消耗。",
-      "source": "21世纪经济报道",
-      "verified": true,
+      "time": "06:00",
+      "group": "个股",
+      "title": "特斯拉Q3 2026财报：营收$280亿美元持平，GAAP利润跌43%，无人驾驶FSD推迟至2027年Q2",
+      "summary": "特斯拉10月21日公布Q3 2026业绩：营收约$280亿（与去年同期持平，符合华尔街预期），non-GAAP每股盈利$0.48小幅超预期（共识$0.45），但GAAP营业利润大跌56%，GAAP净利润跌43%至约$7.87亿，R&D支出攀升。交付量486,532辆超预期。同期宣布无人监督FSD版本延至2027年Q2且仅限Robotaxi地理围栏区域内运营。",
+      "why": "FSD延迟是本季最大利空：原定允许车主加入Robotaxi网络的时间再次推后，网约车收益潜力受损；GAAP利润暴跌反映AI/Robotics研发开支急速扩张。对TSLA持仓：non-GAAP小超预期或提供短期支撑，但FSD时间线再度推迟压制长期估值。延续报道：市场正在消化FSD路线图变化。",
+      "source": "Electrek",
+      "verified": false,
       "keywords": [
-        "美联储",
-        "宏观",
-        "macro"
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "FSD",
+        "Robotaxi",
+        "自动驾驶"
       ],
       "translated": false,
-      "url": "https://www.21jingji.com/article/20261024/herald/475a067b1a53256d60f7e7993a1430fb.html",
-      "published_date": "2026-10-24",
-      "still_developing": false,
+      "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
+      "published_date": "2026-10-21",
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-24",
+      "first_seen": "2026-10-25",
       "is_new": true
     },
     {
-      "id": "d0a1aae98323a5ce",
+      "id": "bcdb90840fc84040",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08:00",
+      "time": "07:00",
       "group": "大盘头条",
-      "title": "Nvidia-Google AI chip rivalry escalates on report of Meta talks",
-      "summary": "Reports emerged that Meta Platforms is in talks to spend billions on Google TPU chips for data centers in 2027, challenging Nvidia GPU dominance. Nvidia shares fell approximately 4-6% on the news (to ~$212). Meta already holds a multi-year TPU rental deal with Google and supply agreements with AMD. The development signals major hyperscalers diversifying AI chip sourcing.",
-      "why": "英伟达（NVDA）个股利空：大客户Meta分流算力采购至谷歌TPU，压制英伟达数据中心收入增速预期；同时利好谷歌（GOOGL）云，正当Alphabet于10月28日发布Q3财报。",
-      "source": "SCMP",
+      "title": "S&P 500 drops to ~7,623 on Oct 23 as AI financing fears hit chips, oil surges and 10-year Treasury hovers at 5%",
+      "summary": "The S&P 500 closed around 7,623 on Friday Oct 23, extending a multi-day decline driven by concerns that smaller AI companies cannot sustain high-cost infrastructure spending. Nvidia led chip losses with a significant drop on Oct 23. US crude jumped sharply and the 10-year Treasury yield hovered near the 5% milestone, adding to rate-hike anxiety ahead of the Oct 27-28 FOMC meeting.",
+      "why": "三重压力（AI资金端担忧 + 油价飙升 + 10年期美债收益率逼近5%）压制风险偏好；FOMC会议（10/27-28）前市场整体偏守。对持有科技/芯片类美股仓位（英伟达、谷歌等）以及sell put期权策略需关注隐含波动率上升与行权价缓冲是否充足。",
+      "source": "BBN Times",
       "verified": false,
       "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "谷歌",
-        "Google",
-        "GOOGL"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/tech/big-tech/article/3334162/nvidia-google-ai-chip-rivalry-escalates-report-meta-talks",
-      "published_date": "2026-10-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-24",
-      "is_new": true
-    },
-    {
-      "id": "b3813c26b869fa18",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "反攻，港股飘红！A股多板块异动，创业板指涨4.16%两市成交额1.96万亿",
-      "summary": "10月23日A股大幅反弹：沪指收涨0.89%，深证指数涨2.79%，创业板指涨4.16%，两市成交额约1.96万亿元人民币。港股同步走强，恒生科技指数收涨2.05%，恒生指数收涨0.69%重回23000点上方。人形机器人、半导体、光通信等成长板块领涨。",
-      "why": "前日（10月22日）港科网股与A股因监管及美股AI卖压大幅下挫后技术性反弹；恒指重回23000点对持仓港股标的短期情绪有支撑，但FOMC前市场不稳定，反弹可持续性待观察。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
         "宏观",
-        "消费",
-        "科技"
+        "macro",
+        "S&P 500",
+        "美联储",
+        "美债收益率",
+        "油价",
+        "英伟达",
+        "Nvidia"
       ],
       "translated": false,
-      "url": "https://www.21jingji.com/article/20261023/herald/0f49e084ebe2673776274d32118811b8.html",
+      "url": "https://www.bbntimes.com/financial/s-p-500-today-stock-market-index-drops-to-7-623-68-as-oil-surges-and-the-10-year-treasury-yield-hovers-at-5-ahead-of-the-fed",
       "published_date": "2026-10-23",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-24",
+      "first_seen": "2026-10-25",
       "is_new": true
     },
     {
-      "id": "e357a3e4506094eb",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "10:30",
-      "group": "大盘头条",
-      "title": "A股人形机器人板块持续爆发：多股批量涨停，宇树科技盘中涨超10%",
-      "summary": "10月20日A股人形机器人概念板块持续大幅走高，多只相关股票触发涨停，长盈精密盘中20cm涨停，宇树科技总市值接近2200亿元。行业数据：2026年上半年全球人形机器人收入5.4亿美元、销量3.6万台，前五名均为中国企业；TrendForce预计中国人形机器人产量2026年同比增长94%。",
-      "why": "延续报道：人形机器人板块在A股持续活跃，从概念炒作向量产业绩兑现转变；10月23日大盘反弹中该板块亦领涨，短期交易热度仍高；对供应链（电机/精密件/传感器）相关持仓有参考意义。",
-      "source": "财联社",
-      "verified": true,
-      "keywords": [
-        "科技",
-        "technology",
-        "人形机器人"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/2381190",
-      "published_date": "2026-10-20",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-24",
-      "is_new": true
-    },
-    {
-      "id": "9e406df090e05102",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
-      "summary": "CoreWeave债券收益率盘中触及15%引发AI基础设施泡沫担忧，纳指跌2.14%收于26,140，单周累跌4.5%，为近4个月最大周跌幅；半导体股指连续第8日下跌，周跌幅创2025年4月以来最大；VIX攀至22.31，Goldman Sachs报告显示对冲基金以近14个月最快速度抛售AI股。",
-      "why": "AI基础设施融资风险暴露（CoreWeave债务超$520亿、季度利息支出超经营利润），引发对整个AI产业链估值的系统性质疑；VIX跳涨30%使sell put策略收益短期改善，但若波动率继续走高需注意深度OTM风险，持有英伟达、谷歌等仓位需重新评估短期期权保护。",
-      "source": "CNN",
-      "verified": true,
-      "keywords": [
-        "AI",
-        "Nasdaq",
-        "CoreWeave",
-        "科技股",
-        "VIX",
-        "英伟达"
-      ],
-      "translated": false,
-      "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
-      "published_date": "2026-10-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-17",
-      "is_new": false
-    },
-    {
-      "id": "a139b18f3cff2d6b",
+      "id": "2427aaeb5026ccbe",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "16:00",
+      "time": "07:30",
       "group": "大盘头条",
-      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-      "summary": "伊朗持续扩大对霍尔木兹海峡商船的袭击，该水道原油过境量降至正常水平的约70%；胡塞武装炮击利雅得国际机场；乌克兰宣布将继续打击俄炼油厂；美俄「能源停火」协议宣告破裂。布伦特原油周五收于$109.86，WTI结算于$101.41，美国均价汽油达$6.33/加仑，较去年同期高出逾70%。",
-      "why": "油价超预期飙升将加剧全球通胀压力，强化美联储维持高利率的必要性；同时直接冲击高用能制造业（小米汽车、特斯拉）成本端，航空旅游（携程）也承压；对持仓中的消费科技标的构成估值压力。",
-      "source": "CNBC",
-      "verified": true,
+      "title": "Crude oil crosses $110 amid escalating Middle East supply fears",
+      "summary": "Brent crude futures rose 1.5% to above $110 per barrel on Oct 21 as fresh Middle East hostilities raised supply-disruption concerns. Shiptracking data cited at least 18 vessel attacks in the preceding two weeks. The oil rally adds to global inflation pressures and may strengthen the case for the Fed to maintain its hawkish posture at the Oct 28 meeting.",
+      "why": "油价逾$110推升通胀预期，令美联储在10月28日FOMC会议上保持鹰派立场的概率提升；对中国进口成本、消费类股（海底捞、美团等）毛利率产生间接压力。持有能源敏感标的或卖出认沽期权时需注意宏观风险尾部。延续报道：中东局势仍在发展中，油价走向对整体市场情绪有直接影响。",
+      "source": "Gulf Today",
+      "verified": false,
       "keywords": [
+        "宏观",
+        "macro",
         "油价",
-        "布伦特",
-        "伊朗",
-        "霍尔木兹",
-        "乌克兰",
-        "地缘政治"
+        "中东",
+        "通胀",
+        "美联储"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-      "published_date": "2026-10-16",
+      "url": "https://gulftoday.ae/news/2026/10/21/crude-oil-crosses-110-amid-middle-east-supply-fears",
+      "published_date": "2026-10-21",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-25",
+      "is_new": true
+    },
+    {
+      "id": "03446dc0dc38e1a3",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Alphabet Q3 2026 earnings due Oct 28: consensus ~$128B revenue, options pricing ~5% one-day move",
+      "summary": "Alphabet (GOOGL/GOOG) is scheduled to report Q3 2026 results after the US market close on October 28. Consensus estimates stand at approximately $127-128B in revenue (up ~28% YoY) and $3.03 EPS. Options are pricing in roughly a 5.07% one-day move, above the historical 4.02% average. Key watch items include Google Cloud growth (Q2 was +82% YoY to $24.8B), the $514B cloud backlog trajectory, and any update to the 2026 capex guidance of $195-205B.",
+      "why": "谷歌Q3财报是本周最大美股催化剂，Cloud增速是否持续与AI资本开支是否有回报将是焦点。期权定价的5%波动比历史均值高出整整1个百分点，意味着短期卖出期权的时间价值已被充分计入；若财报超预期（连续8季度均超预期），可考虑sell put在结果公布后收取权利金。延续报道：结果将于10月28日收盘后公布。",
+      "source": "Pepperstone",
+      "verified": false,
+      "keywords": [
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "GOOG",
+        "谷歌云",
+        "Google Cloud",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://pepperstone.com/en/insights/market-analysis/equities/alphabet-q3-2026-earnings-preview-can-cloud-and-tpu-growth-justify-the-ai-spending-boom",
+      "published_date": "2026-10-22",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-25",
+      "is_new": true
+    },
+    {
+      "id": "7b97a3139b91f2da",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "新浪A股热点：10月23日A股三大指数午后反弹，创业板指涨逾4%，半导体板块领涨",
+      "summary": "A股10月23日早盘低迷后午后强势反弹，沪指收涨约0.9%，创业板指涨约4.2%，成交额超2万亿元明显放量。半导体、非银金融、人形机器人板块涨幅居前。新浪财经10月25日零点汇总报道此前市场表现。",
+      "why": "A股在内外压力下的自发修复，体现科技板块的内在韧性；AI+半导体主线资金回流，对后续关注A股科技布局（如持有A/H两地上市标的）有参考价值。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "A股",
+        "创业板",
+        "半导体",
+        "科技"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908sb7m.html",
+      "published_date": "2026-10-25",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-17",
-      "is_new": false
+      "first_seen": "2026-10-25",
+      "is_new": true
     },
     {
       "id": "7d27325406023010",
@@ -1227,6 +1207,65 @@
       "is_new": false
     },
     {
+      "id": "375e2997e60ec4ce",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "美联储10月27-28日议息会议在即：市场预期维持利率不变概率逾90%，12月加息押注升温",
+      "summary": "CME联储观察10月24日数据显示，美联储10月28日维持3.75%-4.00%利率不变的概率约90.6%，加息25基点概率约9.4%；对12月加息押注更重，概率约67.5%。美联储主席沃什（Kevin Warsh）此前表示不预先透露决议方向，会议结果存在不确定性。10年期美债收益率近期升至约5.14%。",
+      "why": "【当日重大头条偏少：本轮去重后仅得4条头条，未达5条硬下限；今日较早运行（13:15北京时间）已收录Meta Q3与Tesla Q3，本次无新的个股重大条目可补充。】本周最大宏观事件，结果直接影响美股估值与波动率水平；FOMC前短期隐含波动率偏高，Sell Put策略宜在结果落地后操作，避免被spike消耗。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261024/herald/475a067b1a53256d60f7e7993a1430fb.html",
+      "published_date": "2026-10-24",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-24",
+      "is_new": false
+    },
+    {
+      "id": "d0a1aae98323a5ce",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Nvidia-Google AI chip rivalry escalates on report of Meta talks",
+      "summary": "Reports emerged that Meta Platforms is in talks to spend billions on Google TPU chips for data centers in 2027, challenging Nvidia GPU dominance. Nvidia shares fell approximately 4-6% on the news (to ~$212). Meta already holds a multi-year TPU rental deal with Google and supply agreements with AMD. The development signals major hyperscalers diversifying AI chip sourcing.",
+      "why": "英伟达（NVDA）个股利空：大客户Meta分流算力采购至谷歌TPU，压制英伟达数据中心收入增速预期；同时利好谷歌（GOOGL）云，正当Alphabet于10月28日发布Q3财报。",
+      "source": "SCMP",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "谷歌",
+        "Google",
+        "GOOGL"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/tech/big-tech/article/3334162/nvidia-google-ai-chip-rivalry-escalates-report-meta-talks",
+      "published_date": "2026-10-22",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-24",
+      "is_new": false
+    },
+    {
       "id": "b352b7ceaf841bbb",
       "tier": 1,
       "lang": "en",
@@ -1355,69 +1394,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-24",
-      "is_new": false
-    },
-    {
-      "id": "8ce81b6d6813111b",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "港交所官宣：T+1，2028年下半年见！",
-      "summary": "港交所10月16日发布咨询总结，正式确认目标于2028年下半年将港股现货市场从T+2过渡至T+1结算，较此前最快2027年Q4计划推迟，以给市场参与者更多准备时间；港股通将同步过渡，分四阶段实施，最终日期待监管批准后另行公布。",
-      "why": "T+1结算改变流动性和融资安排，对依赖日内资金周转的机构投资者影响较大；长期有助于吸引国际资金，提升港股与国际市场接轨程度，利好市场流动性和估值中枢；期权结算也可能相应调整，需关注后续细则。",
-      "source": "21经济网",
-      "verified": true,
-      "keywords": [
-        "港交所",
-        "T+1",
-        "结算",
-        "港股",
-        "制度改革",
-        "港股通"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261016/herald/063aa20104df48155d435d08a0516cdb.html",
-      "published_date": "2026-10-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-17",
-      "is_new": false
-    },
-    {
-      "id": "76da8342d0776497",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "20:00",
-      "group": "英伟达",
-      "title": "Nvidia commits $250M in compute to UK agentic AI safety research over five years",
-      "summary": "Nvidia pledged a five-year compute donation valued at $250 million to support UK agentic AI safety and security research, working out to $50M in compute access annually. Named recipients include Oxford's BOLD (British Open-Ended Learning and Discovery) lab, UCL's SOFAIR lab, and Imperial College London. The compute will be delivered through UK-based Nvidia Cloud Partners with infrastructure hosted in the UK. Provider selection, technical architecture, and commercial terms have not yet been agreed.",
-      "why": "Nvidia（NVDA）以大规模算力捐赠强化在AI安全监管领域的话语权，与英国政府保持密切关系；此前仅5天Nvidia已向美国大学承诺10亿美元，英国此笔进一步确认其全球布局策略。事件仍在发酵——具体服务商、技术架构及商业条款尚未确定，后续落地细节将影响英伟达在欧洲AI监管格局中的地位评估。对NVDA sell put策略而言，AI安全叙事维持正面情绪。",
-      "source": "investor.nvidia.com",
-      "verified": false,
-      "keywords": [
-        "NVDA",
-        "英伟达",
-        "Nvidia",
-        "AI safety",
-        "UK",
-        "算力捐赠",
-        "agentic AI"
-      ],
-      "translated": false,
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-250-Million-to-Advance-UK-Agentic-Safety-and-Security-Research-Over-the-Next-Five-Years/default.aspx",
-      "published_date": "2026-10-14",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-17",
       "is_new": false
     },
     {
@@ -2780,6 +2756,63 @@
       "is_new": false
     },
     {
+      "id": "b3813c26b869fa18",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "反攻，港股飘红！A股多板块异动，创业板指涨4.16%两市成交额1.96万亿",
+      "summary": "10月23日A股大幅反弹：沪指收涨0.89%，深证指数涨2.79%，创业板指涨4.16%，两市成交额约1.96万亿元人民币。港股同步走强，恒生科技指数收涨2.05%，恒生指数收涨0.69%重回23000点上方。人形机器人、半导体、光通信等成长板块领涨。",
+      "why": "前日（10月22日）港科网股与A股因监管及美股AI卖压大幅下挫后技术性反弹；恒指重回23000点对持仓港股标的短期情绪有支撑，但FOMC前市场不稳定，反弹可持续性待观察。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "消费",
+        "科技"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261023/herald/0f49e084ebe2673776274d32118811b8.html",
+      "published_date": "2026-10-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-24",
+      "is_new": false
+    },
+    {
+      "id": "e357a3e4506094eb",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:30",
+      "group": "大盘头条",
+      "title": "A股人形机器人板块持续爆发：多股批量涨停，宇树科技盘中涨超10%",
+      "summary": "10月20日A股人形机器人概念板块持续大幅走高，多只相关股票触发涨停，长盈精密盘中20cm涨停，宇树科技总市值接近2200亿元。行业数据：2026年上半年全球人形机器人收入5.4亿美元、销量3.6万台，前五名均为中国企业；TrendForce预计中国人形机器人产量2026年同比增长94%。",
+      "why": "延续报道：人形机器人板块在A股持续活跃，从概念炒作向量产业绩兑现转变；10月23日大盘反弹中该板块亦领涨，短期交易热度仍高；对供应链（电机/精密件/传感器）相关持仓有参考意义。",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "科技",
+        "technology",
+        "人形机器人"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2381190",
+      "published_date": "2026-10-20",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-24",
+      "is_new": false
+    },
+    {
       "id": "ec7516e8858f0ca0",
       "tier": 2,
       "lang": "en",
@@ -2839,72 +2872,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-24",
-      "is_new": false
-    },
-    {
-      "id": "573b6037f9d4eeb2",
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "2026-10-15T06:00:00+08:00",
-      "group": "大盘头条",
-      "title": "纳斯达克跌至近一个月低点，费城半导体指数连续7日累跌超14%",
-      "summary": "受美国9月CPI超预期推升加息预期、叠加市场对AI资本支出回报滞后担忧升温，10月15日纳斯达克指数跌至近一个月低点。费城半导体指数（SOX）连续七个交易日累计跌幅超过14%，英伟达、AMD等AI相关个股大幅下挫，市场情绪显著转向谨慎。",
-      "why": "组合内英伟达、SK海力士、美光、谷歌等AI相关持仓本周受到显著冲击，费城半导体指数持续下行影响相关期权隐含波动率和行权价设置。澎湃新闻白名单来源，published_date 2026-10-15距今2天；市场情绪及利率预期仍在演变，标记still_developing。",
-      "source": "澎湃新闻",
-      "verified": false,
-      "keywords": [
-        "纳斯达克",
-        "半导体",
-        "AI股",
-        "费城半导体",
-        "科技股",
-        "抛售",
-        "英伟达",
-        "NVDA",
-        "SOX"
-      ],
-      "translated": false,
-      "url": "https://m.thepaper.cn/newsDetail_forward_34247141",
-      "published_date": "2026-10-15",
-      "still_developing": true,
-      "cross_ref": "",
-      "tier": 3,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-17",
-      "is_new": false
-    },
-    {
-      "id": "7b649dcf131b1f7e",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "小米",
-      "title": "小米YU7 GT赛道专业套装完成工信部申报：配倍耐力高性能轮胎及ENDLESS制动片",
-      "summary": "小米汽车YU7 GT赛道专业套装已完成工信部申报参数备案，配置包括高性能减振套装、ENDLESS MA45B高性能制动片、21英寸锻造轮圈、倍耐力P ZERO高性能轮胎及同规格半热熔赛道胎，同时更新更宽轮眉以适配加宽轮胎（后轮由295mm升至约325mm）。小米官方表示赛道专业套装将于2026年内开放预售，具体时间与售价尚未公布。",
-      "why": "YU7 GT赛道套装工信部备案标志着该套件正式进入商业化流程，是小米汽车（1810.HK）高端化战略的具体落地——跑道套件价格预计显著高于基础版，有望提升单车利润率。已交付车辆轮胎规格已备案，赛道套装或仅面向新购车用户，限量属性可强化品牌热度。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "1810.HK",
-        "Xiaomi",
-        "YU7 GT",
-        "赛道专业套装",
-        "工信部",
-        "倍耐力"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.cn/tech/2026-10-16/detail-inivmiic6992674.d.html",
-      "published_date": "2026-10-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-17",
       "is_new": false
     },
     {
