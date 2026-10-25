@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-25 08:17 (北京时间)",
+  "updated_at": "2026-10-25 13:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,168 +9,69 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-25 08:17 (北京时间)",
-    "new_count": 5,
+    "at": "2026-10-25 13:18 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "cd40eef1af734964",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "06:00",
-      "group": "个股",
-      "title": "特斯拉Q3 2026财报：营收$280亿美元持平，GAAP利润跌43%，无人驾驶FSD推迟至2027年Q2",
-      "summary": "特斯拉10月21日公布Q3 2026业绩：营收约$280亿（与去年同期持平，符合华尔街预期），non-GAAP每股盈利$0.48小幅超预期（共识$0.45），但GAAP营业利润大跌56%，GAAP净利润跌43%至约$7.87亿，R&D支出攀升。交付量486,532辆超预期。同期宣布无人监督FSD版本延至2027年Q2且仅限Robotaxi地理围栏区域内运营。",
-      "why": "FSD延迟是本季最大利空：原定允许车主加入Robotaxi网络的时间再次推后，网约车收益潜力受损；GAAP利润暴跌反映AI/Robotics研发开支急速扩张。对TSLA持仓：non-GAAP小超预期或提供短期支撑，但FSD时间线再度推迟压制长期估值。延续报道：市场正在消化FSD路线图变化。",
-      "source": "Electrek",
-      "verified": false,
-      "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "FSD",
-        "Robotaxi",
-        "自动驾驶"
-      ],
-      "translated": false,
-      "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
-      "published_date": "2026-10-21",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-25",
-      "is_new": true
-    },
-    {
-      "id": "bcdb90840fc84040",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "S&P 500 drops to ~7,623 on Oct 23 as AI financing fears hit chips, oil surges and 10-year Treasury hovers at 5%",
-      "summary": "The S&P 500 closed around 7,623 on Friday Oct 23, extending a multi-day decline driven by concerns that smaller AI companies cannot sustain high-cost infrastructure spending. Nvidia led chip losses with a significant drop on Oct 23. US crude jumped sharply and the 10-year Treasury yield hovered near the 5% milestone, adding to rate-hike anxiety ahead of the Oct 27-28 FOMC meeting.",
-      "why": "三重压力（AI资金端担忧 + 油价飙升 + 10年期美债收益率逼近5%）压制风险偏好；FOMC会议（10/27-28）前市场整体偏守。对持有科技/芯片类美股仓位（英伟达、谷歌等）以及sell put期权策略需关注隐含波动率上升与行权价缓冲是否充足。",
-      "source": "BBN Times",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "macro",
-        "S&P 500",
-        "美联储",
-        "美债收益率",
-        "油价",
-        "英伟达",
-        "Nvidia"
-      ],
-      "translated": false,
-      "url": "https://www.bbntimes.com/financial/s-p-500-today-stock-market-index-drops-to-7-623-68-as-oil-surges-and-the-10-year-treasury-yield-hovers-at-5-ahead-of-the-fed",
-      "published_date": "2026-10-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-25",
-      "is_new": true
-    },
-    {
-      "id": "2427aaeb5026ccbe",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "Crude oil crosses $110 amid escalating Middle East supply fears",
-      "summary": "Brent crude futures rose 1.5% to above $110 per barrel on Oct 21 as fresh Middle East hostilities raised supply-disruption concerns. Shiptracking data cited at least 18 vessel attacks in the preceding two weeks. The oil rally adds to global inflation pressures and may strengthen the case for the Fed to maintain its hawkish posture at the Oct 28 meeting.",
-      "why": "油价逾$110推升通胀预期，令美联储在10月28日FOMC会议上保持鹰派立场的概率提升；对中国进口成本、消费类股（海底捞、美团等）毛利率产生间接压力。持有能源敏感标的或卖出认沽期权时需注意宏观风险尾部。延续报道：中东局势仍在发展中，油价走向对整体市场情绪有直接影响。",
-      "source": "Gulf Today",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "macro",
-        "油价",
-        "中东",
-        "通胀",
-        "美联储"
-      ],
-      "translated": false,
-      "url": "https://gulftoday.ae/news/2026/10/21/crude-oil-crosses-110-amid-middle-east-supply-fears",
-      "published_date": "2026-10-21",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-25",
-      "is_new": true
-    },
-    {
-      "id": "03446dc0dc38e1a3",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "Alphabet Q3 2026 earnings due Oct 28: consensus ~$128B revenue, options pricing ~5% one-day move",
-      "summary": "Alphabet (GOOGL/GOOG) is scheduled to report Q3 2026 results after the US market close on October 28. Consensus estimates stand at approximately $127-128B in revenue (up ~28% YoY) and $3.03 EPS. Options are pricing in roughly a 5.07% one-day move, above the historical 4.02% average. Key watch items include Google Cloud growth (Q2 was +82% YoY to $24.8B), the $514B cloud backlog trajectory, and any update to the 2026 capex guidance of $195-205B.",
-      "why": "谷歌Q3财报是本周最大美股催化剂，Cloud增速是否持续与AI资本开支是否有回报将是焦点。期权定价的5%波动比历史均值高出整整1个百分点，意味着短期卖出期权的时间价值已被充分计入；若财报超预期（连续8季度均超预期），可考虑sell put在结果公布后收取权利金。延续报道：结果将于10月28日收盘后公布。",
-      "source": "Pepperstone",
-      "verified": false,
-      "keywords": [
-        "谷歌",
-        "Google",
-        "Alphabet",
-        "GOOGL",
-        "GOOG",
-        "谷歌云",
-        "Google Cloud",
-        "AI芯片"
-      ],
-      "translated": false,
-      "url": "https://pepperstone.com/en/insights/market-analysis/equities/alphabet-q3-2026-earnings-preview-can-cloud-and-tpu-growth-justify-the-ai-spending-boom",
-      "published_date": "2026-10-22",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-25",
-      "is_new": true
-    },
-    {
-      "id": "7b97a3139b91f2da",
+      "id": "186cd033f82b6596",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "A"
       ],
-      "time": "10:00",
+      "time": "00:00",
       "group": "大盘头条",
-      "title": "新浪A股热点：10月23日A股三大指数午后反弹，创业板指涨逾4%，半导体板块领涨",
-      "summary": "A股10月23日早盘低迷后午后强势反弹，沪指收涨约0.9%，创业板指涨约4.2%，成交额超2万亿元明显放量。半导体、非银金融、人形机器人板块涨幅居前。新浪财经10月25日零点汇总报道此前市场表现。",
-      "why": "A股在内外压力下的自发修复，体现科技板块的内在韧性；AI+半导体主线资金回流，对后续关注A股科技布局（如持有A/H两地上市标的）有参考价值。",
-      "source": "新浪财经",
-      "verified": false,
+      "title": "放量长阳收复关键支撑位，大盘见底了吗？",
+      "summary": "10月23日（周五），沪指收涨0.89%报3690.48点，深证成指涨2.79%，创业板指涨4.16%，全线放量反弹。此前周四大盘向下破位，3674点（924行情以来的标志性支撑位）被击穿；本次反弹后市场对是否真正见底仍存较大分歧。",
+      "why": "A股在关键支撑位破而复得后大幅反弹，但多空分歧加大。若后续无法有效守住3674点，相关持仓面临进一步下行风险；对消费/科技类A股的sell put策略，行权价选择需关注支撑位附近波动。注：今日（10月25日，周日）为非交易日，本轮大盘头条相对偏少——前两个交易日（10月22-23日）的重大头条（中东油价飙升至6个月高位、SAMR约谈电商平台）已于上一轮覆盖。",
+      "source": "21世纪经济报道",
+      "verified": true,
       "keywords": [
-        "宏观",
         "A股",
+        "沪指",
         "创业板",
-        "半导体",
-        "科技"
+        "大盘走势",
+        "支撑位"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908sb7m.html",
+      "url": "https://21jingji.com/article/20261025/herald/393440432c6039fe126142dedf386136.html",
       "published_date": "2026-10-25",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-25",
+      "is_new": true
+    },
+    {
+      "id": "db4ad5d831ef25b9",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "US Midterm Elections 2026: What Results Could Mean for Wall Street",
+      "summary": "With midterms on Nov. 3, Wall Street is bracing for a potential selloff if Democrats win both chambers. Democratic candidates hold polling edges in key Senate races. Analysts say control of either chamber would shift AI regulation, tax, and health-care policy. A split Congress is broadly seen as market-neutral, while a Democratic sweep could pressure tech and AI stocks.",
+      "why": "美国中期选举（11月3日，距今9天）是下周最大尾部风险之一：民主党若横扫两院，科技/AI板块面临更严监管与增税预期，对港股中资科技持仓亦有溢出影响；与此同时，10月28日叠加美联储议息+谷歌/微软财报，本周将是今年最密集的宏观+业绩冲击周。事件仍在发酵。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "美国中期选举",
+        "midterms",
+        "科技监管",
+        "市场风险"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/us-midterm-elections-2026-what-results-could-mean-for-wall-street",
+      "published_date": "2026-10-22",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
       "first_seen": "2026-10-25",
       "is_new": true
     },
@@ -1394,6 +1295,135 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-24",
+      "is_new": false
+    },
+    {
+      "id": "cd40eef1af734964",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "06:00",
+      "group": "个股",
+      "title": "特斯拉Q3 2026财报：营收$280亿美元持平，GAAP利润跌43%，无人驾驶FSD推迟至2027年Q2",
+      "summary": "特斯拉10月21日公布Q3 2026业绩：营收约$280亿（与去年同期持平，符合华尔街预期），non-GAAP每股盈利$0.48小幅超预期（共识$0.45），但GAAP营业利润大跌56%，GAAP净利润跌43%至约$7.87亿，R&D支出攀升。交付量486,532辆超预期。同期宣布无人监督FSD版本延至2027年Q2且仅限Robotaxi地理围栏区域内运营。",
+      "why": "FSD延迟是本季最大利空：原定允许车主加入Robotaxi网络的时间再次推后，网约车收益潜力受损；GAAP利润暴跌反映AI/Robotics研发开支急速扩张。对TSLA持仓：non-GAAP小超预期或提供短期支撑，但FSD时间线再度推迟压制长期估值。延续报道：市场正在消化FSD路线图变化。",
+      "source": "Electrek",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "FSD",
+        "Robotaxi",
+        "自动驾驶"
+      ],
+      "translated": false,
+      "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
+      "published_date": "2026-10-21",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-25",
+      "is_new": false
+    },
+    {
+      "id": "bcdb90840fc84040",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "S&P 500 drops to ~7,623 on Oct 23 as AI financing fears hit chips, oil surges and 10-year Treasury hovers at 5%",
+      "summary": "The S&P 500 closed around 7,623 on Friday Oct 23, extending a multi-day decline driven by concerns that smaller AI companies cannot sustain high-cost infrastructure spending. Nvidia led chip losses with a significant drop on Oct 23. US crude jumped sharply and the 10-year Treasury yield hovered near the 5% milestone, adding to rate-hike anxiety ahead of the Oct 27-28 FOMC meeting.",
+      "why": "三重压力（AI资金端担忧 + 油价飙升 + 10年期美债收益率逼近5%）压制风险偏好；FOMC会议（10/27-28）前市场整体偏守。对持有科技/芯片类美股仓位（英伟达、谷歌等）以及sell put期权策略需关注隐含波动率上升与行权价缓冲是否充足。",
+      "source": "BBN Times",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "macro",
+        "S&P 500",
+        "美联储",
+        "美债收益率",
+        "油价",
+        "英伟达",
+        "Nvidia"
+      ],
+      "translated": false,
+      "url": "https://www.bbntimes.com/financial/s-p-500-today-stock-market-index-drops-to-7-623-68-as-oil-surges-and-the-10-year-treasury-yield-hovers-at-5-ahead-of-the-fed",
+      "published_date": "2026-10-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-25",
+      "is_new": false
+    },
+    {
+      "id": "2427aaeb5026ccbe",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "Crude oil crosses $110 amid escalating Middle East supply fears",
+      "summary": "Brent crude futures rose 1.5% to above $110 per barrel on Oct 21 as fresh Middle East hostilities raised supply-disruption concerns. Shiptracking data cited at least 18 vessel attacks in the preceding two weeks. The oil rally adds to global inflation pressures and may strengthen the case for the Fed to maintain its hawkish posture at the Oct 28 meeting.",
+      "why": "油价逾$110推升通胀预期，令美联储在10月28日FOMC会议上保持鹰派立场的概率提升；对中国进口成本、消费类股（海底捞、美团等）毛利率产生间接压力。持有能源敏感标的或卖出认沽期权时需注意宏观风险尾部。延续报道：中东局势仍在发展中，油价走向对整体市场情绪有直接影响。",
+      "source": "Gulf Today",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "macro",
+        "油价",
+        "中东",
+        "通胀",
+        "美联储"
+      ],
+      "translated": false,
+      "url": "https://gulftoday.ae/news/2026/10/21/crude-oil-crosses-110-amid-middle-east-supply-fears",
+      "published_date": "2026-10-21",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-25",
+      "is_new": false
+    },
+    {
+      "id": "03446dc0dc38e1a3",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Alphabet Q3 2026 earnings due Oct 28: consensus ~$128B revenue, options pricing ~5% one-day move",
+      "summary": "Alphabet (GOOGL/GOOG) is scheduled to report Q3 2026 results after the US market close on October 28. Consensus estimates stand at approximately $127-128B in revenue (up ~28% YoY) and $3.03 EPS. Options are pricing in roughly a 5.07% one-day move, above the historical 4.02% average. Key watch items include Google Cloud growth (Q2 was +82% YoY to $24.8B), the $514B cloud backlog trajectory, and any update to the 2026 capex guidance of $195-205B.",
+      "why": "谷歌Q3财报是本周最大美股催化剂，Cloud增速是否持续与AI资本开支是否有回报将是焦点。期权定价的5%波动比历史均值高出整整1个百分点，意味着短期卖出期权的时间价值已被充分计入；若财报超预期（连续8季度均超预期），可考虑sell put在结果公布后收取权利金。延续报道：结果将于10月28日收盘后公布。",
+      "source": "Pepperstone",
+      "verified": false,
+      "keywords": [
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "GOOG",
+        "谷歌云",
+        "Google Cloud",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://pepperstone.com/en/insights/market-analysis/equities/alphabet-q3-2026-earnings-preview-can-cloud-and-tpu-growth-justify-the-ai-spending-boom",
+      "published_date": "2026-10-22",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-25",
       "is_new": false
     },
     {
@@ -2872,6 +2902,36 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-24",
+      "is_new": false
+    },
+    {
+      "id": "7b97a3139b91f2da",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "新浪A股热点：10月23日A股三大指数午后反弹，创业板指涨逾4%，半导体板块领涨",
+      "summary": "A股10月23日早盘低迷后午后强势反弹，沪指收涨约0.9%，创业板指涨约4.2%，成交额超2万亿元明显放量。半导体、非银金融、人形机器人板块涨幅居前。新浪财经10月25日零点汇总报道此前市场表现。",
+      "why": "A股在内外压力下的自发修复，体现科技板块的内在韧性；AI+半导体主线资金回流，对后续关注A股科技布局（如持有A/H两地上市标的）有参考价值。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "A股",
+        "创业板",
+        "半导体",
+        "科技"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908sb7m.html",
+      "published_date": "2026-10-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-25",
       "is_new": false
     },
     {
