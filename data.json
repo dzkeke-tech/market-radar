@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-26 08:19 (北京时间)",
+  "updated_at": "2026-10-26 13:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,39 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-26 08:19 (北京时间)",
-    "new_count": 3,
+    "at": "2026-10-26 13:19 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "80bb4d18fed97a28",
+      "id": "2837e6d3024bf8b0",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
         "US",
         "HK",
         "A"
       ],
-      "time": "06:00",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "Fed Decision Oct 28 and Alphabet Q3 Earnings: Markets Brace for Super Week",
-      "summary": "The FOMC meets Oct 27–28; the rate decision is Wednesday Oct 28 at 2 pm ET. Per CNBC (Oct 25), fed funds futures suggest ~90% odds of holding rates at 3.75%–4.00%, though Bank of America calls a 25bp hike. Alphabet Q3 2026 results are due after close the same day. ECB also meets Thursday.",
-      "why": "本周双重催化剂：美联储决议（概率来源：CNBC Oct 25 fed funds futures）与Alphabet Q3财报同日触发，是全年密度最高的组合。结果直接影响持仓折现率与AI相关标的估值，Sell Put 隐含波动率将放大。沃什(Warsh)主席措辞偏鹰则科技仓位承压。",
-      "source": "CNBC",
+      "title": "美联储10月28日议息：市场预期维持3.75%-4.00%不变，沃什发布会措辞成焦点",
+      "summary": "美联储FOMC将于10月27-28日召开货币政策会议，市场普遍预期维持联邦基金利率目标区间3.75%-4.00%不变。美联储主席凯文·沃什将于周三决议后召开新闻发布会，其对通胀走势和未来加息路径的表态将是本周市场最重要的催化剂。",
+      "why": "美联储决议方向直接影响sell put策略的delta风险和隐含波动率；当前维持预期已充分定价，发布会若偏鹰则delta对冲成本上升，偏鸽则有助于港股/美股估值修复；与同日多家科技巨头财报叠加，市场情绪将高度敏感。",
+      "source": "富途牛牛",
       "verified": true,
       "keywords": [
-        "宏观",
-        "macro",
         "美联储",
-        "利率",
-        "谷歌",
-        "Alphabet",
-        "GOOGL"
+        "FOMC",
+        "利率决议",
+        "凯文·沃什",
+        "货币政策"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+      "url": "https://news.futunn.com/hk/post/1002230325/hk-stock-market-weekly-preview-global-central-banks-announce-interest",
       "published_date": "2026-10-25",
       "still_developing": false,
       "cross_ref": "",
@@ -50,27 +48,127 @@
       "is_new": true
     },
     {
-      "id": "bd67fb97886a7767",
-      "tier": 2,
-      "lang": "en",
+      "id": "abb84752c47f1feb",
+      "tier": 1,
+      "lang": "zh",
       "markets": [
-        "US"
+        "US",
+        "HK",
+        "A"
       ],
-      "time": "21:00",
+      "time": "07:30",
       "group": "大盘头条",
-      "title": "Meta Q3 2026: Revenue +26% to $64.6B, Board Approves 2-for-1 Split via New Class C Shares",
-      "summary": "Meta Q3 2026 revenue was $64.6B, up 26% YoY. Family of Apps ad revenue rose 26%; ad impressions +10%, avg price per ad +14%. GAAP operating income fell 37% due to a $9.9B legal charge. Board approved new non-voting Class C common stock as a 2-for-1 split effective Jan 2027. Stock rose ~3% after hours.",
-      "why": "Meta不在持仓，但作为大盘科技代表：强劲AI广告营收印证数字广告需求健康，对谷歌（GOOGL）广告业务前景有正面信号；股票拆分提升流动性，AI资本支出虽高但商业化能力强，对AI板块情绪整体正面。",
-      "source": "Meta Investor Relations",
-      "verified": true,
+      "title": "中东局势持续升温，布伦特原油突破百元并维持高位，特朗普暗示不排除再度打击伊朗",
+      "summary": "受中东局势持续紧张影响，布伦特原油期货近期持续运行于百美元上方。美国总统特朗普公开表示美国随时可能对伊朗采取军事行动，霍尔木兹海峡通行风险持续。高盛已将12月布伦特预测上调至90美元/桶（10月12日）；IMF基准情景假设海峡2027年3月恢复畅通，若冲突升级油价恐超$130/桶。",
+      "why": "能源价格高企推升全球通胀预期，强化美联储鹰派路径，对港A两市形成估值压力；对沃尔玛、麦当劳等美国消费股有成本传导；老铺黄金所在的贵金属赛道与油价联动，需关注大宗商品配置变化对持仓权重的影响。",
+      "source": "财联社",
+      "verified": false,
       "keywords": [
-        "科技",
-        "technology",
-        "AI",
-        "广告"
+        "原油",
+        "布伦特",
+        "中东",
+        "伊朗",
+        "地缘政治",
+        "霍尔木兹",
+        "能源"
       ],
       "translated": false,
-      "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+      "url": "https://www.cls.cn/detail/2502172",
+      "published_date": "2026-10-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-26",
+      "is_new": true
+    },
+    {
+      "id": "51b2a69b5946f96b",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "A/H股剧烈波动：港股恒指曾单日跌717点，沪指触探3600后企稳，机构关注超跌板块三季报修复机会",
+      "summary": "近期港股恒指单日最大跌幅达717点，一度失守23000点；A股沪指盘中短暂跌破3600点后随即反弹，创业板指翻红。多家机构认为，四季度密集三季报业绩验证将为超跌的消费、互联网板块提供催化剂；看好红利、银行、地产及消费等方向。",
+      "why": "港A两市同步承压背后有油价高企、AI估值争议、美联储预期等多重压力；持仓腾讯、阿里、美团等港股标的的sell put策略，需关注波动率扩大时保证金占用与到期获利了结节奏。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "A股",
+        "恒指",
+        "沪指",
+        "消费",
+        "互联网",
+        "超跌"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261026/herald/1ecaa996799bcb346375e8f4c9b64ffe.html",
+      "published_date": "2026-10-26",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-26",
+      "is_new": true
+    },
+    {
+      "id": "a758a17866a286c0",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "黄金价格跌破$4,000关口，自年初历史峰值$5,598回落近30%；大宗商品信号分化",
+      "summary": "伦敦现货黄金近期跌破每盎司$4,000关口，较2026年1月历史峰值约$5,598最大回撤接近30%。世界黄金协会年中展望预测全年均价$4,100附近，并警告价格若持续低于$4,000可能触发进一步抛盘。目前金价下行与油价高企同时出现，大宗商品市场信号分化。",
+      "why": "金价走势直接关系到老铺黄金(6181.HK)等持仓的估值基础；$4,000是关键心理支撑，持续跌破将引发零售端消费降级预期；对持有黄金相关covered call策略而言，波动率走低意味着期权权利金收入减少。",
+      "source": "华尔街见闻",
+      "verified": false,
+      "keywords": [
+        "黄金",
+        "金价",
+        "大宗商品",
+        "老铺黄金",
+        "贵金属"
+      ],
+      "translated": false,
+      "url": "https://wallstreetcn.com/articles/3783979",
+      "published_date": "2026-10-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-26",
+      "is_new": true
+    },
+    {
+      "id": "3c3a5775596e6d92",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "腾讯完成近190亿美元史上最大规模债券发行，超额认购4倍，资金全部投向AI资本开支",
+      "summary": "腾讯(0700.HK)于2026年10月21日完成四笔优先票据发行，合计规模约18亿美元及人民币260亿元（折合约190亿美元，oversubscribed 4倍以上），为公司史上最大单次债券融资。美元票据10年期年息6.1%、20年期6.75%；资金将专项用于AI相关资本开支（2026年H1资本开支同比翻倍至约963亿人民币）。据报道票据已于10月22日在港交所上市。",
+      "why": "延续报道：债券10月21日完成发行并于22日在港交所上市，本轮首次完整覆盖。腾讯大规模举债加速AI投入，表明管理层对AI变现路径有信心；大规模融资短期增加财务杠杆，中长期验证腾讯云与AI产品变现能力，对0700.HK持仓逻辑有重要参照价值。",
+      "source": "The Standard HK",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "债券",
+        "AI资本开支",
+        "融资",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://www.thestandard.com.hk/finance/article/345290/Tencent-markets-dollar-dim-sum-bonds-amid-AI-spending-spree",
       "published_date": "2026-10-21",
       "still_developing": true,
       "cross_ref": "",
@@ -79,30 +177,31 @@
       "is_new": true
     },
     {
-      "id": "1241b200041c07ab",
-      "tier": 2,
-      "lang": "en",
+      "id": "cf9fba3bbb664091",
+      "tier": 3,
+      "lang": "zh",
       "markets": [
-        "US"
+        "HK"
       ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Nvidia's AI Financier Role Faces First Big Test as Neocloud Partners Take Market Hit",
-      "summary": "CNBC reports rising scrutiny of Nvidia's evolving role as both chip supplier and financial backer of neocloud operators, providing minimum revenue guarantees and equity stakes. Bond yields on neocloud companies have risen sharply and share prices have fallen, raising questions about Nvidia's off-balance-sheet credit exposure.",
-      "why": "英伟达（NVDA）持仓核心风险：若市场对AI资本支出周期信心动摇，NVDA估值承压且Sell Put 隐含波动率两面失守。同时波及SK海力士（HBM需求预期）。",
-      "source": "CNBC",
-      "verified": true,
+      "time": "11:00",
+      "group": "个股",
+      "title": "小米SU7/YU7首次赛道交付仪式10月25日浙江举行，雷军出席并承诺打造最安全同档车型",
+      "summary": "小米汽车于2026年10月25日在浙江国际赛车场（CTCC赛道）举办首个赛道交付仪式，8组浙江车主分别提取SU7及YU7新车。小米集团CEO雷军亲赴现场并表示，公司目标是把SU7/YU7打造成同档最安全的车。此前公司于10月8日公布购车优惠：少量现车可享3年0息或6000元保险补贴。",
+      "why": "赛道交付是品牌营销里程碑，强化小米汽车驾驶者之车高端定位；据报道小米汽车累计交付已超80万辆，交付规模持续扩张支撑1810.HK汽车业务对母公司估值贡献，需持续跟踪利润率改善进度。",
+      "source": "新浪新闻",
+      "verified": false,
       "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "GPU",
-        "AI芯片",
-        "数据中心"
+        "小米",
+        "小米汽车",
+        "SU7",
+        "YU7",
+        "雷军",
+        "交付",
+        "电动车"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-      "published_date": "2026-10-24",
+      "url": "https://www.sina.cn/weibo/detail/5358239064524239.html",
+      "published_date": "2026-10-25",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1448,6 +1547,40 @@
       "is_new": false
     },
     {
+      "id": "80bb4d18fed97a28",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "06:00",
+      "group": "大盘头条",
+      "title": "Fed Decision Oct 28 and Alphabet Q3 Earnings: Markets Brace for Super Week",
+      "summary": "The FOMC meets Oct 27–28; the rate decision is Wednesday Oct 28 at 2 pm ET. Per CNBC (Oct 25), fed funds futures suggest ~90% odds of holding rates at 3.75%–4.00%, though Bank of America calls a 25bp hike. Alphabet Q3 2026 results are due after close the same day. ECB also meets Thursday.",
+      "why": "本周双重催化剂：美联储决议（概率来源：CNBC Oct 25 fed funds futures）与Alphabet Q3财报同日触发，是全年密度最高的组合。结果直接影响持仓折现率与AI相关标的估值，Sell Put 隐含波动率将放大。沃什(Warsh)主席措辞偏鹰则科技仓位承压。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro",
+        "美联储",
+        "利率",
+        "谷歌",
+        "Alphabet",
+        "GOOGL"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+      "published_date": "2026-10-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-26",
+      "is_new": false
+    },
+    {
       "id": "8cabdd8fdcc26523",
       "tier": 2,
       "lang": "en",
@@ -2737,6 +2870,66 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-25",
+      "is_new": false
+    },
+    {
+      "id": "bd67fb97886a7767",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "Meta Q3 2026: Revenue +26% to $64.6B, Board Approves 2-for-1 Split via New Class C Shares",
+      "summary": "Meta Q3 2026 revenue was $64.6B, up 26% YoY. Family of Apps ad revenue rose 26%; ad impressions +10%, avg price per ad +14%. GAAP operating income fell 37% due to a $9.9B legal charge. Board approved new non-voting Class C common stock as a 2-for-1 split effective Jan 2027. Stock rose ~3% after hours.",
+      "why": "Meta不在持仓，但作为大盘科技代表：强劲AI广告营收印证数字广告需求健康，对谷歌（GOOGL）广告业务前景有正面信号；股票拆分提升流动性，AI资本支出虽高但商业化能力强，对AI板块情绪整体正面。",
+      "source": "Meta Investor Relations",
+      "verified": true,
+      "keywords": [
+        "科技",
+        "technology",
+        "AI",
+        "广告"
+      ],
+      "translated": false,
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+      "published_date": "2026-10-21",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-26",
+      "is_new": false
+    },
+    {
+      "id": "1241b200041c07ab",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Nvidia's AI Financier Role Faces First Big Test as Neocloud Partners Take Market Hit",
+      "summary": "CNBC reports rising scrutiny of Nvidia's evolving role as both chip supplier and financial backer of neocloud operators, providing minimum revenue guarantees and equity stakes. Bond yields on neocloud companies have risen sharply and share prices have fallen, raising questions about Nvidia's off-balance-sheet credit exposure.",
+      "why": "英伟达（NVDA）持仓核心风险：若市场对AI资本支出周期信心动摇，NVDA估值承压且Sell Put 隐含波动率两面失守。同时波及SK海力士（HBM需求预期）。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "GPU",
+        "AI芯片",
+        "数据中心"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "published_date": "2026-10-24",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-26",
       "is_new": false
     },
     {
