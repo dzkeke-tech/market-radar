@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-27 13:26 (北京时间)",
+  "updated_at": "2026-10-27 18:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,146 +9,131 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-27 13:26 (北京时间)",
+    "at": "2026-10-27 18:18 (北京时间)",
     "new_count": 4,
-    "degraded": 5,
+    "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "58607096f64df25b",
+      "id": "e89bc9ec0ce783a5",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股三大指数集体收跌，科创50创年内新低，创业板指跌3.41%",
+      "summary": "10月27日A股三大指数集体走低，沪指跌1.33%报3648.30点，深成指跌2.5%，创业板指跌3.41%，科创50跌4.81%创年内新低。全市场高开后持续低走，军工装备、计算机板块领跌，银行、煤炭等红利资产逆势抗跌，超4900只个股下跌。",
+      "why": "成长赛道重挫、科创50创年内新低是卖put的警示信号：持仓科技/成长类标的的sell put面临标的快速向行权价靠拢的风险，需关注保证金压力；银行等红利标的逆市走强，可对冲组合beta。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "创业板",
+        "科创50",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwsfqt1289329.shtml",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": true
+    },
+    {
+      "id": "407a93573a8605e5",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "2026-10-27 10:00",
-      "group": "个股",
-      "title": "Circle (CRCL) Falls ~7% as Mizuho Maintains Underperform, $70 Target on Competition and AI Threats",
-      "summary": "Mizuho maintained its Underperform rating on Circle (CRCL) with a $70 price target, warning that competition in the stablecoin sector and AI-driven payment disruption risks will weigh on earnings growth. Circle shares fell approximately 7% intraday. Distinct from the Oct 26 Bernstein $145 target item already in data.json; this is a bearish contrarian note on the same stock. verified:false — published_date inferred from same-day stock move; $70 numeric claim has only 1 whitelist source (The Block).",
-      "source": "The Block",
-      "verified": false,
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Meta launches up to 5B stock offering for AI buildout; Nvidia, AMD, Broadcom eye B stake",
+      "summary": "Meta Platforms on October 26 launched a 5 billion common stock and convertible preferred offering, plus a planned at-the-market program of up to 0 billion for AI infrastructure expansion. Nvidia, AMD, and Broadcom expressed interest in purchasing up to  billion of the shares.",
+      "why": "AI巨头互持股权加速：英伟达(NVDA)、博通等算力供应商参与Meta认购，AI产业链利益深度绑定；Meta大规模融资短期稀释股价，彰显AI资本开支仍在加速，对GPU/HBM供应链整体利好。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "Circle",
-        "CRCL",
-        "稳定币",
-        "USDC",
-        "Mizuho",
-        "加密货币"
+        "Meta",
+        "AI",
+        "股票发行",
+        "英伟达",
+        "博通"
       ],
       "translated": false,
-      "url": "https://www.theblock.co/post/378938/mizuho-bearish-circle-stock-amid-earnings-competition-risks",
-      "published_date": "2026-10-27",
+      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "published_date": "2026-10-26",
       "still_developing": false,
       "cross_ref": "",
-      "_schema_issues": [
-        "缺少必填字段 why"
-      ],
-      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-27",
       "is_new": true
     },
     {
-      "id": "78b18b4d4b4238b2",
-      "tier": 2,
-      "lang": "zh",
+      "id": "9650f80936458186",
+      "tier": 1,
+      "lang": "en",
       "markets": [
         "HK"
       ],
-      "time": "2026-10-27 12:00",
-      "group": "大盘头条",
-      "title": "港股午评(10/27)：恒科指跌0.77%，科网股低迷，小米跌逾4%",
-      "summary": "港股上午交易：恒指跌0.14%，科技指数跌0.77%，科网股整体承压。小米(9868.HK)跌逾4%；创新药板块走强，药明康德绩后涨近5%。腾讯、阿里居沪港通成交额前列。本轮大盘头条仅4条，因本轮最重大事件（FOMC会议开幕、Anthropic S-1、Alphabet财报预告）已于前次运行覆盖，本轮聚焦当日实际行情动态。",
-      "source": "新浪财经",
+      "time": "11:00",
+      "group": "个股",
+      "title": "Pop Mart Q3 2026 revenue drops 45%–50% YoY on fading Labubu demand; Americas down 70%–75%",
+      "summary": "Pop Mart's unaudited Q3 2026 revenue fell 45%–50% year-on-year, far steeper than JPMorgan's 37% forecast. Mainland China fell 25%–30% (offline –5%–10%, online –45%–50%); Asia-Pacific –65%–70%; Americas –70%–75%; Europe and other regions –50%–55%. The high base from Q3 2025 (+245%–250%) is a key factor.",
+      "why": "Q3营运数据大幅低于预期，Labubu效应退潮快于市场预期；9992.HK盈利预期面临持续下修，卖put的安全行权价需下调，建议关注是否有新IP催化（双11/新产品线）再考虑重建期权仓位。",
+      "source": "Bloomberg",
       "verified": true,
       "keywords": [
-        "港股",
-        "恒科指",
-        "小米",
-        "腾讯",
-        "阿里巴巴",
-        "科网股"
+        "泡泡玛特",
+        "Pop Mart",
+        "Labubu",
+        "9992",
+        "三季度",
+        "营运数据"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwruys2049164.shtml",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand",
       "published_date": "2026-10-27",
       "still_developing": false,
-      "cross_ref": "",
-      "_schema_issues": [
-        "缺少必填字段 why"
-      ],
-      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
-      "_url_check": "未能机检（URLError）",
+      "cross_ref": "https://news.futunn.com/en/post/1002406222/pop-mart-s-domestic-channels-recorded-negative-year-on-year",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-10-27",
       "is_new": true
     },
     {
-      "id": "5a39ec137444b372",
+      "id": "9ab9cc48b33e1c24",
       "tier": 2,
       "lang": "zh",
       "markets": [
+        "US",
+        "HK",
         "A"
       ],
-      "time": "2026-10-27 09:30",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "A股早盘(10/27)：CPO光模块板块领涨，中国大模型调用量全球第一，国办发文强化AI就业支撑",
-      "summary": "A股早盘光模块/CPO概念股领涨，受费城半导体指数隔夜涨2.8%提振；国务院办公厅发布文件强化AI领域就业支撑政策；机构认为中国AI大模型调用量稳居全球首位，AI应用加速渗透持续反哺底层算力需求，利好半导体及光模块板块。",
+      "title": "海外央行议息周来临：美联储、谷歌/微软Q3财报周三双双落地，全球资产迎关键指引",
+      "summary": "本周全球多个央行密集议息，美联储将于10月28日（周三）发布10月利率决议。同日盘后，谷歌(Alphabet)与微软均公布Q3业绩，期权市场对Alphabet隐含单边波动约6%。宏观与财报双重催化叠加，本周全局波动率预计显著抬升。",
+      "why": "央行决议与大科技财报双重叠加是本周最大风险节点：谷歌(GOOGL)为持仓标的，sell put方需在周三收盘前评估是否滚仓或减少期权久期，避免财报引发的跳空gap吞噬权利金。",
       "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "A股",
-        "CPO",
-        "光模块",
-        "AI就业",
-        "算力",
-        "半导体",
-        "国办政策"
+        "美联储",
+        "Alphabet",
+        "谷歌",
+        "微软",
+        "财报",
+        "央行"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwrqsu2092955.shtml",
+      "url": "https://finance.sina.com.cn/roll/2026-10-27/doc-iniwqtpi5115217.shtml",
       "published_date": "2026-10-27",
       "still_developing": false,
       "cross_ref": "",
-      "_schema_issues": [
-        "缺少必填字段 why"
-      ],
-      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-27",
-      "is_new": true
-    },
-    {
-      "id": "bff13d9a15b8ed28",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "2026-10-27 08:00",
-      "group": "大盘头条",
-      "title": "经济日报：政策接续发力激发经济动能，专项债4.4万亿、超长期国债1.3万亿已发到位",
-      "summary": "经济日报评论：中国财政政策接续发力，年内新增专项债额度4.4万亿元已基本发行完毕，超长期特别国债1.3万亿元亦发行到位，政策空间充足；财政乘数效应持续释放，有助支撑A/H市场整体宏观预期。",
-      "source": "经济日报/新浪财经",
-      "verified": true,
-      "keywords": [
-        "经济政策",
-        "专项债",
-        "超长期国债",
-        "财政政策",
-        "宏观经济",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwrecc4908945.shtml",
-      "published_date": "2026-10-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_schema_issues": [
-        "缺少必填字段 why"
-      ],
-      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-27",
       "is_new": true
@@ -1455,6 +1440,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-26",
+      "is_new": false
+    },
+    {
+      "id": "58607096f64df25b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-10-27 10:00",
+      "group": "个股",
+      "title": "Circle (CRCL) Falls ~7% as Mizuho Maintains Underperform, $70 Target on Competition and AI Threats",
+      "summary": "Mizuho maintained its Underperform rating on Circle (CRCL) with a $70 price target, warning that competition in the stablecoin sector and AI-driven payment disruption risks will weigh on earnings growth. Circle shares fell approximately 7% intraday. Distinct from the Oct 26 Bernstein $145 target item already in data.json; this is a bearish contrarian note on the same stock. verified:false — published_date inferred from same-day stock move; $70 numeric claim has only 1 whitelist source (The Block).",
+      "source": "The Block",
+      "verified": false,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "稳定币",
+        "USDC",
+        "Mizuho",
+        "加密货币"
+      ],
+      "translated": false,
+      "url": "https://www.theblock.co/post/378938/mizuho-bearish-circle-stock-amid-earnings-competition-risks",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
       "is_new": false
     },
     {
@@ -2900,6 +2916,101 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-26",
+      "is_new": false
+    },
+    {
+      "id": "78b18b4d4b4238b2",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-10-27 12:00",
+      "group": "大盘头条",
+      "title": "港股午评(10/27)：恒科指跌0.77%，科网股低迷，小米跌逾4%",
+      "summary": "港股上午交易：恒指跌0.14%，科技指数跌0.77%，科网股整体承压。小米(9868.HK)跌逾4%；创新药板块走强，药明康德绩后涨近5%。腾讯、阿里居沪港通成交额前列。本轮大盘头条仅4条，因本轮最重大事件（FOMC会议开幕、Anthropic S-1、Alphabet财报预告）已于前次运行覆盖，本轮聚焦当日实际行情动态。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒科指",
+        "小米",
+        "腾讯",
+        "阿里巴巴",
+        "科网股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwruys2049164.shtml",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "5a39ec137444b372",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "2026-10-27 09:30",
+      "group": "大盘头条",
+      "title": "A股早盘(10/27)：CPO光模块板块领涨，中国大模型调用量全球第一，国办发文强化AI就业支撑",
+      "summary": "A股早盘光模块/CPO概念股领涨，受费城半导体指数隔夜涨2.8%提振；国务院办公厅发布文件强化AI领域就业支撑政策；机构认为中国AI大模型调用量稳居全球首位，AI应用加速渗透持续反哺底层算力需求，利好半导体及光模块板块。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "CPO",
+        "光模块",
+        "AI就业",
+        "算力",
+        "半导体",
+        "国办政策"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwrqsu2092955.shtml",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "bff13d9a15b8ed28",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "2026-10-27 08:00",
+      "group": "大盘头条",
+      "title": "经济日报：政策接续发力激发经济动能，专项债4.4万亿、超长期国债1.3万亿已发到位",
+      "summary": "经济日报评论：中国财政政策接续发力，年内新增专项债额度4.4万亿元已基本发行完毕，超长期特别国债1.3万亿元亦发行到位，政策空间充足；财政乘数效应持续释放，有助支撑A/H市场整体宏观预期。",
+      "source": "经济日报/新浪财经",
+      "verified": true,
+      "keywords": [
+        "经济政策",
+        "专项债",
+        "超长期国债",
+        "财政政策",
+        "宏观经济",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwrecc4908945.shtml",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
       "is_new": false
     },
     {
