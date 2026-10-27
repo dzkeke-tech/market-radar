@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-27 08:13 (北京时间)",
+  "updated_at": "2026-10-27 13:26 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,167 +9,146 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-27 08:13 (北京时间)",
-    "new_count": 5,
-    "degraded": 0,
+    "at": "2026-10-27 13:26 (北京时间)",
+    "new_count": 4,
+    "degraded": 5,
     "input_missing": false
   },
   "items": [
     {
-      "id": "89107d131e2a000f",
+      "id": "58607096f64df25b",
       "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "Anthropic Files S-1 for Nasdaq IPO Under Ticker ANT, AI Chip Stocks Rally",
-      "summary": "Anthropic publicly filed its S-1 with the SEC on Oct 26, targeting a Nasdaq listing under ticker ANT. Reports cite a valuation up to $2 trillion and a ~$100B raise; financials include ~$16.3B H1 2026 revenue. Semiconductor stocks jumped 2.8%, Nasdaq gained 0.82%.",
-      "why": "全球规模最大AI公司之一上市将重塑AI投资格局，AI芯片（英伟达、SK海力士等）板块直接受益；对A股/港股AI相关标的估值中枢构成提振；隐含波动率（IV）可能走高，对sell put策略有影响。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Anthropic",
-        "IPO",
-        "S-1",
-        "ANT",
-        "Nasdaq",
-        "AI",
-        "semiconductor"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-      "published_date": "2026-10-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-27",
-      "is_new": true
-    },
-    {
-      "id": "2189fab79a26a2ca",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "17:00",
-      "group": "大盘头条",
-      "title": "FOMC Two-Day Meeting Underway; Rate Decision Due Wednesday Oct 28",
-      "summary": "The Federal Reserve's Oct 27–28 FOMC meeting is now in session. Market consensus strongly expects a hold at the current 3.75%–4.00% target range set in September. The decision and press conference are scheduled for Oct 28 at 2:00 PM ET.",
-      "why": "美联储利率决议是本周最大宏观事件；若维持不变则短期债券波动率回落，对sell put策略正面；若措辞偏鹰或预告12月加息，美股高倍率标的和港股科技股将面临压力。注意：利率数字3.75-4.00%和会议日期来自本轮检索到的CME/Forbes原文，暂无美联储主席以外的新任官员姓名信息。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "FOMC",
-        "Federal Reserve",
-        "interest rate",
-        "rate decision",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-      "published_date": "2026-10-26",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-27",
-      "is_new": true
-    },
-    {
-      "id": "0716c9da079c2a67",
-      "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "Microsoft Offers Voluntary Buyouts to ~60,000 Workers in Largest-Ever AI Restructuring",
-      "summary": "Microsoft confirmed it is offering voluntary buyouts to ~60,000 employees (VP-level and below, US/Canada/India/UK), covering divisions including Xbox, Windows, Copilot, and Finance. Layoffs remain an option if uptake is insufficient.",
-      "why": "微软大规模AI驱动裁员是大型科技公司AI转型加速的信号，将影响整体科技就业预期和TMT板块情绪；与持仓标的无直接关联但属于宏观科技行业趋势新闻，tier 2收录。注意：本条来源Fortune/TechCrunch/Axios均非白名单，故标记verified:false；已被多家主流媒体报道证实真实性。",
-      "source": "Fortune",
-      "verified": false,
-      "keywords": [
-        "Microsoft",
-        "layoffs",
-        "buyouts",
-        "AI",
-        "restructuring",
-        "tech"
-      ],
-      "translated": false,
-      "url": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/",
-      "published_date": "2026-10-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-27",
-      "is_new": true
-    },
-    {
-      "id": "8f87009d2edebcf7",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "14:00",
+      "time": "2026-10-27 10:00",
       "group": "个股",
-      "title": "Bernstein Raises Circle (CRCL) Target to $145 as Analyst Sentiment Diverges on AI Risk",
-      "summary": "Bernstein raised its CRCL price target to $145 from $140, citing Arc token presales and reserve yield outlook. Meanwhile Mizuho flagged AI assistants as a threat to USDC reserve income, projecting 10–20% revenue exposure risk. CRCL fell sharply in recent sessions.",
-      "why": "Circle是稳定币赛道纯美股标的；分析师分歧加剧，GENIUS Act规则落地（OCC 10月21日最终出台）是重要监管催化剂；若OCC规则推动USDC份额增长，sell put下行保护需考虑新增波动率。",
+      "title": "Circle (CRCL) Falls ~7% as Mizuho Maintains Underperform, $70 Target on Competition and AI Threats",
+      "summary": "Mizuho maintained its Underperform rating on Circle (CRCL) with a $70 price target, warning that competition in the stablecoin sector and AI-driven payment disruption risks will weigh on earnings growth. Circle shares fell approximately 7% intraday. Distinct from the Oct 26 Bernstein $145 target item already in data.json; this is a bearish contrarian note on the same stock. verified:false — published_date inferred from same-day stock move; $70 numeric claim has only 1 whitelist source (The Block).",
       "source": "The Block",
-      "verified": true,
+      "verified": false,
       "keywords": [
         "Circle",
         "CRCL",
+        "稳定币",
         "USDC",
-        "stablecoin",
-        "GENIUS Act",
-        "Bernstein",
-        "Mizuho"
+        "Mizuho",
+        "加密货币"
       ],
       "translated": false,
-      "url": "https://theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
-      "published_date": "2026-10-26",
+      "url": "https://www.theblock.co/post/378938/mizuho-bearish-circle-stock-amid-earnings-competition-risks",
+      "published_date": "2026-10-27",
       "still_developing": false,
       "cross_ref": "",
+      "_schema_issues": [
+        "缺少必填字段 why"
+      ],
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-27",
       "is_new": true
     },
     {
-      "id": "5ef669704a2d2bb6",
+      "id": "78b18b4d4b4238b2",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "美团拟发行约300亿元离岸债券，为年内最大规模离岸票据发行",
-      "summary": "美团（3690.HK）宣布计划向专业投资者发行美元及人民币优先票据，据彭博报道拟筹资约30亿美元，为美团有史以来最大规模常规债券发行。所得款项主要用于现有离岸债务再融资及一般企业用途。",
-      "why": "美团大规模再融资表明管理层对未来现金流有信心，同时降低再融资风险；花旗预计Q3总营收同比约+20%至1142亿元、调整后净利25.6亿元，两项均超市场预期，11月下旬将公布Q3业绩——对现有或拟开仓的put期权定价有直接参考价值。",
-      "source": "华尔街见闻",
+      "time": "2026-10-27 12:00",
+      "group": "大盘头条",
+      "title": "港股午评(10/27)：恒科指跌0.77%，科网股低迷，小米跌逾4%",
+      "summary": "港股上午交易：恒指跌0.14%，科技指数跌0.77%，科网股整体承压。小米(9868.HK)跌逾4%；创新药板块走强，药明康德绩后涨近5%。腾讯、阿里居沪港通成交额前列。本轮大盘头条仅4条，因本轮最重大事件（FOMC会议开幕、Anthropic S-1、Alphabet财报预告）已于前次运行覆盖，本轮聚焦当日实际行情动态。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "债券",
-        "票据",
-        "融资"
+        "港股",
+        "恒科指",
+        "小米",
+        "腾讯",
+        "阿里巴巴",
+        "科网股"
       ],
       "translated": false,
-      "url": "https://wallstreetcn.com/articles/3757957",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwruys2049164.shtml",
       "published_date": "2026-10-27",
       "still_developing": false,
       "cross_ref": "",
+      "_schema_issues": [
+        "缺少必填字段 why"
+      ],
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": true
+    },
+    {
+      "id": "5a39ec137444b372",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "2026-10-27 09:30",
+      "group": "大盘头条",
+      "title": "A股早盘(10/27)：CPO光模块板块领涨，中国大模型调用量全球第一，国办发文强化AI就业支撑",
+      "summary": "A股早盘光模块/CPO概念股领涨，受费城半导体指数隔夜涨2.8%提振；国务院办公厅发布文件强化AI领域就业支撑政策；机构认为中国AI大模型调用量稳居全球首位，AI应用加速渗透持续反哺底层算力需求，利好半导体及光模块板块。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "CPO",
+        "光模块",
+        "AI就业",
+        "算力",
+        "半导体",
+        "国办政策"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwrqsu2092955.shtml",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_schema_issues": [
+        "缺少必填字段 why"
+      ],
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": true
+    },
+    {
+      "id": "bff13d9a15b8ed28",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "2026-10-27 08:00",
+      "group": "大盘头条",
+      "title": "经济日报：政策接续发力激发经济动能，专项债4.4万亿、超长期国债1.3万亿已发到位",
+      "summary": "经济日报评论：中国财政政策接续发力，年内新增专项债额度4.4万亿元已基本发行完毕，超长期特别国债1.3万亿元亦发行到位，政策空间充足；财政乘数效应持续释放，有助支撑A/H市场整体宏观预期。",
+      "source": "经济日报/新浪财经",
+      "verified": true,
+      "keywords": [
+        "经济政策",
+        "专项债",
+        "超长期国债",
+        "财政政策",
+        "宏观经济",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwrecc4908945.shtml",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_schema_issues": [
+        "缺少必填字段 why"
+      ],
+      "why": "⚠ 本条缺少「为何相关」——Routine 输出字段异常，请核对 routine-prompt.md §6。",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-27",
       "is_new": true
@@ -1476,6 +1455,71 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-26",
+      "is_new": false
+    },
+    {
+      "id": "89107d131e2a000f",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Anthropic Files S-1 for Nasdaq IPO Under Ticker ANT, AI Chip Stocks Rally",
+      "summary": "Anthropic publicly filed its S-1 with the SEC on Oct 26, targeting a Nasdaq listing under ticker ANT. Reports cite a valuation up to $2 trillion and a ~$100B raise; financials include ~$16.3B H1 2026 revenue. Semiconductor stocks jumped 2.8%, Nasdaq gained 0.82%.",
+      "why": "全球规模最大AI公司之一上市将重塑AI投资格局，AI芯片（英伟达、SK海力士等）板块直接受益；对A股/港股AI相关标的估值中枢构成提振；隐含波动率（IV）可能走高，对sell put策略有影响。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Anthropic",
+        "IPO",
+        "S-1",
+        "ANT",
+        "Nasdaq",
+        "AI",
+        "semiconductor"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+      "published_date": "2026-10-26",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "2189fab79a26a2ca",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "FOMC Two-Day Meeting Underway; Rate Decision Due Wednesday Oct 28",
+      "summary": "The Federal Reserve's Oct 27–28 FOMC meeting is now in session. Market consensus strongly expects a hold at the current 3.75%–4.00% target range set in September. The decision and press conference are scheduled for Oct 28 at 2:00 PM ET.",
+      "why": "美联储利率决议是本周最大宏观事件；若维持不变则短期债券波动率回落，对sell put策略正面；若措辞偏鹰或预告12月加息，美股高倍率标的和港股科技股将面临压力。注意：利率数字3.75-4.00%和会议日期来自本轮检索到的CME/Forbes原文，暂无美联储主席以外的新任官员姓名信息。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "FOMC",
+        "Federal Reserve",
+        "interest rate",
+        "rate decision",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+      "published_date": "2026-10-26",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
       "is_new": false
     },
     {
@@ -2856,6 +2900,100 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-26",
+      "is_new": false
+    },
+    {
+      "id": "0716c9da079c2a67",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "Microsoft Offers Voluntary Buyouts to ~60,000 Workers in Largest-Ever AI Restructuring",
+      "summary": "Microsoft confirmed it is offering voluntary buyouts to ~60,000 employees (VP-level and below, US/Canada/India/UK), covering divisions including Xbox, Windows, Copilot, and Finance. Layoffs remain an option if uptake is insufficient.",
+      "why": "微软大规模AI驱动裁员是大型科技公司AI转型加速的信号，将影响整体科技就业预期和TMT板块情绪；与持仓标的无直接关联但属于宏观科技行业趋势新闻，tier 2收录。注意：本条来源Fortune/TechCrunch/Axios均非白名单，故标记verified:false；已被多家主流媒体报道证实真实性。",
+      "source": "Fortune",
+      "verified": false,
+      "keywords": [
+        "Microsoft",
+        "layoffs",
+        "buyouts",
+        "AI",
+        "restructuring",
+        "tech"
+      ],
+      "translated": false,
+      "url": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/",
+      "published_date": "2026-10-26",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "8f87009d2edebcf7",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "14:00",
+      "group": "个股",
+      "title": "Bernstein Raises Circle (CRCL) Target to $145 as Analyst Sentiment Diverges on AI Risk",
+      "summary": "Bernstein raised its CRCL price target to $145 from $140, citing Arc token presales and reserve yield outlook. Meanwhile Mizuho flagged AI assistants as a threat to USDC reserve income, projecting 10–20% revenue exposure risk. CRCL fell sharply in recent sessions.",
+      "why": "Circle是稳定币赛道纯美股标的；分析师分歧加剧，GENIUS Act规则落地（OCC 10月21日最终出台）是重要监管催化剂；若OCC规则推动USDC份额增长，sell put下行保护需考虑新增波动率。",
+      "source": "The Block",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "stablecoin",
+        "GENIUS Act",
+        "Bernstein",
+        "Mizuho"
+      ],
+      "translated": false,
+      "url": "https://theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
+      "published_date": "2026-10-26",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "5ef669704a2d2bb6",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "美团拟发行约300亿元离岸债券，为年内最大规模离岸票据发行",
+      "summary": "美团（3690.HK）宣布计划向专业投资者发行美元及人民币优先票据，据彭博报道拟筹资约30亿美元，为美团有史以来最大规模常规债券发行。所得款项主要用于现有离岸债务再融资及一般企业用途。",
+      "why": "美团大规模再融资表明管理层对未来现金流有信心，同时降低再融资风险；花旗预计Q3总营收同比约+20%至1142亿元、调整后净利25.6亿元，两项均超市场预期，11月下旬将公布Q3业绩——对现有或拟开仓的put期权定价有直接参考价值。",
+      "source": "华尔街见闻",
+      "verified": true,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "债券",
+        "票据",
+        "融资"
+      ],
+      "translated": false,
+      "url": "https://wallstreetcn.com/articles/3757957",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
       "is_new": false
     },
     {
