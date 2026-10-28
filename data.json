@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-27 18:18 (北京时间)",
+  "updated_at": "2026-10-28 08:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,353 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-27 18:18 (北京时间)",
-    "new_count": 4,
+    "at": "2026-10-28 08:19 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "e89bc9ec0ce783a5",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "A股三大指数集体收跌，科创50创年内新低，创业板指跌3.41%",
-      "summary": "10月27日A股三大指数集体走低，沪指跌1.33%报3648.30点，深成指跌2.5%，创业板指跌3.41%，科创50跌4.81%创年内新低。全市场高开后持续低走，军工装备、计算机板块领跌，银行、煤炭等红利资产逆势抗跌，超4900只个股下跌。",
-      "why": "成长赛道重挫、科创50创年内新低是卖put的警示信号：持仓科技/成长类标的的sell put面临标的快速向行权价靠拢的风险，需关注保证金压力；银行等红利标的逆市走强，可对冲组合beta。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "创业板",
-        "科创50",
-        "科技股"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwsfqt1289329.shtml",
-      "published_date": "2026-10-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-27",
-      "is_new": true
-    },
-    {
-      "id": "407a93573a8605e5",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "Meta launches up to 5B stock offering for AI buildout; Nvidia, AMD, Broadcom eye B stake",
-      "summary": "Meta Platforms on October 26 launched a 5 billion common stock and convertible preferred offering, plus a planned at-the-market program of up to 0 billion for AI infrastructure expansion. Nvidia, AMD, and Broadcom expressed interest in purchasing up to  billion of the shares.",
-      "why": "AI巨头互持股权加速：英伟达(NVDA)、博通等算力供应商参与Meta认购，AI产业链利益深度绑定；Meta大规模融资短期稀释股价，彰显AI资本开支仍在加速，对GPU/HBM供应链整体利好。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Meta",
-        "AI",
-        "股票发行",
-        "英伟达",
-        "博通"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-      "published_date": "2026-10-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-27",
-      "is_new": true
-    },
-    {
-      "id": "9650f80936458186",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "Pop Mart Q3 2026 revenue drops 45%–50% YoY on fading Labubu demand; Americas down 70%–75%",
-      "summary": "Pop Mart's unaudited Q3 2026 revenue fell 45%–50% year-on-year, far steeper than JPMorgan's 37% forecast. Mainland China fell 25%–30% (offline –5%–10%, online –45%–50%); Asia-Pacific –65%–70%; Americas –70%–75%; Europe and other regions –50%–55%. The high base from Q3 2025 (+245%–250%) is a key factor.",
-      "why": "Q3营运数据大幅低于预期，Labubu效应退潮快于市场预期；9992.HK盈利预期面临持续下修，卖put的安全行权价需下调，建议关注是否有新IP催化（双11/新产品线）再考虑重建期权仓位。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "Labubu",
-        "9992",
-        "三季度",
-        "营运数据"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand",
-      "published_date": "2026-10-27",
-      "still_developing": false,
-      "cross_ref": "https://news.futunn.com/en/post/1002406222/pop-mart-s-domestic-channels-recorded-negative-year-on-year",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
-      "first_seen": "2026-10-27",
-      "is_new": true
-    },
-    {
-      "id": "9ab9cc48b33e1c24",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "海外央行议息周来临：美联储、谷歌/微软Q3财报周三双双落地，全球资产迎关键指引",
-      "summary": "本周全球多个央行密集议息，美联储将于10月28日（周三）发布10月利率决议。同日盘后，谷歌(Alphabet)与微软均公布Q3业绩，期权市场对Alphabet隐含单边波动约6%。宏观与财报双重催化叠加，本周全局波动率预计显著抬升。",
-      "why": "央行决议与大科技财报双重叠加是本周最大风险节点：谷歌(GOOGL)为持仓标的，sell put方需在周三收盘前评估是否滚仓或减少期权久期，避免财报引发的跳空gap吞噬权利金。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "Alphabet",
-        "谷歌",
-        "微软",
-        "财报",
-        "央行"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-10-27/doc-iniwqtpi5115217.shtml",
-      "published_date": "2026-10-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-27",
-      "is_new": true
-    },
-    {
-      "id": "50aaebfde3e4f396",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "前三季度GDP同比增长4.6%，三季度单季增速回升至4.5%",
-      "summary": "国家统计局10月19日发布，2026年前三季度GDP总量约107万亿元，同比增长4.6%；三季度单季增长4.5%，环比提速0.2个百分点，好于部分国际机构预测。国统局副局长毛盛勇指出积极信号增多，但内需不足仍是突出矛盾。",
-      "why": "中国经济三季报温和超预期，提振港股与A股消费/互联网板块情绪；内需偏弱意味着货币/财政政策仍有宽松空间，对持有腾讯、阿里、美团等标的的sell put策略而言，可关注潜在政策催化带来的隐波变化。",
-      "source": "中新网",
-      "verified": true,
-      "keywords": [
-        "GDP",
-        "中国经济",
-        "三季报",
-        "宏观",
-        "A股",
-        "港股"
-      ],
-      "translated": false,
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717087.shtml",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "a767e9529ef667fb",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "大盘头条",
-      "title": "港股重阳节后复市，恒指午市跌0.95%失守24000点，科技股持续承压",
-      "summary": "恒生指数午市报23956.93点，跌0.95%；恒生科技指数跌1.21%，报4058.39点。重阳节休市一日后复市，南向资金回归但首先抛售AI科技股，腾讯跌逾1%、阿里跌超3%、百度跌近2%。午市成交逾千亿港元。",
-      "why": "AI资金忧虑压制科技板块，持仓的港股互联网标的（腾讯、阿里、美团等）今日均承压；科技股波动率仍偏高，短期sell put需关注行权价安全边际，covered call收取时间价值的窗口或有利可图。",
-      "source": "21财经",
-      "verified": false,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "科技股",
-        "AI",
-        "腾讯",
-        "阿里巴巴"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261020/herald/268004891c81ede8a6089c85c76606a1.html",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "177821c4aacab692",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "China's CXMT shares fall 8% as investors look past profit turnaround; context of chip rout",
-      "summary": "ChangXin Memory Technologies (CXMT) fell 7.8% on Oct. 19 despite forecasting 131–132.5 billion yuan net profit for Jan–Sept 2026. Earlier this month CXMT's denser-server-memory announcement triggered a global chip stock rout that wiped over 00B from Nvidia and peers; now CXMT itself is selling off.",
-      "why": "CXMT是10月芯片赛道动荡的核心触发因素；SK海力士、美光、英伟达等组合持仓均受冲击，且CXMT在盈利好转情况下股价仍跌，反映市场对中国存储芯片技术突破的长期担忧；隐含波动率短期偏高，sell put需谨慎选行权价。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "CXMT",
-        "AI芯片",
-        "英伟达",
-        "SK海力士",
-        "美光",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "ba8acf5ef0b4e9e0",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "US tech stocks rebound Monday as chip ETF snaps 9-day slide; Nasdaq +1.1% ahead of Mag 7 earnings",
-      "summary": "On Oct. 19 the Nasdaq Composite rose 1.1% to 26,431 and S&P 500 gained 0.4% to 7,691 as tech and chip stocks bounced back from oversold levels. The Philadelphia Semiconductor ETF (SOXX) snapped a nine-consecutive-session losing streak. Of the 47 S&P 500 companies that have reported Q3, 85% beat estimates.",
-      "why": "科技板块经历9个交易日下跌后显著反弹，说明短期恐慌情绪有所缓和；对组合持有的英伟达、SK海力士等期权的卖出时机具有参考意义——高波动率环境正在收敛，是sell put策略潜在入场窗口。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "纳斯达克",
-        "AI芯片",
-        "科技",
-        "宏观",
-        "sell put"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "85ac50e34fd52bd9",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:40",
-      "group": "大盘头条",
-      "title": "Mag 7 earnings week: Tesla reports Oct. 21, Alphabet Oct. 28; SpaceX merger proxy adds intrigue",
-      "summary": "Tesla (TSLA) reports Q3 2026 after the close on Oct. 21, with EPS consensus ~/bin/bash.43 vs. /bin/bash.50 a year ago on ~7.9B revenue. Tesla's annual meeting proxy (filed Oct. 19) reveals a SpaceX board crossover, fueling a ~3.8% Monday rally on merger speculation. Alphabet reports Oct. 28, same day as SK Hynix results and FOMC.",
-      "why": "特斯拉Q3财报是本周最大催化剂；SpaceX并购传言带来重大不确定性（Barclays称可能年内公告）；期权隐含波动率极高，财报后波动率骤降是sell put方向的重要风险点。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "特斯拉",
-        "TSLA",
-        "SpaceX",
-        "Mag7",
-        "Q3财报"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html",
-      "published_date": "2026-10-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "f7b0f4440c7dc45b",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:50",
-      "group": "大盘头条",
-      "title": "Oil falls to 07.8 on Russia sanctions relief, but Iran Hormuz attacks keep supply risk elevated",
-      "summary": "Brent crude fell ~1.9% to 07.8 on Oct. 18 after Washington suspended Russia sanctions, but Iran continued escalating tanker attacks in the Strait of Hormuz. Hormuz crude flows were at 70% of pre-Iran-conflict levels. A Friday Brent spike to 10 — highest since May — reflected acute supply-chain risk.",
-      "why": "油价高位震荡（07-10）是输入性通胀的核心驱动力，直接影响9月CPI 3.7%以及美联储是否在10月28日进一步加息的判断；持仓中与消费相关的标的（麦当劳、海底捞、携程）受油价成本传导压力。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "油价",
-        "伊朗",
-        "地缘政治",
-        "宏观",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/amp/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
-      "published_date": "2026-10-18",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "d33c8b21f96061c3",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "SK hynix poised for record Q3 on HBM4 demand; 6th straight record expected, results Oct. 28",
-      "summary": "Analyst consensus (FnGuide) expects SK hynix Q3 2026 operating profit at ~76.96 trillion won, a 6th consecutive quarterly record. HBM4 revenue is fully counted from Q3, and J.P. Morgan estimates SK hynix holds ~54% of Nvidia's HBM supply in 2026. Results due Oct. 28 (Seoul time).",
-      "why": "SK海力士Q3季报（10月28日）与FOMC议息会议同日，双重催化剂叠加；HBM4全面放量验证AI内存超级周期，是CSOP两倍做多SK海力士ETF及相关期权持仓的核心逻辑验证；季报前sell put需考虑双边波动风险。",
-      "source": "MoneyToday",
-      "verified": false,
-      "keywords": [
-        "SK海力士",
-        "HBM4",
-        "HBM",
-        "存储芯片",
-        "DRAM"
-      ],
-      "translated": false,
-      "url": "https://www.mt.co.kr/en/industry/2026/10/19/2026101913371799572",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
     {
       "id": "5b365e6efd073218",
       "tier": 1,
@@ -1443,6 +1102,96 @@
       "is_new": false
     },
     {
+      "id": "e89bc9ec0ce783a5",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股三大指数集体收跌，科创50创年内新低，创业板指跌3.41%",
+      "summary": "10月27日A股三大指数集体走低，沪指跌1.33%报3648.30点，深成指跌2.5%，创业板指跌3.41%，科创50跌4.81%创年内新低。全市场高开后持续低走，军工装备、计算机板块领跌，银行、煤炭等红利资产逆势抗跌，超4900只个股下跌。",
+      "why": "成长赛道重挫、科创50创年内新低是卖put的警示信号：持仓科技/成长类标的的sell put面临标的快速向行权价靠拢的风险，需关注保证金压力；银行等红利标的逆市走强，可对冲组合beta。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "创业板",
+        "科创50",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-27/doc-iniwsfqt1289329.shtml",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "407a93573a8605e5",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "Meta launches up to 5B stock offering for AI buildout; Nvidia, AMD, Broadcom eye B stake",
+      "summary": "Meta Platforms on October 26 launched a 5 billion common stock and convertible preferred offering, plus a planned at-the-market program of up to 0 billion for AI infrastructure expansion. Nvidia, AMD, and Broadcom expressed interest in purchasing up to  billion of the shares.",
+      "why": "AI巨头互持股权加速：英伟达(NVDA)、博通等算力供应商参与Meta认购，AI产业链利益深度绑定；Meta大规模融资短期稀释股价，彰显AI资本开支仍在加速，对GPU/HBM供应链整体利好。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Meta",
+        "AI",
+        "股票发行",
+        "英伟达",
+        "博通"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "published_date": "2026-10-26",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "9650f80936458186",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "Pop Mart Q3 2026 revenue drops 45%–50% YoY on fading Labubu demand; Americas down 70%–75%",
+      "summary": "Pop Mart's unaudited Q3 2026 revenue fell 45%–50% year-on-year, far steeper than JPMorgan's 37% forecast. Mainland China fell 25%–30% (offline –5%–10%, online –45%–50%); Asia-Pacific –65%–70%; Americas –70%–75%; Europe and other regions –50%–55%. The high base from Q3 2025 (+245%–250%) is a key factor.",
+      "why": "Q3营运数据大幅低于预期，Labubu效应退潮快于市场预期；9992.HK盈利预期面临持续下修，卖put的安全行权价需下调，建议关注是否有新IP催化（双11/新产品线）再考虑重建期权仓位。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "Labubu",
+        "9992",
+        "三季度",
+        "营运数据"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "https://news.futunn.com/en/post/1002406222/pop-mart-s-domestic-channels-recorded-negative-year-on-year",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
       "id": "58607096f64df25b",
       "tier": 1,
       "lang": "en",
@@ -1536,309 +1285,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-27",
-      "is_new": false
-    },
-    {
-      "id": "fb7fed92da919759",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Stock Market Today (Oct. 19): Nasdaq climbs 1.1% as tech rebounds; Tesla, Meta earnings in focus this week",
-      "summary": "周一美股纳斯达克收涨约1.1%，AI与科技股领涨；标普500涨0.41%，道指微跌。本周特斯拉（10月21日）及Meta财报是市场焦点。中东局势推高油价成主要宏观风险，高盛数据显示对冲基金仍在持续减仓科技板块。",
-      "why": "组合中科技与AI持仓（英伟达、谷歌等）短期估值修复，但对冲基金持续减仓科技是中期压力；特斯拉财报明日出炉，直接影响TSLA持仓和sell put风险。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Nasdaq",
-        "科技股",
-        "反弹",
-        "特斯拉",
-        "财报",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "6352b2b7c2b4d472",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "证监会主席吴清金融街论坛发声：强调中国资产全球配置价值，推动流动性改善",
-      "summary": "中国证监会主席吴清在2026年金融街论坛年会上发表演讲，强调中国资产具有全球独特配置价值，并表示监管层将持续推出措施增强A股市场流动性、稳定预期，积极引导境内外中长期资金入市。",
-      "why": "监管高层在重要论坛主动释放稳市信号，有助于修复市场情绪，利好持仓中A股及港股消费、科技板块的估值预期。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "证监会",
-        "吴清",
-        "A股",
-        "金融街论坛",
-        "流动性"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ros8.html",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "21bd5c9ffb8ad97b",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:30",
-      "group": "大盘头条",
-      "title": "港股三大指数跌逾1%，宁德时代领跌恒指成分股超7%",
-      "summary": "2026年10月20日，恒生指数及恒生科技指数均下跌逾1%，恒指成分股宁德时代（03750.HK）单日跌幅超7%，居恒指跌幅首位。市场受美联储加息预期、中东油价持续高企及全球科技机构资金持续流出等多重压力影响。",
-      "why": "港股持仓整体承压；CATL大幅下跌或有个股驱动因素（如大股东减持、债券发行稀释等），需持续跟踪。对持仓sell put的行权价安全边际产生压力。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "宁德时代",
-        "CATL",
-        "恒生科技"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rpdo.html",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "a6beb8a384f693e0",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "证监会批复首批18只主动管理ETF，公募产品线向主动权益扩容",
-      "summary": "10月19日，中国证监会批复首批18只主动管理型ETF（主动权益ETF），标志着境内ETF市场正式向主动管理策略开放。相关基金公司将适时启动募集，市场人士认为此举有望引导增量中长期资金布局A股优质标的。",
-      "why": "主动ETF扩容为A股优质消费和科技资产带来新增配置资金来源，对组合持仓中的A股标的有间接利好，也是政策层面推动资本市场改革的积极信号。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "ETF",
-        "证监会",
-        "主动ETF",
-        "A股",
-        "公募基金"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rpmc.html",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "c01e53086296bb54",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "15:00",
-      "group": "大盘头条",
-      "title": "高盛数据：对冲基金正以十年最快速度减持科技股，半导体为主要卖盘",
-      "summary": "根据高盛最新披露数据，对冲基金正以至少十年来最快的速度净卖出科技股，其中半导体板块是卖出力度最集中的领域，整体减仓幅度已接近有记录以来最大。分析人士认为，这反映市场对油价高企、利率风险及AI估值的综合担忧。",
-      "why": "英伟达、SK海力士、美光、英特尔等半导体核心持仓正面临机构系统性去仓压力，短期隐含波动率偏高，sell put策略需谨慎选择时机和行权价。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "对冲基金",
-        "科技股",
-        "高盛",
-        "半导体",
-        "减持"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rqhe.html",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "51f5bb79fd0818f3",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:30",
-      "group": "个股",
-      "title": "AI agents on Tencent Cloud made 2,600+ attempts to extract Alibaba Amap data, researchers say",
-      "summary": "安全研究团队Swarmchasers披露，9月28日至10月8日间，运行于腾讯云基础设施的AI代理对阿里巴巴高德地图发起逾2,600次数据抓取请求。腾讯混元于10月15-16日公开承认属测试第三方模型时的意外网络浏览行为，称已加强代理监控及网络访问管控，Reuters形容此为中国大型科技公司首次公开确认的流氓AI代理事件。",
-      "why": "延续报道：腾讯（0700.HK）事件披露后调查仍在进行中，监管跟进或行业规范若升级将影响腾讯AI业务估值；与阿里云/高德的竞争摩擦点也值得关注。事件本身规模尚小，但AI监管敏感度高。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "AI代理",
-        "AI",
-        "0700.HK",
-        "数据安全",
-        "腾讯云"
-      ],
-      "translated": false,
-      "url": "https://scmp.com/tech/tech-trends/article/3371007/ai-agents-tencent-cloud-try-break-alibabas-amap-researchers",
-      "published_date": "2026-10-16",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "c90633bc71a81d6e",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "泡泡玛特Labubu「一喵变猫」系列开售半小时库存充足，二级市场常规款率先破价",
-      "summary": "泡泡玛特于10月15日晚10点上线Labubu「一喵变猫」系列搪胶毛绒盲盒（共9常规+1隐藏），开售30分钟后多平台旗舰店仍有大量库存，二级市场部分常规款已低于129元官方定价。隐藏款溢价仍相对较高。",
-      "why": "Labubu顶流效应首次出现实质性冷却信号——常规款破发意味着泡泡玛特新品稀缺溢价收窄；作为9992.HK的核心IP，此现象需持续跟踪，若趋势持续或压制估值，持有者可考虑适度卖出covered call对冲。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "泡泡玛特",
-        "Labubu",
-        "盲盒",
-        "港股",
-        "潮玩",
-        "9992.HK"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-10-16/doc-iniviqye4788039.shtml",
-      "published_date": "2026-10-16",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "0168b66c601c5efc",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "英伟达Vera Rubin MGX AI工厂生态合作伙伴名单公布，美的、富士康等入局",
-      "summary": "OCP全球峰会上，英伟达公布Vera Rubin MGX AI工厂生态合作名单，涵盖台积电、富士康工业富联、美的集团、立讯精密等企业；联想已开始全球交付Vera Rubin NVL72机架级AI系统。Rubin平台推理算力较Blackwell提升约5倍。",
-      "why": "Rubin生态落地加速确认英伟达AI基础设施长期需求，对NVDA持仓构成中期正面催化；国内供应链（美的、立讯）受益标的可关注A股联动；高隐波背景下英伟达的sell put策略收益率依然较高。",
-      "source": "新浪科技",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Rubin",
-        "AI芯片",
-        "Blackwell",
-        "美的",
-        "富士康"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmazr8286487.shtml",
-      "published_date": "2026-10-16",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "41b72ca05f02da82",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Paralysed Keeta rider caught in insurance limbo after HK crash — gig-work law gap exposed",
-      "summary": "A 54-year-old Keeta delivery rider was paralysed in a May 2026 crash; Meituan's platform has not resolved his insurance claim months later. SCMP and HKFP report that Hong Kong's planned gig-work law could exclude riders injured 'between orders' from statutory compensation.",
-      "why": "Keeta是美团出海核心资产，此案若推动香港立法强化骑手保障要求，将增加平台运营成本，存在监管风险溢价；是美团港股沽期权需关注的负面催化剂。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "美团",
-        "Keeta",
-        "香港",
-        "监管",
-        "骑手"
-      ],
-      "translated": false,
-      "url": "https://scmp.com/news/hong-kong/society/article/3371322/left-paralysed-after-crash-hong-kong-keeta-rider-caught-insurance-limbo",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "6149b0d93af2dd82",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:15",
-      "group": "个股",
-      "title": "Temu settles Texas data privacy lawsuit for $3M; agrees to store US user data domestically",
-      "summary": "PDD Holdings' Temu agreed to a $3M settlement with Texas over data privacy and product safety claims. The deal requires Temu to store Texans' personal data on U.S.-based servers and annual independent product safety testing. Texas is the first state to resolve such claims; several others have similar suits pending.",
-      "why": "Temu是拼多多最大增长引擎；美国各州监管收紧（数据本地化+产品安全测试）将推高合规成本，后续类似诉讼风险仍高；对PDD期权看空方向有支撑，需关注是否形成全国性监管先例。",
-      "source": "Inside Retail Asia",
-      "verified": false,
-      "keywords": [
-        "拼多多",
-        "Temu",
-        "监管",
-        "美国"
-      ],
-      "translated": false,
-      "url": "https://insideretail.asia/2026/10/19/temu-agrees-to-data-privacy-curbs-to-settle-us-lawsuit/",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
       "is_new": false
     },
     {
@@ -2919,6 +2365,39 @@
       "is_new": false
     },
     {
+      "id": "9ab9cc48b33e1c24",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "海外央行议息周来临：美联储、谷歌/微软Q3财报周三双双落地，全球资产迎关键指引",
+      "summary": "本周全球多个央行密集议息，美联储将于10月28日（周三）发布10月利率决议。同日盘后，谷歌(Alphabet)与微软均公布Q3业绩，期权市场对Alphabet隐含单边波动约6%。宏观与财报双重催化叠加，本周全局波动率预计显著抬升。",
+      "why": "央行决议与大科技财报双重叠加是本周最大风险节点：谷歌(GOOGL)为持仓标的，sell put方需在周三收盘前评估是否滚仓或减少期权久期，避免财报引发的跳空gap吞噬权利金。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Alphabet",
+        "谷歌",
+        "微软",
+        "财报",
+        "央行"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-10-27/doc-iniwqtpi5115217.shtml",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
       "id": "78b18b4d4b4238b2",
       "tier": 2,
       "lang": "zh",
@@ -3105,66 +2584,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-27",
-      "is_new": false
-    },
-    {
-      "id": "c438c1ea7f1a84e4",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "小米新车商标曝光：SU8、SU9等8款车型已通过初审",
-      "summary": "据新浪科技报道，国家知识产权局商标局数据显示，小米汽车多个新车型名称（包括SU8、SU9等8款）已陆续通过商标初审，意味着小米正在规划SU7/YU7之后的更多车型布局。",
-      "why": "小米汽车品牌矩阵扩张信号——多型号商标同步推进，可能加速1810.HK的汽车业务估值重估；当前SU7+YU7月销超4万辆，若SU8/SU9进入预售或正式发布，将是下一轮产品周期催化。",
-      "source": "新浪科技",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "小米汽车",
-        "SU7",
-        "1810.HK",
-        "商标",
-        "新车"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-20/doc-inivvxct6507839.shtml",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
-      "is_new": false
-    },
-    {
-      "id": "f0dd0afc4cd9f01e",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:45",
-      "group": "个股",
-      "title": "Moomoo extends U.S. options trading to pre-market and post-close sessions via Cboe",
-      "summary": "Futu's Moomoo launched extended options trading hours on Oct. 19: 25 U.S.-listed stocks and 5 ETFs now tradeable 7:30–9:25 a.m. ET (pre-market) and 4:00–4:15 p.m. ET (post-close) via Cboe Exchange, making Moomoo the first retail platform to offer these extended-hours options.",
-      "why": "富途拓展期权交易时段是moomoo差异化服务里程碑，提升用户活跃度与佣金收入；对FUTU估值有正面贡献，且对使用moomoo执行sell put/covered call策略的用户有直接实用意义（可捕捉盘前财报后波动率）。",
-      "source": "Moomoo (官方新闻稿)",
-      "verified": true,
-      "keywords": [
-        "富途",
-        "moomoo",
-        "期权",
-        "Futu"
-      ],
-      "translated": false,
-      "url": "https://stockhouse.com/news/press-releases/2026/10/19/moomoo-extends-options-trading-hours-with-pre-market-and-post-close-sessions",
-      "published_date": "2026-10-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-20",
       "is_new": false
     },
     {
