@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-28 08:20 (北京时间)",
+  "updated_at": "2026-10-28 13:28 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,37 +9,39 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-28 08:20 (北京时间)",
-    "new_count": 4,
+    "at": "2026-10-28 13:28 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "a1db509c8cbca4b7",
+      "id": "b0a46cc4c938112d",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "US"
+        "US",
+        "HK"
       ],
-      "time": "07:30",
+      "time": "07:35",
       "group": "大盘头条",
-      "title": "昨夜美股全线拉升，纳指涨逾1%，AI科技股领跑，今日迎美联储决议+巨头财报双重催化",
-      "summary": "10月27日美股全线收涨，纳斯达克综指涨约1.2%，标普500涨约0.6%；AI概念股与半导体板块领涨。10月28日今日为「超级星期三」：美联储议息决议及谷歌Alphabet、微软季报均于盘后揭晓。",
-      "why": "美股反弹反映市场对AI景气度的持续乐观；今日美联储措辞（按兵不动概率高）与科技巨头财报将直接影响AI板块估值走向及期权隐含波动率；持有GOOGL、MSFT相关仓位者注意盘后大幅波动风险。",
-      "source": "第一财经",
+      "title": "AI芯片主题推动纳指涨1.18%，英伟达+2.4%；Alphabet今晚盘后公布Q3财报；油价回落WTI跌至$99.90",
+      "summary": "周二美股三大指数连续第二日上涨：纳指+1.18%，标普+0.60%至7,722，英伟达(NVDA)+2.39%至$216，受Broadcom为Anthropic芯片租赁筹资600亿美元以及Meta与英伟达签订多年芯片协议提振。Alphabet(GOOGL)今晚盘后公布Q3业绩，市场预期营收约$1280亿（同比+25%），云业务为关注焦点。原油方面，WTI结算价跌1.83%至$99.90，布伦特跌1.67%至$113.88，美伊外交谈判消息令市场对供应紧张预期有所缓解。亚太股市跟涨，恒指小幅收高。",
+      "why": "英伟达多年协议巩固AI基础设施投资主线，对持仓中AI芯片/云业务暴露的标的（腾讯、阿里云等）间接利好。Alphabet业绩今晚是大盘关键催化剂，若云增速低于Q2的82%可能触发科技股回调。油价破百下方对通胀预期有正面作用。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "美股",
-        "纳斯达克",
-        "AI",
-        "美联储",
+        "英伟达",
         "Alphabet",
-        "微软",
-        "科技股"
+        "谷歌",
+        "NVDA",
+        "GOOGL",
+        "AI芯片",
+        "油价",
+        "美联储"
       ],
       "translated": false,
-      "url": "https://m.21jingji.com/article/20261027/herald/31a050e7a425115b1340e1c4d112dd84.html",
+      "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
       "published_date": "2026-10-27",
       "still_developing": false,
       "cross_ref": "",
@@ -48,31 +50,31 @@
       "is_new": true
     },
     {
-      "id": "05c35e14ec74ac50",
+      "id": "076eb4672a0e08cd",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "US"
+        "US",
+        "HK"
       ],
-      "time": "07:00",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "美联储10月议息今日发布决议，市场定价高概率按兵不动，主席沃什新闻发布会是关键",
-      "summary": "美联储FOMC两日会议10月28日公布决议，据Kalshi预测市场数据，市场定价维持利率不变的概率约93%；美联储主席沃什（Kevin Warsh）表示不预判决策，其新闻发布会对12月会议走向至关重要。9月美联储曾加息25基点，为三年来首次。",
-      "why": "美联储决议是本周最重要宏观事件；若沃什发布会措辞偏鹰（暗示12月再度加息），美股科技板块与港股科技股将面临压力；利率前景明朗前，sell put 策略需管控 gamma 风险；注意与同日发布的Alphabet/微软财报共振效应。",
-      "source": "新浪财经",
-      "verified": false,
+      "title": "SK Hynix Posts Record Q3: KRW 83.3T Operating Profit, HBM4 Mass Production, KRW 100T Shareholder Return Plan",
+      "summary": "SK Hynix reported record Q3 2026 results: revenue KRW 104.6 trillion, operating profit KRW 83.3 trillion (~80% operating margin). The company announced a KRW 100 trillion shareholder return plan for FY2026, including KRW 30 trillion+ in cash dividends and KRW 60 trillion+ in share buybacks/cancellations; Q3 dividend set at KRW 20,000 per share. HBM4 entered full-scale mass production in Q3 with yields exceeding targets, and is expected to overtake HBM3E in Q4. Long-term agreements now cover over 50% of total capacity for 2027 and 2028. Shares gained ~8% following the release.",
+      "why": "SK Hynix是持仓中HBM/AI内存赛道的核心标的（直接持仓SKHY ADR或通过指数暴露）。HBM4量产超预期 + 百万亿韩元回报计划是今日亚太科技板块的主要上涨催化剂，也印证了英伟达AI芯片需求维持强劲。对sell put策略而言，短期隐含波动率飙升，需注意Delta风险。",
+      "source": "SK Hynix Newsroom",
+      "verified": true,
       "keywords": [
-        "美联储",
-        "FOMC",
-        "利率决议",
-        "Kevin Warsh",
-        "沃什",
-        "货币政策",
-        "加息"
+        "SK海力士",
+        "SK Hynix",
+        "HBM4",
+        "HBM",
+        "存储芯片",
+        "SKHY"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/cpbd/2026-10-26/doc-iniwnzcz9305013.shtml",
-      "published_date": "2026-10-26",
+      "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "published_date": "2026-10-28",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -80,62 +82,29 @@
       "is_new": true
     },
     {
-      "id": "73652fc53d7f6562",
+      "id": "7e4eca7357f99eb1",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "A"
       ],
-      "time": "16:00",
+      "time": "07:45",
       "group": "大盘头条",
-      "title": "A股10月27日普跌：超4900只股下跌，创业板指跌3.41%，银行股逆势上涨",
-      "summary": "A股10月27日大幅走弱，两市超4900只个股下跌，创业板指跌3.41%；银行板块逆势上涨，三季报密集披露期中业绩明确的方向资金流向防御性资产。",
-      "why": "A股科技成长板块连续调整，估值承压；三季报披露期不确定性加大，银行股凭借中期分红预期逆势抗跌；关注持仓个股三季报兑现情况，高估值科技股若业绩不及预期有进一步下修风险。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "创业板",
-        "银行股",
-        "市场行情",
-        "三季报"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_1704103183_65928d0f0200bg3iu.html?from=finance",
-      "published_date": "2026-10-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-28",
-      "is_new": true
-    },
-    {
-      "id": "927801678e094b69",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "00:30",
-      "group": "大盘头条",
-      "title": "英伟达Vera Rubin生态扩张：甲骨文大幅扩大AI芯片合作，GTC柏林披露AI软件授权模式",
-      "summary": "据新浪财经综合报道，甲骨文宣布扩大与英伟达云端AI芯片合作，拟将Vera Rubin架构AI服务器部署扩展至数吉瓦级；GTC柏林会议上，英伟达就AI配套软件年度授权及Rubin架构GPU的长期使用寿命作出最新说明。",
-      "why": "甲骨文确认大规模Vera Rubin部署持续验证AI算力超级周期；英伟达AI软件订阅模式若落地将开辟新收入来源，有望提升估值；对HBM4需求（SK海力士/美光受益）亦构成长期支撑；NVDA期权方向性布局需关注财报前后隐波变化。",
-      "source": "新浪财经",
+      "title": "A股10月27日科技板块重挫，科创50跌4.81%，创业板指跌3.41%",
+      "summary": "10月27日A股大幅收跌：上证指数跌1.33%，深证成指跌2.5%，创业板指跌3.41%，科创50跌4.81%。科技与成长股卖压明显，与港股科技指数当日跌约1.5%走势一致，反映市场对AI/科技高估值的重估情绪，叠加美联储政策不确定性。",
+      "why": "A股科创板重挫对关注A股标的的期权策略有影响；若估值重估持续蔓延，可能对持仓中港股科技股如腾讯、小米造成连锁压力，建议留意仓位Delta。",
+      "source": "格隆汇",
       "verified": false,
       "keywords": [
-        "英伟达",
-        "NVDA",
-        "Vera Rubin",
-        "甲骨文",
-        "Oracle",
-        "AI芯片",
-        "数据中心",
-        "GTC"
+        "A股",
+        "科创板",
+        "创业板",
+        "上证",
+        "科创50"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908somq.html",
-      "published_date": "2026-10-28",
+      "url": "https://m.gelonghui.com/live/2518585",
+      "published_date": "2026-10-27",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1412,6 +1381,70 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "a1db509c8cbca4b7",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:30",
+      "group": "大盘头条",
+      "title": "昨夜美股全线拉升，纳指涨逾1%，AI科技股领跑，今日迎美联储决议+巨头财报双重催化",
+      "summary": "10月27日美股全线收涨，纳斯达克综指涨约1.2%，标普500涨约0.6%；AI概念股与半导体板块领涨。10月28日今日为「超级星期三」：美联储议息决议及谷歌Alphabet、微软季报均于盘后揭晓。",
+      "why": "美股反弹反映市场对AI景气度的持续乐观；今日美联储措辞（按兵不动概率高）与科技巨头财报将直接影响AI板块估值走向及期权隐含波动率；持有GOOGL、MSFT相关仓位者注意盘后大幅波动风险。",
+      "source": "第一财经",
+      "verified": true,
+      "keywords": [
+        "美股",
+        "纳斯达克",
+        "AI",
+        "美联储",
+        "Alphabet",
+        "微软",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261027/herald/31a050e7a425115b1340e1c4d112dd84.html",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-28",
+      "is_new": false
+    },
+    {
+      "id": "05c35e14ec74ac50",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "美联储10月议息今日发布决议，市场定价高概率按兵不动，主席沃什新闻发布会是关键",
+      "summary": "美联储FOMC两日会议10月28日公布决议，据Kalshi预测市场数据，市场定价维持利率不变的概率约93%；美联储主席沃什（Kevin Warsh）表示不预判决策，其新闻发布会对12月会议走向至关重要。9月美联储曾加息25基点，为三年来首次。",
+      "why": "美联储决议是本周最重要宏观事件；若沃什发布会措辞偏鹰（暗示12月再度加息），美股科技板块与港股科技股将面临压力；利率前景明朗前，sell put 策略需管控 gamma 风险；注意与同日发布的Alphabet/微软财报共振效应。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "FOMC",
+        "利率决议",
+        "Kevin Warsh",
+        "沃什",
+        "货币政策",
+        "加息"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-10-26/doc-iniwnzcz9305013.shtml",
+      "published_date": "2026-10-26",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-28",
       "is_new": false
     },
     {
@@ -2711,6 +2744,69 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "73652fc53d7f6562",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "A股10月27日普跌：超4900只股下跌，创业板指跌3.41%，银行股逆势上涨",
+      "summary": "A股10月27日大幅走弱，两市超4900只个股下跌，创业板指跌3.41%；银行板块逆势上涨，三季报密集披露期中业绩明确的方向资金流向防御性资产。",
+      "why": "A股科技成长板块连续调整，估值承压；三季报披露期不确定性加大，银行股凭借中期分红预期逆势抗跌；关注持仓个股三季报兑现情况，高估值科技股若业绩不及预期有进一步下修风险。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "创业板",
+        "银行股",
+        "市场行情",
+        "三季报"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_1704103183_65928d0f0200bg3iu.html?from=finance",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-28",
+      "is_new": false
+    },
+    {
+      "id": "927801678e094b69",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "00:30",
+      "group": "大盘头条",
+      "title": "英伟达Vera Rubin生态扩张：甲骨文大幅扩大AI芯片合作，GTC柏林披露AI软件授权模式",
+      "summary": "据新浪财经综合报道，甲骨文宣布扩大与英伟达云端AI芯片合作，拟将Vera Rubin架构AI服务器部署扩展至数吉瓦级；GTC柏林会议上，英伟达就AI配套软件年度授权及Rubin架构GPU的长期使用寿命作出最新说明。",
+      "why": "甲骨文确认大规模Vera Rubin部署持续验证AI算力超级周期；英伟达AI软件订阅模式若落地将开辟新收入来源，有望提升估值；对HBM4需求（SK海力士/美光受益）亦构成长期支撑；NVDA期权方向性布局需关注财报前后隐波变化。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "NVDA",
+        "Vera Rubin",
+        "甲骨文",
+        "Oracle",
+        "AI芯片",
+        "数据中心",
+        "GTC"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908somq.html",
+      "published_date": "2026-10-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-28",
       "is_new": false
     },
     {
