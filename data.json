@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-28 13:28 (北京时间)",
+  "updated_at": "2026-10-28 18:12 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,71 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-28 13:28 (北京时间)",
-    "new_count": 3,
+    "at": "2026-10-28 18:12 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "b0a46cc4c938112d",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:35",
-      "group": "大盘头条",
-      "title": "AI芯片主题推动纳指涨1.18%，英伟达+2.4%；Alphabet今晚盘后公布Q3财报；油价回落WTI跌至$99.90",
-      "summary": "周二美股三大指数连续第二日上涨：纳指+1.18%，标普+0.60%至7,722，英伟达(NVDA)+2.39%至$216，受Broadcom为Anthropic芯片租赁筹资600亿美元以及Meta与英伟达签订多年芯片协议提振。Alphabet(GOOGL)今晚盘后公布Q3业绩，市场预期营收约$1280亿（同比+25%），云业务为关注焦点。原油方面，WTI结算价跌1.83%至$99.90，布伦特跌1.67%至$113.88，美伊外交谈判消息令市场对供应紧张预期有所缓解。亚太股市跟涨，恒指小幅收高。",
-      "why": "英伟达多年协议巩固AI基础设施投资主线，对持仓中AI芯片/云业务暴露的标的（腾讯、阿里云等）间接利好。Alphabet业绩今晚是大盘关键催化剂，若云增速低于Q2的82%可能触发科技股回调。油价破百下方对通胀预期有正面作用。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Alphabet",
-        "谷歌",
-        "NVDA",
-        "GOOGL",
-        "AI芯片",
-        "油价",
-        "美联储"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
-      "published_date": "2026-10-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-28",
-      "is_new": true
-    },
-    {
-      "id": "076eb4672a0e08cd",
+      "id": "44f21a6b6026283b",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "08:00",
+      "time": "07:30",
       "group": "大盘头条",
-      "title": "SK Hynix Posts Record Q3: KRW 83.3T Operating Profit, HBM4 Mass Production, KRW 100T Shareholder Return Plan",
-      "summary": "SK Hynix reported record Q3 2026 results: revenue KRW 104.6 trillion, operating profit KRW 83.3 trillion (~80% operating margin). The company announced a KRW 100 trillion shareholder return plan for FY2026, including KRW 30 trillion+ in cash dividends and KRW 60 trillion+ in share buybacks/cancellations; Q3 dividend set at KRW 20,000 per share. HBM4 entered full-scale mass production in Q3 with yields exceeding targets, and is expected to overtake HBM3E in Q4. Long-term agreements now cover over 50% of total capacity for 2027 and 2028. Shares gained ~8% following the release.",
-      "why": "SK Hynix是持仓中HBM/AI内存赛道的核心标的（直接持仓SKHY ADR或通过指数暴露）。HBM4量产超预期 + 百万亿韩元回报计划是今日亚太科技板块的主要上涨催化剂，也印证了英伟达AI芯片需求维持强劲。对sell put策略而言，短期隐含波动率飙升，需注意Delta风险。",
-      "source": "SK Hynix Newsroom",
-      "verified": true,
+      "title": "SK Hynix shares surge 11% after record Q3 profit, lifting AI memory chip sector",
+      "summary": "SK Hynix reported record third-quarter results driven by surging HBM demand, sending its Seoul shares up about 11% and Samsung Electronics up over 9%. US chip stocks also benefited in premarket: Micron Technology gained about 4% and Nvidia rose about 0.8%. The company maintained a strong outlook for HBM supply tightness through at least 2030.",
+      "why": "SK Hynix是Nvidia的关键HBM供应商；业绩超预期提振整个AI存储板块，持有美光（MU）及CSOP南方两倍做多SK海力士ETF（7709.HK）的投资者直接受益；HBM紧张预期持续，利好存储相关sell put策略。",
+      "source": "CNBC",
+      "verified": false,
       "keywords": [
         "SK海力士",
         "SK Hynix",
-        "HBM4",
         "HBM",
+        "DRAM",
         "存储芯片",
-        "SKHY"
+        "美光"
       ],
       "translated": false,
-      "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "url": "https://cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
       "published_date": "2026-10-28",
       "still_developing": false,
       "cross_ref": "",
@@ -82,29 +48,87 @@
       "is_new": true
     },
     {
-      "id": "7e4eca7357f99eb1",
+      "id": "5587f8c5133de66b",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "泡泡玛特三季度整体营收同比骤降45%-50%，美洲市场降逾七成，ADR大跌约10%",
+      "summary": "泡泡玛特（9992.HK）披露2026年三季度业务状况：整体收益同比下降45%-50%，中国内地降25%-30%（线下降5%-10%、线上降45%-50%），亚太降65%-70%，美洲降70%-75%，欧洲降50%-55%。公司首席运营官称海外市场已平稳发展，预计中国全年仍可实现正增长。公告后泡泡玛特ADR盘后大跌约9.87%。",
+      "why": "Labubu热潮退去迹象明显，三季度是公司上半年亮眼增长后的首次大幅回落；ADR暴跌预示港股次日压力；若持有泡泡玛特相关sell put头寸，需密切关注支撑位与隐含波动率变化。",
+      "source": "澎湃新闻",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "Labubu",
+        "三季报",
+        "潮玩"
+      ],
+      "translated": false,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34343322",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
+    {
+      "id": "d87333e9cf003cac",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "A"
       ],
-      "time": "07:45",
+      "time": "09:30",
       "group": "大盘头条",
-      "title": "A股10月27日科技板块重挫，科创50跌4.81%，创业板指跌3.41%",
-      "summary": "10月27日A股大幅收跌：上证指数跌1.33%，深证成指跌2.5%，创业板指跌3.41%，科创50跌4.81%。科技与成长股卖压明显，与港股科技指数当日跌约1.5%走势一致，反映市场对AI/科技高估值的重估情绪，叠加美联储政策不确定性。",
-      "why": "A股科创板重挫对关注A股标的的期权策略有影响；若估值重估持续蔓延，可能对持仓中港股科技股如腾讯、小米造成连锁压力，建议留意仓位Delta。",
-      "source": "格隆汇",
+      "title": "A股28日早盘三大指数集体高开，创业板涨逾1.7%",
+      "summary": "10月28日开盘，A股三大指数集体高开：上证指数高开约0.78%，深证成指高开约1.01%，创业板指高开约1.77%，逾3600只个股上涨。前一交易日A股普跌，本次高开受半导体板块情绪和外围科技股上涨提振。",
+      "why": "A股科技板块跟随海外半导体走强；创业板高开对成长股持仓情绪正面，需关注收盘能否守住涨幅。",
+      "source": "新浪财经",
       "verified": false,
       "keywords": [
         "A股",
-        "科创板",
+        "上证指数",
         "创业板",
-        "上证",
-        "科创50"
+        "高开"
       ],
       "translated": false,
-      "url": "https://m.gelonghui.com/live/2518585",
-      "published_date": "2026-10-27",
+      "url": "https://cj.sina.com.cn/articles/view/1958132051/74b6b95300102a83k",
+      "published_date": "2026-10-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
+    {
+      "id": "1eba5b32c5d90df4",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:10",
+      "group": "大盘头条",
+      "title": "港股28日收盘：恒指小幅收涨，阿里涨1.96%，腾讯涨0.62%",
+      "summary": "10月28日港股收盘，恒生指数小幅收涨，AI硬件与创新药板块带动尾盘走高。互联网龙头分化回升：阿里巴巴（9988.HK）涨1.96%，腾讯控股（0700.HK）涨0.62%。市场等待当晚美联储决策及谷歌、微软财报催化。",
+      "why": "港股互联网情绪回暖，持有腾讯/阿里头寸的投资者关注能否延续；等待Fed与大科技财报夜作为下一方向信号。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "腾讯",
+        "阿里巴巴"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/1002551417/hong-kong-stocks-close-oct-28-hang-seng-index-rises",
+      "published_date": "2026-10-28",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1381,6 +1405,72 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "b0a46cc4c938112d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:35",
+      "group": "大盘头条",
+      "title": "AI芯片主题推动纳指涨1.18%，英伟达+2.4%；Alphabet今晚盘后公布Q3财报；油价回落WTI跌至$99.90",
+      "summary": "周二美股三大指数连续第二日上涨：纳指+1.18%，标普+0.60%至7,722，英伟达(NVDA)+2.39%至$216，受Broadcom为Anthropic芯片租赁筹资600亿美元以及Meta与英伟达签订多年芯片协议提振。Alphabet(GOOGL)今晚盘后公布Q3业绩，市场预期营收约$1280亿（同比+25%），云业务为关注焦点。原油方面，WTI结算价跌1.83%至$99.90，布伦特跌1.67%至$113.88，美伊外交谈判消息令市场对供应紧张预期有所缓解。亚太股市跟涨，恒指小幅收高。",
+      "why": "英伟达多年协议巩固AI基础设施投资主线，对持仓中AI芯片/云业务暴露的标的（腾讯、阿里云等）间接利好。Alphabet业绩今晚是大盘关键催化剂，若云增速低于Q2的82%可能触发科技股回调。油价破百下方对通胀预期有正面作用。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Alphabet",
+        "谷歌",
+        "NVDA",
+        "GOOGL",
+        "AI芯片",
+        "油价",
+        "美联储"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-28",
+      "is_new": false
+    },
+    {
+      "id": "076eb4672a0e08cd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "SK Hynix Posts Record Q3: KRW 83.3T Operating Profit, HBM4 Mass Production, KRW 100T Shareholder Return Plan",
+      "summary": "SK Hynix reported record Q3 2026 results: revenue KRW 104.6 trillion, operating profit KRW 83.3 trillion (~80% operating margin). The company announced a KRW 100 trillion shareholder return plan for FY2026, including KRW 30 trillion+ in cash dividends and KRW 60 trillion+ in share buybacks/cancellations; Q3 dividend set at KRW 20,000 per share. HBM4 entered full-scale mass production in Q3 with yields exceeding targets, and is expected to overtake HBM3E in Q4. Long-term agreements now cover over 50% of total capacity for 2027 and 2028. Shares gained ~8% following the release.",
+      "why": "SK Hynix是持仓中HBM/AI内存赛道的核心标的（直接持仓SKHY ADR或通过指数暴露）。HBM4量产超预期 + 百万亿韩元回报计划是今日亚太科技板块的主要上涨催化剂，也印证了英伟达AI芯片需求维持强劲。对sell put策略而言，短期隐含波动率飙升，需注意Delta风险。",
+      "source": "SK Hynix Newsroom",
+      "verified": true,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM4",
+        "HBM",
+        "存储芯片",
+        "SKHY"
+      ],
+      "translated": false,
+      "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "published_date": "2026-10-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-28",
       "is_new": false
     },
     {
@@ -2744,6 +2834,36 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-27",
+      "is_new": false
+    },
+    {
+      "id": "7e4eca7357f99eb1",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "07:45",
+      "group": "大盘头条",
+      "title": "A股10月27日科技板块重挫，科创50跌4.81%，创业板指跌3.41%",
+      "summary": "10月27日A股大幅收跌：上证指数跌1.33%，深证成指跌2.5%，创业板指跌3.41%，科创50跌4.81%。科技与成长股卖压明显，与港股科技指数当日跌约1.5%走势一致，反映市场对AI/科技高估值的重估情绪，叠加美联储政策不确定性。",
+      "why": "A股科创板重挫对关注A股标的的期权策略有影响；若估值重估持续蔓延，可能对持仓中港股科技股如腾讯、小米造成连锁压力，建议留意仓位Delta。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "科创板",
+        "创业板",
+        "上证",
+        "科创50"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/live/2518585",
+      "published_date": "2026-10-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-28",
       "is_new": false
     },
     {
