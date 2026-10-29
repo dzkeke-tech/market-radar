@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-29 13:20 (北京时间)",
+  "updated_at": "2026-10-29 18:15 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,36 +9,73 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-29 13:20 (北京时间)",
-    "new_count": 1,
+    "at": "2026-10-29 18:15 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "0dfb29892e7f0185",
+      "id": "ab3d3afd12a856a8",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
+        "US",
+        "HK",
+        "A"
       ],
-      "time": "14:00",
+      "time": "20:30",
       "group": "大盘头条",
-      "title": "Fed holds rates at 3.75%-4%; two officials dissent seeking hike; Warsh rejects forward guidance",
-      "summary": "The FOMC kept its benchmark rate at 3.75%-4% on October 28. Chair Kevin Warsh said the Fed does not favor forward guidance and plans fewer press conferences from 2027. Governors Lisa Cook and Cleveland Fed President Beth Hammack dissented, both seeking a 25bp hike. Markets are pricing a December rate hike.",
-      "why": "美联储10月按兵不动符合市场预期，但两票鹰派反对（Cook+Hammack）及12月加息预期上升，将抬高短端利率预期，对科技股估值和sell put隐含波动率均有潜在上行压力。",
+      "title": "Microsoft FQ1 2027 beats: revenue $92.3B (+19%), Azure +48%; stock +4% AH",
+      "summary": "Microsoft reported fiscal Q1 2027 results (quarter ended Sep 30 2026): revenue $92.3B (+19% YoY), Azure cloud revenue $33.2B (+48%), GAAP EPS $4.92 vs consensus $4.73. Microsoft Cloud revenue $63.9B (+30%). Guidance for FQ2: $96.0–97.1B revenue above consensus $95.6B. Free cash flow declined 27% YoY. Stock rose ~4% in extended trading, contrasting sharply with Alphabet's same-night selloff.",
+      "why": "大盘头条；与谷歌同日财报但走势相反——Azure超预期增长48%证明企业AI转型仍在提速；Azure vs Google Cloud的此消彼长直接影响AI基础设施赛道估值，并为持有AI相关标的（英伟达、SK海力士等）的期权策略提供方向性参考。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "美联储",
-        "FOMC",
-        "利率",
-        "Kevin Warsh",
-        "宏观"
+        "Microsoft",
+        "Azure",
+        "cloud",
+        "earnings",
+        "Q1 FY2027",
+        "AI"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
       "published_date": "2026-10-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "a133f095ff40d01d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "A股+港股10月29日大幅下挫：创业板跌4.45%、恒生科技跌2.84%，Alphabet财报拖累AI板块",
+      "summary": "10月29日A股三大指数全线收跌：沪指跌0.82%，深成指跌2.92%，创业板指跌4.45%，科创50跌4.27%，全市场超4700只个股下跌，两市成交额约1.57万亿元。港股恒生指数跌0.59%收22958.65点，恒生科技指数跌2.84%；芯片/存储/光通信等硬件科技股全线重挫。Alphabet Q3净利润大幅不及预期（实际EPS $2.12 vs 预期约$2.94）、自由现金流转负(-$90.7亿)，引发市场对AI资本支出回报的担忧。银行股逆势抗跌。",
+      "why": "大盘头条；谷歌财报触发的AI资本支出担忧对整个科技板块定价产生冲击，持有科技期权仓位者需关注隐含波动率上升风险；港股芯片/PCB/存储全线调整也影响相关个股（英伟达、SK海力士）的对冲成本评估。当日重大头条偏少——前一轮（13:20 北京时间）已收录美联储决议、泡泡玛特Q3和SK海力士Q3；Alphabet Q3 CNBC/SEC链接已在seen.json中（前一轮已处理），无法重复推送，Alphabet利空通过本条市场综述体现。",
+      "source": "每日经济新闻(NBD)",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "A股",
+        "创业板",
+        "科创50",
+        "恒生科技",
+        "Alphabet",
+        "谷歌财报",
+        "AI资本支出"
+      ],
+      "translated": false,
+      "url": "https://www.nbd.com.cn/articles/2026-10-29/4626962.html",
+      "published_date": "2026-10-29",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1383,6 +1420,36 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-28",
+      "is_new": false
+    },
+    {
+      "id": "0dfb29892e7f0185",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "Fed holds rates at 3.75%-4%; two officials dissent seeking hike; Warsh rejects forward guidance",
+      "summary": "The FOMC kept its benchmark rate at 3.75%-4% on October 28. Chair Kevin Warsh said the Fed does not favor forward guidance and plans fewer press conferences from 2027. Governors Lisa Cook and Cleveland Fed President Beth Hammack dissented, both seeking a 25bp hike. Markets are pricing a December rate hike.",
+      "why": "美联储10月按兵不动符合市场预期，但两票鹰派反对（Cook+Hammack）及12月加息预期上升，将抬高短端利率预期，对科技股估值和sell put隐含波动率均有潜在上行压力。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "FOMC",
+        "利率",
+        "Kevin Warsh",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "published_date": "2026-10-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-29",
       "is_new": false
     },
     {
