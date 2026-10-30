@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-29 18:15 (北京时间)",
+  "updated_at": "2026-10-30 08:13 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,264 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-29 18:15 (北京时间)",
-    "new_count": 2,
+    "at": "2026-10-30 08:13 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "ab3d3afd12a856a8",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "20:30",
-      "group": "大盘头条",
-      "title": "Microsoft FQ1 2027 beats: revenue $92.3B (+19%), Azure +48%; stock +4% AH",
-      "summary": "Microsoft reported fiscal Q1 2027 results (quarter ended Sep 30 2026): revenue $92.3B (+19% YoY), Azure cloud revenue $33.2B (+48%), GAAP EPS $4.92 vs consensus $4.73. Microsoft Cloud revenue $63.9B (+30%). Guidance for FQ2: $96.0–97.1B revenue above consensus $95.6B. Free cash flow declined 27% YoY. Stock rose ~4% in extended trading, contrasting sharply with Alphabet's same-night selloff.",
-      "why": "大盘头条；与谷歌同日财报但走势相反——Azure超预期增长48%证明企业AI转型仍在提速；Azure vs Google Cloud的此消彼长直接影响AI基础设施赛道估值，并为持有AI相关标的（英伟达、SK海力士等）的期权策略提供方向性参考。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Microsoft",
-        "Azure",
-        "cloud",
-        "earnings",
-        "Q1 FY2027",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "published_date": "2026-10-28",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-29",
-      "is_new": true
-    },
-    {
-      "id": "a133f095ff40d01d",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "A股+港股10月29日大幅下挫：创业板跌4.45%、恒生科技跌2.84%，Alphabet财报拖累AI板块",
-      "summary": "10月29日A股三大指数全线收跌：沪指跌0.82%，深成指跌2.92%，创业板指跌4.45%，科创50跌4.27%，全市场超4700只个股下跌，两市成交额约1.57万亿元。港股恒生指数跌0.59%收22958.65点，恒生科技指数跌2.84%；芯片/存储/光通信等硬件科技股全线重挫。Alphabet Q3净利润大幅不及预期（实际EPS $2.12 vs 预期约$2.94）、自由现金流转负(-$90.7亿)，引发市场对AI资本支出回报的担忧。银行股逆势抗跌。",
-      "why": "大盘头条；谷歌财报触发的AI资本支出担忧对整个科技板块定价产生冲击，持有科技期权仓位者需关注隐含波动率上升风险；港股芯片/PCB/存储全线调整也影响相关个股（英伟达、SK海力士）的对冲成本评估。当日重大头条偏少——前一轮（13:20 北京时间）已收录美联储决议、泡泡玛特Q3和SK海力士Q3；Alphabet Q3 CNBC/SEC链接已在seen.json中（前一轮已处理），无法重复推送，Alphabet利空通过本条市场综述体现。",
-      "source": "每日经济新闻(NBD)",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "A股",
-        "创业板",
-        "科创50",
-        "恒生科技",
-        "Alphabet",
-        "谷歌财报",
-        "AI资本支出"
-      ],
-      "translated": false,
-      "url": "https://www.nbd.com.cn/articles/2026-10-29/4626962.html",
-      "published_date": "2026-10-29",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-29",
-      "is_new": true
-    },
-    {
-      "id": "a954f2968ae7cbfd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "10:48",
-      "group": "大盘头条",
-      "title": "China's economy grows 4.5% in Q3, staying on track for annual target",
-      "summary": "中国三季度GDP同比增4.5%，超出路透社/彭博4.4%预期，较二季度4.3%加速；前三季度累计4.6%，在全年4.5–5%目标区间内。AI驱动出口前三季同比增逾16%；但内需偏弱：9月零售销售仅同比+1.1%，前三季房地产开发投资累计-20.6%。IMF将中国2026年预测下调至4.5%。",
-      "why": "Q3 GDP略超预期，对港股/A股整体情绪有短期提振作用；但内需疲弱对消费类持仓（海底捞、蜜雪冰城、美团）仍是压力；出口景气度支撑科技产业链（腾讯、小米等）。中长期持仓背景参考。",
-      "source": "South China Morning Post",
-      "verified": true,
-      "keywords": [
-        "中国GDP",
-        "经济增长",
-        "出口",
-        "内需",
-        "宏观",
-        "China GDP",
-        "消费"
-      ],
-      "translated": false,
-      "url": "https://scmp.com/economy/economic-indicators/article/3371335/chinas-economy-grows-45-third-quarter-staying-track-annual-target",
-      "published_date": "2026-10-19",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
-      "id": "b3e07149438085ec",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "收盘",
-      "group": "大盘头条",
-      "title": "腾讯股价创一年新低：跌破400港元大关，恒生科技指数创2024年9月以来新低",
-      "summary": "10月21日港股大幅下挫：腾讯(0700.HK)跌4.04%收报HK$393.8，跌破400港元整数关口，创近一年新低，年内累计跌幅接近四成。阿里巴巴-W跌超5%。恒生科技指数创2024年9月以来最低点。南向资金当日净卖出腾讯及中移动合计逾44亿港元。瑞银测算腾讯当季AI相关运营支出约160亿港元，摩根士丹利预计AI资本开支将持续拖累短期盈利。",
-      "why": "恒生科技板块系统性下跌，AI资本开支担忧未出清；腾讯、阿里双双重挫，核心港股持仓面临估值压力；若南向资金持续流出，卖put保护垫需重新评估。Tencent尚未发布Q3财报（预计11月中旬），目前市场在提前反映悲观预期。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "恒生科技",
-        "港股",
-        "阿里巴巴",
-        "科技股",
-        "南向资金",
-        "AI资本开支"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261021/herald/49a269901deb5e6d568a557319d3d4cd.html",
-      "published_date": "2026-10-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
-      "id": "e76d3316e3c37f77",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "大盘头条",
-      "title": "港股盘中急挫：恒指失守23000点、科指跌4.64%创2024年9月以来新低",
-      "summary": "10月22日午间，恒生指数跌2.87%报22971点，失守23000关口，恒生科技指数跌4.64%至3809点，创2024年9月以来新低。科网、锂电池、汽车、半导体板块齐挫，联想跌超8%，仅存储概念股相对抗跌。",
-      "why": "港股全线走弱，科技持仓普受压制。隐含波动率上升，对 sell put 策略有时间价值提振，但需警惕标的进一步下行及行权价被触及风险。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技指数",
-        "科网股"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-22/doc-iniwamip5185638.shtml",
-      "published_date": "2026-10-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
-      "id": "1b9a4777188100d3",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "港股互联网巨头崩跌：腾讯创两年新低，阿里跌破100港元，AI回报担忧挥之不去",
-      "summary": "10月22日，腾讯控股股价创两年新低，阿里巴巴港股跌破100港元关键支撑。市场对科网龙头持续加大AI资本开支但短期压制利润率及回报时间表存在深度疑虑，AI应用新股MiniMax盘中破发进一步加剧情绪悲观。",
-      "why": "腾讯阿里为核心持仓，两年新低与百元关口破位均为重要技术信号，需重新评估 sell put 的行权价保护区间及未来行权价下移幅度，波动率抬升或带来卖权溢价机会。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "阿里巴巴",
-        "港股",
-        "AI",
-        "科网"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamir5899067.shtml",
-      "published_date": "2026-10-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
-      "id": "e129462430345619",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Meta Q3 2026营收646亿美元同比+26%超预期，Q4指引730-760亿美元",
-      "summary": "Meta第三季度营收646.01亿美元(同比+26%)，超市场预期约633亿美元；广告展示量+10%、单价+14%；含99亿美元多州检察长和解费用后GAAP营业利润降至约130亿美元。Q4收入指引730-760亿美元大幅超预期，2026年资本支出指引上调至1350-1450亿美元。",
-      "why": "广告业务强劲叠加Q4大超预期指引，拉动美股科技板块情绪向好；AI基础设施持续扩张对英伟达等持仓构成正面催化；关注科技大盘整体隐含波动率变化对卖出期权策略的影响。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Meta",
-        "美股",
-        "财报",
-        "广告",
-        "AI"
-      ],
-      "translated": true,
-      "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
-      "published_date": "2026-10-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
-      "id": "378d3748a229a8de",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "20:00",
-      "group": "大盘头条",
-      "title": "SpaceX Q3 2026营收146亿美元首次录得净利44亿美元，AI超算业务76亿美元首超星链",
-      "summary": "SpaceX第三季度总营收约146亿美元(同比+161%)，远超市场预期约127亿美元；AI/超级智能(SI)业务营收约76亿美元(同比约增9倍)，首次超越星链业务约52亿美元成最大营收来源；净利润44亿美元，为公司史上首次盈利。Q3资本支出约196亿美元，Q4预计350-400亿美元。",
-      "why": "SpaceX AI算力业务爆发性增长重燃市场AI叙事，推动美股科技板块走强；AI数据中心需求加速信号对英伟达（NVDA）等AI芯片持仓构成直接正面催化；警惕超预期指引引发波动率收窄影响covered call策略时机。",
-      "source": "SpaceX官方IR",
-      "verified": false,
-      "keywords": [
-        "SpaceX",
-        "AI",
-        "美股",
-        "科技",
-        "英伟达",
-        "NVDA"
-      ],
-      "translated": true,
-      "url": "https://s21.q4cdn.com/184289198/files/content_files/SpaceX-Reports-Third-Quarter-2026-Results.pdf",
-      "published_date": "2026-10-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
     {
       "id": "6443f0df5ea343a0",
       "tier": 1,
@@ -1423,6 +1171,73 @@
       "is_new": false
     },
     {
+      "id": "ab3d3afd12a856a8",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "20:30",
+      "group": "大盘头条",
+      "title": "Microsoft FQ1 2027 beats: revenue $92.3B (+19%), Azure +48%; stock +4% AH",
+      "summary": "Microsoft reported fiscal Q1 2027 results (quarter ended Sep 30 2026): revenue $92.3B (+19% YoY), Azure cloud revenue $33.2B (+48%), GAAP EPS $4.92 vs consensus $4.73. Microsoft Cloud revenue $63.9B (+30%). Guidance for FQ2: $96.0–97.1B revenue above consensus $95.6B. Free cash flow declined 27% YoY. Stock rose ~4% in extended trading, contrasting sharply with Alphabet's same-night selloff.",
+      "why": "大盘头条；与谷歌同日财报但走势相反——Azure超预期增长48%证明企业AI转型仍在提速；Azure vs Google Cloud的此消彼长直接影响AI基础设施赛道估值，并为持有AI相关标的（英伟达、SK海力士等）的期权策略提供方向性参考。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Microsoft",
+        "Azure",
+        "cloud",
+        "earnings",
+        "Q1 FY2027",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "published_date": "2026-10-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-29",
+      "is_new": false
+    },
+    {
+      "id": "a133f095ff40d01d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "A股+港股10月29日大幅下挫：创业板跌4.45%、恒生科技跌2.84%，Alphabet财报拖累AI板块",
+      "summary": "10月29日A股三大指数全线收跌：沪指跌0.82%，深成指跌2.92%，创业板指跌4.45%，科创50跌4.27%，全市场超4700只个股下跌，两市成交额约1.57万亿元。港股恒生指数跌0.59%收22958.65点，恒生科技指数跌2.84%；芯片/存储/光通信等硬件科技股全线重挫。Alphabet Q3净利润大幅不及预期（实际EPS $2.12 vs 预期约$2.94）、自由现金流转负(-$90.7亿)，引发市场对AI资本支出回报的担忧。银行股逆势抗跌。",
+      "why": "大盘头条；谷歌财报触发的AI资本支出担忧对整个科技板块定价产生冲击，持有科技期权仓位者需关注隐含波动率上升风险；港股芯片/PCB/存储全线调整也影响相关个股（英伟达、SK海力士）的对冲成本评估。当日重大头条偏少——前一轮（13:20 北京时间）已收录美联储决议、泡泡玛特Q3和SK海力士Q3；Alphabet Q3 CNBC/SEC链接已在seen.json中（前一轮已处理），无法重复推送，Alphabet利空通过本条市场综述体现。",
+      "source": "每日经济新闻(NBD)",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "A股",
+        "创业板",
+        "科创50",
+        "恒生科技",
+        "Alphabet",
+        "谷歌财报",
+        "AI资本支出"
+      ],
+      "translated": false,
+      "url": "https://www.nbd.com.cn/articles/2026-10-29/4626962.html",
+      "published_date": "2026-10-29",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-29",
+      "is_new": false
+    },
+    {
       "id": "0dfb29892e7f0185",
       "tier": 1,
       "lang": "en",
@@ -1450,162 +1265,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-29",
-      "is_new": false
-    },
-    {
-      "id": "4e5c443e3d804cdf",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "MiniMax港股IPO首日盘中破发，AI应用新股情绪转冷",
-      "summary": "AI大模型独角兽MiniMax在港股上市首日盘中跌破发行价，成为港股科技股本轮情绪急剧转冷的标志性信号，反映市场对AI商业化变现能力及盈利回报周期的持续疑虑。",
-      "why": "MiniMax破发是AI估值再修正风险的直接体现，对持有港股互联网平台（腾讯、阿里、美团等）的投资者，提示整体板块波动率仍在上升，有利于卖出短期期权，但行权价需留有更大安全边际。",
-      "source": "新浪港股热点小时报",
-      "verified": true,
-      "keywords": [
-        "MiniMax",
-        "港股",
-        "AI",
-        "IPO"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rzeu.html",
-      "published_date": "2026-10-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
-      "id": "6c4ba7f0a5b959c7",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "宁德时代连续急跌：A股前日跌超12%，港股今日盘中续跌逾5%",
-      "summary": "宁德时代10月21日A股大跌超12%，10月22日港股盘中续跌，报346.40港元。背景：核心车企客户去宁化担忧（理想/小米转向自研或二线电池）、碳酸锂价格持续下跌、消费税政策不利预期，叠加主动/被动基金减仓。",
-      "why": "宁德时代虽非直接持仓，但作为新能源/消费赛道的板块龙头指标，两日暴跌对新能源相关ETF和产业链标的有传导效应，需关注消费/科技持仓的系统性压力是否扩散。",
-      "source": "新浪港股热点小时报",
-      "verified": true,
-      "keywords": [
-        "宁德时代",
-        "港股",
-        "A股",
-        "新能源",
-        "电池"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908ryk4.html",
-      "published_date": "2026-10-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
-      "id": "5d87ec76ee64a158",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "US Stocks Post 3-Day Win Streak; Fed October Meeting Oct 27–28 in Focus as Rate Hold Expected",
-      "summary": "US equities extended gains on Oct 21, with S&P 500 notching a 3-day win streak and Nasdaq rising ~1% led by SpaceX and Tesla. The Fed's October 27–28 meeting is the next key macro event; market pricing widely expects no change in the Fed funds rate. Earlier in Oct, Fed Chair Kevin Warsh gave no forward guidance on rate direction.",
-      "why": "美股短期反弹、美联储下周议息会议预期按兵不动，减少了系统性流动性收紧的近期风险，有利于维持美股科技持仓（英伟达/谷歌/特斯拉）的整体估值环境；需关注Warsh措辞是否释放新的政策信号。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "美股",
-        "宏观",
-        "Fed",
-        "Warsh"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-      "published_date": "2026-10-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
-      "id": "78e710901193bfc9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "美股10月21日三大指数全线上涨，纳斯达克中国金龙指数跌超3%；阿里、拼多多跌超4%",
-      "summary": "美股10月21日收盘：道指涨0.69%报52856点，标普涨0.58%报7757点，纳指涨1.05%报26702点，科技股受SpaceX与Meta业绩驱动走强。但纳斯达克中国金龙指数跌超3%，中概股集体回调，阿里巴巴、京东、拼多多跌超4%，小鹏集团跌超6%。",
-      "why": "中概股与美股大市走势严重分化，关注中美政策预期对BABA、PDD等中概持仓期权仓位的影响；中概股隐含波动率或上升，需评估现有卖出Put策略的保护空间是否充足。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "中概股",
-        "美股",
-        "纳斯达克",
-        "阿里巴巴",
-        "BABA",
-        "拼多多",
-        "PDD",
-        "小鹏"
-      ],
-      "translated": false,
-      "url": "https://k.sina.cn/article_5953466437_162dab0450670bfm1e.html",
-      "published_date": "2026-10-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
-      "is_new": false
-    },
-    {
-      "id": "98027c193fea63b5",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "港股10月21日恒生指数跌0.9%收23651点；恒科指跌1.3%，A股沪指跌约0.6%",
-      "summary": "港股10月21日收市：恒生指数收报23651.87点，跌215.87点（约0.9%）；恒生科技指数跌约1.3%收3994.77点，科技成长板块承压。A股方面，上证综指跌约0.6%报约3713点，与港股同步走弱。恒指期货报23602点，低水约50点。",
-      "why": "港股及A股科技股同步下跌，夜期低水暗示开盘情绪偏弱；恒科指跌幅大于恒指整体，对持有港股科技成分股相关期权需警惕短期跌势蔓延，卖出期权策略需关注日内波动扩大风险。",
-      "source": "智通财经",
-      "verified": false,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "A股",
-        "上证指数",
-        "恒生科技",
-        "科技股"
-      ],
-      "translated": false,
-      "url": "https://hk.investing.com/news/stock-market-news/article-1710206",
-      "published_date": "2026-10-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-22",
       "is_new": false
     },
     {
