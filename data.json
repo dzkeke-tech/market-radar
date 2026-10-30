@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-30 08:13 (北京时间)",
+  "updated_at": "2026-10-30 08:14 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,169 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-30 08:13 (北京时间)",
-    "new_count": 0,
+    "at": "2026-10-30 08:14 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "93bea1bfa4e179fa",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "PCE Inflation September 2026: Headline +3.6% YoY, Core +3.1%; Fed December Hike Odds Rise",
+      "summary": "美国9月PCE物价指数同比+3.6%（前值3.4%），核心PCE同比+3.1%，环比分别+0.5%、+0.3%，均符合预期；能源价格中汽油+9.2%是主要推力。Fed上周维持利率3.75%–4%不变（10-2票），市场关注12月议息会议。",
+      "why": "通胀连续两月反弹强化12月加息预期，对sell-put组合的隐含波动率及行权价选择均有直接影响，须密切关注12月FOMC动向。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "PCE",
+        "美联储",
+        "通胀",
+        "核心PCE",
+        "inflation",
+        "FOMC"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+      "published_date": "2026-10-29",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": true
+    },
+    {
+      "id": "ec4174ea8b643cd7",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Intel Q3 2026: Q4 Revenue Guidance $15–16B Badly Misses $17.1B Estimate; Stock -21%",
+      "summary": "英特尔Q3营收约$16.5B同比增21%略超预期；但Q4指引营收$15–$16B，远低于分析师预期$17.1B；PC需求疲软预计至少延续至明年上半年，叠加Fab 28关闭，盘后股价暴跌21%。",
+      "why": "半导体头部公司Q4指引大幅低于预期，令芯片板块承压；持有INTC sell-put须关注行权价下行风险，隐含波动率显著跳升，操作上建议收窄行权价或持仓减码。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英特尔",
+        "Intel",
+        "INTC",
+        "Q3财报",
+        "业绩指引",
+        "PC",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "published_date": "2026-10-29",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": true
+    },
+    {
+      "id": "e037d8d097100b0a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Amazon Q3 2026: AWS Revenue +39% to $46B Record, but EPS $1.89 Misses; Stock Falls",
+      "summary": "亚马逊Q3总营收$201.9B；AWS同比+39%至$46B，为近五年最快增速；运营利润率13.9%历史最高；但EPS $1.89低于预期，Q4指引营收$240–$247B低于市场预期，股价盘后下跌。",
+      "why": "AWS AI基础设施高增长对英伟达/存储芯片供应链长期偏正面；短期EPS miss及保守Q4指引对大盘科技情绪构成压力，与持仓高度相关。",
+      "source": "BusinessWire",
+      "verified": true,
+      "keywords": [
+        "Amazon",
+        "AMZN",
+        "AWS",
+        "Q3财报",
+        "云计算",
+        "资本开支"
+      ],
+      "translated": false,
+      "url": "https://www.businesswire.com/news/home/20261028373648/en/Amazon.com-Announces-Third-Quarter-Results",
+      "published_date": "2026-10-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": true
+    },
+    {
+      "id": "274f99e5d270bf0a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股收跌136点失守23000关口，恒生科技指数跌2.84%",
+      "summary": "恒指收报22958点，跌136点，全日成交约1895亿港元；恒生科技指数跌2.84%，联想跌逾6%，光通信板块下挫；内银逆势走强，四大行A股总市值首次突破10万亿人民币。",
+      "why": "美股科技财报冲击情绪蔓延至港股，HST持续回调；内银股创新高形成内外分化格局，关注恒指能否重新站稳23000。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "恒生科技",
+        "HST",
+        "内银",
+        "恒指"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908swxo.html",
+      "published_date": "2026-10-29",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": true
+    },
+    {
+      "id": "e462a6f5ac421f8e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "花旗重申腾讯买入、目标价755港元，2026全球数字生态大会或成催化剂",
+      "summary": "花旗重申腾讯控股（00700.HK）买入评级，目标价755港元，认为即将举行的2026全球数字生态大会可能成为潜在股价催化剂；近90天24家投行维持买入，平均目标价658.8港元。",
+      "why": "延续报道：数字生态大会尚未召开，市场预期仍在发酵；TP 755相当于当前价位约70%上行空间，有助于判断covered call行权价区间及持仓策略。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "花旗",
+        "Citi",
+        "数字生态大会",
+        "买入评级"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwrzhv1360709.shtml",
+      "published_date": "2026-10-27",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": true
+    },
     {
       "id": "6443f0df5ea343a0",
       "tier": 1,
