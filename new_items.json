@@ -1,40 +1,286 @@
 [
   {
-    "id": "ab3d3afd12a856a8",
     "tier": 1,
     "lang": "en",
-    "markets": ["US", "HK", "A"],
-    "time": "20:30",
+    "markets": [
+      "US",
+      "HK",
+      "A"
+    ],
+    "time": "14:00",
     "group": "大盘头条",
-    "title": "Microsoft FQ1 2027 beats: revenue $92.3B (+19%), Azure +48%; stock +4% AH",
-    "summary": "Microsoft reported fiscal Q1 2027 results (quarter ended Sep 30 2026): revenue $92.3B (+19% YoY), Azure cloud revenue $33.2B (+48%), GAAP EPS $4.92 vs consensus $4.73. Microsoft Cloud revenue $63.9B (+30%). Guidance for FQ2: $96.0–97.1B revenue above consensus $95.6B. Free cash flow declined 27% YoY. Stock rose ~4% in extended trading, contrasting sharply with Alphabet's same-night selloff.",
-    "why": "大盘头条；与谷歌同日财报但走势相反——Azure超预期增长48%证明企业AI转型仍在提速；Azure vs Google Cloud的此消彼长直接影响AI基础设施赛道估值，并为持有AI相关标的（英伟达、SK海力士等）的期权策略提供方向性参考。",
+    "title": "Fed keeps rates at 3.75%-4.00%; two members dissented for a hike; Warsh says politics played no role",
+    "summary": "美联储10月28日维持联邦基金利率目标区间3.75%-4.00%不变，符合市场预期。两名委员持异议倾向立即加息。美联储主席Kevin Warsh表示9月加息效果与经济数据支持暂停，并否认与中期选举相关。",
+    "why": "美联储动向直接影响全球风险资产定价；9月已加息25bp。CME FedWatch显示12月再加息概率约84.5%（Babypips 2026-10-30援引CME FedWatch数据）。Sell Put策略需关注12月会议前隐含波动率走势及行权价选择。",
     "source": "CNBC",
     "verified": true,
-    "keywords": ["Microsoft", "Azure", "cloud", "earnings", "Q1 FY2027", "AI"],
+    "keywords": [
+      "美联储",
+      "利率",
+      "Kevin Warsh",
+      "加息"
+    ],
     "translated": false,
-    "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+    "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
     "published_date": "2026-10-28",
     "still_developing": false,
-    "cross_ref": ""
+    "cross_ref": "",
+    "id": "67c5b900e23ff82e"
   },
   {
-    "id": "a133f095ff40d01d",
     "tier": 1,
-    "lang": "zh",
-    "markets": ["HK", "A"],
-    "time": "16:30",
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "08:30",
     "group": "大盘头条",
-    "title": "A股+港股10月29日大幅下挫：创业板跌4.45%、恒生科技跌2.84%，Alphabet财报拖累AI板块",
-    "summary": "10月29日A股三大指数全线收跌：沪指跌0.82%，深成指跌2.92%，创业板指跌4.45%，科创50跌4.27%，全市场超4700只个股下跌，两市成交额约1.57万亿元。港股恒生指数跌0.59%收22958.65点，恒生科技指数跌2.84%；芯片/存储/光通信等硬件科技股全线重挫。Alphabet Q3净利润大幅不及预期（实际EPS $2.12 vs 预期约$2.94）、自由现金流转负(-$90.7亿)，引发市场对AI资本支出回报的担忧。银行股逆势抗跌。",
-    "why": "大盘头条；谷歌财报触发的AI资本支出担忧对整个科技板块定价产生冲击，持有科技期权仓位者需关注隐含波动率上升风险；港股芯片/PCB/存储全线调整也影响相关个股（英伟达、SK海力士）的对冲成本评估。当日重大头条偏少——前一轮（13:20 北京时间）已收录美联储决议、泡泡玛特Q3和SK海力士Q3；Alphabet Q3 CNBC/SEC链接已在seen.json中（前一轮已处理），无法重复推送，Alphabet利空通过本条市场综述体现。",
-    "source": "每日经济新闻(NBD)",
+    "title": "U.S. Q3 GDP advance estimate: 3.4% annualized beats consensus 3.2%; Sept core PCE 3.1% YoY fuels December hike bets",
+    "summary": "美国BEA发布Q3 GDP初值：实际GDP年化增速3.4%（高于Q2的2.2%及市场预期3.2%）。9月核心PCE同比3.1%（8月3.0%），整体PCE同比3.6%（8月3.4%），能源价格为主要驱动，均符合市场预期。",
+    "why": "GDP超预期+PCE加速共同强化12月加息预期（CME FedWatch约84.5%，Babypips 2026-10-30援引）。加息预期升温将压制高估值科技股；Sell Put持仓需注意尾部风险，关注12月FOMC前隐含波动率动态。",
+    "source": "美国经济分析局(BEA)",
     "verified": true,
-    "keywords": ["港股", "A股", "创业板", "科创50", "恒生科技", "Alphabet", "谷歌财报", "AI资本支出"],
+    "keywords": [
+      "GDP",
+      "PCE",
+      "通胀",
+      "美联储",
+      "加息",
+      "宏观"
+    ],
     "translated": false,
-    "url": "https://www.nbd.com.cn/articles/2026-10-29/4626962.html",
+    "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
     "published_date": "2026-10-29",
     "still_developing": false,
-    "cross_ref": ""
+    "cross_ref": "",
+    "id": "f14e16dd04be8b67"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "17:00",
+    "group": "大盘头条",
+    "title": "Amazon Q3 2026: EPS misses at $1.89 vs $1.97 est; AWS revenue surges 39% YoY to $45.98B",
+    "summary": "亚马逊Q3营收$201.9B（同比+12%，低于预期）；EPS $1.89（预期$1.97，未达预期）。亮点：AWS营收$45.98B同比增速39%，约五年来最快；运营利润$28.1B创历史新高，运营利润率13.9%。Q4营收指引$240-247B。",
+    "why": "AWS增速加速（39%超预期）确认AI云需求强劲，长期利好英伟达/SK海力士等AI供应链；但广告收入$19.6B低于预期约$20.8B预期，自由现金流转负（资本开支$75.9B/季），股价盘后仍承压。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "亚马逊",
+      "Amazon",
+      "AMZN",
+      "AWS",
+      "财报",
+      "云计算"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+    "published_date": "2026-10-29",
+    "still_developing": false,
+    "cross_ref": "",
+    "id": "d39324bb070f72d8"
+  },
+  {
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "20:00",
+    "group": "大盘头条",
+    "title": "Binance suffers ~$6.3B security breach, largest crypto hack to date; Tether and Circle freeze over $1.8B in stablecoins",
+    "summary": "Binance遭遇迄今最大规模加密货币安全事故，约63亿美元资产受影响，近30亿美元被冻结，疑因DevOps工程师笔记本电脑遭入侵。Tether冻结逾9.71亿美元USDT，Circle冻结约8亿至8.23亿美元USDC，Binance暂停充提款。",
+    "why": "全球最大加密交易所Binance遭史上最大规模黑客攻击，加密市场系统性风险事件。Circle(CRCL)盘后大幅走低，USDC稳定性受短期冲击关注（Q3业绩将于11月4日公布）；持有相关加密资产或CRCL仓位需密切跟踪事态进展。",
+    "source": "CoinDesk",
+    "verified": true,
+    "keywords": [
+      "Binance",
+      "加密货币",
+      "黑客",
+      "USDC",
+      "USDT",
+      "稳定币",
+      "Circle"
+    ],
+    "translated": false,
+    "url": "https://www.coindesk.com/business/2026/10/29/binance-loses-over-6-billion-in-the-largest-crypto-hack-to-date",
+    "published_date": "2026-10-29",
+    "still_developing": true,
+    "cross_ref": "",
+    "id": "894cb041d4eab76e"
+  },
+  {
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "09:00",
+    "group": "个股",
+    "title": "泡泡玛特Q3营收同比下滑45%-50%，LABUBU热潮退去；摩根大通降级至减持",
+    "summary": "泡泡玛特(9992.HK)2026年三季度业务公告：整体收益同比下降45%-50%，亚太/美洲/欧洲海外市场跌幅均超50%（美洲跌70-75%最大）；中国内地线上渠道跌45-50%，线下跌5-10%。摩根大通随即将评级下调至减持。",
+    "why": "Labubu出圈爆发后首次季度大幅负增长，IP潮玩生意模型的脆弱性暴露；股价持续走低，隐含波动率或扩大。已有Sell Put仓位须检视行权价，此时更适合以Covered Call锁定收益而非继续裸卖Put，防范进一步下行。",
+    "source": "21世纪经济报道",
+    "verified": true,
+    "keywords": [
+      "泡泡玛特",
+      "Pop Mart",
+      "9992.HK",
+      "Labubu",
+      "财报",
+      "摩根大通"
+    ],
+    "translated": false,
+    "url": "https://m.21jingji.com/article/20261029/herald/942094b1a2f222bf0f7c592883ded1f7.html",
+    "published_date": "2026-10-29",
+    "still_developing": false,
+    "cross_ref": "",
+    "id": "b2b1b55e063b7af3"
+  },
+  {
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "SK hynix Q3 2026: Record KRW 104.6T revenue, 80% operating margin as HBM4 mass production begins",
+    "summary": "SK海力士Q3营收达KRW 104.6万亿（同比+328%，环比+32%），历史首次突破百万亿韩元大关；营业利润率80%创历史纪录。HBM4于Q3开始量产并出货，DRAM价格季内上涨约20%+。公司表示供应约束将持续至2030年。",
+    "why": "SK海力士HBM4量产启动、利润率创纪录，确认AI存储芯片超级周期延续，直接利好南方两倍做多SK海力士ETF(7709.HK)及美光/闪迪等存储仓位；供需格局长期偏紧，支持中期持有逻辑。",
+    "source": "SK海力士 SEC 6-K",
+    "verified": true,
+    "keywords": [
+      "SK海力士",
+      "SK Hynix",
+      "HBM4",
+      "HBM",
+      "存储芯片",
+      "财报",
+      "DRAM"
+    ],
+    "translated": false,
+    "url": "https://www.sec.gov/Archives/edgar/data/0002120882/000119312526420934/d413172d6k.htm",
+    "published_date": "2026-10-28",
+    "still_developing": false,
+    "cross_ref": "",
+    "id": "acd63d9d7af7ba99"
+  },
+  {
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "10:00",
+    "group": "大盘头条",
+    "title": "A股三季报：3490家公司净利润同比增11.5%，AI算力产业链领跑",
+    "summary": "截至10月28日，Wind数据统计3490家A股公司前三季度业绩：营收合计25.37万亿元同比+8.55%，归母净利润1.96万亿元同比+11.53%。AI算力链（存储芯片、覆铜板、服务器、PCB等）、生物医药、基础化工景气度领先；176家公司净利润翻倍。",
+    "why": "A股三季报整体超预期，AI算力产业链高增长验证AI资本开支周期延续。半导体/算力相关A股基本面走强，值得关注其H股对应标的估值重估机会。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "A股",
+      "三季报",
+      "AI算力",
+      "净利润",
+      "半导体"
+    ],
+    "translated": false,
+    "url": "https://finance.sina.com.cn/roll/2026-10-29/doc-iniwwifc5336352.shtml",
+    "published_date": "2026-10-29",
+    "still_developing": false,
+    "cross_ref": "",
+    "id": "1941363ff11804c3"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "18:00",
+    "group": "个股",
+    "title": "Nvidia responds to report Jensen Huang was targeted by Chinese intelligence, says allegations investigated and debunked",
+    "summary": "针对媒体报道称黄仁勋曾是中国情报目标一事，英伟达(NVDA)公开回应称相关转移指控已经调查并被驳斥。同期有报道称ByteDance/阿里/腾讯合计订购逾350亿美元英伟达RTX PRO 5500芯片，但英伟达警告因产能及出口规则限制可能无法完全交付。",
+    "why": "英伟达否认间谍指控有助消除短期声誉风险；中国科技巨头350亿美元订单显示AI算力需求极旺，但出口管制仍是核心不确定因素。当前NVDA期权隐含波动率较高，Sell Put需关注地缘政治尾部风险。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "英伟达",
+      "Nvidia",
+      "NVDA",
+      "黄仁勋",
+      "Jensen Huang",
+      "AI芯片",
+      "出口管制"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+    "published_date": "2026-10-29",
+    "still_developing": false,
+    "cross_ref": "",
+    "id": "b8ac0a49c4904429"
+  },
+  {
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "11:00",
+    "group": "个股",
+    "title": "腾讯正式成为APEC 2026峰会战略合作伙伴；花旗重申买入，目标价755港元",
+    "summary": "腾讯(00700.HK)已正式成为2026年APEC峰会（11月18-19日，深圳）战略合作伙伴，将提供AI翻译、媒体服务及移动支付支持。花旗10月26日研报认为此事件是腾讯AI与云能力的重要外部验证，维持买入评级，目标价755港元，认为近期股价回调提供更好入场机会。",
+    "why": "延续报道：腾讯10月23日宣布APEC合作伙伴关系，花旗于10月26日发布研报跟进（距今4天，still_developing）。花旗目标价755港元较当前约385港元存在较大上行空间，对中长期Sell Put仓位（看涨腾讯）策略逻辑具有参考价值。",
+    "source": "富途牛牛",
+    "verified": false,
+    "keywords": [
+      "腾讯",
+      "Tencent",
+      "00700",
+      "APEC",
+      "花旗",
+      "买入",
+      "AI"
+    ],
+    "translated": false,
+    "url": "https://news.futunn.com/hk/post/1002253976/citi-tencent-s-00700-selection-as-a-strategic-partner-for",
+    "published_date": "2026-10-26",
+    "still_developing": true,
+    "cross_ref": "",
+    "id": "4505ebfc668e34b7"
+  },
+  {
+    "tier": 3,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "09:30",
+    "group": "大盘头条",
+    "title": "A股三大指数集体大幅低开，科技成长股受海外财报拖累承压",
+    "summary": "2026年10月30日早盘，A股三大指数集体大幅低开，创业板指跌幅居前，CPO、覆铜板、激光雷达等科技成长板块领跌；受前一日美股英特尔暴跌21%、谷歌跌12%等科技股巨震拖累，市场情绪偏谨慎。",
+    "why": "海外科技龙头财报不及预期引发A股科技成长板块开盘大幅走低；短期波动对A股科技ETF和持仓有影响，中期来看若三季报数据持续向好基本面逻辑未变，可关注超跌机会。",
+    "source": "新浪财经",
+    "verified": false,
+    "keywords": [
+      "A股",
+      "科技股",
+      "低开",
+      "创业板",
+      "覆铜板",
+      "CPO"
+    ],
+    "translated": false,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908szqs.html",
+    "published_date": "2026-10-30",
+    "still_developing": false,
+    "cross_ref": "",
+    "id": "da3d36d9322a6831"
   }
 ]
