@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-30 13:15 (北京时间)",
+  "updated_at": "2026-10-30 18:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,14 +9,44 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-30 13:15 (北京时间)",
+    "at": "2026-10-30 18:18 (北京时间)",
     "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "48c980494664a72e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "Fed keeps rates at 3.75%-4.00%; two members dissented for a hike; Warsh says politics played no role",
+      "summary": "美联储10月28日维持联邦基金利率目标区间3.75%-4.00%不变，符合市场预期。两名委员持异议倾向立即加息。美联储主席Kevin Warsh表示9月加息效果与经济数据支持暂停，并否认与中期选举相关。",
+      "why": "美联储动向直接影响全球风险资产定价；9月已加息25bp。CME FedWatch显示12月再加息概率约84.5%（Babypips 2026-10-30援引CME FedWatch数据）。Sell Put策略需关注12月会议前隐含波动率走势及行权价选择。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "利率",
+        "Kevin Warsh",
+        "加息"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+      "published_date": "2026-10-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "67c5b900e23ff82e",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": true
+    },
+    {
       "tier": 1,
       "lang": "en",
       "markets": [
@@ -24,115 +54,88 @@
       ],
       "time": "08:30",
       "group": "大盘头条",
-      "title": "US Q3 2026 GDP Advance Estimate: Real GDP +3.4% Annualized, Beats 3.1% Consensus",
-      "summary": "The BEA released its Q3 2026 advance GDP estimate on October 29: real GDP grew at a 3.4% annualized rate, up from 2.2% in Q2 and beating the 3.1% consensus. Growth was driven by higher business investment, consumer spending, and government spending, partly offset by lower exports and a rise in imports. The GDP price deflator (PCE component) rose at a 2.1% annualized rate; current-dollar GDP grew 5.6%. The second estimate is due November 25.",
-      "why": "强于预期的GDP（+3.4% vs 预期+3.1%）叠加通胀仍黏（9月PCE同比+3.6%），进一步支持美联储维持限制性利率；12月加息预期升温（市场定价概率约85%，来源：Kiplinger援引期货市场数据）。对成长股估值构成压制，sell put 策略中高行权价标的需适当谨慎。",
-      "source": "Bureau of Economic Analysis (BEA)",
+      "title": "U.S. Q3 GDP advance estimate: 3.4% annualized beats consensus 3.2%; Sept core PCE 3.1% YoY fuels December hike bets",
+      "summary": "美国BEA发布Q3 GDP初值：实际GDP年化增速3.4%（高于Q2的2.2%及市场预期3.2%）。9月核心PCE同比3.1%（8月3.0%），整体PCE同比3.6%（8月3.4%），能源价格为主要驱动，均符合市场预期。",
+      "why": "GDP超预期+PCE加速共同强化12月加息预期（CME FedWatch约84.5%，Babypips 2026-10-30援引）。加息预期升温将压制高估值科技股；Sell Put持仓需注意尾部风险，关注12月FOMC前隐含波动率动态。",
+      "source": "美国经济分析局(BEA)",
       "verified": true,
       "keywords": [
-        "宏观",
         "GDP",
-        "BEA",
-        "美国经济",
-        "macro"
+        "PCE",
+        "通胀",
+        "美联储",
+        "加息",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
       "published_date": "2026-10-29",
       "still_developing": false,
       "cross_ref": "",
+      "id": "f14e16dd04be8b67",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-30",
       "is_new": true
     },
     {
-      "id": "301c24e3b620d671",
-      "tier": 1,
+      "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Binance Suspends All Deposits and Withdrawals After Suspected Multi-Billion Dollar Hack; Circle Freezes ~$800M USDC",
-      "summary": "Binance, the world's largest crypto exchange, suspended all deposits and withdrawals on October 29 after detecting a suspected security breach. Estimates from multiple reports put the stolen amount at $5.5–6.3 billion, potentially the largest crypto theft ever. Circle froze approximately $800 million in USDC and Tether froze over $1.5 billion in USDT linked to suspected hacker wallets. Ripple also froze funds. Binance pledged to cover all user losses and enlisted law enforcement. North Korea-linked hackers are suspected. Bitcoin fell more than 4% to below $78,000.",
-      "why": "史上可能最大的加密黑客事件；持仓 Circle(CRCL) 被迫冻结约8亿USDC，短期对Circle的USDC储备业务形成声誉冲击，CRCL隐含波动率可能大幅抬升，持有期权仓位需关注。比特币跌破$78K令整体加密情绪承压。事件仍在发酵，数字待官方确认。",
+      "time": "18:00",
+      "group": "个股",
+      "title": "Nvidia responds to report Jensen Huang was targeted by Chinese intelligence, says allegations investigated and debunked",
+      "summary": "针对媒体报道称黄仁勋曾是中国情报目标一事，英伟达(NVDA)公开回应称相关转移指控已经调查并被驳斥。同期有报道称ByteDance/阿里/腾讯合计订购逾350亿美元英伟达RTX PRO 5500芯片，但英伟达警告因产能及出口规则限制可能无法完全交付。",
+      "why": "英伟达否认间谍指控有助消除短期声誉风险；中国科技巨头350亿美元订单显示AI算力需求极旺，但出口管制仍是核心不确定因素。当前NVDA期权隐含波动率较高，Sell Put需关注地缘政治尾部风险。",
       "source": "CNBC",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "stablecoin",
-        "Binance",
-        "稳定币"
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "黄仁勋",
+        "Jensen Huang",
+        "AI芯片",
+        "出口管制"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
       "published_date": "2026-10-29",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-30",
-      "is_new": true
-    },
-    {
-      "id": "d051c120d0ce3a49",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "大盘头条",
-      "title": "港股午市翻红：恒生指数涨逾1%，科技股领涨，前日跌幅逐步修复",
-      "summary": "10月30日午间，港股主要指数在前日大幅下挫后全面反弹，恒生指数涨逾1%，恒生科技指数亦走强。美团(3690.HK)、友邦保险等个股明显上涨，领涨大市。大盘逐步消化因Alphabet Q3财报引发的AI资本支出担忧情绪，科网板块技术性修复。10月以来港股整体仍处下行通道，内地资金持续净流出。",
-      "why": "持仓美团(3690.HK)明显反弹，短期正向信号；恒科指回升有助于改善科技板块情绪。但月内港股整体偏弱，内地资金流出压力持续，sell put 时需注意恒指波动率仍偏高。周末中国10月PMI数据将影响下周市场开市情绪。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "科技股"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908t05g.html",
-      "published_date": "2026-10-30",
       "still_developing": false,
       "cross_ref": "",
+      "id": "b8ac0a49c4904429",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-30",
       "is_new": true
     },
     {
-      "id": "3a48d617c1401db8",
-      "tier": 2,
+      "tier": 3,
       "lang": "zh",
       "markets": [
         "A"
       ],
-      "time": "12:00",
+      "time": "09:30",
       "group": "大盘头条",
-      "title": "A股10月30日午间：低开后震荡回稳，沪指跌幅收窄至0.3%，较前日大跌明显改善",
-      "summary": "10月30日，A股三大指数集体低开后跌幅快速收窄，上证指数午间跌约0.3%，深证成指跌约0.58%，创业板指跌约1.18%，较前一日（创业板-4.45%、科创50-4.27%）显著改善。白酒、医药等防御性板块相对抗跌；AI硬件、光模块、半导体等成长板块继续承压，机构资金整体观望。",
-      "why": "前日科技股剧跌后恐慌情绪初步缓解，短线反弹窗口已现。但AI板块的估值压缩（Alphabet财报引发AI资本支出ROI质疑）可能需要时间修复；关注周六10月PMI数据能否提供宏观支撑。持仓科技成长股者可考虑逢反弹优化仓位。",
-      "source": "富途牛牛",
+      "title": "A股三大指数集体大幅低开，科技成长股受海外财报拖累承压",
+      "summary": "2026年10月30日早盘，A股三大指数集体大幅低开，创业板指跌幅居前，CPO、覆铜板、激光雷达等科技成长板块领跌；受前一日美股英特尔暴跌21%、谷歌跌12%等科技股巨震拖累，市场情绪偏谨慎。",
+      "why": "海外科技龙头财报不及预期引发A股科技成长板块开盘大幅走低；短期波动对A股科技ETF和持仓有影响，中期来看若三季报数据持续向好基本面逻辑未变，可关注超跌机会。",
+      "source": "新浪财经",
       "verified": false,
       "keywords": [
         "A股",
-        "沪指",
-        "创业板",
         "科技股",
-        "AI板块"
+        "低开",
+        "创业板",
+        "覆铜板",
+        "CPO"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/post/1002861670/a-share-midday-review-shanghai-composite-index-dips-and-rebounds",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908szqs.html",
       "published_date": "2026-10-30",
       "still_developing": false,
       "cross_ref": "",
+      "id": "da3d36d9322a6831",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-30",
       "is_new": true
@@ -1390,6 +1393,67 @@
       "is_new": false
     },
     {
+      "id": "48c980494664a72e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "US Q3 2026 GDP Advance Estimate: Real GDP +3.4% Annualized, Beats 3.1% Consensus",
+      "summary": "The BEA released its Q3 2026 advance GDP estimate on October 29: real GDP grew at a 3.4% annualized rate, up from 2.2% in Q2 and beating the 3.1% consensus. Growth was driven by higher business investment, consumer spending, and government spending, partly offset by lower exports and a rise in imports. The GDP price deflator (PCE component) rose at a 2.1% annualized rate; current-dollar GDP grew 5.6%. The second estimate is due November 25.",
+      "why": "强于预期的GDP（+3.4% vs 预期+3.1%）叠加通胀仍黏（9月PCE同比+3.6%），进一步支持美联储维持限制性利率；12月加息预期升温（市场定价概率约85%，来源：Kiplinger援引期货市场数据）。对成长股估值构成压制，sell put 策略中高行权价标的需适当谨慎。",
+      "source": "Bureau of Economic Analysis (BEA)",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "GDP",
+        "BEA",
+        "美国经济",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "published_date": "2026-10-29",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": false
+    },
+    {
+      "id": "301c24e3b620d671",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Binance Suspends All Deposits and Withdrawals After Suspected Multi-Billion Dollar Hack; Circle Freezes ~$800M USDC",
+      "summary": "Binance, the world's largest crypto exchange, suspended all deposits and withdrawals on October 29 after detecting a suspected security breach. Estimates from multiple reports put the stolen amount at $5.5–6.3 billion, potentially the largest crypto theft ever. Circle froze approximately $800 million in USDC and Tether froze over $1.5 billion in USDT linked to suspected hacker wallets. Ripple also froze funds. Binance pledged to cover all user losses and enlisted law enforcement. North Korea-linked hackers are suspected. Bitcoin fell more than 4% to below $78,000.",
+      "why": "史上可能最大的加密黑客事件；持仓 Circle(CRCL) 被迫冻结约8亿USDC，短期对Circle的USDC储备业务形成声誉冲击，CRCL隐含波动率可能大幅抬升，持有期权仓位需关注。比特币跌破$78K令整体加密情绪承压。事件仍在发酵，数字待官方确认。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "stablecoin",
+        "Binance",
+        "稳定币"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "published_date": "2026-10-29",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": false
+    },
+    {
       "id": "93bea1bfa4e179fa",
       "tier": 1,
       "lang": "en",
@@ -2496,6 +2560,67 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-29",
+      "is_new": false
+    },
+    {
+      "id": "d051c120d0ce3a49",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午市翻红：恒生指数涨逾1%，科技股领涨，前日跌幅逐步修复",
+      "summary": "10月30日午间，港股主要指数在前日大幅下挫后全面反弹，恒生指数涨逾1%，恒生科技指数亦走强。美团(3690.HK)、友邦保险等个股明显上涨，领涨大市。大盘逐步消化因Alphabet Q3财报引发的AI资本支出担忧情绪，科网板块技术性修复。10月以来港股整体仍处下行通道，内地资金持续净流出。",
+      "why": "持仓美团(3690.HK)明显反弹，短期正向信号；恒科指回升有助于改善科技板块情绪。但月内港股整体偏弱，内地资金流出压力持续，sell put 时需注意恒指波动率仍偏高。周末中国10月PMI数据将影响下周市场开市情绪。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908t05g.html",
+      "published_date": "2026-10-30",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": false
+    },
+    {
+      "id": "3a48d617c1401db8",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "12:00",
+      "group": "大盘头条",
+      "title": "A股10月30日午间：低开后震荡回稳，沪指跌幅收窄至0.3%，较前日大跌明显改善",
+      "summary": "10月30日，A股三大指数集体低开后跌幅快速收窄，上证指数午间跌约0.3%，深证成指跌约0.58%，创业板指跌约1.18%，较前一日（创业板-4.45%、科创50-4.27%）显著改善。白酒、医药等防御性板块相对抗跌；AI硬件、光模块、半导体等成长板块继续承压，机构资金整体观望。",
+      "why": "前日科技股剧跌后恐慌情绪初步缓解，短线反弹窗口已现。但AI板块的估值压缩（Alphabet财报引发AI资本支出ROI质疑）可能需要时间修复；关注周六10月PMI数据能否提供宏观支撑。持仓科技成长股者可考虑逢反弹优化仓位。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "沪指",
+        "创业板",
+        "科技股",
+        "AI板块"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/1002861670/a-share-midday-review-shanghai-composite-index-dips-and-rebounds",
+      "published_date": "2026-10-30",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
       "is_new": false
     },
     {
