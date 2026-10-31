@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-31 13:17 (北京时间)",
+  "updated_at": "2026-10-31 18:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,76 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-31 13:17 (北京时间)",
-    "new_count": 2,
+    "at": "2026-10-31 18:18 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "69553894e5211fcd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "A",
-        "US"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "China NBS Manufacturing PMI falls to 49.3 in October, both manufacturing and services contract",
-      "summary": "China's official NBS Manufacturing PMI fell to 49.3 in October from 50.1 in September, missing the consensus forecast of 50.0 and returning to contraction. Production sub-index dropped to 49.8 and new-orders gauge slipped to 49.4. Non-Manufacturing PMI also slipped below 50 to 49.7 (vs. 50.2 prior). NBS cited demand pull-forward ahead of the National Day holiday and a complex international environment. High-tech manufacturing PMI held at 51.3.",
-      "why": "中国10月制造业PMI跌破荣枯线至49.3，服务业PMI同步跌至49.7，双双收缩。9月短暂回升后再度走弱，超出市场预期（共识50.0），是今年以来最差的宏观信号之一。对港/A股顺周期板块（工业、材料、消费品）及腾讯/美团等消费相关标的构成压制；叠加美联储维持高利率，双重宏观逆风。需跟踪政策面能否在11月出台更多刺激措施。",
-      "source": "界面新闻",
-      "verified": true,
-      "keywords": [
-        "China PMI",
-        "NBS",
-        "制造业PMI",
-        "Manufacturing PMI",
-        "宏观",
-        "A股"
-      ],
-      "translated": false,
-      "url": "https://en.jiemian.com/article/13576937.html",
-      "published_date": "2026-10-31",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-31",
-      "is_new": true
-    },
-    {
-      "id": "b2cdbc25d7904f8e",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Apple overtakes Nvidia to reclaim world's most valuable company title at $5.03T market cap",
-      "summary": "Apple (AAPL) overtook Nvidia (NVDA) on October 30 to become the world's most valuable public company at $5.03T, as Nvidia fell 4.2% to $4.93T. This is the first such flip since July. Investors rotated toward Apple amid concerns about AI infrastructure spending returns — Apple's steadier capex profile seen as a relative safe haven amid the tech selloff.",
-      "why": "苹果市值超越英伟达折射市场对AI算力支出回报时间线的疑虑；两者差距仅约1000亿美元（不足Nvidia日常波动），排名可随时反转。若AI回报担忧持续，可能进一步影响科技赛道整体估值；对长期持有Nvidia的投资者是警示信号。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "Apple",
-        "AAPL",
-        "Nvidia",
-        "NVDA",
-        "market cap",
-        "市值"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
-      "published_date": "2026-10-30",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-10-31",
-      "is_new": true
-    },
     {
       "id": "375e2997e60ec4ce",
       "tier": 1,
@@ -1265,6 +1201,39 @@
       "is_new": false
     },
     {
+      "id": "69553894e5211fcd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A",
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "China NBS Manufacturing PMI falls to 49.3 in October, both manufacturing and services contract",
+      "summary": "China's official NBS Manufacturing PMI fell to 49.3 in October from 50.1 in September, missing the consensus forecast of 50.0 and returning to contraction. Production sub-index dropped to 49.8 and new-orders gauge slipped to 49.4. Non-Manufacturing PMI also slipped below 50 to 49.7 (vs. 50.2 prior). NBS cited demand pull-forward ahead of the National Day holiday and a complex international environment. High-tech manufacturing PMI held at 51.3.",
+      "why": "中国10月制造业PMI跌破荣枯线至49.3，服务业PMI同步跌至49.7，双双收缩。9月短暂回升后再度走弱，超出市场预期（共识50.0），是今年以来最差的宏观信号之一。对港/A股顺周期板块（工业、材料、消费品）及腾讯/美团等消费相关标的构成压制；叠加美联储维持高利率，双重宏观逆风。需跟踪政策面能否在11月出台更多刺激措施。",
+      "source": "界面新闻",
+      "verified": true,
+      "keywords": [
+        "China PMI",
+        "NBS",
+        "制造业PMI",
+        "Manufacturing PMI",
+        "宏观",
+        "A股"
+      ],
+      "translated": false,
+      "url": "https://en.jiemian.com/article/13576937.html",
+      "published_date": "2026-10-31",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-31",
+      "is_new": false
+    },
+    {
       "id": "b3813c26b869fa18",
       "tier": 2,
       "lang": "zh",
@@ -2308,6 +2277,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-30",
+      "is_new": false
+    },
+    {
+      "id": "b2cdbc25d7904f8e",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Apple overtakes Nvidia to reclaim world's most valuable company title at $5.03T market cap",
+      "summary": "Apple (AAPL) overtook Nvidia (NVDA) on October 30 to become the world's most valuable public company at $5.03T, as Nvidia fell 4.2% to $4.93T. This is the first such flip since July. Investors rotated toward Apple amid concerns about AI infrastructure spending returns — Apple's steadier capex profile seen as a relative safe haven amid the tech selloff.",
+      "why": "苹果市值超越英伟达折射市场对AI算力支出回报时间线的疑虑；两者差距仅约1000亿美元（不足Nvidia日常波动），排名可随时反转。若AI回报担忧持续，可能进一步影响科技赛道整体估值；对长期持有Nvidia的投资者是警示信号。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "Apple",
+        "AAPL",
+        "Nvidia",
+        "NVDA",
+        "market cap",
+        "市值"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
+      "published_date": "2026-10-30",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-10-31",
       "is_new": false
     },
     {
