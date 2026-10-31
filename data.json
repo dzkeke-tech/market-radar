@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-10-30 18:18 (北京时间)",
+  "updated_at": "2026-10-31 08:15 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,357 +9,108 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-10-30 18:18 (北京时间)",
-    "new_count": 4,
+    "at": "2026-10-31 08:15 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "Fed keeps rates at 3.75%-4.00%; two members dissented for a hike; Warsh says politics played no role",
-      "summary": "美联储10月28日维持联邦基金利率目标区间3.75%-4.00%不变，符合市场预期。两名委员持异议倾向立即加息。美联储主席Kevin Warsh表示9月加息效果与经济数据支持暂停，并否认与中期选举相关。",
-      "why": "美联储动向直接影响全球风险资产定价；9月已加息25bp。CME FedWatch显示12月再加息概率约84.5%（Babypips 2026-10-30援引CME FedWatch数据）。Sell Put策略需关注12月会议前隐含波动率走势及行权价选择。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "利率",
-        "Kevin Warsh",
-        "加息"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-      "published_date": "2026-10-28",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "67c5b900e23ff82e",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-30",
-      "is_new": true
-    },
-    {
-      "tier": 1,
-      "lang": "en",
+      "id": "08f8b33313b09f95",
+      "tier": 2,
+      "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "08:30",
+      "time": "12:00",
       "group": "大盘头条",
-      "title": "U.S. Q3 GDP advance estimate: 3.4% annualized beats consensus 3.2%; Sept core PCE 3.1% YoY fuels December hike bets",
-      "summary": "美国BEA发布Q3 GDP初值：实际GDP年化增速3.4%（高于Q2的2.2%及市场预期3.2%）。9月核心PCE同比3.1%（8月3.0%），整体PCE同比3.6%（8月3.4%），能源价格为主要驱动，均符合市场预期。",
-      "why": "GDP超预期+PCE加速共同强化12月加息预期（CME FedWatch约84.5%，Babypips 2026-10-30援引）。加息预期升温将压制高估值科技股；Sell Put持仓需注意尾部风险，关注12月FOMC前隐含波动率动态。",
-      "source": "美国经济分析局(BEA)",
+      "title": "比特币跌逾4%至约7.7万美元，Binance黑客事件重创加密市场情绪",
+      "summary": "受Binance约63.6亿美元黑客盗窃事件冲击，比特币10月30日下跌逾4%至约7.7万美元附近，以太坊跌幅更深。分析人士指出，比特币网络本身并未受到攻击；市场抛售主要源于情绪恐慌与流动性担忧，并叠加同日美股科技股大跌的综合影响。",
+      "why": "持仓Circle（CRCL）等加密相关标的的投资者需关注波动率持续高企；Binance事件短期内恐压制加密市场情绪，或影响Circle的USDC收入预期及下周（11月4日）财报表现。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "GDP",
-        "PCE",
-        "通胀",
-        "美联储",
-        "加息",
-        "宏观"
+        "比特币",
+        "Bitcoin",
+        "加密货币",
+        "Binance",
+        "Circle",
+        "CRCL",
+        "波动率"
       ],
       "translated": false,
-      "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
-      "published_date": "2026-10-29",
+      "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html",
+      "published_date": "2026-10-30",
       "still_developing": false,
       "cross_ref": "",
-      "id": "f14e16dd04be8b67",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-30",
+      "first_seen": "2026-10-31",
       "is_new": true
     },
     {
+      "id": "54034729f5a101c2",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "18:00",
+      "group": "大盘头条",
+      "title": "A股三季报收官：5572家公司净利润同比增8.3%，科创板大增476%，电子行业增量领跑",
+      "summary": "截至10月31日，5572家A股上市公司已披露2026年前三季度业绩，合计营收同比增5.66%，归母净利润同比增8.3%。科创板净利润同比暴增476%（含新上市公司贡献），创业板增22.6%，主板仅增2.86%。电子、有色金属、石油石化利润增量居前，AI算力产业链（存储芯片、服务器、PCB等龙头）业绩显著高增。三季报营收增速较中报有所回落。",
+      "why": "科技硬件与AI算力链三季报表现亮眼，对A股同类标的估值提供支撑；主板增速放缓反映内需承压，消费类持仓需留意旺季拉动能否延续至四季度；科创板超高增速受新股影响，需审慎看待。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "三季报",
+        "科创板",
+        "电子",
+        "AI算力",
+        "业绩",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261029/herald/098cea5c7dc790c1ca7088c52ed8ffea.html",
+      "published_date": "2026-10-29",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-31",
+      "is_new": true
+    },
+    {
+      "id": "af1030d95e5973be",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "18:00",
+      "time": "16:30",
       "group": "个股",
-      "title": "Nvidia responds to report Jensen Huang was targeted by Chinese intelligence, says allegations investigated and debunked",
-      "summary": "针对媒体报道称黄仁勋曾是中国情报目标一事，英伟达(NVDA)公开回应称相关转移指控已经调查并被驳斥。同期有报道称ByteDance/阿里/腾讯合计订购逾350亿美元英伟达RTX PRO 5500芯片，但英伟达警告因产能及出口规则限制可能无法完全交付。",
-      "why": "英伟达否认间谍指控有助消除短期声誉风险；中国科技巨头350亿美元订单显示AI算力需求极旺，但出口管制仍是核心不确定因素。当前NVDA期权隐含波动率较高，Sell Put需关注地缘政治尾部风险。",
-      "source": "CNBC",
+      "title": "SanDisk SNDK Q1 FY2027: Revenue $11.0B, Announces 8-for-1 Stock Split Effective Nov 19; Stock Falls ~9% Despite Beat",
+      "summary": "SanDisk reported Q1 FY2027 revenue of $11.0 billion and announced an 8-for-1 forward stock split effective November 19, 2026, to improve stock accessibility. Despite the earnings beat and split announcement, shares fell approximately 9% as investors sold the news, weighed down partly by broader memory sector concerns following Chinese DRAM maker CXMT reporting Q3 revenue surging 613% YoY.",
+      "why": "持仓闪迪（SanDisk/SNDK）：8比1拆股生效（11月19日）前后通常带来流动性提升，短期期权策略参数需按新股价调整；但CXMT崛起形成中长期竞争压力，估值重估风险不容忽视。",
+      "source": "SEC EDGAR",
       "verified": true,
       "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "黄仁勋",
-        "Jensen Huang",
-        "AI芯片",
-        "出口管制"
+        "SanDisk",
+        "SNDK",
+        "闪迪",
+        "NAND",
+        "存储",
+        "股票拆分",
+        "Q1业绩",
+        "半导体"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002023554/000162828026068243/sndkq1-27ex991xpressrelease.htm",
       "published_date": "2026-10-29",
       "still_developing": false,
       "cross_ref": "",
-      "id": "b8ac0a49c4904429",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-30",
+      "first_seen": "2026-10-31",
       "is_new": true
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "A股三大指数集体大幅低开，科技成长股受海外财报拖累承压",
-      "summary": "2026年10月30日早盘，A股三大指数集体大幅低开，创业板指跌幅居前，CPO、覆铜板、激光雷达等科技成长板块领跌；受前一日美股英特尔暴跌21%、谷歌跌12%等科技股巨震拖累，市场情绪偏谨慎。",
-      "why": "海外科技龙头财报不及预期引发A股科技成长板块开盘大幅走低；短期波动对A股科技ETF和持仓有影响，中期来看若三季报数据持续向好基本面逻辑未变，可关注超跌机会。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "科技股",
-        "低开",
-        "创业板",
-        "覆铜板",
-        "CPO"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908szqs.html",
-      "published_date": "2026-10-30",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "da3d36d9322a6831",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-30",
-      "is_new": true
-    },
-    {
-      "id": "6443f0df5ea343a0",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "Meta AI资本支出单季首超经营现金流，美股科技芯片周四重挫",
-      "summary": "Meta公布Q3业绩，季度资本支出高于经营现金流，全年AI资本支出指引上调，引发投资者对科技巨头AI投入回报率的担忧。科技与半导体股全线大跌，纳指跌幅逾2%，英伟达单日跌约4%，费城半导体指数显著下滑。",
-      "why": "AI基础设施投入持续扩张、ROI时间线不明朗，情绪蔓延至整个科技/芯片板块，隐含波动率短期可能抬升；持有NVDA、MU等标的的sell put仓位需关注方向风险与行权价安全边际。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "Meta",
-        "纳指",
-        "芯片",
-        "科技股",
-        "美股",
-        "AI支出",
-        "资本支出"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s3rc.html",
-      "published_date": "2026-10-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "05488b4c9e64fb08",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
-      "summary": "Wall Street's Philadelphia Semiconductor Index posted its biggest single-day decline since June on Oct 22, dragging the Nasdaq down more than 2.5%. Asian markets followed: South Korea's Kosdaq fell roughly 3.5%, Japan's Nikkei lost 1.4%, while China's CSI 300 extended its slide into technical bear-market territory (down more than 20% from recent highs). Bitcoin retreated to around $82,000 alongside the broader risk-off move.",
-      "why": "AI投资回报疑虑再度引爆全球芯片股抛售，A股/港股/美股科技持仓同步承压；隐含波动率(IV)急升，持有科技股short put仓位需密切关注行权价下行风险；比特币同步回调印证风险情绪全面收缩",
-      "source": "CoinDesk",
-      "verified": true,
-      "keywords": [
-        "semiconductor",
-        "chip stocks",
-        "Nasdaq",
-        "Kosdaq",
-        "CSI 300",
-        "bear market",
-        "Bitcoin",
-        "AI spending"
-      ],
-      "translated": false,
-      "url": "https://coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
-      "published_date": "2026-10-22",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "62faa5a81f0089fe",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "A股三大指数集体下跌 创业板指跌4.37% 成长股承压",
-      "summary": "10月22日A股三大指数集体下跌：上证指数跌1.48%，深证成指跌2.96%，创业板指跌4.37%。沪深两市成交约1.5万亿元，近5000只个股下跌，成长/科技方向跌幅明显大于大盘蓝筹。市场人士指出，美国10年期国债收益率高位运行持续压制科技成长股，但部分行业龙头三季报盈利仍在增长，估值已进入合理区间。",
-      "why": "A股成长股大幅调整，科技/消费持仓面临压力；创业板-4.37%在统计上触发短期超卖信号，sell put投资者需评估是否存在被行权风险；下方支撑位值得关注",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "上证指数",
-        "创业板",
-        "科技股",
-        "成长股",
-        "美债收益率"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s20a.html",
-      "published_date": "2026-10-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "e93fd49202eabc0b",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "21:00",
-      "group": "大盘头条",
-      "title": "Brent crude tops $113 on Houthi attacks; gold slips below $4,000 for first time since July",
-      "summary": "Brent crude topped $113 a barrel after further Houthi attacks on Saudi Arabia and escalating US-Iran tensions. Gold traded below $4,000 per ounce for the first time since July, unwinding some of its recent safe-haven premium even as geopolitical risks rose. The Fed's two-day meeting starts Oct 27; markets currently lean toward a hold at the 3.75–4.00% target range.",
-      "why": "油价飙升对通胀预期构成上行压力，可能强化美联储鹰派立场；黄金跌破4000美元或显示部分避险资金获利了结；下周FOMC决议（10月28日）将成为近期最大催化剂，关注美联储主席沃什的政策表态",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Brent crude",
-        "oil",
-        "Houthi",
-        "Saudi Arabia",
-        "gold",
-        "Fed",
-        "FOMC",
-        "Kevin Warsh"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-      "published_date": "2026-10-22",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "7e6736c317ce4044",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "22:00",
-      "group": "大盘头条",
-      "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
-      "summary": "Meta Q3 2026 revenue rose 26% YoY to $64.6B, beating estimates of ~$63.4B. Full-year 2026 capex guidance raised to $135–145B (from $130–145B). Free cash flow turned negative amid surging AI infrastructure spend. Stock fell ~7% after hours.",
-      "why": "Meta是AI资本开支风向标；FCF转负、capex持续上调触发本轮科技股重估；短期期权隐含波动率上升，sell put需谨慎；Q4指引$73–76B为下季度预期锚定。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Meta",
-        "AI capex",
-        "free cash flow",
-        "earnings",
-        "Q3 2026"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-      "published_date": "2026-10-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "822e95abc09bbab7",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "新浪美股热点小时报丨2026年10月23日：美股科技股大跌，纳指跌逾2%创6月以来最惨单日",
-      "summary": "受市场对人工智能公司资本开支回报疑虑加剧，叠加地缘政治推升油价，纳斯达克综合指数22日收跌约2%，创6月以来最差单日表现，科技股普遍走弱。",
-      "why": "科技股全面回调，持仓中腾讯、阿里、美团港股联动压力加大；美股AI资本开支叙事重估是本轮下跌核心逻辑；后续关注Q3财报季能否提振信心。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "美股",
-        "纳指",
-        "AI资本开支",
-        "科技股",
-        "大跌"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s1yi.html",
-      "published_date": "2026-10-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "f4926b890d275123",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "新浪半导体热点小时报丨2026年10月23日：费城半导体指数重挫逾5%，泛林集团领跌约10%",
-      "summary": "10月22日美股中，费城半导体指数大跌逾5%。泛林集团（Lam Research）因下季度业绩指引未达市场较高预期，单日股价跌幅约10%，拖累芯片板块。",
-      "why": "SK海力士、美光、英伟达联动受压；泛林集团指引下修是HBM/存储供应链的重要参考，需关注对SK海力士10月29日Q3财报的预期影响；半导体ETF期权波动率抬升。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "费城半导体指数",
-        "泛林集团",
-        "Lam Research",
-        "半导体",
-        "芯片"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s2ag.html",
-      "published_date": "2026-10-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
     },
     {
       "id": "375e2997e60ec4ce",
@@ -1393,6 +1144,68 @@
       "is_new": false
     },
     {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "Fed keeps rates at 3.75%-4.00%; two members dissented for a hike; Warsh says politics played no role",
+      "summary": "美联储10月28日维持联邦基金利率目标区间3.75%-4.00%不变，符合市场预期。两名委员持异议倾向立即加息。美联储主席Kevin Warsh表示9月加息效果与经济数据支持暂停，并否认与中期选举相关。",
+      "why": "美联储动向直接影响全球风险资产定价；9月已加息25bp。CME FedWatch显示12月再加息概率约84.5%（Babypips 2026-10-30援引CME FedWatch数据）。Sell Put策略需关注12月会议前隐含波动率走势及行权价选择。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "利率",
+        "Kevin Warsh",
+        "加息"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+      "published_date": "2026-10-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "67c5b900e23ff82e",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "U.S. Q3 GDP advance estimate: 3.4% annualized beats consensus 3.2%; Sept core PCE 3.1% YoY fuels December hike bets",
+      "summary": "美国BEA发布Q3 GDP初值：实际GDP年化增速3.4%（高于Q2的2.2%及市场预期3.2%）。9月核心PCE同比3.1%（8月3.0%），整体PCE同比3.6%（8月3.4%），能源价格为主要驱动，均符合市场预期。",
+      "why": "GDP超预期+PCE加速共同强化12月加息预期（CME FedWatch约84.5%，Babypips 2026-10-30援引）。加息预期升温将压制高估值科技股；Sell Put持仓需注意尾部风险，关注12月FOMC前隐含波动率动态。",
+      "source": "美国经济分析局(BEA)",
+      "verified": true,
+      "keywords": [
+        "GDP",
+        "PCE",
+        "通胀",
+        "美联储",
+        "加息",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+      "published_date": "2026-10-29",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "f14e16dd04be8b67",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": false
+    },
+    {
       "id": "48c980494664a72e",
       "tier": 1,
       "lang": "en",
@@ -1482,257 +1295,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-30",
-      "is_new": false
-    },
-    {
-      "id": "08d21e9fb8c45f28",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "15:00",
-      "group": "大盘头条",
-      "title": "A股港股周五大幅反弹，科技板块领涨，创业板涨幅居前",
-      "summary": "美股隔夜重挫后，A股及港股周五（10月23日）午后出现强力反弹，创业板与科技权重股表现突出，新易盛、中际旭创等AI算力概念股大涨，恒生科技指数亦走强，市场情绪在低开后明显修复。",
-      "why": "A股/港股科技股短期波动加剧，对sell put策略构成双向压力；反弹有助于持仓浮盈修复，但需关注后续美股情绪能否稳定以确认反弹持续性。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "港股",
-        "创业板",
-        "科技板块",
-        "反弹",
-        "恒生科技"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s4ti.html",
-      "published_date": "2026-10-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "33f01a5236e61ab4",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "NVIDIA GTC Berlin: DSX POD Reference Design Cuts AI Factory Deployment to 14 Days",
-      "summary": "At GTC Berlin (Oct 21), NVIDIA launched the DSX POD modular AI factory reference design, enabling deployment at a prepared site in as few as 14 days vs. six months conventionally. Partners Dell, HPE, Lenovo, Anduril, Crusoe, Schneider Electric and Vertiv will build partner-branded systems targeting Q1 2027 availability.",
-      "why": "英伟达持续强化AI工厂生态基础设施，降低客户部署门槛将支撑Blackwell/Vera Rubin世代需求；尽管GTC Berlin信息积极，股价同期因大盘情绪拖累下跌约4%，可能带来更优期权入场点位。",
-      "source": "Nvidia官方",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI工厂",
-        "数据中心",
-        "GTC",
-        "DSX POD",
-        "Blackwell"
-      ],
-      "translated": false,
-      "url": "https://nvidianews.nvidia.com/news/latest",
-      "published_date": "2026-10-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "5255b76a27222a0d",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "布伦特原油升至五个月高位，中东局势升温推动港股石油股走强",
-      "summary": "受中东地缘局势持续紧张提振，布伦特原油价格升至五个月以来高位，港股石油股周五盘中随势走强，科网股与石油股共同活跃。",
-      "why": "油价维持高位对通胀预期构成上行压力，可能影响美联储后续政策窗口；港股能源板块出现阶段性交易机会，可关注相关标的短线波动。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "布伦特原油",
-        "油价",
-        "中东",
-        "港股",
-        "能源",
-        "石油股"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s3yw.html",
-      "published_date": "2026-10-23",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "3d1c2130703ec7b9",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "美团考虑发行第二笔离岸人民币点心债，已获中国监管批准（Bloomberg）",
-      "summary": "据彭博社报道，美团（3690.HK）正评估在近期发行离岸人民币点心债券，此为第二笔发行（第一笔于2025年11月完成），已获中国监管部门批准，资金用于一般公司用途，具体规模与期限尚未披露。",
-      "why": "点心债为美团提供低成本离岸人民币融资渠道，有助支撑Keeta海外扩张与国内业务资本支出；此次发行获监管批准信号积极，对3690.HK财务稳健性有正面支持。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "点心债",
-        "离岸人民币",
-        "债券",
-        "融资"
-      ],
-      "translated": false,
-      "url": "https://bloomberg.com/news/articles/2026-10-21/chinese-food-delivery-firm-meituan-considers-dim-sum-bond-sale",
-      "published_date": "2026-10-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "dcd0b1a4b8b7141d",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "大盘头条",
-      "title": "港股午评：恒指涨0.58% 科指涨0.86% 汽车股走强 锂电池股回暖",
-      "summary": "10月23日午盘，恒生指数涨0.58%报23066.79点，恒生科技指数涨0.86%，国企指数涨0.93%。汽车股领涨，锂电池股回暖；小米涨超5%，联想跌超3%。前一交易日港股重挫（恒指-3.03%，恒科-5.03%），午盘出现明显技术性反弹。",
-      "why": "前日暴跌后港股出现超跌反弹；小米涨超5%是午盘最大亮点，汽车/锂电板块强势或反映国内政策预期；持有港股科技标的的仓位可观察反弹可持续性再决定是否调整covered call",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技",
-        "小米",
-        "汽车股",
-        "锂电池",
-        "技术性反弹"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-23/doc-iniweqhw2046043.shtml",
-      "published_date": "2026-10-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "4acf956921963b1a",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "新浪财经热点小时报丨2026年10月23日：地缘紧张推升国际油价，布伦特原油涨约2.56%",
-      "summary": "受地缘政治紧张态势影响，布伦特原油22日上涨约2.56%，升至111美元/桶附近，通胀预期再度升温，成为美联储10月28日会议决策的新变量。",
-      "why": "油价走高加剧通胀担忧，加大美联储维持高利率的概率；对消费及科技股估值构成间接压力；需关注美联储10月28日会议是否超预期行动。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "油价",
-        "布伦特",
-        "地缘政治",
-        "通胀",
-        "美联储"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908s26k.html",
-      "published_date": "2026-10-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "1896096c6f162044",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "Alibaba Leads Hong Kong Tech Slide on China Regulatory Move",
-      "summary": "Chinese authorities summoned major e-commerce operators and called for tighter product-quality standards. Alibaba fell 6.12% on Oct 22, breaking below HK$100. The Hang Seng Tech Index dropped 5.03% to its lowest since September 2024.",
-      "why": "阿里巴巴被约谈叠加AI投入回报质疑引发港股科技板块连锁抛售；监管范围是否扩大至腾讯、美团是下一个风险变量；短期波动率上升，covered call可考虑适当防御。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "监管",
-        "港股",
-        "恒生科技指数"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-22/alibaba-shares-post-steepest-drop-in-two-months-on-china-curbs",
-      "published_date": "2026-10-22",
-      "still_developing": false,
-      "cross_ref": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
-      "first_seen": "2026-10-23",
-      "is_new": false
-    },
-    {
-      "id": "ed7a22d096afecb8",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "泡泡玛特六连跌，段永平此前称还会再买一些",
-      "summary": "泡泡玛特（9992.HK）股价已连续6个交易日收跌，累计跌幅超14%，创近一年半来新低。第三方渠道监测显示Q3销售数据同比显著下滑。知名投资人段永平表示仍会再买一些，但不会超过已发行股份的10%。",
-      "why": "泡泡玛特是消费类重点标的，连跌6日且渠道数据偏弱；段永平入场声明有护盘效果，但若Q3业绩正式披露确认销售下滑，可能引发进一步调整；sell put行权价需向下调整以给足安全边际。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "9992.HK",
-        "段永平",
-        "盲盒",
-        "潮玩"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261022/herald/55761ef2dbd27a33ee0000677f9f5f21.html",
-      "published_date": "2026-10-22",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-23",
       "is_new": false
     },
     {
@@ -2563,6 +2125,38 @@
       "is_new": false
     },
     {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:00",
+      "group": "个股",
+      "title": "Nvidia responds to report Jensen Huang was targeted by Chinese intelligence, says allegations investigated and debunked",
+      "summary": "针对媒体报道称黄仁勋曾是中国情报目标一事，英伟达(NVDA)公开回应称相关转移指控已经调查并被驳斥。同期有报道称ByteDance/阿里/腾讯合计订购逾350亿美元英伟达RTX PRO 5500芯片，但英伟达警告因产能及出口规则限制可能无法完全交付。",
+      "why": "英伟达否认间谍指控有助消除短期声誉风险；中国科技巨头350亿美元订单显示AI算力需求极旺，但出口管制仍是核心不确定因素。当前NVDA期权隐含波动率较高，Sell Put需关注地缘政治尾部风险。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "黄仁勋",
+        "Jensen Huang",
+        "AI芯片",
+        "出口管制"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+      "published_date": "2026-10-29",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "b8ac0a49c4904429",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
+      "is_new": false
+    },
+    {
       "id": "d051c120d0ce3a49",
       "tier": 2,
       "lang": "zh",
@@ -2810,6 +2404,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-26",
+      "is_new": false
+    },
+    {
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "A股三大指数集体大幅低开，科技成长股受海外财报拖累承压",
+      "summary": "2026年10月30日早盘，A股三大指数集体大幅低开，创业板指跌幅居前，CPO、覆铜板、激光雷达等科技成长板块领跌；受前一日美股英特尔暴跌21%、谷歌跌12%等科技股巨震拖累，市场情绪偏谨慎。",
+      "why": "海外科技龙头财报不及预期引发A股科技成长板块开盘大幅走低；短期波动对A股科技ETF和持仓有影响，中期来看若三季报数据持续向好基本面逻辑未变，可关注超跌机会。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "科技股",
+        "低开",
+        "创业板",
+        "覆铜板",
+        "CPO"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908szqs.html",
+      "published_date": "2026-10-30",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "da3d36d9322a6831",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-10-30",
       "is_new": false
     }
   ]
