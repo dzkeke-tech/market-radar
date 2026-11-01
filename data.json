@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-01 13:17 (北京时间)",
+  "updated_at": "2026-11-01 18:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,103 +9,36 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-01 13:17 (北京时间)",
-    "new_count": 3,
+    "at": "2026-11-01 18:17 (北京时间)",
+    "new_count": 1,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "cfa9e948c922e429",
+      "id": "7d204d0f2c3180b3",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "05:17",
+      "time": "18:00",
       "group": "大盘头条",
-      "title": "下周重磅看点：Apple、Palantir同日报Q3，AMD、McDonald's跟进，11月2-4日财报密集",
-      "summary": "Apple (AAPL) and Palantir (PLTR) report Q3 earnings on November 2 after market close; AMD reports November 3, McDonald's on November 4. All are tracked holdings with options exposure.",
-      "why": "苹果(AAPL)与Palantir(PLTR)将于11月2日盘后同日发布Q3财报，为本周最大催化剂：苹果期权隐含约±5%波动，Palantir已连续多季超预期；AMD(3日)、麦当劳MCD(4日)跟进。持仓标的密集披露，期权卖方须在周一开盘前评估仓位敞口。今日头条偏少原因：周末（11月1日周日），美港A三市均休市，本周重大头条（英特尔崩盘、亚马逊/谷歌Q3、SK海力士、泡泡玛特、Fed决议、GDP/PCE、中国PMI）均已于早间运行收录。",
+      "title": "S&P Cuts Meta Credit Outlook to Negative as AI Capex Hits $135–145B Annual Run Rate",
+      "summary": "S&P Global revised Meta's credit outlook from stable to negative while keeping its AA- rating. Meta's capex guidance reached $135–145B per year, and free cash flow turned negative for the first time — a $2.12B deficit in Q3 2026. S&P warned it could downgrade if adjusted net debt-to-EBITDA rises above 1.0x and FCF stays negative past 2028.",
+      "why": "标普首次将Meta信用展望调负，AI资本开支失控叠加自由现金流转负，是Meta自2012年上市以来首次FCF负值；Sell Put策略须关注META期权隐含波动率可能扩张，短期Put行权价选择需为潜在降级风险预留缓冲。事件发生于10月30日，适逢本组合持有Meta衍生品头寸，信用变化对估值折现率有直接影响，属仍在市场消化中的重要信用事件。",
       "source": "CNBC",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "Apple",
-        "AAPL",
-        "Palantir",
-        "PLTR",
-        "AMD",
-        "McDonald's",
-        "MCD",
-        "Q3财报",
-        "earnings"
+        "Meta",
+        "S&P",
+        "credit rating",
+        "AI capex",
+        "free cash flow"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/30/here-are-stocks-reporting-next-week-that-usually-beats-and-see-big-share-gains.html",
+      "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
       "published_date": "2026-10-30",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-01",
-      "is_new": true
-    },
-    {
-      "id": "9a8c3992a0eb6158",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "05:17",
-      "group": "个股",
-      "title": "Intel analyst downgrades pile up after 29% crash: BofA cuts to Neutral, slashes target to $100",
-      "summary": "Bank of America downgraded Intel from Buy to Neutral and cut price target from $145 to $100 after Intel's Q3 results triggered a 29% single-day crash. Multiple other analysts also flagged caution against buying the dip.",
-      "why": "美银(BofA)将INTC从买入降至中性并腰斩目标价至$100，多家机构共识勿逢低接飞刀；本条与早间已收录的Intel Q3业绩崩盘构成事件连续（分析师后续反应），属仍在发酵的独立信息层，对持有INTC期权或评估估值支撑的投资者有直接参考价值。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Intel",
-        "INTC",
-        "英特尔",
-        "BofA",
-        "analyst downgrade",
-        "price target"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/31/intel-not-a-buy-after-drop.html",
-      "published_date": "2026-10-31",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-01",
-      "is_new": true
-    },
-    {
-      "id": "7fcf407f9f6c6438",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "05:17",
-      "group": "个股",
-      "title": "小米汽车10月交付首破5万台，澎程系列首个完整交付月贡献主力增量",
-      "summary": "小米汽车10月单月交付量首次突破5万台，澎程（YU7升级版）系列迎来首个完整交付月，成为增量主力。截至10月底年内累计交付约28.7万台，全年55万台目标完成率超52%。",
-      "why": "单月5万台是小米汽车交付里程碑，验证澎程系列需求；年内累计进度超半程，支撑全年目标可信度，有助于维持港股1810.HK估值逻辑，对卖put策略提供较强支撑位参考。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "小米汽车",
-        "交付量",
-        "澎程",
-        "YU7"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1032299.shtml",
-      "published_date": "2026-11-01",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -2345,6 +2278,103 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-31",
+      "is_new": false
+    },
+    {
+      "id": "cfa9e948c922e429",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "05:17",
+      "group": "大盘头条",
+      "title": "下周重磅看点：Apple、Palantir同日报Q3，AMD、McDonald's跟进，11月2-4日财报密集",
+      "summary": "Apple (AAPL) and Palantir (PLTR) report Q3 earnings on November 2 after market close; AMD reports November 3, McDonald's on November 4. All are tracked holdings with options exposure.",
+      "why": "苹果(AAPL)与Palantir(PLTR)将于11月2日盘后同日发布Q3财报，为本周最大催化剂：苹果期权隐含约±5%波动，Palantir已连续多季超预期；AMD(3日)、麦当劳MCD(4日)跟进。持仓标的密集披露，期权卖方须在周一开盘前评估仓位敞口。今日头条偏少原因：周末（11月1日周日），美港A三市均休市，本周重大头条（英特尔崩盘、亚马逊/谷歌Q3、SK海力士、泡泡玛特、Fed决议、GDP/PCE、中国PMI）均已于早间运行收录。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "Apple",
+        "AAPL",
+        "Palantir",
+        "PLTR",
+        "AMD",
+        "McDonald's",
+        "MCD",
+        "Q3财报",
+        "earnings"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/30/here-are-stocks-reporting-next-week-that-usually-beats-and-see-big-share-gains.html",
+      "published_date": "2026-10-30",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-01",
+      "is_new": false
+    },
+    {
+      "id": "9a8c3992a0eb6158",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "05:17",
+      "group": "个股",
+      "title": "Intel analyst downgrades pile up after 29% crash: BofA cuts to Neutral, slashes target to $100",
+      "summary": "Bank of America downgraded Intel from Buy to Neutral and cut price target from $145 to $100 after Intel's Q3 results triggered a 29% single-day crash. Multiple other analysts also flagged caution against buying the dip.",
+      "why": "美银(BofA)将INTC从买入降至中性并腰斩目标价至$100，多家机构共识勿逢低接飞刀；本条与早间已收录的Intel Q3业绩崩盘构成事件连续（分析师后续反应），属仍在发酵的独立信息层，对持有INTC期权或评估估值支撑的投资者有直接参考价值。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "Intel",
+        "INTC",
+        "英特尔",
+        "BofA",
+        "analyst downgrade",
+        "price target"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/31/intel-not-a-buy-after-drop.html",
+      "published_date": "2026-10-31",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-01",
+      "is_new": false
+    },
+    {
+      "id": "7fcf407f9f6c6438",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "05:17",
+      "group": "个股",
+      "title": "小米汽车10月交付首破5万台，澎程系列首个完整交付月贡献主力增量",
+      "summary": "小米汽车10月单月交付量首次突破5万台，澎程（YU7升级版）系列迎来首个完整交付月，成为增量主力。截至10月底年内累计交付约28.7万台，全年55万台目标完成率超52%。",
+      "why": "单月5万台是小米汽车交付里程碑，验证澎程系列需求；年内累计进度超半程，支撑全年目标可信度，有助于维持港股1810.HK估值逻辑，对卖put策略提供较强支撑位参考。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "小米汽车",
+        "交付量",
+        "澎程",
+        "YU7"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-01/doc-inixetzy1032299.shtml",
+      "published_date": "2026-11-01",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-01",
       "is_new": false
     },
     {
