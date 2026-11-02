@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-02 08:23 (北京时间)",
+  "updated_at": "2026-11-02 13:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,39 +9,39 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-02 08:23 (北京时间)",
-    "new_count": 3,
+    "at": "2026-11-02 13:19 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "f4e99eccec4edf71",
+      "id": "1ca13294da233eb3",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
+        "HK",
         "US"
       ],
-      "time": "08:23",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "Apple and Palantir Both Report Results After Close Today; iPhone 18 Demand and Palantir AI Revenue Growth in Focus",
-      "summary": "Apple releases fiscal Q4 2026 results after US market close today. Consensus projects ~$113.4 billion revenue (+10% YoY) and EPS ~$1.99; key metrics are iPhone 18 initial demand and Apple Intelligence monetization in China (partnered with Alibaba's Qianwen). Palantir Technologies also reports Q3 2026 tonight; US commercial AI revenue is the focal metric after surging 149% in Q2.",
-      "why": "苹果今晚公布FY2026 Q4，iPhone 18出货量与Apple Intelligence中国区商业化（通义千问进展）为核心指标；Palantir同晚Q3验证商业AI落地加速度。两份报告共同主导本周美股情绪。财报前期权IV偏高，建议等待财报落地后IV压缩再布局Sell Put/Sell Strangle策略。",
-      "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "verified": false,
+      "title": "苹果官宣国行Apple Intelligence接入阿里通义千问，11月4日开放iOS Beta测试，12月正式推出",
+      "summary": "苹果于10月31日正式宣布，国行iPhone将接入阿里巴巴通义千问AI，首批功能11月4日随iOS开发者Beta版开放，12月随正式版推送中国用户；Siri可直接调用千问进行知识问答与内容创作，仅限A17 Pro及以上芯片机型，用户可自主选择是否开通。",
+      "why": "直接利好阿里巴巴（9988.HK/BABA）云与AI业务，通义千问获苹果生态流量背书，验证阿里MaaS商业路线；合作历时近两年落地，对持有BABA sell put策略而言，利好消息落地后短期隐含波动率可能有所变化，宜留意covered call窗口。",
+      "source": "21世纪经济报道",
+      "verified": true,
       "keywords": [
-        "Apple",
-        "AAPL",
-        "iPhone",
-        "Palantir",
-        "PLTR",
-        "财报",
-        "technology",
-        "Apple Intelligence"
+        "阿里巴巴",
+        "通义千问",
+        "Apple Intelligence",
+        "苹果AI",
+        "阿里云",
+        "BABA",
+        "9988.HK"
       ],
       "translated": false,
-      "published_date": "2026-11-01",
+      "url": "https://www.21jingji.com/article/20261102/herald/1f1b8a361d0b7f63a27e520b1df69da1.html",
+      "published_date": "2026-11-02",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -49,63 +49,31 @@
       "is_new": true
     },
     {
-      "id": "d4e0fcab66bdbedd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:23",
-      "group": "大盘头条",
-      "title": "US Midterm Elections on November 3: Markets Brace for Congressional Outcome as Tech Earnings Volatility Continues",
-      "summary": "US midterm elections are scheduled for November 3, 2026. Wall Street analysts note history shows the S&P 500 tends to rally after midterm results become clear as political uncertainty fades. The same week includes AMD Q3 earnings (Nov 3), McDonald's Q3, and a jobs report Friday. Congressional outcomes will affect AI regulation, defense budgets (Palantir government contracts), and healthcare policy.",
-      "why": "延续报道：中期选举明日举行，结果落地有望消除政策不确定性并带来短期反弹；议会格局变化将影响AI监管（Palantir政府合同）、国防预算及医疗政策；选举前后IV变化是期权策略重要窗口，关注结果明朗后的IV压缩机会。",
-      "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "选举",
-        "midterm",
-        "宏观",
-        "macro",
-        "美股",
-        "Palantir",
-        "PLTR"
-      ],
-      "translated": false,
-      "published_date": "2026-10-30",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": true
-    },
-    {
-      "id": "32eb4735dd1e6392",
-      "tier": 3,
+      "id": "fae1f061b7a06781",
+      "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "08:23",
-      "group": "个股",
-      "title": "泡泡玛特旗下甜品品牌POP BAKERY北京首店开业，THE MONSTERS主题IP融合线下餐饮体验",
-      "summary": "10月31日，泡泡玛特旗下甜品品牌POP BAKERY在北京朝阳合生汇开设首家门店，主题为THE MONSTERS系列，推出多款IP造型甜品。此举为公司Q3收入同比大幅下滑背景下，探索IP商业化新通路的品牌多元化举措。",
-      "why": "POP BAKERY是泡泡玛特在盲盒收入承压后向「IP生活方式」品牌转型的里程碑尝试，有助于拓宽IP变现渠道与线下体验入口；单店短期贡献有限，更多是战略信号；9992.HK持仓者可关注IP多元化执行进度，作为评估长期估值修复的参考指标。",
-      "url": "https://m.21jingji.com/article/20261031/herald/81b4afb4e414a1ab5d2a5178cbfcc1b6.html",
-      "source": "21世纪经济报道",
-      "verified": false,
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午评：恒生科技指数涨2.85%，科网股普涨，小米+6.27%，光通信板块领涨",
+      "summary": "11月2日午间，恒生指数涨0.61%报23437点，恒生科技指数涨2.85%；阿里巴巴+2.94%、腾讯+3.39%、小米集团+6.27%；光通信板块领涨（长飞光纤涨超13%），中资券商股走强（中金公司涨超8%）；港交所同日起将买卖盘价格上限从九倍收窄至五倍。",
+      "why": "港股科技股集体反弹，持仓组合（腾讯、阿里、小米）短线受益；光通信板块强势反映AI算力扩容预期；小米大幅领涨与10月交付5万台催化有关；可关注板块轮动机会，监控各标的sell put到期价位安全边际变化。",
+      "source": "新浪财经",
+      "verified": true,
       "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "POPMART",
-        "9992.HK",
-        "The Monsters",
-        "潮玩",
-        "Labubu"
+        "恒生科技指数",
+        "港股",
+        "小米集团",
+        "阿里巴巴",
+        "腾讯",
+        "光通信",
+        "科网股"
       ],
       "translated": false,
-      "published_date": "2026-10-31",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-02/doc-inixiiqz0483866.shtml",
+      "published_date": "2026-11-02",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -998,6 +966,71 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-01",
+      "is_new": false
+    },
+    {
+      "id": "f4e99eccec4edf71",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:23",
+      "group": "大盘头条",
+      "title": "Apple and Palantir Both Report Results After Close Today; iPhone 18 Demand and Palantir AI Revenue Growth in Focus",
+      "summary": "Apple releases fiscal Q4 2026 results after US market close today. Consensus projects ~$113.4 billion revenue (+10% YoY) and EPS ~$1.99; key metrics are iPhone 18 initial demand and Apple Intelligence monetization in China (partnered with Alibaba's Qianwen). Palantir Technologies also reports Q3 2026 tonight; US commercial AI revenue is the focal metric after surging 149% in Q2.",
+      "why": "苹果今晚公布FY2026 Q4，iPhone 18出货量与Apple Intelligence中国区商业化（通义千问进展）为核心指标；Palantir同晚Q3验证商业AI落地加速度。两份报告共同主导本周美股情绪。财报前期权IV偏高，建议等待财报落地后IV压缩再布局Sell Put/Sell Strangle策略。",
+      "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "Apple",
+        "AAPL",
+        "iPhone",
+        "Palantir",
+        "PLTR",
+        "财报",
+        "technology",
+        "Apple Intelligence"
+      ],
+      "translated": false,
+      "published_date": "2026-11-01",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "d4e0fcab66bdbedd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:23",
+      "group": "大盘头条",
+      "title": "US Midterm Elections on November 3: Markets Brace for Congressional Outcome as Tech Earnings Volatility Continues",
+      "summary": "US midterm elections are scheduled for November 3, 2026. Wall Street analysts note history shows the S&P 500 tends to rally after midterm results become clear as political uncertainty fades. The same week includes AMD Q3 earnings (Nov 3), McDonald's Q3, and a jobs report Friday. Congressional outcomes will affect AI regulation, defense budgets (Palantir government contracts), and healthcare policy.",
+      "why": "延续报道：中期选举明日举行，结果落地有望消除政策不确定性并带来短期反弹；议会格局变化将影响AI监管（Palantir政府合同）、国防预算及医疗政策；选举前后IV变化是期权策略重要窗口，关注结果明朗后的IV压缩机会。",
+      "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "选举",
+        "midterm",
+        "宏观",
+        "macro",
+        "美股",
+        "Palantir",
+        "PLTR"
+      ],
+      "translated": false,
+      "published_date": "2026-10-30",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
       "is_new": false
     },
     {
@@ -2211,6 +2244,38 @@
       "id": "da3d36d9322a6831",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-10-30",
+      "is_new": false
+    },
+    {
+      "id": "32eb4735dd1e6392",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:23",
+      "group": "个股",
+      "title": "泡泡玛特旗下甜品品牌POP BAKERY北京首店开业，THE MONSTERS主题IP融合线下餐饮体验",
+      "summary": "10月31日，泡泡玛特旗下甜品品牌POP BAKERY在北京朝阳合生汇开设首家门店，主题为THE MONSTERS系列，推出多款IP造型甜品。此举为公司Q3收入同比大幅下滑背景下，探索IP商业化新通路的品牌多元化举措。",
+      "why": "POP BAKERY是泡泡玛特在盲盒收入承压后向「IP生活方式」品牌转型的里程碑尝试，有助于拓宽IP变现渠道与线下体验入口；单店短期贡献有限，更多是战略信号；9992.HK持仓者可关注IP多元化执行进度，作为评估长期估值修复的参考指标。",
+      "url": "https://m.21jingji.com/article/20261031/herald/81b4afb4e414a1ab5d2a5178cbfcc1b6.html",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "POPMART",
+        "9992.HK",
+        "The Monsters",
+        "潮玩",
+        "Labubu"
+      ],
+      "translated": false,
+      "published_date": "2026-10-31",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
       "is_new": false
     }
   ]
