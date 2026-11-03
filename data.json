@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-03 08:15 (北京时间)",
+  "updated_at": "2026-11-03 13:21 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,166 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-03 08:15 (北京时间)",
-    "new_count": 5,
+    "at": "2026-11-03 13:21 (北京时间)",
+    "new_count": 1,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "9fe9108c21a16bf4",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "纳斯达克100指数进入技术性调整区间，AI投资回报担忧发酵，较10月高点已跌超10%",
-      "summary": "11月2日美股收盘，纳斯达克100指数较10月6日高点累计跌幅超过10%，正式进入技术性调整区间，为年内第三次陷入回调。费城半导体指数单日跌逾3%，AI相关个股如迈威尔科技、甲骨文等大幅下挫；道指逆势小涨约0.4%，显示资金从科技股向其他板块轮动。",
-      "why": "纳斯达克进入调整区间意味着科技持仓短期均面临压力，sell-put策略须提高Delta警觉；AI投资回报疑虑持续发酵，持仓腾讯、阿里、小米等科技类港股间接受外溢影响。",
-      "source": "富途牛牛",
-      "verified": true,
-      "keywords": [
-        "纳斯达克",
-        "技术性调整",
-        "美股",
-        "AI科技股",
-        "费半",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/post/1003153769/overnight-us-stocks-nasdaq-rises-then-falls-back-major-indices",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-03",
-      "is_new": true
-    },
-    {
-      "id": "0e65174907b2e659",
+      "id": "659624e8f59b8d21",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "00:00",
+      "time": "16:30",
       "group": "大盘头条",
-      "title": "Palantir Q3 2026 Revenue Surges 96% YoY to $2.31B, Beats Estimates; US Commercial Revenue Tops Government for First Time",
-      "summary": "Palantir reported Q3 2026 revenue of $2.31B (consensus ~$2.18B), +96% YoY and +20% QoQ. Adjusted EPS $0.44 vs ~$0.41 consensus. US commercial revenue reached $984M (+148% YoY), surpassing US government revenue ($953M) for the first time. Full-year 2026 guidance raised to $8.530–$8.534B. Q4 outlook: revenue $2.649–$2.653B.",
-      "why": "Palantir AIP企业化加速；美国商业首超政府端为商业AI平台成熟的重要里程碑；超预期+指引上调对PLTR sell put策略正面，隐含波动率或随股价跳涨重定价。",
+      "title": "U.S. Midterm Elections Day: Prediction Markets Price Democrats at Nearly 75% to Win Senate",
+      "summary": "Prediction market traders priced Democrats at nearly 75% odds of winning Senate control ahead of Nov. 3 midterm elections, per CNBC. Election outcomes will shape U.S. fiscal and regulatory policy into 2027, with potential impact on tech, pharma, and energy sectors.",
+      "why": "中期选举结果影响美国财政政策与科技监管走向，对持仓中的美股（PLTR、TSLA、NVDA、INTC等）有潜在影响。本次run白名单信源覆盖严重不足，仅收录1条：苹果/阿里Qwen China开发者测试（11/2公告）、SNDK/MU铠侠NAND警告（11/2）、TSLA德州Robotaxi扩张（11/2-3）等重大消息均只有非白名单URL（heygotrade.com、247wallst.com、tradingkey.com），无法入库；Palantir Q3（0e65174907b2e659）与英特尔Q4展望（4deca08debf4c278）已在前序run中收录，seen.json去重命中；Pop Mart Q3披露（b1589eaf66a0bb7d）同样seen.json已有。受此限制，大盘头条实际入库仅1条。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "Palantir",
-        "PLTR",
-        "AI平台",
-        "业绩",
-        "AIP",
-        "国防AI",
-        "政府合同"
+        "midterm elections",
+        "US politics",
+        "prediction markets",
+        "market volatility"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+      "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
       "published_date": "2026-11-02",
       "still_developing": false,
       "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-03",
-      "is_new": true
-    },
-    {
-      "id": "57ce24cc4d9cca05",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Apple Intelligence Officially Launches in China with Alibaba's Qwen as Siri Partner; Developer Beta Testing Starts November 4",
-      "summary": "Apple Intelligence officially launches in China with Alibaba's Tongyi Qianwen (Qwen) model integrated across iOS, iPadOS, macOS and visionOS. Developer beta testing via iOS 27.3 begins November 4. Chinese users gain access to Qwen-powered Writing Tools, Visual Intelligence and Siri features. Full public rollout expected in December 2026. The rebuilt Siri announced at WWDC 2026 is not part of this China launch.",
-      "why": "里程碑性事件：苹果AI在华落地、通义千问成为Siri核心伙伴，直接提振阿里巴巴（9988.HK/BABA）AI商业化叙事；注意：published_date为估算值，36氪原文日期未经独立核实，标verified:false。",
-      "source": "36氪",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "Apple Intelligence",
-        "通义千问",
-        "Qwen",
-        "BABA",
-        "9988.HK"
-      ],
-      "translated": false,
-      "url": "https://eu.36kr.com/en/p/4051767251735430",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-03",
-      "is_new": true
-    },
-    {
-      "id": "aad279680ed0aaca",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Marvell Technology to Acquire Lumentum in All-Stock Deal Valued at ~$115B; Both Stocks Fell Sharply",
-      "summary": "Marvell Technology announced an agreement to acquire AI optics maker Lumentum in an all-stock deal. Terms: Lumentum holders receive 4.5 Marvell shares per share, implying ~$1,132/share and a ~23.9% premium to unaffected price, for enterprise value ~$115B. Marvell shareholders will own ~67% of the combined company post-close. Expected annual cost synergies >$1B; accretive to Marvell non-GAAP EPS in year one. Marvell fell ~13% on deal reports (Oct 29), Lumentum fell ~18%.",
-      "why": "AI光学基础设施整合加速，半导体行业重量级并购；Marvell大幅下跌反映市场对高溢价+全股票摊薄的疑虑，对SK海力士、美光等存储芯片股的供应链生态有连带影响，关注半导体板块整体情绪。",
-      "source": "SEC EDGAR",
-      "verified": true,
-      "keywords": [
-        "并购",
-        "半导体",
-        "AI光学",
-        "MRVL",
-        "Lumentum",
-        "数据中心"
-      ],
-      "translated": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-03",
-      "is_new": true
-    },
-    {
-      "id": "89aac5614362db5f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "国际原油单日暴跌近8%：伊朗核谈判出现积极进展，为年内最大单日跌幅",
-      "summary": "11月2日国际油价大幅下挫，WTI原油单日跌幅接近8%，为年内最大单日跌幅，背景是伊朗核谈判出现积极进展，市场预期地缘风险溢价收窄。油价下跌带动航空、邮轮股逆势上涨，抵消了科技股下跌对大盘的部分拖累。",
-      "why": "油价暴跌压低通胀预期，对美联储下一步利率路径偏利好，间接支持成长股估值；对出行类消费（携程、海底捞）有一定利好；持有老铺黄金需关注大宗商品情绪联动。",
-      "source": "BNN Bloomberg",
-      "verified": true,
-      "keywords": [
-        "原油",
-        "WTI",
-        "伊朗",
-        "地缘政治",
-        "宏观",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/11/02/global-shares-are-mixed-and-us-futures-advance-while-oil-prices-fall-nearly-4",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "https://news.futunn.com/post/1003153325/us-stocks-close-nasdaq-and-s-p-500-post-sharp",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-03",
       "is_new": true
@@ -1117,6 +988,102 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "9fe9108c21a16bf4",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "纳斯达克100指数进入技术性调整区间，AI投资回报担忧发酵，较10月高点已跌超10%",
+      "summary": "11月2日美股收盘，纳斯达克100指数较10月6日高点累计跌幅超过10%，正式进入技术性调整区间，为年内第三次陷入回调。费城半导体指数单日跌逾3%，AI相关个股如迈威尔科技、甲骨文等大幅下挫；道指逆势小涨约0.4%，显示资金从科技股向其他板块轮动。",
+      "why": "纳斯达克进入调整区间意味着科技持仓短期均面临压力，sell-put策略须提高Delta警觉；AI投资回报疑虑持续发酵，持仓腾讯、阿里、小米等科技类港股间接受外溢影响。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "纳斯达克",
+        "技术性调整",
+        "美股",
+        "AI科技股",
+        "费半",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/1003153769/overnight-us-stocks-nasdaq-rises-then-falls-back-major-indices",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
+      "is_new": false
+    },
+    {
+      "id": "0e65174907b2e659",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Palantir Q3 2026 Revenue Surges 96% YoY to $2.31B, Beats Estimates; US Commercial Revenue Tops Government for First Time",
+      "summary": "Palantir reported Q3 2026 revenue of $2.31B (consensus ~$2.18B), +96% YoY and +20% QoQ. Adjusted EPS $0.44 vs ~$0.41 consensus. US commercial revenue reached $984M (+148% YoY), surpassing US government revenue ($953M) for the first time. Full-year 2026 guidance raised to $8.530–$8.534B. Q4 outlook: revenue $2.649–$2.653B.",
+      "why": "Palantir AIP企业化加速；美国商业首超政府端为商业AI平台成熟的重要里程碑；超预期+指引上调对PLTR sell put策略正面，隐含波动率或随股价跳涨重定价。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "AI平台",
+        "业绩",
+        "AIP",
+        "国防AI",
+        "政府合同"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
+      "is_new": false
+    },
+    {
+      "id": "57ce24cc4d9cca05",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Apple Intelligence Officially Launches in China with Alibaba's Qwen as Siri Partner; Developer Beta Testing Starts November 4",
+      "summary": "Apple Intelligence officially launches in China with Alibaba's Tongyi Qianwen (Qwen) model integrated across iOS, iPadOS, macOS and visionOS. Developer beta testing via iOS 27.3 begins November 4. Chinese users gain access to Qwen-powered Writing Tools, Visual Intelligence and Siri features. Full public rollout expected in December 2026. The rebuilt Siri announced at WWDC 2026 is not part of this China launch.",
+      "why": "里程碑性事件：苹果AI在华落地、通义千问成为Siri核心伙伴，直接提振阿里巴巴（9988.HK/BABA）AI商业化叙事；注意：published_date为估算值，36氪原文日期未经独立核实，标verified:false。",
+      "source": "36氪",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "Apple Intelligence",
+        "通义千问",
+        "Qwen",
+        "BABA",
+        "9988.HK"
+      ],
+      "translated": false,
+      "url": "https://eu.36kr.com/en/p/4051767251735430",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
       "is_new": false
     },
     {
@@ -2264,6 +2231,68 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "aad279680ed0aaca",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Marvell Technology to Acquire Lumentum in All-Stock Deal Valued at ~$115B; Both Stocks Fell Sharply",
+      "summary": "Marvell Technology announced an agreement to acquire AI optics maker Lumentum in an all-stock deal. Terms: Lumentum holders receive 4.5 Marvell shares per share, implying ~$1,132/share and a ~23.9% premium to unaffected price, for enterprise value ~$115B. Marvell shareholders will own ~67% of the combined company post-close. Expected annual cost synergies >$1B; accretive to Marvell non-GAAP EPS in year one. Marvell fell ~13% on deal reports (Oct 29), Lumentum fell ~18%.",
+      "why": "AI光学基础设施整合加速，半导体行业重量级并购；Marvell大幅下跌反映市场对高溢价+全股票摊薄的疑虑，对SK海力士、美光等存储芯片股的供应链生态有连带影响，关注半导体板块整体情绪。",
+      "source": "SEC EDGAR",
+      "verified": true,
+      "keywords": [
+        "并购",
+        "半导体",
+        "AI光学",
+        "MRVL",
+        "Lumentum",
+        "数据中心"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
+      "is_new": false
+    },
+    {
+      "id": "89aac5614362db5f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "国际原油单日暴跌近8%：伊朗核谈判出现积极进展，为年内最大单日跌幅",
+      "summary": "11月2日国际油价大幅下挫，WTI原油单日跌幅接近8%，为年内最大单日跌幅，背景是伊朗核谈判出现积极进展，市场预期地缘风险溢价收窄。油价下跌带动航空、邮轮股逆势上涨，抵消了科技股下跌对大盘的部分拖累。",
+      "why": "油价暴跌压低通胀预期，对美联储下一步利率路径偏利好，间接支持成长股估值；对出行类消费（携程、海底捞）有一定利好；持有老铺黄金需关注大宗商品情绪联动。",
+      "source": "BNN Bloomberg",
+      "verified": true,
+      "keywords": [
+        "原油",
+        "WTI",
+        "伊朗",
+        "地缘政治",
+        "宏观",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/11/02/global-shares-are-mixed-and-us-futures-advance-while-oil-prices-fall-nearly-4",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "https://news.futunn.com/post/1003153325/us-stocks-close-nasdaq-and-s-p-500-post-sharp",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
       "is_new": false
     },
     {
