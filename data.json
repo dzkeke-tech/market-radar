@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-03 13:21 (北京时间)",
+  "updated_at": "2026-11-03 18:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,41 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-03 13:21 (北京时间)",
-    "new_count": 1,
+    "at": "2026-11-03 18:16 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "659624e8f59b8d21",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "U.S. Midterm Elections Day: Prediction Markets Price Democrats at Nearly 75% to Win Senate",
-      "summary": "Prediction market traders priced Democrats at nearly 75% odds of winning Senate control ahead of Nov. 3 midterm elections, per CNBC. Election outcomes will shape U.S. fiscal and regulatory policy into 2027, with potential impact on tech, pharma, and energy sectors.",
-      "why": "中期选举结果影响美国财政政策与科技监管走向，对持仓中的美股（PLTR、TSLA、NVDA、INTC等）有潜在影响。本次run白名单信源覆盖严重不足，仅收录1条：苹果/阿里Qwen China开发者测试（11/2公告）、SNDK/MU铠侠NAND警告（11/2）、TSLA德州Robotaxi扩张（11/2-3）等重大消息均只有非白名单URL（heygotrade.com、247wallst.com、tradingkey.com），无法入库；Palantir Q3（0e65174907b2e659）与英特尔Q4展望（4deca08debf4c278）已在前序run中收录，seen.json去重命中；Pop Mart Q3披露（b1589eaf66a0bb7d）同样seen.json已有。受此限制，大盘头条实际入库仅1条。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "midterm elections",
-        "US politics",
-        "prediction markets",
-        "market volatility"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-03",
-      "is_new": true
-    },
     {
       "id": "e89bc9ec0ce783a5",
       "tier": 1,
@@ -988,6 +959,35 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "659624e8f59b8d21",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "U.S. Midterm Elections Day: Prediction Markets Price Democrats at Nearly 75% to Win Senate",
+      "summary": "Prediction market traders priced Democrats at nearly 75% odds of winning Senate control ahead of Nov. 3 midterm elections, per CNBC. Election outcomes will shape U.S. fiscal and regulatory policy into 2027, with potential impact on tech, pharma, and energy sectors.",
+      "why": "中期选举结果影响美国财政政策与科技监管走向，对持仓中的美股（PLTR、TSLA、NVDA、INTC等）有潜在影响。本次run白名单信源覆盖严重不足，仅收录1条：苹果/阿里Qwen China开发者测试（11/2公告）、SNDK/MU铠侠NAND警告（11/2）、TSLA德州Robotaxi扩张（11/2-3）等重大消息均只有非白名单URL（heygotrade.com、247wallst.com、tradingkey.com），无法入库；Palantir Q3（0e65174907b2e659）与英特尔Q4展望（4deca08debf4c278）已在前序run中收录，seen.json去重命中；Pop Mart Q3披露（b1589eaf66a0bb7d）同样seen.json已有。受此限制，大盘头条实际入库仅1条。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "midterm elections",
+        "US politics",
+        "prediction markets",
+        "market volatility"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
       "is_new": false
     },
     {
