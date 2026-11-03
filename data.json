@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-02 18:22 (北京时间)",
+  "updated_at": "2026-11-03 08:15 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,415 +9,169 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-02 18:22 (北京时间)",
-    "new_count": 9,
+    "at": "2026-11-03 08:15 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "f042b2b231182399",
+      "id": "9fe9108c21a16bf4",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "人民银行、证监会今日召开会议 研究推动支持资本市场工具使用",
-      "summary": "人民银行、金融监管总局、证监会分别召集证券基金公司及各大银行，研究推动证券基金保险公司互换便利与股票回购增持再贷款两项工具落地扩面；消息称国有大型银行单家回购贷款额度或可达千亿元级。",
-      "why": "重大政策利好：若两项支持工具扩面落地，A股/港股回购规模有望显著提升，隐含波动率可能阶段性下降，对持有港股或A股标的的 sell put 策略有短期提振；需关注会议实质结果与政策落地时间表。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "资本市场",
-        "回购",
-        "支持工具",
-        "人民银行",
-        "证监会"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261102/herald/beec28a010a2de3e7aae4d409363f352.html",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": true
-    },
-    {
-      "id": "6e3d74ce3b6878b6",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "美联储11月按兵不动 鹰派异议官员主张加息 年末再加息预期升温",
-      "summary": "美联储10月议息会议以10票对2票维持联邦基金利率于3.75%-4%不变，两名反对票官员主张立即加息25bp。多位联储官员认为进一步收紧有必要。据CME FedWatch（截至2026年11月2日），市场定价12月加息25bp概率已升至约72%。",
-      "why": "加息预期持续升温压制成长股估值，对持有高估值科技/消费标的的 sell put 策略，行权价保护距离需重新评估；金价及高息债同步承压。该72%来自CME FedWatch官方工具，由21世纪经济报道引用。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "加息",
-        "利率",
-        "货币政策",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261102/herald/ce4562cadd108dff3d600625d978b7da.html",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": true
-    },
-    {
-      "id": "9a711a23a8509d2e",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
-      "summary": "Xiaomi reported more than 50,000 EV deliveries in October 2026, its highest monthly figure this year. Year-to-date deliveries reached about 336,490 units through end of October. Xiaomi Hong Kong shares rose about 6% on the news.",
-      "why": "交付量创年内新高，1810.HK 涨超6%，短期看涨情绪强烈；但1-10月累计仅完成全年550,000辆目标约61%，11-12月需月均超10万辆才能达标，年目标完成压力较大，反弹高点可考虑 covered call。",
-      "source": "AsiaOne",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "电动车",
-        "1810.HK",
-        "交付量"
-      ],
-      "translated": false,
-      "url": "https://www.asiaone.com/money/xiaomis-october-ev-deliveries-top-50k-hit-2026-monthly-high",
-      "published_date": "2026-11-01",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": true
-    },
-    {
-      "id": "7864989af9299946",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "10月中国官方制造业PMI降至49.3% 时隔一月重返收缩区间",
-      "summary": "国家统计局10月31日发布：制造业PMI为49.3%，较9月50.1%回落0.8个百分点，重回荣枯线下方。生产指数49.8%，新订单指数49.4%；大型企业PMI仍在扩张区（50.2%），中小型企业双双低于临界点。高技术制造业PMI为51.3%。",
-      "why": "制造业景气回落印证宏观需求偏弱，与港股消费/工业相关标的估值承压；亦强化市场对政策进一步宽松的预期，与今日人民银行/证监会会议形成呼应。",
-      "source": "新华网",
-      "verified": true,
-      "keywords": [
-        "PMI",
-        "制造业",
-        "宏观",
-        "中国经济"
-      ],
-      "translated": false,
-      "url": "https://www.news.cn/fortune/20261031/2653616255d249e3807be987c25b8e7b/c.html",
-      "published_date": "2026-10-31",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": true
-    },
-    {
-      "id": "d5cfce4398d7a7d7",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Oil slips more than 1% as Iran-Qatar talks continue on ending Iran war",
-      "summary": "Brent crude slipped more than 1% as Iranian and Qatari officials held a third consecutive day of talks aimed at ending the U.S.-Israeli war on Iran. Reports indicate US President Trump wants to allow more time for diplomacy before potentially resuming military action after Tuesday's midterm elections. No formal agreement has been announced.",
-      "why": "油价下跌短期缓和通胀压力，但美伊谈判尚无实质成果，地缘风险仍高；若中期选举后谈判破裂，油价反弹风险较大，间接影响通胀预期与美联储政策路径。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "油价",
-        "地缘政治",
-        "美伊",
-        "通胀",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/amp/2026/11/02/oil-slips-more-than-1percent-as-talks-continue-on-ending-iran-war.html",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": true
-    },
-    {
-      "id": "f0cd5708b4d298a3",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
         "US"
       ],
-      "time": "08:30",
+      "time": "00:00",
       "group": "大盘头条",
-      "title": "US midterm elections Tuesday: markets historically rally post-vote despite pre-election volatility",
-      "summary": "US midterm elections take place Tuesday, November 3. Historically the S&P 500 averages +20.5% in the year following midterms since 1990. Polls and prediction markets currently point toward a possible Democratic House takeover; Morgan Stanley expects limited near-term market impact.",
-      "why": "延续报道：中期选举明日举行，结果将影响科技监管与财政政策走向，对持有美股科技标的的 sell put 策略需关注选后两周可能的波动放大窗口；历史数据显示大选后市场中期走势向上。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "中期选举",
-        "美股",
-        "政策",
-        "波动率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/29/midterm-elections-stock-market-history.html",
-      "published_date": "2026-10-29",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": true
-    },
-    {
-      "id": "8fcd8eda52c0b00a",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "Palantir (PLTR) Q3 2026 Earnings Due Today After Close; Prior Quarter Revenue Surged 93%",
-      "summary": "Palantir reports Q3 2026 earnings after market close today (Nov 2). Company guided Q3 revenue to $2.160-2.164B; analyst consensus ~$2.18B. Prior Q2 revenue grew 93% YoY. Full-year revenue guidance raised to $8.150-8.158B.",
-      "why": "今晚财报是本周最重要的AI概念股业绩验证；前季度93%的增速令市场预期极高，若再度超预期，整个AI软件/数据分析板块将受提振；持有或关注PLTR的 sell put 策略需注意财报后波动放大风险。",
-      "source": "MarketBeat",
-      "verified": false,
-      "keywords": [
-        "Palantir",
-        "PLTR",
-        "季报",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.marketbeat.com/earnings/reports/2026-11-2-palantir-technologies-inc-stock/",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": true
-    },
-    {
-      "id": "34aae656d10aa757",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "11:30",
-      "group": "个股",
-      "title": "Circle Internet Group (CRCL) Shares Fall 5.6% After USDC Freeze Amid Binance Security Breach",
-      "summary": "Circle froze more than $800M in USDC tied to a potential exploit involving Binance. Shares fell 5.6% in after-hours trading on Oct 30. USDC supply fell to ~$70B in the week ending Oct 29, still fully backed by ~$71.4B in reserves. Circle Q4 earnings due November 4.",
-      "why": "USDC冻结事件引发市场对稳定币审查收紧的担忧；11月4日财报是近期核心催化剂，对持有CRCL sell put 需注意财报前后隐含波动率变化。延续报道：10月30日事件后市场仍在等待细节披露。",
-      "source": "GuruFocus",
-      "verified": false,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "Binance"
-      ],
-      "translated": false,
-      "url": "https://www.gurufocus.com/news/9158193/circle-internet-group-crcl-shares-fall-56-after-usdc-freeze-amid-binance-security-breach",
-      "published_date": "2026-10-30",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": true
-    },
-    {
-      "id": "ce7f407701484d17",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "12:30",
-      "group": "个股",
-      "title": "Nvidia fell 4.2% amid Intel chip selloff; Q3 earnings on Nov 17 seen as key catalyst",
-      "summary": "Nvidia (NVDA) fell 4.22% on Oct 30 amid the Intel-triggered chip sector selloff. NVDA fiscal Q3 2026 earnings are scheduled for November 17. Market cap exceeds $5 trillion; stock up ~15% year-to-date and trades at ~23x forward earnings.",
-      "why": "11月17日英伟达Q3财报是本月最重要的AI芯片板块催化剂；英特尔暴跌拖累整个半导体板块，对持有NVDA sell put 策略，需在财报前评估隐含波动率是否已完全定价预期。",
-      "source": "Motley Fool",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "季报",
-        "AI芯片",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://www.fool.com/investing/2026/11/02/prediction-nvidia-will-have-an-incredible-november/",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": true
-    },
-    {
-      "id": "5902f60665f792bb",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "布伦特原油回落至$114，上周触6个月高$116.72；中东外交斡旋带来短暂喘息",
-      "summary": "布伦特原油周一下跌约1.5%至每桶114.51美元，此前上周五因中东地缘风险溢价创下六个月高位116.72美元。沙特、伊朗外交接触缓解部分忧虑，但供给不确定性仍存。WTI同步走软至约109美元。",
-      "why": "油价是全球大宗商品定价锚点，直接影响港股能源板块（中海油、中石油）及A股油气龙头估值；美联储FOMC本周会议将把油价走势纳入通胀判断依据，对年底利率路径预期有直接影响。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "油价",
-        "布伦特",
-        "WTI",
-        "中东",
-        "OPEC"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "published_date": "2026-10-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
-      "is_new": false
-    },
-    {
-      "id": "2837e6d3024bf8b0",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "美联储10月28日议息：市场预期维持3.75%-4.00%不变，沃什发布会措辞成焦点",
-      "summary": "美联储FOMC将于10月27-28日召开货币政策会议，市场普遍预期维持联邦基金利率目标区间3.75%-4.00%不变。美联储主席凯文·沃什将于周三决议后召开新闻发布会，其对通胀走势和未来加息路径的表态将是本周市场最重要的催化剂。",
-      "why": "美联储决议方向直接影响sell put策略的delta风险和隐含波动率；当前维持预期已充分定价，发布会若偏鹰则delta对冲成本上升，偏鸽则有助于港股/美股估值修复；与同日多家科技巨头财报叠加，市场情绪将高度敏感。",
+      "title": "纳斯达克100指数进入技术性调整区间，AI投资回报担忧发酵，较10月高点已跌超10%",
+      "summary": "11月2日美股收盘，纳斯达克100指数较10月6日高点累计跌幅超过10%，正式进入技术性调整区间，为年内第三次陷入回调。费城半导体指数单日跌逾3%，AI相关个股如迈威尔科技、甲骨文等大幅下挫；道指逆势小涨约0.4%，显示资金从科技股向其他板块轮动。",
+      "why": "纳斯达克进入调整区间意味着科技持仓短期均面临压力，sell-put策略须提高Delta警觉；AI投资回报疑虑持续发酵，持仓腾讯、阿里、小米等科技类港股间接受外溢影响。",
       "source": "富途牛牛",
       "verified": true,
       "keywords": [
-        "美联储",
-        "FOMC",
-        "利率决议",
-        "凯文·沃什",
-        "货币政策"
+        "纳斯达克",
+        "技术性调整",
+        "美股",
+        "AI科技股",
+        "费半",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/hk/post/1002230325/hk-stock-market-weekly-preview-global-central-banks-announce-interest",
-      "published_date": "2026-10-25",
+      "url": "https://news.futunn.com/post/1003153769/overnight-us-stocks-nasdaq-rises-then-falls-back-major-indices",
+      "published_date": "2026-11-02",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
-      "is_new": false
+      "first_seen": "2026-11-03",
+      "is_new": true
     },
     {
-      "id": "abb84752c47f1feb",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "07:30",
-      "group": "大盘头条",
-      "title": "中东局势持续升温，布伦特原油突破百元并维持高位，特朗普暗示不排除再度打击伊朗",
-      "summary": "受中东局势持续紧张影响，布伦特原油期货近期持续运行于百美元上方。美国总统特朗普公开表示美国随时可能对伊朗采取军事行动，霍尔木兹海峡通行风险持续。高盛已将12月布伦特预测上调至90美元/桶（10月12日）；IMF基准情景假设海峡2027年3月恢复畅通，若冲突升级油价恐超$130/桶。",
-      "why": "能源价格高企推升全球通胀预期，强化美联储鹰派路径，对港A两市形成估值压力；对沃尔玛、麦当劳等美国消费股有成本传导；老铺黄金所在的贵金属赛道与油价联动，需关注大宗商品配置变化对持仓权重的影响。",
-      "source": "财联社",
-      "verified": false,
-      "keywords": [
-        "原油",
-        "布伦特",
-        "中东",
-        "伊朗",
-        "地缘政治",
-        "霍尔木兹",
-        "能源"
-      ],
-      "translated": false,
-      "url": "https://www.cls.cn/detail/2502172",
-      "published_date": "2026-10-25",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
-      "is_new": false
-    },
-    {
-      "id": "80bb4d18fed97a28",
+      "id": "0e65174907b2e659",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US",
-        "HK",
-        "A"
+        "US"
       ],
-      "time": "06:00",
+      "time": "00:00",
       "group": "大盘头条",
-      "title": "Fed Decision Oct 28 and Alphabet Q3 Earnings: Markets Brace for Super Week",
-      "summary": "The FOMC meets Oct 27–28; the rate decision is Wednesday Oct 28 at 2 pm ET. Per CNBC (Oct 25), fed funds futures suggest ~90% odds of holding rates at 3.75%–4.00%, though Bank of America calls a 25bp hike. Alphabet Q3 2026 results are due after close the same day. ECB also meets Thursday.",
-      "why": "本周双重催化剂：美联储决议（概率来源：CNBC Oct 25 fed funds futures）与Alphabet Q3财报同日触发，是全年密度最高的组合。结果直接影响持仓折现率与AI相关标的估值，Sell Put 隐含波动率将放大。沃什(Warsh)主席措辞偏鹰则科技仓位承压。",
+      "title": "Palantir Q3 2026 Revenue Surges 96% YoY to $2.31B, Beats Estimates; US Commercial Revenue Tops Government for First Time",
+      "summary": "Palantir reported Q3 2026 revenue of $2.31B (consensus ~$2.18B), +96% YoY and +20% QoQ. Adjusted EPS $0.44 vs ~$0.41 consensus. US commercial revenue reached $984M (+148% YoY), surpassing US government revenue ($953M) for the first time. Full-year 2026 guidance raised to $8.530–$8.534B. Q4 outlook: revenue $2.649–$2.653B.",
+      "why": "Palantir AIP企业化加速；美国商业首超政府端为商业AI平台成熟的重要里程碑；超预期+指引上调对PLTR sell put策略正面，隐含波动率或随股价跳涨重定价。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "宏观",
-        "macro",
-        "美联储",
-        "利率",
-        "谷歌",
-        "Alphabet",
-        "GOOGL"
+        "Palantir",
+        "PLTR",
+        "AI平台",
+        "业绩",
+        "AIP",
+        "国防AI",
+        "政府合同"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-      "published_date": "2026-10-25",
+      "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+      "published_date": "2026-11-02",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
-      "is_new": false
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
+    {
+      "id": "57ce24cc4d9cca05",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Apple Intelligence Officially Launches in China with Alibaba's Qwen as Siri Partner; Developer Beta Testing Starts November 4",
+      "summary": "Apple Intelligence officially launches in China with Alibaba's Tongyi Qianwen (Qwen) model integrated across iOS, iPadOS, macOS and visionOS. Developer beta testing via iOS 27.3 begins November 4. Chinese users gain access to Qwen-powered Writing Tools, Visual Intelligence and Siri features. Full public rollout expected in December 2026. The rebuilt Siri announced at WWDC 2026 is not part of this China launch.",
+      "why": "里程碑性事件：苹果AI在华落地、通义千问成为Siri核心伙伴，直接提振阿里巴巴（9988.HK/BABA）AI商业化叙事；注意：published_date为估算值，36氪原文日期未经独立核实，标verified:false。",
+      "source": "36氪",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "Apple Intelligence",
+        "通义千问",
+        "Qwen",
+        "BABA",
+        "9988.HK"
+      ],
+      "translated": false,
+      "url": "https://eu.36kr.com/en/p/4051767251735430",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
+    {
+      "id": "aad279680ed0aaca",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Marvell Technology to Acquire Lumentum in All-Stock Deal Valued at ~$115B; Both Stocks Fell Sharply",
+      "summary": "Marvell Technology announced an agreement to acquire AI optics maker Lumentum in an all-stock deal. Terms: Lumentum holders receive 4.5 Marvell shares per share, implying ~$1,132/share and a ~23.9% premium to unaffected price, for enterprise value ~$115B. Marvell shareholders will own ~67% of the combined company post-close. Expected annual cost synergies >$1B; accretive to Marvell non-GAAP EPS in year one. Marvell fell ~13% on deal reports (Oct 29), Lumentum fell ~18%.",
+      "why": "AI光学基础设施整合加速，半导体行业重量级并购；Marvell大幅下跌反映市场对高溢价+全股票摊薄的疑虑，对SK海力士、美光等存储芯片股的供应链生态有连带影响，关注半导体板块整体情绪。",
+      "source": "SEC EDGAR",
+      "verified": true,
+      "keywords": [
+        "并购",
+        "半导体",
+        "AI光学",
+        "MRVL",
+        "Lumentum",
+        "数据中心"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
+    {
+      "id": "89aac5614362db5f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "国际原油单日暴跌近8%：伊朗核谈判出现积极进展，为年内最大单日跌幅",
+      "summary": "11月2日国际油价大幅下挫，WTI原油单日跌幅接近8%，为年内最大单日跌幅，背景是伊朗核谈判出现积极进展，市场预期地缘风险溢价收窄。油价下跌带动航空、邮轮股逆势上涨，抵消了科技股下跌对大盘的部分拖累。",
+      "why": "油价暴跌压低通胀预期，对美联储下一步利率路径偏利好，间接支持成长股估值；对出行类消费（携程、海底捞）有一定利好；持有老铺黄金需关注大宗商品情绪联动。",
+      "source": "BNN Bloomberg",
+      "verified": true,
+      "keywords": [
+        "原油",
+        "WTI",
+        "伊朗",
+        "地缘政治",
+        "宏观",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/11/02/global-shares-are-mixed-and-us-futures-advance-while-oil-prices-fall-nearly-4",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "https://news.futunn.com/post/1003153325/us-stocks-close-nasdaq-and-s-p-500-post-sharp",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
+      "is_new": true
     },
     {
       "id": "e89bc9ec0ce783a5",
@@ -1176,6 +930,98 @@
       "is_new": false
     },
     {
+      "id": "f042b2b231182399",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "人民银行、证监会今日召开会议 研究推动支持资本市场工具使用",
+      "summary": "人民银行、金融监管总局、证监会分别召集证券基金公司及各大银行，研究推动证券基金保险公司互换便利与股票回购增持再贷款两项工具落地扩面；消息称国有大型银行单家回购贷款额度或可达千亿元级。",
+      "why": "重大政策利好：若两项支持工具扩面落地，A股/港股回购规模有望显著提升，隐含波动率可能阶段性下降，对持有港股或A股标的的 sell put 策略有短期提振；需关注会议实质结果与政策落地时间表。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "资本市场",
+        "回购",
+        "支持工具",
+        "人民银行",
+        "证监会"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261102/herald/beec28a010a2de3e7aae4d409363f352.html",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "6e3d74ce3b6878b6",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "美联储11月按兵不动 鹰派异议官员主张加息 年末再加息预期升温",
+      "summary": "美联储10月议息会议以10票对2票维持联邦基金利率于3.75%-4%不变，两名反对票官员主张立即加息25bp。多位联储官员认为进一步收紧有必要。据CME FedWatch（截至2026年11月2日），市场定价12月加息25bp概率已升至约72%。",
+      "why": "加息预期持续升温压制成长股估值，对持有高估值科技/消费标的的 sell put 策略，行权价保护距离需重新评估；金价及高息债同步承压。该72%来自CME FedWatch官方工具，由21世纪经济报道引用。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "加息",
+        "利率",
+        "货币政策",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261102/herald/ce4562cadd108dff3d600625d978b7da.html",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "9a711a23a8509d2e",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
+      "summary": "Xiaomi reported more than 50,000 EV deliveries in October 2026, its highest monthly figure this year. Year-to-date deliveries reached about 336,490 units through end of October. Xiaomi Hong Kong shares rose about 6% on the news.",
+      "why": "交付量创年内新高，1810.HK 涨超6%，短期看涨情绪强烈；但1-10月累计仅完成全年550,000辆目标约61%，11-12月需月均超10万辆才能达标，年目标完成压力较大，反弹高点可考虑 covered call。",
+      "source": "AsiaOne",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "电动车",
+        "1810.HK",
+        "交付量"
+      ],
+      "translated": false,
+      "url": "https://www.asiaone.com/money/xiaomis-october-ev-deliveries-top-50k-hit-2026-monthly-high",
+      "published_date": "2026-11-01",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
       "id": "1ca13294da233eb3",
       "tier": 1,
       "lang": "zh",
@@ -1271,221 +1117,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "79008d035b9ef7e1",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:35",
-      "group": "大盘头条",
-      "title": "港股10月26日：恒指温和反弹，上周科技板块5%单周跌幅趋于平稳；能源股领涨",
-      "summary": "港股恒生指数周一温和高开，上周恒生科技指数5%的单周跌幅逐步获得修复。能源板块跟随国际油价高位表现领涨，科技股受中国监管情绪及FOMC不确定性压制，反弹幅度相对有限。",
-      "why": "港股是腾讯（0700）、阿里巴巴（9988）、美团（3690）、泡泡玛特（9992）等核心持仓的交易场所；整体市场情绪及行业轮动影响持仓组合当日波动，上周大跌后本周反弹幅度是判断是否逢低加仓的关键信号。",
-      "source": "富途牛牛/智通财经",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技",
-        "港股市场",
-        "HK"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/1002226658/zhitong-hk-stock-investment-log-october-26",
-      "published_date": "2026-10-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
-      "is_new": false
-    },
-    {
-      "id": "9a44d8945f22e95e",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "A股10月26日：沪指涨0.19%，创业板指跌1.71%；油气板块独秀，上证指数成份股规则修订正式实施",
-      "summary": "A股10月26日收盘，沪指小幅收涨0.19%，深证成指持平，创业板指跌1.71%；油气板块因国际油价高位表现亮眼，科技成长板块受压。上证指数成份股规则修订于今日正式生效。",
-      "why": "A股市场情绪与港股中资股定价联动密切；上证指数规则修订引发被动资金调仓，短期对相关成份股产生价格信号；创业板持续弱于主板指向风格分化，影响科技持仓的相对配置判断。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "沪深300",
-        "创业板",
-        "上证指数",
-        "油气板块"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261026/herald/c546ec2a7406e71133d433bba124a6d2.html",
-      "published_date": "2026-10-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
-      "is_new": false
-    },
-    {
-      "id": "51b2a69b5946f96b",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "A/H股剧烈波动：港股恒指曾单日跌717点，沪指触探3600后企稳，机构关注超跌板块三季报修复机会",
-      "summary": "近期港股恒指单日最大跌幅达717点，一度失守23000点；A股沪指盘中短暂跌破3600点后随即反弹，创业板指翻红。多家机构认为，四季度密集三季报业绩验证将为超跌的消费、互联网板块提供催化剂；看好红利、银行、地产及消费等方向。",
-      "why": "港A两市同步承压背后有油价高企、AI估值争议、美联储预期等多重压力；持仓腾讯、阿里、美团等港股标的的sell put策略，需关注波动率扩大时保证金占用与到期获利了结节奏。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "A股",
-        "恒指",
-        "沪指",
-        "消费",
-        "互联网",
-        "超跌"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261026/herald/1ecaa996799bcb346375e8f4c9b64ffe.html",
-      "published_date": "2026-10-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
-      "is_new": false
-    },
-    {
-      "id": "a758a17866a286c0",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "黄金价格跌破$4,000关口，自年初历史峰值$5,598回落近30%；大宗商品信号分化",
-      "summary": "伦敦现货黄金近期跌破每盎司$4,000关口，较2026年1月历史峰值约$5,598最大回撤接近30%。世界黄金协会年中展望预测全年均价$4,100附近，并警告价格若持续低于$4,000可能触发进一步抛盘。目前金价下行与油价高企同时出现，大宗商品市场信号分化。",
-      "why": "金价走势直接关系到老铺黄金(6181.HK)等持仓的估值基础；$4,000是关键心理支撑，持续跌破将引发零售端消费降级预期；对持有黄金相关covered call策略而言，波动率走低意味着期权权利金收入减少。",
-      "source": "华尔街见闻",
-      "verified": false,
-      "keywords": [
-        "黄金",
-        "金价",
-        "大宗商品",
-        "老铺黄金",
-        "贵金属"
-      ],
-      "translated": false,
-      "url": "https://wallstreetcn.com/articles/3783979",
-      "published_date": "2026-10-25",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
-      "is_new": false
-    },
-    {
-      "id": "3c3a5775596e6d92",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "腾讯完成近190亿美元史上最大规模债券发行，超额认购4倍，资金全部投向AI资本开支",
-      "summary": "腾讯(0700.HK)于2026年10月21日完成四笔优先票据发行，合计规模约18亿美元及人民币260亿元（折合约190亿美元，oversubscribed 4倍以上），为公司史上最大单次债券融资。美元票据10年期年息6.1%、20年期6.75%；资金将专项用于AI相关资本开支（2026年H1资本开支同比翻倍至约963亿人民币）。据报道票据已于10月22日在港交所上市。",
-      "why": "延续报道：债券10月21日完成发行并于22日在港交所上市，本轮首次完整覆盖。腾讯大规模举债加速AI投入，表明管理层对AI变现路径有信心；大规模融资短期增加财务杠杆，中长期验证腾讯云与AI产品变现能力，对0700.HK持仓逻辑有重要参照价值。",
-      "source": "The Standard HK",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "债券",
-        "AI资本开支",
-        "融资",
-        "港股"
-      ],
-      "translated": false,
-      "url": "https://www.thestandard.com.hk/finance/article/345290/Tencent-markets-dollar-dim-sum-bonds-amid-AI-spending-spree",
-      "published_date": "2026-10-21",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
-      "is_new": false
-    },
-    {
-      "id": "bd67fb97886a7767",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "21:00",
-      "group": "大盘头条",
-      "title": "Meta Q3 2026: Revenue +26% to $64.6B, Board Approves 2-for-1 Split via New Class C Shares",
-      "summary": "Meta Q3 2026 revenue was $64.6B, up 26% YoY. Family of Apps ad revenue rose 26%; ad impressions +10%, avg price per ad +14%. GAAP operating income fell 37% due to a $9.9B legal charge. Board approved new non-voting Class C common stock as a 2-for-1 split effective Jan 2027. Stock rose ~3% after hours.",
-      "why": "Meta不在持仓，但作为大盘科技代表：强劲AI广告营收印证数字广告需求健康，对谷歌（GOOGL）广告业务前景有正面信号；股票拆分提升流动性，AI资本支出虽高但商业化能力强，对AI板块情绪整体正面。",
-      "source": "Meta Investor Relations",
-      "verified": true,
-      "keywords": [
-        "科技",
-        "technology",
-        "AI",
-        "广告"
-      ],
-      "translated": false,
-      "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
-      "published_date": "2026-10-21",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
-      "is_new": false
-    },
-    {
-      "id": "1241b200041c07ab",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Nvidia's AI Financier Role Faces First Big Test as Neocloud Partners Take Market Hit",
-      "summary": "CNBC reports rising scrutiny of Nvidia's evolving role as both chip supplier and financial backer of neocloud operators, providing minimum revenue guarantees and equity stakes. Bond yields on neocloud companies have risen sharply and share prices have fallen, raising questions about Nvidia's off-balance-sheet credit exposure.",
-      "why": "英伟达（NVDA）持仓核心风险：若市场对AI资本支出周期信心动摇，NVDA估值承压且Sell Put 隐含波动率两面失守。同时波及SK海力士（HBM需求预期）。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "GPU",
-        "AI芯片",
-        "数据中心"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-      "published_date": "2026-10-24",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
       "is_new": false
     },
     {
@@ -2424,6 +2055,186 @@
       "is_new": false
     },
     {
+      "id": "7864989af9299946",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "10月中国官方制造业PMI降至49.3% 时隔一月重返收缩区间",
+      "summary": "国家统计局10月31日发布：制造业PMI为49.3%，较9月50.1%回落0.8个百分点，重回荣枯线下方。生产指数49.8%，新订单指数49.4%；大型企业PMI仍在扩张区（50.2%），中小型企业双双低于临界点。高技术制造业PMI为51.3%。",
+      "why": "制造业景气回落印证宏观需求偏弱，与港股消费/工业相关标的估值承压；亦强化市场对政策进一步宽松的预期，与今日人民银行/证监会会议形成呼应。",
+      "source": "新华网",
+      "verified": true,
+      "keywords": [
+        "PMI",
+        "制造业",
+        "宏观",
+        "中国经济"
+      ],
+      "translated": false,
+      "url": "https://www.news.cn/fortune/20261031/2653616255d249e3807be987c25b8e7b/c.html",
+      "published_date": "2026-10-31",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "d5cfce4398d7a7d7",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Oil slips more than 1% as Iran-Qatar talks continue on ending Iran war",
+      "summary": "Brent crude slipped more than 1% as Iranian and Qatari officials held a third consecutive day of talks aimed at ending the U.S.-Israeli war on Iran. Reports indicate US President Trump wants to allow more time for diplomacy before potentially resuming military action after Tuesday's midterm elections. No formal agreement has been announced.",
+      "why": "油价下跌短期缓和通胀压力，但美伊谈判尚无实质成果，地缘风险仍高；若中期选举后谈判破裂，油价反弹风险较大，间接影响通胀预期与美联储政策路径。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "油价",
+        "地缘政治",
+        "美伊",
+        "通胀",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/amp/2026/11/02/oil-slips-more-than-1percent-as-talks-continue-on-ending-iran-war.html",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "f0cd5708b4d298a3",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "US midterm elections Tuesday: markets historically rally post-vote despite pre-election volatility",
+      "summary": "US midterm elections take place Tuesday, November 3. Historically the S&P 500 averages +20.5% in the year following midterms since 1990. Polls and prediction markets currently point toward a possible Democratic House takeover; Morgan Stanley expects limited near-term market impact.",
+      "why": "延续报道：中期选举明日举行，结果将影响科技监管与财政政策走向，对持有美股科技标的的 sell put 策略需关注选后两周可能的波动放大窗口；历史数据显示大选后市场中期走势向上。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "中期选举",
+        "美股",
+        "政策",
+        "波动率"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/10/29/midterm-elections-stock-market-history.html",
+      "published_date": "2026-10-29",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "8fcd8eda52c0b00a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "Palantir (PLTR) Q3 2026 Earnings Due Today After Close; Prior Quarter Revenue Surged 93%",
+      "summary": "Palantir reports Q3 2026 earnings after market close today (Nov 2). Company guided Q3 revenue to $2.160-2.164B; analyst consensus ~$2.18B. Prior Q2 revenue grew 93% YoY. Full-year revenue guidance raised to $8.150-8.158B.",
+      "why": "今晚财报是本周最重要的AI概念股业绩验证；前季度93%的增速令市场预期极高，若再度超预期，整个AI软件/数据分析板块将受提振；持有或关注PLTR的 sell put 策略需注意财报后波动放大风险。",
+      "source": "MarketBeat",
+      "verified": false,
+      "keywords": [
+        "Palantir",
+        "PLTR",
+        "季报",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.marketbeat.com/earnings/reports/2026-11-2-palantir-technologies-inc-stock/",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "34aae656d10aa757",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "11:30",
+      "group": "个股",
+      "title": "Circle Internet Group (CRCL) Shares Fall 5.6% After USDC Freeze Amid Binance Security Breach",
+      "summary": "Circle froze more than $800M in USDC tied to a potential exploit involving Binance. Shares fell 5.6% in after-hours trading on Oct 30. USDC supply fell to ~$70B in the week ending Oct 29, still fully backed by ~$71.4B in reserves. Circle Q4 earnings due November 4.",
+      "why": "USDC冻结事件引发市场对稳定币审查收紧的担忧；11月4日财报是近期核心催化剂，对持有CRCL sell put 需注意财报前后隐含波动率变化。延续报道：10月30日事件后市场仍在等待细节披露。",
+      "source": "GuruFocus",
+      "verified": false,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "Binance"
+      ],
+      "translated": false,
+      "url": "https://www.gurufocus.com/news/9158193/circle-internet-group-crcl-shares-fall-56-after-usdc-freeze-amid-binance-security-breach",
+      "published_date": "2026-10-30",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
+      "id": "ce7f407701484d17",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "12:30",
+      "group": "个股",
+      "title": "Nvidia fell 4.2% amid Intel chip selloff; Q3 earnings on Nov 17 seen as key catalyst",
+      "summary": "Nvidia (NVDA) fell 4.22% on Oct 30 amid the Intel-triggered chip sector selloff. NVDA fiscal Q3 2026 earnings are scheduled for November 17. Market cap exceeds $5 trillion; stock up ~15% year-to-date and trades at ~23x forward earnings.",
+      "why": "11月17日英伟达Q3财报是本月最重要的AI芯片板块催化剂；英特尔暴跌拖累整个半导体板块，对持有NVDA sell put 策略，需在财报前评估隐含波动率是否已完全定价预期。",
+      "source": "Motley Fool",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "季报",
+        "AI芯片",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://www.fool.com/investing/2026/11/02/prediction-nvidia-will-have-an-incredible-november/",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-02",
+      "is_new": false
+    },
+    {
       "id": "fae1f061b7a06781",
       "tier": 2,
       "lang": "zh",
@@ -2453,38 +2264,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "cf9fba3bbb664091",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "小米SU7/YU7首次赛道交付仪式10月25日浙江举行，雷军出席并承诺打造最安全同档车型",
-      "summary": "小米汽车于2026年10月25日在浙江国际赛车场（CTCC赛道）举办首个赛道交付仪式，8组浙江车主分别提取SU7及YU7新车。小米集团CEO雷军亲赴现场并表示，公司目标是把SU7/YU7打造成同档最安全的车。此前公司于10月8日公布购车优惠：少量现车可享3年0息或6000元保险补贴。",
-      "why": "赛道交付是品牌营销里程碑，强化小米汽车驾驶者之车高端定位；据报道小米汽车累计交付已超80万辆，交付规模持续扩张支撑1810.HK汽车业务对母公司估值贡献，需持续跟踪利润率改善进度。",
-      "source": "新浪新闻",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "小米汽车",
-        "SU7",
-        "YU7",
-        "雷军",
-        "交付",
-        "电动车"
-      ],
-      "translated": false,
-      "url": "https://www.sina.cn/weibo/detail/5358239064524239.html",
-      "published_date": "2026-10-25",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-26",
       "is_new": false
     },
     {
