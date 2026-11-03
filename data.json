@@ -10,11 +10,175 @@
   "positions": [],
   "last_run": {
     "at": "2026-11-03 18:16 (北京时间)",
-    "new_count": 0,
+    "new_count": 5,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "eee853ddba22b5ab",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Nasdaq 100 enters correction as chipmaker rout extends losses to 12% over three days; oil plunges on Iran diplomacy hopes",
+      "summary": "Nasdaq 100 fell more than 10% from its October peak, entering technical correction territory, as a three-day semiconductor selloff extended the chip index's losses to 12%. Samsung and SK Hynix each dropped over 4% in Asia; South Korea's Kospi slid more than 3%. S&P 500 fell 0.5% while the Dow rose 0.4%. Oil posted its steepest single-day decline this year after Iran's president said the supreme leader had authorized the government to negotiate. VIX closed at its highest since June 10 as funds bought protection ahead of the U.S. midterm elections held today.",
+      "why": "科技与芯片是持仓核心赛道，半导体指数三日累跌12%直接冲击英伟达、SK海力士等持仓；VIX飙升意味着sell put保费上升但行权风险同步上升，需重新评估当前期权头寸的安全垫是否充足。油价大幅下跌亦可能影响通胀预期和美联储加息路径。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "Nasdaq",
+        "correction",
+        "chipmaker",
+        "semiconductor",
+        "oil",
+        "Iran",
+        "VIX",
+        "midterm elections",
+        "SK Hynix",
+        "Samsung"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
+    {
+      "id": "da6f43c3372dc7cf",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "港股逆势收涨：恒生指数+0.57%，科网股活跃，南向资金净买入约170亿港元",
+      "summary": "港股当日收盘，恒生指数涨0.57%报23525.97点，恒生科技指数涨0.74%，国企指数涨0.47%。科网股和保险股表现活跃；港股AI概念股午后承压，中际旭创跌超9%。南向资金当日净买入约170亿港元，显示内地资金逢低介入。",
+      "why": "港股在全球芯片股抛售背景下逆势收涨，南向资金约170亿港元净流入是重要支撑信号，对持仓的腾讯、阿里、美团等科网龙头构成短期积极因素；AI相关标的内部分化值得留意。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "南向资金",
+        "科网股",
+        "恒生科技指数"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908thx8.html",
+      "published_date": "2026-11-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
+    {
+      "id": "a29b42399ec5bb40",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "A股午后走弱，沪指盘中跌0.71%，央行同日启动第三轮互换便利，回购增持再贷款利率降至1%",
+      "summary": "截至午后，沪指跌约0.71%，盘中一度跌破3600点，创业板指跌近1%。央行当日宣布启动第三轮股票增持互换便利操作；股票回购增持再贷款利率同步由1.25%下调至1%，为上市公司回购提供成本更低的政策性资金支持。",
+      "why": "互换便利第三轮和回购再贷款利率下调25bp是货币政策呵护A股的具体举措，直接降低上市公司回购融资成本；对关注A股持仓回购动态的策略有边际利好；中期选举和芯片调整带来的全球风险偏好下行是A股当日走弱的外因。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "沪指",
+        "互换便利",
+        "回购增持",
+        "央行",
+        "再贷款",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908thae.html",
+      "published_date": "2026-11-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
+    {
+      "id": "38e4c1e822c80dce",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+      "summary": "Bitcoin fell below $77,000 as the ongoing semiconductor selloff pushed risk assets broadly lower ahead of the November 3 U.S. midterm elections. The move extends a broader crypto pullback amid elevated bond yields and heightened political uncertainty around potential congressional composition changes.",
+      "why": "比特币下跌反映全球风险偏好走低；对Circle (CRCL)等加密相关持仓有间接负面影响，同时也印证全球避险情绪上升，与芯片调整、VIX走高一致。",
+      "source": "CoinDesk",
+      "verified": false,
+      "keywords": [
+        "Bitcoin",
+        "BTC",
+        "加密货币",
+        "chip rout",
+        "midterm elections",
+        "Circle",
+        "USDC",
+        "稳定币"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+      "published_date": "2026-11-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
+    {
+      "id": "410624957ee2ac80",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "Tencent Cloud Selected for HKMA's Agentic Finance Expert Group, Showcases WorkBuddy at Hong Kong FinTech Week",
+      "summary": "Tencent Cloud was selected for the Hong Kong Monetary Authority's Agentic Finance Expert Group and showcased WorkBuddy's new financial capabilities at Hong Kong FinTech Week (November 2–6, 2026). WorkBuddy is Tencent Cloud's enterprise AI agent platform, positioning Tencent as a key infrastructure partner for Hong Kong financial institutions' AI adoption.",
+      "why": "腾讯云进入金管局金融科技专家组是里程碑事件，强化腾讯在香港金融机构AI基础设施领域的地位，是WorkBuddy企业AI商业化的标志性背书，有助于巩固腾讯中长期估值逻辑。",
+      "source": "Tencent Cloud Official PR",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "WorkBuddy",
+        "HKMA",
+        "FinTech",
+        "AI",
+        "香港金融科技周",
+        "腾讯云"
+      ],
+      "translated": false,
+      "url": "https://prnewswire.com/apac/news-releases/tencent-cloud-selected-for-hkmas-agentic-finance-expert-group-showcases-workbuddys-new-financial-capabilities-at-hong-kong-fintech-week-302927523.html",
+      "published_date": "2026-11-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
     {
       "id": "e89bc9ec0ce783a5",
       "tier": 1,
