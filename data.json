@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-04 08:17 (北京时间)",
+  "updated_at": "2026-11-04 13:11 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,125 +9,100 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-04 08:17 (北京时间)",
-    "new_count": 4,
+    "at": "2026-11-04 13:11 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
+      "id": "b7c4583956dfba50",
       "tier": 1,
       "lang": "en",
       "markets": [
-        "US"
+        "US",
+        "HK"
       ],
-      "time": "08:17",
+      "time": "04:30",
       "group": "大盘头条",
-      "title": "US Midterm Election Day: Nasdaq +0.83%, Dow +0.47% as Markets Rally on GOP Senate Gains",
-      "summary": "US stocks rallied on November 3 election day as Republicans headed toward a Senate majority. The Nasdaq rose 0.83%, the Dow gained 0.47%, and the Russell 2000 small-cap index surged roughly 3%, reflecting expectations of deregulation and tax cuts. AMD and tech names provided additional lift after AMD reported blowout Q3 earnings after the close.",
-      "why": "中期选举共和党参议院多数格局初定，市场对潜在减税及监管放松预期升温；小盘股大涨3%反映内需乐观情绪；叠加AMD财报强劲，半导体板块情绪全面回暖，短期看多逻辑占优。",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "macro",
-        "美股",
-        "纳斯达克"
-      ],
-      "published_date": "2026-11-03",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "82efc2a2ed8b86f0",
-      "translated": false,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
-      "is_new": true
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:17",
-      "group": "大盘头条",
-      "title": "Goldman Sachs: 60% of S&P 500 Stocks Already in Bear Market Despite Index Near Highs",
-      "summary": "Goldman Sachs strategist Sina Molavi noted that roughly 60% of S&P 500 component stocks have already declined 20% or more from their individual peaks — meeting the technical definition of a bear market — even as the index itself remains near all-time highs. The divergence reflects narrow mega-cap leadership masking broad underlying market weakness.",
-      "why": "市值加权指数走强但多数成分股深陷熊市，市场宽度极度收窄；龙头股一旦走弱将触发快速补跌；对持仓中个股期权策略，建议在指数高位附近提高保护性头寸比例，警惕指数与个股表现背离。",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-molavi-says-60-of-s-p-500-is-in-bear-market-territory",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "macro",
-        "美股",
-        "标普500"
-      ],
-      "published_date": "2026-11-03",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "5827601806a7c60b",
-      "translated": false,
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-11-04",
-      "is_new": true
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:17",
-      "group": "大盘头条",
-      "title": "Apple Q4 FY2026 Earnings: Revenue $114.5B (+12% YoY), EPS $2.10 Beats; December Gross Margin Guided 45–46%",
-      "summary": "Apple reported fiscal Q4 FY2026 results with revenue of $114.5 billion, up 12% year-over-year and ahead of estimates. Adjusted EPS of $2.10 beat the consensus. Services revenue reached a new record. Management guided December quarter gross margin of 45–46%, in line with expectations.",
-      "why": "Services收入再创纪录，12月季度毛利率指引稳健，苹果财报为科技板块情绪提供支撑；但当日股价因英伟达超越市值而承压；期权隐含波动率财报后将显著回落，可考虑卖出短期高IV策略。",
-      "source": "SEC EDGAR (Apple Inc. 8-K)",
-      "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm",
+      "title": "Democrats Sweep US Midterms; Nasdaq 100 Futures Plunge 2.1%, S&P 500 Futures Drop 1.1% on AI Regulation Fears",
+      "summary": "Democrats projected to win both the Senate and House in the 2026 midterm elections, triggering a sharp sell-off in US stock index futures. Nasdaq 100 futures fell ~2.1% and S&P 500 futures slid ~1.1% in overnight trading, as investors worried a Democratic-controlled Congress would impose stricter AI regulation, data-center oversight and corporate taxes. Treasuries rallied and the dollar weakened as markets sought safety.",
+      "why": "民主党横扫国会触发市场对AI监管收紧的最大担忧：Sanders/AOC此前已提出数据中心建设暂停法案，分析师预警若民主党掌控国会美股明年跌幅可能超10%。对科技持仓（英伟达、谷歌、小米等）和相关期权隐含波动率均有直接影响；与data.json中11月3日日内反弹（GOP初步领先时期）为截然相反的新进展。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "苹果",
-        "Apple",
-        "AAPL",
-        "宏观"
+        "美国中期选举",
+        "民主党",
+        "纳斯达克期货",
+        "AI监管",
+        "数据中心"
       ],
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "b0a45978afc5d330",
       "translated": false,
+      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+      "published_date": "2026-11-03",
+      "still_developing": true,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-04",
       "is_new": true
     },
     {
+      "id": "0f92f4bdbc9993fd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "AMD Q3 2026: Revenue $13.4B (+45% YoY), Data Center Doubles to $8.5B; Q4 Guided ~$17B; Stock Up ~7% After Hours",
+      "summary": "AMD reported Q3 2026 results after market close on November 3: total revenue $13.4B, up 45% YoY, beating the consensus of ~$13.1B. Data center segment revenue hit a record $8.5B, up 97% YoY driven by EPYC server CPUs and early MI450 AI accelerator ramp. Non-GAAP EPS was $2.09, topping the ~$1.94 estimate. Q4 revenue guidance of ~$17B (±3%) implies ~27% sequential growth; management expects server revenue to double in 2027.",
+      "why": "AI芯片供应链强劲信号：AMD数据中心业务97%增速验证算力需求旺盛，对SK海力士HBM出货和英伟达竞争格局均有参考意义；但AMD股价仅+7%盘后（非正式开盘），提示市场高预期已部分消化，注意民主党掌控国会的AI监管风险可能在开盘后压制涨幅。",
+      "source": "AMD Newsroom",
+      "verified": false,
+      "keywords": [
+        "AMD",
+        "AI芯片",
+        "数据中心",
+        "半导体财报",
+        "MI450"
+      ],
+      "translated": false,
+      "url": "https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/",
+      "published_date": "2026-11-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-04",
+      "is_new": true
+    },
+    {
+      "id": "f0f046c5ed832fa2",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "US"
+        "HK",
+        "A"
       ],
-      "time": "08:17",
+      "time": "08:00",
       "group": "大盘头条",
-      "title": "英伟达超越苹果重夺全球市值第一，股价单日涨约3%",
-      "summary": "苹果Q4财报公布后股价承压下跌，英伟达于11月3日美股交易日市值超越苹果，重新登顶全球市值第一。英伟达当日股价上涨约3%，这是英伟达年内第二次超越苹果。AMD强劲财报进一步提振AI芯片板块整体情绪。",
-      "why": "英伟达重夺市值第一进一步确认AI算力主题的市场定价优先级，叠加AMD同日财报超预期，AI半导体板块多头逻辑持续强化；对持仓中NVDA相关期权头寸，可考虑适当上调行权价上限。",
-      "source": "新浪财经",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908tjgw.html",
-      "verified": false,
+      "title": "潘功胜强调维护股票等资本市场平稳运行，港股早盘关注内地政策底牌",
+      "summary": "中国人民银行行长潘功胜表示要维护股票等金融市场平稳运行。富途牛牛11月4日早报和21世纪经济报道晨间要点均援引该表态。此表态背景下，市场关注监管层在美股夜盘因中期选举大跌背景下是否会释放进一步稳市工具。",
+      "why": "PBOC行长维稳表态在美股期货大跌的背景下对港股和A股情绪具有边际支撑；上一轮11月2日央行已召开资本市场支持工具会议（data.json已收录），本次表态显示政策层关注外部冲击对国内市场的传导，对南向资金走势和port中港股仓位判断有参考价值。",
+      "source": "21世纪经济报道",
+      "verified": true,
       "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI芯片",
-        "宏观"
+        "潘功胜",
+        "央行",
+        "资本市场",
+        "市场稳定",
+        "PBOC"
       ],
+      "translated": false,
+      "url": "https://21jingji.com/article/20261104/herald/80c6f14a1cfcb76065dcc0af0fdbc99f.html",
       "published_date": "2026-11-04",
       "still_developing": false,
       "cross_ref": "",
-      "id": "4ae04e382569a007",
-      "translated": false,
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-04",
       "is_new": true
@@ -1051,6 +1026,93 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-03",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:17",
+      "group": "大盘头条",
+      "title": "US Midterm Election Day: Nasdaq +0.83%, Dow +0.47% as Markets Rally on GOP Senate Gains",
+      "summary": "US stocks rallied on November 3 election day as Republicans headed toward a Senate majority. The Nasdaq rose 0.83%, the Dow gained 0.47%, and the Russell 2000 small-cap index surged roughly 3%, reflecting expectations of deregulation and tax cuts. AMD and tech names provided additional lift after AMD reported blowout Q3 earnings after the close.",
+      "why": "中期选举共和党参议院多数格局初定，市场对潜在减税及监管放松预期升温；小盘股大涨3%反映内需乐观情绪；叠加AMD财报强劲，半导体板块情绪全面回暖，短期看多逻辑占优。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "macro",
+        "美股",
+        "纳斯达克"
+      ],
+      "published_date": "2026-11-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "82efc2a2ed8b86f0",
+      "translated": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-04",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:17",
+      "group": "大盘头条",
+      "title": "Goldman Sachs: 60% of S&P 500 Stocks Already in Bear Market Despite Index Near Highs",
+      "summary": "Goldman Sachs strategist Sina Molavi noted that roughly 60% of S&P 500 component stocks have already declined 20% or more from their individual peaks — meeting the technical definition of a bear market — even as the index itself remains near all-time highs. The divergence reflects narrow mega-cap leadership masking broad underlying market weakness.",
+      "why": "市值加权指数走强但多数成分股深陷熊市，市场宽度极度收窄；龙头股一旦走弱将触发快速补跌；对持仓中个股期权策略，建议在指数高位附近提高保护性头寸比例，警惕指数与个股表现背离。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-molavi-says-60-of-s-p-500-is-in-bear-market-territory",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "macro",
+        "美股",
+        "标普500"
+      ],
+      "published_date": "2026-11-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "5827601806a7c60b",
+      "translated": false,
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-11-04",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:17",
+      "group": "大盘头条",
+      "title": "Apple Q4 FY2026 Earnings: Revenue $114.5B (+12% YoY), EPS $2.10 Beats; December Gross Margin Guided 45–46%",
+      "summary": "Apple reported fiscal Q4 FY2026 results with revenue of $114.5 billion, up 12% year-over-year and ahead of estimates. Adjusted EPS of $2.10 beat the consensus. Services revenue reached a new record. Management guided December quarter gross margin of 45–46%, in line with expectations.",
+      "why": "Services收入再创纪录，12月季度毛利率指引稳健，苹果财报为科技板块情绪提供支撑；但当日股价因英伟达超越市值而承压；期权隐含波动率财报后将显著回落，可考虑卖出短期高IV策略。",
+      "source": "SEC EDGAR (Apple Inc. 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm",
+      "verified": true,
+      "keywords": [
+        "苹果",
+        "Apple",
+        "AAPL",
+        "宏观"
+      ],
+      "published_date": "2026-11-02",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "b0a45978afc5d330",
+      "translated": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-04",
       "is_new": false
     },
     {
@@ -2100,6 +2162,36 @@
       "cross_ref": "https://news.futunn.com/post/1003153325/us-stocks-close-nasdaq-and-s-p-500-post-sharp",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-03",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:17",
+      "group": "大盘头条",
+      "title": "英伟达超越苹果重夺全球市值第一，股价单日涨约3%",
+      "summary": "苹果Q4财报公布后股价承压下跌，英伟达于11月3日美股交易日市值超越苹果，重新登顶全球市值第一。英伟达当日股价上涨约3%，这是英伟达年内第二次超越苹果。AMD强劲财报进一步提振AI芯片板块整体情绪。",
+      "why": "英伟达重夺市值第一进一步确认AI算力主题的市场定价优先级，叠加AMD同日财报超预期，AI半导体板块多头逻辑持续强化；对持仓中NVDA相关期权头寸，可考虑适当上调行权价上限。",
+      "source": "新浪财经",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908tjgw.html",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "宏观"
+      ],
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "4ae04e382569a007",
+      "translated": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-04",
       "is_new": false
     },
     {
