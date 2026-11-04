@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-04 13:11 (北京时间)",
+  "updated_at": "2026-11-04 18:22 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,100 +9,107 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-04 13:11 (北京时间)",
+    "at": "2026-11-04 18:22 (北京时间)",
     "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "b7c4583956dfba50",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
         "US",
-        "HK"
+        "HK",
+        "A"
       ],
-      "time": "04:30",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "Democrats Sweep US Midterms; Nasdaq 100 Futures Plunge 2.1%, S&P 500 Futures Drop 1.1% on AI Regulation Fears",
-      "summary": "Democrats projected to win both the Senate and House in the 2026 midterm elections, triggering a sharp sell-off in US stock index futures. Nasdaq 100 futures fell ~2.1% and S&P 500 futures slid ~1.1% in overnight trading, as investors worried a Democratic-controlled Congress would impose stricter AI regulation, data-center oversight and corporate taxes. Treasuries rallied and the dollar weakened as markets sought safety.",
-      "why": "民主党横扫国会触发市场对AI监管收紧的最大担忧：Sanders/AOC此前已提出数据中心建设暂停法案，分析师预警若民主党掌控国会美股明年跌幅可能超10%。对科技持仓（英伟达、谷歌、小米等）和相关期权隐含波动率均有直接影响；与data.json中11月3日日内反弹（GOP初步领先时期）为截然相反的新进展。",
+      "title": "美国2026年中期选举：民主党赢回参众两院，终结共和党对国会掌控",
+      "summary": "11月3日美国中期选举结果揭晓，民主党赢回参众两院多数席位，终结共和党的国会掌控。多家媒体将本次选举定性为对特朗普政府关税及移民政策的直接公投，结果将对白宫政策推进形成制衡。",
+      "why": "民主党掌控国会制约白宫财政及关税政策；2025减税续期难度提升。短期不确定性上升，美元可能走弱。对中概股而言贸易摩擦预期可能边际缓和，但政策路径趋复杂。持有美股期权仓位需评估选后隐含波动率变化。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
         "美国中期选举",
         "民主党",
-        "纳斯达克期货",
-        "AI监管",
-        "数据中心"
+        "国会",
+        "美股",
+        "关税政策"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+      "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
       "published_date": "2026-11-03",
       "still_developing": true,
       "cross_ref": "",
+      "id": "397d3e44595213e8",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-04",
       "is_new": true
     },
     {
-      "id": "0f92f4bdbc9993fd",
       "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "21:00",
-      "group": "大盘头条",
-      "title": "AMD Q3 2026: Revenue $13.4B (+45% YoY), Data Center Doubles to $8.5B; Q4 Guided ~$17B; Stock Up ~7% After Hours",
-      "summary": "AMD reported Q3 2026 results after market close on November 3: total revenue $13.4B, up 45% YoY, beating the consensus of ~$13.1B. Data center segment revenue hit a record $8.5B, up 97% YoY driven by EPYC server CPUs and early MI450 AI accelerator ramp. Non-GAAP EPS was $2.09, topping the ~$1.94 estimate. Q4 revenue guidance of ~$17B (±3%) implies ~27% sequential growth; management expects server revenue to double in 2027.",
-      "why": "AI芯片供应链强劲信号：AMD数据中心业务97%增速验证算力需求旺盛，对SK海力士HBM出货和英伟达竞争格局均有参考意义；但AMD股价仅+7%盘后（非正式开盘），提示市场高预期已部分消化，注意民主党掌控国会的AI监管风险可能在开盘后压制涨幅。",
-      "source": "AMD Newsroom",
-      "verified": false,
-      "keywords": [
-        "AMD",
-        "AI芯片",
-        "数据中心",
-        "半导体财报",
-        "MI450"
-      ],
-      "translated": false,
-      "url": "https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/",
-      "published_date": "2026-11-03",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
-      "is_new": true
-    },
-    {
-      "id": "f0f046c5ed832fa2",
-      "tier": 2,
       "lang": "zh",
       "markets": [
+        "US",
         "HK",
         "A"
       ],
-      "time": "08:00",
+      "time": "03:00",
       "group": "大盘头条",
-      "title": "潘功胜强调维护股票等资本市场平稳运行，港股早盘关注内地政策底牌",
-      "summary": "中国人民银行行长潘功胜表示要维护股票等金融市场平稳运行。富途牛牛11月4日早报和21世纪经济报道晨间要点均援引该表态。此表态背景下，市场关注监管层在美股夜盘因中期选举大跌背景下是否会释放进一步稳市工具。",
-      "why": "PBOC行长维稳表态在美股期货大跌的背景下对港股和A股情绪具有边际支撑；上一轮11月2日央行已召开资本市场支持工具会议（data.json已收录），本次表态显示政策层关注外部冲击对国内市场的传导，对南向资金走势和port中港股仓位判断有参考价值。",
+      "title": "美联储11月维持利率3.75%-4.00%不变，CME显示12月加息25基点概率约75%",
+      "summary": "美联储11月议息会议以10比2投票维持利率目标区间3.75%-4.00%不变，两名官员倾向上调。会后声明措辞基本不变，主席表示通胀仍高于目标。CME美联储观察工具显示12月加息25基点概率约75%，9月CPI为3.7%，PCE为3.5%。",
+      "why": "加息预期支撑美元走强，压制成长股估值；港股及中概股受汇率传导影响。12月10日FOMC前，10月CPI及非农数据将成关键变量，可能影响行权价设置节奏。若12月加息落地，联邦基金利率将至4.00%-4.25%。",
       "source": "21世纪经济报道",
       "verified": true,
       "keywords": [
-        "潘功胜",
-        "央行",
-        "资本市场",
-        "市场稳定",
-        "PBOC"
+        "美联储",
+        "FOMC",
+        "加息",
+        "CME FedWatch",
+        "通胀",
+        "利率"
       ],
       "translated": false,
-      "url": "https://21jingji.com/article/20261104/herald/80c6f14a1cfcb76065dcc0af0fdbc99f.html",
+      "url": "https://m.21jingji.com/article/20261102/herald/ce4562cadd108dff3d600625d978b7da.html",
+      "published_date": "2026-11-02",
+      "still_developing": true,
+      "cross_ref": "",
+      "id": "278e2d5496fceaf0",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-04",
+      "is_new": true
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股11月4日午后大幅反弹，科创50及半导体领涨；央行同日下调股票增持再贷款利率25基点至1%",
+      "summary": "11月4日A股三大指数午后单边拉升，科创50及半导体、存储芯片等科技板块领涨，沪深两市成交额大幅放量。中国人民银行当日宣布下调股票增持/回购再贷款利率25基点至1%，为市场提供流动性支撑。港股医药/CXO板块亦同步走强。",
+      "why": "央行降低股票回购再贷款利率直接利好上市公司回购行为，与科技板块共振，或传导至持仓中港股科技标的估值支撑。成交量放大显示市场情绪明显改善，对 sell put 策略而言，短期波动率下降可能压缩期权权利金。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "科创50",
+        "半导体",
+        "央行",
+        "再贷款利率",
+        "港股",
+        "CXO",
+        "市场反弹"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908tme8.html",
       "published_date": "2026-11-04",
       "still_developing": false,
       "cross_ref": "",
+      "id": "944700fc564aa232",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-04",
       "is_new": true
@@ -1026,6 +1033,67 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-03",
+      "is_new": false
+    },
+    {
+      "id": "b7c4583956dfba50",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "04:30",
+      "group": "大盘头条",
+      "title": "Democrats Sweep US Midterms; Nasdaq 100 Futures Plunge 2.1%, S&P 500 Futures Drop 1.1% on AI Regulation Fears",
+      "summary": "Democrats projected to win both the Senate and House in the 2026 midterm elections, triggering a sharp sell-off in US stock index futures. Nasdaq 100 futures fell ~2.1% and S&P 500 futures slid ~1.1% in overnight trading, as investors worried a Democratic-controlled Congress would impose stricter AI regulation, data-center oversight and corporate taxes. Treasuries rallied and the dollar weakened as markets sought safety.",
+      "why": "民主党横扫国会触发市场对AI监管收紧的最大担忧：Sanders/AOC此前已提出数据中心建设暂停法案，分析师预警若民主党掌控国会美股明年跌幅可能超10%。对科技持仓（英伟达、谷歌、小米等）和相关期权隐含波动率均有直接影响；与data.json中11月3日日内反弹（GOP初步领先时期）为截然相反的新进展。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美国中期选举",
+        "民主党",
+        "纳斯达克期货",
+        "AI监管",
+        "数据中心"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+      "published_date": "2026-11-03",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-04",
+      "is_new": false
+    },
+    {
+      "id": "0f92f4bdbc9993fd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "AMD Q3 2026: Revenue $13.4B (+45% YoY), Data Center Doubles to $8.5B; Q4 Guided ~$17B; Stock Up ~7% After Hours",
+      "summary": "AMD reported Q3 2026 results after market close on November 3: total revenue $13.4B, up 45% YoY, beating the consensus of ~$13.1B. Data center segment revenue hit a record $8.5B, up 97% YoY driven by EPYC server CPUs and early MI450 AI accelerator ramp. Non-GAAP EPS was $2.09, topping the ~$1.94 estimate. Q4 revenue guidance of ~$17B (±3%) implies ~27% sequential growth; management expects server revenue to double in 2027.",
+      "why": "AI芯片供应链强劲信号：AMD数据中心业务97%增速验证算力需求旺盛，对SK海力士HBM出货和英伟达竞争格局均有参考意义；但AMD股价仅+7%盘后（非正式开盘），提示市场高预期已部分消化，注意民主党掌控国会的AI监管风险可能在开盘后压制涨幅。",
+      "source": "AMD Newsroom",
+      "verified": false,
+      "keywords": [
+        "AMD",
+        "AI芯片",
+        "数据中心",
+        "半导体财报",
+        "MI450"
+      ],
+      "translated": false,
+      "url": "https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/",
+      "published_date": "2026-11-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-04",
       "is_new": false
     },
     {
@@ -2162,6 +2230,37 @@
       "cross_ref": "https://news.futunn.com/post/1003153325/us-stocks-close-nasdaq-and-s-p-500-post-sharp",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-03",
+      "is_new": false
+    },
+    {
+      "id": "f0f046c5ed832fa2",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "潘功胜强调维护股票等资本市场平稳运行，港股早盘关注内地政策底牌",
+      "summary": "中国人民银行行长潘功胜表示要维护股票等金融市场平稳运行。富途牛牛11月4日早报和21世纪经济报道晨间要点均援引该表态。此表态背景下，市场关注监管层在美股夜盘因中期选举大跌背景下是否会释放进一步稳市工具。",
+      "why": "PBOC行长维稳表态在美股期货大跌的背景下对港股和A股情绪具有边际支撑；上一轮11月2日央行已召开资本市场支持工具会议（data.json已收录），本次表态显示政策层关注外部冲击对国内市场的传导，对南向资金走势和port中港股仓位判断有参考价值。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "潘功胜",
+        "央行",
+        "资本市场",
+        "市场稳定",
+        "PBOC"
+      ],
+      "translated": false,
+      "url": "https://21jingji.com/article/20261104/herald/80c6f14a1cfcb76065dcc0af0fdbc99f.html",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-04",
       "is_new": false
     },
     {
