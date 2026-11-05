@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-05 08:19 (北京时间)",
+  "updated_at": "2026-11-05 13:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,38 +9,35 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-05 08:19 (北京时间)",
-    "new_count": 5,
+    "at": "2026-11-05 13:17 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "cbd6dbd7b3732499",
+      "id": "c1ae7f4ce20fce65",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "US"
+        "A"
       ],
-      "time": "09:00",
+      "time": "11:00",
       "group": "大盘头条",
-      "title": "Democrats Sweep 2026 Midterms; Dow Posts Best Post-Election Day in 44 Years",
-      "summary": "Democrats won control of both the House and Senate in Tuesday's midterm elections. Markets surged Wednesday: Dow +3% (best post-midterm session in 44 years), S&P 500 +1.58%, VIX fell nearly 20%, Brent crude fell ~3% with oil near $100/bbl, and spot gold rose ~2.9% to around $4,043/oz. Markets interpreted a split-Congress outcome as removing major political uncertainty.",
-      "why": "选举不确定性消除，VIX骤降约20%，对期权卖方友好；分裂国会预期下政策推进节奏趋缓，对长期利率路径影响有限；金价反弹至约4043美元/盎司，利好老铺黄金（6181.HK）等持金标的。",
-      "source": "CNBC",
+      "title": "央行宣布：11月4日起下调股票回购增持再贷款利率至1%，工具转为长期制度性安排",
+      "summary": "中国人民银行、金融监管总局、证监会三部门联合宣布，自2026年11月4日起将股票回购增持再贷款利率由1.25%下调25个基点至1%，并将该工具由阶段性安排升级为长期制度性安排，支持21家全国性银行和5家系统重要性城商行，支持比例100%，期限1年可展期。截至11月2日签约金额约4400亿元、累计发放量超2800亿元，银行申报额度超2000亿元。",
+      "why": "央行三部门联手为A股注入长期护城河工具，利率下调叠加制度化意味着上市公司使用贷款回购/增持的成本再降，对持有港股及A股优质标的有正面支撑；sell put 策略隐含波动率可能短期下行。",
+      "source": "澎湃新闻",
       "verified": true,
       "keywords": [
-        "美国中期选举",
-        "midterm elections",
-        "道指",
-        "VIX",
-        "市场情绪",
-        "金价",
-        "油价",
-        "老铺黄金"
+        "央行",
+        "回购",
+        "再贷款",
+        "A股",
+        "政策"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34403924",
       "published_date": "2026-11-04",
       "still_developing": false,
       "cross_ref": "",
@@ -49,32 +46,61 @@
       "is_new": true
     },
     {
-      "id": "f4c09d7e4cc13704",
+      "id": "04b5dd732c925bc9",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
+        "US",
         "HK",
         "A"
       ],
-      "time": "10:00",
+      "time": "08:30",
       "group": "大盘头条",
-      "title": "China Moves to Support Stocks With Buyback and Liquidity Measures",
-      "summary": "China announced a third round of its securities swap facility (SFISF), eased share-buyback rules, cut the relending rate supporting buybacks from 1.25% to 1%, and plans to make the stock-support lending facility permanent. A major state-owned bank is reportedly considering extending up to 200 billion yuan in credit lines to two AMCs connected to the national team.",
-      "why": "国家队扩大入市工具，A股和港股底部支撑增强；回购贷款利率下调降低上市公司回购成本，对腾讯、美团等港股龙头可能形成提振；短期内波动率有望被压制，sell put安全边际提高。",
-      "source": "财新国际 (Caixin Global)",
+      "title": "今夜全是利好！美股大逆转：道指涨超3%，原油重挫8%，全球市场一夜变天",
+      "summary": "美股11月4日夜间大幅反弹，道指涨超3%；与此同时原油价格单日重挫逾8%，大宗商品市场与权益市场走势背离，市场普遍解读为地缘局势阶段性缓和叠加美联储维持利率预期。26家券商同日获央行互换便利中标，A股情绪亦受提振，恒生科技指数同步走强。",
+      "why": "全球大反弹对持有港股及美股优质标的直接利好；油价大跌有助降低通胀预期，市场对美联储12月再次加息的定价有所松动，短期波动率（VIX）可能回落，对 sell put 策略有利。",
+      "source": "21世纪经济报道",
       "verified": true,
       "keywords": [
-        "PBOC",
-        "SFISF",
-        "回购",
-        "股市支持",
-        "国家队",
-        "China stimulus",
-        "A股",
-        "港股"
+        "美股",
+        "道指",
+        "原油",
+        "港股",
+        "宏观",
+        "大盘"
       ],
       "translated": false,
-      "url": "https://www.caixinglobal.com/2026-11-03/china-moves-to-support-stocks-with-buyback-and-liquidity-measures-102500134.html",
+      "url": "https://m.21jingji.com/article/20261104/herald/eb40f5d00f273e19511804df0dc82c21.html",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-05",
+      "is_new": true
+    },
+    {
+      "id": "6fc51fe6ab8de8ea",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "央行开展第三次证券基金保险互换便利操作，26家机构中标，申报额度超千亿",
+      "summary": "央行于2026年11月3日开展第三次证券、基金、保险公司互换便利操作，互换期限1年、可视情展期，31家机构申报额度超1000亿元，最终26家机构中标。本次操作同步降低互换费率，工具余额当前约1050亿元。与同日出台的回购增持再贷款利率下调形成政策组合拳，共同维护资本市场平稳运行。",
+      "why": "互换便利扩容降费，实质上为券商等机构提供更低成本的流动性去购买A股，对整体市场情绪形成支撑，可能压低波动率；26家券商中标数量较此前增加，覆盖面扩大。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "互换便利",
+        "央行",
+        "券商",
+        "A股",
+        "政策"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261103/c10feb3d336f3d8372f1ba99b5a197d7.html",
       "published_date": "2026-11-03",
       "still_developing": false,
       "cross_ref": "",
@@ -83,99 +109,29 @@
       "is_new": true
     },
     {
-      "id": "02535a17ca211a90",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "Nvidia Can Only Fulfill ~1% of China's $70B GPU Order; Cloud Partners Told to Reduce China Exposure",
-      "summary": "Chinese AI and cloud firms — including Alibaba, Tencent, and ByteDance — ordered roughly 6 million Nvidia RTX Pro 5500 chips but will receive only ~1% (about 60,000 units) within four months due to supply constraints. Separately, the Financial Times reported that Nvidia asked cloud computing clients to maintain at least 51% of capacity outside China, tightening US restrictions on Chinese AI computing access.",
-      "why": "美国对华AI芯片管制深化，英伟达中国客户实际可得GPU极少；对腾讯（0700.HK）、阿里巴巴（9988.HK）AI算力布局构成压制；中国云厂商被迫加速自研芯片，或利好国内AI芯片替代产业链；期权隐含波动率预期上升，半导体板块不确定性加大。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI芯片",
-        "出口管制",
-        "GPU",
-        "腾讯",
-        "阿里巴巴",
-        "中美科技"
-      ],
-      "translated": false,
-      "url": "https://bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
-      "published_date": "2026-11-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-11-05",
-      "is_new": true
-    },
-    {
-      "id": "5ff9147acd581ffa",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "13:00",
-      "group": "个股",
-      "title": "Circle Q3 2026: Revenue +17% to $865M, USDC On-Chain Volume Surges 49%; GENIUS Act Effective Jan 2027",
-      "summary": "Circle Internet Group (CRCL) reported Q3 2026 revenue of $865 million, up 17% year over year. USDC on-chain transaction volume rose 49% to $13.9 trillion, capturing 79% of all stablecoin transaction volume. The OCC finalized GENIUS Act rules with the full act taking effect January 18, 2027. Morgan Stanley cut its price target to $34 (from $37) citing USDC circulation growth concerns.",
-      "why": "GENIUS Act监管框架落地时间轴明确（2027年1月18日），Circle合规先发优势凸显；但USDC发行量环比增长较慢，摩根士丹利下调目标价，分析师分歧加大；稳定币法案落地对整体加密市场有里程碑意义，可关注隐含波动率变化。",
-      "source": "Motley Fool (earnings call transcript)",
-      "verified": false,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "stablecoin",
-        "GENIUS Act",
-        "OCC",
-        "Q3 2026"
-      ],
-      "translated": false,
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/04/circle-crcl-q3-2026-earnings-call-transcript/",
-      "published_date": "2026-11-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-05",
-      "is_new": true
-    },
-    {
-      "id": "d810dd56ee52d1ef",
+      "id": "0cbdb395fed56294",
       "tier": 3,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "14:00",
+      "time": "16:00",
       "group": "个股",
-      "title": "美团设定80亿元离岸人民币债券条款，主要用于再融资",
-      "summary": "美团于11月3日确定80亿元离岸人民币债券发行条款：45亿元2031年到期票据票面利率2.50%，35亿元2036年到期票据票面利率3.10%，均平价发行，所得款项主要用于偿还现有离岸债务。",
-      "why": "美团以低利率延长偿债期限，改善资产负债表流动性；2.50%-3.10%的利率反映市场对其信用的认可；再融资完成后财务压力降低，或有助于减少有效期权波动率。",
-      "source": "ad-hoc-news.de (citing Meituan IR)",
+      "title": "泡泡玛特(09992.HK)11月4日以每股135.8–138.4港元回购36万股，耗资约4946万港元",
+      "summary": "泡泡玛特11月4日公告，以每股135.8至138.4港元价格回购36万股，合计耗资约4945.62万港元。此前11月2日亦回购36万股（耗资4890.25万港元）。公司在三季度整体收益同比大幅下滑背景下持续密集回购，显示管理层对当前股价具有信心。公司现价约在139-140港元区间，较8月高位已大幅回调。",
+      "why": "回购力度（单日逾4900万港元）相对于当前股价显示管理层底部信心；但Q3基本面承压（整体收益同比下降45-50%），短期反弹幅度有限。若持有或考虑卖出9992.HK的 sell put，需关注股价能否获得回购支撑稳定在130港元以上。",
+      "source": "富途牛牛",
       "verified": false,
       "keywords": [
-        "美团",
-        "Meituan",
-        "3690.HK",
-        "债券",
-        "离岸人民币",
-        "再融资",
-        "bond"
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "回购",
+        "潮玩"
       ],
       "translated": false,
-      "url": "https://ad-hoc-news.de/boerse/news/corporate-news/meituan-stock-new-bond-terms-extend-refinancing-horizon/70451123",
-      "published_date": "2026-11-03",
+      "url": "https://news.futunn.com/post/1003384500/pop-mart-09992-hk-repurchased-360000-shares-for-hk-49",
+      "published_date": "2026-11-04",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1159,6 +1115,108 @@
       "is_new": false
     },
     {
+      "id": "cbd6dbd7b3732499",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Democrats Sweep 2026 Midterms; Dow Posts Best Post-Election Day in 44 Years",
+      "summary": "Democrats won control of both the House and Senate in Tuesday's midterm elections. Markets surged Wednesday: Dow +3% (best post-midterm session in 44 years), S&P 500 +1.58%, VIX fell nearly 20%, Brent crude fell ~3% with oil near $100/bbl, and spot gold rose ~2.9% to around $4,043/oz. Markets interpreted a split-Congress outcome as removing major political uncertainty.",
+      "why": "选举不确定性消除，VIX骤降约20%，对期权卖方友好；分裂国会预期下政策推进节奏趋缓，对长期利率路径影响有限；金价反弹至约4043美元/盎司，利好老铺黄金（6181.HK）等持金标的。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美国中期选举",
+        "midterm elections",
+        "道指",
+        "VIX",
+        "市场情绪",
+        "金价",
+        "油价",
+        "老铺黄金"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
+      "id": "f4c09d7e4cc13704",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "China Moves to Support Stocks With Buyback and Liquidity Measures",
+      "summary": "China announced a third round of its securities swap facility (SFISF), eased share-buyback rules, cut the relending rate supporting buybacks from 1.25% to 1%, and plans to make the stock-support lending facility permanent. A major state-owned bank is reportedly considering extending up to 200 billion yuan in credit lines to two AMCs connected to the national team.",
+      "why": "国家队扩大入市工具，A股和港股底部支撑增强；回购贷款利率下调降低上市公司回购成本，对腾讯、美团等港股龙头可能形成提振；短期内波动率有望被压制，sell put安全边际提高。",
+      "source": "财新国际 (Caixin Global)",
+      "verified": true,
+      "keywords": [
+        "PBOC",
+        "SFISF",
+        "回购",
+        "股市支持",
+        "国家队",
+        "China stimulus",
+        "A股",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://www.caixinglobal.com/2026-11-03/china-moves-to-support-stocks-with-buyback-and-liquidity-measures-102500134.html",
+      "published_date": "2026-11-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
+      "id": "02535a17ca211a90",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "Nvidia Can Only Fulfill ~1% of China's $70B GPU Order; Cloud Partners Told to Reduce China Exposure",
+      "summary": "Chinese AI and cloud firms — including Alibaba, Tencent, and ByteDance — ordered roughly 6 million Nvidia RTX Pro 5500 chips but will receive only ~1% (about 60,000 units) within four months due to supply constraints. Separately, the Financial Times reported that Nvidia asked cloud computing clients to maintain at least 51% of capacity outside China, tightening US restrictions on Chinese AI computing access.",
+      "why": "美国对华AI芯片管制深化，英伟达中国客户实际可得GPU极少；对腾讯（0700.HK）、阿里巴巴（9988.HK）AI算力布局构成压制；中国云厂商被迫加速自研芯片，或利好国内AI芯片替代产业链；期权隐含波动率预期上升，半导体板块不确定性加大。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "出口管制",
+        "GPU",
+        "腾讯",
+        "阿里巴巴",
+        "中美科技"
+      ],
+      "translated": false,
+      "url": "https://bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
       "id": "81b5efdc4c1c3860",
       "tier": 2,
       "lang": "zh",
@@ -2118,6 +2176,39 @@
       "is_new": false
     },
     {
+      "id": "5ff9147acd581ffa",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "13:00",
+      "group": "个股",
+      "title": "Circle Q3 2026: Revenue +17% to $865M, USDC On-Chain Volume Surges 49%; GENIUS Act Effective Jan 2027",
+      "summary": "Circle Internet Group (CRCL) reported Q3 2026 revenue of $865 million, up 17% year over year. USDC on-chain transaction volume rose 49% to $13.9 trillion, capturing 79% of all stablecoin transaction volume. The OCC finalized GENIUS Act rules with the full act taking effect January 18, 2027. Morgan Stanley cut its price target to $34 (from $37) citing USDC circulation growth concerns.",
+      "why": "GENIUS Act监管框架落地时间轴明确（2027年1月18日），Circle合规先发优势凸显；但USDC发行量环比增长较慢，摩根士丹利下调目标价，分析师分歧加大；稳定币法案落地对整体加密市场有里程碑意义，可关注隐含波动率变化。",
+      "source": "Motley Fool (earnings call transcript)",
+      "verified": false,
+      "keywords": [
+        "Circle",
+        "CRCL",
+        "USDC",
+        "稳定币",
+        "stablecoin",
+        "GENIUS Act",
+        "OCC",
+        "Q3 2026"
+      ],
+      "translated": false,
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/04/circle-crcl-q3-2026-earnings-call-transcript/",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
       "tier": 3,
       "lang": "zh",
       "markets": [
@@ -2244,6 +2335,38 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-03",
+      "is_new": false
+    },
+    {
+      "id": "d810dd56ee52d1ef",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "14:00",
+      "group": "个股",
+      "title": "美团设定80亿元离岸人民币债券条款，主要用于再融资",
+      "summary": "美团于11月3日确定80亿元离岸人民币债券发行条款：45亿元2031年到期票据票面利率2.50%，35亿元2036年到期票据票面利率3.10%，均平价发行，所得款项主要用于偿还现有离岸债务。",
+      "why": "美团以低利率延长偿债期限，改善资产负债表流动性；2.50%-3.10%的利率反映市场对其信用的认可；再融资完成后财务压力降低，或有助于减少有效期权波动率。",
+      "source": "ad-hoc-news.de (citing Meituan IR)",
+      "verified": false,
+      "keywords": [
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "债券",
+        "离岸人民币",
+        "再融资",
+        "bond"
+      ],
+      "translated": false,
+      "url": "https://ad-hoc-news.de/boerse/news/corporate-news/meituan-stock-new-bond-terms-extend-refinancing-horizon/70451123",
+      "published_date": "2026-11-03",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-05",
       "is_new": false
     }
   ]
