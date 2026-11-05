@@ -1,92 +1,242 @@
 [
   {
-    "id": "3078bb6f326adcb7",
+    "id": "2789a856a88a4b1a",
     "tier": 1,
     "lang": "en",
-    "markets": ["HK", "A"],
-    "time": "",
+    "markets": [
+      "US",
+      "HK",
+      "A"
+    ],
+    "time": "16:30",
     "group": "大盘头条",
-    "title": "China's Factory Activity Returns to Contraction in October as NBS Manufacturing PMI Falls to 49.3",
-    "summary": "China's official NBS manufacturing PMI fell to 49.3 in October, below the 50-point expansion threshold and missing the consensus estimate of 50.0. The composite PMI also dropped to 49.7, with both manufacturing and non-manufacturing activity contracting simultaneously.",
-    "why": "中国制造业与非制造业PMI双双跌破50，为罕见全面收缩信号；周一A股/港股开盘面临抛压，若引发稳增长政策预期可关注估值修复机会；期权策略需警惕短线波动加剧。",
-    "url": "http://en.people.cn/n3/2026/1031/c90000-20514322.html",
-    "source": "People's Daily (NBS official data)",
-    "verified": true,
-    "keywords": ["PMI", "宏观", "macro", "A股"],
-    "published_date": "2026-10-31",
-    "still_developing": false,
-    "cross_ref": ""
-  },
-  {
-    "id": "4bb07d42f9109b27",
-    "tier": 1,
-    "lang": "zh",
-    "markets": ["US", "HK", "A"],
-    "time": "",
-    "group": "大盘头条",
-    "title": "美联储10月会议维持利率3.75%-4%，主席沃什：暂停并非见顶，12月加息概率72%",
-    "summary": "FOMC以10比2投票维持联邦基金利率目标区间3.75%-4%不变，两位反对票（库克、哈马克）主张加息25bp。主席沃什表示暂停是为等待更多数据、并非周期见顶；CME「美联储观察」显示市场定价12月加息25bp概率为72%。",
-    "why": "鹰派暂停叠加72%的12月加息预期将继续压制科技股估值；美债收益率维持高位对港股科技股构成压力；Sell Put策略需关注行权价附近的尾部风险，建议回避短期高IV期权卖出。",
-    "url": "https://m.21jingji.com/article/20261030/herald/242aba6ca0aa1891b9dfceef32eec989.html",
-    "source": "21世纪经济报道",
-    "verified": false,
-    "keywords": ["美联储", "利率", "宏观", "macro"],
-    "published_date": "2026-10-30",
-    "still_developing": false,
-    "cross_ref": ""
-  },
-  {
-    "id": "945642cb40ba0752",
-    "tier": 1,
-    "lang": "en",
-    "markets": ["US"],
-    "time": "",
-    "group": "大盘头条",
-    "title": "Intel stock has worst day since 1970s, falling 29% as AI spending concerns fuel tech rout",
-    "summary": "US stocks plunged Friday as disappointing tech earnings fueled AI spending concerns. Intel shares tumbled 29% after weak Q4 guidance, their worst single-day loss since the 1970s. The Nasdaq fell roughly 2.9%, and Alphabet extended its record Thursday loss. Markets are questioning whether massive AI capex investments will deliver returns.",
-    "why": "科技股历史性单日暴跌，叠加AI资本支出回报质疑，将压制整体科技板块估值；英伟达等半导体相关标的期权隐含波动率预计大幅升高；持仓需关注相关产品估值重估风险。",
-    "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+    "title": "Dow has best post-midterm elections day in 44 years as Democrats take control of Congress",
+    "summary": "Democrats won decisive control of both chambers of Congress in the November 3 midterms. Dow Jones surged 1,569 points (+3%), its best post-election day since 1982; S&P 500 +1.58%, Nasdaq +1.44%. Oil dropped sharply and bond yields fell as investors re-priced geopolitical risk. The Hang Seng rallied sharply and China internet stocks (Nasdaq Golden Dragon Index +3.49%) followed suit.",
+    "why": "2026年最重大政治事件；民主党控制国会触发全球性风险偏好回升，港股恒生指数同步大涨，中概股强势反弹；短期波动率回落后 sell put 窗口改善",
     "source": "CNBC",
     "verified": true,
-    "keywords": ["英特尔", "Intel", "INTC", "宏观", "AI芯片"],
-    "published_date": "2026-10-30",
+    "keywords": [
+      "midterm elections",
+      "中期选举",
+      "宏观",
+      "道指"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+    "published_date": "2026-11-04",
     "still_developing": false,
     "cross_ref": ""
   },
   {
-    "id": "740aaa4a0f201b64",
+    "id": "94772015435447f2",
     "tier": 2,
-    "lang": "en",
-    "markets": ["HK"],
-    "time": "",
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "14:30",
     "group": "大盘头条",
-    "title": "Hong Kong Stocks Lose a Key Backer as Chinese Investors Head for Exit",
-    "summary": "Onshore Chinese traders sold a net HK$24 billion ($3.1 billion) of Hong Kong shares through the Stock Connect trading link in October through Thursday, which would be the biggest monthly southbound outflow since 2021. The Hang Seng has fallen more than 12% this year despite state-backed ETF buying.",
-    "why": "南向资金创2021年来最大月度净流出，显示内地投资者对港股信心不足；结合美联储鹰派姿态与科技股暴跌，港股短期内面临多重压力；看涨期权时间价值加速衰减，Sell Put需谨慎。",
-    "url": "https://bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
-    "source": "Bloomberg",
-    "verified": false,
-    "keywords": ["港股", "恒生指数", "宏观"],
-    "published_date": "2026-10-30",
+    "title": "午后！A股，超级大反攻！",
+    "summary": "A股11月4日午后强势放量反弹，创业板指涨超1%，光伏、黄金板块领涨，多只光伏股封涨停板，科技与互联网板块同步走强。两市成交额重回2万亿元，呼号V型反弹走势，为近期最强单日表现。",
+    "why": "A股放量大反攻，科技与消费均受益于美国中期选举后的全球风险偏好改善，两市成交恢复正常，市场情绪明显好转",
+    "source": "21世纪经济报道",
+    "verified": true,
+    "keywords": [
+      "A股",
+      "光伏",
+      "宏观",
+      "消费"
+    ],
+    "translated": false,
+    "url": "https://m.21jingji.com/article/20261104/herald/b6f13bc25202ad9c6a4dd877b823a23b.html",
+    "published_date": "2026-11-04",
     "still_developing": false,
     "cross_ref": ""
   },
   {
-    "id": "1303250904ce1cc3",
+    "id": "c0201f285096e5e2",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "A"
+    ],
+    "time": "19:00",
+    "group": "大盘头条",
+    "title": "央行宣布第三次SFISF互换便利操作，31家机构申报需求逾1000亿元",
+    "summary": "中国人民銀行11月2日公告将于11月3日开展第三次证券、基金、保险公司互换便利（SFISF）操作，互换期限\u00001年、可展期。 31家券商和基金公司申报需求逾1000亿元。前两次操作规模分别为500亿元和550亿元。",
+    "why": "SFISF支持机构以股票ETF/沪淳300成份股等置换央行高流动性资产定向托底A股；第三次申报规模大幅扩大（逾1000亿 vs 前两次550亿），维稳信号显著；对持仓股波动率有压制效果",
+    "source": "第一财经",
+    "verified": true,
+    "keywords": [
+      "SFISF",
+      "互换便利",
+      "央行",
+      "宏观"
+    ],
+    "translated": false,
+    "url": "https://www.yicai.com/news/103421537.html",
+    "published_date": "2026-11-02",
+    "still_developing": false,
+    "cross_ref": ""
+  },
+  {
+    "id": "8185ed4318c1f36a",
     "tier": 2,
     "lang": "en",
-    "markets": ["HK", "US"],
-    "time": "",
-    "group": "个股",
-    "title": "Alibaba wins preliminary injunction against Pentagon contract restrictions tied to China blacklist",
-    "summary": "A US federal judge in San Jose granted Alibaba a preliminary injunction, blocking the Pentagon from denying contracts to companies because they do business with Alibaba's lobbying partners. Judge Eumi K. Lee found Alibaba likely to succeed on free-speech grounds. The Chinese military designation itself remains in place as the case continues.",
-    "why": "延续报道：2026-06起诉五角大楼的阶段性进展，法院初步禁令可减轻承包商合规压力，对阿里巴巴企业云/政府合同业务构成利好；但军事名单尚存、最终判决未出，不宜过度解读；期权隐含波动率短期内可能因此小幅回落。",
-    "url": "https://www.scmp.com/news/us/article/3372356/alibaba-wins-preliminary-injunction-against-pentagon-lobbying-rule",
-    "source": "South China Morning Post",
-    "verified": false,
-    "keywords": ["阿里巴巴", "Alibaba", "BABA", "9988.HK"],
-    "published_date": "2026-10-27",
+    "markets": [
+      "US"
+    ],
+    "time": "14:00",
+    "group": "大盘头条",
+    "title": "Fed keeps rates steady at 3.75%-4% in split vote; Warsh says politics played 'no role' ahead of midterms",
+    "summary": "The Federal Reserve held the federal funds rate at 3.75%-4.00% at its October 28 meeting, six days before the midterm elections. Fed Chair Kevin Warsh stated politics played no role. Two governors dissented in favor of a 25bps hike. With September inflation at 3.7%, December meeting expectations are building toward a potential hike. Warsh also announced rate-vote meetings will be reduced to seven per year starting 2027.",
+    "why": "高利率环境延续（3.75-4%）支撑期权隐含波动率和sell put湢价；沃什主席证实2026年12月加息概率上升；2027年改为7次决议可能推迟降息节奏",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "美联储",
+      "利率",
+      "Fed",
+      "宏观",
+      "Kevin Warsh"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+    "published_date": "2026-11-02",
     "still_developing": true,
+    "cross_ref": ""
+  },
+  {
+    "id": "78509e03edfb9bfe",
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "US",
+      "HK"
+    ],
+    "time": "08:00",
+    "group": "大盘头条",
+    "title": "新浪美股热点小时报（11月5日）：AI芒片股历史级抛售 AMD Q3破纪录提振情绪 英伟达11月17日财报成最大催化",
+    "summary": "费城半导体指数（SOX）自6月高点累计下跌约29%，纳指2026年三度进入修正区间。AMD Q3 2026实现破纪录营收136亿美元（+45%），盘后大涨提振情绪。英伟达将于11月17日公布Q3 FY27财报，Q3营收指引约1080亿美元，市场视为AI基础设施需求的关键压力测试。",
+    "why": "AI芒片历史级抛售是当前最大市场风险；AMD超预期给了多头喜息机会；英伟达11月17日财报（指引$1080亿）是本月最重要事件，能否兆现直接决定持仓AI芒片方向",
+    "source": "新浪财经",
+    "verified": false,
+    "keywords": [
+      "AI芒片",
+      "semiconductor",
+      "英伟达",
+      "AMD",
+      "宏观"
+    ],
+    "translated": false,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908toye.html",
+    "published_date": "2026-11-05",
+    "still_developing": false,
+    "cross_ref": ""
+  },
+  {
+    "id": "2d45f3bf08fd4b31",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "16:30",
+    "group": "个股",
+    "title": "AMD Reports Record Q3 2026 Revenue of $13.4B (+45% YoY); Data Center Nearly Doubles to $8.55B",
+    "summary": "AMD posted record Q3 2026 revenue of $13.4 billion, up 45% year over year. Non-GAAP EPS was $2.09. Data Center segment revenue reached $8.546 billion (+97% YoY) on record Instinct GPU and EPYC CPU sales. Gaming revenue fell 40% to $773 million. Management expects Data Center AI revenue to surpass server CPU revenue in Q4 for the first time, and guided 2027 revenue growth of over 80%.",
+    "why": "AMD Q3大超预期，2027年营收指引+80%；数据中心AI营收规模化验证AI基础设施需求持续强劲；是当前芒片股抛售背景下最重要的做多依据，亦为英伟达11/17财报定调；AMD股价盘后大涨",
+    "source": "AMD (SEC 8-K)",
+    "verified": true,
+    "keywords": [
+      "AMD",
+      "AI芒片",
+      "数据中心",
+      "semiconductor"
+    ],
+    "translated": false,
+    "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm",
+    "published_date": "2026-11-03",
+    "still_developing": false,
+    "cross_ref": ""
+  },
+  {
+    "id": "c267718e9a297fe6",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "08:00",
+    "group": "个股",
+    "title": "CVS Health to split into two separate public companies: Aetna-side healthcare vs. retail pharmacy",
+    "summary": "CVS Health announced November 4 it will create two independent, publicly traded companies. One retains the CVS Health name (housing Aetna, CVS Caremark, Oak Street Health, Signify Health). The other becomes CVS Pharmacy (retail stores, mail pharmacy, MinuteClinic). The tax-free split targets completion H1 2028, reversing the 2018 $78 billion Aetna acquisition.",
+    "why": "CVS分拆是2026年最大的企业重组之一，彻底逆转2018年并购逻辑；对医疗/保险/零售板块重新定价有示范效应；无直接持仓影响但可能带动行业估値重评",
+    "source": "CVS Health IR",
+    "verified": true,
+    "keywords": [
+      "CVS",
+      "healthcare",
+      "分拆",
+      "零售"
+    ],
+    "translated": false,
+    "url": "https://investors.cvshealth.com/news/news-details/2026/CVS-Health-Announces-Intent-to-Create-Two-Distinct-Leaders-in-Healthcare/default.aspx",
+    "published_date": "2026-11-04",
+    "still_developing": false,
+    "cross_ref": ""
+  },
+  {
+    "id": "d097bcf01b4554ad",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "10:00",
+    "group": "个股",
+    "title": "Apple Intelligence to roll out on iPhones in China in December with Alibaba's Qwen backing",
+    "summary": "Apple and Alibaba announced October 31 that Apple Intelligence will launch in China in December, powered by Alibaba Qwen. Qwen will be integrated into Siri, Writing Tools and Visual Intelligence for Chinese users. The iOS 27.3 developer beta started November 4. The deal requires user consent before data is sent to Qwen.",
+    "why": "延续报道：11月4日开发者测试版上线，12月公开发布时间表确认，标志性里程碑持续发酵；对阳《巴巴（9988.HK）利好：通义千问接入Apple Intelligence将显著提升模型知名度和商业化；影响期权策略：短期利好事件已部分兆现",
+    "source": "SCMP",
+    "verified": false,
+    "keywords": [
+      "阳《巴巴",
+      "Apple Intelligence",
+      "通义千问",
+      "Qwen"
+    ],
+    "translated": false,
+    "url": "https://scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing",
+    "published_date": "2026-10-31",
+    "still_developing": true,
+    "cross_ref": ""
+  },
+  {
+    "id": "ff5c841917e8c7eb",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK"
+    ],
+    "time": "09:30",
+    "group": "个股",
+    "title": "《大行》大摩：腾讯(00700.HK)发布Hy4模型 具备视觉及电脑操作更广泛能力",
+    "summary": "腾讯混元团队正式发布Hy4模型，参数量达7700亿，新增视觉理解能力并支持电脑桌面操作（GUI Agent），超越Hy3系列。摩根斯坦利认为该模型在办公协作方面领先国内同类，维持腾讯《增持》评级及目标价HK$550。腾讯股价11月5日大涨9级7%。",
+    "why": "腾讯Hy4正式版发布是重要里程碑，视觉+GUI能力打开AI Agent应用空间；大摩维持$550目标价支撑估倦；11月18日公布Q3业绩前，AI能力持续进化有望推高市场预期",
+    "source": "富途牛牛",
+    "verified": false,
+    "keywords": [
+      "腾讯",
+      "混元",
+      "Hunyuan",
+      "AI"
+    ],
+    "translated": false,
+    "url": "https://news.futunn.com/post/1003518204",
+    "published_date": "2026-11-04",
+    "still_developing": false,
     "cross_ref": ""
   }
 ]
