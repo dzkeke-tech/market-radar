@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-05 18:32 (北京时间)",
+  "updated_at": "2026-11-06 08:23 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,257 +9,226 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-05 18:32 (北京时间)",
-    "new_count": 5,
+    "at": "2026-11-06 08:23 (北京时间)",
+    "new_count": 7,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "2789a856a88a4b1a",
+      "id": "96731ef72e1bc7e9",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
-        "HK",
-        "A"
+        "HK"
       ],
-      "time": "16:30",
+      "time": "08:23",
       "group": "大盘头条",
-      "title": "Dow has best post-midterm elections day in 44 years as Democrats take control of Congress",
-      "summary": "Democrats won decisive control of both chambers of Congress in the November 3 midterms. Dow Jones surged 1,569 points (+3%), its best post-election day since 1982; S&P 500 +1.58%, Nasdaq +1.44%. Oil dropped sharply and bond yields fell as investors re-priced geopolitical risk. The Hang Seng rallied sharply and China internet stocks (Nasdaq Golden Dragon Index +3.49%) followed suit.",
-      "why": "2026年最重大政治事件；民主党控制国会触发全球性风险偏好回升，港股恒生指数同步大涨，中概股强势反弹；短期波动率回落后 sell put 窗口改善",
+      "title": "Wall Street Rout: Nasdaq Falls 5.52%, S&P 500 Drops 4.36%, Philly Semiconductor Index Plunges 12.25% as AI Stocks Melt Down",
+      "summary": "US stocks suffered their worst session since April 2025 as investors sold AI and chip stocks on fears of tighter data-center regulation after Democrats swept the House, Senate, and Texas governorship. The Nasdaq fell 5.52% (entering correction territory), the S&P 500 dropped 4.36%, and the Dow Jones shed 3.44% (over 1,800 points). The Philadelphia Semiconductor Index plunged 12.25%.",
+      "why": "民主党横扫两院与得州，直接触发对AI监管收紧的重定价，自2025年4月来最大单日跌幅；整个AI芯片产业链集体崩盘；期权隐含波动率将大幅飙升，Sell Put持仓行权价缓冲急剧收窄，务必立即回顾保证金水平；英伟达11月17日财报为下一关键催化。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "midterm elections",
-        "中期选举",
         "宏观",
-        "道指"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-      "published_date": "2026-11-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-05",
-      "is_new": true
-    },
-    {
-      "id": "78509e03edfb9bfe",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "新浪美股热点小时报（11月5日）：AI芒片股历史级抛售 AMD Q3破纪录提振情绪 英伟达11月17日财报成最大催化",
-      "summary": "费城半导体指数（SOX）自6月高点累计下跌约29%，纳指2026年三度进入修正区间。AMD Q3 2026实现破纪录营收136亿美元（+45%），盘后大涨提振情绪。英伟达将于11月17日公布Q3 FY27财报，Q3营收指引约1080亿美元，市场视为AI基础设施需求的关键压力测试。",
-      "why": "AI芒片历史级抛售是当前最大市场风险；AMD超预期给了多头喜息机会；英伟达11月17日财报（指引$1080亿）是本月最重要事件，能否兆现直接决定持仓AI芒片方向",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "AI芒片",
-        "semiconductor",
+        "macro",
         "英伟达",
-        "AMD",
-        "宏观"
+        "Nvidia",
+        "美光",
+        "Micron"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908toye.html",
+      "url": "https://www.cnbc.com/2026/11/05/markets-cool-midterm-musk-stocks-under-pressure.html",
       "published_date": "2026-11-05",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-05",
+      "first_seen": "2026-11-06",
       "is_new": true
     },
     {
-      "id": "94772015435447f2",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "14:30",
-      "group": "大盘头条",
-      "title": "午后！A股，超级大反攻！",
-      "summary": "A股11月4日午后强势放量反弹，创业板指涨超1%，光伏、黄金板块领涨，多只光伏股封涨停板，科技与互联网板块同步走强。两市成交额重回2万亿元，呼号V型反弹走势，为近期最强单日表现。",
-      "why": "A股放量大反攻，科技与消费均受益于美国中期选举后的全球风险偏好改善，两市成交恢复正常，市场情绪明显好转",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "光伏",
-        "宏观",
-        "消费"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261104/herald/b6f13bc25202ad9c6a4dd877b823a23b.html",
-      "published_date": "2026-11-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-05",
-      "is_new": true
-    },
-    {
-      "id": "c267718e9a297fe6",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "CVS Health to split into two separate public companies: Aetna-side healthcare vs. retail pharmacy",
-      "summary": "CVS Health announced November 4 it will create two independent, publicly traded companies. One retains the CVS Health name (housing Aetna, CVS Caremark, Oak Street Health, Signify Health). The other becomes CVS Pharmacy (retail stores, mail pharmacy, MinuteClinic). The tax-free split targets completion H1 2028, reversing the 2018 $78 billion Aetna acquisition.",
-      "why": "CVS分拆是2026年最大的企业重组之一，彻底逆转2018年并购逻辑；对医疗/保险/零售板块重新定价有示范效应；无直接持仓影响但可能带动行业估値重评",
-      "source": "CVS Health IR",
-      "verified": true,
-      "keywords": [
-        "CVS",
-        "healthcare",
-        "分拆",
-        "零售"
-      ],
-      "translated": false,
-      "url": "https://investors.cvshealth.com/news/news-details/2026/CVS-Health-Announces-Intent-to-Create-Two-Distinct-Leaders-in-Healthcare/default.aspx",
-      "published_date": "2026-11-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-05",
-      "is_new": true
-    },
-    {
-      "id": "ff5c841917e8c7eb",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "《大行》大摩：腾讯(00700.HK)发布Hy4模型 具备视觉及电脑操作更广泛能力",
-      "summary": "腾讯混元团队正式发布Hy4模型，参数量达7700亿，新增视觉理解能力并支持电脑桌面操作（GUI Agent），超越Hy3系列。摩根斯坦利认为该模型在办公协作方面领先国内同类，维持腾讯《增持》评级及目标价HK$550。腾讯股价11月5日大涨9级7%。",
-      "why": "腾讯Hy4正式版发布是重要里程碑，视觉+GUI能力打开AI Agent应用空间；大摩维持$550目标价支撑估倦；11月18日公布Q3业绩前，AI能力持续进化有望推高市场预期",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "混元",
-        "Hunyuan",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/post/1003518204",
-      "published_date": "2026-11-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-05",
-      "is_new": true
-    },
-    {
-      "id": "ab3d3afd12a856a8",
+      "id": "26d3012260db32ae",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
-        "HK",
-        "A"
+        "HK"
       ],
-      "time": "20:30",
+      "time": "08:23",
       "group": "大盘头条",
-      "title": "Microsoft FQ1 2027 beats: revenue $92.3B (+19%), Azure +48%; stock +4% AH",
-      "summary": "Microsoft reported fiscal Q1 2027 results (quarter ended Sep 30 2026): revenue $92.3B (+19% YoY), Azure cloud revenue $33.2B (+48%), GAAP EPS $4.92 vs consensus $4.73. Microsoft Cloud revenue $63.9B (+30%). Guidance for FQ2: $96.0–97.1B revenue above consensus $95.6B. Free cash flow declined 27% YoY. Stock rose ~4% in extended trading, contrasting sharply with Alphabet's same-night selloff.",
-      "why": "大盘头条；与谷歌同日财报但走势相反——Azure超预期增长48%证明企业AI转型仍在提速；Azure vs Google Cloud的此消彼长直接影响AI基础设施赛道估值，并为持有AI相关标的（英伟达、SK海力士等）的期权策略提供方向性参考。",
-      "source": "CNBC",
+      "title": "Bank of England Raises Rate to 4% — First Hike Since August 2023 — as Inflation Threatens to Approach 5%",
+      "summary": "The Bank of England's MPC voted 8-1 to raise Bank Rate by 25 basis points to 4%, the first increase since August 2023. The BoE warned inflation may approach 5% by mid-2027, driven by elevated energy costs. One MPC member dissented in favour of a 50bp hike.",
+      "why": "英国加息再证全球'higher for longer'格局，与美联储3.75-4%利率并列；结合美股大跌，主要央行同步偏鹰派，对全球风险资产估值形成额外压制，港股及中国互联网科技估值修复需更多内需催化。",
+      "source": "Bank of England",
       "verified": true,
       "keywords": [
-        "Microsoft",
-        "Azure",
-        "cloud",
-        "earnings",
-        "Q1 FY2027",
-        "AI"
+        "宏观",
+        "macro",
+        "利率",
+        "英国央行"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "published_date": "2026-10-28",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "published_date": "2026-11-05",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-29",
-      "is_new": false
+      "first_seen": "2026-11-06",
+      "is_new": true
     },
     {
-      "id": "a133f095ff40d01d",
+      "id": "d507de73e7b54bee",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK",
-        "A"
+        "HK"
       ],
-      "time": "16:30",
+      "time": "08:23",
       "group": "大盘头条",
-      "title": "A股+港股10月29日大幅下挫：创业板跌4.45%、恒生科技跌2.84%，Alphabet财报拖累AI板块",
-      "summary": "10月29日A股三大指数全线收跌：沪指跌0.82%，深成指跌2.92%，创业板指跌4.45%，科创50跌4.27%，全市场超4700只个股下跌，两市成交额约1.57万亿元。港股恒生指数跌0.59%收22958.65点，恒生科技指数跌2.84%；芯片/存储/光通信等硬件科技股全线重挫。Alphabet Q3净利润大幅不及预期（实际EPS $2.12 vs 预期约$2.94）、自由现金流转负(-$90.7亿)，引发市场对AI资本支出回报的担忧。银行股逆势抗跌。",
-      "why": "大盘头条；谷歌财报触发的AI资本支出担忧对整个科技板块定价产生冲击，持有科技期权仓位者需关注隐含波动率上升风险；港股芯片/PCB/存储全线调整也影响相关个股（英伟达、SK海力士）的对冲成本评估。当日重大头条偏少——前一轮（13:20 北京时间）已收录美联储决议、泡泡玛特Q3和SK海力士Q3；Alphabet Q3 CNBC/SEC链接已在seen.json中（前一轮已处理），无法重复推送，Alphabet利空通过本条市场综述体现。",
-      "source": "每日经济新闻(NBD)",
+      "title": "恒生科技指数大涨5.55%创年内最大单日涨幅，网易、小米、阿里、腾讯、美团集体暴涨",
+      "summary": "11月5日港股大幅反弹，恒生科技指数收盘涨5.55%，报4154.29点，创2026年内最大单日涨幅；恒生指数涨3.67%，报24796.98点。网易涨9.07%、小米+8.83%、阿里+8.45%、腾讯+7.17%（五连涨）、美团+6.78%领涨权重股。资金从AI硬件转向估值偏低的中国互联网平台，恒生科技此前远期PE已回落至约13倍。",
+      "why": "港股科技板块与美股AI硬件大幅分化，低估值修复逻辑持续；腾讯五连涨，布局Sell Put可关注430附近支撑区间；HK科技持仓对冲了美股AI崩盘敞口，动态再平衡值得关注。",
+      "source": "21世纪经济报道",
       "verified": true,
       "keywords": [
         "港股",
-        "A股",
-        "创业板",
-        "科创50",
         "恒生科技",
-        "Alphabet",
-        "谷歌财报",
-        "AI资本支出"
+        "腾讯",
+        "阿里巴巴",
+        "美团",
+        "小米"
       ],
       "translated": false,
-      "url": "https://www.nbd.com.cn/articles/2026-10-29/4626962.html",
-      "published_date": "2026-10-29",
+      "url": "https://www.21jingji.com/article/20261105/herald/ac47faa02e29d91875a2c6a252de77d4.html",
+      "published_date": "2026-11-05",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-29",
-      "is_new": false
+      "first_seen": "2026-11-06",
+      "is_new": true
     },
     {
-      "id": "0dfb29892e7f0185",
+      "id": "df40836caf29977d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:23",
+      "group": "大盘头条",
+      "title": "中期选举后民主党高层呼吁限制AI产业扩张：立即暂停全国数据中心建设",
+      "summary": "民主党横扫两院并赢得得州后，党内高层发出新信号，呼吁限制人工智能产业扩张，要求立即暂停全国数据中心建设审批。这是继11月5日AI股历史性崩盘后，监管层面的最新升级动向。",
+      "why": "若立法推进，英伟达、AMD等AI基础设施相关标的的中期估值逻辑将受制度性压制；HBM/存储芯片需求预期亦受压，美光和SK海力士受影响最深；AI方向标的的尾部风险仍未出清，Sell Put行权价建议保守下移。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "macro",
+        "英伟达",
+        "AI芯片",
+        "数据中心",
+        "美光"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixttce5171077.shtml",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
+      "is_new": true
+    },
+    {
+      "id": "288ffbbe663f49b9",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "14:00",
+      "time": "08:23",
+      "group": "个股",
+      "title": "Elon Musk's Record Election Bet Backfires as Tesla and SpaceX Stocks Slide After Democratic Sweep",
+      "summary": "Tesla and SpaceX stocks fell sharply after Democrats swept both chambers of Congress and the Texas governorship. Musk had contributed hundreds of millions to 2026 midterm campaigns backing Republican candidates. With Democrats now controlling the Senate and gaining allies in Texas, analysts warn of new political headwinds for Musk's businesses, including potential congressional investigations and hurdles to Tesla's nationwide robotaxi ambitions. The selloff accelerated further on November 5 as Tesla fell more than 10%.",
+      "why": "延续报道（11月4日起，11月5日进一步加速）：马斯克公司政治敞口大幅上升；特斯拉FSD/机器人出租车全国推广计划面临民主党国会障碍，SpaceX联邦合同与数据中心税收优惠亦受威胁；从期权策略看，特斯拉Sell Put需大幅提高行权价安全边际，或转为观望。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "马斯克",
+        "Musk"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "published_date": "2026-11-04",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
+      "is_new": true
+    },
+    {
+      "id": "f6ec0fa5805c917a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:23",
       "group": "大盘头条",
-      "title": "Fed holds rates at 3.75%-4%; two officials dissent seeking hike; Warsh rejects forward guidance",
-      "summary": "The FOMC kept its benchmark rate at 3.75%-4% on October 28. Chair Kevin Warsh said the Fed does not favor forward guidance and plans fewer press conferences from 2027. Governors Lisa Cook and Cleveland Fed President Beth Hammack dissented, both seeking a 25bp hike. Markets are pricing a December rate hike.",
-      "why": "美联储10月按兵不动符合市场预期，但两票鹰派反对（Cook+Hammack）及12月加息预期上升，将抬高短端利率预期，对科技股估值和sell put隐含波动率均有潜在上行压力。",
+      "title": "AI Data Center Stocks Drop as Democratic Wins in Texas and Congress Raise Regulatory Risk",
+      "summary": "AI data center stocks fell on Wednesday as Democrats won key races including the Texas governorship. Democrat Gina Hinojosa, who campaigned for tighter limits on data center development, won the Texas governorship. Analysts warned that Democrats controlling the Senate would create major hurdles for AI and tech legislation over the next two years.",
+      "why": "此为11月5日大崩盘的前兆信号：得州倒向民主党对特斯拉/SpaceX/数据中心均有直接政策影响；AI数据中心监管风险从'预期担忧'升级为'政策现实'；这是整个AI重定价浪潮的第一波，对英伟达、CoreWeave等相关持仓均有指向意义。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "美联储",
-        "FOMC",
-        "利率",
-        "Kevin Warsh",
-        "宏观"
+        "宏观",
+        "macro",
+        "英伟达",
+        "Nvidia",
+        "AI芯片",
+        "数据中心"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-      "published_date": "2026-10-28",
+      "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+      "published_date": "2026-11-04",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-29",
-      "is_new": false
+      "first_seen": "2026-11-06",
+      "is_new": true
+    },
+    {
+      "id": "68c538f806c9b2b9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:23",
+      "group": "个股",
+      "title": "关税逆风持续，Temu 10月月活用户同比下降18%，连续5个月下滑",
+      "summary": "据美国调查公司Sensor Tower数据，Temu 2026年10月月活用户同比减少18%，已连续5个月下滑；SHEIN同样出现下降趋势。欧盟自7月1日起对150欧元以下进口包裹征税（约3.6欧元/件），叠加计划中的额外清关费，导致欧洲市场商品价格竞争力大幅下降。欧盟在5月对Temu开出2亿欧元罚单亦构成持续压力。",
+      "why": "Temu是拼多多(PDD)核心海外增长引擎，月活持续下滑意味着海外扩张逻辑受损；关税压力短期难以缓解，或影响拼多多整体收入预期；从期权策略看，PDD Sell Put需关注下行空间，建议等待业绩指引确认后再布局。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "拼多多",
+        "PDD",
+        "Pinduoduo",
+        "Temu",
+        "跨境电商"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixpvuw9390369.shtml",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
+      "is_new": true
     },
     {
       "tier": 1,
@@ -1141,6 +1110,68 @@
       "is_new": false
     },
     {
+      "id": "2789a856a88a4b1a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Dow has best post-midterm elections day in 44 years as Democrats take control of Congress",
+      "summary": "Democrats won decisive control of both chambers of Congress in the November 3 midterms. Dow Jones surged 1,569 points (+3%), its best post-election day since 1982; S&P 500 +1.58%, Nasdaq +1.44%. Oil dropped sharply and bond yields fell as investors re-priced geopolitical risk. The Hang Seng rallied sharply and China internet stocks (Nasdaq Golden Dragon Index +3.49%) followed suit.",
+      "why": "2026年最重大政治事件；民主党控制国会触发全球性风险偏好回升，港股恒生指数同步大涨，中概股强势反弹；短期波动率回落后 sell put 窗口改善",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "midterm elections",
+        "中期选举",
+        "宏观",
+        "道指"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
+      "id": "78509e03edfb9bfe",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "新浪美股热点小时报（11月5日）：AI芒片股历史级抛售 AMD Q3破纪录提振情绪 英伟达11月17日财报成最大催化",
+      "summary": "费城半导体指数（SOX）自6月高点累计下跌约29%，纳指2026年三度进入修正区间。AMD Q3 2026实现破纪录营收136亿美元（+45%），盘后大涨提振情绪。英伟达将于11月17日公布Q3 FY27财报，Q3营收指引约1080亿美元，市场视为AI基础设施需求的关键压力测试。",
+      "why": "AI芒片历史级抛售是当前最大市场风险；AMD超预期给了多头喜息机会；英伟达11月17日财报（指引$1080亿）是本月最重要事件，能否兆现直接决定持仓AI芒片方向",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "AI芒片",
+        "semiconductor",
+        "英伟达",
+        "AMD",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908toye.html",
+      "published_date": "2026-11-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
       "id": "c1ae7f4ce20fce65",
       "tier": 1,
       "lang": "zh",
@@ -1303,36 +1334,6 @@
       "cross_ref": "",
       "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
       "first_seen": "2026-11-05",
-      "is_new": false
-    },
-    {
-      "id": "81b5efdc4c1c3860",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "南向资金10月28日净卖出约8亿港元，明显流出泡泡玛特",
-      "summary": "南向资金10月28日港股通合计净卖出约8亿港元，资金主要回流智谱AI相关及中际旭创，明显流出泡泡玛特（9992.HK）。",
-      "why": "南向净卖出对港股短期构成压力，泡泡玛特为持仓重点标的；流出信号提示sell put策略被动接货成本风险需重新评估，应密切关注南向资金流向持续性及下行动量。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "南向资金",
-        "泡泡玛特",
-        "港股",
-        "资金流向",
-        "9992.HK"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/post/1002576770",
-      "published_date": "2026-10-28",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-29",
       "is_new": false
     },
     {
@@ -2262,6 +2263,93 @@
       "translated": false,
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-04",
+      "is_new": false
+    },
+    {
+      "id": "94772015435447f2",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "14:30",
+      "group": "大盘头条",
+      "title": "午后！A股，超级大反攻！",
+      "summary": "A股11月4日午后强势放量反弹，创业板指涨超1%，光伏、黄金板块领涨，多只光伏股封涨停板，科技与互联网板块同步走强。两市成交额重回2万亿元，呼号V型反弹走势，为近期最强单日表现。",
+      "why": "A股放量大反攻，科技与消费均受益于美国中期选举后的全球风险偏好改善，两市成交恢复正常，市场情绪明显好转",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "光伏",
+        "宏观",
+        "消费"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261104/herald/b6f13bc25202ad9c6a4dd877b823a23b.html",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
+      "id": "c267718e9a297fe6",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "CVS Health to split into two separate public companies: Aetna-side healthcare vs. retail pharmacy",
+      "summary": "CVS Health announced November 4 it will create two independent, publicly traded companies. One retains the CVS Health name (housing Aetna, CVS Caremark, Oak Street Health, Signify Health). The other becomes CVS Pharmacy (retail stores, mail pharmacy, MinuteClinic). The tax-free split targets completion H1 2028, reversing the 2018 $78 billion Aetna acquisition.",
+      "why": "CVS分拆是2026年最大的企业重组之一，彻底逆转2018年并购逻辑；对医疗/保险/零售板块重新定价有示范效应；无直接持仓影响但可能带动行业估値重评",
+      "source": "CVS Health IR",
+      "verified": true,
+      "keywords": [
+        "CVS",
+        "healthcare",
+        "分拆",
+        "零售"
+      ],
+      "translated": false,
+      "url": "https://investors.cvshealth.com/news/news-details/2026/CVS-Health-Announces-Intent-to-Create-Two-Distinct-Leaders-in-Healthcare/default.aspx",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
+      "id": "ff5c841917e8c7eb",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "《大行》大摩：腾讯(00700.HK)发布Hy4模型 具备视觉及电脑操作更广泛能力",
+      "summary": "腾讯混元团队正式发布Hy4模型，参数量达7700亿，新增视觉理解能力并支持电脑桌面操作（GUI Agent），超越Hy3系列。摩根斯坦利认为该模型在办公协作方面领先国内同类，维持腾讯《增持》评级及目标价HK$550。腾讯股价11月5日大涨9级7%。",
+      "why": "腾讯Hy4正式版发布是重要里程碑，视觉+GUI能力打开AI Agent应用空间；大摩维持$550目标价支撑估倦；11月18日公布Q3业绩前，AI能力持续进化有望推高市场预期",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "混元",
+        "Hunyuan",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/1003518204",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-05",
       "is_new": false
     },
     {
