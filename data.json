@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-06 08:23 (北京时间)",
+  "updated_at": "2026-11-06 13:26 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,37 +9,40 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-06 08:23 (北京时间)",
-    "new_count": 7,
+    "at": "2026-11-06 13:26 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "96731ef72e1bc7e9",
+      "id": "8469fc08037673b2",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "08:23",
+      "time": "13:30",
       "group": "大盘头条",
-      "title": "Wall Street Rout: Nasdaq Falls 5.52%, S&P 500 Drops 4.36%, Philly Semiconductor Index Plunges 12.25% as AI Stocks Melt Down",
-      "summary": "US stocks suffered their worst session since April 2025 as investors sold AI and chip stocks on fears of tighter data-center regulation after Democrats swept the House, Senate, and Texas governorship. The Nasdaq fell 5.52% (entering correction territory), the S&P 500 dropped 4.36%, and the Dow Jones shed 3.44% (over 1,800 points). The Philadelphia Semiconductor Index plunged 12.25%.",
-      "why": "民主党横扫两院与得州，直接触发对AI监管收紧的重定价，自2025年4月来最大单日跌幅；整个AI芯片产业链集体崩盘；期权隐含波动率将大幅飙升，Sell Put持仓行权价缓冲急剧收窄，务必立即回顾保证金水平；英伟达11月17日财报为下一关键催化。",
+      "title": "Nasdaq plunges 5.52%, S&P 500 falls 4.36% as Democratic midterm sweep triggers AI regulation fears and chip-stock rout",
+      "summary": "2026年11月5日美股遭历史性抛售：纳斯达克暴跌5.52%，标普500跌4.36%，道指重挫逾1800点。民主党横扫参众两院，市场担忧其强化AI数据中心监管及加税；VIX骤升，英伟达单日跌9.2%，AMD与美光均跌逾17%，SOX半导体指数跌超12%。",
+      "why": "民主党大胜使AI算力监管风险从尾部变为基准情景：数据中心能耗限制或科技加税若落地，将直接压制英伟达、美光等算力链估值；港股科技板块（腾讯、小米、阿里等）同步承压；VIX骤升令近月Sell Put尾部风险大增，须重新审视行权价安全边际。",
       "source": "CNBC",
-      "verified": true,
+      "verified": false,
       "keywords": [
-        "宏观",
-        "macro",
+        "纳斯达克",
+        "AI芯片",
         "英伟达",
         "Nvidia",
         "美光",
-        "Micron"
+        "Micron",
+        "宏观",
+        "macro",
+        "midterm elections"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/05/markets-cool-midterm-musk-stocks-under-pressure.html",
+      "url": "https://cnbc.com/2026/11/05/stock-market-today-live-updates.html",
       "published_date": "2026-11-05",
       "still_developing": false,
       "cross_ref": "",
@@ -48,120 +51,99 @@
       "is_new": true
     },
     {
-      "id": "26d3012260db32ae",
+      "id": "ecb4af48d2213b3a",
       "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "13:30",
+      "group": "大盘头条",
+      "title": "Japan's Nikkei breaks below key 60,000 level on AI selloff; South Korea's KOSPI triggers circuit breaker",
+      "summary": "2026年11月6日（今日），日经225指数盘中跌破60000点，逼近技术性熊市；韩国KOSPI单日跌幅逾8%，触发熔断机制。亚太股市跟随美国大选引发的AI监管恐慌，算力相关板块全线抛售。",
+      "why": "日韩是亚太AI算力产业链核心（SK海力士HBM、三星DRAM）；KOSPI熔断与Nikkei破60000双重信号显示AI交易正在去杠杆，港股今日开盘压力未减；SK海力士港股通产品（南方两倍做多）以及英伟达相关仓位均需关注尾部风险。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "日经",
+        "Nikkei",
+        "KOSPI",
+        "韩国",
+        "SK海力士",
+        "AI芯片",
+        "宏观",
+        "亚太"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "https://cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-11-06",
+      "is_new": true
+    },
+    {
+      "id": "c2f1c9882ac0b45f",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "13:30",
+      "group": "大盘头条",
+      "title": "Hang Seng index briefly slips below 23,000; Alibaba leads tech sell-off to 16-month low",
+      "summary": "2026年11月5日（周四），恒生指数盘中短暂跌破23000点关口，收盘跌1.4%至23076点；阿里巴巴领跌港股科技板块，创16个月新低；恒生科技指数同步下跌。恒指本周累计跌幅逾5%，创逾一年最大单周跌幅。",
+      "why": "恒指23000为关键技术支撑位，失守将加速止损盘涌出；阿里巴巴（9988.HK）16个月低点对已持仓的Sell Put构成行权压力，需评估下行空间；结合日韩熔断，今日（11月6日）港股开盘或进一步承压，建议关注21500-22000区域支撑。",
+      "source": "South China Morning Post",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "阿里巴巴",
+        "Alibaba",
+        "9988.HK",
+        "BABA",
+        "宏观",
+        "HK"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/china-business/article/3358314/hang-seng-index-briefly-slips-below-23000-alibaba-leads-tech-sell",
+      "published_date": "2026-11-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
+      "is_new": true
+    },
+    {
+      "id": "e6833d9988022cab",
+      "tier": 2,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "08:23",
+      "time": "13:30",
       "group": "大盘头条",
-      "title": "Bank of England Raises Rate to 4% — First Hike Since August 2023 — as Inflation Threatens to Approach 5%",
-      "summary": "The Bank of England's MPC voted 8-1 to raise Bank Rate by 25 basis points to 4%, the first increase since August 2023. The BoE warned inflation may approach 5% by mid-2027, driven by elevated energy costs. One MPC member dissented in favour of a 50bp hike.",
-      "why": "英国加息再证全球'higher for longer'格局，与美联储3.75-4%利率并列；结合美股大跌，主要央行同步偏鹰派，对全球风险资产估值形成额外压制，港股及中国互联网科技估值修复需更多内需催化。",
-      "source": "Bank of England",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro",
-        "利率",
-        "英国央行"
-      ],
-      "translated": false,
-      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
-      "published_date": "2026-11-05",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-06",
-      "is_new": true
-    },
-    {
-      "id": "d507de73e7b54bee",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "08:23",
-      "group": "大盘头条",
-      "title": "恒生科技指数大涨5.55%创年内最大单日涨幅，网易、小米、阿里、腾讯、美团集体暴涨",
-      "summary": "11月5日港股大幅反弹，恒生科技指数收盘涨5.55%，报4154.29点，创2026年内最大单日涨幅；恒生指数涨3.67%，报24796.98点。网易涨9.07%、小米+8.83%、阿里+8.45%、腾讯+7.17%（五连涨）、美团+6.78%领涨权重股。资金从AI硬件转向估值偏低的中国互联网平台，恒生科技此前远期PE已回落至约13倍。",
-      "why": "港股科技板块与美股AI硬件大幅分化，低估值修复逻辑持续；腾讯五连涨，布局Sell Put可关注430附近支撑区间；HK科技持仓对冲了美股AI崩盘敞口，动态再平衡值得关注。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "恒生科技",
-        "腾讯",
-        "阿里巴巴",
-        "美团",
-        "小米"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261105/herald/ac47faa02e29d91875a2c6a252de77d4.html",
-      "published_date": "2026-11-05",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-06",
-      "is_new": true
-    },
-    {
-      "id": "df40836caf29977d",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:23",
-      "group": "大盘头条",
-      "title": "中期选举后民主党高层呼吁限制AI产业扩张：立即暂停全国数据中心建设",
-      "summary": "民主党横扫两院并赢得得州后，党内高层发出新信号，呼吁限制人工智能产业扩张，要求立即暂停全国数据中心建设审批。这是继11月5日AI股历史性崩盘后，监管层面的最新升级动向。",
-      "why": "若立法推进，英伟达、AMD等AI基础设施相关标的的中期估值逻辑将受制度性压制；HBM/存储芯片需求预期亦受压，美光和SK海力士受影响最深；AI方向标的的尾部风险仍未出清，Sell Put行权价建议保守下移。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "macro",
-        "英伟达",
-        "AI芯片",
-        "数据中心",
-        "美光"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixttce5171077.shtml",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-06",
-      "is_new": true
-    },
-    {
-      "id": "288ffbbe663f49b9",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:23",
-      "group": "个股",
-      "title": "Elon Musk's Record Election Bet Backfires as Tesla and SpaceX Stocks Slide After Democratic Sweep",
-      "summary": "Tesla and SpaceX stocks fell sharply after Democrats swept both chambers of Congress and the Texas governorship. Musk had contributed hundreds of millions to 2026 midterm campaigns backing Republican candidates. With Democrats now controlling the Senate and gaining allies in Texas, analysts warn of new political headwinds for Musk's businesses, including potential congressional investigations and hurdles to Tesla's nationwide robotaxi ambitions. The selloff accelerated further on November 5 as Tesla fell more than 10%.",
-      "why": "延续报道（11月4日起，11月5日进一步加速）：马斯克公司政治敞口大幅上升；特斯拉FSD/机器人出租车全国推广计划面临民主党国会障碍，SpaceX联邦合同与数据中心税收优惠亦受威胁；从期权策略看，特斯拉Sell Put需大幅提高行权价安全边际，或转为观望。",
+      "title": "Apple and other big-cap tech stocks surge after 2026 midterm elections as hyperscalers seen gaining regulatory clarity",
+      "summary": "2026年11月4日选举结果确认后，苹果、谷歌、微软、Meta等超大市值科技股逆势上涨，市场认为民主党胜选为云超算平台带来监管确定性，消除了共和党可能拆分大型科技的不确定性。与此同时，英伟达、AMD等算力芯片股11月5日反转暴跌，市场对AI监管解读从「利好」切换至「利空」。",
+      "why": "超大市值科技（谷歌GOOGL）与AI算力芯片出现明显分化，对组合配置有指引意义；仍在发酵：11月5-6日暴跌证明市场解读仍在演化，需密切跟踪民主党具体AI监管政策文本；谷歌/Alphabet港股（短期溢出效应）宜关注。",
       "source": "CNBC",
       "verified": false,
       "keywords": [
-        "特斯拉",
-        "Tesla",
-        "TSLA",
-        "马斯克",
-        "Musk"
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "宏观",
+        "macro",
+        "midterm elections",
+        "科技"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
       "published_date": "2026-11-04",
       "still_developing": true,
       "cross_ref": "",
@@ -170,60 +152,32 @@
       "is_new": true
     },
     {
-      "id": "f6ec0fa5805c917a",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:23",
-      "group": "大盘头条",
-      "title": "AI Data Center Stocks Drop as Democratic Wins in Texas and Congress Raise Regulatory Risk",
-      "summary": "AI data center stocks fell on Wednesday as Democrats won key races including the Texas governorship. Democrat Gina Hinojosa, who campaigned for tighter limits on data center development, won the Texas governorship. Analysts warned that Democrats controlling the Senate would create major hurdles for AI and tech legislation over the next two years.",
-      "why": "此为11月5日大崩盘的前兆信号：得州倒向民主党对特斯拉/SpaceX/数据中心均有直接政策影响；AI数据中心监管风险从'预期担忧'升级为'政策现实'；这是整个AI重定价浪潮的第一波，对英伟达、CoreWeave等相关持仓均有指向意义。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro",
-        "英伟达",
-        "Nvidia",
-        "AI芯片",
-        "数据中心"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-      "published_date": "2026-11-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-06",
-      "is_new": true
-    },
-    {
-      "id": "68c538f806c9b2b9",
+      "id": "b2183218e70ba072",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "US"
+        "HK",
+        "A"
       ],
-      "time": "08:23",
-      "group": "个股",
-      "title": "关税逆风持续，Temu 10月月活用户同比下降18%，连续5个月下滑",
-      "summary": "据美国调查公司Sensor Tower数据，Temu 2026年10月月活用户同比减少18%，已连续5个月下滑；SHEIN同样出现下降趋势。欧盟自7月1日起对150欧元以下进口包裹征税（约3.6欧元/件），叠加计划中的额外清关费，导致欧洲市场商品价格竞争力大幅下降。欧盟在5月对Temu开出2亿欧元罚单亦构成持续压力。",
-      "why": "Temu是拼多多(PDD)核心海外增长引擎，月活持续下滑意味着海外扩张逻辑受损；关税压力短期难以缓解，或影响拼多多整体收入预期；从期权策略看，PDD Sell Put需关注下行空间，建议等待业绩指引确认后再布局。",
+      "time": "13:30",
+      "group": "大盘头条",
+      "title": "双十一购物节全面启动，即时零售成A股最大亮点，美团闪购领涨",
+      "summary": "双十一购物节全面启动，即时零售赛道成为A股与港股消费板块重要催化，以美团闪购为代表的即时配送概念股领涨；阿里巴巴淘天、京东等传统电商亦受备货逻辑带动。",
+      "why": "双十一是消费板块全年最重要催化剂之一；即时零售（美团闪购/Keeta）增长逻辑延续，若11月11日当日GMV数据超预期，美团（3690.HK）有补涨空间；叠加全球市场大跌背景，消费板块可作防御性配置参考。",
       "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "拼多多",
-        "PDD",
-        "Pinduoduo",
-        "Temu",
-        "跨境电商"
+        "双十一",
+        "美团",
+        "Meituan",
+        "即时零售",
+        "阿里巴巴",
+        "消费",
+        "A股"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixpvuw9390369.shtml",
-      "published_date": "2026-11-04",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-05/doc-inixsrrw9470521.shtml",
+      "published_date": "2026-11-05",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1337,6 +1291,160 @@
       "is_new": false
     },
     {
+      "id": "96731ef72e1bc7e9",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:23",
+      "group": "大盘头条",
+      "title": "Wall Street Rout: Nasdaq Falls 5.52%, S&P 500 Drops 4.36%, Philly Semiconductor Index Plunges 12.25% as AI Stocks Melt Down",
+      "summary": "US stocks suffered their worst session since April 2025 as investors sold AI and chip stocks on fears of tighter data-center regulation after Democrats swept the House, Senate, and Texas governorship. The Nasdaq fell 5.52% (entering correction territory), the S&P 500 dropped 4.36%, and the Dow Jones shed 3.44% (over 1,800 points). The Philadelphia Semiconductor Index plunged 12.25%.",
+      "why": "民主党横扫两院与得州，直接触发对AI监管收紧的重定价，自2025年4月来最大单日跌幅；整个AI芯片产业链集体崩盘；期权隐含波动率将大幅飙升，Sell Put持仓行权价缓冲急剧收窄，务必立即回顾保证金水平；英伟达11月17日财报为下一关键催化。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro",
+        "英伟达",
+        "Nvidia",
+        "美光",
+        "Micron"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/05/markets-cool-midterm-musk-stocks-under-pressure.html",
+      "published_date": "2026-11-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
+      "is_new": false
+    },
+    {
+      "id": "26d3012260db32ae",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:23",
+      "group": "大盘头条",
+      "title": "Bank of England Raises Rate to 4% — First Hike Since August 2023 — as Inflation Threatens to Approach 5%",
+      "summary": "The Bank of England's MPC voted 8-1 to raise Bank Rate by 25 basis points to 4%, the first increase since August 2023. The BoE warned inflation may approach 5% by mid-2027, driven by elevated energy costs. One MPC member dissented in favour of a 50bp hike.",
+      "why": "英国加息再证全球'higher for longer'格局，与美联储3.75-4%利率并列；结合美股大跌，主要央行同步偏鹰派，对全球风险资产估值形成额外压制，港股及中国互联网科技估值修复需更多内需催化。",
+      "source": "Bank of England",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro",
+        "利率",
+        "英国央行"
+      ],
+      "translated": false,
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "published_date": "2026-11-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
+      "is_new": false
+    },
+    {
+      "id": "d507de73e7b54bee",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:23",
+      "group": "大盘头条",
+      "title": "恒生科技指数大涨5.55%创年内最大单日涨幅，网易、小米、阿里、腾讯、美团集体暴涨",
+      "summary": "11月5日港股大幅反弹，恒生科技指数收盘涨5.55%，报4154.29点，创2026年内最大单日涨幅；恒生指数涨3.67%，报24796.98点。网易涨9.07%、小米+8.83%、阿里+8.45%、腾讯+7.17%（五连涨）、美团+6.78%领涨权重股。资金从AI硬件转向估值偏低的中国互联网平台，恒生科技此前远期PE已回落至约13倍。",
+      "why": "港股科技板块与美股AI硬件大幅分化，低估值修复逻辑持续；腾讯五连涨，布局Sell Put可关注430附近支撑区间；HK科技持仓对冲了美股AI崩盘敞口，动态再平衡值得关注。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生科技",
+        "腾讯",
+        "阿里巴巴",
+        "美团",
+        "小米"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261105/herald/ac47faa02e29d91875a2c6a252de77d4.html",
+      "published_date": "2026-11-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
+      "is_new": false
+    },
+    {
+      "id": "df40836caf29977d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:23",
+      "group": "大盘头条",
+      "title": "中期选举后民主党高层呼吁限制AI产业扩张：立即暂停全国数据中心建设",
+      "summary": "民主党横扫两院并赢得得州后，党内高层发出新信号，呼吁限制人工智能产业扩张，要求立即暂停全国数据中心建设审批。这是继11月5日AI股历史性崩盘后，监管层面的最新升级动向。",
+      "why": "若立法推进，英伟达、AMD等AI基础设施相关标的的中期估值逻辑将受制度性压制；HBM/存储芯片需求预期亦受压，美光和SK海力士受影响最深；AI方向标的的尾部风险仍未出清，Sell Put行权价建议保守下移。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "macro",
+        "英伟达",
+        "AI芯片",
+        "数据中心",
+        "美光"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixttce5171077.shtml",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
+      "is_new": false
+    },
+    {
+      "id": "288ffbbe663f49b9",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:23",
+      "group": "个股",
+      "title": "Elon Musk's Record Election Bet Backfires as Tesla and SpaceX Stocks Slide After Democratic Sweep",
+      "summary": "Tesla and SpaceX stocks fell sharply after Democrats swept both chambers of Congress and the Texas governorship. Musk had contributed hundreds of millions to 2026 midterm campaigns backing Republican candidates. With Democrats now controlling the Senate and gaining allies in Texas, analysts warn of new political headwinds for Musk's businesses, including potential congressional investigations and hurdles to Tesla's nationwide robotaxi ambitions. The selloff accelerated further on November 5 as Tesla fell more than 10%.",
+      "why": "延续报道（11月4日起，11月5日进一步加速）：马斯克公司政治敞口大幅上升；特斯拉FSD/机器人出租车全国推广计划面临民主党国会障碍，SpaceX联邦合同与数据中心税收优惠亦受威胁；从期权策略看，特斯拉Sell Put需大幅提高行权价安全边际，或转为观望。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "马斯克",
+        "Musk"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "published_date": "2026-11-04",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
+      "is_new": false
+    },
+    {
       "tier": 2,
       "lang": "en",
       "markets": [
@@ -2413,6 +2521,67 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
+      "id": "f6ec0fa5805c917a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:23",
+      "group": "大盘头条",
+      "title": "AI Data Center Stocks Drop as Democratic Wins in Texas and Congress Raise Regulatory Risk",
+      "summary": "AI data center stocks fell on Wednesday as Democrats won key races including the Texas governorship. Democrat Gina Hinojosa, who campaigned for tighter limits on data center development, won the Texas governorship. Analysts warned that Democrats controlling the Senate would create major hurdles for AI and tech legislation over the next two years.",
+      "why": "此为11月5日大崩盘的前兆信号：得州倒向民主党对特斯拉/SpaceX/数据中心均有直接政策影响；AI数据中心监管风险从'预期担忧'升级为'政策现实'；这是整个AI重定价浪潮的第一波，对英伟达、CoreWeave等相关持仓均有指向意义。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro",
+        "英伟达",
+        "Nvidia",
+        "AI芯片",
+        "数据中心"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
+      "is_new": false
+    },
+    {
+      "id": "68c538f806c9b2b9",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:23",
+      "group": "个股",
+      "title": "关税逆风持续，Temu 10月月活用户同比下降18%，连续5个月下滑",
+      "summary": "据美国调查公司Sensor Tower数据，Temu 2026年10月月活用户同比减少18%，已连续5个月下滑；SHEIN同样出现下降趋势。欧盟自7月1日起对150欧元以下进口包裹征税（约3.6欧元/件），叠加计划中的额外清关费，导致欧洲市场商品价格竞争力大幅下降。欧盟在5月对Temu开出2亿欧元罚单亦构成持续压力。",
+      "why": "Temu是拼多多(PDD)核心海外增长引擎，月活持续下滑意味着海外扩张逻辑受损；关税压力短期难以缓解，或影响拼多多整体收入预期；从期权策略看，PDD Sell Put需关注下行空间，建议等待业绩指引确认后再布局。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "拼多多",
+        "PDD",
+        "Pinduoduo",
+        "Temu",
+        "跨境电商"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixpvuw9390369.shtml",
+      "published_date": "2026-11-04",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-06",
       "is_new": false
     },
     {
