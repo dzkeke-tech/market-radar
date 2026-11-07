@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-07 08:20 (北京时间)",
+  "updated_at": "2026-11-07 13:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,65 +9,70 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-07 08:20 (北京时间)",
+    "at": "2026-11-07 13:19 (北京时间)",
     "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "ca96b3249ee4c789",
+      "id": "fbc52dd3edec962f",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "21:35",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "US October Jobs: +165K vs +65K Expected; Unemployment Falls to 4.1%; December Rate Hike Odds Surge",
-      "summary": "The U.S. added 165,000 jobs in October, more than twice the 65,000 consensus estimate. Unemployment fell to 4.1% from 4.2%, and wages grew 3.1% year-over-year vs 2.9% expected, with prior months revised up 84,000 combined. Fed funds futures repriced sharply toward a 25bp December rate hike at the Dec 8–9 FOMC.",
-      "why": "10月非农大幅超预期（16.5万 vs 预期6.5万），12月加息预期明显升温；对全球权益资产（尤其科技/成长股）构成估值压力，黄金及比特币盘后应声回落。上一轮运行（18:23北京时间）已覆盖大部分11月6日盘中头条，本轮主要补充非农实际数据及美股收盘数据，当轮新增大盘头条相对偏少。",
-      "source": "Reuters",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "加息",
-        "非农就业",
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/economy/policy/articles/traders-raise-bets-fed-rate-134402668.html",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-07",
-      "is_new": true
-    },
-    {
-      "id": "693964d10475184a",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "05:30",
-      "group": "大盘头条",
-      "title": "US Stocks Friday: Nasdaq +1.1%, Chip Stocks Rebound; But Week Worst Since April 2025 Tariff Shock (S&P -2.7%, Nasdaq -3.4%)",
-      "summary": "Friday, Nov. 6: Nasdaq +1.1% to 24,579, S&P 500 +0.3% to 7,377, Dow -0.5% to 51,286 as semiconductors (AMD, Intel) bounced. For the week: S&P -2.7%, Nasdaq -3.4% (fourth straight weekly decline), the worst weekly performance since the April 2025 tariff shock.",
-      "why": "芯片股周五逢低反弹（AMD、Intel领涨），但本周科技/AI板块整体为2025年4月关税冲击以来最差周表现；期权策略需关注波动率尚未平息、板块超跌后反弹持续性待验证，sell put者需审视行权价安全边际。",
-      "source": "AP Business",
+      "title": "Tesla to Wind Down Cybertruck Production by Mid-2027, Clearing Texas Factory for Cybercab Robotaxi",
+      "summary": "Elon Musk announced that Tesla will cease Cybertruck production at its Texas Gigafactory by mid-2027 to repurpose the facility for Cybercab robotaxi manufacturing. Cybertruck deliveries have run at roughly 25,000/year, only ~10% of the initial 250,000/year target.",
+      "why": "特斯拉明确宣布Cybertruck将停产，转向Robotaxi战略，标志着马斯克对消费电动车策略的重大转向；对特斯拉TSLA股价短期存在不确定性——Cybertruck高客单价贡献减少，但自动驾驶/Robotaxi叙事强化。对电动车整体赛道也是重要信号。Bloomberg为硬墙源，未找到CNBC/SCMP交叉引用，verified设为false。",
+      "source": "Bloomberg",
       "verified": false,
       "keywords": [
-        "美股",
-        "纳指",
-        "芯片股",
-        "宏观",
-        "semiconductor"
+        "特斯拉",
+        "Tesla",
+        "TSLA",
+        "Cybertruck",
+        "Robotaxi",
+        "Cybercab",
+        "马斯克"
       ],
       "translated": false,
-      "url": "https://krmg.com/2026/11/06/how-major-us-stock-indexes-fared-friday-11-6-2026/",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/tesla-to-wind-down-cybertruck-production-in-texas-next-year",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-11-07",
+      "is_new": true
+    },
+    {
+      "id": "76410bd56a97ae9c",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "PBOC Pledges to Expand Swap Facility Participation and Lower Fees as China Market Slide Defies Prior Rescue Efforts",
+      "summary": "China's central bank pledged fresh support for equities, including expanding participation in its securities swap facility and reducing associated fees, as the CSI 300 extended its losing streak despite earlier policy interventions. The SCMP noted that the market slide has persisted even after three rounds of SFISF operations and rate cuts.",
+      "why": "继11月3日第三轮互换便利操作后，央行再次表态将扩大参与机构范围、降低换券费用，显示政策层将继续用工具托底A股和港股。与此前data.json中已收录的互换便利第三次操作（11月3日）和潘功胜维稳表态（11月4日）不同，本条是SCMP对救市效果存疑背景下央行进一步承诺的独立新报道。SCMP为白名单媒体，无需cross_ref；具体数字未与PBOC官网一一核对，verified=false。",
+      "source": "South China Morning Post",
+      "verified": false,
+      "keywords": [
+        "PBOC",
+        "互换便利",
+        "SFISF",
+        "A股",
+        "港股",
+        "资本市场",
+        "CSI300"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/china-business/article/3373166/pboc-pledges-support-stocks-chinas-market-slide-defies-rescue-efforts",
       "published_date": "2026-11-06",
       "still_developing": false,
       "cross_ref": "",
@@ -76,29 +81,32 @@
       "is_new": true
     },
     {
-      "id": "f3b3c8c477e71f98",
+      "id": "df0de103041c2f75",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "A"
+        "US"
       ],
-      "time": "07:10",
+      "time": "11:00",
       "group": "大盘头条",
-      "title": "A股11月6日收评：三大指数全线收跌，创业板跌近4%，CPO概念股重挫，成交额1.67万亿",
-      "summary": "11月6日A股三大指数全线收跌：沪指跌1.10%，深证成指跌2.57%，创业板指跌3.96%。通信设备板块领跌，多只CPO（光纤连接器）概念股大幅下挫，全市场成交额约1.67万亿元。",
-      "why": "AI硬件退潮叠加美股科技大跌后遗效应，CPO及算力相关概念股持续承压；A股科技/成长仓位需留意下行风险，若持有相关标的的卖出期权策略，应检查行权价下档是否有足够缓冲。",
+      "title": "谷歌K-12 AI捆绑争议：学校若关闭Gemini，学生将失去Google搜索访问权限",
+      "summary": "谷歌宣布，K-12学校若选择禁用Gemini AI，学生将同步失去Google搜索的访问权限，二者强制绑定。前FTC主席莉娜·汗公开批评此举是滥用搜索垄断地位、将AI服务强行推入教育市场，构成反垄断违规。",
+      "why": "谷歌利用搜索垄断强推Gemini AI至K-12教育市场，此举引发前监管官员反垄断质疑；若触发新一轮调查或立法跟进，将对Alphabet（GOOGL）造成监管压力，可能影响AI商业化路径预期和估值。仅一个白名单媒体来源，verified=false。",
       "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "A股",
-        "创业板",
-        "CPO",
-        "科技",
-        "算力"
+        "谷歌",
+        "Google",
+        "Alphabet",
+        "GOOGL",
+        "Gemini",
+        "K-12",
+        "反垄断",
+        "AI捆绑"
       ],
       "translated": false,
-      "url": "https://k.sina.cn/article_7857201856_1d45362c001908txji.html",
-      "published_date": "2026-11-07",
+      "url": "https://finance.sina.cn/tech/2026-11-05/detail-inixsmiu5627340.d.html",
+      "published_date": "2026-11-05",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -106,30 +114,31 @@
       "is_new": true
     },
     {
-      "id": "cdae7c67124f4506",
+      "id": "8999d897006b0850",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "14:30",
+      "time": "10:00",
       "group": "个股",
-      "title": "《大行》里昂：腾讯(00700.HK)目标价740→685港元，AI开支拖累Q3利润；三季报11月18日披露",
-      "summary": "里昂证券（CLSA）将腾讯控股目标价由740港元下调至685港元，维持「高确信跑赢大市」评级；下调2026/27年经调整净利润预测3%/7%，预计AI投资加速将使Q3经调整EBIT同比下降约2%至713亿元人民币。腾讯Q3业绩将于11月18日披露。",
-      "why": "三季报披露前里昂率先下调目标价，AI重投入对近期利润拖累的预期趋于一致；11月18日三季报前隐含波动率或持续走高，持有腾讯期权的投资者宜关注covered call行权价设置，或考虑三季报前适当平仓以规避短期波动。",
-      "source": "富途牛牛",
-      "verified": false,
+      "title": "海底捞控股股东张勇提前22天全额偿还公司贷款，解除流动性担忧",
+      "summary": "海底捞（6862.HK）控股股东张勇于11月2日提前全额偿还向公司的贷款本息（原最高1亿元人民币、30天期），仅持款22天即归还，消息披露后11月3日股价涨6.43%。",
+      "why": "控股股东提前还款是明确的正面信号，解除市场对张勇个人流动性压力的担忧；叠加此前海底捞回购操作，大股东与上市公司关系趋稳健。事件已于11月2日发布公告，属5天内事件，股价反应仍在持续，still_developing=true。已通过HKEXnews官方公告及白名单媒体21经济报道交叉确认，verified=true。",
+      "source": "21世纪经济报道",
+      "verified": true,
       "keywords": [
-        "腾讯",
-        "里昂",
-        "目标价",
-        "AI开支",
-        "港股"
+        "海底捞",
+        "Haidilao",
+        "6862.HK",
+        "张勇",
+        "还款",
+        "控股股东"
       ],
       "translated": false,
-      "url": "https://news.futunn.com/en/post/1003677838/clsa-downgrades-tencent-00700-target-price-to-hkd-685-maintains",
-      "published_date": "2026-11-06",
-      "still_developing": false,
+      "url": "https://m.21jingji.com/article/20261102/herald/19093e557a00b24875444139f91bba6e.html",
+      "published_date": "2026-11-02",
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-07",
@@ -1494,6 +1503,66 @@
       "is_new": false
     },
     {
+      "id": "ca96b3249ee4c789",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:35",
+      "group": "大盘头条",
+      "title": "US October Jobs: +165K vs +65K Expected; Unemployment Falls to 4.1%; December Rate Hike Odds Surge",
+      "summary": "The U.S. added 165,000 jobs in October, more than twice the 65,000 consensus estimate. Unemployment fell to 4.1% from 4.2%, and wages grew 3.1% year-over-year vs 2.9% expected, with prior months revised up 84,000 combined. Fed funds futures repriced sharply toward a 25bp December rate hike at the Dec 8–9 FOMC.",
+      "why": "10月非农大幅超预期（16.5万 vs 预期6.5万），12月加息预期明显升温；对全球权益资产（尤其科技/成长股）构成估值压力，黄金及比特币盘后应声回落。上一轮运行（18:23北京时间）已覆盖大部分11月6日盘中头条，本轮主要补充非农实际数据及美股收盘数据，当轮新增大盘头条相对偏少。",
+      "source": "Reuters",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "加息",
+        "非农就业",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://finance.yahoo.com/economy/policy/articles/traders-raise-bets-fed-rate-134402668.html",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-07",
+      "is_new": false
+    },
+    {
+      "id": "693964d10475184a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "05:30",
+      "group": "大盘头条",
+      "title": "US Stocks Friday: Nasdaq +1.1%, Chip Stocks Rebound; But Week Worst Since April 2025 Tariff Shock (S&P -2.7%, Nasdaq -3.4%)",
+      "summary": "Friday, Nov. 6: Nasdaq +1.1% to 24,579, S&P 500 +0.3% to 7,377, Dow -0.5% to 51,286 as semiconductors (AMD, Intel) bounced. For the week: S&P -2.7%, Nasdaq -3.4% (fourth straight weekly decline), the worst weekly performance since the April 2025 tariff shock.",
+      "why": "芯片股周五逢低反弹（AMD、Intel领涨），但本周科技/AI板块整体为2025年4月关税冲击以来最差周表现；期权策略需关注波动率尚未平息、板块超跌后反弹持续性待验证，sell put者需审视行权价安全边际。",
+      "source": "AP Business",
+      "verified": false,
+      "keywords": [
+        "美股",
+        "纳指",
+        "芯片股",
+        "宏观",
+        "semiconductor"
+      ],
+      "translated": false,
+      "url": "https://krmg.com/2026/11/06/how-major-us-stock-indexes-fared-friday-11-6-2026/",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-07",
+      "is_new": false
+    },
+    {
       "id": "740aaa4a0f201b64",
       "tier": 2,
       "lang": "en",
@@ -2510,6 +2579,66 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-06",
+      "is_new": false
+    },
+    {
+      "id": "f3b3c8c477e71f98",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "07:10",
+      "group": "大盘头条",
+      "title": "A股11月6日收评：三大指数全线收跌，创业板跌近4%，CPO概念股重挫，成交额1.67万亿",
+      "summary": "11月6日A股三大指数全线收跌：沪指跌1.10%，深证成指跌2.57%，创业板指跌3.96%。通信设备板块领跌，多只CPO（光纤连接器）概念股大幅下挫，全市场成交额约1.67万亿元。",
+      "why": "AI硬件退潮叠加美股科技大跌后遗效应，CPO及算力相关概念股持续承压；A股科技/成长仓位需留意下行风险，若持有相关标的的卖出期权策略，应检查行权价下档是否有足够缓冲。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "创业板",
+        "CPO",
+        "科技",
+        "算力"
+      ],
+      "translated": false,
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908txji.html",
+      "published_date": "2026-11-07",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-07",
+      "is_new": false
+    },
+    {
+      "id": "cdae7c67124f4506",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "14:30",
+      "group": "个股",
+      "title": "《大行》里昂：腾讯(00700.HK)目标价740→685港元，AI开支拖累Q3利润；三季报11月18日披露",
+      "summary": "里昂证券（CLSA）将腾讯控股目标价由740港元下调至685港元，维持「高确信跑赢大市」评级；下调2026/27年经调整净利润预测3%/7%，预计AI投资加速将使Q3经调整EBIT同比下降约2%至713亿元人民币。腾讯Q3业绩将于11月18日披露。",
+      "why": "三季报披露前里昂率先下调目标价，AI重投入对近期利润拖累的预期趋于一致；11月18日三季报前隐含波动率或持续走高，持有腾讯期权的投资者宜关注covered call行权价设置，或考虑三季报前适当平仓以规避短期波动。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "里昂",
+        "目标价",
+        "AI开支",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1003677838/clsa-downgrades-tencent-00700-target-price-to-hkd-685-maintains",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-07",
       "is_new": false
     },
     {
