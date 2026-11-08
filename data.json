@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-08 08:14 (北京时间)",
+  "updated_at": "2026-11-08 13:24 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,226 +9,43 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-08 08:14 (北京时间)",
-    "new_count": 7,
+    "at": "2026-11-08 13:24 (北京时间)",
+    "new_count": 1,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
+      "id": "228440178e49bc2c",
       "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "21:30",
-      "group": "大盘头条",
-      "title": "美国10月非农就业+16.5万大超预期，失业率降至4.1%，12月加息概率升至约80%",
-      "summary": "美国劳工部公布10月非农就业人数增加16.5万，远超经济学家预期的约6.5万，失业率从4.2%降至4.1%，工资同比+3.1%。就业报告发布后，CME美联储观察工具显示12月加息25个基点概率升至约81.5%。",
-      "why": "强劲就业数据令美联储12月加息路径更加明确，对美股（尤其是高估值成长股）和港股均构成估值压力；卖出期权策略需特别关注隐含波动率变化。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "非农",
-        "就业",
-        "美联储",
-        "加息",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "137649352426999c",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": true
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "20:00",
-      "group": "大盘头条",
-      "title": "国务院常务会议部署资本市场稳市机制，增强股市内在稳定性",
-      "summary": "国务院总理李强主持常务会议，就资本市场平稳健康发展作出部署，强调完善资本市场稳市机制、增强股市内在稳定性，并要求切实完成2026年重要经济目标。",
-      "why": "A股10月创十年来最大月度跌幅后政策层加码支撑，短期可能形成阶段性底部；对持仓港股龙头（腾讯、美团等）隐含期权波动率有收缩预期，sell put策略窗口或打开。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "国务院",
-        "资本市场",
-        "稳市",
-        "A股",
-        "政策"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/business/markets/article/3373602/beijing-calls-more-efforts-stabilise-stock-market-after-renewed-sell",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "bdafc4fd139cf969",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": true
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "HK",
         "US"
       ],
-      "time": "17:30",
+      "time": "00:00",
       "group": "个股",
-      "title": "Oracle取消与腾讯70亿美元AI芯片租赁合同，美方施压下终止五年协议",
-      "summary": "据英国《金融时报》报道，Oracle已取消与腾讯的为期五年约70亿美元芯片租赁协议，该协议原本让腾讯可租用约10万颗先进AI芯片，美国官员对此表达担忧后，协议被终止。广东省官员亦施压腾讯转向国产芯片。",
-      "why": "延续报道：合同取消消息仍在市场消化中，腾讯（0700.HK）AI算力获取能力受限，或影响云业务和AI产品竞争力；短期压制估值修复预期，sell put时需评估下行风险。",
-      "source": "Reuters",
+      "title": "Oracle scraps $7 billion deal to lease AI chips to Tencent after U.S. government pressure, FT/Bloomberg report",
+      "summary": "Oracle (ORCL) has withdrawn from a five-year agreement to lease approximately 100,000 advanced AI chips to Tencent in Southeast Asian data centers, valued at approximately $7 billion, after U.S. officials raised national security concerns. The Financial Times originally reported the cancellation on November 4; Bloomberg confirmed independently. Neither Oracle, Tencent, nor the White House commented publicly. The deal would have been Tencent's largest overseas AI infrastructure lease.",
+      "why": "延续报道：腾讯最大海外AI算力扩张计划被迫叫停，涉及10万枚先进AI芯片；体现美中科技脱钩正从芯片禁售扩展到租赁管控，对腾讯AI能力与估值有实质影响。11月18日腾讯Q3董事会将如何披露此影响值得持续跟踪。Bloomberg/FT为硬墙媒体（§2.10），cross_ref暂无法找到，script将自动设verified=false。",
+      "source": "Bloomberg/FT",
       "verified": false,
       "keywords": [
         "腾讯",
+        "0700",
         "Oracle",
-        "芯片",
-        "AI",
-        "0700.HK",
-        "监管"
+        "ORCL",
+        "AI芯片",
+        "美国制裁",
+        "芯片出口管制",
+        "美中科技战"
       ],
       "translated": false,
-      "url": "https://sg.finance.yahoo.com/news/oracle-cancels-7-bln-chip-055216451.html",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/oracle-scraps-7-billion-deal-to-lease-chips-to-tencent-ft-says",
       "published_date": "2026-11-04",
       "still_developing": true,
       "cross_ref": "",
-      "id": "905f6f11434f4625",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": true
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "美联储官员连续鹰派表态，达拉斯联储称至少还需加息两次",
-      "summary": "达拉斯联储主席洛根表示至少还需加息两次、每次25个基点；圣路易斯联储主席穆萨莱姆认为通胀仍然过高、应尽快行动。美联储10月会议以10比2维持利率在3.75%-4%不变，两名异见者主张即刻加息。",
-      "why": "鹰派声音密集释放叠加强劲就业，12月加息几成定局；对持仓中高波动科技股（英伟达、特斯拉）的call端风险需重新评估，covered call滚仓节奏建议保守。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "加息",
-        "利率",
-        "鹰派",
-        "洛根"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwtha4800436.shtml",
-      "published_date": "2026-11-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "1859fa4a367b51d1",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": true
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Beijing launches barrage of measures to stabilise stock market after sell-off",
-      "summary": "Chinese regulators announced an expanded support package including easing share-buyback rules, preparing a third round of central bank swap facility, cutting the relending rate for buyback loans, and making the buyback/stake-increase lending program permanent.",
-      "why": "延续报道：11月2-3日扩大工具包后，11月6日国务院再次部署，显示政策托底意愿坚定；A股及港股short put策略的下行保护增强，但需等待成交量确认企稳信号。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "央行",
-        "回购",
-        "稳市",
-        "资本市场"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/business/markets/article/3372993/beijing-launches-barrage-of-measures-to-stabilise-stock-market-after-sell-off",
-      "published_date": "2026-11-03",
-      "still_developing": true,
-      "cross_ref": "",
-      "id": "0119c940d2c31aba",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": true
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "中信里昂上调阿里巴巴Q2财季预期：云AI收入料同比+52%，重申跑赢大市",
-      "summary": "中信里昂11月6日发研报，预计阿里巴巴截至9月底财季云AI及计算服务收入同比增长52%，集团营收同比增长8.9%至约2700亿元，经调整EBITA同比增长230%至约297亿元；维持ADR目标价190美元。",
-      "why": "云AI超预期增长预期支撑阿里估值逻辑；Q2财报约11月18日披露，届时若业绩符合预期可能引发补涨；sell put BABA可关注财报前隐含波动率抬升机会。",
-      "source": "智通财经",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "阿里云",
-        "AI",
-        "BABA",
-        "9988.HK",
-        "云计算"
-      ],
-      "translated": false,
-      "url": "https://hk.investing.com/news/stock-market-news/article-1744004",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "a7abe1ed63e24b9d",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": true
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "泡泡玛特 × CLOT联名「杠上开发」麻将开售，1999元一套10分钟售罄",
-      "summary": "11月5日晚10点，泡泡玛特与潮牌CLOT联名限量麻将开售，定价1999元，约10分钟售罄。同期LABUBU新系列「一喵变猫」单价129元，二级市场出现跌破发行价情况，显示IP热度出现分化。",
-      "why": "泡泡玛特Q3收益同比大跌45-50%后，联名爆款售罄展示IP商业化韧性；高端限定品类需求仍强，但主力系列破发令市场对业绩修复节奏存疑；密切关注11月销售数据。",
-      "source": "21经济网",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "9992.HK",
-        "LABUBU",
-        "潮玩",
-        "联名"
-      ],
-      "translated": false,
-      "url": "https://21jingji.com/article/20261106/herald/9c048f7eff136a4f23502eeb4738f2fa.html",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "067aae2859ec98f4",
-      "_url_check": "未能机检（URLError）",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
       "first_seen": "2026-11-08",
       "is_new": true
     },
@@ -1686,6 +1503,99 @@
       "is_new": false
     },
     {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "21:30",
+      "group": "大盘头条",
+      "title": "美国10月非农就业+16.5万大超预期，失业率降至4.1%，12月加息概率升至约80%",
+      "summary": "美国劳工部公布10月非农就业人数增加16.5万，远超经济学家预期的约6.5万，失业率从4.2%降至4.1%，工资同比+3.1%。就业报告发布后，CME美联储观察工具显示12月加息25个基点概率升至约81.5%。",
+      "why": "强劲就业数据令美联储12月加息路径更加明确，对美股（尤其是高估值成长股）和港股均构成估值压力；卖出期权策略需特别关注隐含波动率变化。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "非农",
+        "就业",
+        "美联储",
+        "加息",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "137649352426999c",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "20:00",
+      "group": "大盘头条",
+      "title": "国务院常务会议部署资本市场稳市机制，增强股市内在稳定性",
+      "summary": "国务院总理李强主持常务会议，就资本市场平稳健康发展作出部署，强调完善资本市场稳市机制、增强股市内在稳定性，并要求切实完成2026年重要经济目标。",
+      "why": "A股10月创十年来最大月度跌幅后政策层加码支撑，短期可能形成阶段性底部；对持仓港股龙头（腾讯、美团等）隐含期权波动率有收缩预期，sell put策略窗口或打开。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "国务院",
+        "资本市场",
+        "稳市",
+        "A股",
+        "政策"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/markets/article/3373602/beijing-calls-more-efforts-stabilise-stock-market-after-renewed-sell",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "bdafc4fd139cf969",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "17:30",
+      "group": "个股",
+      "title": "Oracle取消与腾讯70亿美元AI芯片租赁合同，美方施压下终止五年协议",
+      "summary": "据英国《金融时报》报道，Oracle已取消与腾讯的为期五年约70亿美元芯片租赁协议，该协议原本让腾讯可租用约10万颗先进AI芯片，美国官员对此表达担忧后，协议被终止。广东省官员亦施压腾讯转向国产芯片。",
+      "why": "延续报道：合同取消消息仍在市场消化中，腾讯（0700.HK）AI算力获取能力受限，或影响云业务和AI产品竞争力；短期压制估值修复预期，sell put时需评估下行风险。",
+      "source": "Reuters",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Oracle",
+        "芯片",
+        "AI",
+        "0700.HK",
+        "监管"
+      ],
+      "translated": false,
+      "url": "https://sg.finance.yahoo.com/news/oracle-cancels-7-bln-chip-055216451.html",
+      "published_date": "2026-11-04",
+      "still_developing": true,
+      "cross_ref": "",
+      "id": "905f6f11434f4625",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": false
+    },
+    {
       "id": "7d204d0f2c3180b3",
       "tier": 2,
       "lang": "en",
@@ -2704,6 +2614,99 @@
       "is_new": false
     },
     {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "美联储官员连续鹰派表态，达拉斯联储称至少还需加息两次",
+      "summary": "达拉斯联储主席洛根表示至少还需加息两次、每次25个基点；圣路易斯联储主席穆萨莱姆认为通胀仍然过高、应尽快行动。美联储10月会议以10比2维持利率在3.75%-4%不变，两名异见者主张即刻加息。",
+      "why": "鹰派声音密集释放叠加强劲就业，12月加息几成定局；对持仓中高波动科技股（英伟达、特斯拉）的call端风险需重新评估，covered call滚仓节奏建议保守。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "加息",
+        "利率",
+        "鹰派",
+        "洛根"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwtha4800436.shtml",
+      "published_date": "2026-11-07",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "1859fa4a367b51d1",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Beijing launches barrage of measures to stabilise stock market after sell-off",
+      "summary": "Chinese regulators announced an expanded support package including easing share-buyback rules, preparing a third round of central bank swap facility, cutting the relending rate for buyback loans, and making the buyback/stake-increase lending program permanent.",
+      "why": "延续报道：11月2-3日扩大工具包后，11月6日国务院再次部署，显示政策托底意愿坚定；A股及港股short put策略的下行保护增强，但需等待成交量确认企稳信号。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "央行",
+        "回购",
+        "稳市",
+        "资本市场"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/markets/article/3372993/beijing-launches-barrage-of-measures-to-stabilise-stock-market-after-sell-off",
+      "published_date": "2026-11-03",
+      "still_developing": true,
+      "cross_ref": "",
+      "id": "0119c940d2c31aba",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "中信里昂上调阿里巴巴Q2财季预期：云AI收入料同比+52%，重申跑赢大市",
+      "summary": "中信里昂11月6日发研报，预计阿里巴巴截至9月底财季云AI及计算服务收入同比增长52%，集团营收同比增长8.9%至约2700亿元，经调整EBITA同比增长230%至约297亿元；维持ADR目标价190美元。",
+      "why": "云AI超预期增长预期支撑阿里估值逻辑；Q2财报约11月18日披露，届时若业绩符合预期可能引发补涨；sell put BABA可关注财报前隐含波动率抬升机会。",
+      "source": "智通财经",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "阿里云",
+        "AI",
+        "BABA",
+        "9988.HK",
+        "云计算"
+      ],
+      "translated": false,
+      "url": "https://hk.investing.com/news/stock-market-news/article-1744004",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "a7abe1ed63e24b9d",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": false
+    },
+    {
       "id": "32eb4735dd1e6392",
       "tier": 3,
       "lang": "zh",
@@ -2861,6 +2864,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-05",
+      "is_new": false
+    },
+    {
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "泡泡玛特 × CLOT联名「杠上开发」麻将开售，1999元一套10分钟售罄",
+      "summary": "11月5日晚10点，泡泡玛特与潮牌CLOT联名限量麻将开售，定价1999元，约10分钟售罄。同期LABUBU新系列「一喵变猫」单价129元，二级市场出现跌破发行价情况，显示IP热度出现分化。",
+      "why": "泡泡玛特Q3收益同比大跌45-50%后，联名爆款售罄展示IP商业化韧性；高端限定品类需求仍强，但主力系列破发令市场对业绩修复节奏存疑；密切关注11月销售数据。",
+      "source": "21经济网",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "LABUBU",
+        "潮玩",
+        "联名"
+      ],
+      "translated": false,
+      "url": "https://21jingji.com/article/20261106/herald/9c048f7eff136a4f23502eeb4738f2fa.html",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "067aae2859ec98f4",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
       "is_new": false
     }
   ]
