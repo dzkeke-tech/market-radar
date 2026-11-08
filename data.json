@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-08 13:24 (北京时间)",
+  "updated_at": "2026-11-08 18:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,43 +9,136 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-08 13:24 (北京时间)",
-    "new_count": 1,
+    "at": "2026-11-08 18:16 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "228440178e49bc2c",
-      "tier": 1,
+      "tier": 2,
       "lang": "en",
       "markets": [
         "HK",
         "US"
       ],
       "time": "00:00",
-      "group": "个股",
-      "title": "Oracle scraps $7 billion deal to lease AI chips to Tencent after U.S. government pressure, FT/Bloomberg report",
-      "summary": "Oracle (ORCL) has withdrawn from a five-year agreement to lease approximately 100,000 advanced AI chips to Tencent in Southeast Asian data centers, valued at approximately $7 billion, after U.S. officials raised national security concerns. The Financial Times originally reported the cancellation on November 4; Bloomberg confirmed independently. Neither Oracle, Tencent, nor the White House commented publicly. The deal would have been Tencent's largest overseas AI infrastructure lease.",
-      "why": "延续报道：腾讯最大海外AI算力扩张计划被迫叫停，涉及10万枚先进AI芯片；体现美中科技脱钩正从芯片禁售扩展到租赁管控，对腾讯AI能力与估值有实质影响。11月18日腾讯Q3董事会将如何披露此影响值得持续跟踪。Bloomberg/FT为硬墙媒体（§2.10），cross_ref暂无法找到，script将自动设verified=false。",
-      "source": "Bloomberg/FT",
+      "group": "大盘头条",
+      "title": "AI Slump Revives Asia's Forgotten Trades From China to India",
+      "summary": "Bloomberg Nov 8 piece says AI trade unraveling post-midterms is forcing investors to rethink their Asia playbook. Funds rotating into Chinese and Indian stocks. A Hong Kong gauge tracking mainland companies gained 5.2% last week, its best since March 2025. Aberdeen favors China tech; Lotus Hao Hong going long HK equity futures.",
+      "why": "AI崩跌带动港股/中概互联网估值重获外资青睐，腾讯、阿里、美团等被机构重新关注；对本组合港股持仓属正面信号，但分析师提醒外资仍可能持续卖出亚洲AI picks-and-shovels股，分化加剧。",
+      "source": "Bloomberg",
       "verified": false,
       "keywords": [
         "腾讯",
-        "0700",
-        "Oracle",
-        "ORCL",
-        "AI芯片",
-        "美国制裁",
-        "芯片出口管制",
-        "美中科技战"
+        "阿里巴巴",
+        "美团",
+        "港股",
+        "AI崩跌",
+        "资金轮动"
       ],
       "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-11-04/oracle-scraps-7-billion-deal-to-lease-chips-to-tencent-ft-says",
-      "published_date": "2026-11-04",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+      "published_date": "2026-11-08",
+      "still_developing": false,
+      "cross_ref": "https://www.business-standard.com/amp/markets/news/ai-slump-revives-asia-s-forgotten-stock-bets-from-china-to-india-126110800052_1.html",
+      "id": "78173ad27f43c048",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-11-08",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "晶圆代工市场酝酿涨价，台积电2027年提价，龙头获大资金加仓",
+      "summary": "台积电确认2027年1月起上调代工报价；上周南向资金净买入中芯国际11.6亿港元、华虹宏力9.21亿港元，中芯国际A股一周累涨14.58%。半导体板块成为AI崩跌背景下南向资金的价值选择。",
+      "why": "晶圆代工涨价预期利好持有中芯国际、华虹等港股/A股；与SK海力士HBM4量产提速形成存储+代工双向受益格局；但短期估值快速抬升，需警惕获利回吐。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "台积电",
+        "中芯国际",
+        "晶圆"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261108/herald/a67f64c3725251e6f00f158baafdaf0f.html",
+      "published_date": "2026-11-08",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "2226f8cb70a0f014",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "腾讯、阿里大幅上涨！机构：超跌后迎技术性反弹，成色有待业绩验证",
+      "summary": "港股11月5日大幅反弹，恒指升幅近3.7%，科技指数涨逾5%。阿里巴巴-W、腾讯控股领涨，美团亦显著走强。机构认为此次反弹属于技术性超跌修复，真实成色需待Q3业绩验证；腾讯Q3业绩预计11月18日公布。",
+      "why": "港股超跌反弹对持仓腾讯/阿里的 sell put 策略有短期支撑，但机构谨慎看待持续性；腾讯11/18业绩是下一个关键催化剂，建议关注是否有业绩超预期的信号。延续报道：AI选后崩跌后港股技术性反弹。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "阿里巴巴",
+        "美团",
+        "港股",
+        "恒生科技"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261105/herald/f2516682729f3f5fb6f531d2c91d6101.html",
+      "published_date": "2026-11-05",
       "still_developing": true,
       "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "id": "5c63188b01e33c82",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": true
+    },
+    {
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "小米汽车工厂迎来全球媒体，雷军欢迎外国朋友体验 N70 和 N90",
+      "summary": "2026世界媒体峰会（11月5-8日，北京）期间，来自112个国家330家主流媒体参访北京亦庄小米汽车工厂。小米澎程为峰会官方用车，雷军欢迎外国媒体体验N70和N90系列，部分外媒称其为移动工作酒店。",
+      "why": "里程碑/品牌破圈：小米汽车通过顶级媒体外交渠道获得全球曝光，有助于海外市场形象建立；对港股（1810.HK）属正面催化剂，可关注是否带动估值修复。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "小米汽车",
+        "雷军",
+        "世界媒体峰会"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-07/doc-inixwnye4874828.shtml",
+      "published_date": "2026-11-07",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "c54d4d5e85830b07",
+      "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-08",
       "is_new": true
     },
@@ -1500,6 +1593,40 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-07",
+      "is_new": false
+    },
+    {
+      "id": "228440178e49bc2c",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "Oracle scraps $7 billion deal to lease AI chips to Tencent after U.S. government pressure, FT/Bloomberg report",
+      "summary": "Oracle (ORCL) has withdrawn from a five-year agreement to lease approximately 100,000 advanced AI chips to Tencent in Southeast Asian data centers, valued at approximately $7 billion, after U.S. officials raised national security concerns. The Financial Times originally reported the cancellation on November 4; Bloomberg confirmed independently. Neither Oracle, Tencent, nor the White House commented publicly. The deal would have been Tencent's largest overseas AI infrastructure lease.",
+      "why": "延续报道：腾讯最大海外AI算力扩张计划被迫叫停，涉及10万枚先进AI芯片；体现美中科技脱钩正从芯片禁售扩展到租赁管控，对腾讯AI能力与估值有实质影响。11月18日腾讯Q3董事会将如何披露此影响值得持续跟踪。Bloomberg/FT为硬墙媒体（§2.10），cross_ref暂无法找到，script将自动设verified=false。",
+      "source": "Bloomberg/FT",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "0700",
+        "Oracle",
+        "ORCL",
+        "AI芯片",
+        "美国制裁",
+        "芯片出口管制",
+        "美中科技战"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/oracle-scraps-7-billion-deal-to-lease-chips-to-tencent-ft-says",
+      "published_date": "2026-11-04",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-11-08",
       "is_new": false
     },
     {
