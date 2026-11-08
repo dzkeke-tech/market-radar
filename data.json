@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-07 18:19 (北京时间)",
+  "updated_at": "2026-11-08 08:14 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,230 +9,228 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-07 18:19 (北京时间)",
-    "new_count": 4,
+    "at": "2026-11-08 08:14 (北京时间)",
+    "new_count": 7,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "72e09cada9e2a2c8",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Dow has best post-midterm elections day in 44 years as Democrats take control of Congress",
-      "summary": "Democrats swept both chambers of Congress on Nov 3. Dow rose ~3% on Nov 4, its best post-midterm session in 44 years; S&P 500 and Nasdaq also climbed. Trump accepted the results, reducing fears of a prolonged dispute.",
-      "why": "美国政治格局改变：民主党国会或推动科技监管及AI政策调整，对持仓科技板块估值与期权隐含波动率有深远影响；后续AI抛售即源于此次选举结果",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美国大选",
-        "中期选举",
-        "美股",
-        "道指",
-        "民主党"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
-      "published_date": "2026-11-04",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-07",
-      "is_new": true
-    },
-    {
-      "id": "38b8a8be3de32100",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
-      "summary": "Nasdaq fell 5.5% on Nov 5 — worst since April 2025. Philadelphia Semiconductor Index plunged 12.2%, biggest drop since 2020. Nvidia fell ~9%, losing ~50B in market cap. Trigger: investor fears that Democratic Congress will restrict AI data-center construction and tighten tech regulation.",
-      "why": "英伟达跌~9%，费城半导体指数创4年最大单日跌幅；对AI芯片/GPU持仓构成直接冲击；隐含波动率大幅飙升，covered call和sell put策略需重新评估；港股科技板块联动受压",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "纳斯达克",
-        "AI监管",
-        "费城半导体",
-        "美股",
-        "科技股"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-      "published_date": "2026-11-05",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-07",
-      "is_new": true
-    },
-    {
-      "id": "eb3fc1168c06fe15",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "AI stocks hammered by midterm shock as data center buildout becomes a \"war of attrition\"",
-      "summary": "CNBC analysis: even though Congress changes hands only in January and state-level AI restrictions still need to pass, investors treated the Democratic sweep as an immediate threat to AI data center expansion, sending AI and chip stocks into prolonged selling.",
-      "why": "AI数据中心政策前景不确定性上升，投资者担忧数据中心扩建放缓，AI基础设施板块估值逻辑受到挑战；影响英伟达、美光、SK海力士等持仓",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "AI监管",
-        "数据中心",
-        "美股",
-        "科技股",
-        "英伟达"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-07",
-      "is_new": true
-    },
-    {
-      "id": "10a5db1a46a29f9f",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Tech stocks lead declines in Hong Kong, mainland China on US.3 trillion carnage in US",
-      "summary": "Hong Kong and China tech stocks fell sharply on Nov 6, tracking the US.3 trillion rout in US markets on Nov 5. Hang Seng Index dropped 1.27%, while A-share tech and AI-linked hardware names were among the worst performers.",
-      "why": "港股/A股科技股联动美股重挫；恒生指数跌1.27%，A股创业板跌3.96%；持仓中港股科技标的（腾讯、阿里、美团等）估值承压，可关注期权隐含波动率变化",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "A股",
-        "科技股",
-        "AI硬件"
-      ],
-      "translated": false,
-      "url": "https://scmp.com/business/china-business/article/3373474/tech-stocks-lead-declines-hong-kong-mainland-china-us23-trillion-carnage-us",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-07",
-      "is_new": true
-    },
-    {
-      "id": "4bb07d42f9109b27",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "18:18",
-      "group": "大盘头条",
-      "title": "美联储10月会议维持利率3.75%-4%，主席沃什：暂停并非见顶，12月加息概率72%",
-      "summary": "FOMC以10比2投票维持联邦基金利率目标区间3.75%-4%不变，两位反对票（库克、哈马克）主张加息25bp。主席沃什表示暂停是为等待更多数据、并非周期见顶；CME「美联储观察」显示市场定价12月加息25bp概率为72%。",
-      "why": "鹰派暂停叠加72%的12月加息预期将继续压制科技股估值；美债收益率维持高位对港股科技股构成压力；Sell Put策略需关注行权价附近的尾部风险，建议回避短期高IV期权卖出。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "利率",
-        "宏观",
-        "macro"
-      ],
-      "published_date": "2026-10-30",
-      "still_developing": false,
-      "cross_ref": "",
-      "translated": false,
-      "first_seen": "2026-10-31",
-      "is_new": false,
-      "url": "https://m.21jingji.com/article/20261030/herald/242aba6ca0aa1891b9dfceef32eec989.html",
-      "_url_check": "未能机检（URLError）"
-    },
-    {
-      "id": "945642cb40ba0752",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
         "US"
       ],
-      "time": "18:18",
+      "time": "21:30",
       "group": "大盘头条",
-      "title": "Intel stock has worst day since 1970s, falling 29% as AI spending concerns fuel tech rout",
-      "summary": "US stocks plunged Friday as disappointing tech earnings fueled AI spending concerns. Intel shares tumbled 29% after weak Q4 guidance, their worst single-day loss since the 1970s. The Nasdaq fell roughly 2.9%, and Alphabet extended its record Thursday loss. Markets are questioning whether massive AI capex investments will deliver returns.",
-      "why": "科技股历史性单日暴跌，叠加AI资本支出回报质疑，将压制整体科技板块估值；英伟达等半导体相关标的期权隐含波动率预计大幅升高；持仓需关注相关产品估值重估风险。",
+      "title": "美国10月非农就业+16.5万大超预期，失业率降至4.1%，12月加息概率升至约80%",
+      "summary": "美国劳工部公布10月非农就业人数增加16.5万，远超经济学家预期的约6.5万，失业率从4.2%降至4.1%，工资同比+3.1%。就业报告发布后，CME美联储观察工具显示12月加息25个基点概率升至约81.5%。",
+      "why": "强劲就业数据令美联储12月加息路径更加明确，对美股（尤其是高估值成长股）和港股均构成估值压力；卖出期权策略需特别关注隐含波动率变化。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "宏观",
-        "AI芯片"
+        "非农",
+        "就业",
+        "美联储",
+        "加息",
+        "利率"
       ],
-      "published_date": "2026-10-30",
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "published_date": "2026-11-06",
       "still_developing": false,
       "cross_ref": "",
-      "translated": false,
-      "first_seen": "2026-10-31",
-      "is_new": false,
-      "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-      "_url_check": "未能机检（URLError）"
+      "id": "137649352426999c",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": true
     },
     {
-      "id": "69553894e5211fcd",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "HK",
         "A",
-        "US"
+        "HK"
       ],
-      "time": "09:30",
+      "time": "20:00",
       "group": "大盘头条",
-      "title": "China NBS Manufacturing PMI falls to 49.3 in October, both manufacturing and services contract",
-      "summary": "China's official NBS Manufacturing PMI fell to 49.3 in October from 50.1 in September, missing the consensus forecast of 50.0 and returning to contraction. Production sub-index dropped to 49.8 and new-orders gauge slipped to 49.4. Non-Manufacturing PMI also slipped below 50 to 49.7 (vs. 50.2 prior). NBS cited demand pull-forward ahead of the National Day holiday and a complex international environment. High-tech manufacturing PMI held at 51.3.",
-      "why": "中国10月制造业PMI跌破荣枯线至49.3，服务业PMI同步跌至49.7，双双收缩。9月短暂回升后再度走弱，超出市场预期（共识50.0），是今年以来最差的宏观信号之一。对港/A股顺周期板块（工业、材料、消费品）及腾讯/美团等消费相关标的构成压制；叠加美联储维持高利率，双重宏观逆风。需跟踪政策面能否在11月出台更多刺激措施。",
-      "source": "界面新闻",
+      "title": "国务院常务会议部署资本市场稳市机制，增强股市内在稳定性",
+      "summary": "国务院总理李强主持常务会议，就资本市场平稳健康发展作出部署，强调完善资本市场稳市机制、增强股市内在稳定性，并要求切实完成2026年重要经济目标。",
+      "why": "A股10月创十年来最大月度跌幅后政策层加码支撑，短期可能形成阶段性底部；对持仓港股龙头（腾讯、美团等）隐含期权波动率有收缩预期，sell put策略窗口或打开。",
+      "source": "SCMP",
       "verified": true,
       "keywords": [
-        "China PMI",
-        "NBS",
-        "制造业PMI",
-        "Manufacturing PMI",
-        "宏观",
-        "A股"
+        "国务院",
+        "资本市场",
+        "稳市",
+        "A股",
+        "政策"
       ],
       "translated": false,
-      "url": "https://en.jiemian.com/article/13576937.html",
-      "published_date": "2026-10-31",
+      "url": "https://www.scmp.com/business/markets/article/3373602/beijing-calls-more-efforts-stabilise-stock-market-after-renewed-sell",
+      "published_date": "2026-11-06",
       "still_developing": false,
       "cross_ref": "",
+      "id": "bdafc4fd139cf969",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-31",
-      "is_new": false
+      "first_seen": "2026-11-08",
+      "is_new": true
+    },
+    {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "17:30",
+      "group": "个股",
+      "title": "Oracle取消与腾讯70亿美元AI芯片租赁合同，美方施压下终止五年协议",
+      "summary": "据英国《金融时报》报道，Oracle已取消与腾讯的为期五年约70亿美元芯片租赁协议，该协议原本让腾讯可租用约10万颗先进AI芯片，美国官员对此表达担忧后，协议被终止。广东省官员亦施压腾讯转向国产芯片。",
+      "why": "延续报道：合同取消消息仍在市场消化中，腾讯（0700.HK）AI算力获取能力受限，或影响云业务和AI产品竞争力；短期压制估值修复预期，sell put时需评估下行风险。",
+      "source": "Reuters",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Oracle",
+        "芯片",
+        "AI",
+        "0700.HK",
+        "监管"
+      ],
+      "translated": false,
+      "url": "https://sg.finance.yahoo.com/news/oracle-cancels-7-bln-chip-055216451.html",
+      "published_date": "2026-11-04",
+      "still_developing": true,
+      "cross_ref": "",
+      "id": "905f6f11434f4625",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "美联储官员连续鹰派表态，达拉斯联储称至少还需加息两次",
+      "summary": "达拉斯联储主席洛根表示至少还需加息两次、每次25个基点；圣路易斯联储主席穆萨莱姆认为通胀仍然过高、应尽快行动。美联储10月会议以10比2维持利率在3.75%-4%不变，两名异见者主张即刻加息。",
+      "why": "鹰派声音密集释放叠加强劲就业，12月加息几成定局；对持仓中高波动科技股（英伟达、特斯拉）的call端风险需重新评估，covered call滚仓节奏建议保守。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "加息",
+        "利率",
+        "鹰派",
+        "洛根"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwtha4800436.shtml",
+      "published_date": "2026-11-07",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "1859fa4a367b51d1",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Beijing launches barrage of measures to stabilise stock market after sell-off",
+      "summary": "Chinese regulators announced an expanded support package including easing share-buyback rules, preparing a third round of central bank swap facility, cutting the relending rate for buyback loans, and making the buyback/stake-increase lending program permanent.",
+      "why": "延续报道：11月2-3日扩大工具包后，11月6日国务院再次部署，显示政策托底意愿坚定；A股及港股short put策略的下行保护增强，但需等待成交量确认企稳信号。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "央行",
+        "回购",
+        "稳市",
+        "资本市场"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/markets/article/3372993/beijing-launches-barrage-of-measures-to-stabilise-stock-market-after-sell-off",
+      "published_date": "2026-11-03",
+      "still_developing": true,
+      "cross_ref": "",
+      "id": "0119c940d2c31aba",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": true
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "中信里昂上调阿里巴巴Q2财季预期：云AI收入料同比+52%，重申跑赢大市",
+      "summary": "中信里昂11月6日发研报，预计阿里巴巴截至9月底财季云AI及计算服务收入同比增长52%，集团营收同比增长8.9%至约2700亿元，经调整EBITA同比增长230%至约297亿元；维持ADR目标价190美元。",
+      "why": "云AI超预期增长预期支撑阿里估值逻辑；Q2财报约11月18日披露，届时若业绩符合预期可能引发补涨；sell put BABA可关注财报前隐含波动率抬升机会。",
+      "source": "智通财经",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "阿里云",
+        "AI",
+        "BABA",
+        "9988.HK",
+        "云计算"
+      ],
+      "translated": false,
+      "url": "https://hk.investing.com/news/stock-market-news/article-1744004",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "a7abe1ed63e24b9d",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": true
+    },
+    {
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "泡泡玛特 × CLOT联名「杠上开发」麻将开售，1999元一套10分钟售罄",
+      "summary": "11月5日晚10点，泡泡玛特与潮牌CLOT联名限量麻将开售，定价1999元，约10分钟售罄。同期LABUBU新系列「一喵变猫」单价129元，二级市场出现跌破发行价情况，显示IP热度出现分化。",
+      "why": "泡泡玛特Q3收益同比大跌45-50%后，联名爆款售罄展示IP商业化韧性；高端限定品类需求仍强，但主力系列破发令市场对业绩修复节奏存疑；密切关注11月销售数据。",
+      "source": "21经济网",
+      "verified": true,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "LABUBU",
+        "潮玩",
+        "联名"
+      ],
+      "translated": false,
+      "url": "https://21jingji.com/article/20261106/herald/9c048f7eff136a4f23502eeb4738f2fa.html",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "067aae2859ec98f4",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-08",
+      "is_new": true
     },
     {
       "id": "cff8d922ed328414",
@@ -1499,6 +1497,70 @@
       "is_new": false
     },
     {
+      "id": "72e09cada9e2a2c8",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Dow has best post-midterm elections day in 44 years as Democrats take control of Congress",
+      "summary": "Democrats swept both chambers of Congress on Nov 3. Dow rose ~3% on Nov 4, its best post-midterm session in 44 years; S&P 500 and Nasdaq also climbed. Trump accepted the results, reducing fears of a prolonged dispute.",
+      "why": "美国政治格局改变：民主党国会或推动科技监管及AI政策调整，对持仓科技板块估值与期权隐含波动率有深远影响；后续AI抛售即源于此次选举结果",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美国大选",
+        "中期选举",
+        "美股",
+        "道指",
+        "民主党"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+      "published_date": "2026-11-04",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-07",
+      "is_new": false
+    },
+    {
+      "id": "38b8a8be3de32100",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
+      "summary": "Nasdaq fell 5.5% on Nov 5 — worst since April 2025. Philadelphia Semiconductor Index plunged 12.2%, biggest drop since 2020. Nvidia fell ~9%, losing ~50B in market cap. Trigger: investor fears that Democratic Congress will restrict AI data-center construction and tighten tech regulation.",
+      "why": "英伟达跌~9%，费城半导体指数创4年最大单日跌幅；对AI芯片/GPU持仓构成直接冲击；隐含波动率大幅飙升，covered call和sell put策略需重新评估；港股科技板块联动受压",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "纳斯达克",
+        "AI监管",
+        "费城半导体",
+        "美股",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+      "published_date": "2026-11-05",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-07",
+      "is_new": false
+    },
+    {
       "id": "fbc52dd3edec962f",
       "tier": 1,
       "lang": "en",
@@ -1621,192 +1683,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-07",
-      "is_new": false
-    },
-    {
-      "id": "740aaa4a0f201b64",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "18:18",
-      "group": "大盘头条",
-      "title": "Hong Kong Stocks Lose a Key Backer as Chinese Investors Head for Exit",
-      "summary": "Onshore Chinese traders sold a net HK$24 billion ($3.1 billion) of Hong Kong shares through the Stock Connect trading link in October through Thursday, which would be the biggest monthly southbound outflow since 2021. The Hang Seng has fallen more than 12% this year despite state-backed ETF buying.",
-      "why": "南向资金创2021年来最大月度净流出，显示内地投资者对港股信心不足；结合美联储鹰派姿态与科技股暴跌，港股短期内面临多重压力；看涨期权时间价值加速衰减，Sell Put需谨慎。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "宏观"
-      ],
-      "published_date": "2026-10-30",
-      "still_developing": false,
-      "cross_ref": "",
-      "translated": false,
-      "first_seen": "2026-10-31",
-      "is_new": false,
-      "url": "https://bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref"
-    },
-    {
-      "id": "1303250904ce1cc3",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "18:18",
-      "group": "个股",
-      "title": "Alibaba wins preliminary injunction against Pentagon contract restrictions tied to China blacklist",
-      "summary": "A US federal judge in San Jose granted Alibaba a preliminary injunction, blocking the Pentagon from denying contracts to companies because they do business with Alibaba's lobbying partners. Judge Eumi K. Lee found Alibaba likely to succeed on free-speech grounds. The Chinese military designation itself remains in place as the case continues.",
-      "why": "延续报道：2026-06起诉五角大楼的阶段性进展，法院初步禁令可减轻承包商合规压力，对阿里巴巴企业云/政府合同业务构成利好；但军事名单尚存、最终判决未出，不宜过度解读；期权隐含波动率短期内可能因此小幅回落。",
-      "source": "South China Morning Post",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "Alibaba",
-        "BABA",
-        "9988.HK"
-      ],
-      "published_date": "2026-10-27",
-      "still_developing": true,
-      "cross_ref": "",
-      "translated": false,
-      "first_seen": "2026-10-31",
-      "is_new": false,
-      "url": "https://www.scmp.com/news/us/article/3372356/alibaba-wins-preliminary-injunction-against-pentagon-lobbying-rule",
-      "_url_check": "未能机检（URLError）"
-    },
-    {
-      "id": "b2cdbc25d7904f8e",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Apple overtakes Nvidia to reclaim world's most valuable company title at $5.03T market cap",
-      "summary": "Apple (AAPL) overtook Nvidia (NVDA) on October 30 to become the world's most valuable public company at $5.03T, as Nvidia fell 4.2% to $4.93T. This is the first such flip since July. Investors rotated toward Apple amid concerns about AI infrastructure spending returns — Apple's steadier capex profile seen as a relative safe haven amid the tech selloff.",
-      "why": "苹果市值超越英伟达折射市场对AI算力支出回报时间线的疑虑；两者差距仅约1000亿美元（不足Nvidia日常波动），排名可随时反转。若AI回报担忧持续，可能进一步影响科技赛道整体估值；对长期持有Nvidia的投资者是警示信号。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "Apple",
-        "AAPL",
-        "Nvidia",
-        "NVDA",
-        "market cap",
-        "市值"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
-      "published_date": "2026-10-30",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-10-31",
-      "is_new": false
-    },
-    {
-      "id": "08f8b33313b09f95",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "比特币跌逾4%至约7.7万美元，Binance黑客事件重创加密市场情绪",
-      "summary": "受Binance约63.6亿美元黑客盗窃事件冲击，比特币10月30日下跌逾4%至约7.7万美元附近，以太坊跌幅更深。分析人士指出，比特币网络本身并未受到攻击；市场抛售主要源于情绪恐慌与流动性担忧，并叠加同日美股科技股大跌的综合影响。",
-      "why": "持仓Circle（CRCL）等加密相关标的的投资者需关注波动率持续高企；Binance事件短期内恐压制加密市场情绪，或影响Circle的USDC收入预期及下周（11月4日）财报表现。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "比特币",
-        "Bitcoin",
-        "加密货币",
-        "Binance",
-        "Circle",
-        "CRCL",
-        "波动率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html",
-      "published_date": "2026-10-30",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-31",
-      "is_new": false
-    },
-    {
-      "id": "54034729f5a101c2",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "18:00",
-      "group": "大盘头条",
-      "title": "A股三季报收官：5572家公司净利润同比增8.3%，科创板大增476%，电子行业增量领跑",
-      "summary": "截至10月31日，5572家A股上市公司已披露2026年前三季度业绩，合计营收同比增5.66%，归母净利润同比增8.3%。科创板净利润同比暴增476%（含新上市公司贡献），创业板增22.6%，主板仅增2.86%。电子、有色金属、石油石化利润增量居前，AI算力产业链（存储芯片、服务器、PCB等龙头）业绩显著高增。三季报营收增速较中报有所回落。",
-      "why": "科技硬件与AI算力链三季报表现亮眼，对A股同类标的估值提供支撑；主板增速放缓反映内需承压，消费类持仓需留意旺季拉动能否延续至四季度；科创板超高增速受新股影响，需审慎看待。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "三季报",
-        "科创板",
-        "电子",
-        "AI算力",
-        "业绩",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261029/herald/098cea5c7dc790c1ca7088c52ed8ffea.html",
-      "published_date": "2026-10-29",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-31",
-      "is_new": false
-    },
-    {
-      "id": "af1030d95e5973be",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:30",
-      "group": "个股",
-      "title": "SanDisk SNDK Q1 FY2027: Revenue $11.0B, Announces 8-for-1 Stock Split Effective Nov 19; Stock Falls ~9% Despite Beat",
-      "summary": "SanDisk reported Q1 FY2027 revenue of $11.0 billion and announced an 8-for-1 forward stock split effective November 19, 2026, to improve stock accessibility. Despite the earnings beat and split announcement, shares fell approximately 9% as investors sold the news, weighed down partly by broader memory sector concerns following Chinese DRAM maker CXMT reporting Q3 revenue surging 613% YoY.",
-      "why": "持仓闪迪（SanDisk/SNDK）：8比1拆股生效（11月19日）前后通常带来流动性提升，短期期权策略参数需按新股价调整；但CXMT崛起形成中长期竞争压力，估值重估风险不容忽视。",
-      "source": "SEC EDGAR",
-      "verified": true,
-      "keywords": [
-        "SanDisk",
-        "SNDK",
-        "闪迪",
-        "NAND",
-        "存储",
-        "股票拆分",
-        "Q1业绩",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/0002023554/000162828026068243/sndkq1-27ex991xpressrelease.htm",
-      "published_date": "2026-10-29",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-10-31",
       "is_new": false
     },
     {
@@ -2640,6 +2516,67 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-06",
+      "is_new": false
+    },
+    {
+      "id": "eb3fc1168c06fe15",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "AI stocks hammered by midterm shock as data center buildout becomes a \"war of attrition\"",
+      "summary": "CNBC analysis: even though Congress changes hands only in January and state-level AI restrictions still need to pass, investors treated the Democratic sweep as an immediate threat to AI data center expansion, sending AI and chip stocks into prolonged selling.",
+      "why": "AI数据中心政策前景不确定性上升，投资者担忧数据中心扩建放缓，AI基础设施板块估值逻辑受到挑战；影响英伟达、美光、SK海力士等持仓",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "AI监管",
+        "数据中心",
+        "美股",
+        "科技股",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-07",
+      "is_new": false
+    },
+    {
+      "id": "10a5db1a46a29f9f",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Tech stocks lead declines in Hong Kong, mainland China on US.3 trillion carnage in US",
+      "summary": "Hong Kong and China tech stocks fell sharply on Nov 6, tracking the US.3 trillion rout in US markets on Nov 5. Hang Seng Index dropped 1.27%, while A-share tech and AI-linked hardware names were among the worst performers.",
+      "why": "港股/A股科技股联动美股重挫；恒生指数跌1.27%，A股创业板跌3.96%；持仓中港股科技标的（腾讯、阿里、美团等）估值承压，可关注期权隐含波动率变化",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "A股",
+        "科技股",
+        "AI硬件"
+      ],
+      "translated": false,
+      "url": "https://scmp.com/business/china-business/article/3373474/tech-stocks-lead-declines-hong-kong-mainland-china-us23-trillion-carnage-us",
+      "published_date": "2026-11-06",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-07",
       "is_new": false
     },
     {
