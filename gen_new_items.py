@@ -1,0 +1,180 @@
+import json, hashlib
+
+def make_id(url, title=""):
+    s = (url or title or "").strip()
+    return hashlib.sha1(s.encode()).hexdigest()[:16]
+
+with open("seen.json", "r", encoding="utf-8") as f:
+    seen = json.load(f)
+seen_ids = set(seen.get("ids", []))
+print(f"Seen IDs count: {len(seen_ids)}")
+
+candidates = [
+    {
+        "tier": 1,
+        "lang": "en",
+        "markets": ["US", "HK"],
+        "time": "00:00",
+        "group": "大盘头条",
+        "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
+        "summary": "Democrat midterm wins on Nov 3 triggered a massive AI/chip selloff on Nov 5. Nasdaq fell 5.5%, Philadelphia Semiconductor Index plunged 12%, Nvidia down ~9%, AMD down 17.3%, Micron down 17.5%. Markets concerned over potential data center regulations under new congressional leadership.",
+        "why": "民主党中期选举胜选引发AI硬件股大崩跌，英伟达、美光均受冲击；港股AI相关股及SK海力士受隔夜美股拖累。期权隐含波动率大幅飙升，sell put 策略需评估AI板块新的监管风险溢价。延续报道：事件仍在演化，Bloomberg 11/8仍在跟踪资金轮动动态。",
+        "source": "CNBC",
+        "verified": True,
+        "keywords": ["英伟达", "Nvidia", "NVDA", "美光", "Micron", "MU", "SK海力士", "AI芯片"],
+        "translated": False,
+        "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+        "published_date": "2026-11-05",
+        "still_developing": True,
+        "cross_ref": ""
+    },
+    {
+        "tier": 1,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "00:00",
+        "group": "大盘头条",
+        "title": "Jobs report October 2026: U.S. economy added 165,000 jobs",
+        "summary": "October payrolls added 165,000 jobs, far exceeding the ~65,000 consensus. Unemployment rate fell to 4.1%, average hourly wages rose 0.4% MoM (+3.1% YoY). Strong report fuels December Fed rate hike expectations.",
+        "why": "强劲非农推高12月加息预期，美债收益率上升对高估值成长股（科技/消费）构成估值压力；期权 sell put 策略应关注加息预期对期权隐含波动率基准的影响。",
+        "source": "CNBC",
+        "verified": True,
+        "keywords": ["美联储", "加息", "非农就业", "宏观"],
+        "translated": False,
+        "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+        "published_date": "2026-11-06",
+        "still_developing": False,
+        "cross_ref": ""
+    },
+    {
+        "tier": 2,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "00:00",
+        "group": "大盘头条",
+        "title": "AI stocks hammered by midterm shock as data center buildout becomes a war of attrition",
+        "summary": "Top Democrats called for a national data center moratorium after midterm sweep. Governors who support data center restrictions won 32 of 34 races. Analysts say state-level action may matter more near-term than federal legislation given presidential veto risk. AI selloff entering second day Nov 6.",
+        "why": "民主党对数据中心监管路径趋于清晰，是中期维度对英伟达、Palantir等AI基础设施股的系统性压制因素；对 sell put 仓位需重新评估监管风险对估值中枢的影响。延续报道：AI选后崩跌第二日，监管路径细节出现。",
+        "source": "CNBC",
+        "verified": True,
+        "keywords": ["英伟达", "Nvidia", "NVDA", "AI芯片", "数据中心", "监管", "Palantir", "PLTR"],
+        "translated": False,
+        "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+        "published_date": "2026-11-06",
+        "still_developing": True,
+        "cross_ref": ""
+    },
+    {
+        "tier": 2,
+        "lang": "en",
+        "markets": ["HK", "US"],
+        "time": "00:00",
+        "group": "大盘头条",
+        "title": "AI Slump Revives Asia's Forgotten Trades From China to India",
+        "summary": "Bloomberg Nov 8 piece says AI trade unraveling post-midterms is forcing investors to rethink their Asia playbook. Funds rotating into Chinese and Indian stocks. A Hong Kong gauge tracking mainland companies gained 5.2% last week, its best since March 2025. Aberdeen favors China tech; Lotus Hao Hong going long HK equity futures.",
+        "why": "AI崩跌带动港股/中概互联网估值重获外资青睐，腾讯、阿里、美团等被机构重新关注；对本组合港股持仓属正面信号，但分析师提醒外资仍可能持续卖出亚洲AI picks-and-shovels股，分化加剧。",
+        "source": "Bloomberg",
+        "verified": False,
+        "keywords": ["腾讯", "阿里巴巴", "美团", "港股", "AI崩跌", "资金轮动"],
+        "translated": False,
+        "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+        "published_date": "2026-11-08",
+        "still_developing": False,
+        "cross_ref": "https://www.business-standard.com/amp/markets/news/ai-slump-revives-asia-s-forgotten-stock-bets-from-china-to-india-126110800052_1.html"
+    },
+    {
+        "tier": 2,
+        "lang": "zh",
+        "markets": ["HK", "A"],
+        "time": "00:00",
+        "group": "大盘头条",
+        "title": "晶圆代工市场酝酿涨价，台积电2027年提价，龙头获大资金加仓",
+        "summary": "台积电确认2027年1月起上调代工报价；上周南向资金净买入中芯国际11.6亿港元、华虹宏力9.21亿港元，中芯国际A股一周累涨14.58%。半导体板块成为AI崩跌背景下南向资金的价值选择。",
+        "why": "晶圆代工涨价预期利好持有中芯国际、华虹等港股/A股；与SK海力士HBM4量产提速形成存储+代工双向受益格局；但短期估值快速抬升，需警惕获利回吐。",
+        "source": "21世纪经济报道",
+        "verified": False,
+        "keywords": ["SK海力士", "SK Hynix", "HBM", "台积电", "中芯国际", "晶圆"],
+        "translated": False,
+        "url": "https://www.21jingji.com/article/20261108/herald/a67f64c3725251e6f00f158baafdaf0f.html",
+        "published_date": "2026-11-08",
+        "still_developing": False,
+        "cross_ref": ""
+    },
+    {
+        "tier": 2,
+        "lang": "zh",
+        "markets": ["HK"],
+        "time": "00:00",
+        "group": "大盘头条",
+        "title": "腾讯、阿里大幅上涨！机构：超跌后迎技术性反弹，成色有待业绩验证",
+        "summary": "港股11月5日大幅反弹，恒指升幅近3.7%，科技指数涨逾5%。阿里巴巴-W、腾讯控股领涨，美团亦显著走强。机构认为此次反弹属于技术性超跌修复，真实成色需待Q3业绩验证；腾讯Q3业绩预计11月18日公布。",
+        "why": "港股超跌反弹对持仓腾讯/阿里的 sell put 策略有短期支撑，但机构谨慎看待持续性；腾讯11/18业绩是下一个关键催化剂，建议关注是否有业绩超预期的信号。延续报道：AI选后崩跌后港股技术性反弹。",
+        "source": "21世纪经济报道",
+        "verified": False,
+        "keywords": ["腾讯", "Tencent", "0700.HK", "阿里巴巴", "美团", "港股", "恒生科技"],
+        "translated": False,
+        "url": "https://m.21jingji.com/article/20261105/herald/f2516682729f3f5fb6f531d2c91d6101.html",
+        "published_date": "2026-11-05",
+        "still_developing": True,
+        "cross_ref": ""
+    },
+    {
+        "tier": 2,
+        "lang": "en",
+        "markets": ["US"],
+        "time": "00:00",
+        "group": "个股",
+        "title": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
+        "summary": "Circle Q3 2026: revenue and reserve income $865M (+17% YoY), beating estimates. USDC on-chain volume up 49% to $13.9T, stablecoin transaction volume share 79%. ARC token presale added $182M one-time. Net income $226M. Workforce cut ~5% with $9.1M restructuring charge.",
+        "why": "Circle(CRCL)季报稳健，USDC交易量大幅提升；稳定币法案（GENIUS Act）推进背景下，CRCL基本面支撑长期价值；裁员5%属效率化举措非经营恶化信号。期权角度：财报已公布，IV或回落，可观察 sell put 重新建仓时机。",
+        "source": "The Block",
+        "verified": True,
+        "keywords": ["Circle", "CRCL", "USDC", "稳定币", "stablecoin", "GENIUS Act"],
+        "translated": False,
+        "url": "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
+        "published_date": "2026-11-04",
+        "still_developing": False,
+        "cross_ref": ""
+    },
+    {
+        "tier": 3,
+        "lang": "zh",
+        "markets": ["HK"],
+        "time": "00:00",
+        "group": "个股",
+        "title": "小米汽车工厂迎来全球媒体，雷军欢迎外国朋友体验 N70 和 N90",
+        "summary": "2026世界媒体峰会（11月5-8日，北京）期间，来自112个国家330家主流媒体参访北京亦庄小米汽车工厂。小米澎程为峰会官方用车，雷军欢迎外国媒体体验N70和N90系列，部分外媒称其为移动工作酒店。",
+        "why": "里程碑/品牌破圈：小米汽车通过顶级媒体外交渠道获得全球曝光，有助于海外市场形象建立；对港股（1810.HK）属正面催化剂，可关注是否带动估值修复。",
+        "source": "新浪财经",
+        "verified": False,
+        "keywords": ["小米", "Xiaomi", "1810.HK", "小米汽车", "雷军", "世界媒体峰会"],
+        "translated": False,
+        "url": "https://finance.sina.com.cn/tech/roll/2026-11-07/doc-inixwnye4874828.shtml",
+        "published_date": "2026-11-07",
+        "still_developing": False,
+        "cross_ref": ""
+    }
+]
+
+# Compute IDs and filter against seen.json
+items = []
+filtered = []
+for c in candidates:
+    item_id = make_id(c["url"], c.get("title", ""))
+    if item_id in seen_ids:
+        filtered.append((item_id, c["title"][:60]))
+    else:
+        c["id"] = item_id
+        items.append(c)
+
+print(f"\nTotal candidates: {len(candidates)}")
+print(f"Filtered (already in seen.json): {len(filtered)}")
+for fid, ftitle in filtered:
+    print(f"  SKIP {fid}: {ftitle}")
+print(f"New items to publish: {len(items)}")
+for item in items:
+    print(f"  NEW [{item['tier']}] {item['id']}: {item['title'][:70]}")
+
+with open("new_items.json", "w", encoding="utf-8") as f:
+    json.dump(items, f, ensure_ascii=False, indent=2)
+print(f"\nWrote {len(items)} items to new_items.json")
