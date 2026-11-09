@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-09 13:13 (北京时间)",
+  "updated_at": "2026-11-09 18:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,101 +9,132 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-09 13:13 (北京时间)",
-    "new_count": 3,
+    "at": "2026-11-09 18:19 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
+      "id": "e086a4baeb8d4407",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "A",
         "HK"
       ],
-      "time": "09:30",
+      "time": "00:00",
       "group": "大盘头条",
-      "title": "国家统计局：10月CPI同比上涨0.7%，PPI同比上涨5.7%",
-      "summary": "2026年10月全国居民消费价格同比上涨0.7%，涨幅较上月回落0.2个百分点；工业生产者出厂价格同比上涨5.7%，涨幅较上月扩大0.7个百分点，PPI环比回落0.5个百分点。核心CPI同比+0.8%。",
-      "why": "通胀数据直接影响货币政策预期：CPI涨幅收窄、PPI同比扩张，显示工业需求仍强但终端消费偏温，A股与港股顺周期板块及消费标的值得关注；sell put布局需防通胀数据超预期引发市场波动。",
-      "source": "新华网",
-      "verified": true,
+      "title": "Beijing calls for more efforts to stabilise stock market after renewed sell-off",
+      "summary": "China's State Council pledged improved policy mechanisms to stabilise capital markets following the renewed tech-driven sell-off. Earlier measures this week included a refreshed US$15 billion asset-swap facility and upgrades to listed-company buyback lending facilities, but stocks continued to slide. Beijing said funds from these facilities must be used exclusively for capital market investments including stocks and ETFs.",
+      "why": "延续报道：北京持续加码稳市工具箱是对冲港股和A股下跌风险的重要托底信号，有助于维持市场对sell put溢价的信心；若稳市资金大规模入场，可能推高科技ETF和大盘股的价格支撑，降低短期下行风险。",
+      "source": "SCMP",
+      "verified": false,
       "keywords": [
-        "CPI",
-        "PPI",
+        "A股",
+        "HK",
         "宏观",
-        "通胀",
-        "货币政策"
+        "macro",
+        "资本市场",
+        "政策"
       ],
       "translated": false,
-      "url": "https://www.news.cn/fortune/20261109/decb1630fe0f4b03b1eedaed46676cc1/c.html",
+      "url": "https://scmp.com/business/markets/article/3373602/beijing-calls-more-efforts-stabilise-stock-market-after-renewed-sell",
+      "published_date": "2026-11-06",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-09",
+      "is_new": true
+    },
+    {
+      "id": "f19f0a1f542adb3a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:10",
+      "group": "大盘头条",
+      "title": "Hong Kong shares close down 32 points, Meituan plunges 6.53% on stock downgrade",
+      "summary": "Hang Seng Index closed at 24,448.95, down 0.13% (−32.91 pts) on November 9, with turnover of HK$173.7 billion. Hang Seng Tech Index fell 0.92% to 4,040.73. Meituan (3690.HK) dropped 6.53%, dragging the market amid a broker downgrade and weakness in domestic consumption and property sectors.",
+      "why": "港股表现弱于预期，科技指数IV维持高位；美团大跌需关注3690.HK的sell put行权价支撑，covered call可酌情配置。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "HSI",
+        "HK",
+        "美团",
+        "Meituan",
+        "3690.HK"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1003864093/hong-kong-stock-market-close-nov-9-hang-seng-index",
       "published_date": "2026-11-09",
       "still_developing": false,
       "cross_ref": "",
-      "id": "bcbd6f43836b49fd",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-09",
       "is_new": true
     },
     {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Wall Street's worst week in 18 months: Nasdaq -5.5%, VIX surges 70% on Nov 5 as AI spending fears mount",
-      "summary": "On November 5, the Nasdaq Composite fell 5.52%, its biggest one-day drop in a year and its first correction since April 2025. The VIX surged approximately 70%, its largest single-session spike in nearly two years. Stocks partially rebounded on November 6, with the Nasdaq recovering 1.09%, but the index logged a weekly loss of roughly 5.5%.",
-      "why": "AI板块系统性抛售引发隐含波动率急升——对持有以科技股为标的sell put仓位构成直接冲击；本轮调整同时带出英伟达CEO调查等尾部风险，建议审视技术股名单的Delta敞口和行权价安全边际；关注周内能否企稳。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "美股",
-        "纳斯达克",
-        "AI",
-        "宏观",
-        "market",
-        "VIX",
-        "波动率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
-      "published_date": "2026-11-08",
-      "still_developing": true,
-      "cross_ref": "",
-      "id": "e9ab2b023f5a5bab",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-09",
-      "is_new": true
-    },
-    {
+      "id": "726a8fd567241ab1",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "港股11月9日：恒指高开0.59%，科技股领涨，远信储能IPO首日涨逾120%",
-      "summary": "11月9日港股开盘恒生指数涨0.59%报24626点，恒生科技指数涨1.02%，科网股与汽车股高开，PCB、光通信及存储半导体板块活跃；远信储能首日高开逾114%，午间涨幅超120%。午间收盘恒指涨0.2%，市场分歧扩大。",
-      "why": "港股今日反弹主要由科技板块驱动，配合国常会稳市政策信号释放正面情绪；关注持仓的腾讯、美团、小米等盘中走势，科指上涨有利于已卖出put的浮盈保护。",
-      "source": "新浪财经",
-      "verified": false,
+      "time": "00:00",
+      "group": "个股",
+      "title": "腾讯元器今日正式停服！应用访问、数据读写及API调用全面关闭",
+      "summary": "腾讯元器AI智能体平台因业务调整于2026年11月9日全面停止运营，包括应用访问、数据读写、API调用和控制台使用；已发布到微信各渠道的智能体同步下线。用户可在2027年1月9日前导出数据，腾讯建议迁移至腾讯云智能体开发平台(ADP)。这是腾讯一个月内关停的第二款AI智能体产品（QClaw将于12月24日关停）。",
+      "why": "元器关停标志腾讯AI智能体平台整合加速，资源向腾讯云和混元集中；短期对腾讯（00700.HK）业务影响有限，但反映AI市场进入整合期，Q3业绩将于11月18日发布，届时AI投入与利润趋势将更清晰。",
+      "source": "新浪科技",
+      "verified": true,
       "keywords": [
-        "恒指",
-        "港股",
-        "科技股",
-        "市场行情",
-        "宏观"
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "AI",
+        "混元",
+        "腾讯云"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-09/doc-iniycfna6563730.shtml",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniyauwe3078568.shtml",
       "published_date": "2026-11-09",
       "still_developing": false,
       "cross_ref": "",
-      "id": "7096453208778c9d",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-09",
+      "is_new": true
+    },
+    {
+      "id": "82c31e83ed0bfb56",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "腾讯Q3 2026业绩前瞻：11月18日披露，市场预期营收同比增约9%，AI持续投入使利润短期承压",
+      "summary": "腾讯控股将于2026年11月18日披露第三季度财报。国信证券预期三季度营收同比增9%，经调整净利润同比下降9%；广发证券预计总营收约2098亿元；瑞银预期营收同比增7%。AI基础设施持续投入仍是短期利润压制因素。",
+      "why": "11月18日是关键日历事件：财报前IV将升高，利于covered call提前锁定收益；业绩若符合或超出预期可维持sell put；下调幅度超预期则需警惕股价回落，应提前审视行权价。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "业绩",
+        "季报"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/news/5326480",
+      "published_date": "2026-11-07",
+      "still_developing": false,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-09",
       "is_new": true
@@ -1656,6 +1687,69 @@
       "is_new": false
     },
     {
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "国家统计局：10月CPI同比上涨0.7%，PPI同比上涨5.7%",
+      "summary": "2026年10月全国居民消费价格同比上涨0.7%，涨幅较上月回落0.2个百分点；工业生产者出厂价格同比上涨5.7%，涨幅较上月扩大0.7个百分点，PPI环比回落0.5个百分点。核心CPI同比+0.8%。",
+      "why": "通胀数据直接影响货币政策预期：CPI涨幅收窄、PPI同比扩张，显示工业需求仍强但终端消费偏温，A股与港股顺周期板块及消费标的值得关注；sell put布局需防通胀数据超预期引发市场波动。",
+      "source": "新华网",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "PPI",
+        "宏观",
+        "通胀",
+        "货币政策"
+      ],
+      "translated": false,
+      "url": "https://www.news.cn/fortune/20261109/decb1630fe0f4b03b1eedaed46676cc1/c.html",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "bcbd6f43836b49fd",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-09",
+      "is_new": false
+    },
+    {
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Wall Street's worst week in 18 months: Nasdaq -5.5%, VIX surges 70% on Nov 5 as AI spending fears mount",
+      "summary": "On November 5, the Nasdaq Composite fell 5.52%, its biggest one-day drop in a year and its first correction since April 2025. The VIX surged approximately 70%, its largest single-session spike in nearly two years. Stocks partially rebounded on November 6, with the Nasdaq recovering 1.09%, but the index logged a weekly loss of roughly 5.5%.",
+      "why": "AI板块系统性抛售引发隐含波动率急升——对持有以科技股为标的sell put仓位构成直接冲击；本轮调整同时带出英伟达CEO调查等尾部风险，建议审视技术股名单的Delta敞口和行权价安全边际；关注周内能否企稳。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "美股",
+        "纳斯达克",
+        "AI",
+        "宏观",
+        "market",
+        "VIX",
+        "波动率"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "published_date": "2026-11-08",
+      "still_developing": true,
+      "cross_ref": "",
+      "id": "e9ab2b023f5a5bab",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-09",
+      "is_new": false
+    },
+    {
       "id": "8f12e2bcaef95f5d",
       "tier": 1,
       "lang": "en",
@@ -2795,6 +2889,36 @@
       "id": "a7abe1ed63e24b9d",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-08",
+      "is_new": false
+    },
+    {
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "港股11月9日：恒指高开0.59%，科技股领涨，远信储能IPO首日涨逾120%",
+      "summary": "11月9日港股开盘恒生指数涨0.59%报24626点，恒生科技指数涨1.02%，科网股与汽车股高开，PCB、光通信及存储半导体板块活跃；远信储能首日高开逾114%，午间涨幅超120%。午间收盘恒指涨0.2%，市场分歧扩大。",
+      "why": "港股今日反弹主要由科技板块驱动，配合国常会稳市政策信号释放正面情绪；关注持仓的腾讯、美团、小米等盘中走势，科指上涨有利于已卖出put的浮盈保护。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "恒指",
+        "港股",
+        "科技股",
+        "市场行情",
+        "宏观"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-09/doc-iniycfna6563730.shtml",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "id": "7096453208778c9d",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-09",
       "is_new": false
     },
     {
