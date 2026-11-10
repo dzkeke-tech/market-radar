@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-09 18:19 (北京时间)",
+  "updated_at": "2026-11-10 08:29 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,326 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-09 18:19 (北京时间)",
-    "new_count": 4,
+    "at": "2026-11-10 08:29 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "e086a4baeb8d4407",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Beijing calls for more efforts to stabilise stock market after renewed sell-off",
-      "summary": "China's State Council pledged improved policy mechanisms to stabilise capital markets following the renewed tech-driven sell-off. Earlier measures this week included a refreshed US$15 billion asset-swap facility and upgrades to listed-company buyback lending facilities, but stocks continued to slide. Beijing said funds from these facilities must be used exclusively for capital market investments including stocks and ETFs.",
-      "why": "延续报道：北京持续加码稳市工具箱是对冲港股和A股下跌风险的重要托底信号，有助于维持市场对sell put溢价的信心；若稳市资金大规模入场，可能推高科技ETF和大盘股的价格支撑，降低短期下行风险。",
-      "source": "SCMP",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "HK",
-        "宏观",
-        "macro",
-        "资本市场",
-        "政策"
-      ],
-      "translated": false,
-      "url": "https://scmp.com/business/markets/article/3373602/beijing-calls-more-efforts-stabilise-stock-market-after-renewed-sell",
-      "published_date": "2026-11-06",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-09",
-      "is_new": true
-    },
-    {
-      "id": "f19f0a1f542adb3a",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:10",
-      "group": "大盘头条",
-      "title": "Hong Kong shares close down 32 points, Meituan plunges 6.53% on stock downgrade",
-      "summary": "Hang Seng Index closed at 24,448.95, down 0.13% (−32.91 pts) on November 9, with turnover of HK$173.7 billion. Hang Seng Tech Index fell 0.92% to 4,040.73. Meituan (3690.HK) dropped 6.53%, dragging the market amid a broker downgrade and weakness in domestic consumption and property sectors.",
-      "why": "港股表现弱于预期，科技指数IV维持高位；美团大跌需关注3690.HK的sell put行权价支撑，covered call可酌情配置。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "恒生指数",
-        "HSI",
-        "HK",
-        "美团",
-        "Meituan",
-        "3690.HK"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/1003864093/hong-kong-stock-market-close-nov-9-hang-seng-index",
-      "published_date": "2026-11-09",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-09",
-      "is_new": true
-    },
-    {
-      "id": "726a8fd567241ab1",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "腾讯元器今日正式停服！应用访问、数据读写及API调用全面关闭",
-      "summary": "腾讯元器AI智能体平台因业务调整于2026年11月9日全面停止运营，包括应用访问、数据读写、API调用和控制台使用；已发布到微信各渠道的智能体同步下线。用户可在2027年1月9日前导出数据，腾讯建议迁移至腾讯云智能体开发平台(ADP)。这是腾讯一个月内关停的第二款AI智能体产品（QClaw将于12月24日关停）。",
-      "why": "元器关停标志腾讯AI智能体平台整合加速，资源向腾讯云和混元集中；短期对腾讯（00700.HK）业务影响有限，但反映AI市场进入整合期，Q3业绩将于11月18日发布，届时AI投入与利润趋势将更清晰。",
-      "source": "新浪科技",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "AI",
-        "混元",
-        "腾讯云"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniyauwe3078568.shtml",
-      "published_date": "2026-11-09",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-09",
-      "is_new": true
-    },
-    {
-      "id": "82c31e83ed0bfb56",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "腾讯Q3 2026业绩前瞻：11月18日披露，市场预期营收同比增约9%，AI持续投入使利润短期承压",
-      "summary": "腾讯控股将于2026年11月18日披露第三季度财报。国信证券预期三季度营收同比增9%，经调整净利润同比下降9%；广发证券预计总营收约2098亿元；瑞银预期营收同比增7%。AI基础设施持续投入仍是短期利润压制因素。",
-      "why": "11月18日是关键日历事件：财报前IV将升高，利于covered call提前锁定收益；业绩若符合或超出预期可维持sell put；下调幅度超预期则需警惕股价回落，应提前审视行权价。",
-      "source": "格隆汇",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "业绩",
-        "季报"
-      ],
-      "translated": false,
-      "url": "https://m.gelonghui.com/news/5326480",
-      "published_date": "2026-11-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-09",
-      "is_new": true
-    },
-    {
-      "id": "f042b2b231182399",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "人民银行、证监会今日召开会议 研究推动支持资本市场工具使用",
-      "summary": "人民银行、金融监管总局、证监会分别召集证券基金公司及各大银行，研究推动证券基金保险公司互换便利与股票回购增持再贷款两项工具落地扩面；消息称国有大型银行单家回购贷款额度或可达千亿元级。",
-      "why": "重大政策利好：若两项支持工具扩面落地，A股/港股回购规模有望显著提升，隐含波动率可能阶段性下降，对持有港股或A股标的的 sell put 策略有短期提振；需关注会议实质结果与政策落地时间表。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "资本市场",
-        "回购",
-        "支持工具",
-        "人民银行",
-        "证监会"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261102/herald/beec28a010a2de3e7aae4d409363f352.html",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "6e3d74ce3b6878b6",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "美联储11月按兵不动 鹰派异议官员主张加息 年末再加息预期升温",
-      "summary": "美联储10月议息会议以10票对2票维持联邦基金利率于3.75%-4%不变，两名反对票官员主张立即加息25bp。多位联储官员认为进一步收紧有必要。据CME FedWatch（截至2026年11月2日），市场定价12月加息25bp概率已升至约72%。",
-      "why": "加息预期持续升温压制成长股估值，对持有高估值科技/消费标的的 sell put 策略，行权价保护距离需重新评估；金价及高息债同步承压。该72%来自CME FedWatch官方工具，由21世纪经济报道引用。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "加息",
-        "利率",
-        "货币政策",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261102/herald/ce4562cadd108dff3d600625d978b7da.html",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "9a711a23a8509d2e",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
-      "summary": "Xiaomi reported more than 50,000 EV deliveries in October 2026, its highest monthly figure this year. Year-to-date deliveries reached about 336,490 units through end of October. Xiaomi Hong Kong shares rose about 6% on the news.",
-      "why": "交付量创年内新高，1810.HK 涨超6%，短期看涨情绪强烈；但1-10月累计仅完成全年550,000辆目标约61%，11-12月需月均超10万辆才能达标，年目标完成压力较大，反弹高点可考虑 covered call。",
-      "source": "AsiaOne",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "电动车",
-        "1810.HK",
-        "交付量"
-      ],
-      "translated": false,
-      "url": "https://www.asiaone.com/money/xiaomis-october-ev-deliveries-top-50k-hit-2026-monthly-high",
-      "published_date": "2026-11-01",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "1ca13294da233eb3",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "苹果官宣国行Apple Intelligence接入阿里通义千问，11月4日开放iOS Beta测试，12月正式推出",
-      "summary": "苹果于10月31日正式宣布，国行iPhone将接入阿里巴巴通义千问AI，首批功能11月4日随iOS开发者Beta版开放，12月随正式版推送中国用户；Siri可直接调用千问进行知识问答与内容创作，仅限A17 Pro及以上芯片机型，用户可自主选择是否开通。",
-      "why": "直接利好阿里巴巴（9988.HK/BABA）云与AI业务，通义千问获苹果生态流量背书，验证阿里MaaS商业路线；合作历时近两年落地，对持有BABA sell put策略而言，利好消息落地后短期隐含波动率可能有所变化，宜留意covered call窗口。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "通义千问",
-        "Apple Intelligence",
-        "苹果AI",
-        "阿里云",
-        "BABA",
-        "9988.HK"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261102/herald/1f1b8a361d0b7f63a27e520b1df69da1.html",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "f4e99eccec4edf71",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:23",
-      "group": "大盘头条",
-      "title": "Apple and Palantir Both Report Results After Close Today; iPhone 18 Demand and Palantir AI Revenue Growth in Focus",
-      "summary": "Apple releases fiscal Q4 2026 results after US market close today. Consensus projects ~$113.4 billion revenue (+10% YoY) and EPS ~$1.99; key metrics are iPhone 18 initial demand and Apple Intelligence monetization in China (partnered with Alibaba's Qianwen). Palantir Technologies also reports Q3 2026 tonight; US commercial AI revenue is the focal metric after surging 149% in Q2.",
-      "why": "苹果今晚公布FY2026 Q4，iPhone 18出货量与Apple Intelligence中国区商业化（通义千问进展）为核心指标；Palantir同晚Q3验证商业AI落地加速度。两份报告共同主导本周美股情绪。财报前期权IV偏高，建议等待财报落地后IV压缩再布局Sell Put/Sell Strangle策略。",
-      "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Apple",
-        "AAPL",
-        "iPhone",
-        "Palantir",
-        "PLTR",
-        "财报",
-        "technology",
-        "Apple Intelligence"
-      ],
-      "translated": false,
-      "published_date": "2026-11-01",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "d4e0fcab66bdbedd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:23",
-      "group": "大盘头条",
-      "title": "US Midterm Elections on November 3: Markets Brace for Congressional Outcome as Tech Earnings Volatility Continues",
-      "summary": "US midterm elections are scheduled for November 3, 2026. Wall Street analysts note history shows the S&P 500 tends to rally after midterm results become clear as political uncertainty fades. The same week includes AMD Q3 earnings (Nov 3), McDonald's Q3, and a jobs report Friday. Congressional outcomes will affect AI regulation, defense budgets (Palantir government contracts), and healthcare policy.",
-      "why": "延续报道：中期选举明日举行，结果落地有望消除政策不确定性并带来短期反弹；议会格局变化将影响AI监管（Palantir政府合同）、国防预算及医疗政策；选举前后IV变化是期权策略重要窗口，关注结果明朗后的IV压缩机会。",
-      "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "选举",
-        "midterm",
-        "宏观",
-        "macro",
-        "美股",
-        "Palantir",
-        "PLTR"
-      ],
-      "translated": false,
-      "published_date": "2026-10-30",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
     {
       "id": "eee853ddba22b5ab",
       "tier": 1,
@@ -1687,6 +1373,38 @@
       "is_new": false
     },
     {
+      "id": "e086a4baeb8d4407",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Beijing calls for more efforts to stabilise stock market after renewed sell-off",
+      "summary": "China's State Council pledged improved policy mechanisms to stabilise capital markets following the renewed tech-driven sell-off. Earlier measures this week included a refreshed US$15 billion asset-swap facility and upgrades to listed-company buyback lending facilities, but stocks continued to slide. Beijing said funds from these facilities must be used exclusively for capital market investments including stocks and ETFs.",
+      "why": "延续报道：北京持续加码稳市工具箱是对冲港股和A股下跌风险的重要托底信号，有助于维持市场对sell put溢价的信心；若稳市资金大规模入场，可能推高科技ETF和大盘股的价格支撑，降低短期下行风险。",
+      "source": "SCMP",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "HK",
+        "宏观",
+        "macro",
+        "资本市场",
+        "政策"
+      ],
+      "translated": false,
+      "url": "https://scmp.com/business/markets/article/3373602/beijing-calls-more-efforts-stabilise-stock-market-after-renewed-sell",
+      "published_date": "2026-11-06",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-09",
+      "is_new": false
+    },
+    {
       "tier": 1,
       "lang": "zh",
       "markets": [
@@ -1809,218 +1527,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-09",
-      "is_new": false
-    },
-    {
-      "id": "7864989af9299946",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "10月中国官方制造业PMI降至49.3% 时隔一月重返收缩区间",
-      "summary": "国家统计局10月31日发布：制造业PMI为49.3%，较9月50.1%回落0.8个百分点，重回荣枯线下方。生产指数49.8%，新订单指数49.4%；大型企业PMI仍在扩张区（50.2%），中小型企业双双低于临界点。高技术制造业PMI为51.3%。",
-      "why": "制造业景气回落印证宏观需求偏弱，与港股消费/工业相关标的估值承压；亦强化市场对政策进一步宽松的预期，与今日人民银行/证监会会议形成呼应。",
-      "source": "新华网",
-      "verified": true,
-      "keywords": [
-        "PMI",
-        "制造业",
-        "宏观",
-        "中国经济"
-      ],
-      "translated": false,
-      "url": "https://www.news.cn/fortune/20261031/2653616255d249e3807be987c25b8e7b/c.html",
-      "published_date": "2026-10-31",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "d5cfce4398d7a7d7",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "Oil slips more than 1% as Iran-Qatar talks continue on ending Iran war",
-      "summary": "Brent crude slipped more than 1% as Iranian and Qatari officials held a third consecutive day of talks aimed at ending the U.S.-Israeli war on Iran. Reports indicate US President Trump wants to allow more time for diplomacy before potentially resuming military action after Tuesday's midterm elections. No formal agreement has been announced.",
-      "why": "油价下跌短期缓和通胀压力，但美伊谈判尚无实质成果，地缘风险仍高；若中期选举后谈判破裂，油价反弹风险较大，间接影响通胀预期与美联储政策路径。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "油价",
-        "地缘政治",
-        "美伊",
-        "通胀",
-        "宏观"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/amp/2026/11/02/oil-slips-more-than-1percent-as-talks-continue-on-ending-iran-war.html",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "f0cd5708b4d298a3",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "US midterm elections Tuesday: markets historically rally post-vote despite pre-election volatility",
-      "summary": "US midterm elections take place Tuesday, November 3. Historically the S&P 500 averages +20.5% in the year following midterms since 1990. Polls and prediction markets currently point toward a possible Democratic House takeover; Morgan Stanley expects limited near-term market impact.",
-      "why": "延续报道：中期选举明日举行，结果将影响科技监管与财政政策走向，对持有美股科技标的的 sell put 策略需关注选后两周可能的波动放大窗口；历史数据显示大选后市场中期走势向上。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "中期选举",
-        "美股",
-        "政策",
-        "波动率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/10/29/midterm-elections-stock-market-history.html",
-      "published_date": "2026-10-29",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "8fcd8eda52c0b00a",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "Palantir (PLTR) Q3 2026 Earnings Due Today After Close; Prior Quarter Revenue Surged 93%",
-      "summary": "Palantir reports Q3 2026 earnings after market close today (Nov 2). Company guided Q3 revenue to $2.160-2.164B; analyst consensus ~$2.18B. Prior Q2 revenue grew 93% YoY. Full-year revenue guidance raised to $8.150-8.158B.",
-      "why": "今晚财报是本周最重要的AI概念股业绩验证；前季度93%的增速令市场预期极高，若再度超预期，整个AI软件/数据分析板块将受提振；持有或关注PLTR的 sell put 策略需注意财报后波动放大风险。",
-      "source": "MarketBeat",
-      "verified": false,
-      "keywords": [
-        "Palantir",
-        "PLTR",
-        "季报",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://www.marketbeat.com/earnings/reports/2026-11-2-palantir-technologies-inc-stock/",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "34aae656d10aa757",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "11:30",
-      "group": "个股",
-      "title": "Circle Internet Group (CRCL) Shares Fall 5.6% After USDC Freeze Amid Binance Security Breach",
-      "summary": "Circle froze more than $800M in USDC tied to a potential exploit involving Binance. Shares fell 5.6% in after-hours trading on Oct 30. USDC supply fell to ~$70B in the week ending Oct 29, still fully backed by ~$71.4B in reserves. Circle Q4 earnings due November 4.",
-      "why": "USDC冻结事件引发市场对稳定币审查收紧的担忧；11月4日财报是近期核心催化剂，对持有CRCL sell put 需注意财报前后隐含波动率变化。延续报道：10月30日事件后市场仍在等待细节披露。",
-      "source": "GuruFocus",
-      "verified": false,
-      "keywords": [
-        "Circle",
-        "CRCL",
-        "USDC",
-        "稳定币",
-        "Binance"
-      ],
-      "translated": false,
-      "url": "https://www.gurufocus.com/news/9158193/circle-internet-group-crcl-shares-fall-56-after-usdc-freeze-amid-binance-security-breach",
-      "published_date": "2026-10-30",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "ce7f407701484d17",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "12:30",
-      "group": "个股",
-      "title": "Nvidia fell 4.2% amid Intel chip selloff; Q3 earnings on Nov 17 seen as key catalyst",
-      "summary": "Nvidia (NVDA) fell 4.22% on Oct 30 amid the Intel-triggered chip sector selloff. NVDA fiscal Q3 2026 earnings are scheduled for November 17. Market cap exceeds $5 trillion; stock up ~15% year-to-date and trades at ~23x forward earnings.",
-      "why": "11月17日英伟达Q3财报是本月最重要的AI芯片板块催化剂；英特尔暴跌拖累整个半导体板块，对持有NVDA sell put 策略，需在财报前评估隐含波动率是否已完全定价预期。",
-      "source": "Motley Fool",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "季报",
-        "AI芯片",
-        "半导体"
-      ],
-      "translated": false,
-      "url": "https://www.fool.com/investing/2026/11/02/prediction-nvidia-will-have-an-incredible-november/",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
-      "is_new": false
-    },
-    {
-      "id": "fae1f061b7a06781",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "大盘头条",
-      "title": "港股午评：恒生科技指数涨2.85%，科网股普涨，小米+6.27%，光通信板块领涨",
-      "summary": "11月2日午间，恒生指数涨0.61%报23437点，恒生科技指数涨2.85%；阿里巴巴+2.94%、腾讯+3.39%、小米集团+6.27%；光通信板块领涨（长飞光纤涨超13%），中资券商股走强（中金公司涨超8%）；港交所同日起将买卖盘价格上限从九倍收窄至五倍。",
-      "why": "港股科技股集体反弹，持仓组合（腾讯、阿里、小米）短线受益；光通信板块强势反映AI算力扩容预期；小米大幅领涨与10月交付5万台催化有关；可关注板块轮动机会，监控各标的sell put到期价位安全边际变化。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "恒生科技指数",
-        "港股",
-        "小米集团",
-        "阿里巴巴",
-        "腾讯",
-        "光通信",
-        "科网股"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-02/doc-inixiiqz0483866.shtml",
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
       "is_new": false
     },
     {
@@ -2892,6 +2398,98 @@
       "is_new": false
     },
     {
+      "id": "f19f0a1f542adb3a",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:10",
+      "group": "大盘头条",
+      "title": "Hong Kong shares close down 32 points, Meituan plunges 6.53% on stock downgrade",
+      "summary": "Hang Seng Index closed at 24,448.95, down 0.13% (−32.91 pts) on November 9, with turnover of HK$173.7 billion. Hang Seng Tech Index fell 0.92% to 4,040.73. Meituan (3690.HK) dropped 6.53%, dragging the market amid a broker downgrade and weakness in domestic consumption and property sectors.",
+      "why": "港股表现弱于预期，科技指数IV维持高位；美团大跌需关注3690.HK的sell put行权价支撑，covered call可酌情配置。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "HSI",
+        "HK",
+        "美团",
+        "Meituan",
+        "3690.HK"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1003864093/hong-kong-stock-market-close-nov-9-hang-seng-index",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-09",
+      "is_new": false
+    },
+    {
+      "id": "726a8fd567241ab1",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "腾讯元器今日正式停服！应用访问、数据读写及API调用全面关闭",
+      "summary": "腾讯元器AI智能体平台因业务调整于2026年11月9日全面停止运营，包括应用访问、数据读写、API调用和控制台使用；已发布到微信各渠道的智能体同步下线。用户可在2027年1月9日前导出数据，腾讯建议迁移至腾讯云智能体开发平台(ADP)。这是腾讯一个月内关停的第二款AI智能体产品（QClaw将于12月24日关停）。",
+      "why": "元器关停标志腾讯AI智能体平台整合加速，资源向腾讯云和混元集中；短期对腾讯（00700.HK）业务影响有限，但反映AI市场进入整合期，Q3业绩将于11月18日发布，届时AI投入与利润趋势将更清晰。",
+      "source": "新浪科技",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "AI",
+        "混元",
+        "腾讯云"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniyauwe3078568.shtml",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-09",
+      "is_new": false
+    },
+    {
+      "id": "82c31e83ed0bfb56",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "腾讯Q3 2026业绩前瞻：11月18日披露，市场预期营收同比增约9%，AI持续投入使利润短期承压",
+      "summary": "腾讯控股将于2026年11月18日披露第三季度财报。国信证券预期三季度营收同比增9%，经调整净利润同比下降9%；广发证券预计总营收约2098亿元；瑞银预期营收同比增7%。AI基础设施持续投入仍是短期利润压制因素。",
+      "why": "11月18日是关键日历事件：财报前IV将升高，利于covered call提前锁定收益；业绩若符合或超出预期可维持sell put；下调幅度超预期则需警惕股价回落，应提前审视行权价。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "业绩",
+        "季报"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/news/5326480",
+      "published_date": "2026-11-07",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-09",
+      "is_new": false
+    },
+    {
       "tier": 2,
       "lang": "zh",
       "markets": [
@@ -3009,38 +2607,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-09",
-      "is_new": false
-    },
-    {
-      "id": "32eb4735dd1e6392",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "08:23",
-      "group": "个股",
-      "title": "泡泡玛特旗下甜品品牌POP BAKERY北京首店开业，THE MONSTERS主题IP融合线下餐饮体验",
-      "summary": "10月31日，泡泡玛特旗下甜品品牌POP BAKERY在北京朝阳合生汇开设首家门店，主题为THE MONSTERS系列，推出多款IP造型甜品。此举为公司Q3收入同比大幅下滑背景下，探索IP商业化新通路的品牌多元化举措。",
-      "why": "POP BAKERY是泡泡玛特在盲盒收入承压后向「IP生活方式」品牌转型的里程碑尝试，有助于拓宽IP变现渠道与线下体验入口；单店短期贡献有限，更多是战略信号；9992.HK持仓者可关注IP多元化执行进度，作为评估长期估值修复的参考指标。",
-      "url": "https://m.21jingji.com/article/20261031/herald/81b4afb4e414a1ab5d2a5178cbfcc1b6.html",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "POPMART",
-        "9992.HK",
-        "The Monsters",
-        "潮玩",
-        "Labubu"
-      ],
-      "translated": false,
-      "published_date": "2026-10-31",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-02",
       "is_new": false
     },
     {
