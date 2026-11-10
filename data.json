@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-10 13:16 (北京时间)",
+  "updated_at": "2026-11-10 18:15 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,214 +9,97 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-10 13:16 (北京时间)",
-    "new_count": 7,
+    "at": "2026-11-10 18:15 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "44d6ddf1b6ca0030",
+      "id": "79239226f8cb1e2f",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "21:00",
+      "group": "大盘头条",
+      "title": "Fed Governor Waller sees December rate hike likely, opens door to 50bps if inflation data surprises",
+      "summary": "Fed Governor Christopher Waller said he will support at least a quarter-point rate hike in December, while also opening the door to a half-point move if October core CPI rises 0.3% or more month-on-month. Waller's remarks came ahead of Tuesday's key inflation print.",
+      "why": "Waller的表态将12月25bp加息基本锁定，同时50bp尾部风险出现。对sell put策略影响直接：CPI今晚21:30发布，若核心CPI环比≥0.3%，科技/成长股隐含波动率可能急升，高行权价put持仓风险上升。配合已有的达拉斯联储鹰派表态（11月7日），美联储整体立场更加明朗。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "加息",
+        "Fed",
+        "Waller",
+        "CPI",
+        "December rate hike"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+      "published_date": "2026-11-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": true
+    },
+    {
+      "id": "93e14a9d028437d3",
+      "tier": 1,
+      "lang": "en",
       "markets": [
         "US"
       ],
       "time": "09:00",
       "group": "大盘头条",
-      "title": "美国10月CPI今晚21:30发布：BLS将缺失同比数据，市场预期环比约+0.3%，12月加息关键变量",
-      "summary": "美国劳工统计局（BLS）将于北京时间今晚21:30发布10月CPI。因2025年10月政府停摆期间未采集价格数据，本次报告将不公布12个月同比涨幅。市场共识预期10月CPI环比约+0.3%，核心CPI约+0.2%，均低于9月的0.6%和0.3%。这是12月美联储会议前最后一份通胀数据。",
-      "why": "CPI直接影响12月加息路径；据CNBC报道（2026-11-09），市场目前定价12月加息25bp概率约83%。低于预期的通胀数据可能短暂压制加息预期，利好科技估值及sell put策略；高于预期将推高利率，压缩期权卖出方的安全边际。",
-      "source": "21经济网",
-      "verified": true,
-      "keywords": [
-        "CPI",
-        "通胀",
-        "美联储",
-        "加息",
-        "美国经济"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261110/herald/745adf39470a423c2045ca122e134291.html",
-      "published_date": "2026-11-10",
-      "still_developing": false,
-      "cross_ref": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-10",
-      "is_new": true
-    },
-    {
-      "id": "d82ad41856c9a322",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "美股周一大幅收涨：科技股与芯片股领涨，油价大幅回落提振风险情绪",
-      "summary": "美股11月9日（周一）三大指数大幅收涨，芯片股与科技股领跑，AMD等半导体个股涨幅显著。油价当日大幅回落（据报布伦特原油跌幅达约5-6%，原因系美伊谈判前景改善），推动市场风险情绪明显好转。VIX恐慌指数大幅下降，市场整体从上周跌势中强势反弹。",
-      "why": "美股大反弹改善整体风险情绪，对港股与A股科技持仓形成外部支撑；VIX下降降低期权隐含波动率，对sell put策略估值影响应予以关注。",
-      "source": "财联社",
+      "title": "Anthropic pushes ahead with mid-November IPO; roadshow begins week of Nov 9, Nasdaq debut targets Nov 16",
+      "summary": "Anthropic is proceeding with a mid-November Nasdaq IPO under ticker ANT despite some investor skepticism over its valuation. The roadshow began the week of November 9, with pricing expected the week of November 16. The company is targeting a valuation of $1.5T–$2T in what would be one of the largest IPOs in history. SCMP reports the S-1 filing shows explosive revenue growth alongside steep losses and $600B in cloud computing commitments from partners.",
+      "why": "Anthropic上市是AI大板块里程碑事件：首次给散户和机构提供前沿AI模型公司直接持仓机会；$1.5T-$2T目标估值若成立，将强化整个AI生态的估值锚定——对NVIDIA、Google、腾讯、阿里云均有估值参照意义。Claude与腾讯元宝、阿里千问构成直接竞争，上市后估值差将更清晰。延续报道：本事件自10月26日公开S-1以来持续发酵，本轮为路演启动新进展。",
+      "source": "IFR (Reuters)",
       "verified": false,
       "keywords": [
-        "美股",
-        "芯片股",
-        "科技股",
-        "油价",
-        "VIX"
+        "Anthropic",
+        "IPO",
+        "ANT",
+        "Nasdaq",
+        "AI",
+        "Claude"
       ],
       "translated": false,
-      "url": "https://www.cls.cn/detail/2525646",
+      "url": "https://www.ifre.com/equities/2499407/anthropic-pushes-ahead-with-mid-november-ipo",
       "published_date": "2026-11-09",
-      "still_developing": false,
-      "cross_ref": "",
+      "still_developing": true,
+      "cross_ref": "https://www.scmp.com/news/world/united-states-canada/article/3372202/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-10",
       "is_new": true
     },
     {
-      "id": "a47525dc69b5e94d",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "小米汽车10月交付超5万辆创月度新高，增程车型占比超50%，港股涨逾6%",
-      "summary": "据乘联会数据（11月9日），小米汽车10月交付量超5万辆，为年内单月最高，增程车型占比首次过半。小米Sky Nomad增程系列9月7日开始交付，30天内锁定订单超7万辆。前十个月累计交付约33.6万辆，完成全年55万辆目标约61%。消息带动港股涨逾6%至约28元。",
-      "why": "交付量超预期利好小米(1810.HK)估值，出行+科技双赛道逻辑持续验证；但全年目标完成度仅61%，11-12月仍需每月超5万辆，年底目标达成存压力，可参考是否调整covered call行权价。",
-      "source": "华尔街见闻",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "1810.HK",
-        "电动车",
-        "交付",
-        "增程"
-      ],
-      "translated": false,
-      "url": "https://wallstreetcn.com/articles/3759635",
-      "published_date": "2026-11-09",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-10",
-      "is_new": true
-    },
-    {
-      "id": "fbcc921405610416",
+      "id": "b5782d10ede34afd",
       "tier": 2,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "HK"
       ],
-      "time": "12:30",
+      "time": "16:30",
       "group": "大盘头条",
-      "title": "港股午评：恒指涨0.29%，恒科指数涨0.70%，AI概念股全面反弹，智谱涨约12%",
-      "summary": "11月10日午间，恒生指数报24518.87点，涨0.29%；恒生科技指数涨0.70%，国企指数涨0.03%。AI概念股全面反弹，智谱股价涨幅接近12%。方达控股(01521)复牌后涨约39%。科网股涨跌不一，阿里巴巴盘中跌超3%。",
-      "why": "港股AI概念股强势反弹，整体情绪偏暖，对腾讯、美团等科技持仓有短期支撑；阿里巴巴盘中走弱需关注，可能影响相关期权Delta风险。",
-      "source": "新浪财经",
-      "verified": true,
+      "title": "Hong Kong shares rally as major financial, chip stocks advance at market close",
+      "summary": "Hang Seng Index closed up 108.09 points (+0.44%) to 24,557.04 on Nov 10, with HK$178B in turnover. HSBC and Standard Chartered rose 4–5%, while Lenovo surged ~6% and AI chip stocks led sector gains. The rally followed Wall Street's strong recovery and sliding oil prices.",
+      "why": "港股收市确认情绪回暖，金融股领涨显示资金风险偏好改善。与前日Meituan-6.53%形成反差，今日恒指反弹有利于现有港股多头仓位。注意：本轮大盘头条偏少，前一轮（13:16）已覆盖午评及CPI预告，本轮为收市后运行，新增以收盘数据及美联储官员表态为主。",
+      "source": "The Standard",
+      "verified": false,
       "keywords": [
         "港股",
         "恒生指数",
-        "AI概念股",
-        "恒生科技指数"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-10/doc-iniyfkmf2771531.shtml",
-      "published_date": "2026-11-10",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-10",
-      "is_new": true
-    },
-    {
-      "id": "5a7f8bf508443f2e",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "A股午评：创业板指涨1.49%，AI硬件走强，中际旭创、新易盛涨超6%",
-      "summary": "11月10日上午收盘，上证指数涨0.06%报3662.81点，深证成指涨0.76%，创业板指涨1.49%报2495.29点，科创50涨1.05%。两市成交额达0.96万亿元。AI硬件板块走强，中际旭创、新易盛涨超6%；影视院线、照明设备、厨卫电器等板块领涨；油气、海运等板块调整。",
-      "why": "A股AI硬件主线保持强势，与美股前日科技反弹形成共振；影视院线等消费板块亦有表现，但成交额偏低，趋势待验证。",
-      "source": "21经济网",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "创业板",
-        "AI硬件",
-        "中际旭创",
-        "新易盛"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261110/herald/79c050a982d2ab3546115869a97f74c2.html",
-      "published_date": "2026-11-10",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-10",
-      "is_new": true
-    },
-    {
-      "id": "b5a7ff1e8eef40fc",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
         "HK",
-        "US"
-      ],
-      "time": "21:00",
-      "group": "个股",
-      "title": "摩根士丹利下调美团、拼多多评级至平配，美团目标价由110港元降至90港元",
-      "summary": "摩根士丹利11月9日将美团-W(03690.HK)及拼多多(PDD)评级均下调至平配（持平大市），美团目标价由110港元下调至90港元。理由为国内电商复合增长放缓、竞争持续内卷。美团当日跌约6.5%，北水当日净买入约5.9亿港元抄底。摩根士丹利认为70-80港元区间适合做短线反弹，不建议长线加仓。",
-      "why": "大行下调评级叠加股价大跌，对美团sell put策略需评估下行风险：目标价已降至90港元，意味着市场可能进一步测试低位；短期北水护盘或提供支撑，但监管和竞争压力未解除。",
-      "source": "华尔街见闻",
-      "verified": false,
-      "keywords": [
-        "美团",
-        "3690.HK",
-        "摩根士丹利",
-        "评级下调",
-        "PDD"
+        "收盘",
+        "金融股"
       ],
       "translated": false,
-      "url": "https://wallstreetcn.com/articles/3759360",
-      "published_date": "2026-11-09",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-10",
-      "is_new": true
-    },
-    {
-      "id": "99015e0685547724",
-      "tier": 3,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "Bitcoin Faces CPI Test as Analysts Warn Inflation Relief May Not Be Enough",
-      "summary": "Bitcoin is trading below $75,000 ahead of the US October CPI release. Analysts say even a softer-than-expected reading may not be enough to trigger a sustained rally, as markets are already pricing in a December Fed rate hike with high probability.",
-      "why": "加密市场与宏观利率预期高度相关，CPI结果若符合预期，比特币短期或难以突破；若数据意外温和，则可能带来短暂上行。整体而言比特币当前在75,000美元关键价位，CPI是近期最重要的催化剂。",
-      "source": "CoinDesk",
-      "verified": true,
-      "keywords": [
-        "Bitcoin",
-        "CPI",
-        "加密货币",
-        "美联储"
-      ],
-      "translated": false,
-      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "url": "https://www.thestandard.com.hk/finance/article/348060/Hong-Kong-shares-rally-as-major-financial-chip-stocks-advance-at-market-close",
       "published_date": "2026-11-10",
       "still_developing": false,
       "cross_ref": "",
@@ -1739,6 +1622,96 @@
       "is_new": false
     },
     {
+      "id": "44d6ddf1b6ca0030",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "美国10月CPI今晚21:30发布：BLS将缺失同比数据，市场预期环比约+0.3%，12月加息关键变量",
+      "summary": "美国劳工统计局（BLS）将于北京时间今晚21:30发布10月CPI。因2025年10月政府停摆期间未采集价格数据，本次报告将不公布12个月同比涨幅。市场共识预期10月CPI环比约+0.3%，核心CPI约+0.2%，均低于9月的0.6%和0.3%。这是12月美联储会议前最后一份通胀数据。",
+      "why": "CPI直接影响12月加息路径；据CNBC报道（2026-11-09），市场目前定价12月加息25bp概率约83%。低于预期的通胀数据可能短暂压制加息预期，利好科技估值及sell put策略；高于预期将推高利率，压缩期权卖出方的安全边际。",
+      "source": "21经济网",
+      "verified": true,
+      "keywords": [
+        "CPI",
+        "通胀",
+        "美联储",
+        "加息",
+        "美国经济"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261110/herald/745adf39470a423c2045ca122e134291.html",
+      "published_date": "2026-11-10",
+      "still_developing": false,
+      "cross_ref": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": false
+    },
+    {
+      "id": "d82ad41856c9a322",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "美股周一大幅收涨：科技股与芯片股领涨，油价大幅回落提振风险情绪",
+      "summary": "美股11月9日（周一）三大指数大幅收涨，芯片股与科技股领跑，AMD等半导体个股涨幅显著。油价当日大幅回落（据报布伦特原油跌幅达约5-6%，原因系美伊谈判前景改善），推动市场风险情绪明显好转。VIX恐慌指数大幅下降，市场整体从上周跌势中强势反弹。",
+      "why": "美股大反弹改善整体风险情绪，对港股与A股科技持仓形成外部支撑；VIX下降降低期权隐含波动率，对sell put策略估值影响应予以关注。",
+      "source": "财联社",
+      "verified": false,
+      "keywords": [
+        "美股",
+        "芯片股",
+        "科技股",
+        "油价",
+        "VIX"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2525646",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": false
+    },
+    {
+      "id": "a47525dc69b5e94d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "小米汽车10月交付超5万辆创月度新高，增程车型占比超50%，港股涨逾6%",
+      "summary": "据乘联会数据（11月9日），小米汽车10月交付量超5万辆，为年内单月最高，增程车型占比首次过半。小米Sky Nomad增程系列9月7日开始交付，30天内锁定订单超7万辆。前十个月累计交付约33.6万辆，完成全年55万辆目标约61%。消息带动港股涨逾6%至约28元。",
+      "why": "交付量超预期利好小米(1810.HK)估值，出行+科技双赛道逻辑持续验证；但全年目标完成度仅61%，11-12月仍需每月超5万辆，年底目标达成存压力，可参考是否调整covered call行权价。",
+      "source": "华尔街见闻",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "1810.HK",
+        "电动车",
+        "交付",
+        "增程"
+      ],
+      "translated": false,
+      "url": "https://wallstreetcn.com/articles/3759635",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": false
+    },
+    {
       "id": "2e104f370e830b75",
       "tier": 1,
       "lang": "en",
@@ -2852,6 +2825,96 @@
       "is_new": false
     },
     {
+      "id": "fbcc921405610416",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午评：恒指涨0.29%，恒科指数涨0.70%，AI概念股全面反弹，智谱涨约12%",
+      "summary": "11月10日午间，恒生指数报24518.87点，涨0.29%；恒生科技指数涨0.70%，国企指数涨0.03%。AI概念股全面反弹，智谱股价涨幅接近12%。方达控股(01521)复牌后涨约39%。科网股涨跌不一，阿里巴巴盘中跌超3%。",
+      "why": "港股AI概念股强势反弹，整体情绪偏暖，对腾讯、美团等科技持仓有短期支撑；阿里巴巴盘中走弱需关注，可能影响相关期权Delta风险。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "AI概念股",
+        "恒生科技指数"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-10/doc-iniyfkmf2771531.shtml",
+      "published_date": "2026-11-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": false
+    },
+    {
+      "id": "5a7f8bf508443f2e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "12:00",
+      "group": "大盘头条",
+      "title": "A股午评：创业板指涨1.49%，AI硬件走强，中际旭创、新易盛涨超6%",
+      "summary": "11月10日上午收盘，上证指数涨0.06%报3662.81点，深证成指涨0.76%，创业板指涨1.49%报2495.29点，科创50涨1.05%。两市成交额达0.96万亿元。AI硬件板块走强，中际旭创、新易盛涨超6%；影视院线、照明设备、厨卫电器等板块领涨；油气、海运等板块调整。",
+      "why": "A股AI硬件主线保持强势，与美股前日科技反弹形成共振；影视院线等消费板块亦有表现，但成交额偏低，趋势待验证。",
+      "source": "21经济网",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "创业板",
+        "AI硬件",
+        "中际旭创",
+        "新易盛"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261110/herald/79c050a982d2ab3546115869a97f74c2.html",
+      "published_date": "2026-11-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": false
+    },
+    {
+      "id": "b5a7ff1e8eef40fc",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "21:00",
+      "group": "个股",
+      "title": "摩根士丹利下调美团、拼多多评级至平配，美团目标价由110港元降至90港元",
+      "summary": "摩根士丹利11月9日将美团-W(03690.HK)及拼多多(PDD)评级均下调至平配（持平大市），美团目标价由110港元下调至90港元。理由为国内电商复合增长放缓、竞争持续内卷。美团当日跌约6.5%，北水当日净买入约5.9亿港元抄底。摩根士丹利认为70-80港元区间适合做短线反弹，不建议长线加仓。",
+      "why": "大行下调评级叠加股价大跌，对美团sell put策略需评估下行风险：目标价已降至90港元，意味着市场可能进一步测试低位；短期北水护盘或提供支撑，但监管和竞争压力未解除。",
+      "source": "华尔街见闻",
+      "verified": false,
+      "keywords": [
+        "美团",
+        "3690.HK",
+        "摩根士丹利",
+        "评级下调",
+        "PDD"
+      ],
+      "translated": false,
+      "url": "https://wallstreetcn.com/articles/3759360",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": false
+    },
+    {
       "id": "f2786499d5ac77cc",
       "tier": 2,
       "lang": "zh",
@@ -3070,6 +3133,35 @@
       "id": "067aae2859ec98f4",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-08",
+      "is_new": false
+    },
+    {
+      "id": "99015e0685547724",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Bitcoin Faces CPI Test as Analysts Warn Inflation Relief May Not Be Enough",
+      "summary": "Bitcoin is trading below $75,000 ahead of the US October CPI release. Analysts say even a softer-than-expected reading may not be enough to trigger a sustained rally, as markets are already pricing in a December Fed rate hike with high probability.",
+      "why": "加密市场与宏观利率预期高度相关，CPI结果若符合预期，比特币短期或难以突破；若数据意外温和，则可能带来短暂上行。整体而言比特币当前在75,000美元关键价位，CPI是近期最重要的催化剂。",
+      "source": "CoinDesk",
+      "verified": true,
+      "keywords": [
+        "Bitcoin",
+        "CPI",
+        "加密货币",
+        "美联储"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "published_date": "2026-11-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
       "is_new": false
     }
   ]
