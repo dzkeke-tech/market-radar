@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-10 08:29 (北京时间)",
+  "updated_at": "2026-11-10 08:30 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,76 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-10 08:29 (北京时间)",
-    "new_count": 0,
+    "at": "2026-11-10 08:30 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "2e104f370e830b75",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-11-10T06:00:00Z",
+      "group": "大盘头条",
+      "title": "Nvidia Stock Falls 4% as House China Committee Summons CEO Jensen Huang for Nov 18 Closed-Door Hearing",
+      "summary": "The House Select Committee on China issued a subpoena to Nvidia CEO Jensen Huang, requiring him to testify at a closed-door hearing on November 18. The hearing is part of an ongoing congressional investigation into whether Nvidia's chips have facilitated China's military AI development. Nvidia shares fell approximately 4% on the news.",
+      "why": "NVDA是核心持仓之一。data.json已收录11/8的初步调查新闻；本条新增事实为国会正式传唤（subpoena）黄仁勋11/18出席闭门听证+股价当日-4%。监管升级直接压制NVDA股价，可能触发sell put行权风险，并影响整体AI芯片板块隐含波动率。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "黄仁勋",
+        "Jensen Huang",
+        "AI芯片",
+        "监管",
+        "国会"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+      "published_date": "2026-11-09",
+      "still_developing": true,
+      "cross_ref": null,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": true
+    },
+    {
+      "id": "f2786499d5ac77cc",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-11-10T06:00:00Z",
+      "group": "个股",
+      "title": "段永平浮亏18亿港元的意义",
+      "summary": "知名价值投资人段永平因重仓泡泡玛特(9992.HK)出现约18亿港元账面浮亏。文章分析了在当前港股低迷环境下，段永平坚持不卖的逻辑及对散户投资者的参考意义。",
+      "why": "泡泡玛特是核心持仓。段永平为知名价值投资人，其大额浮亏被媒体广泛关注，可能引发市场对泡泡玛特近期成长逻辑的再审视，同时影响股价短期情绪面与隐含波动率。data.json中已收录泡泡玛特POP BAKERY开店、回购、CLOT联名等项目，本条为新角度（投资人持仓动态）。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "段永平",
+        "浮亏",
+        "价值投资"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniycrzw6486123.shtml",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": null,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": true
+    },
     {
       "id": "eee853ddba22b5ab",
       "tier": 1,
