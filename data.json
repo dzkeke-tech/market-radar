@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-10 08:30 (北京时间)",
+  "updated_at": "2026-11-10 13:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,72 +9,217 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-10 08:30 (北京时间)",
-    "new_count": 2,
+    "at": "2026-11-10 13:16 (北京时间)",
+    "new_count": 7,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "2e104f370e830b75",
+      "id": "44d6ddf1b6ca0030",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
         "US"
       ],
-      "time": "2026-11-10T06:00:00Z",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "Nvidia Stock Falls 4% as House China Committee Summons CEO Jensen Huang for Nov 18 Closed-Door Hearing",
-      "summary": "The House Select Committee on China issued a subpoena to Nvidia CEO Jensen Huang, requiring him to testify at a closed-door hearing on November 18. The hearing is part of an ongoing congressional investigation into whether Nvidia's chips have facilitated China's military AI development. Nvidia shares fell approximately 4% on the news.",
-      "why": "NVDA是核心持仓之一。data.json已收录11/8的初步调查新闻；本条新增事实为国会正式传唤（subpoena）黄仁勋11/18出席闭门听证+股价当日-4%。监管升级直接压制NVDA股价，可能触发sell put行权风险，并影响整体AI芯片板块隐含波动率。",
-      "source": "CNBC",
+      "title": "美国10月CPI今晚21:30发布：BLS将缺失同比数据，市场预期环比约+0.3%，12月加息关键变量",
+      "summary": "美国劳工统计局（BLS）将于北京时间今晚21:30发布10月CPI。因2025年10月政府停摆期间未采集价格数据，本次报告将不公布12个月同比涨幅。市场共识预期10月CPI环比约+0.3%，核心CPI约+0.2%，均低于9月的0.6%和0.3%。这是12月美联储会议前最后一份通胀数据。",
+      "why": "CPI直接影响12月加息路径；据CNBC报道（2026-11-09），市场目前定价12月加息25bp概率约83%。低于预期的通胀数据可能短暂压制加息预期，利好科技估值及sell put策略；高于预期将推高利率，压缩期权卖出方的安全边际。",
+      "source": "21经济网",
       "verified": true,
       "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "黄仁勋",
-        "Jensen Huang",
-        "AI芯片",
-        "监管",
-        "国会"
+        "CPI",
+        "通胀",
+        "美联储",
+        "加息",
+        "美国经济"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-      "published_date": "2026-11-09",
-      "still_developing": true,
-      "cross_ref": null,
+      "url": "https://www.21jingji.com/article/20261110/herald/745adf39470a423c2045ca122e134291.html",
+      "published_date": "2026-11-10",
+      "still_developing": false,
+      "cross_ref": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-10",
       "is_new": true
     },
     {
-      "id": "f2786499d5ac77cc",
+      "id": "d82ad41856c9a322",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "美股周一大幅收涨：科技股与芯片股领涨，油价大幅回落提振风险情绪",
+      "summary": "美股11月9日（周一）三大指数大幅收涨，芯片股与科技股领跑，AMD等半导体个股涨幅显著。油价当日大幅回落（据报布伦特原油跌幅达约5-6%，原因系美伊谈判前景改善），推动市场风险情绪明显好转。VIX恐慌指数大幅下降，市场整体从上周跌势中强势反弹。",
+      "why": "美股大反弹改善整体风险情绪，对港股与A股科技持仓形成外部支撑；VIX下降降低期权隐含波动率，对sell put策略估值影响应予以关注。",
+      "source": "财联社",
+      "verified": false,
+      "keywords": [
+        "美股",
+        "芯片股",
+        "科技股",
+        "油价",
+        "VIX"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2525646",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": true
+    },
+    {
+      "id": "a47525dc69b5e94d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "小米汽车10月交付超5万辆创月度新高，增程车型占比超50%，港股涨逾6%",
+      "summary": "据乘联会数据（11月9日），小米汽车10月交付量超5万辆，为年内单月最高，增程车型占比首次过半。小米Sky Nomad增程系列9月7日开始交付，30天内锁定订单超7万辆。前十个月累计交付约33.6万辆，完成全年55万辆目标约61%。消息带动港股涨逾6%至约28元。",
+      "why": "交付量超预期利好小米(1810.HK)估值，出行+科技双赛道逻辑持续验证；但全年目标完成度仅61%，11-12月仍需每月超5万辆，年底目标达成存压力，可参考是否调整covered call行权价。",
+      "source": "华尔街见闻",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "1810.HK",
+        "电动车",
+        "交付",
+        "增程"
+      ],
+      "translated": false,
+      "url": "https://wallstreetcn.com/articles/3759635",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": true
+    },
+    {
+      "id": "fbcc921405610416",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "2026-11-10T06:00:00Z",
-      "group": "个股",
-      "title": "段永平浮亏18亿港元的意义",
-      "summary": "知名价值投资人段永平因重仓泡泡玛特(9992.HK)出现约18亿港元账面浮亏。文章分析了在当前港股低迷环境下，段永平坚持不卖的逻辑及对散户投资者的参考意义。",
-      "why": "泡泡玛特是核心持仓。段永平为知名价值投资人，其大额浮亏被媒体广泛关注，可能引发市场对泡泡玛特近期成长逻辑的再审视，同时影响股价短期情绪面与隐含波动率。data.json中已收录泡泡玛特POP BAKERY开店、回购、CLOT联名等项目，本条为新角度（投资人持仓动态）。",
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午评：恒指涨0.29%，恒科指数涨0.70%，AI概念股全面反弹，智谱涨约12%",
+      "summary": "11月10日午间，恒生指数报24518.87点，涨0.29%；恒生科技指数涨0.70%，国企指数涨0.03%。AI概念股全面反弹，智谱股价涨幅接近12%。方达控股(01521)复牌后涨约39%。科网股涨跌不一，阿里巴巴盘中跌超3%。",
+      "why": "港股AI概念股强势反弹，整体情绪偏暖，对腾讯、美团等科技持仓有短期支撑；阿里巴巴盘中走弱需关注，可能影响相关期权Delta风险。",
       "source": "新浪财经",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "9992.HK",
-        "段永平",
-        "浮亏",
-        "价值投资"
+        "港股",
+        "恒生指数",
+        "AI概念股",
+        "恒生科技指数"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniycrzw6486123.shtml",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-10/doc-iniyfkmf2771531.shtml",
+      "published_date": "2026-11-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": true
+    },
+    {
+      "id": "5a7f8bf508443f2e",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "12:00",
+      "group": "大盘头条",
+      "title": "A股午评：创业板指涨1.49%，AI硬件走强，中际旭创、新易盛涨超6%",
+      "summary": "11月10日上午收盘，上证指数涨0.06%报3662.81点，深证成指涨0.76%，创业板指涨1.49%报2495.29点，科创50涨1.05%。两市成交额达0.96万亿元。AI硬件板块走强，中际旭创、新易盛涨超6%；影视院线、照明设备、厨卫电器等板块领涨；油气、海运等板块调整。",
+      "why": "A股AI硬件主线保持强势，与美股前日科技反弹形成共振；影视院线等消费板块亦有表现，但成交额偏低，趋势待验证。",
+      "source": "21经济网",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "创业板",
+        "AI硬件",
+        "中际旭创",
+        "新易盛"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261110/herald/79c050a982d2ab3546115869a97f74c2.html",
+      "published_date": "2026-11-10",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": true
+    },
+    {
+      "id": "b5a7ff1e8eef40fc",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "21:00",
+      "group": "个股",
+      "title": "摩根士丹利下调美团、拼多多评级至平配，美团目标价由110港元降至90港元",
+      "summary": "摩根士丹利11月9日将美团-W(03690.HK)及拼多多(PDD)评级均下调至平配（持平大市），美团目标价由110港元下调至90港元。理由为国内电商复合增长放缓、竞争持续内卷。美团当日跌约6.5%，北水当日净买入约5.9亿港元抄底。摩根士丹利认为70-80港元区间适合做短线反弹，不建议长线加仓。",
+      "why": "大行下调评级叠加股价大跌，对美团sell put策略需评估下行风险：目标价已降至90港元，意味着市场可能进一步测试低位；短期北水护盘或提供支撑，但监管和竞争压力未解除。",
+      "source": "华尔街见闻",
+      "verified": false,
+      "keywords": [
+        "美团",
+        "3690.HK",
+        "摩根士丹利",
+        "评级下调",
+        "PDD"
+      ],
+      "translated": false,
+      "url": "https://wallstreetcn.com/articles/3759360",
       "published_date": "2026-11-09",
       "still_developing": false,
-      "cross_ref": null,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": true
+    },
+    {
+      "id": "99015e0685547724",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Bitcoin Faces CPI Test as Analysts Warn Inflation Relief May Not Be Enough",
+      "summary": "Bitcoin is trading below $75,000 ahead of the US October CPI release. Analysts say even a softer-than-expected reading may not be enough to trigger a sustained rally, as markets are already pricing in a December Fed rate hike with high probability.",
+      "why": "加密市场与宏观利率预期高度相关，CPI结果若符合预期，比特币短期或难以突破；若数据意外温和，则可能带来短暂上行。整体而言比特币当前在75,000美元关键价位，CPI是近期最重要的催化剂。",
+      "source": "CoinDesk",
+      "verified": true,
+      "keywords": [
+        "Bitcoin",
+        "CPI",
+        "加密货币",
+        "美联储"
+      ],
+      "translated": false,
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "published_date": "2026-11-10",
+      "still_developing": false,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-10",
       "is_new": true
@@ -1594,6 +1739,39 @@
       "is_new": false
     },
     {
+      "id": "2e104f370e830b75",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "2026-11-10T06:00:00Z",
+      "group": "大盘头条",
+      "title": "Nvidia Stock Falls 4% as House China Committee Summons CEO Jensen Huang for Nov 18 Closed-Door Hearing",
+      "summary": "The House Select Committee on China issued a subpoena to Nvidia CEO Jensen Huang, requiring him to testify at a closed-door hearing on November 18. The hearing is part of an ongoing congressional investigation into whether Nvidia's chips have facilitated China's military AI development. Nvidia shares fell approximately 4% on the news.",
+      "why": "NVDA是核心持仓之一。data.json已收录11/8的初步调查新闻；本条新增事实为国会正式传唤（subpoena）黄仁勋11/18出席闭门听证+股价当日-4%。监管升级直接压制NVDA股价，可能触发sell put行权风险，并影响整体AI芯片板块隐含波动率。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "黄仁勋",
+        "Jensen Huang",
+        "AI芯片",
+        "监管",
+        "国会"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+      "published_date": "2026-11-09",
+      "still_developing": true,
+      "cross_ref": null,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
+      "is_new": false
+    },
+    {
       "id": "da6f43c3372dc7cf",
       "tier": 2,
       "lang": "zh",
@@ -2671,6 +2849,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-09",
+      "is_new": false
+    },
+    {
+      "id": "f2786499d5ac77cc",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "2026-11-10T06:00:00Z",
+      "group": "个股",
+      "title": "段永平浮亏18亿港元的意义",
+      "summary": "知名价值投资人段永平因重仓泡泡玛特(9992.HK)出现约18亿港元账面浮亏。文章分析了在当前港股低迷环境下，段永平坚持不卖的逻辑及对散户投资者的参考意义。",
+      "why": "泡泡玛特是核心持仓。段永平为知名价值投资人，其大额浮亏被媒体广泛关注，可能引发市场对泡泡玛特近期成长逻辑的再审视，同时影响股价短期情绪面与隐含波动率。data.json中已收录泡泡玛特POP BAKERY开店、回购、CLOT联名等项目，本条为新角度（投资人持仓动态）。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "段永平",
+        "浮亏",
+        "价值投资"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniycrzw6486123.shtml",
+      "published_date": "2026-11-09",
+      "still_developing": false,
+      "cross_ref": null,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-10",
       "is_new": false
     },
     {
