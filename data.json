@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-11 18:14 (北京时间)",
+  "updated_at": "2026-11-12 08:24 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,321 +9,101 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-11 18:14 (北京时间)",
-    "new_count": 2,
+    "at": "2026-11-12 08:24 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "8fce924e3e84bd01",
+      "id": "f30d204eebf1d089",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08:30",
+      "time": "05:30",
       "group": "大盘头条",
-      "title": "美国10月CPI超预期，12月加息预期拉满，10年期美债收益率盘中触及5%",
-      "summary": "美国劳工局公布10月CPI环比涨0.4%（预期0.3%），核心CPI环比涨0.3%（预期0.2%），连续多月高于预期。10年期美债收益率盘中突破5%，美股三大指数集体收跌（标普500跌0.38%，纳指跌0.74%），黄金大幅下挫，美元走强。市场已基本定价美联储12月加息25个基点，部分机构认为50基点亦非零概率。",
-      "why": "利率上行压缩科技/成长股估值，纳指持仓承压；隐含波动率可能持续走高，sell put 保证金压力加大，需关注到期日仓位；老铺黄金等金价相关标的面临金价走弱压力。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "加息",
-        "CPI",
-        "美债",
-        "美股",
-        "宏观",
-        "macro"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261111/herald/69d9c46b20736f593849d8d4db965d35.html",
-      "published_date": "2026-11-11",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-11",
-      "is_new": true
-    },
-    {
-      "id": "19e5022c7502e62d",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "英伟达CEO间谍门后股价续跌，两日市值蒸发近3万亿元",
-      "summary": "美国10月CPI超预期推升加息押注，英伟达股价10日再跌约5.5%，两日累计市值蒸发近3万亿元人民币。英伟达董事会已启动CEO黄仁勋（Jensen Huang）与疑似中国间谍交往的独立调查，并聘请外部律所Wachtell Lipton主导；共和党议员要求黄仁勋18日出席国会听证。",
-      "why": "英伟达是持仓核心AI芯片股；两日连跌已进入技术性熊市区间，调查不确定性+出口管制加码风险并存。隐含波动率大幅上升，covered call可防守，密切关注11月17日财报及国会听证进展。延续报道：初始新闻11月8日董事会声明，本条为11月11日市场反应更新。",
-      "source": "21财经",
+      "title": "CoreWeave Q3 2026全年营收指引上调至130-133亿美元，AI算力基础设施需求确认旺盛",
+      "summary": "CoreWeave发布Q3 2026业绩，单季营收36.6亿美元，全年营收指引从119-121亿美元大幅上调至130-133亿美元，退出年化营收目标提升至200-210亿美元。资本开支指引同步上调至370-390亿美元，表明数据中心基础设施加速部署，与主要超大规模客户合同落地快于预期。",
+      "why": "CoreWeave为英伟达GPU最大租户之一，全年指引大幅超预期直接验证AI算力需求旺盛；数字来自SEC EDGAR官方8-K文件（主要信源）。该结果是11月11日英伟达止跌回升、存储芯片股领涨的主要催化剂，当前英伟达及相关期权头寸定价有直接参考价值。",
+      "source": "SEC EDGAR (CoreWeave Q3 2026 8-K Press Release)",
       "verified": true,
       "keywords": [
         "英伟达",
-        "Nvidia",
-        "NVDA",
-        "GPU",
         "AI芯片",
-        "黄仁勋"
+        "数据中心",
+        "AI基础设施"
       ],
       "translated": false,
-      "url": "https://m.21jingji.com/article/20261111/herald/fc77c2ba32ba50c31e8e6d89899f2846.html",
-      "published_date": "2026-11-11",
-      "still_developing": true,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001769628/000176962826000461/coreweave3q26earningspress.htm",
+      "published_date": "2026-11-10",
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-11",
+      "first_seen": "2026-11-12",
       "is_new": true
     },
     {
+      "id": "c0228f203633150d",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "US",
+        "US"
+      ],
+      "time": "05:00",
+      "group": "大盘头条",
+      "title": "美股11月11日（Veterans Day）AI算力概念全线大反弹，纳指明显收涨，英伟达止跌回升",
+      "summary": "11月11日（退伍军人节，美股正常交易）纳斯达克综合指数明显收涨，AI算力概念受CoreWeave Q3业绩催化全面走强，英伟达（NVDA）此前两日跌势终止反弹，存储芯片股美光（MU）及闪迪（SNDK）大幅领涨，云基础设施运营商及电力/散热概念股联动走强。",
+      "why": "上一轮运行截止于北京时间11月11日18:14（约北美东部05:14），美股当日完整交易时段（09:30-16:00 ET）在此之后，本条补充该交易日美股市场收盘数据；英伟达止跌对相关期权头寸（短Put方向）有直接正向影响。",
+      "source": "CNBC Markets Live",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "AI芯片",
+        "美光",
+        "闪迪",
+        "纳斯达克"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
+      "published_date": "2026-11-11",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-12",
+      "is_new": true
+    },
+    {
+      "id": "dcf9339f0cf16d68",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
         "HK",
+        "US",
         "A"
       ],
       "time": "09:00",
       "group": "大盘头条",
-      "title": "美国2026年中期选举：民主党赢回参众两院，终结共和党对国会掌控",
-      "summary": "11月3日美国中期选举结果揭晓，民主党赢回参众两院多数席位，终结共和党的国会掌控。多家媒体将本次选举定性为对特朗普政府关税及移民政策的直接公投，结果将对白宫政策推进形成制衡。",
-      "why": "民主党掌控国会制约白宫财政及关税政策；2025减税续期难度提升。短期不确定性上升，美元可能走弱。对中概股而言贸易摩擦预期可能边际缓和，但政策路径趋复杂。持有美股期权仓位需评估选后隐含波动率变化。",
-      "source": "CNBC",
+      "title": "中美双方均延续关税休战至2027年1月：美延续178项产品排除，中国同步暂停24%加税及实体名单制裁",
+      "summary": "美国将178个中国商品类别的301条款关税排除延续至2027年1月9日（11月10日生效）；中国同步宣布将对11家美国企业的不可靠实体名单措施、16家企业的出口管制措施均延续至2027年1月10日，24%额外关税暂停安排亦同期延续，双方贸易休战整体延长约两个月。",
+      "why": "距运行日3天（11月9日文章），仍在磋商故标still_developing。关税休战延续消除港股及A股近期下行风险；对腾讯（游戏出海）、美团（Keeta海外）、拼多多（Temu）及电商相关供应链有正面情绪支撑；截至本轮发布，中美贸易谈判进展仍存不确定性。",
+      "source": "Caixin Global",
       "verified": true,
       "keywords": [
-        "美国中期选举",
-        "民主党",
-        "国会",
-        "美股",
-        "关税政策"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-      "published_date": "2026-11-03",
-      "still_developing": true,
-      "cross_ref": "",
-      "id": "397d3e44595213e8",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "03:00",
-      "group": "大盘头条",
-      "title": "美联储11月维持利率3.75%-4.00%不变，CME显示12月加息25基点概率约75%",
-      "summary": "美联储11月议息会议以10比2投票维持利率目标区间3.75%-4.00%不变，两名官员倾向上调。会后声明措辞基本不变，主席表示通胀仍高于目标。CME美联储观察工具显示12月加息25基点概率约75%，9月CPI为3.7%，PCE为3.5%。",
-      "why": "加息预期支撑美元走强，压制成长股估值；港股及中概股受汇率传导影响。12月10日FOMC前，10月CPI及非农数据将成关键变量，可能影响行权价设置节奏。若12月加息落地，联邦基金利率将至4.00%-4.25%。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "FOMC",
-        "加息",
-        "CME FedWatch",
-        "通胀",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261102/herald/ce4562cadd108dff3d600625d978b7da.html",
-      "published_date": "2026-11-02",
-      "still_developing": true,
-      "cross_ref": "",
-      "id": "278e2d5496fceaf0",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "A股11月4日午后大幅反弹，科创50及半导体领涨；央行同日下调股票增持再贷款利率25基点至1%",
-      "summary": "11月4日A股三大指数午后单边拉升，科创50及半导体、存储芯片等科技板块领涨，沪深两市成交额大幅放量。中国人民银行当日宣布下调股票增持/回购再贷款利率25基点至1%，为市场提供流动性支撑。港股医药/CXO板块亦同步走强。",
-      "why": "央行降低股票回购再贷款利率直接利好上市公司回购行为，与科技板块共振，或传导至持仓中港股科技标的估值支撑。成交量放大显示市场情绪明显改善，对 sell put 策略而言，短期波动率下降可能压缩期权权利金。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "科创50",
-        "半导体",
-        "央行",
-        "再贷款利率",
-        "港股",
-        "CXO",
-        "市场反弹"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908tme8.html",
-      "published_date": "2026-11-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "944700fc564aa232",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
-      "is_new": false
-    },
-    {
-      "id": "b7c4583956dfba50",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "04:30",
-      "group": "大盘头条",
-      "title": "Democrats Sweep US Midterms; Nasdaq 100 Futures Plunge 2.1%, S&P 500 Futures Drop 1.1% on AI Regulation Fears",
-      "summary": "Democrats projected to win both the Senate and House in the 2026 midterm elections, triggering a sharp sell-off in US stock index futures. Nasdaq 100 futures fell ~2.1% and S&P 500 futures slid ~1.1% in overnight trading, as investors worried a Democratic-controlled Congress would impose stricter AI regulation, data-center oversight and corporate taxes. Treasuries rallied and the dollar weakened as markets sought safety.",
-      "why": "民主党横扫国会触发市场对AI监管收紧的最大担忧：Sanders/AOC此前已提出数据中心建设暂停法案，分析师预警若民主党掌控国会美股明年跌幅可能超10%。对科技持仓（英伟达、谷歌、小米等）和相关期权隐含波动率均有直接影响；与data.json中11月3日日内反弹（GOP初步领先时期）为截然相反的新进展。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美国中期选举",
-        "民主党",
-        "纳斯达克期货",
-        "AI监管",
-        "数据中心"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-      "published_date": "2026-11-03",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
-      "is_new": false
-    },
-    {
-      "id": "0f92f4bdbc9993fd",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "21:00",
-      "group": "大盘头条",
-      "title": "AMD Q3 2026: Revenue $13.4B (+45% YoY), Data Center Doubles to $8.5B; Q4 Guided ~$17B; Stock Up ~7% After Hours",
-      "summary": "AMD reported Q3 2026 results after market close on November 3: total revenue $13.4B, up 45% YoY, beating the consensus of ~$13.1B. Data center segment revenue hit a record $8.5B, up 97% YoY driven by EPYC server CPUs and early MI450 AI accelerator ramp. Non-GAAP EPS was $2.09, topping the ~$1.94 estimate. Q4 revenue guidance of ~$17B (±3%) implies ~27% sequential growth; management expects server revenue to double in 2027.",
-      "why": "AI芯片供应链强劲信号：AMD数据中心业务97%增速验证算力需求旺盛，对SK海力士HBM出货和英伟达竞争格局均有参考意义；但AMD股价仅+7%盘后（非正式开盘），提示市场高预期已部分消化，注意民主党掌控国会的AI监管风险可能在开盘后压制涨幅。",
-      "source": "AMD Newsroom",
-      "verified": false,
-      "keywords": [
-        "AMD",
-        "AI芯片",
-        "数据中心",
-        "半导体财报",
-        "MI450"
-      ],
-      "translated": false,
-      "url": "https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/",
-      "published_date": "2026-11-03",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:17",
-      "group": "大盘头条",
-      "title": "US Midterm Election Day: Nasdaq +0.83%, Dow +0.47% as Markets Rally on GOP Senate Gains",
-      "summary": "US stocks rallied on November 3 election day as Republicans headed toward a Senate majority. The Nasdaq rose 0.83%, the Dow gained 0.47%, and the Russell 2000 small-cap index surged roughly 3%, reflecting expectations of deregulation and tax cuts. AMD and tech names provided additional lift after AMD reported blowout Q3 earnings after the close.",
-      "why": "中期选举共和党参议院多数格局初定，市场对潜在减税及监管放松预期升温；小盘股大涨3%反映内需乐观情绪；叠加AMD财报强劲，半导体板块情绪全面回暖，短期看多逻辑占优。",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "macro",
-        "美股",
-        "纳斯达克"
-      ],
-      "published_date": "2026-11-03",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "82efc2a2ed8b86f0",
-      "translated": false,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:17",
-      "group": "大盘头条",
-      "title": "Goldman Sachs: 60% of S&P 500 Stocks Already in Bear Market Despite Index Near Highs",
-      "summary": "Goldman Sachs strategist Sina Molavi noted that roughly 60% of S&P 500 component stocks have already declined 20% or more from their individual peaks — meeting the technical definition of a bear market — even as the index itself remains near all-time highs. The divergence reflects narrow mega-cap leadership masking broad underlying market weakness.",
-      "why": "市值加权指数走强但多数成分股深陷熊市，市场宽度极度收窄；龙头股一旦走弱将触发快速补跌；对持仓中个股期权策略，建议在指数高位附近提高保护性头寸比例，警惕指数与个股表现背离。",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-molavi-says-60-of-s-p-500-is-in-bear-market-territory",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "macro",
-        "美股",
-        "标普500"
-      ],
-      "published_date": "2026-11-03",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "5827601806a7c60b",
-      "translated": false,
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-11-04",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:17",
-      "group": "大盘头条",
-      "title": "Apple Q4 FY2026 Earnings: Revenue $114.5B (+12% YoY), EPS $2.10 Beats; December Gross Margin Guided 45–46%",
-      "summary": "Apple reported fiscal Q4 FY2026 results with revenue of $114.5 billion, up 12% year-over-year and ahead of estimates. Adjusted EPS of $2.10 beat the consensus. Services revenue reached a new record. Management guided December quarter gross margin of 45–46%, in line with expectations.",
-      "why": "Services收入再创纪录，12月季度毛利率指引稳健，苹果财报为科技板块情绪提供支撑；但当日股价因英伟达超越市值而承压；期权隐含波动率财报后将显著回落，可考虑卖出短期高IV策略。",
-      "source": "SEC EDGAR (Apple Inc. 8-K)",
-      "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm",
-      "verified": true,
-      "keywords": [
-        "苹果",
-        "Apple",
-        "AAPL",
+        "关税",
+        "中美贸易",
+        "贸易休战",
         "宏观"
       ],
-      "published_date": "2026-11-02",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "b0a45978afc5d330",
       "translated": false,
+      "url": "https://www.caixinglobal.com/2026-11-09/us-extends-tariff-exclusions-for-178-chinese-product-categories-102502875.html",
+      "published_date": "2026-11-09",
+      "still_developing": true,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
-      "is_new": false
+      "first_seen": "2026-11-12",
+      "is_new": true
     },
     {
       "id": "2789a856a88a4b1a",
@@ -1617,6 +1397,69 @@
       "is_new": false
     },
     {
+      "id": "8fce924e3e84bd01",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "美国10月CPI超预期，12月加息预期拉满，10年期美债收益率盘中触及5%",
+      "summary": "美国劳工局公布10月CPI环比涨0.4%（预期0.3%），核心CPI环比涨0.3%（预期0.2%），连续多月高于预期。10年期美债收益率盘中突破5%，美股三大指数集体收跌（标普500跌0.38%，纳指跌0.74%），黄金大幅下挫，美元走强。市场已基本定价美联储12月加息25个基点，部分机构认为50基点亦非零概率。",
+      "why": "利率上行压缩科技/成长股估值，纳指持仓承压；隐含波动率可能持续走高，sell put 保证金压力加大，需关注到期日仓位；老铺黄金等金价相关标的面临金价走弱压力。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "加息",
+        "CPI",
+        "美债",
+        "美股",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261111/herald/69d9c46b20736f593849d8d4db965d35.html",
+      "published_date": "2026-11-11",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-11",
+      "is_new": false
+    },
+    {
+      "id": "19e5022c7502e62d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "英伟达CEO间谍门后股价续跌，两日市值蒸发近3万亿元",
+      "summary": "美国10月CPI超预期推升加息押注，英伟达股价10日再跌约5.5%，两日累计市值蒸发近3万亿元人民币。英伟达董事会已启动CEO黄仁勋（Jensen Huang）与疑似中国间谍交往的独立调查，并聘请外部律所Wachtell Lipton主导；共和党议员要求黄仁勋18日出席国会听证。",
+      "why": "英伟达是持仓核心AI芯片股；两日连跌已进入技术性熊市区间，调查不确定性+出口管制加码风险并存。隐含波动率大幅上升，covered call可防守，密切关注11月17日财报及国会听证进展。延续报道：初始新闻11月8日董事会声明，本条为11月11日市场反应更新。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "GPU",
+        "AI芯片",
+        "黄仁勋"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261111/herald/fc77c2ba32ba50c31e8e6d89899f2846.html",
+      "published_date": "2026-11-11",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-11",
+      "is_new": false
+    },
+    {
       "id": "e9bbd5eef0d3bad7",
       "tier": 1,
       "lang": "zh",
@@ -1778,67 +1621,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-11",
-      "is_new": false
-    },
-    {
-      "id": "f0f046c5ed832fa2",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "潘功胜强调维护股票等资本市场平稳运行，港股早盘关注内地政策底牌",
-      "summary": "中国人民银行行长潘功胜表示要维护股票等金融市场平稳运行。富途牛牛11月4日早报和21世纪经济报道晨间要点均援引该表态。此表态背景下，市场关注监管层在美股夜盘因中期选举大跌背景下是否会释放进一步稳市工具。",
-      "why": "PBOC行长维稳表态在美股期货大跌的背景下对港股和A股情绪具有边际支撑；上一轮11月2日央行已召开资本市场支持工具会议（data.json已收录），本次表态显示政策层关注外部冲击对国内市场的传导，对南向资金走势和port中港股仓位判断有参考价值。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "潘功胜",
-        "央行",
-        "资本市场",
-        "市场稳定",
-        "PBOC"
-      ],
-      "translated": false,
-      "url": "https://21jingji.com/article/20261104/herald/80c6f14a1cfcb76065dcc0af0fdbc99f.html",
-      "published_date": "2026-11-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:17",
-      "group": "大盘头条",
-      "title": "英伟达超越苹果重夺全球市值第一，股价单日涨约3%",
-      "summary": "苹果Q4财报公布后股价承压下跌，英伟达于11月3日美股交易日市值超越苹果，重新登顶全球市值第一。英伟达当日股价上涨约3%，这是英伟达年内第二次超越苹果。AMD强劲财报进一步提振AI芯片板块整体情绪。",
-      "why": "英伟达重夺市值第一进一步确认AI算力主题的市场定价优先级，叠加AMD同日财报超预期，AI半导体板块多头逻辑持续强化；对持仓中NVDA相关期权头寸，可考虑适当上调行权价上限。",
-      "source": "新浪财经",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908tjgw.html",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI芯片",
-        "宏观"
-      ],
-      "published_date": "2026-11-04",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "4ae04e382569a007",
-      "translated": false,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-04",
       "is_new": false
     },
     {
