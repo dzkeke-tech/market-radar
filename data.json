@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-13 08:16 (北京时间)",
+  "updated_at": "2026-11-13 13:23 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,129 +9,39 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-13 08:16 (北京时间)",
-    "new_count": 4,
+    "at": "2026-11-13 13:23 (北京时间)",
+    "new_count": 1,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "e766f86bbf003c82",
-      "tier": 1,
+      "id": "af69c1b708ae27a9",
+      "tier": 2,
       "lang": "zh",
       "markets": [
-        "US",
         "HK",
         "A"
       ],
-      "time": "00:00",
+      "time": "18:30",
       "group": "大盘头条",
-      "title": "美联储12月加息概率升至100%，理事沃勒放鹰考虑50bp；10年期美债收益率触5.12%，黄金跌至年内新低$3,866",
-      "summary": "美国10月CPI环比+0.4%、核心CPI+0.3%，均超预期，CME美联储观察工具显示12月加息概率升至100%，加息50bp概率12.7%。美联储理事沃勒表示通胀维持高位可考虑50bp；美联储主席沃什重申不给前瞻指引。10年期美债收益率升至5.12%，美元指数触19个月高位约103，黄金跌至$3,866的年内新低。",
-      "why": "利率进一步收紧预期压制科技/成长估值（HK港股面临估值重估），黄金跌至年内新低直接影响老铺黄金(6181)的业绩能见度；高波动率环境利于sell put收期权金，但Delta下行风险需管控。今日PPI数据为关键变量。",
-      "source": "21世纪经济报道",
+      "title": "中芯国际三季度营收同比增超三成：毛利率升至29.9%，四季度指引略有回落",
+      "summary": "中芯国际（SMIC，0981.HK）2026年第三季度营收31.9亿美元，同比增长33.9%，环比增长6.1%，高于市场约31.1亿美元预期；毛利率29.9%，较上季度提升4.6个百分点；归母净利润28.47亿元人民币，同比增长87.6%。四季度收入指引环比增长4%至6%，毛利率指引26%至28%，略低于市场预期。今日（11月13日）港股中芯国际盘中上涨。",
+      "why": "SMIC业绩改善印证中国晶圆代工景气复苏，AI与消费电子需求双轮驱动；对SK海力士（持仓，HBM供应商）所在AI存储芯片供应链具有正面参考价值；四季度毛利率指引略低值得关注。",
+      "source": "澎湃新闻",
       "verified": true,
       "keywords": [
-        "美联储",
-        "加息",
-        "通胀",
-        "利率",
-        "美债",
-        "黄金"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261111/herald/23d2b824a53403de4f3ef3f8e631fc3f.html",
-      "published_date": "2026-11-11",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-13",
-      "is_new": true
-    },
-    {
-      "id": "268099e2742380d3",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "美国10月PPI今日8:30 ET公布，市场共识预期同比+6.6%，料进一步加码12月加息预期",
-      "summary": "美国劳工局今日（11月13日）发布10月生产者价格指数（PPI），道琼斯共识预期环比+0.4%、同比+6.6%（9月为+6.3%）；核心PPI预期环比+0.3%。若结果高于预期，市场或进一步定价12月加息50bp可能。",
-      "why": "10月CPI已确认超预期，PPI若再强，将最终确认美联储12月鹰派加息路径，压制科技/成长估值，利空金价与港股；若低于预期，市场有望部分平仓加息押注，为科技仓位提供喘息机会。为今日最重要催化剂。",
-      "source": "Bureau of Labor Statistics",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "通胀",
-        "PPI",
-        "加息",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-      "published_date": "2026-11-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-13",
-      "is_new": true
-    },
-    {
-      "id": "6ef752c62d696af8",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Cisco Q1 FY2027 Beats: Revenue +24% to Record $18.5B; AI Infrastructure Revenue to Double to $9B This FY",
-      "summary": "Cisco reported Q1 FY2027 revenue of $18.52B (+24% YoY, highest in 15 years) and non-GAAP EPS of $1.40 (+40% YoY), both beating consensus. Networking revenue grew 43% YoY. The company raised full-year revenue guidance to $74.8-$75.8B and lifted AI infrastructure revenue forecast for hyperscalers to $9B, more than doubling fiscal 2026.",
-      "why": "AI基础设施资本支出周期仍在加速，对AI供应链（英伟达GPU、HBM芯片需求）形成积极信号，在黄仁勋辞职引发的不确定性中提供结构性支撑；AI网络层龙头强劲预示数据中心投资维持高景气。",
-      "source": "Cisco Newsroom",
-      "verified": true,
-      "keywords": [
-        "AI芯片",
-        "数据中心",
+        "中芯国际",
+        "SMIC",
+        "芯片",
         "半导体",
-        "英伟达"
+        "晶圆代工",
+        "AI芯片",
+        "数据中心"
       ],
       "translated": false,
-      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-reports-first-quarter-earnings.html",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34459429",
       "published_date": "2026-11-12",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-13",
-      "is_new": true
-    },
-    {
-      "id": "de1a283bc7d513e7",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "腾讯马化腾：AI大浪已来不可坐视，拟将半数员工调配至AI原生业务",
-      "summary": "腾讯创始人马化腾在公司28周年内部活动（11月11日）发表讲话，称AI大浪已打来，核心业务须借助AI最大化效率，同时拟将约半数员工调配至AI原生新业务。腾讯管理层（刘炽平）同日辟谣裁员50%传闻，称此为资源向AI的主动重配，无大裁员计划。",
-      "why": "马化腾讲话标志腾讯全面进入AI转型阶段，混元大模型与腾讯云商业化加速预期提振，对腾讯(00700)中长期估值有正向意义；短期组织变动情绪面偏负可能压低股价，可结合股价走弱时sell put收取波动率溢价。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "00700",
-        "马化腾",
-        "AI"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/7x24/2026-11-13/doc-iniypqyq8179119.shtml",
-      "published_date": "2026-11-13",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1651,6 +1561,39 @@
       "is_new": false
     },
     {
+      "id": "e766f86bbf003c82",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "美联储12月加息概率升至100%，理事沃勒放鹰考虑50bp；10年期美债收益率触5.12%，黄金跌至年内新低$3,866",
+      "summary": "美国10月CPI环比+0.4%、核心CPI+0.3%，均超预期，CME美联储观察工具显示12月加息概率升至100%，加息50bp概率12.7%。美联储理事沃勒表示通胀维持高位可考虑50bp；美联储主席沃什重申不给前瞻指引。10年期美债收益率升至5.12%，美元指数触19个月高位约103，黄金跌至$3,866的年内新低。",
+      "why": "利率进一步收紧预期压制科技/成长估值（HK港股面临估值重估），黄金跌至年内新低直接影响老铺黄金(6181)的业绩能见度；高波动率环境利于sell put收期权金，但Delta下行风险需管控。今日PPI数据为关键变量。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "加息",
+        "通胀",
+        "利率",
+        "美债",
+        "黄金"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261111/herald/23d2b824a53403de4f3ef3f8e631fc3f.html",
+      "published_date": "2026-11-11",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-13",
+      "is_new": false
+    },
+    {
       "id": "c9edb313b4c78e5f",
       "tier": 2,
       "lang": "en",
@@ -2761,6 +2704,96 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-12",
+      "is_new": false
+    },
+    {
+      "id": "268099e2742380d3",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "美国10月PPI今日8:30 ET公布，市场共识预期同比+6.6%，料进一步加码12月加息预期",
+      "summary": "美国劳工局今日（11月13日）发布10月生产者价格指数（PPI），道琼斯共识预期环比+0.4%、同比+6.6%（9月为+6.3%）；核心PPI预期环比+0.3%。若结果高于预期，市场或进一步定价12月加息50bp可能。",
+      "why": "10月CPI已确认超预期，PPI若再强，将最终确认美联储12月鹰派加息路径，压制科技/成长估值，利空金价与港股；若低于预期，市场有望部分平仓加息押注，为科技仓位提供喘息机会。为今日最重要催化剂。",
+      "source": "Bureau of Labor Statistics",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "通胀",
+        "PPI",
+        "加息",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "published_date": "2026-11-13",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-13",
+      "is_new": false
+    },
+    {
+      "id": "6ef752c62d696af8",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Cisco Q1 FY2027 Beats: Revenue +24% to Record $18.5B; AI Infrastructure Revenue to Double to $9B This FY",
+      "summary": "Cisco reported Q1 FY2027 revenue of $18.52B (+24% YoY, highest in 15 years) and non-GAAP EPS of $1.40 (+40% YoY), both beating consensus. Networking revenue grew 43% YoY. The company raised full-year revenue guidance to $74.8-$75.8B and lifted AI infrastructure revenue forecast for hyperscalers to $9B, more than doubling fiscal 2026.",
+      "why": "AI基础设施资本支出周期仍在加速，对AI供应链（英伟达GPU、HBM芯片需求）形成积极信号，在黄仁勋辞职引发的不确定性中提供结构性支撑；AI网络层龙头强劲预示数据中心投资维持高景气。",
+      "source": "Cisco Newsroom",
+      "verified": true,
+      "keywords": [
+        "AI芯片",
+        "数据中心",
+        "半导体",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-reports-first-quarter-earnings.html",
+      "published_date": "2026-11-12",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-13",
+      "is_new": false
+    },
+    {
+      "id": "de1a283bc7d513e7",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "00:00",
+      "group": "个股",
+      "title": "腾讯马化腾：AI大浪已来不可坐视，拟将半数员工调配至AI原生业务",
+      "summary": "腾讯创始人马化腾在公司28周年内部活动（11月11日）发表讲话，称AI大浪已打来，核心业务须借助AI最大化效率，同时拟将约半数员工调配至AI原生新业务。腾讯管理层（刘炽平）同日辟谣裁员50%传闻，称此为资源向AI的主动重配，无大裁员计划。",
+      "why": "马化腾讲话标志腾讯全面进入AI转型阶段，混元大模型与腾讯云商业化加速预期提振，对腾讯(00700)中长期估值有正向意义；短期组织变动情绪面偏负可能压低股价，可结合股价走弱时sell put收取波动率溢价。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "00700",
+        "马化腾",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/7x24/2026-11-13/doc-iniypqyq8179119.shtml",
+      "published_date": "2026-11-13",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-13",
       "is_new": false
     },
     {
