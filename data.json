@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-15 08:23 (北京时间)",
+  "updated_at": "2026-11-15 13:25 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,37 +9,106 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-15 08:23 (北京时间)",
-    "new_count": 2,
+    "at": "2026-11-15 13:25 (北京时间)",
+    "new_count": 7,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "e2db85253f98c8ac",
+      "id": "43cbb23cd0cbc8d6",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "08:15",
+      "group": "大盘头条",
+      "title": "美国国会推AI芯片出口管控立法\"三连击\"，Nvidia丑闻催化跨党派共识",
+      "summary": "美国国会正借2027财年国防授权法案，同步推进《芯片安全法案》《AI监控法案》和《MATCH法案》，目标堵住针对中国的芯片规避漏洞、实施终端用户核查及在岸制造强制要求；消息令中概股11月12日遭重挫，阿里巴巴单日跌约7-8%。美国财长Bessent同日公开点名商务部长Lutnick对涉嫌转售H100的英伟达合作方Megaspeed处置迟缓。",
+      "why": "AI芯片出口管制正从行政令向立法硬约束升级，英伟达、SK海力士、美光等供应链均受波及；阿里巴巴、腾讯等港美双重上市中概股成为市场情绪出口，期权隐含波动率维持高位，建议暂缓近期到期的中概股sell put合约滚转，优先观察APEC峰会（11月18-19日）中美接触结果。",
+      "source": "South China Morning Post",
+      "verified": true,
+      "keywords": [
+        "AI芯片",
+        "出口管制",
+        "英伟达",
+        "Nvidia",
+        "阿里巴巴",
+        "Alibaba",
+        "腾讯",
+        "Tencent",
+        "SK海力士",
+        "美光",
+        "Micron"
+      ],
+      "translated": true,
+      "url": "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny",
+      "published_date": "2026-11-13",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-15",
+      "is_new": true
+    },
+    {
+      "id": "46c83735931a961e",
       "tier": 1,
       "lang": "en",
       "markets": [
         "HK",
+        "A",
         "US"
       ],
-      "time": "08:23",
+      "time": "08:30",
       "group": "大盘头条",
-      "title": "US Weighs Restrictions on Cloud Computing to Curb China AI Chip Access",
-      "summary": "The US Commerce Department is considering rules to restrict Chinese entities from remotely accessing high-performance AI chips in overseas data centers, targeting technology transfer via cloud. Rules expected before January 2027 and would affect Chinese cloud providers including Alibaba Cloud and Tencent Cloud that rely on overseas compute for AI workloads.",
-      "why": "AI芯片管制是本轮最大宏观变量之一：若落地，阿里云/腾讯云/百度智能云的海外算力通路受阻，将倒逼更多本土化算力投入并重估相关港股/美股科技标的估值逻辑。本轮大盘头条偏少——NVDA CEO辞职（CNBC 11-13）、美国10月PPI（BLS 11-13）等主线已于上轮收录，今日（周日11-15）本条为唯一新增大盘级头条，当日大盘头条偏少。",
-      "source": "SCMP",
-      "verified": false,
+      "title": "APEC深圳峰会11月18-19日开幕，12国领导人与会，习近平特朗普普京三边会晤备受期待",
+      "summary": "第33届APEC经济领导人非正式会议将于11月18-19日在深圳举行，主题\"共建亚太家园、促进共同繁荣\"；12个经济体领导人将出席峰会前举办的CEO峰会。习近平、特朗普、普京计划在峰会期间举行三边会晤，这将是中美俄三国领导人罕见同场对话。腾讯已确认为峰会战略合作伙伴。",
+      "why": "APEC期间中美贸易及芯片分歧将进入密集磋商，会议结果可能直接影响中概股和港股情绪；若习特会释放缓和信号，将有利于阿里巴巴、腾讯等标的修复；深圳本地概念及腾讯作为官方合作伙伴有望获高曝光；期权策略建议保留一定比例现金等待峰会结果确认后再操作。",
+      "source": "China Daily",
+      "verified": true,
       "keywords": [
-        "AI芯片",
-        "美国管制",
-        "中国云计算",
-        "阿里云",
-        "腾讯云",
-        "semiconductor"
+        "APEC",
+        "峰会",
+        "腾讯",
+        "Tencent",
+        "阿里巴巴",
+        "宏观",
+        "macro"
+      ],
+      "translated": true,
+      "url": "https://www.chinadaily.com.cn/a/202611/15/WS6af933cbe4b03ebf8519c6d2.html",
+      "published_date": "2026-11-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-15",
+      "is_new": true
+    },
+    {
+      "id": "4edd3ab2a7e56b34",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:45",
+      "group": "大盘头条",
+      "title": "美联储Warsh发布2027年改革议息日程，12月加息25bp概率升至81%",
+      "summary": "美联储公布2027年暂定议息日程，会议次数由每年8次缩减为7次，明年10月会议不再设投票；CME FedWatch显示12月9日加息25bp概率约81%，10月PPI数据出炉强化鹰派预期。美联储内部出现分歧：多位官员认为AI繁荣正推高通胀，沃什（Warsh）本人则认为AI技术长期有助于抑制通胀。",
+      "why": "美联储持续加息路径确定化，压制成长股估值，同时美元走强对港股及A股构成外部压力；sell put策略中高成长股行权价建议保留充足安全边际，科技板块期权收益率将在高波动率环境下短期抬升。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "宏观",
+        "macro",
+        "加息",
+        "通胀"
       ],
       "translated": false,
-      "url": "https://scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt",
+      "url": "https://m.21jingji.com/article/20261113/herald/664a8c3f4fb3cc9e6b4668595b7bbaf9.html",
       "published_date": "2026-11-13",
       "still_developing": false,
       "cross_ref": "",
@@ -48,32 +117,129 @@
       "is_new": true
     },
     {
-      "id": "c54afc651e1c454f",
+      "id": "6639c3891073cda7",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08:23",
-      "group": "个股",
-      "title": "EBA Begins Supervising USDC Under MiCA; BitGo Expands Institutional USDC Platform",
-      "summary": "The European Banking Authority (EBA) commenced formal supervision of Circle's USDC on November 12, the first stablecoin designated as a significant e-money token under the EU's MiCA framework. Concurrently, institutional custodian BitGo announced expansion of its USDC minting and redemption platform for institutional clients.",
-      "why": "EBA正式监管USDC标志欧洲稳定币合规基础设施成型，对Circle（CRCL）欧洲市场准入和机构级采用是长期利好，短期可能带来合规运营成本上升；BitGo扩容进一步验证机构对USDC需求，可关注USDC市场份额走势及对Tether的蚕食效应。",
-      "source": "The Block",
-      "verified": false,
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "比特币跌至三月低点约63,000美元，ETF净流出持续，稳定币供给降至三年最低",
+      "summary": "比特币于11月14日跌至约63,000美元，为近三个月最低，周内跌幅逾17%。CoinDesk报道，过去一个月稳定币总供给减少约170亿美元，降幅为2022年以来最大；美国比特币ETF持续录得净流出，市场将加息预期升温与Anthropic拟议IPO抽走加密市场流动性列为主因。",
+      "why": "加密市场流动性大幅收缩，对Circle（CRCL/USDC发行方）的稳定币储备及业务前景构成压力；若USDC供给持续萎缩可能拖累Circle估值逻辑；富途等持有加密业务的港美股标的情绪亦受波及，可关注加密相关标的的波动率机会。",
+      "source": "CoinDesk",
+      "verified": true,
       "keywords": [
+        "Bitcoin",
+        "比特币",
+        "加密货币",
         "USDC",
         "Circle",
         "CRCL",
-        "EBA",
-        "MiCA",
         "稳定币",
-        "BitGo",
-        "crypto"
+        "stablecoin"
+      ],
+      "translated": true,
+      "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "published_date": "2026-11-14",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-15",
+      "is_new": true
+    },
+    {
+      "id": "6ba34a705bcccacb",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:15",
+      "group": "大盘头条",
+      "title": "美股结束四周连跌：标普500指数周涨2.51%，周五芯片股领跌拖累收盘小幅回调",
+      "summary": "11月13日（周五）美股收盘，标普500指数跌约0.4%，但当周累计涨2.51%，终结连续四周跌势；纳指周涨2.3%，周五跌0.9%。芯片板块受英伟达CEO辞职消息持续压制，整体市场则因超卖技术反弹维持周线正收益。同日公布的10月PPI数据显示批发通胀环比降温，但年化接近四年高位，12月加息预期进一步升温。",
+      "why": "大盘技术性反弹基础尚不稳固，科技/芯片板块分化明显；整体期权隐含波动率有所回落但仍偏高，sell put收益率适中；关键观测点为英伟达Q3财报（11月17日）能否提振市场信心，以及APEC峰会（11月18-19日）中美会晤结果。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "S&P 500",
+        "纳斯达克",
+        "美股",
+        "宏观",
+        "英伟达",
+        "Nvidia"
+      ],
+      "translated": true,
+      "url": "https://www.cnbc.com/2026/11/13/stock-market-today-live-updates.html",
+      "published_date": "2026-11-13",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-15",
+      "is_new": true
+    },
+    {
+      "id": "8ca6908348e912dc",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "国家发改委联合能源局发布\"十五五\"新型储能方案，2030年装机目标超300GW",
+      "summary": "11月13日，国家发展改革委和国家能源局印发《\"十五五\"新型储能实施方案》（发改能源〔2026〕1565号），锚定2026-2030年目标：新型储能装机规模达300GW以上，系统利用率超85%。截至2026年9月底，全国新型储能装机已达167GW，同比增长约63%，政策鼓励降本增效与市场化机制创新。",
+      "why": "储能政策密集落地有利于相关A股产业链；对于持有特斯拉（储能业务）及小米（AIoT生态）等标的的投资者，可关注新能源基础设施政策对业绩长期指引的正面支撑；A股储能概念股可能迎来主题催化窗口。",
+      "source": "国家发展改革委官网",
+      "verified": true,
+      "keywords": [
+        "储能",
+        "新型储能",
+        "新能源",
+        "政策",
+        "A股",
+        "特斯拉",
+        "Tesla",
+        "小米"
       ],
       "translated": false,
-      "url": "https://theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
-      "published_date": "2026-11-12",
+      "url": "https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20677",
+      "published_date": "2026-11-13",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-15",
+      "is_new": true
+    },
+    {
+      "id": "5d165335759f1501",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:45",
+      "group": "大盘头条",
+      "title": "美财长Bessent公开批商务部延误：英伟达合作商Megaspeed涉嫌转售H100至受限中国实体",
+      "summary": "美国财长Bessent公开指责商务部长Lutnick对英伟达云服务合作商Megaspeed的制裁行动迟缓；调查显示Megaspeed涉嫌通过云端远程访问渠道将受限H100算力转售给中国受限实体，绕过出口管制。事件正值APEC深圳峰会前夕，Bessent的公开发言被解读为行政内部对华强硬程度出现分歧。",
+      "why": "行政内部分歧表明对华芯片管控政策存在执行不确定性，市场已对英伟达及中概股定价一定风险溢价；若APEC期间中美就云端AI访问达成协议，相关中概股可能获得修复；若制裁升级，英伟达与中国市场营收敞口将受到更大压缩，需持续关注。",
+      "source": "South China Morning Post",
+      "verified": true,
+      "keywords": [
+        "AI芯片",
+        "出口管制",
+        "英伟达",
+        "Nvidia",
+        "H100",
+        "阿里巴巴",
+        "宏观"
+      ],
+      "translated": true,
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374409/bessent-blames-us-commerce-department-not-restricting-nvidia-chip-exports-china",
+      "published_date": "2026-11-14",
       "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1156,6 +1322,38 @@
       "is_new": false
     },
     {
+      "id": "e2db85253f98c8ac",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "08:23",
+      "group": "大盘头条",
+      "title": "US Weighs Restrictions on Cloud Computing to Curb China AI Chip Access",
+      "summary": "The US Commerce Department is considering rules to restrict Chinese entities from remotely accessing high-performance AI chips in overseas data centers, targeting technology transfer via cloud. Rules expected before January 2027 and would affect Chinese cloud providers including Alibaba Cloud and Tencent Cloud that rely on overseas compute for AI workloads.",
+      "why": "AI芯片管制是本轮最大宏观变量之一：若落地，阿里云/腾讯云/百度智能云的海外算力通路受阻，将倒逼更多本土化算力投入并重估相关港股/美股科技标的估值逻辑。本轮大盘头条偏少——NVDA CEO辞职（CNBC 11-13）、美国10月PPI（BLS 11-13）等主线已于上轮收录，今日（周日11-15）本条为唯一新增大盘级头条，当日大盘头条偏少。",
+      "source": "SCMP",
+      "verified": false,
+      "keywords": [
+        "AI芯片",
+        "美国管制",
+        "中国云计算",
+        "阿里云",
+        "腾讯云",
+        "semiconductor"
+      ],
+      "translated": false,
+      "url": "https://scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt",
+      "published_date": "2026-11-13",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-15",
+      "is_new": false
+    },
+    {
       "tier": 2,
       "lang": "en",
       "markets": [
@@ -2134,6 +2332,39 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-14",
+      "is_new": false
+    },
+    {
+      "id": "c54afc651e1c454f",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:23",
+      "group": "个股",
+      "title": "EBA Begins Supervising USDC Under MiCA; BitGo Expands Institutional USDC Platform",
+      "summary": "The European Banking Authority (EBA) commenced formal supervision of Circle's USDC on November 12, the first stablecoin designated as a significant e-money token under the EU's MiCA framework. Concurrently, institutional custodian BitGo announced expansion of its USDC minting and redemption platform for institutional clients.",
+      "why": "EBA正式监管USDC标志欧洲稳定币合规基础设施成型，对Circle（CRCL）欧洲市场准入和机构级采用是长期利好，短期可能带来合规运营成本上升；BitGo扩容进一步验证机构对USDC需求，可关注USDC市场份额走势及对Tether的蚕食效应。",
+      "source": "The Block",
+      "verified": false,
+      "keywords": [
+        "USDC",
+        "Circle",
+        "CRCL",
+        "EBA",
+        "MiCA",
+        "稳定币",
+        "BitGo",
+        "crypto"
+      ],
+      "translated": false,
+      "url": "https://theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
+      "published_date": "2026-11-12",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-15",
       "is_new": false
     },
     {
