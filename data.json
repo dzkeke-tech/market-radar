@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-16 13:29 (北京时间)",
+  "updated_at": "2026-11-16 18:23 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,38 +9,132 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-16 13:29 (北京时间)",
-    "new_count": 3,
+    "at": "2026-11-16 18:23 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "165a589956635901",
+      "id": "3ce79449eafa4769",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "00:00",
+      "time": "18:23",
       "group": "大盘头条",
-      "title": "Nvidia Q3 FY2027 Earnings Call Set for November 17; Interim CEO Kress to Host; Official Revenue Guidance $107B",
-      "summary": "NVIDIA will report Q3 FY2027 results on November 17, 2026, with earnings call at 2:00 PM PT hosted by interim CEO Colette Kress. Official Q3 revenue guidance was $107 billion plus or minus 2 percent. This is the first earnings call following Jensen Huang's resignation on November 12. Options market implies elevated uncertainty around the print.",
-      "why": "明日财报是黄仁勋辞职后首次业绩发布，市场将同时审视：(1) Q3实际收入是否达到$107B官方指引；(2) 新管理层Q4及FY2027展望是否维持；(3) CEO辞职是否影响大客户关系（微软、谷歌、亚马逊）。任何低于预期的结果将进一步压制AI板块估值。延续报道：11月12日CEO辞职直接改变了此次财报的市场关注焦点。",
-      "source": "NVIDIA Investor Relations",
+      "title": "10-Year Treasury Yield Tops 5.1%; Markets Await Fed Chair Warsh Speech as December Hike Odds Hit 92%",
+      "summary": "The 10-year US Treasury yield surpassed 5.1% ahead of Fed Chair Kevin Warsh's speech at a conference today (Nov 16). CME FedWatch data cited in coverage shows markets pricing a 92% probability of a 25bp December rate hike to 4.00-4.25%, driven by hotter-than-expected October CPI. The 2-year yield posted its biggest weekly gain in over two years. Gold slid as investors repositioned ahead of Warsh's remarks.",
+      "why": "10年期美债突破5%对港美股整体估值形成压制；加息预期高企影响sell put策略行权价选择和组合成本；Warsh讲话鹰鸽倾向将直接影响12月会议前的波动率水平。CME FedWatch 92%概率数字来源：CNBC原文引用该工具数据。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "财报",
-        "Q3",
-        "业绩",
-        "earnings"
+        "美联储",
+        "加息",
+        "美债",
+        "利率",
+        "Warsh",
+        "通胀"
       ],
       "translated": false,
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/",
-      "published_date": "2026-11-12",
+      "url": "https://www.cnbc.com/2026/11/16/gold-holds-steady-as-investors-await-warsh-remarks-for-rate-signals.html",
+      "published_date": "2026-11-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-16",
+      "is_new": true
+    },
+    {
+      "id": "99306d45d1f0c161",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "18:23",
+      "group": "大盘头条",
+      "title": "Goldman Sachs Upgrades HK Stocks to Overweight, Cuts A-Shares to Neutral in 2027 Outlook; MSCI China +23% Target",
+      "summary": "Goldman Sachs published its 2027 China equity outlook, upgrading Hong Kong H-shares to Overweight (from Neutral) and downgrading A-shares to Neutral. H-share valuations are near a cyclical low of 9.8x forward P/E; Goldman expects southbound inflows up to $100B in 2027. For A-shares, AI hard-tech profit momentum is forecast to slow from 85% to 46% growth. MSCI China index target is +23%; CSI 300 +10%. Semiconductors, healthcare, and consumer services upgraded to Buy.",
+      "why": "高盛港股升评是重要外资机构信号，可能拉动南向资金加速入场；对腾讯、阿里、美团等持仓构成正面支撑；A股降评提示AI硬科技盈利预期差风险，须关注A股仓位的估值压力。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "高盛",
+        "Goldman Sachs",
+        "港股",
+        "A股",
+        "2027展望",
+        "MSCI中国"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/markets/article/3374550/goldman-sachs-morgan-stanley-diverge-2027-calls-h-shares-vs-shares",
+      "published_date": "2026-11-15",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-16",
+      "is_new": true
+    },
+    {
+      "id": "3adccdb22c6f6e4d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "13:00",
+      "group": "大盘头条",
+      "title": "国家医保局发布2026年版基本医保及商保创新药两份目录，19家A股药企集中跟进披露",
+      "summary": "国家医保局等部门发布2026年版基本医保及商保创新药两份目录，19家A股上市药企同日跟进集中披露，新目录自2027年1月1日起执行。医药板块受利好催化，家电板块整体拉升。与此同时，创业板指盘中跌超2%，两市半日成交额约9006亿元。",
+      "why": "创新药医保目录是A股医药板块的阶段性催化事件；2027年1月生效时间节点明确，若持仓或关注医药类标的可留意期权机会；整体市场震荡提示需关注A股情绪对港股的传导。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "医保目录",
+        "创新药",
+        "医药",
+        "A股",
+        "创业板"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908v11i.html",
+      "published_date": "2026-11-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-16",
+      "is_new": true
+    },
+    {
+      "id": "c370509fd4f36da3",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "18:23",
+      "group": "个股",
+      "title": "Alibaba Unveils Qwen4-Max Flagship AI Model With 1M Token Context, Pairs With Custom Chip Push",
+      "summary": "Alibaba opened preview access to Qwen4-Max, its largest flagship language model to date, featuring a 1 million-token context window and agent-first coding capabilities. The release reinforces Alibaba's 'model + compute' AI factory narrative alongside the concurrent T-Head chip unit Hong Kong IPO filing. Alibaba's stock was under pressure around HK$93-100 this week partly due to US remote AI chip access curbs concerns.",
+      "why": "延续报道：Qwen4-Max于11月11日开放预览，配合平头哥芯片子公司上市计划，是阿里AI竞争力里程碑叙事；对BABA/9988的期权隐含波动率有正面催化；阿里云业务是11月19日财报的核心观察指标。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "Qwen4-Max",
+        "阿里云",
+        "通义千问"
+      ],
+      "translated": false,
+      "url": "https://scmp.com/tech/big-tech/article/3354212/alibaba-unveils-new-qwen-model-custom-chips-bid-become-chinas-ai-factory",
+      "published_date": "2026-11-11",
       "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -48,30 +142,29 @@
       "is_new": true
     },
     {
-      "id": "8e19f3c8ca1a7df9",
-      "tier": 1,
-      "lang": "zh",
+      "id": "4d19d77a5c768f6c",
+      "tier": 2,
+      "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Anthropic考虑上调IPO发行价超出70-78美元区间，估值或提高超1000亿美元",
-      "summary": "Anthropic正在考虑将纳斯达克IPO（代号ANT）发行价上调至此前公布的70-78美元区间上方，估值或进一步提高超1000亿美元。背景：Anthropic于11月10日提交修订版S-1，设定70-78美元定价区间；机构需求旺盛，促使承销商与公司讨论提价可能性。预计本周（11月18-19日）定价。",
-      "why": "提价讨论表明机构需求超预期，或为AI科技板块提供阶段性情绪支撑；但在英伟达CEO辞职余震中，IPO最终定价强弱将成为AI整体赛道估值的重要参考信号，对本组合AI算力仓位判断有直接影响。延续报道：Anthropic IPO进入最终定价阶段，本周为关键窗口。",
-      "source": "格隆汇",
-      "verified": true,
+      "time": "18:23",
+      "group": "个股",
+      "title": "SK Hynix HBM4 Yield Tops 70%; Expanding Capacity by 20,000+ Wafers/Month Targeting Mid-2027",
+      "summary": "Industry reports indicate SK Hynix's HBM4 production yield has surpassed 70%, the highest in the industry, with the company in equipment procurement talks for further expansion at its Cheongju site targeting first half 2027. The company has reportedly locked over 50% of its 2027-28 HBM capacity with long-term agreements. Its HBM4 chip is slated for Nvidia's Vera Rubin platform.",
+      "why": "延续报道：HBM4产能动向是存储芯片供需格局关键信号，直接影响美光（MU）、SK海力士相关衍生品（CSOP南方两倍做多）的交易逻辑；英伟达CEO辞职引发的AI算力需求不确定性使该题材更敏感。",
+      "source": "富途牛牛",
+      "verified": false,
       "keywords": [
-        "Anthropic",
-        "IPO",
-        "ANT",
-        "纳斯达克",
-        "AI",
-        "定价"
+        "SK海力士",
+        "SK Hynix",
+        "HBM4",
+        "存储芯片",
+        "高带宽内存"
       ],
       "translated": false,
-      "url": "https://m.gelonghui.com/p/7390673",
-      "published_date": "2026-11-12",
+      "url": "https://news.futunn.com/en/post/1004559361/sk-hynix-is-further-expanding-production-of-hbm4-and-is",
+      "published_date": "2026-11-13",
       "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -79,28 +172,27 @@
       "is_new": true
     },
     {
-      "id": "2ddff612ddc0fb2b",
-      "tier": 2,
+      "id": "103ae56ac2831406",
+      "tier": 3,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "13:00",
-      "group": "大盘头条",
-      "title": "港股午盘：恒指涨0.84%，恒生科技指数涨0.54%，科网股活跃（11月16日）",
-      "summary": "11月16日午间，恒生指数上涨0.84%，恒生科技指数上涨0.54%。科网股整体走势活跃。背景：英伟达CEO辞职消息持续发酵，但港股科网板块相对抗跌；智谱AI等应用软件个股跌幅较大。",
-      "why": "港股今日整体小幅回暖但科网股内部分化，显示市场消化英伟达CEO事件余震；本组合港股仓位（腾讯、阿里、美团等）需关注午后是否延续修复或转弱。",
-      "source": "格隆汇",
-      "verified": false,
+      "time": "18:23",
+      "group": "个股",
+      "title": "小米集团（01810.HK）11月13日回购172.5万股，涉资约4983万港元",
+      "summary": "小米集团上周五（11月13日）回购172.5万股，每股回购价介乎28.82至29.02港元，合计涉资约4983.28万港元。小米近期股价约29港元，越南智能手机市场份额首次登顶，ASP提升55%部分抵消出货量下滑影响。",
+      "why": "小米持续回购显示管理层对当前估值的信心，对持有1810.HK或已卖出put的策略而言是短期支撑因子；关注小米汽车下一季度交付进展与指引。",
+      "source": "富途牛牛",
+      "verified": true,
       "keywords": [
-        "港股",
-        "恒生指数",
-        "HK",
-        "市场",
-        "恒生科技"
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "回购"
       ],
       "translated": false,
-      "url": "https://m.gelonghui.com/live/2167397",
+      "url": "https://news.futunn.com/hk/post/1004557788/xiaomi-01810-hk-repurchased-1-725-million-shares-last-friday",
       "published_date": "2026-11-16",
       "still_developing": false,
       "cross_ref": "",
@@ -1252,6 +1344,69 @@
       "is_new": false
     },
     {
+      "id": "165a589956635901",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Nvidia Q3 FY2027 Earnings Call Set for November 17; Interim CEO Kress to Host; Official Revenue Guidance $107B",
+      "summary": "NVIDIA will report Q3 FY2027 results on November 17, 2026, with earnings call at 2:00 PM PT hosted by interim CEO Colette Kress. Official Q3 revenue guidance was $107 billion plus or minus 2 percent. This is the first earnings call following Jensen Huang's resignation on November 12. Options market implies elevated uncertainty around the print.",
+      "why": "明日财报是黄仁勋辞职后首次业绩发布，市场将同时审视：(1) Q3实际收入是否达到$107B官方指引；(2) 新管理层Q4及FY2027展望是否维持；(3) CEO辞职是否影响大客户关系（微软、谷歌、亚马逊）。任何低于预期的结果将进一步压制AI板块估值。延续报道：11月12日CEO辞职直接改变了此次财报的市场关注焦点。",
+      "source": "NVIDIA Investor Relations",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "财报",
+        "Q3",
+        "业绩",
+        "earnings"
+      ],
+      "translated": false,
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/",
+      "published_date": "2026-11-12",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-16",
+      "is_new": false
+    },
+    {
+      "id": "8e19f3c8ca1a7df9",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Anthropic考虑上调IPO发行价超出70-78美元区间，估值或提高超1000亿美元",
+      "summary": "Anthropic正在考虑将纳斯达克IPO（代号ANT）发行价上调至此前公布的70-78美元区间上方，估值或进一步提高超1000亿美元。背景：Anthropic于11月10日提交修订版S-1，设定70-78美元定价区间；机构需求旺盛，促使承销商与公司讨论提价可能性。预计本周（11月18-19日）定价。",
+      "why": "提价讨论表明机构需求超预期，或为AI科技板块提供阶段性情绪支撑；但在英伟达CEO辞职余震中，IPO最终定价强弱将成为AI整体赛道估值的重要参考信号，对本组合AI算力仓位判断有直接影响。延续报道：Anthropic IPO进入最终定价阶段，本周为关键窗口。",
+      "source": "格隆汇",
+      "verified": true,
+      "keywords": [
+        "Anthropic",
+        "IPO",
+        "ANT",
+        "纳斯达克",
+        "AI",
+        "定价"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/p/7390673",
+      "published_date": "2026-11-12",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-16",
+      "is_new": false
+    },
+    {
       "id": "68dbe037b4cd8265",
       "tier": 1,
       "lang": "en",
@@ -2265,6 +2420,36 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-15",
+      "is_new": false
+    },
+    {
+      "id": "2ddff612ddc0fb2b",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "13:00",
+      "group": "大盘头条",
+      "title": "港股午盘：恒指涨0.84%，恒生科技指数涨0.54%，科网股活跃（11月16日）",
+      "summary": "11月16日午间，恒生指数上涨0.84%，恒生科技指数上涨0.54%。科网股整体走势活跃。背景：英伟达CEO辞职消息持续发酵，但港股科网板块相对抗跌；智谱AI等应用软件个股跌幅较大。",
+      "why": "港股今日整体小幅回暖但科网股内部分化，显示市场消化英伟达CEO事件余震；本组合港股仓位（腾讯、阿里、美团等）需关注午后是否延续修复或转弱。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "HK",
+        "市场",
+        "恒生科技"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/live/2167397",
+      "published_date": "2026-11-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-16",
       "is_new": false
     },
     {
