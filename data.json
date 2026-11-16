@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-15 18:31 (北京时间)",
+  "updated_at": "2026-11-16 08:20 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,230 +9,105 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-15 18:31 (北京时间)",
+    "at": "2026-11-16 08:20 (北京时间)",
     "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "4478dc148248d552",
+      "id": "68dbe037b4cd8265",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "HK"
       ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "港股上周主要指数全面下挫：恒指累跌3.45%，恒科指数跌6.5%，南向资金净买118亿港元",
-      "summary": "2026年11月9日至13日当周，港股主要指数集体下跌。恒生指数周跌3.45%，恒生科技指数跌6.5%，恒生中国企业指数跌4.07%。同期南向资金合计净买入118.68亿港元，以阿里巴巴和美团为主要净买入标的，腾讯遭净卖出。大模型热门股受英伟达事件牵连普遍走弱，AI概念整体承压。",
-      "why": "港股宽口径周评；恒科指数周跌6.5%反映科技板块系统性回调；南向资金分化（净买阿里/美团、净卖腾讯）值得关注持仓方向。阿里巴巴和美团均为持仓标的。",
-      "source": "21世纪经济报道",
+      "time": "00:00",
+      "group": "个股",
+      "title": "Tencent 3Q26 Preview: Core Business Slowdown and AI Investment Drag Lead to Decline in Operating Profit",
+      "summary": "Tencent (0700.HK) is scheduled to release Q3 2026 results on November 18. Morgan Stanley forecasts revenue growth of 8.9% (vs. 11% in Q2) and non-IFRS operating profit decline of 3.1% year-on-year due to AI investment surge. Advertising stands out at ~18% growth. UBS estimates AI-related quarterly opex reached CNY 16 billion.",
+      "why": "腾讯Q3业绩后日（11/18）发布，市场预期广告高增速难以抵消AI重投入拖累，非IFRS经营利润可能同比下滑；若业绩不及预期，可能引发港股科技板块联动下压，0700.HK期权隐波值得关注；传闻中的裁员50%已被澄清属误读。",
+      "source": "富途牛牛",
       "verified": true,
       "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技指数",
-        "南向资金",
-        "阿里巴巴",
-        "美团",
-        "腾讯"
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "Q3业绩",
+        "AI投入",
+        "广告"
       ],
       "translated": false,
-      "url": "https://www.21jingji.com/article/20261115/herald/e674cf6fe812a633906f6f6c065fdbdc.html",
-      "published_date": "2026-11-15",
-      "still_developing": false,
+      "url": "https://news.futunn.com/en/post/1000871432/tencent-3q26-preview-core-business-slowdown-and-ai-investment-drag",
+      "published_date": "2026-11-13",
+      "still_developing": true,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-15",
+      "first_seen": "2026-11-16",
       "is_new": true
     },
     {
-      "id": "35d6b43791e64fcd",
-      "tier": 1,
+      "id": "8550f69a66d541f0",
+      "tier": 2,
       "lang": "zh",
       "markets": [
-        "US"
+        "US",
+        "HK"
       ],
-      "time": "15:30",
+      "time": "06:00",
       "group": "大盘头条",
-      "title": "美联储12月加息25bp概率90.9%，多位官员密集释放鹰派信号",
-      "summary": "据财联社引用CME美联储观察2026年11月10日快照：12月维持利率不变概率0%，加息25bp概率90.9%，加息50bp概率9.1%。美联储下次政策会议定于12月8-9日。达拉斯联储主席洛根表示至少还需再加息两次每次25bp；理事沃勒称若通胀继续加速支持一次性加息50bp；堪萨斯城联储施密德同样偏鹰。背景：9月已加息25bp至3.75%-4.0%区间，系2023年7月以来首次加息。第一财经分析认为12月加息大概率落地，后续或转为较长暂停期。",
-      "why": "12月加息已被市场完全定价（概率来源：CME美联储观察2026-11-10快照，财联社报道引用）；维持不变概率0%意味着加息为确定事件，影响持仓内美股估值贴现率及sell-put策略成本。",
-      "source": "财联社",
-      "verified": true,
+      "title": "格隆汇11.11早报：美联储三连警告，美股黄金原油齐挫；英伟达聘律所调查黄仁勋，史上最大IPO临近",
+      "summary": "11月11日格隆汇早报综述：美联储官员连续鹰派表态，市场押注12月加息，美股、黄金、原油集体下挫；英伟达聘请顶级律所对黄仁勋展开调查（后于11月12日确认辞职）；Anthropic史上最大AI IPO临近。",
+      "why": "延续报道：美联储加息预期从11月11日持续发酵至今（12月加息25bp概率已升至约85-90%），金价自11月高点$4,100跌至$3,890附近，金价下压直接影响老铺黄金估值逻辑；英伟达事件已演变为CEO辞职，为本轮最重要事件之一。",
+      "source": "格隆汇",
+      "verified": false,
       "keywords": [
         "美联储",
-        "Fed",
         "加息",
-        "CME",
-        "利率",
-        "宏观",
-        "macro"
+        "美股",
+        "黄金",
+        "英伟达",
+        "宏观"
       ],
       "translated": false,
-      "url": "https://www.cls.cn/detail/2530890",
+      "url": "https://m.gelonghui.com/p/7374177",
       "published_date": "2026-11-11",
       "still_developing": true,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-15",
+      "first_seen": "2026-11-16",
       "is_new": true
     },
     {
-      "id": "a0dbe5b1703a038f",
+      "id": "4a4f2fd8642fa07b",
       "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "15:30",
-      "group": "大盘头条",
-      "title": "港股11/13收评：恒生科技指数跌3.02%，PCB概念及光通信板块领跌",
-      "summary": "2026年11月13日港股收盘：恒生科技指数收跌3.02%，报3813.19点；恒生指数下跌1.55%，报23637.6点；恒生中国企业指数跌1.48%。PCB概念及光通信板块领跌，景旺电子下跌13.73%，中际旭创下跌9.39%。AI大模型概念股继续走弱，智谱跌10%，MINIMAX跌超8%。蔚来、小鹏、理想、阿里、百度、腾讯集体收绿，PCB/光通信供应链压力外溢至大盘。",
-      "why": "英伟达CEO辞职消息加速港股AI/科技板块情绪面打压；PCB/光通信为AI算力基础设施供应链，若相关供应链标的持续走弱，需关注AI资本开支预期下修风险。",
+      "time": "00:00",
+      "group": "个股",
+      "title": "从排队疯抢到无人抢购：泡泡玛特为何遇冷？",
+      "summary": "21世纪经济报道11月15日深度分析：泡泡玛特Q3收益同比下降45-50%（10月27日公告），Labubu所属家族上半年收入首现下滑，海外门店现货充足不再需要代购，二手溢价大幅收窄，公司正推进平台化转型，将2026年定义为经营调整年。",
+      "why": "此为基于10/27业绩公告的深度分析（首次以21经济深度文章形式收录），包含最新二手价格数据与门店供需变化，属实质性新信息；9992.HK今年高点跌超60%，当前估值调整期对short put期权策略的行权价选择影响较大，建议观望至基本面企稳信号出现后再建仓。",
       "source": "21世纪经济报道",
       "verified": true,
       "keywords": [
-        "港股",
-        "恒生科技指数",
-        "PCB",
-        "光通信",
-        "AI",
-        "英伟达"
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "Labubu",
+        "业绩",
+        "潮玩"
       ],
       "translated": false,
-      "url": "https://m.21jingji.com/article/20261113/herald/33b22276a9c8a081078c07ae9949afbb.html",
-      "published_date": "2026-11-13",
+      "url": "https://www.21jingji.com/article/20261115/herald/33183f395e7f07cb48c1d4cbfbb6ca3e.html",
+      "published_date": "2026-11-15",
       "still_developing": false,
+      "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-15",
+      "first_seen": "2026-11-16",
       "is_new": true
-    },
-    {
-      "id": "228440178e49bc2c",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "Oracle scraps $7 billion deal to lease AI chips to Tencent after U.S. government pressure, FT/Bloomberg report",
-      "summary": "Oracle (ORCL) has withdrawn from a five-year agreement to lease approximately 100,000 advanced AI chips to Tencent in Southeast Asian data centers, valued at approximately $7 billion, after U.S. officials raised national security concerns. The Financial Times originally reported the cancellation on November 4; Bloomberg confirmed independently. Neither Oracle, Tencent, nor the White House commented publicly. The deal would have been Tencent's largest overseas AI infrastructure lease.",
-      "why": "延续报道：腾讯最大海外AI算力扩张计划被迫叫停，涉及10万枚先进AI芯片；体现美中科技脱钩正从芯片禁售扩展到租赁管控，对腾讯AI能力与估值有实质影响。11月18日腾讯Q3董事会将如何披露此影响值得持续跟踪。Bloomberg/FT为硬墙媒体（§2.10），cross_ref暂无法找到，script将自动设verified=false。",
-      "source": "Bloomberg/FT",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "0700",
-        "Oracle",
-        "ORCL",
-        "AI芯片",
-        "美国制裁",
-        "芯片出口管制",
-        "美中科技战"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-11-04/oracle-scraps-7-billion-deal-to-lease-chips-to-tencent-ft-says",
-      "published_date": "2026-11-04",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
-      "first_seen": "2026-11-08",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "21:30",
-      "group": "大盘头条",
-      "title": "美国10月非农就业+16.5万大超预期，失业率降至4.1%，12月加息概率升至约80%",
-      "summary": "美国劳工部公布10月非农就业人数增加16.5万，远超经济学家预期的约6.5万，失业率从4.2%降至4.1%，工资同比+3.1%。就业报告发布后，CME美联储观察工具显示12月加息25个基点概率升至约81.5%。",
-      "why": "强劲就业数据令美联储12月加息路径更加明确，对美股（尤其是高估值成长股）和港股均构成估值压力；卖出期权策略需特别关注隐含波动率变化。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "非农",
-        "就业",
-        "美联储",
-        "加息",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "137649352426999c",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "20:00",
-      "group": "大盘头条",
-      "title": "国务院常务会议部署资本市场稳市机制，增强股市内在稳定性",
-      "summary": "国务院总理李强主持常务会议，就资本市场平稳健康发展作出部署，强调完善资本市场稳市机制、增强股市内在稳定性，并要求切实完成2026年重要经济目标。",
-      "why": "A股10月创十年来最大月度跌幅后政策层加码支撑，短期可能形成阶段性底部；对持仓港股龙头（腾讯、美团等）隐含期权波动率有收缩预期，sell put策略窗口或打开。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "国务院",
-        "资本市场",
-        "稳市",
-        "A股",
-        "政策"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/business/markets/article/3373602/beijing-calls-more-efforts-stabilise-stock-market-after-renewed-sell",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "bdafc4fd139cf969",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": false
-    },
-    {
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "17:30",
-      "group": "个股",
-      "title": "Oracle取消与腾讯70亿美元AI芯片租赁合同，美方施压下终止五年协议",
-      "summary": "据英国《金融时报》报道，Oracle已取消与腾讯的为期五年约70亿美元芯片租赁协议，该协议原本让腾讯可租用约10万颗先进AI芯片，美国官员对此表达担忧后，协议被终止。广东省官员亦施压腾讯转向国产芯片。",
-      "why": "延续报道：合同取消消息仍在市场消化中，腾讯（0700.HK）AI算力获取能力受限，或影响云业务和AI产品竞争力；短期压制估值修复预期，sell put时需评估下行风险。",
-      "source": "Reuters",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "Oracle",
-        "芯片",
-        "AI",
-        "0700.HK",
-        "监管"
-      ],
-      "translated": false,
-      "url": "https://sg.finance.yahoo.com/news/oracle-cancels-7-bln-chip-055216451.html",
-      "published_date": "2026-11-04",
-      "still_developing": true,
-      "cross_ref": "",
-      "id": "905f6f11434f4625",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": false
     },
     {
       "id": "e086a4baeb8d4407",
@@ -1183,6 +1058,68 @@
       "is_new": false
     },
     {
+      "id": "4478dc148248d552",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "港股上周主要指数全面下挫：恒指累跌3.45%，恒科指数跌6.5%，南向资金净买118亿港元",
+      "summary": "2026年11月9日至13日当周，港股主要指数集体下跌。恒生指数周跌3.45%，恒生科技指数跌6.5%，恒生中国企业指数跌4.07%。同期南向资金合计净买入118.68亿港元，以阿里巴巴和美团为主要净买入标的，腾讯遭净卖出。大模型热门股受英伟达事件牵连普遍走弱，AI概念整体承压。",
+      "why": "港股宽口径周评；恒科指数周跌6.5%反映科技板块系统性回调；南向资金分化（净买阿里/美团、净卖腾讯）值得关注持仓方向。阿里巴巴和美团均为持仓标的。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "恒生科技指数",
+        "南向资金",
+        "阿里巴巴",
+        "美团",
+        "腾讯"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261115/herald/e674cf6fe812a633906f6f6c065fdbdc.html",
+      "published_date": "2026-11-15",
+      "still_developing": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-15",
+      "is_new": false
+    },
+    {
+      "id": "35d6b43791e64fcd",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "美联储12月加息25bp概率90.9%，多位官员密集释放鹰派信号",
+      "summary": "据财联社引用CME美联储观察2026年11月10日快照：12月维持利率不变概率0%，加息25bp概率90.9%，加息50bp概率9.1%。美联储下次政策会议定于12月8-9日。达拉斯联储主席洛根表示至少还需再加息两次每次25bp；理事沃勒称若通胀继续加速支持一次性加息50bp；堪萨斯城联储施密德同样偏鹰。背景：9月已加息25bp至3.75%-4.0%区间，系2023年7月以来首次加息。第一财经分析认为12月加息大概率落地，后续或转为较长暂停期。",
+      "why": "12月加息已被市场完全定价（概率来源：CME美联储观察2026-11-10快照，财联社报道引用）；维持不变概率0%意味着加息为确定事件，影响持仓内美股估值贴现率及sell-put策略成本。",
+      "source": "财联社",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Fed",
+        "加息",
+        "CME",
+        "利率",
+        "宏观",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.cls.cn/detail/2530890",
+      "published_date": "2026-11-11",
+      "still_developing": true,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-15",
+      "is_new": false
+    },
+    {
       "id": "43cbb23cd0cbc8d6",
       "tier": 1,
       "lang": "en",
@@ -1313,195 +1250,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-15",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "AI Slump Revives Asia's Forgotten Trades From China to India",
-      "summary": "Bloomberg Nov 8 piece says AI trade unraveling post-midterms is forcing investors to rethink their Asia playbook. Funds rotating into Chinese and Indian stocks. A Hong Kong gauge tracking mainland companies gained 5.2% last week, its best since March 2025. Aberdeen favors China tech; Lotus Hao Hong going long HK equity futures.",
-      "why": "AI崩跌带动港股/中概互联网估值重获外资青睐，腾讯、阿里、美团等被机构重新关注；对本组合港股持仓属正面信号，但分析师提醒外资仍可能持续卖出亚洲AI picks-and-shovels股，分化加剧。",
-      "source": "Bloomberg",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "阿里巴巴",
-        "美团",
-        "港股",
-        "AI崩跌",
-        "资金轮动"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
-      "published_date": "2026-11-08",
-      "still_developing": false,
-      "cross_ref": "https://www.business-standard.com/amp/markets/news/ai-slump-revives-asia-s-forgotten-stock-bets-from-china-to-india-126110800052_1.html",
-      "id": "78173ad27f43c048",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
-      "first_seen": "2026-11-08",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "晶圆代工市场酝酿涨价，台积电2027年提价，龙头获大资金加仓",
-      "summary": "台积电确认2027年1月起上调代工报价；上周南向资金净买入中芯国际11.6亿港元、华虹宏力9.21亿港元，中芯国际A股一周累涨14.58%。半导体板块成为AI崩跌背景下南向资金的价值选择。",
-      "why": "晶圆代工涨价预期利好持有中芯国际、华虹等港股/A股；与SK海力士HBM4量产提速形成存储+代工双向受益格局；但短期估值快速抬升，需警惕获利回吐。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "SK海力士",
-        "SK Hynix",
-        "HBM",
-        "台积电",
-        "中芯国际",
-        "晶圆"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261108/herald/a67f64c3725251e6f00f158baafdaf0f.html",
-      "published_date": "2026-11-08",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "2226f8cb70a0f014",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "腾讯、阿里大幅上涨！机构：超跌后迎技术性反弹，成色有待业绩验证",
-      "summary": "港股11月5日大幅反弹，恒指升幅近3.7%，科技指数涨逾5%。阿里巴巴-W、腾讯控股领涨，美团亦显著走强。机构认为此次反弹属于技术性超跌修复，真实成色需待Q3业绩验证；腾讯Q3业绩预计11月18日公布。",
-      "why": "港股超跌反弹对持仓腾讯/阿里的 sell put 策略有短期支撑，但机构谨慎看待持续性；腾讯11/18业绩是下一个关键催化剂，建议关注是否有业绩超预期的信号。延续报道：AI选后崩跌后港股技术性反弹。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "阿里巴巴",
-        "美团",
-        "港股",
-        "恒生科技"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261105/herald/f2516682729f3f5fb6f531d2c91d6101.html",
-      "published_date": "2026-11-05",
-      "still_developing": true,
-      "cross_ref": "",
-      "id": "5c63188b01e33c82",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "大盘头条",
-      "title": "美联储官员连续鹰派表态，达拉斯联储称至少还需加息两次",
-      "summary": "达拉斯联储主席洛根表示至少还需加息两次、每次25个基点；圣路易斯联储主席穆萨莱姆认为通胀仍然过高、应尽快行动。美联储10月会议以10比2维持利率在3.75%-4%不变，两名异见者主张即刻加息。",
-      "why": "鹰派声音密集释放叠加强劲就业，12月加息几成定局；对持仓中高波动科技股（英伟达、特斯拉）的call端风险需重新评估，covered call滚仓节奏建议保守。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "加息",
-        "利率",
-        "鹰派",
-        "洛根"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwtha4800436.shtml",
-      "published_date": "2026-11-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "1859fa4a367b51d1",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Beijing launches barrage of measures to stabilise stock market after sell-off",
-      "summary": "Chinese regulators announced an expanded support package including easing share-buyback rules, preparing a third round of central bank swap facility, cutting the relending rate for buyback loans, and making the buyback/stake-increase lending program permanent.",
-      "why": "延续报道：11月2-3日扩大工具包后，11月6日国务院再次部署，显示政策托底意愿坚定；A股及港股short put策略的下行保护增强，但需等待成交量确认企稳信号。",
-      "source": "SCMP",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "央行",
-        "回购",
-        "稳市",
-        "资本市场"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/business/markets/article/3372993/beijing-launches-barrage-of-measures-to-stabilise-stock-market-after-sell-off",
-      "published_date": "2026-11-03",
-      "still_developing": true,
-      "cross_ref": "",
-      "id": "0119c940d2c31aba",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": false
-    },
-    {
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "中信里昂上调阿里巴巴Q2财季预期：云AI收入料同比+52%，重申跑赢大市",
-      "summary": "中信里昂11月6日发研报，预计阿里巴巴截至9月底财季云AI及计算服务收入同比增长52%，集团营收同比增长8.9%至约2700亿元，经调整EBITA同比增长230%至约297亿元；维持ADR目标价190美元。",
-      "why": "云AI超预期增长预期支撑阿里估值逻辑；Q2财报约11月18日披露，届时若业绩符合预期可能引发补涨；sell put BABA可关注财报前隐含波动率抬升机会。",
-      "source": "智通财经",
-      "verified": false,
-      "keywords": [
-        "阿里巴巴",
-        "阿里云",
-        "AI",
-        "BABA",
-        "9988.HK",
-        "云计算"
-      ],
-      "translated": false,
-      "url": "https://hk.investing.com/news/stock-market-news/article-1744004",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "a7abe1ed63e24b9d",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
       "is_new": false
     },
     {
@@ -2297,6 +2045,36 @@
       "is_new": false
     },
     {
+      "id": "a0dbe5b1703a038f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "港股11/13收评：恒生科技指数跌3.02%，PCB概念及光通信板块领跌",
+      "summary": "2026年11月13日港股收盘：恒生科技指数收跌3.02%，报3813.19点；恒生指数下跌1.55%，报23637.6点；恒生中国企业指数跌1.48%。PCB概念及光通信板块领跌，景旺电子下跌13.73%，中际旭创下跌9.39%。AI大模型概念股继续走弱，智谱跌10%，MINIMAX跌超8%。蔚来、小鹏、理想、阿里、百度、腾讯集体收绿，PCB/光通信供应链压力外溢至大盘。",
+      "why": "英伟达CEO辞职消息加速港股AI/科技板块情绪面打压；PCB/光通信为AI算力基础设施供应链，若相关供应链标的持续走弱，需关注AI资本开支预期下修风险。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生科技指数",
+        "PCB",
+        "光通信",
+        "AI",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261113/herald/33b22276a9c8a081078c07ae9949afbb.html",
+      "published_date": "2026-11-13",
+      "still_developing": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-15",
+      "is_new": false
+    },
+    {
       "id": "6639c3891073cda7",
       "tier": 2,
       "lang": "en",
@@ -2457,68 +2235,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-15",
-      "is_new": false
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "小米汽车工厂迎来全球媒体，雷军欢迎外国朋友体验 N70 和 N90",
-      "summary": "2026世界媒体峰会（11月5-8日，北京）期间，来自112个国家330家主流媒体参访北京亦庄小米汽车工厂。小米澎程为峰会官方用车，雷军欢迎外国媒体体验N70和N90系列，部分外媒称其为移动工作酒店。",
-      "why": "里程碑/品牌破圈：小米汽车通过顶级媒体外交渠道获得全球曝光，有助于海外市场形象建立；对港股（1810.HK）属正面催化剂，可关注是否带动估值修复。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "小米",
-        "Xiaomi",
-        "1810.HK",
-        "小米汽车",
-        "雷军",
-        "世界媒体峰会"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-07/doc-inixwnye4874828.shtml",
-      "published_date": "2026-11-07",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "c54d4d5e85830b07",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
-      "is_new": false
-    },
-    {
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "泡泡玛特 × CLOT联名「杠上开发」麻将开售，1999元一套10分钟售罄",
-      "summary": "11月5日晚10点，泡泡玛特与潮牌CLOT联名限量麻将开售，定价1999元，约10分钟售罄。同期LABUBU新系列「一喵变猫」单价129元，二级市场出现跌破发行价情况，显示IP热度出现分化。",
-      "why": "泡泡玛特Q3收益同比大跌45-50%后，联名爆款售罄展示IP商业化韧性；高端限定品类需求仍强，但主力系列破发令市场对业绩修复节奏存疑；密切关注11月销售数据。",
-      "source": "21经济网",
-      "verified": true,
-      "keywords": [
-        "泡泡玛特",
-        "Pop Mart",
-        "9992.HK",
-        "LABUBU",
-        "潮玩",
-        "联名"
-      ],
-      "translated": false,
-      "url": "https://21jingji.com/article/20261106/herald/9c048f7eff136a4f23502eeb4738f2fa.html",
-      "published_date": "2026-11-06",
-      "still_developing": false,
-      "cross_ref": "",
-      "id": "067aae2859ec98f4",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-08",
       "is_new": false
     },
     {
