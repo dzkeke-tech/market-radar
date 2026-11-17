@@ -1,92 +1,217 @@
 [
   {
-    "id": "3078bb6f326adcb7",
-    "tier": 1,
-    "lang": "en",
-    "markets": ["HK", "A"],
-    "time": "",
-    "group": "大盘头条",
-    "title": "China's Factory Activity Returns to Contraction in October as NBS Manufacturing PMI Falls to 49.3",
-    "summary": "China's official NBS manufacturing PMI fell to 49.3 in October, below the 50-point expansion threshold and missing the consensus estimate of 50.0. The composite PMI also dropped to 49.7, with both manufacturing and non-manufacturing activity contracting simultaneously.",
-    "why": "中国制造业与非制造业PMI双双跌破50，为罕见全面收缩信号；周一A股/港股开盘面临抛压，若引发稳增长政策预期可关注估值修复机会；期权策略需警惕短线波动加剧。",
-    "url": "http://en.people.cn/n3/2026/1031/c90000-20514322.html",
-    "source": "People's Daily (NBS official data)",
-    "verified": true,
-    "keywords": ["PMI", "宏观", "macro", "A股"],
-    "published_date": "2026-10-31",
-    "still_developing": false,
-    "cross_ref": ""
-  },
-  {
-    "id": "4bb07d42f9109b27",
+    "id": "334c364ca76c7922",
     "tier": 1,
     "lang": "zh",
-    "markets": ["US", "HK", "A"],
-    "time": "",
+    "markets": [
+      "US",
+      "A"
+    ],
+    "time": "19:00",
     "group": "大盘头条",
-    "title": "美联储10月会议维持利率3.75%-4%，主席沃什：暂停并非见顶，12月加息概率72%",
-    "summary": "FOMC以10比2投票维持联邦基金利率目标区间3.75%-4%不变，两位反对票（库克、哈马克）主张加息25bp。主席沃什表示暂停是为等待更多数据、并非周期见顶；CME「美联储观察」显示市场定价12月加息25bp概率为72%。",
-    "why": "鹰派暂停叠加72%的12月加息预期将继续压制科技股估值；美债收益率维持高位对港股科技股构成压力；Sell Put策略需关注行权价附近的尾部风险，建议回避短期高IV期权卖出。",
-    "url": "https://m.21jingji.com/article/20261030/herald/242aba6ca0aa1891b9dfceef32eec989.html",
-    "source": "21世纪经济报道",
-    "verified": false,
-    "keywords": ["美联储", "利率", "宏观", "macro"],
-    "published_date": "2026-10-30",
+    "title": "美股Nasdaq周一跌2.5%、A股科创50跌逾5%，AI板块全线承压",
+    "summary": "受英伟达CEO换帅后AI叙事不确定性冲击，周一美股大跌：Nasdaq收跌2.5%，标普500跌1.9%，道指跌1.4%，费城半导体指数跌3.43%。A股同步走弱，科创50跌逾5%，创业板指跌4.37%，沪指跌0.87%，科创资产领跌，宽基ETF尾盘放量护盘。",
+    "why": "全面回调提升持仓个股波动率，AI赛道个股Beta系统性下移；sell put策略需评估行权价缓冲是否充足，大盘恐慌情绪或推高隐含波动率，提供阶段性卖出期权机会。",
+    "source": "新浪财经",
+    "verified": true,
+    "keywords": [
+      "Nasdaq",
+      "科创50",
+      "AI芯片",
+      "英伟达",
+      "市场大跌"
+    ],
+    "translated": false,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908v2e2e.html",
+    "published_date": "2026-11-16",
     "still_developing": false,
     "cross_ref": ""
   },
   {
-    "id": "945642cb40ba0752",
+    "id": "215fee83fb154762",
     "tier": 1,
     "lang": "en",
-    "markets": ["US"],
-    "time": "",
+    "markets": [
+      "US"
+    ],
+    "time": "00:00",
     "group": "大盘头条",
-    "title": "Intel stock has worst day since 1970s, falling 29% as AI spending concerns fuel tech rout",
-    "summary": "US stocks plunged Friday as disappointing tech earnings fueled AI spending concerns. Intel shares tumbled 29% after weak Q4 guidance, their worst single-day loss since the 1970s. The Nasdaq fell roughly 2.9%, and Alphabet extended its record Thursday loss. Markets are questioning whether massive AI capex investments will deliver returns.",
-    "why": "科技股历史性单日暴跌，叠加AI资本支出回报质疑，将压制整体科技板块估值；英伟达等半导体相关标的期权隐含波动率预计大幅升高；持仓需关注相关产品估值重估风险。",
-    "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+    "title": "Nvidia Q3 FY2027 Earnings Due After Close Today; Consensus Revenue ~$108.85B, First Report Under Interim CEO",
+    "summary": "Nvidia reports fiscal Q3 2027 results (Aug-Oct 2026) after US market close today, with analyst consensus at $108.85B revenue and EPS of $2.47. This marks the first earnings report since Jensen Huang's Nov. 12 resignation; interim CEO Colette Kress will host the call. Guidance and AI infrastructure demand commentary will be critical for near-term market direction across AI/chip names.",
+    "why": "今日财报是本周最高风险事件，英伟达指引将定调AI硬件需求叙事；管理层换届背景下市场对战略一致性有疑虑，波动率偏高，财报后隐含波动率回落可能是sell put窗口；关注Blackwell出货、中国出口限制影响及2027年数据中心资本支出指引。",
+    "source": "MarketBeat",
+    "verified": false,
+    "keywords": [
+      "英伟达",
+      "NVDA",
+      "Blackwell",
+      "数据中心",
+      "AI芯片"
+    ],
+    "translated": false,
+    "url": "https://www.marketbeat.com/earnings/reports/2026-11-17-nvidia-co-stock/",
+    "published_date": "2026-11-17",
+    "still_developing": false,
+    "cross_ref": ""
+  },
+  {
+    "id": "92c77f149babfa99",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "00:00",
+    "group": "大盘头条",
+    "title": "Nvidia Board Rules Out Jensen Huang Return; Permanent CEO Search Continues With CFO Kress as Interim",
+    "summary": "Nvidia's board confirmed it is not in discussions to bring back Jensen Huang as CEO, per CNBC. CFO Colette Kress leads the company as interim CEO while the board evaluates internal and external candidates. Huang resigned Nov. 12 following a board investigation tied to an affair with an individual alleged to have contact with Chinese intelligence; Congress has also called Huang to testify.",
+    "why": "延续报道：英伟达CEO辞任续集。董事会排除回归选项表明权力过渡是确定性事件，但永久CEO人选不明确性是长期估值折价来源；今日三季报电话会将是首次在无创始人情况下的业绩指引，对AI策略叙事尤为关键，影响持仓的期权定价中枢。",
     "source": "CNBC",
     "verified": true,
-    "keywords": ["英特尔", "Intel", "INTC", "宏观", "AI芯片"],
-    "published_date": "2026-10-30",
-    "still_developing": false,
-    "cross_ref": ""
-  },
-  {
-    "id": "740aaa4a0f201b64",
-    "tier": 2,
-    "lang": "en",
-    "markets": ["HK"],
-    "time": "",
-    "group": "大盘头条",
-    "title": "Hong Kong Stocks Lose a Key Backer as Chinese Investors Head for Exit",
-    "summary": "Onshore Chinese traders sold a net HK$24 billion ($3.1 billion) of Hong Kong shares through the Stock Connect trading link in October through Thursday, which would be the biggest monthly southbound outflow since 2021. The Hang Seng has fallen more than 12% this year despite state-backed ETF buying.",
-    "why": "南向资金创2021年来最大月度净流出，显示内地投资者对港股信心不足；结合美联储鹰派姿态与科技股暴跌，港股短期内面临多重压力；看涨期权时间价值加速衰减，Sell Put需谨慎。",
-    "url": "https://bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
-    "source": "Bloomberg",
-    "verified": false,
-    "keywords": ["港股", "恒生指数", "宏观"],
-    "published_date": "2026-10-30",
-    "still_developing": false,
-    "cross_ref": ""
-  },
-  {
-    "id": "1303250904ce1cc3",
-    "tier": 2,
-    "lang": "en",
-    "markets": ["HK", "US"],
-    "time": "",
-    "group": "个股",
-    "title": "Alibaba wins preliminary injunction against Pentagon contract restrictions tied to China blacklist",
-    "summary": "A US federal judge in San Jose granted Alibaba a preliminary injunction, blocking the Pentagon from denying contracts to companies because they do business with Alibaba's lobbying partners. Judge Eumi K. Lee found Alibaba likely to succeed on free-speech grounds. The Chinese military designation itself remains in place as the case continues.",
-    "why": "延续报道：2026-06起诉五角大楼的阶段性进展，法院初步禁令可减轻承包商合规压力，对阿里巴巴企业云/政府合同业务构成利好；但军事名单尚存、最终判决未出，不宜过度解读；期权隐含波动率短期内可能因此小幅回落。",
-    "url": "https://www.scmp.com/news/us/article/3372356/alibaba-wins-preliminary-injunction-against-pentagon-lobbying-rule",
-    "source": "South China Morning Post",
-    "verified": false,
-    "keywords": ["阿里巴巴", "Alibaba", "BABA", "9988.HK"],
-    "published_date": "2026-10-27",
+    "keywords": [
+      "英伟达",
+      "NVDA",
+      "黄仁勋",
+      "CEO换帅"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+    "published_date": "2026-11-16",
     "still_developing": true,
+    "cross_ref": ""
+  },
+  {
+    "id": "c602c2c10bcf4e13",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "00:00",
+    "group": "大盘头条",
+    "title": "Anthropic IPO Prices Tomorrow on Nasdaq; $70-78/Share Range, Valuation ~$1.4 Trillion, 6x Oversubscribed",
+    "summary": "Anthropic (ticker: ANT) is set to price its Nasdaq IPO on November 18 and begin trading November 19. The offering of 825 million shares targets $70-78 each, implying a valuation of approximately $1.4 trillion. The book is reportedly 6x oversubscribed. Bloomberg had earlier cited potential for $1.5T+ valuation. The IPO comes against the backdrop of AI market volatility caused by the Nvidia CEO departure.",
+    "why": "Anthropic上市将为AI平台公司提供新的公开市场估值锚点；若定价高于预期，对AI赛道（谷歌、阿里云、腾讯AI业务）构成情绪催化；若市场因英伟达事件情绪低迷而压低定价，则反过来抑制AI溢价估值逻辑，密切关注明日定价区间。",
+    "source": "Yahoo Finance",
+    "verified": false,
+    "keywords": [
+      "Anthropic",
+      "AI",
+      "IPO"
+    ],
+    "translated": false,
+    "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html",
+    "published_date": "2026-11-16",
+    "still_developing": false,
+    "cross_ref": ""
+  },
+  {
+    "id": "c9a9d582426b02d0",
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "HK"
+    ],
+    "time": "00:00",
+    "group": "大盘头条",
+    "title": "Tencent Q3 2026 Earnings Preview: AI Spending Erodes Profit; Revenue ~RMB 210B, Ad Growth +18% a Bright Spot",
+    "summary": "Tencent (0700.HK) reports Q3 2026 results on November 18. Analyst consensus forecasts revenue of ~RMB 210.24 billion (+9% YoY), but non-IFRS operating profit is expected to decline ~3% YoY due to AI-related OpEx estimated at up to RMB 16 billion quarterly. Excluding strategic AI spend, underlying operating profit growth would be +13%. Advertising growth of +18% YoY is the standout.",
+    "why": "腾讯明日财报是港股本周最重要事件；AI投入拖累利润是短期市场关注的核心，但广告18%增长与非AI业务韧性是正面信号。管理层对AI回报时间表的指引将直接影响短期put期权定价，持仓需关注是否下调全年指引。",
+    "source": "富途牛牛",
+    "verified": false,
+    "keywords": [
+      "腾讯",
+      "0700.HK",
+      "微信",
+      "腾讯游戏",
+      "元宝"
+    ],
+    "translated": false,
+    "url": "https://news.futunn.com/en/post/1004577894/snapshot-outlook-tencent-s-q3-results-are-set-to-be",
+    "published_date": "2026-11-16",
+    "still_developing": false,
+    "cross_ref": ""
+  },
+  {
+    "id": "6d66b103454873c1",
+    "tier": 2,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "00:00",
+    "group": "个股",
+    "title": "阿里发布Qwen4-Max，2.4T参数支持百万上下文，API单任务费用降逾六成",
+    "summary": "阿里巴巴于11月16日正式发布Qwen4-Max，总参数2.4T、激活参数71B，支持百万级上下文，具备原生视觉能力。在Terminal-Bench 4.0编程评测中，单任务平均费用较上一代降低58%，Token用量从289K降至151K。模型已上线阿里云API，编程领域全球盲测排名第六，小尺寸版本将陆续开源。",
+    "why": "Qwen4-Max发布强化阿里在中国大模型竞争格局中的地位，低成本API策略有望带动阿里云收入增长；叠加平头哥HK独立上市预期（市传2027年、募资$20-30亿），构成9988.HK/BABA估值修复逻辑的双重催化。",
+    "source": "21世纪经济报道",
+    "verified": true,
+    "keywords": [
+      "阿里巴巴",
+      "BABA",
+      "9988.HK",
+      "阿里云",
+      "通义千问"
+    ],
+    "translated": false,
+    "url": "https://www.21jingji.com/article/20261116/herald/2639a61512ac3f30c68beb39f22eeeea.html",
+    "published_date": "2026-11-16",
+    "still_developing": false,
+    "cross_ref": ""
+  },
+  {
+    "id": "ee2671661cdc5ba5",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "00:00",
+    "group": "个股",
+    "title": "SK Hynix Plans New HBM4 Equipment Orders for P&T6 Site Despite Nvidia CEO Uncertainty",
+    "summary": "SK Hynix is reportedly in talks with equipment makers for new HBM4 tools at its Cheongju P&T6 site, targeting a 2027 H1 production ramp. The company expects HBM4 to surpass HBM3E in both shipment volume and revenue in Q4 2026. Industry sources note Nvidia leadership uncertainty but say the company's demand commitments remain firm through 2029. Separately, SK Hynix pledged $1.05B to support domestic chip suppliers and a $655M testing center.",
+    "why": "SK海力士坚持HBM4扩产表明AI算力硬件需求侧尚未因英伟达CEO变动松动，对HBM相关仓位（南方两倍做多/CSOP）有短期支撑；但今日英伟达三季报指引是关键——若指引偏弱，HBM4订单节奏或受压。",
+    "source": "TrendForce",
+    "verified": false,
+    "keywords": [
+      "SK海力士",
+      "SK Hynix",
+      "HBM",
+      "HBM4",
+      "高带宽内存"
+    ],
+    "translated": false,
+    "url": "https://www.trendforce.com/news/2026/11/16/news-sk-hynix-reportedly-plans-new-hbm4-equipment-orders-with-pt6-in-focus-despite-nvidia-uncertainty/",
+    "published_date": "2026-11-16",
+    "still_developing": false,
+    "cross_ref": ""
+  },
+  {
+    "id": "9e824cd1b95d4490",
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "00:00",
+    "group": "个股",
+    "title": "Nvidia Cuts Intel Stake by ~54M Shares; Intel Drops ~3.6% on Disclosure",
+    "summary": "Nvidia disclosed a reduction in its Intel holdings from approximately 214.8 million to 161.1 million shares (~25% cut), likely via its Q3 2026 13F filing. Intel shares dropped approximately 3.6% on Monday following the disclosure, adding to pressure from an extended post-earnings decline. Nvidia originally acquired its ~$5 billion Intel stake in September 2025 as part of a chip co-development deal.",
+    "why": "英伟达减持英特尔是合作信心下降的信号；若今日三季报指引显示自研或竞争性架构倾向加剧，可能进一步压制INTC。对英特尔仓位需关注下行风险，代工战略与AI芯片路线的不确定性叠加管理层压力仍是折价来源。",
+    "source": "GuruFocus",
+    "verified": false,
+    "keywords": [
+      "英特尔",
+      "Intel",
+      "INTC",
+      "英伟达",
+      "NVDA"
+    ],
+    "translated": false,
+    "url": "https://gurufocus.com/news/9202919/nvidia-reduces-intel-holdings-impacting-stock-intc",
+    "published_date": "2026-11-16",
+    "still_developing": false,
     "cross_ref": ""
   }
 ]
