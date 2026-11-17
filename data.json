@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-17 18:20 (北京时间)",
+  "updated_at": "2026-11-17 18:21 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,104 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-17 18:20 (北京时间)",
-    "new_count": 0,
+    "at": "2026-11-17 18:21 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "3c87341ba4da5424",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股11月17日收盘：恒指跌1.03%报23508点，芯片股逆势大涨，科网股及AI应用股全线走弱",
+      "summary": "恒生指数收报23508.17点，跌1.03%（-245.67点），全日成交1980亿港元；恒生科技指数收报3758.17点，跌1.14%；国企指数收报7904.37点，跌0.97%。A股方面，上证指数跌0.50%至3584.58点，创业板指跌逾1%。科网股（阿里、百度、哔哩哔哩）下跌；本土芯片股（壁仞科技+8%、华虹宏力+8%、中芯国际+6%）受「去美化」预期提振逆势走强；MINIMAX等AI应用股跌幅超7%。",
+      "why": "AI芯片出口管制新规叠加英伟达管理层变局，压制科网板块；国内半导体龙头因「卡脖子」替代预期受益——对持有港股科网的仓位是压力，对中芯国际、华虹方向为正面支撑。期权持仓可关注恒生科技VIX水平变化。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "恒生科技指数",
+        "港股",
+        "A股",
+        "芯片股"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261117/herald/10ab98bcd3e123dd4bfe2c9844d9968f.html",
+      "published_date": "2026-11-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-17",
+      "is_new": true
+    },
+    {
+      "id": "727f80a5971510a9",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "格隆汇11.17早报：美股今日AI板块全线承压，纳斯达克跌逾2%，英伟达季报盘后见分晓",
+      "summary": "美国市场受新一轮AI芯片出口管制规定冲击，科技股连续第三日下跌，纳斯达克综合指数跌逾2%，标普500指数跌约1.9%，英伟达相关个股领跌。欧洲STOXX 600跌约0.7%，日经225指数收跌约1.3%。市场目光集中在英伟达盘后Q3季报及Q4指引。",
+      "why": "AI芯片管制+英伟达管理层变局共同引发全球AI trade调整，重点观察英伟达Q4指引能否恢复市场信心；若季报强劲，有望带动港股科网板块明日反弹，届时sell put策略可关注short-dated期权机会。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "纳斯达克",
+        "美股",
+        "AI芯片",
+        "英伟达",
+        "全球市场"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/live/2753840",
+      "published_date": "2026-11-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-17",
+      "is_new": true
+    },
+    {
+      "id": "c5a822d1c867ea65",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "个股",
+      "title": "PDD Holdings Q3 Earnings Preview: Results Due Nov. 19 Pre-Market; Revenue Growth Expected to Slow to ~7%, EPS May Fall ~10%",
+      "summary": "PDD Holdings (Temu parent) is set to release Q3 2026 results before U.S. markets open on Thursday, Nov. 19. Analysts estimate revenue of approximately RMB 115.5 billion, up roughly 6.7% year-over-year — a marked deceleration from earlier quarters — while earnings per share are expected to decline about 10% year-over-year. The quarter-end cash position was $67.3 billion as of Q2.",
+      "why": "拼多多季报在即，收入增速显著放缓、利润承压，注意11月19日前Theta消耗与implied波动率变动；与阿里巴巴（同日发布）同步构成中概双重业绩风险窗口。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "拼多多",
+        "PDD",
+        "Temu",
+        "季报",
+        "跨境电商"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1004680733/chart-preview-pdd-holdings-to-report-before-market-open-on",
+      "published_date": "2026-11-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-17",
+      "is_new": true
+    },
     {
       "id": "79239226f8cb1e2f",
       "tier": 1,
