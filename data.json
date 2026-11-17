@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-17 13:14 (北京时间)",
+  "updated_at": "2026-11-17 13:15 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,197 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-17 13:14 (北京时间)",
-    "new_count": 0,
+    "at": "2026-11-17 13:15 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "9eb817477a1f8e7f",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "美联储官员密集释放鹰派信号，12月加息预期大幅升温",
+      "summary": "多位美联储官员本周集体表态偏鹰：克利夫兰联储主席哈马克倾向小幅渐进式加息，达拉斯联储主席洛根认为至少还需加息两次。美联储主席沃什（Kevin Warsh）11月16日出席旧金山AI会议，表示「正处于经济转折点」，但未给出即时利率结论。当前联邦基金目标利率区间维持3.75%-4%，市场普遍预期12月会议加息。",
+      "why": "美联储持续鹰派信号意味着12月加息概率极高；对港股/A股估值有系统性压力；期权策略方面卖出期权隐含波动率有所上升，需防范利率意外变化对Delta的影响。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "加息",
+        "Kevin Warsh",
+        "利率",
+        "货币政策"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261116/herald/cca927a26f4fed6caa21035c3040bda4.html",
+      "published_date": "2026-11-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-17",
+      "is_new": true
+    },
+    {
+      "id": "857ef7e49678c244",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:30",
+      "group": "大盘头条",
+      "title": "Nasdaq Falls Over 2% for Third Straight Loss; Nvidia Q3 FY2027 Earnings Due After Close Today",
+      "summary": "US equities fell for a third consecutive session on Monday, Nov. 16, with the Nasdaq dropping over 2% and the S&P 500 declining nearly 2%, dragged by Nvidia and AI-related names. The VIX volatility index surged sharply to around 24. All eyes turn to Nvidia's Q3 FY2027 results due after Tuesday's close, with consensus revenue guidance around $108 billion — a key validation moment for the AI infrastructure trade.",
+      "why": "三连跌且VIX跳升至24，隐含波动率高企，对港股/美股多头有压力；英伟达今日盘后公布Q3业绩，或引发AI板块剧烈波动，对short-put策略需特别关注gamma风险。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "Nasdaq",
+        "S&P500",
+        "Nvidia",
+        "VIX",
+        "AI",
+        "earnings"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+      "published_date": "2026-11-16",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-17",
+      "is_new": true
+    },
+    {
+      "id": "f86f6a94dd700e35",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "腾讯控股（00700.HK）今日盘中跌超3%，明日（11月18日）公布Q3 2026业绩",
+      "summary": "腾讯控股11月17日盘中跌超3%，报约379港元。公司将于11月18日举行董事会会议审批三季度业绩。市场预期Q3收入约2102亿元人民币（同比约增9%），但因AI方向资本支出大幅增加（分析师预计同比大增），利润预期偏谨慎。大摩维持增持评级。",
+      "why": "腾讯明日披露季报是本周港股最大催化剂；若业绩好于预期可能大幅反弹；若AI资本支出超预期，可能继续承压；期权策略方面，明日业绩前后不宜新开卖出期权，建议静观业绩后再决策。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "0700.HK",
+        "业绩",
+        "AI",
+        "资本支出",
+        "三季报"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/1004687348/hk-stocks-in-motion-tencent-00700-falls-over-3-again",
+      "published_date": "2026-11-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-17",
+      "is_new": true
+    },
+    {
+      "id": "65f10ccc48679ce4",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "PBOC Withdraws Medium-Term Funds in Warning Sign to Easing Bets; Yuan Near Multi-Year High",
+      "summary": "China's central bank drained liquidity via its medium-term lending facility (MLF) for the first time in five months on Nov. 16, signaling caution to traders betting on easing. The PBOC's Q3 monetary policy report had already dropped language about additional stimulus measures. Separately, the bank raised the forex deposit reserve requirement ratio by 2 percentage points to 6% (effective Nov. 15), amid yuan appreciation pressure — the yuan recently strengthened to around 6.65 per dollar, its strongest since mid-2022.",
+      "why": "人民币升值+PBOC流动性收紧信号，意味着年底前进一步降息/降准预期下降；若港元联系汇率受益，对港股估值有边际支撑；但人民币强势背景下，出口型企业盈利预期存在不确定性。",
+      "source": "Bloomberg",
+      "verified": true,
+      "keywords": [
+        "PBOC",
+        "人民币",
+        "央行",
+        "MLF",
+        "流动性"
+      ],
+      "translated": false,
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/pboc-withdraws-medium-term-funds-in-warning-sign-to-easing-bets",
+      "published_date": "2026-11-16",
+      "still_developing": false,
+      "cross_ref": "https://www.scmp.com/economy/china-economy/article/3374160/china-signals-focus-shift-policy-delivery-pboc-drops-stimulus-language",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-11-17",
+      "is_new": true
+    },
+    {
+      "id": "4123995119bf9bc8",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "港股午评：恒指跌约0.77%，芯片股逆势活跃，北水净流入约21亿港元",
+      "summary": "11月17日港股半日，恒生指数跌约0.77%至约23571点，恒生科技指数跌约0.46%。科网股及AI应用板块普遍承压，芯片股（包括中芯国际涨近9%）逆势走强。北水净流入约21亿港元，终止连续流出。背景：隔夜美股费城半导体指数跌5%，纳指已连跌三日。",
+      "why": "港股今日跟随美股AI拖累整体走低，但北水续流入显示内资仍有逢低买入意愿；期权策略方面今日隐含波动率上升，卖出期权的时间价值受益；中芯国际大涨对国内半导体板块有提振作用。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "芯片",
+        "北水",
+        "恒生科技"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1004666093/jinshi-data-global-financial-morning-brief-november-17-2026",
+      "published_date": "2026-11-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-17",
+      "is_new": true
+    },
+    {
+      "id": "8bf0496acb85c4a3",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A",
+        "US"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "APEC深圳峰会明日（11月18-19日）开幕，12位经济体领导人出席工商领导人峰会",
+      "summary": "亚太经合组织第三十三次领导人非正式会议将于11月18-19日在深圳举行，主题「建设亚太共同体，促进共同繁荣」。习近平将出席工商领导人峰会开幕式并发表主旨演讲，届时多个APEC经济体领导人出席。115家世界500强企业代表参会，147家深圳企业亮相。《2026年APEC工商领导人峰会深圳倡议》将在峰会期间发布。中美双方此前已同步调整关税及经贸措施，分析人士认为峰会背景下存在中美领导人进一步会晤可能。",
+      "why": "APEC深圳峰会是年内最重要的多边经济外交事件；若中美领导人会晤并传出积极经贸信号，将显著提振港股/A股情绪，科技消费板块受益最为直接；期权策略方面，峰会前后不确定性上升，可考虑持仓对冲。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "APEC",
+        "深圳",
+        "中美关系",
+        "贸易",
+        "峰会"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261114/herald/78592e7213f08b9d8a724ed922c63871.html",
+      "published_date": "2026-11-14",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-17",
+      "is_new": true
+    },
     {
       "id": "79239226f8cb1e2f",
       "tier": 1,
