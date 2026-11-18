@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-18 13:19 (北京时间)",
+  "updated_at": "2026-11-18 18:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,39 +9,105 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-18 13:19 (北京时间)",
-    "new_count": 4,
+    "at": "2026-11-18 18:16 (北京时间)",
+    "new_count": 6,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "4c27cf3caa4de2b9",
+      "id": "6d0c63fb754b9fe7",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "HK",
-        "A"
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Nvidia Q3 FY2027 Revenue $115.8B, Up 103% YoY; Q4 Guidance $130B — First Earnings Under Interim CEO Colette Kress",
+      "summary": "英伟达11月17日公布Q3 FY2027业绩：营收$115.84亿，同比增长103%；数据中心营收$107.6亿（+110% YoY），超出市场一致预期约$71亿（+6.6%）；调整后EPS $2.68，超预期8.5%。Q4营收指引$130亿（±3%）。公司明确表示Q4指引不含对华数据中心AI算力收入，以反映出口管制影响。本次为CFO Colette Kress出任临时CEO后主导的首份季报。",
+      "why": "英伟达Q3业绩直接影响AI芯片需求预期，对持仓内SK海力士HBM4、美光存储等上游供应链标的情绪有正向溢出；但Q4指引排除中国市场AI收入，说明出口管制压力已在前瞻中兑现。大幅业绩波动期权隐含波动率将上升，可关注covered call机会。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "GPU",
+        "AI芯片",
+        "数据中心",
+        "Blackwell"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+      "published_date": "2026-11-17",
+      "still_developing": false,
+      "cross_ref": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-18",
+      "is_new": true
+    },
+    {
+      "id": "dc8e46ad8c796395",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
       ],
       "time": "09:00",
       "group": "大盘头条",
-      "title": "APEC深圳工商领导人峰会开幕：习近平主旨演讲强调WTO多边贸易，川普访华，普京与会",
-      "summary": "APEC中国2026深圳峰会于11月18日上午开幕。习近平出席工商领导人峰会开幕式并发表主旨演讲，主题《坚定信心，勇毅前行，共创亚太光明未来》，强调维护以WTO为核心的多边贸易体制、推进降低关税扩大准入、支持成立世界湾区经济合作联盟。美国总统川普当日启程访华。普京出席并特别致辞。中美科技巨头云集前海。领导人非正式会议11月18-19日举行。",
-      "why": "习近平APEC公开呼吁自由贸易和市场开放，对港股、A股情绪有短期积极信号；川普访华期间的中美领导人会谈结果将直接影响中概股（腾讯、阿里、美团等持仓）；任何中美关税或科技出口管制进展都可能在会后形成高波动窗口，注意调整sell put保证金管理。",
-      "source": "深圳市人民政府",
-      "verified": false,
+      "title": "U.S. Issues New AI Chip Export Rule: Overseas Data Centers Serving Chinese Firms Now Require Export Licenses",
+      "summary": "美国商务部工业与安全局（BIS）11月16日发布临时最终规则：要求向可为中国企业提供远程AI算力的境外数据中心出口Nvidia等先进AI芯片须事先申请许可证；受影响国家包括新加坡、马来西亚、泰国、印尼、巴西。该规则同时废除了拜登政府2025年1月的AI扩散规则（AI Diffusion Rule），现有数据中心有90天时间申请许可。商务部称规则由财政部和国家安全委员会主导起草。北京将新规定性为经济胁迫，并暗示可能以稀土出口限制反制。",
+      "why": "对港股中国AI/云计算公司（阿里云、腾讯云等）的全球基础设施布局构成直接压力；叠加特朗普-习近平APEC深圳峰会背景，中美科技博弈是本周最核心的宏观主题。科技赛道所有仓位的尾部风险（下行）均需评估，尤其是中国科技股期权Delta敞口。",
+      "source": "CNBC",
+      "verified": true,
       "keywords": [
-        "APEC",
-        "习近平",
-        "川普",
-        "中美贸易",
-        "关税",
-        "深圳",
-        "多边贸易"
+        "AI芯片",
+        "出口管制",
+        "数据中心",
+        "英伟达",
+        "Nvidia",
+        "中美",
+        "semiconductor"
       ],
       "translated": false,
-      "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/post_13067578.html",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
       "published_date": "2026-11-18",
+      "still_developing": false,
+      "cross_ref": "https://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-18",
+      "is_new": true
+    },
+    {
+      "id": "8e8e369df8eaf6dd",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "Trump and Xi Meet at APEC in Shenzhen (Nov 18-19): AI Chips, Trade Truce and Rare Earths on Agenda",
+      "summary": "特朗普与习近平今日（11月18日起）在深圳举行的APEC峰会期间会面，这是2026年两人第三次会晤（继5月北京行与9月华盛顿会）。背景下，美国本周出台AI芯片境外数据中心管制新规，双方正就延续2025年贸易休战协议、稀土出口和投资协议展开谈判。多数分析认为重大成果将推迟至G20，但双方有望就延续贸易休战、稀土配额达成阶段性共识。北京已将新芯片规则定性为经济胁迫。",
+      "why": "中美高层会面历来是中国资产（港股、A股）短期波动的核心催化剂；本次峰会结果若超预期积极，可能短暂提振港股情绪，对腾讯、阿里、美团等持仓构成正面影响。反之，若双方言辞对抗，可能引发下行冲击。建议密切跟踪会后联合声明及市场反应。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "APEC",
+        "特朗普",
+        "习近平",
+        "中美",
+        "AI芯片",
+        "贸易",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/economy/china-economy/article/3373904/xi-and-trumps-apec-meeting-whats-hold-and-whats-table",
+      "published_date": "2026-11-17",
       "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -49,29 +115,62 @@
       "is_new": true
     },
     {
-      "id": "6b8a97960bd22797",
-      "tier": 2,
-      "lang": "zh",
+      "id": "ba8bd9e96fcb9f56",
+      "tier": 1,
+      "lang": "en",
       "markets": [
-        "HK"
+        "US"
       ],
-      "time": "12:00",
+      "time": "14:00",
       "group": "大盘头条",
-      "title": "港股缩量调整，恒生科技指数5连跌，机构关注红利资产防御价值",
-      "summary": "11月18日港股继续缩量调整，科网股承压，半导体板块相对抗跌。恒生科技指数已连续5个交易日下跌。多家券商发布研报，建议在当前高利率背景下关注港股红利资产的防御配置价值。参考数据：11月17日收盘恒指-1.03%（23,508.17点），恒科-1.14%（3,758.17点），成交1,980.52亿港元；腾讯-3%，百度-5%，京东-2%，半导体（华虹宏力等）逆势走强。",
-      "why": "恒科5连跌确认港股科技股短期承压；红利防御建议与sell put策略契合（高股息+稳定波动率）；腾讯今日公布Q3财报，收益公告前后需警惕波动放大；持仓中高贝塔科技仓位需关注止损线。",
-      "source": "21世纪经济报道",
+      "title": "Fed Officials Signal December Hike as Near-Certain; CME FedWatch Prices 95% Probability; October FOMC Minutes Out Today",
+      "summary": "美联储官员连日发表鹰派信号：圣路易斯联储主席Alberto Musalem（11月17日）称未来数月可能需要多达四次加息；联储理事Christopher Waller（11月10日）倾向于12月加息且不排除50bp。CME FedWatch工具显示12月加息25bp概率已升至95%（来源：CNBC援引CME FedWatch）。美联储10月会议纪要（10月维持利率于3.75%-4.00%不变，2名委员主张加息）今日下午2点美东时间发布，市场等待美联储主席Kevin Warsh的立场信号。",
+      "why": "加息预期是美股近期连跌的主要推手；对科技估值压制明显，高beta成长股风险更大。对期权策略影响：高利率环境下sell put收入名义提升，但需更谨慎评估下行风险；VIX若持续高于25应降低裸露put仓位；今日会议纪要内容若出现超预期鹰派措辞，可能引发再次抛售。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "港股",
-        "恒生科技",
-        "恒指",
-        "红利",
-        "科网股",
-        "5连跌"
+        "美联储",
+        "FOMC",
+        "加息",
+        "利率",
+        "Fed",
+        "macro"
       ],
       "translated": false,
-      "url": "https://www.21jingji.com/article/20261118/herald/e0937e39ba091c5f6692a8b36cfe8397.html",
+      "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+      "published_date": "2026-11-17",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-18",
+      "is_new": true
+    },
+    {
+      "id": "c9783105d59caa85",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "阿里巴巴 Q2 FY2026 财报明日（11月19日）公布，AI与云增速及资本开支为市场关注焦点",
+      "summary": "阿里巴巴（09988.HK / BABA）将于11月19日公布截至2026年9月30日的FY2026 Q2业绩，今日（11月18日）召开董事会会议。上周（约11月16日）阿里据报发布最先进AI模型Qwen4-Max，宣称可将任务成本降低60%。此外阿里芯片子公司T-Head已保密提交港交所上市申请（11月10日公告）。今年以来BABA下跌约39%，市场分析师普遍给予强力买入评级。将关注：淘天电商份额、阿里云增速及AI资本支出计划。",
+      "why": "阿里Q2业绩是本周港股/中概股最重磅事件，AI云业务是否超预期将直接决定短期估值方向；若结果积极，可能提振整个中国互联网板块；对持有BABA或相关中国科技期权仓位者，明日业绩前后隐含波动率将有显著变化，需注意。",
+      "source": "Panabee",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "阿里云",
+        "通义千问",
+        "Qwen"
+      ],
+      "translated": false,
+      "url": "https://www.panabee.com/news/alibaba-earnings-q3-2026",
       "published_date": "2026-11-18",
       "still_developing": false,
       "cross_ref": "",
@@ -80,63 +179,30 @@
       "is_new": true
     },
     {
-      "id": "8b2c4d154a0998f1",
+      "id": "b9ebefb377b2e013",
       "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "JD.com Q3 2026: Revenue +3.5% to RMB 309.6B; Non-GAAP Net Profit +43.7%; JD Retail Gross Margin Tops 20% for First Time",
-      "summary": "JD.com (09618.HK / JD) Q3 2026 (Nov 17): Net revenues RMB 309.6B (+3.5% YoY). Non-GAAP net profit ~RMB 8.3B (+43.7%). GAAP net profit RMB 6.5B (vs. RMB 5.3B in Q3 2025). JD Retail gross margin 20.1% — first time above 20%, 18th consecutive quarter of expansion. JD Logistics +16.1%. Food delivery operating loss narrowed >50%. Stock -2%+ on Nov 17 (sell-the-news reaction).",
-      "why": "京东零售毛利率首破20%是中长期改善信号；外卖亏损收窄>50%暗示与美团（持仓）的价格战已阶段性缓和，对美团Q3预期构成利好佐证；营收仅+3.5%、股价sell-the-news，届时期权隐含波动率（IV）可能提供较好sell put进入窗口；该财报是中国消费电商赛道本轮业绩季的重要bellwether。",
-      "source": "SEC EDGAR (Primary 6-K)",
-      "verified": true,
-      "keywords": [
-        "京东",
-        "JD.com",
-        "JD",
-        "09618",
-        "电商",
-        "外卖",
-        "美团"
-      ],
-      "translated": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/0001549802/000119312526464688/d179042dex991.htm",
-      "published_date": "2026-11-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-18",
-      "is_new": true
-    },
-    {
-      "id": "ceb96d4ad9e51cf2",
-      "tier": 3,
       "lang": "zh",
       "markets": [
-        "US"
+        "A",
+        "HK"
       ],
-      "time": "07:00",
-      "group": "个股",
-      "title": "腾讯音乐Q3 2026：总收入89.4亿元同比增长5.6%，音乐会员收入逼近50亿，轻微未达预期",
-      "summary": "腾讯音乐娱乐集团（TME）于11月17日公布2026年Q3未经审核业绩：总收入89.41亿元（+5.6% YoY），音乐相关服务收入76.8亿元（+10.2% YoY），调整后净利润25.3亿元（+2.1%），调整后EBITDA 30.2亿元（+2.7%）。IFRS口径归属股东净利润21.5亿元，同比持平。收入轻微低于市场预期约2%。JENNIE等艺人入驻，视频号协同持续深化。",
-      "why": "腾讯音乐作为腾讯系音乐版图，业绩平稳但略逊预期，与腾讯控股今日Q3财报高度相关可作为侧影；会员收入近50亿和视频号协同是长期亮点；TME未出现大幅超预期，对腾讯Q3整体预期偏中性，实际财报需待下午公告确认。",
-      "source": "PR Newswire",
-      "verified": true,
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股11月18日收盘：创业板指涨0.85%，沪指微涨0.09%，成交额1.37万亿元刷年内新低",
+      "summary": "11月18日A股收盘：沪指报3587.83点（+0.09%），深成指+0.2%，创业板指+0.85%，科创综指+1.0%。两市成交额约1.37万亿元，较上日缩量880亿，刷年内新低。盘面算力硬件与半导体午后走强；家电、海运、电信全天强势；黄金、军工、传媒板块抛压明显。早盘低开，午后反转收红。港股午间震荡走弱，部分互联网医疗股跌幅居前。",
+      "why": "成交量萎缩至年内新低显示市场情绪观望；临近中美APEC会谈，风险情绪谨慎。科创板相对强势对科技类持仓有一定支撑，但成交量不足表明行情缺乏持续性动力。港股午间走弱需密切关注中美峰会结果。",
+      "source": "东方财富",
+      "verified": false,
       "keywords": [
-        "腾讯音乐",
-        "TME",
-        "腾讯",
-        "视频号",
-        "音乐",
-        "会员"
+        "A股",
+        "创业板",
+        "沪指",
+        "宏观",
+        "港股"
       ],
       "translated": false,
-      "url": "https://www.prnewswire.com/news-releases/tencent-music-entertainment-group-announces-third-quarter-2026-unaudited-financial-results-302941810.html",
-      "published_date": "2026-11-17",
+      "url": "https://finance.eastmoney.com/a/202611183933879593.html",
+      "published_date": "2026-11-18",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -1374,6 +1440,39 @@
       "is_new": false
     },
     {
+      "id": "4c27cf3caa4de2b9",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "APEC深圳工商领导人峰会开幕：习近平主旨演讲强调WTO多边贸易，川普访华，普京与会",
+      "summary": "APEC中国2026深圳峰会于11月18日上午开幕。习近平出席工商领导人峰会开幕式并发表主旨演讲，主题《坚定信心，勇毅前行，共创亚太光明未来》，强调维护以WTO为核心的多边贸易体制、推进降低关税扩大准入、支持成立世界湾区经济合作联盟。美国总统川普当日启程访华。普京出席并特别致辞。中美科技巨头云集前海。领导人非正式会议11月18-19日举行。",
+      "why": "习近平APEC公开呼吁自由贸易和市场开放，对港股、A股情绪有短期积极信号；川普访华期间的中美领导人会谈结果将直接影响中概股（腾讯、阿里、美团等持仓）；任何中美关税或科技出口管制进展都可能在会后形成高波动窗口，注意调整sell put保证金管理。",
+      "source": "深圳市人民政府",
+      "verified": false,
+      "keywords": [
+        "APEC",
+        "习近平",
+        "川普",
+        "中美贸易",
+        "关税",
+        "深圳",
+        "多边贸易"
+      ],
+      "translated": false,
+      "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/post_13067578.html",
+      "published_date": "2026-11-18",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-18",
+      "is_new": false
+    },
+    {
       "id": "e23b92262f9ef8f1",
       "tier": 1,
       "lang": "zh",
@@ -2427,6 +2526,70 @@
       "is_new": false
     },
     {
+      "id": "6b8a97960bd22797",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "大盘头条",
+      "title": "港股缩量调整，恒生科技指数5连跌，机构关注红利资产防御价值",
+      "summary": "11月18日港股继续缩量调整，科网股承压，半导体板块相对抗跌。恒生科技指数已连续5个交易日下跌。多家券商发布研报，建议在当前高利率背景下关注港股红利资产的防御配置价值。参考数据：11月17日收盘恒指-1.03%（23,508.17点），恒科-1.14%（3,758.17点），成交1,980.52亿港元；腾讯-3%，百度-5%，京东-2%，半导体（华虹宏力等）逆势走强。",
+      "why": "恒科5连跌确认港股科技股短期承压；红利防御建议与sell put策略契合（高股息+稳定波动率）；腾讯今日公布Q3财报，收益公告前后需警惕波动放大；持仓中高贝塔科技仓位需关注止损线。",
+      "source": "21世纪经济报道",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生科技",
+        "恒指",
+        "红利",
+        "科网股",
+        "5连跌"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261118/herald/e0937e39ba091c5f6692a8b36cfe8397.html",
+      "published_date": "2026-11-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-18",
+      "is_new": false
+    },
+    {
+      "id": "8b2c4d154a0998f1",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "JD.com Q3 2026: Revenue +3.5% to RMB 309.6B; Non-GAAP Net Profit +43.7%; JD Retail Gross Margin Tops 20% for First Time",
+      "summary": "JD.com (09618.HK / JD) Q3 2026 (Nov 17): Net revenues RMB 309.6B (+3.5% YoY). Non-GAAP net profit ~RMB 8.3B (+43.7%). GAAP net profit RMB 6.5B (vs. RMB 5.3B in Q3 2025). JD Retail gross margin 20.1% — first time above 20%, 18th consecutive quarter of expansion. JD Logistics +16.1%. Food delivery operating loss narrowed >50%. Stock -2%+ on Nov 17 (sell-the-news reaction).",
+      "why": "京东零售毛利率首破20%是中长期改善信号；外卖亏损收窄>50%暗示与美团（持仓）的价格战已阶段性缓和，对美团Q3预期构成利好佐证；营收仅+3.5%、股价sell-the-news，届时期权隐含波动率（IV）可能提供较好sell put进入窗口；该财报是中国消费电商赛道本轮业绩季的重要bellwether。",
+      "source": "SEC EDGAR (Primary 6-K)",
+      "verified": true,
+      "keywords": [
+        "京东",
+        "JD.com",
+        "JD",
+        "09618",
+        "电商",
+        "外卖",
+        "美团"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001549802/000119312526464688/d179042dex991.htm",
+      "published_date": "2026-11-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-18",
+      "is_new": false
+    },
+    {
       "id": "733600fa1d2861c7",
       "tier": 2,
       "lang": "en",
@@ -2579,6 +2742,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-16",
+      "is_new": false
+    },
+    {
+      "id": "ceb96d4ad9e51cf2",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "个股",
+      "title": "腾讯音乐Q3 2026：总收入89.4亿元同比增长5.6%，音乐会员收入逼近50亿，轻微未达预期",
+      "summary": "腾讯音乐娱乐集团（TME）于11月17日公布2026年Q3未经审核业绩：总收入89.41亿元（+5.6% YoY），音乐相关服务收入76.8亿元（+10.2% YoY），调整后净利润25.3亿元（+2.1%），调整后EBITDA 30.2亿元（+2.7%）。IFRS口径归属股东净利润21.5亿元，同比持平。收入轻微低于市场预期约2%。JENNIE等艺人入驻，视频号协同持续深化。",
+      "why": "腾讯音乐作为腾讯系音乐版图，业绩平稳但略逊预期，与腾讯控股今日Q3财报高度相关可作为侧影；会员收入近50亿和视频号协同是长期亮点；TME未出现大幅超预期，对腾讯Q3整体预期偏中性，实际财报需待下午公告确认。",
+      "source": "PR Newswire",
+      "verified": true,
+      "keywords": [
+        "腾讯音乐",
+        "TME",
+        "腾讯",
+        "视频号",
+        "音乐",
+        "会员"
+      ],
+      "translated": false,
+      "url": "https://www.prnewswire.com/news-releases/tencent-music-entertainment-group-announces-third-quarter-2026-unaudited-financial-results-302941810.html",
+      "published_date": "2026-11-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-18",
       "is_new": false
     },
     {
