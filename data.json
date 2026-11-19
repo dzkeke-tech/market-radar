@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-19 08:15 (北京时间)",
+  "updated_at": "2026-11-19 13:19 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,36 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-19 08:15 (北京时间)",
-    "new_count": 5,
+    "at": "2026-11-19 13:19 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "3a261481b7465902",
+      "id": "a0f194bf28ce4912",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
+        "HK",
         "US"
       ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "美联储10月会议纪要偏鹰：几乎所有官员支持进一步加息，AI算力投资被列为通胀和金融稳定风险",
-      "summary": "11月18日美联储公布10月27-28日FOMC会议纪要，几乎所有与会者认为应进一步提高联邦基金利率目标区间。部分官员认为若通胀数据不利，12月加息幅度可超25基点。纪要首次将AI大规模算力投入列为重要通胀风险和金融稳定风险。当前利率目标区间维持在3.75%-4.00%。",
-      "why": "鹰派纪要推升美元和美债收益率，对港股/美股估值形成压力；12月加息预期升温，对高估值科技股及Sell Put策略行权价设置有直接参考意义；AI被列入系统性风险是新信号，需留意监管政策后续走向。",
-      "source": "CNBC",
+      "time": "08:00",
+      "group": "个股",
+      "title": "Alibaba Reports Fiscal Q2 2027 Results: Cloud Revenue Growth Hits 22-Quarter High on AI Monetization",
+      "summary": "Alibaba's fiscal Q2 2027 (July–September 2026) results showed cloud revenue growth reaching a 22-quarter high, driven by full-stack AI monetization and enterprise AI adoption. The company described AI investments as accelerating returns, with consumption and cloud segments jointly driving solid overall performance.",
+      "why": "阿里巴巴是持仓核心标的，云业务22季度高点增速验证AI货币化投资逻辑；港股9988.HK及美股BABA的中期估值将受益于云增速加速，同时需关注管理层对消费复苏及资本开支计划的具体指引",
+      "source": "Alibaba Group官网",
       "verified": true,
       "keywords": [
-        "美联储",
-        "FOMC",
-        "利率",
-        "加息",
-        "通胀",
+        "阿里巴巴",
+        "9988.HK",
+        "BABA",
+        "Q2业绩",
+        "云计算",
         "AI"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "url": "https://www.alibabagroup.com/en-US/document-2027233133950140416",
       "published_date": "2026-11-18",
       "still_developing": false,
       "cross_ref": "",
@@ -47,126 +48,30 @@
       "is_new": true
     },
     {
-      "id": "fd29d2cd245c32e9",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "08:30",
-      "group": "个股",
-      "title": "腾讯Q3 2026：营收2073亿元同比增8%，AI资本开支814亿创新高，云增35%",
-      "summary": "腾讯11月18日公布Q3业绩：营收2073.36亿元同比增8%；非国际准则经营利润同比下降6%至665亿元。云服务收入同比增35%，AI企业助手WorkBuddy日活超千万。资本开支814亿元较上季度（528亿）大幅跳升，自由现金流为负691亿元。微信月活14.49亿同比增2%。",
-      "why": "腾讯为核心持仓，业绩对股价有直接影响；云业务35%增速亮眼，WorkBuddy提供新AI成长题材；资本开支激增反映AI投入力度，短期压制FCF但中长期利好算力估值；非国际准则利润同比下降6%略有压力，关注市场反应对Sell Put策略隐含波动率的影响。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "云计算",
-        "AI",
-        "WorkBuddy",
-        "业绩"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261118/herald/32cc9e46f5b729da70d4bf8515627f87.html",
-      "published_date": "2026-11-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-19",
-      "is_new": true
-    },
-    {
-      "id": "174f5ff236075d5d",
+      "id": "bac5fee1d3a996ca",
       "tier": 2,
       "lang": "zh",
       "markets": [
-        "HK"
+        "A"
       ],
-      "time": "12:00",
-      "group": "个股",
-      "title": "老铺黄金（06181.HK）午后跌逾4%，年内累计跌超五成",
-      "summary": "老铺黄金11月18日午后下跌逾4%，年内跌幅已超过50%。中金维持「跑赢行业」评级，目标价412.35港元；野村认为第三季销售动力持续疲弱。公司中期营收198亿元同比增60.3%，但股价走势与金价高位回调高度相关。",
-      "why": "老铺黄金为持仓，年内大幅回调令Sell Put策略面临行权压力；金价高位回落是主因，需密切关注金价走势及支撑位；中金目标价412港元远高于当前价格，若基本面无进一步恶化，存在中长期修复空间；短期隐含波动率可能因跌幅放大而提升。",
-      "source": "21财经",
-      "verified": false,
-      "keywords": [
-        "老铺黄金",
-        "6181.HK",
-        "黄金",
-        "珠宝",
-        "港股"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261118/herald/91ecf314b47018b9bf5e0d2628cd830d.html",
-      "published_date": "2026-11-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-19",
-      "is_new": true
-    },
-    {
-      "id": "eab6c7f3334df303",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "09:00",
-      "group": "个股",
-      "title": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
-      "summary": "Singapore's DBS Bank, in partnership with Circle, has launched 24/7 institutional USDC issuance and redemption for eligible clients in Asia via their Project BLOOM partnership. Clients can now convert dollars to USDC and back at any time, removing traditional banking-hours restrictions on stablecoin access.",
-      "why": "Circle（CRCL）核心USDC的机构采用继续扩张，DBS背书为亚洲市场增添信任；对CRCL持仓而言是正面催化剂，有助提升USDC供给规模并增加储备收入；稳定币法案（GENIUS Act）推进背景下，机构合作进一步夯实USDC的合规基础，降低CRCL监管不确定性。",
-      "source": "The Block",
-      "verified": true,
-      "keywords": [
-        "Circle",
-        "USDC",
-        "CRCL",
-        "DBS",
-        "稳定币",
-        "stablecoin",
-        "机构"
-      ],
-      "translated": false,
-      "url": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
-      "published_date": "2026-11-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-19",
-      "is_new": true
-    },
-    {
-      "id": "e90bd10ca0e33008",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:00",
+      "time": "11:00",
       "group": "大盘头条",
-      "title": "Baidu quarterly profit plunges 46% as ad slump overshadows AI growth",
-      "summary": "Baidu's Q3 2026 (September quarter) adjusted net profit fell 46% to RMB 1.4 billion yuan, revenue dropped 1% to RMB 30.8 billion yuan. Online marketing revenue fell 22% to RMB 11.9 billion yuan. AI-powered business revenue rose 37% to RMB 13.2 billion yuan — surpassing advertising for the first time — with AI cloud infrastructure revenue surging 94% to RMB 8.2 billion yuan.",
-      "why": "延续报道：百度Q3业绩于11月16日（周一）发布，AI营收首次超越广告为中国互联网行业历史性里程碑，行业分析师讨论持续进行。对腾讯、阿里云等AI商业化路径验证有参考意义；广告业务持续下滑也映射互联网广告大盘压力，对期权策略而言隐含波动率有升高可能。",
-      "source": "SCMP",
+      "title": "A股三大指数盘中走弱，算力芯片板块下挫，国资国企改革配套文件正式实施",
+      "summary": "11月19日A股低开走低：沪指跌0.44%、深证成指跌0.51%、创业板指跌0.63%；算力芯片板块受AI出口管制消息压制，天普股份等个股跌停。与此同时，国资国企改革配套文件正式生效，19家公司披露新回购或增持计划。",
+      "why": "A股大盘及算力板块走势影响AI基础设施相关标的；国企改革文件落地为相关央企股提供中线支撑，算力板块压力与APEC会谈预期形成博弈",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "百度",
-        "Baidu",
-        "AI",
-        "AI云",
-        "广告",
-        "港股",
-        "互联网"
+        "A股",
+        "沪指",
+        "算力芯片",
+        "国企改革",
+        "回购"
       ],
       "translated": false,
-      "url": "https://www.scmp.com/tech/big-tech/article/3374604/baidu-quarterly-profit-plunges-46-ad-slump-overshadows-ai-growth",
-      "published_date": "2026-11-16",
-      "still_developing": true,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vfaa.html",
+      "published_date": "2026-11-19",
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-19",
@@ -1433,6 +1338,69 @@
       "is_new": false
     },
     {
+      "id": "3a261481b7465902",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "美联储10月会议纪要偏鹰：几乎所有官员支持进一步加息，AI算力投资被列为通胀和金融稳定风险",
+      "summary": "11月18日美联储公布10月27-28日FOMC会议纪要，几乎所有与会者认为应进一步提高联邦基金利率目标区间。部分官员认为若通胀数据不利，12月加息幅度可超25基点。纪要首次将AI大规模算力投入列为重要通胀风险和金融稳定风险。当前利率目标区间维持在3.75%-4.00%。",
+      "why": "鹰派纪要推升美元和美债收益率，对港股/美股估值形成压力；12月加息预期升温，对高估值科技股及Sell Put策略行权价设置有直接参考意义；AI被列入系统性风险是新信号，需留意监管政策后续走向。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "FOMC",
+        "利率",
+        "加息",
+        "通胀",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "published_date": "2026-11-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-19",
+      "is_new": false
+    },
+    {
+      "id": "fd29d2cd245c32e9",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "08:30",
+      "group": "个股",
+      "title": "腾讯Q3 2026：营收2073亿元同比增8%，AI资本开支814亿创新高，云增35%",
+      "summary": "腾讯11月18日公布Q3业绩：营收2073.36亿元同比增8%；非国际准则经营利润同比下降6%至665亿元。云服务收入同比增35%，AI企业助手WorkBuddy日活超千万。资本开支814亿元较上季度（528亿）大幅跳升，自由现金流为负691亿元。微信月活14.49亿同比增2%。",
+      "why": "腾讯为核心持仓，业绩对股价有直接影响；云业务35%增速亮眼，WorkBuddy提供新AI成长题材；资本开支激增反映AI投入力度，短期压制FCF但中长期利好算力估值；非国际准则利润同比下降6%略有压力，关注市场反应对Sell Put策略隐含波动率的影响。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "腾讯",
+        "Tencent",
+        "0700.HK",
+        "云计算",
+        "AI",
+        "WorkBuddy",
+        "业绩"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261118/herald/32cc9e46f5b729da70d4bf8515627f87.html",
+      "published_date": "2026-11-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-19",
+      "is_new": false
+    },
+    {
       "id": "0dac7629678604db",
       "tier": 2,
       "lang": "zh",
@@ -2579,6 +2547,100 @@
       "cross_ref": "https://theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
       "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-11-18",
+      "is_new": false
+    },
+    {
+      "id": "174f5ff236075d5d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:00",
+      "group": "个股",
+      "title": "老铺黄金（06181.HK）午后跌逾4%，年内累计跌超五成",
+      "summary": "老铺黄金11月18日午后下跌逾4%，年内跌幅已超过50%。中金维持「跑赢行业」评级，目标价412.35港元；野村认为第三季销售动力持续疲弱。公司中期营收198亿元同比增60.3%，但股价走势与金价高位回调高度相关。",
+      "why": "老铺黄金为持仓，年内大幅回调令Sell Put策略面临行权压力；金价高位回落是主因，需密切关注金价走势及支撑位；中金目标价412港元远高于当前价格，若基本面无进一步恶化，存在中长期修复空间；短期隐含波动率可能因跌幅放大而提升。",
+      "source": "21财经",
+      "verified": false,
+      "keywords": [
+        "老铺黄金",
+        "6181.HK",
+        "黄金",
+        "珠宝",
+        "港股"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261118/herald/91ecf314b47018b9bf5e0d2628cd830d.html",
+      "published_date": "2026-11-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-19",
+      "is_new": false
+    },
+    {
+      "id": "eab6c7f3334df303",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
+      "summary": "Singapore's DBS Bank, in partnership with Circle, has launched 24/7 institutional USDC issuance and redemption for eligible clients in Asia via their Project BLOOM partnership. Clients can now convert dollars to USDC and back at any time, removing traditional banking-hours restrictions on stablecoin access.",
+      "why": "Circle（CRCL）核心USDC的机构采用继续扩张，DBS背书为亚洲市场增添信任；对CRCL持仓而言是正面催化剂，有助提升USDC供给规模并增加储备收入；稳定币法案（GENIUS Act）推进背景下，机构合作进一步夯实USDC的合规基础，降低CRCL监管不确定性。",
+      "source": "The Block",
+      "verified": true,
+      "keywords": [
+        "Circle",
+        "USDC",
+        "CRCL",
+        "DBS",
+        "稳定币",
+        "stablecoin",
+        "机构"
+      ],
+      "translated": false,
+      "url": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
+      "published_date": "2026-11-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-19",
+      "is_new": false
+    },
+    {
+      "id": "e90bd10ca0e33008",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Baidu quarterly profit plunges 46% as ad slump overshadows AI growth",
+      "summary": "Baidu's Q3 2026 (September quarter) adjusted net profit fell 46% to RMB 1.4 billion yuan, revenue dropped 1% to RMB 30.8 billion yuan. Online marketing revenue fell 22% to RMB 11.9 billion yuan. AI-powered business revenue rose 37% to RMB 13.2 billion yuan — surpassing advertising for the first time — with AI cloud infrastructure revenue surging 94% to RMB 8.2 billion yuan.",
+      "why": "延续报道：百度Q3业绩于11月16日（周一）发布，AI营收首次超越广告为中国互联网行业历史性里程碑，行业分析师讨论持续进行。对腾讯、阿里云等AI商业化路径验证有参考意义；广告业务持续下滑也映射互联网广告大盘压力，对期权策略而言隐含波动率有升高可能。",
+      "source": "SCMP",
+      "verified": true,
+      "keywords": [
+        "百度",
+        "Baidu",
+        "AI",
+        "AI云",
+        "广告",
+        "港股",
+        "互联网"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/tech/big-tech/article/3374604/baidu-quarterly-profit-plunges-46-ad-slump-overshadows-ai-growth",
+      "published_date": "2026-11-16",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-19",
       "is_new": false
     },
     {
