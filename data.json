@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-19 13:19 (北京时间)",
+  "updated_at": "2026-11-19 18:23 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,37 +9,68 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-19 13:19 (北京时间)",
-    "new_count": 2,
+    "at": "2026-11-19 18:23 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "a0f194bf28ce4912",
-      "tier": 1,
+      "id": "b3f08e4e3bfabf30",
+      "tier": 2,
       "lang": "en",
       "markets": [
-        "HK",
         "US"
       ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "Alibaba Reports Fiscal Q2 2027 Results: Cloud Revenue Growth Hits 22-Quarter High on AI Monetization",
-      "summary": "Alibaba's fiscal Q2 2027 (July–September 2026) results showed cloud revenue growth reaching a 22-quarter high, driven by full-stack AI monetization and enterprise AI adoption. The company described AI investments as accelerating returns, with consumption and cloud segments jointly driving solid overall performance.",
-      "why": "阿里巴巴是持仓核心标的，云业务22季度高点增速验证AI货币化投资逻辑；港股9988.HK及美股BABA的中期估值将受益于云增速加速，同时需关注管理层对消费复苏及资本开支计划的具体指引",
-      "source": "Alibaba Group官网",
+      "time": "06:30",
+      "group": "大盘头条",
+      "title": "迪士尼Q4 FY2026超预期：EPS $1.77 vs $1.68，营收$25.9B，流媒体经营利润+43%，股息+33%",
+      "summary": "迪士尼2026财年Q4营收$25.9B（+16% YoY），调整后EPS $1.77 vs 预期$1.68，流媒体业务经营利润同比+43%，计划停止单独披露流媒体盈利细节（视为进入成熟稳盈期），宣布年度股息提升33%至$2.00/股。",
+      "why": "Disney+盈利能力持续改善并进入成熟盈利期，+43%利润增速配合停止单独披露意味着流媒体阶段性叙事收官；股息+33%彰显现金流信心。迪士尼所在的内容+流媒体赛道具有消费护城河特征，是持仓逻辑参考。",
+      "source": "Walt Disney Company IR",
       "verified": true,
       "keywords": [
-        "阿里巴巴",
-        "9988.HK",
-        "BABA",
-        "Q2业绩",
-        "云计算",
-        "AI"
+        "迪士尼",
+        "Disney",
+        "DIS",
+        "Disney+",
+        "流媒体",
+        "streaming"
       ],
       "translated": false,
-      "url": "https://www.alibabagroup.com/en-US/document-2027233133950140416",
+      "url": "https://thewaltdisneycompany.com/news/disney-q4-earnings-2026/",
+      "published_date": "2026-11-17",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-19",
+      "is_new": true
+    },
+    {
+      "id": "e7f95ee9f4df0b3e",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "01:00",
+      "group": "大盘头条",
+      "title": "标普500连跌5日（6月来最长），纳指较高点回调逾10%，金价跌破$3,800创近一年新低",
+      "summary": "美股11月18日标普500下跌0.2%，连续第5个交易日收低，创6月以来最长连跌；纳斯达克综合指数较历史高点回调逾10%，进入技术修正区间；现货黄金跌破$3,800关口，创约一年来新低。",
+      "why": "美股技术修正背景下AI板块情绪承压；金价跌破$3,800直接利空老铺黄金(6181.HK)（黄金饰品需求端与金价高度相关）；纳指10%修正为sell put策略提供更高隐含波动率背景，重点标的（NVDA、腾讯）期权定价机会窗口开启。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "标普500",
+        "纳斯达克",
+        "金价",
+        "技术修正",
+        "老铺黄金",
+        "市场走势"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
       "published_date": "2026-11-18",
       "still_developing": false,
       "cross_ref": "",
@@ -48,30 +79,33 @@
       "is_new": true
     },
     {
-      "id": "bac5fee1d3a996ca",
+      "id": "d4b3f5e435bcfc15",
       "tier": 2,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
-        "A"
+        "HK",
+        "US"
       ],
-      "time": "11:00",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "A股三大指数盘中走弱，算力芯片板块下挫，国资国企改革配套文件正式实施",
-      "summary": "11月19日A股低开走低：沪指跌0.44%、深证成指跌0.51%、创业板指跌0.63%；算力芯片板块受AI出口管制消息压制，天普股份等个股跌停。与此同时，国资国企改革配套文件正式生效，19家公司披露新回购或增持计划。",
-      "why": "A股大盘及算力板块走势影响AI基础设施相关标的；国企改革文件落地为相关央企股提供中线支撑，算力板块压力与APEC会谈预期形成博弈",
-      "source": "新浪财经",
+      "title": "SK海力士Q3 2026创纪录：营收104.6万亿韩元(+32% QoQ)，经营利润率80%，HBM4下季将超越HBM3E",
+      "summary": "SK海力士2026年Q3营收104.6万亿韩元（环比+32%），经营利润83.3万亿韩元，经营利润率达80%历史新高；管理层确认HBM4预计Q4出货量超越HBM3E，2027-2028年超50%HBM产能已被长协覆盖，AI数据中心需求持续强劲。",
+      "why": "SK海力士Q3结果确认HBM高附加值特性（80%利润率），HBM4 Q4 ramp直接验证英伟达Rubin GPU供应链进展；2027-2028长协覆盖>50%表明高端HBM供给仍为卖方市场，对美光（MU）追赶压力加大；港股7709.HK（南方两倍做多SK海力士ETF）逻辑获支撑。已发布3天，详细财报数据仍在市场验证中。",
+      "source": "SEC 6-K（SK Hynix）",
       "verified": true,
       "keywords": [
-        "A股",
-        "沪指",
-        "算力芯片",
-        "国企改革",
-        "回购"
+        "SK海力士",
+        "SK Hynix",
+        "HBM",
+        "HBM4",
+        "DRAM",
+        "7709.HK",
+        "存储芯片"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vfaa.html",
-      "published_date": "2026-11-19",
-      "still_developing": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0002120882/000119312526461909/d166755d6k.htm",
+      "published_date": "2026-11-16",
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-19",
@@ -1338,6 +1372,38 @@
       "is_new": false
     },
     {
+      "id": "a0f194bf28ce4912",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "Alibaba Reports Fiscal Q2 2027 Results: Cloud Revenue Growth Hits 22-Quarter High on AI Monetization",
+      "summary": "Alibaba's fiscal Q2 2027 (July–September 2026) results showed cloud revenue growth reaching a 22-quarter high, driven by full-stack AI monetization and enterprise AI adoption. The company described AI investments as accelerating returns, with consumption and cloud segments jointly driving solid overall performance.",
+      "why": "阿里巴巴是持仓核心标的，云业务22季度高点增速验证AI货币化投资逻辑；港股9988.HK及美股BABA的中期估值将受益于云增速加速，同时需关注管理层对消费复苏及资本开支计划的具体指引",
+      "source": "Alibaba Group官网",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "9988.HK",
+        "BABA",
+        "Q2业绩",
+        "云计算",
+        "AI"
+      ],
+      "translated": false,
+      "url": "https://www.alibabagroup.com/en-US/document-2027233133950140416",
+      "published_date": "2026-11-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-19",
+      "is_new": false
+    },
+    {
       "id": "3a261481b7465902",
       "tier": 1,
       "lang": "zh",
@@ -2547,6 +2613,36 @@
       "cross_ref": "https://theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
       "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-11-18",
+      "is_new": false
+    },
+    {
+      "id": "bac5fee1d3a996ca",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "A股三大指数盘中走弱，算力芯片板块下挫，国资国企改革配套文件正式实施",
+      "summary": "11月19日A股低开走低：沪指跌0.44%、深证成指跌0.51%、创业板指跌0.63%；算力芯片板块受AI出口管制消息压制，天普股份等个股跌停。与此同时，国资国企改革配套文件正式生效，19家公司披露新回购或增持计划。",
+      "why": "A股大盘及算力板块走势影响AI基础设施相关标的；国企改革文件落地为相关央企股提供中线支撑，算力板块压力与APEC会谈预期形成博弈",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "沪指",
+        "算力芯片",
+        "国企改革",
+        "回购"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vfaa.html",
+      "published_date": "2026-11-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-19",
       "is_new": false
     },
     {
