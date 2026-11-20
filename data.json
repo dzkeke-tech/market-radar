@@ -10,11 +10,136 @@
   "positions": [],
   "last_run": {
     "at": "2026-11-20 18:22 (北京时间)",
-    "new_count": 0,
+    "new_count": 4,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "dbea10a75a84833c",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "Fed Minutes Signal December Rate Hike Likely; AI Infrastructure Named as Inflation Risk",
+      "summary": "美联储公布10月27-28日议息会议纪要，几乎所有与会者认为12月进一步加息「可能是适当的」。会议以10比2投票维持利率于3.75%-4.00%不变，两位反对票支持即刻加息25bp。多位官员将AI基础设施建设明确列为通胀上行风险的重要来源；PCE年率3.6%，核心PCE 3.1%。12月8-9日下次会议将公布决议。",
+      "why": "加息预期持续压制科技股估值与港股情绪；AI被列为通胀因素对持仓英伟达、谷歌等AI标的的估值逻辑构成制约；sell put组合需评估加息后整体波动率上行与正股承压的双重风险。",
+      "source": "Federal Reserve",
+      "verified": true,
+      "keywords": [
+        "宏观",
+        "macro",
+        "美联储",
+        "Fed",
+        "加息",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "published_date": "2026-11-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
+      "is_new": true
+    },
+    {
+      "id": "ce33b58eda068cf6",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "港股午评：恒指跌逾1.7%，科指跌逾3%，科网股低迷芯片股下挫，网易跌超17%",
+      "summary": "11月20日，港股午盘恒生指数跌逾1.7%，恒生科技指数重挫逾3%，科网股及芯片股领跌；网易发布Q3业绩后股价大幅下挫逾17%，快手亦受拖累。A股同日创业板指跌逾3.5%，全市场超5000只个股下跌；银行与保险板块逆势走强，尾盘上证50收涨。腾讯Q3业绩不及预期（已于11月18日公布）以及网易Q3游戏收入罕见下滑是本轮港股科技板块重挫的核心触发因素。",
+      "why": "持仓港股科技与消费板块全线受压，直接影响组合市值；波动率快速上行对sell put持仓不利；本轮杀跌具有业绩驱动特征，需区分系统性风险与个股风险。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "HK",
+        "A股",
+        "恒生科技",
+        "科技股"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-20/doc-inizkctk3995691.shtml",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
+      "is_new": true
+    },
+    {
+      "id": "179687aed502fe87",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "网易港股暴跌超19%，游戏业务收入罕见下滑，丁磊承认短剧影响游戏",
+      "summary": "网易发布2026年Q3业绩：净收入278.5亿元（约27.85亿美元），同比下降1.8%，远低于预期的303.8亿元。游戏及相关增值服务收入229亿元，同比下降1.7%，为近两年首次季度收入同比下滑。调整后每ADS净收益14.21元，低于预期16.36元。港股开盘后股价大幅下挫，盘中跌幅一度超19%，触及近19个月新低。CEO丁磊在电话会上承认短剧发展迅猛，短期内对游戏用户注意力产生明显分流效应。",
+      "why": "网易并非直接持仓，但其暴跌折射出短剧内容对游戏行业注意力经济的结构性冲击，对持仓腾讯游戏（王者荣耀/和平精英）业务构成估值参考压力；港股科技情绪传导明显。",
+      "source": "澎湃新闻",
+      "verified": false,
+      "keywords": [
+        "网易",
+        "游戏",
+        "港股",
+        "短剧",
+        "HK"
+      ],
+      "translated": false,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34518348",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
+      "is_new": true
+    },
+    {
+      "id": "f0a4f67f17bf4821",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Gold set to snap blistering run of three-year gains as Fed rate increase looms",
+      "summary": "现货黄金跌至逾一年新低，从今年1月历史高位大幅回落。美联储10月会议纪要（11月18日发布）重申鹰派立场后，金价单日跌逾2%，市场定价12月加息压力持续升温，强美元对黄金形成双重压制。高盛已下调2026年底黄金目标价。",
+      "why": "持仓老铺黄金（6181.HK）与国际金价高度正相关；金价下行周期直接压制其估值与股价，老铺黄金今年已从高位大幅下行；sell put策略需关注若金价进一步破位的下行风险与行权价安全边际。",
+      "source": "SCMP",
+      "verified": false,
+      "keywords": [
+        "黄金",
+        "gold",
+        "美联储",
+        "老铺黄金",
+        "通胀",
+        "商品"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/commodities/article/3374547/gold-set-snap-blistering-run-three-year-gains-fed-rate-increase-looms",
+      "published_date": "2026-11-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
+      "is_new": true
+    },
     {
       "id": "e766f86bbf003c82",
       "tier": 1,
