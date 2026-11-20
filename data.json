@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-20 13:22 (北京时间)",
+  "updated_at": "2026-11-20 18:22 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,227 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-20 13:22 (北京时间)",
-    "new_count": 7,
+    "at": "2026-11-20 18:22 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "c4c625b604c2833c",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "10:30",
-      "group": "大盘头条",
-      "title": "A股三大股指集体大跌，沪指盘中探3500点，成交额创年内新低",
-      "summary": "2026年11月20日A股早盘，沪指跌1.57%至约3527点，盘中最低探至3500.88点；深成指跌2.05%，创业板指跌2.08%，科创50跌2.71%。前一交易日（11月19日）全市场成交额仅1.31万亿元，创年内新低。光通信、GPU、黄金板块明显调整，中际旭创股价创近年新低（约5个月下跌约70%）。宁德时代11月19日单日回购A股85.05万股。",
-      "why": "A股情绪持续走弱，科技与AI板块领跌；成交量萎缩至年内低位反映市场信心不足，对港股及中国消费/科技持仓有间接压制；卖沽策略需关注波动率变化及行权价安全边际。",
-      "source": "澎湃新闻",
-      "verified": true,
-      "keywords": [
-        "A股",
-        "创业板",
-        "科创50",
-        "宁德时代",
-        "中际旭创"
-      ],
-      "translated": false,
-      "url": "https://www.thepaper.cn/newsDetail_forward_34518213",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": true
-    },
-    {
-      "id": "4facdff789887b6b",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "大盘头条",
-      "title": "恒生指数早盘大跌近400点至22458点，科技指数跌近4%创26个月低",
-      "summary": "2026年11月20日（周五），恒生指数开盘下跌约359点至22482点，午盘维持跌约1.7%至约22458点，恒生科技指数跌幅约3.9%，网易盘中跌逾13%。此前周四恒指已收跌约2%至22841点，刷新四个月低位，恒生科技指数创26个月低位。腾讯、阿里巴巴业绩表现分化，美中技术出口管制升级及联储鹰派纪要共同压制市场情绪。",
-      "why": "恒指连续创四个月新低，直接压制以港股为主的持仓；科技股领跌引发高隐含波动率，对卖沽策略的保证金需求及行权价安全性均需重新评估。",
-      "source": "智通财经",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "恒生科技",
-        "香港股市"
-      ],
-      "translated": false,
-      "url": "https://hk.investing.com/news/stock-market-news/article-1768944",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": true
-    },
-    {
-      "id": "e9219a4eab6efb0a",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "Fed Minutes Signal More Rate Hikes Ahead; Two Officials Open to Larger December Move",
-      "summary": "Minutes from the October 27-28 FOMC meeting, released November 18, show a 10-2 vote to hold the federal funds rate at 3.75%-4.00%. Almost all policymakers see further rate increases as likely appropriate. Two officials favored an immediate 25bp hike at the October meeting, and 'a couple of participants' suggested a move larger than 25bp could warrant consideration if inflation disappoints. PCE inflation rose to 3.6% year-over-year through September. Markets now price no rate cuts in 2027.",
-      "why": "鹰派纪要推高美元和真实利率，对黄金及老铺黄金直接构成压力；高利率环境利于期权策略中的高权利金水平，但对科技股估值有压制；下次会议若加速加息，波动率可能进一步走高。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "FOMC",
-        "利率",
-        "加息",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-      "published_date": "2026-11-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": true
-    },
-    {
-      "id": "745774da58fe1f0e",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "13:00",
-      "group": "大盘头条",
-      "title": "Gold Hits 14-Month Low Near $3,692 as Hawkish Fed Minutes and Strong Dollar Pressure Metals",
-      "summary": "Spot gold fell below $3,700 on Nov 19-20, trading near $3,692, its lowest level since approximately September 2025. The price is roughly 32% below the January 2026 record of approximately $5,594. Analysts attribute the decline to rising Treasury yields, a stronger US dollar, and market pricing for further Fed rate hikes. Goldman Sachs cut its year-end 2026 gold price target to $4,150 from $4,650. Silver fell harder.",
-      "why": "金价大幅回调直接影响老铺黄金（6181.HK）的营收前景和估值；与其业务正相关。对此持仓的卖沽/covered call策略需重新审视行权价设置，金价短期支撑位约3520美元。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "黄金",
-        "金价",
-        "老铺黄金",
-        "商品",
-        "美元",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
-      "published_date": "2026-11-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": true
-    },
-    {
-      "id": "575c6f28ddab4c74",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "阿里巴巴Q2调整后净利润同比大增92%，AI云收入增53%，股价逆市涨超4%",
-      "summary": "阿里巴巴2026年11月20日公布2026财年第二季度业绩：经调整纯利199亿元人民币，同比增长92%；AI云收入同比增长53%；总营收2715亿元，同比增长10%。摩根士丹利维持增持评级，认为外部云及经调整EBITA均超预期；花旗下调目标价，指Non-GAAP纯利低于市场预期的282亿元。股价午盘逆市上涨超4%，领涨蓝筹，表现明显强于恒生指数（恒指同期跌约1.7%）。",
-      "why": "AI云业务高速增长是阿里最强的估值重估逻辑；净利润暴增92%反映降本增效取得成效。对持有BABA/9988卖沽仓位，逆市上涨提振期权保护价值；需关注Non-GAAP利润是否持续低于预期。",
-      "source": "智通财经",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "9988.HK",
-        "BABA",
-        "阿里云",
-        "AI",
-        "业绩",
-        "通义千问"
-      ],
-      "translated": false,
-      "url": "https://hk.investing.com/news/stock-market-news/article-1768867",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": true
-    },
-    {
-      "id": "15e149867d8d6805",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "拼多多Q3非GAAP盈利超预期，营销费大降17%，股价大涨逾11%",
-      "summary": "拼多多2026年11月19日公布第三季度业绩：Non-GAAP摊薄每ADS盈利21.04元人民币，超出市场预期的18.93元；销售与营销支出同比下降约17%，是利润超预期的主因。营收与去年同期基本持平（低于预期），Temu因美国取消低价包裹免税待遇及欧盟监管压力增大而承压。股价财报后大涨，收盘约86美元，市值约1224亿美元。杰富瑞将目标价由118美元上调至120美元，维持买入。",
-      "why": "利润表现超预期对卖沽策略有利（股价上涨增加期权的保护垫）；但Temu出海面临持续监管压力，营收增长失速是中长期隐患。期权策略可考虑在此高点收紧行权价。",
-      "source": "智通财经",
-      "verified": false,
-      "keywords": [
-        "拼多多",
-        "PDD",
-        "Temu",
-        "业绩",
-        "跨境电商"
-      ],
-      "translated": false,
-      "url": "https://cn.investing.com/news/stock-market-news/article-3677670",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": true
-    },
-    {
-      "id": "05f6b2d6de65c18a",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "小米汽车首次出海：SU7、YU7、澎程SkyNomad在阿联酋开启预售，定价较国内贵40%-81%",
-      "summary": "小米汽车2026年11月19-20日通过阿联酋授权经销商Gargash Prime正式开启当地预售，包括SU7、YU7及澎程SkyNomad增程SUV共13个配置。这是小米汽车首次通过官方渠道进入海外市场。阿联酋定价较国内高40%-81%：SU7起售价169,900迪拉姆，YU7为184,900迪拉姆，SkyNomad为209,900迪拉姆。首批入门版本计划2026年12月交付，其余版本预计2027年2月。雷军预告小米汽车全系将亮相2026广州车展（11月27日至12月6日）。",
-      "why": "里程碑式的出海事件，标志着小米汽车进入溢价定价的国际市场，对品牌升级和长期估值均是正信号；海外首次落地有助于验证国际化路径。对1810.HK持仓构成积极催化，可考虑在广州车展前后调整covered call行权价。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "1810.HK",
-        "小米汽车",
-        "SU7",
-        "YU7",
-        "出海",
-        "阿联酋",
-        "雷军"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizhvxw7661997.shtml",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": true
-    },
     {
       "id": "e766f86bbf003c82",
       "tier": 1,
@@ -1362,6 +1147,95 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-19",
+      "is_new": false
+    },
+    {
+      "id": "c4c625b604c2833c",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:30",
+      "group": "大盘头条",
+      "title": "A股三大股指集体大跌，沪指盘中探3500点，成交额创年内新低",
+      "summary": "2026年11月20日A股早盘，沪指跌1.57%至约3527点，盘中最低探至3500.88点；深成指跌2.05%，创业板指跌2.08%，科创50跌2.71%。前一交易日（11月19日）全市场成交额仅1.31万亿元，创年内新低。光通信、GPU、黄金板块明显调整，中际旭创股价创近年新低（约5个月下跌约70%）。宁德时代11月19日单日回购A股85.05万股。",
+      "why": "A股情绪持续走弱，科技与AI板块领跌；成交量萎缩至年内低位反映市场信心不足，对港股及中国消费/科技持仓有间接压制；卖沽策略需关注波动率变化及行权价安全边际。",
+      "source": "澎湃新闻",
+      "verified": true,
+      "keywords": [
+        "A股",
+        "创业板",
+        "科创50",
+        "宁德时代",
+        "中际旭创"
+      ],
+      "translated": false,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34518213",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
+      "is_new": false
+    },
+    {
+      "id": "4facdff789887b6b",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "12:30",
+      "group": "大盘头条",
+      "title": "恒生指数早盘大跌近400点至22458点，科技指数跌近4%创26个月低",
+      "summary": "2026年11月20日（周五），恒生指数开盘下跌约359点至22482点，午盘维持跌约1.7%至约22458点，恒生科技指数跌幅约3.9%，网易盘中跌逾13%。此前周四恒指已收跌约2%至22841点，刷新四个月低位，恒生科技指数创26个月低位。腾讯、阿里巴巴业绩表现分化，美中技术出口管制升级及联储鹰派纪要共同压制市场情绪。",
+      "why": "恒指连续创四个月新低，直接压制以港股为主的持仓；科技股领跌引发高隐含波动率，对卖沽策略的保证金需求及行权价安全性均需重新评估。",
+      "source": "智通财经",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "恒生科技",
+        "香港股市"
+      ],
+      "translated": false,
+      "url": "https://hk.investing.com/news/stock-market-news/article-1768944",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
+      "is_new": false
+    },
+    {
+      "id": "e9219a4eab6efb0a",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "Fed Minutes Signal More Rate Hikes Ahead; Two Officials Open to Larger December Move",
+      "summary": "Minutes from the October 27-28 FOMC meeting, released November 18, show a 10-2 vote to hold the federal funds rate at 3.75%-4.00%. Almost all policymakers see further rate increases as likely appropriate. Two officials favored an immediate 25bp hike at the October meeting, and 'a couple of participants' suggested a move larger than 25bp could warrant consideration if inflation disappoints. PCE inflation rose to 3.6% year-over-year through September. Markets now price no rate cuts in 2027.",
+      "why": "鹰派纪要推高美元和真实利率，对黄金及老铺黄金直接构成压力；高利率环境利于期权策略中的高权利金水平，但对科技股估值有压制；下次会议若加速加息，波动率可能进一步走高。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "FOMC",
+        "利率",
+        "加息",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "published_date": "2026-11-18",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
       "is_new": false
     },
     {
@@ -2612,6 +2486,132 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-19",
+      "is_new": false
+    },
+    {
+      "id": "745774da58fe1f0e",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "13:00",
+      "group": "大盘头条",
+      "title": "Gold Hits 14-Month Low Near $3,692 as Hawkish Fed Minutes and Strong Dollar Pressure Metals",
+      "summary": "Spot gold fell below $3,700 on Nov 19-20, trading near $3,692, its lowest level since approximately September 2025. The price is roughly 32% below the January 2026 record of approximately $5,594. Analysts attribute the decline to rising Treasury yields, a stronger US dollar, and market pricing for further Fed rate hikes. Goldman Sachs cut its year-end 2026 gold price target to $4,150 from $4,650. Silver fell harder.",
+      "why": "金价大幅回调直接影响老铺黄金（6181.HK）的营收前景和估值；与其业务正相关。对此持仓的卖沽/covered call策略需重新审视行权价设置，金价短期支撑位约3520美元。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "黄金",
+        "金价",
+        "老铺黄金",
+        "商品",
+        "美元",
+        "通胀"
+      ],
+      "translated": false,
+      "url": "https://cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
+      "published_date": "2026-11-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
+      "is_new": false
+    },
+    {
+      "id": "575c6f28ddab4c74",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "阿里巴巴Q2调整后净利润同比大增92%，AI云收入增53%，股价逆市涨超4%",
+      "summary": "阿里巴巴2026年11月20日公布2026财年第二季度业绩：经调整纯利199亿元人民币，同比增长92%；AI云收入同比增长53%；总营收2715亿元，同比增长10%。摩根士丹利维持增持评级，认为外部云及经调整EBITA均超预期；花旗下调目标价，指Non-GAAP纯利低于市场预期的282亿元。股价午盘逆市上涨超4%，领涨蓝筹，表现明显强于恒生指数（恒指同期跌约1.7%）。",
+      "why": "AI云业务高速增长是阿里最强的估值重估逻辑；净利润暴增92%反映降本增效取得成效。对持有BABA/9988卖沽仓位，逆市上涨提振期权保护价值；需关注Non-GAAP利润是否持续低于预期。",
+      "source": "智通财经",
+      "verified": true,
+      "keywords": [
+        "阿里巴巴",
+        "9988.HK",
+        "BABA",
+        "阿里云",
+        "AI",
+        "业绩",
+        "通义千问"
+      ],
+      "translated": false,
+      "url": "https://hk.investing.com/news/stock-market-news/article-1768867",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
+      "is_new": false
+    },
+    {
+      "id": "15e149867d8d6805",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "10:00",
+      "group": "个股",
+      "title": "拼多多Q3非GAAP盈利超预期，营销费大降17%，股价大涨逾11%",
+      "summary": "拼多多2026年11月19日公布第三季度业绩：Non-GAAP摊薄每ADS盈利21.04元人民币，超出市场预期的18.93元；销售与营销支出同比下降约17%，是利润超预期的主因。营收与去年同期基本持平（低于预期），Temu因美国取消低价包裹免税待遇及欧盟监管压力增大而承压。股价财报后大涨，收盘约86美元，市值约1224亿美元。杰富瑞将目标价由118美元上调至120美元，维持买入。",
+      "why": "利润表现超预期对卖沽策略有利（股价上涨增加期权的保护垫）；但Temu出海面临持续监管压力，营收增长失速是中长期隐患。期权策略可考虑在此高点收紧行权价。",
+      "source": "智通财经",
+      "verified": false,
+      "keywords": [
+        "拼多多",
+        "PDD",
+        "Temu",
+        "业绩",
+        "跨境电商"
+      ],
+      "translated": false,
+      "url": "https://cn.investing.com/news/stock-market-news/article-3677670",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
+      "is_new": false
+    },
+    {
+      "id": "05f6b2d6de65c18a",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "小米汽车首次出海：SU7、YU7、澎程SkyNomad在阿联酋开启预售，定价较国内贵40%-81%",
+      "summary": "小米汽车2026年11月19-20日通过阿联酋授权经销商Gargash Prime正式开启当地预售，包括SU7、YU7及澎程SkyNomad增程SUV共13个配置。这是小米汽车首次通过官方渠道进入海外市场。阿联酋定价较国内高40%-81%：SU7起售价169,900迪拉姆，YU7为184,900迪拉姆，SkyNomad为209,900迪拉姆。首批入门版本计划2026年12月交付，其余版本预计2027年2月。雷军预告小米汽车全系将亮相2026广州车展（11月27日至12月6日）。",
+      "why": "里程碑式的出海事件，标志着小米汽车进入溢价定价的国际市场，对品牌升级和长期估值均是正信号；海外首次落地有助于验证国际化路径。对1810.HK持仓构成积极催化，可考虑在广州车展前后调整covered call行权价。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "小米",
+        "1810.HK",
+        "小米汽车",
+        "SU7",
+        "YU7",
+        "出海",
+        "阿联酋",
+        "雷军"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizhvxw7661997.shtml",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-20",
       "is_new": false
     },
     {
