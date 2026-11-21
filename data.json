@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-21 13:11 (北京时间)",
+  "updated_at": "2026-11-21 18:27 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,96 +9,40 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-21 13:11 (北京时间)",
-    "new_count": 3,
+    "at": "2026-11-21 18:27 (北京时间)",
+    "new_count": 1,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "5059a22575c5385e",
-      "tier": 1,
+      "id": "de29cb8943caf66f",
+      "tier": 2,
       "lang": "zh",
       "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "11月21日美股收盘：纳指暴跌5.28%，标普/道指双双进入回调区间，英伟达单日跌约14%",
-      "summary": "美东时间11月20日（周五），美股大幅收跌：纳指跌5.28%，标普500跌3.7%，道指跌1.93%，标普与道指从近期高位双双进入技术性回调区间（跌幅超10%）；英伟达单日下跌约14%，费城半导体指数跌10.73%，AI板块本周遭遇全面重创。",
-      "why": "美股深度调整是本轮全球科技股下行的核心驱动，高AI敞口持仓（英伟达、科技ETF）面临浮亏扩大压力；隐含波动率骤升将压缩sell put保证金空间，需评估期权仓位风险。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "纳指",
-        "标普500",
-        "美股",
-        "英伟达",
-        "回调"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-inizmruv0035217.shtml",
-      "published_date": "2026-11-21",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-21",
-      "is_new": true
-    },
-    {
-      "id": "63849d30aa44ad89",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "个股",
-      "title": "Nvidia crashes 12%+ as Reuters reports SEC accounting probe; stock erases 2026 gains",
-      "summary": "Reuters reported on November 20 that the SEC is probing Nvidia's accounting practices, the company's worst single-day decline since the January 2025 DeepSeek selloff. Nvidia shares have lost .7 trillion in market value from their peak, with the company's former CEO Jensen Huang having resigned in mid-November following an independent board investigation.",
-      "why": "英伟达SEC会计调查叠加CEO离职余震，短期不确定性极大；隐含波动率处于高位，观望其期权定价是否出现过度恐慌；若AI板块持续出血，港股腾讯/阿里科技类持仓同样有共振风险。",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "Nvidia",
-        "英伟达",
-        "SEC",
-        "NVDA",
-        "AI芯片"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-21",
-      "is_new": true
-    },
-    {
-      "id": "6d5c3d485c3bdfcf",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
+        "US",
         "A"
       ],
-      "time": "15:30",
+      "time": "14:00",
       "group": "大盘头条",
-      "title": "A股全线调整：上证指数跌1.22%收3533点，创业板指本周累计下跌8.82%",
-      "summary": "11月21日A股全线收跌，上证指数跌1.22%收3533.79点，创业板指跌3.54%，深证成指跌3.09%；本周创业板指累计下跌8.82%，科创50跌3.80%，受外围美股大跌拖累，科技与成长板块明显承压。",
-      "why": "A股科技与成长股本周大幅调整，外围压力仍在消化；若A股持仓有创业板/科创板标的，注意组合波动敞口；机构普遍认为A股估值处历史低位，但短期可能继续震荡。",
-      "source": "新浪财经",
-      "verified": false,
+      "title": "欧盟委员会初步认定Temu违反《数字服务法》，涉及违禁商品管控不力",
+      "summary": "11月17日，欧盟委员会公布针对Temu平台的初步调查结论，认定其在防范违法及不安全商品方面违反DSA第35条。若最终确认违规，罚款上限可达拼多多集团全球年营业额的6%。这是欧盟继2026年5月对Temu开出约2亿欧元罚单后的第二次重大执法行动。Temu表示将认真审视并配合调查。",
+      "why": "欧盟执法升级对拼多多海外扩张构成重大压力。若最终定性，潜在罚款上限达集团全球年营业额的6%，对PDD估值有实质性冲击。建议对PDD相关持仓的期权策略保持谨慎。",
+      "source": "欧盟委员会",
+      "verified": true,
       "keywords": [
-        "上证指数",
-        "A股",
-        "创业板",
-        "科创50"
+        "Temu",
+        "拼多多",
+        "PDD",
+        "DSA",
+        "欧盟",
+        "数字服务法",
+        "监管罚款"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vmpa.html",
-      "published_date": "2026-11-21",
-      "still_developing": false,
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-relation-illegal-products-its",
+      "published_date": "2026-11-17",
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-21",
@@ -1420,6 +1364,95 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-20",
+      "is_new": false
+    },
+    {
+      "id": "5059a22575c5385e",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "11月21日美股收盘：纳指暴跌5.28%，标普/道指双双进入回调区间，英伟达单日跌约14%",
+      "summary": "美东时间11月20日（周五），美股大幅收跌：纳指跌5.28%，标普500跌3.7%，道指跌1.93%，标普与道指从近期高位双双进入技术性回调区间（跌幅超10%）；英伟达单日下跌约14%，费城半导体指数跌10.73%，AI板块本周遭遇全面重创。",
+      "why": "美股深度调整是本轮全球科技股下行的核心驱动，高AI敞口持仓（英伟达、科技ETF）面临浮亏扩大压力；隐含波动率骤升将压缩sell put保证金空间，需评估期权仓位风险。",
+      "source": "新浪财经",
+      "verified": true,
+      "keywords": [
+        "纳指",
+        "标普500",
+        "美股",
+        "英伟达",
+        "回调"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-inizmruv0035217.shtml",
+      "published_date": "2026-11-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
+      "id": "63849d30aa44ad89",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "个股",
+      "title": "Nvidia crashes 12%+ as Reuters reports SEC accounting probe; stock erases 2026 gains",
+      "summary": "Reuters reported on November 20 that the SEC is probing Nvidia's accounting practices, the company's worst single-day decline since the January 2025 DeepSeek selloff. Nvidia shares have lost .7 trillion in market value from their peak, with the company's former CEO Jensen Huang having resigned in mid-November following an independent board investigation.",
+      "why": "英伟达SEC会计调查叠加CEO离职余震，短期不确定性极大；隐含波动率处于高位，观望其期权定价是否出现过度恐慌；若AI板块持续出血，港股腾讯/阿里科技类持仓同样有共振风险。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "Nvidia",
+        "英伟达",
+        "SEC",
+        "NVDA",
+        "AI芯片"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
+      "id": "6d5c3d485c3bdfcf",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股全线调整：上证指数跌1.22%收3533点，创业板指本周累计下跌8.82%",
+      "summary": "11月21日A股全线收跌，上证指数跌1.22%收3533.79点，创业板指跌3.54%，深证成指跌3.09%；本周创业板指累计下跌8.82%，科创50跌3.80%，受外围美股大跌拖累，科技与成长板块明显承压。",
+      "why": "A股科技与成长股本周大幅调整，外围压力仍在消化；若A股持仓有创业板/科创板标的，注意组合波动敞口；机构普遍认为A股估值处历史低位，但短期可能继续震荡。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "上证指数",
+        "A股",
+        "创业板",
+        "科创50"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vmpa.html",
+      "published_date": "2026-11-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-21",
       "is_new": false
     },
     {
