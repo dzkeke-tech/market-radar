@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-21 08:24 (北京时间)",
+  "updated_at": "2026-11-21 13:11 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,14 +9,14 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-21 08:24 (北京时间)",
-    "new_count": 6,
+    "at": "2026-11-21 13:11 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "183a0be30ee4dd74",
+      "id": "5059a22575c5385e",
       "tier": 1,
       "lang": "zh",
       "markets": [
@@ -24,20 +24,20 @@
       ],
       "time": "08:00",
       "group": "大盘头条",
-      "title": "美股大幅下挫：标普500进入技术性回调，纳斯达克抹去年度全部涨幅",
-      "summary": "11月20日美股重挫，标普500跌约3.7%正式进入技术性回调区间，为连续第7日下跌；纳斯达克综合指数大跌5.28%，完全抹去2026年年度涨幅。道指跌约1.9%。AI科技股遭受新一轮大规模抛售，英伟达单日暴跌14%，AMD跌约12%，ARM跌约11%。",
-      "why": "AI赛道整体回调，持仓的英伟达、SK海力士、美光等相关仓位显著承压；纳指波动率骤升，当前持有的卖出期权隐含波动率大幅扩张，需紧急检视仓位风险；市场进入技术性回调意味着进一步下行空间仍在。",
+      "title": "11月21日美股收盘：纳指暴跌5.28%，标普/道指双双进入回调区间，英伟达单日跌约14%",
+      "summary": "美东时间11月20日（周五），美股大幅收跌：纳指跌5.28%，标普500跌3.7%，道指跌1.93%，标普与道指从近期高位双双进入技术性回调区间（跌幅超10%）；英伟达单日下跌约14%，费城半导体指数跌10.73%，AI板块本周遭遇全面重创。",
+      "why": "美股深度调整是本轮全球科技股下行的核心驱动，高AI敞口持仓（英伟达、科技ETF）面临浮亏扩大压力；隐含波动率骤升将压缩sell put保证金空间，需评估期权仓位风险。",
       "source": "新浪财经",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "美股",
+        "纳指",
         "标普500",
-        "纳斯达克",
-        "AI抛售",
-        "市场回调"
+        "美股",
+        "英伟达",
+        "回调"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vnum.html",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-inizmruv0035217.shtml",
       "published_date": "2026-11-21",
       "still_developing": false,
       "cross_ref": "",
@@ -46,125 +46,29 @@
       "is_new": true
     },
     {
-      "id": "791cfc0aa75edaf6",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股收评：恒指跌1.89%至22411点，恒科指数跌3.78%，科网股普跌已连跌8日",
-      "summary": "2026年11月20日（周五），恒生指数收跌1.89%，报22410.8点；恒生科技指数跌3.78%，报3511.14点，已连续第8个交易日下跌。大市成交2703亿港元。网易-S领跌，半导体及硬件板块重挫，阿里巴巴逆势收涨。南向资金全天净买入118.12亿港元抄底。",
-      "why": "港股科网指数连续8日下跌，持仓中腾讯、美团等港股遭受系统性压力；恒生指数已累计从高点明显回落，南向资金大幅抄底说明内地资金认为当前估值具吸引力，对逆势卖出期权策略有参考意义。",
-      "source": "21经济网",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "恒生科技",
-        "南向资金",
-        "港股收评"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261120/herald/049195259479fe62e123fba290eab5f7.html",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-21",
-      "is_new": true
-    },
-    {
-      "id": "8ecd020a7bdef2d7",
+      "id": "63849d30aa44ad89",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "Anthropic (ANT) IPO: Stock near $83 IPO price on Day 2 as AI selloff deepens",
-      "summary": "Anthropic (ANT) listed on Nasdaq on November 19 at $83/share, surging to close at $97.17 (+17%) on Day 1 from an opening of $111.50. On Day 2 (November 20), shares fell approximately 8.5% to around $88.91, briefly trading within cents of the $83 IPO price as the broader AI trade collapsed. The debut, despite being one of the largest AI IPOs in history, failed to revive the AI bull trade.",
-      "why": "Anthropic IPO首日涨17%但次日急速回调，显示市场对AI高估值已明显警惕；ANT走弱加剧了整个AI科技板块的抛售压力，直接影响持仓中所有AI相关标的的隐含波动率定价。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Anthropic",
-        "ANT",
-        "IPO",
-        "AI selloff",
-        "Nasdaq"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-      "published_date": "2026-11-19",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-21",
-      "is_new": true
-    },
-    {
-      "id": "3116f89aeeaf19c8",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "12:00",
-      "group": "大盘头条",
-      "title": "Trump says he discussed Jensen Huang with Xi at APEC; Bessent confirms H200 chip export policy unchanged",
-      "summary": "Following the Trump-Xi Shenzhen APEC summit, Trump told reporters he raised former Nvidia CEO Jensen Huang with Xi Jinping. Treasury Secretary Bessent told CNBC that the H200 chip remains the threshold for permissible sales to China and that US export policy is unchanged, adding chips above H100s should not reach China. The meeting occurred against the backdrop of the ongoing Megaspeed/spy scandal.",
-      "why": "特朗普在APEC将英伟达丑闻直接提上中美最高级别议程；H200政策维持不变短期缓解了英伟达合规风险；但这也意味着持仓中国科技公司面临的出口管制监管压力不会短期消退。Bessent直接表态为本周政策最清晰信号。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "Trump",
-        "Xi",
-        "APEC",
-        "Jensen Huang",
-        "H200",
-        "chip policy",
-        "Nvidia",
-        "Bessent"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-21",
-      "is_new": true
-    },
-    {
-      "id": "74bf6815de7fd091",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "09:00",
+      "time": "08:00",
       "group": "个股",
-      "title": "阿里巴巴FY27Q2业绩：云收入及利润弹性持续释放，调整后EBITA大增260%",
-      "summary": "阿里巴巴2027财年第二季度（2026年7-9月）总营收同比增约10%，AI相关产品收入连续第13个季度实现三位数增长；调整后EBITA同比增长260%至326亿元人民币；GAAP股东应占净利润同比微降（含投资公允价值变动）。云业务收入增速保持强劲。同日股东在纽约提起集体诉讼，指控公司隐瞒与Megaspeed关联所暴露的出口管制风险。",
-      "why": "云业务高速增长是阿里巴巴核心价值重估的关键驱动力；Megaspeed诉讼若成立将带来监管风险和声誉损失；当天港股阿里巴巴逆势收涨，显示市场对业绩改善给予认可。",
-      "source": "格隆汇",
+      "title": "Nvidia crashes 12%+ as Reuters reports SEC accounting probe; stock erases 2026 gains",
+      "summary": "Reuters reported on November 20 that the SEC is probing Nvidia's accounting practices, the company's worst single-day decline since the January 2025 DeepSeek selloff. Nvidia shares have lost .7 trillion in market value from their peak, with the company's former CEO Jensen Huang having resigned in mid-November following an independent board investigation.",
+      "why": "英伟达SEC会计调查叠加CEO离职余震，短期不确定性极大；隐含波动率处于高位，观望其期权定价是否出现过度恐慌；若AI板块持续出血，港股腾讯/阿里科技类持仓同样有共振风险。",
+      "source": "CNBC",
       "verified": false,
       "keywords": [
-        "阿里巴巴",
-        "BABA",
-        "9988",
-        "FY27Q2",
-        "云业务",
-        "Megaspeed",
-        "集体诉讼"
+        "Nvidia",
+        "英伟达",
+        "SEC",
+        "NVDA",
+        "AI芯片"
       ],
       "translated": false,
-      "url": "https://m.gelonghui.com/news/5324077",
-      "published_date": "2026-11-19",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "published_date": "2026-11-20",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
@@ -172,28 +76,27 @@
       "is_new": true
     },
     {
-      "id": "b7dd407254eb4a6b",
-      "tier": 2,
+      "id": "6d5c3d485c3bdfcf",
+      "tier": 1,
       "lang": "zh",
       "markets": [
-        "US"
+        "A"
       ],
-      "time": "09:00",
+      "time": "15:30",
       "group": "大盘头条",
-      "title": "黄金单周跌幅创年内最大：美联储鹰派预期叠加AI股大跌双重压力，收跌至约3538美元",
-      "summary": "现货黄金本周跌幅接近9%，为2026年3月以来最大单周跌幅，收于约每盎司3538美元，此前跌破3700美元关键支撑位。压制因素包括美联储鹰派加息信号及AI科技股抛售引发的风险厌恶情绪。",
-      "why": "金价大跌直接压制老铺黄金（6181.HK）业绩预期，该公司采用零对冲策略、销售额与金价强关联；本周跌至约$3538，近年来罕见的大跌，对期权隐含波动率定价有参考意义。",
+      "title": "A股全线调整：上证指数跌1.22%收3533点，创业板指本周累计下跌8.82%",
+      "summary": "11月21日A股全线收跌，上证指数跌1.22%收3533.79点，创业板指跌3.54%，深证成指跌3.09%；本周创业板指累计下跌8.82%，科创50跌3.80%，受外围美股大跌拖累，科技与成长板块明显承压。",
+      "why": "A股科技与成长股本周大幅调整，外围压力仍在消化；若A股持仓有创业板/科创板标的，注意组合波动敞口；机构普遍认为A股估值处历史低位，但短期可能继续震荡。",
       "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "黄金",
-        "金价",
-        "美联储",
-        "老铺黄金",
-        "加息"
+        "上证指数",
+        "A股",
+        "创业板",
+        "科创50"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-inizmwan6852758.shtml",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vmpa.html",
       "published_date": "2026-11-21",
       "still_developing": false,
       "cross_ref": "",
@@ -1520,6 +1423,162 @@
       "is_new": false
     },
     {
+      "id": "183a0be30ee4dd74",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "美股大幅下挫：标普500进入技术性回调，纳斯达克抹去年度全部涨幅",
+      "summary": "11月20日美股重挫，标普500跌约3.7%正式进入技术性回调区间，为连续第7日下跌；纳斯达克综合指数大跌5.28%，完全抹去2026年年度涨幅。道指跌约1.9%。AI科技股遭受新一轮大规模抛售，英伟达单日暴跌14%，AMD跌约12%，ARM跌约11%。",
+      "why": "AI赛道整体回调，持仓的英伟达、SK海力士、美光等相关仓位显著承压；纳指波动率骤升，当前持有的卖出期权隐含波动率大幅扩张，需紧急检视仓位风险；市场进入技术性回调意味着进一步下行空间仍在。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "美股",
+        "标普500",
+        "纳斯达克",
+        "AI抛售",
+        "市场回调"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vnum.html",
+      "published_date": "2026-11-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
+      "id": "791cfc0aa75edaf6",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股收评：恒指跌1.89%至22411点，恒科指数跌3.78%，科网股普跌已连跌8日",
+      "summary": "2026年11月20日（周五），恒生指数收跌1.89%，报22410.8点；恒生科技指数跌3.78%，报3511.14点，已连续第8个交易日下跌。大市成交2703亿港元。网易-S领跌，半导体及硬件板块重挫，阿里巴巴逆势收涨。南向资金全天净买入118.12亿港元抄底。",
+      "why": "港股科网指数连续8日下跌，持仓中腾讯、美团等港股遭受系统性压力；恒生指数已累计从高点明显回落，南向资金大幅抄底说明内地资金认为当前估值具吸引力，对逆势卖出期权策略有参考意义。",
+      "source": "21经济网",
+      "verified": true,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "恒生科技",
+        "南向资金",
+        "港股收评"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261120/herald/049195259479fe62e123fba290eab5f7.html",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
+      "id": "8ecd020a7bdef2d7",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "Anthropic (ANT) IPO: Stock near $83 IPO price on Day 2 as AI selloff deepens",
+      "summary": "Anthropic (ANT) listed on Nasdaq on November 19 at $83/share, surging to close at $97.17 (+17%) on Day 1 from an opening of $111.50. On Day 2 (November 20), shares fell approximately 8.5% to around $88.91, briefly trading within cents of the $83 IPO price as the broader AI trade collapsed. The debut, despite being one of the largest AI IPOs in history, failed to revive the AI bull trade.",
+      "why": "Anthropic IPO首日涨17%但次日急速回调，显示市场对AI高估值已明显警惕；ANT走弱加剧了整个AI科技板块的抛售压力，直接影响持仓中所有AI相关标的的隐含波动率定价。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Anthropic",
+        "ANT",
+        "IPO",
+        "AI selloff",
+        "Nasdaq"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "published_date": "2026-11-19",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
+      "id": "3116f89aeeaf19c8",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "12:00",
+      "group": "大盘头条",
+      "title": "Trump says he discussed Jensen Huang with Xi at APEC; Bessent confirms H200 chip export policy unchanged",
+      "summary": "Following the Trump-Xi Shenzhen APEC summit, Trump told reporters he raised former Nvidia CEO Jensen Huang with Xi Jinping. Treasury Secretary Bessent told CNBC that the H200 chip remains the threshold for permissible sales to China and that US export policy is unchanged, adding chips above H100s should not reach China. The meeting occurred against the backdrop of the ongoing Megaspeed/spy scandal.",
+      "why": "特朗普在APEC将英伟达丑闻直接提上中美最高级别议程；H200政策维持不变短期缓解了英伟达合规风险；但这也意味着持仓中国科技公司面临的出口管制监管压力不会短期消退。Bessent直接表态为本周政策最清晰信号。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Trump",
+        "Xi",
+        "APEC",
+        "Jensen Huang",
+        "H200",
+        "chip policy",
+        "Nvidia",
+        "Bessent"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
+      "id": "74bf6815de7fd091",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "09:00",
+      "group": "个股",
+      "title": "阿里巴巴FY27Q2业绩：云收入及利润弹性持续释放，调整后EBITA大增260%",
+      "summary": "阿里巴巴2027财年第二季度（2026年7-9月）总营收同比增约10%，AI相关产品收入连续第13个季度实现三位数增长；调整后EBITA同比增长260%至326亿元人民币；GAAP股东应占净利润同比微降（含投资公允价值变动）。云业务收入增速保持强劲。同日股东在纽约提起集体诉讼，指控公司隐瞒与Megaspeed关联所暴露的出口管制风险。",
+      "why": "云业务高速增长是阿里巴巴核心价值重估的关键驱动力；Megaspeed诉讼若成立将带来监管风险和声誉损失；当天港股阿里巴巴逆势收涨，显示市场对业绩改善给予认可。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "阿里巴巴",
+        "BABA",
+        "9988",
+        "FY27Q2",
+        "云业务",
+        "Megaspeed",
+        "集体诉讼"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/news/5324077",
+      "published_date": "2026-11-19",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-21",
+      "is_new": false
+    },
+    {
       "id": "504ffcd04ff09697",
       "tier": 2,
       "lang": "en",
@@ -2767,6 +2826,36 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-20",
+      "is_new": false
+    },
+    {
+      "id": "b7dd407254eb4a6b",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "黄金单周跌幅创年内最大：美联储鹰派预期叠加AI股大跌双重压力，收跌至约3538美元",
+      "summary": "现货黄金本周跌幅接近9%，为2026年3月以来最大单周跌幅，收于约每盎司3538美元，此前跌破3700美元关键支撑位。压制因素包括美联储鹰派加息信号及AI科技股抛售引发的风险厌恶情绪。",
+      "why": "金价大跌直接压制老铺黄金（6181.HK）业绩预期，该公司采用零对冲策略、销售额与金价强关联；本周跌至约$3538，近年来罕见的大跌，对期权隐含波动率定价有参考意义。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "黄金",
+        "金价",
+        "美联储",
+        "老铺黄金",
+        "加息"
+      ],
+      "translated": false,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-inizmwan6852758.shtml",
+      "published_date": "2026-11-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-21",
       "is_new": false
     },
     {
