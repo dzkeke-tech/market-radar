@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-22 13:06 (北京时间)",
+  "updated_at": "2026-11-22 13:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,140 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-22 13:06 (北京时间)",
-    "new_count": 0,
+    "at": "2026-11-22 13:18 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
+    {
+      "id": "ef625298acf3f6e8",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "20:00",
+      "group": "大盘头条",
+      "title": "S&P 500 Correction: Five Forces Behind the Market Sell-Off",
+      "summary": "The S&P 500 and Dow Jones Industrial Average closed in correction territory (down more than 10% from their October highs) on Friday Nov 20. The Nasdaq Composite plunged 5.28% to 22,617.73, erasing all 2026 gains, in its largest one-week pullback since 2020. CNBC identifies five forces: AI capex doubts, Nvidia CEO crisis, Anthropic IPO overhang, Fed rate-hike re-pricing, and rising dollar pressure.",
+      "why": "美股全面进入回调区，AI赛道科技股首当其冲，VIX升至30创近8个月新高；持有英伟达、Intel等科技股及相关sell put期权的投资者需评估下行风险与保证金充足性。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美股",
+        "纳指",
+        "标普500",
+        "市场回调",
+        "AI selloff",
+        "correction",
+        "VIX"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-22",
+      "is_new": true
+    },
+    {
+      "id": "b6b70931238e808d",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:00",
+      "group": "大盘头条",
+      "title": "Fed's Waller: Central Bank May Need to 'Shock People' With Half-Point Rate Hike",
+      "summary": "Federal Reserve Governor Christopher Waller said the Fed may need to surprise markets with an aggressive 50-basis-point rate increase at the December 8-9 meeting if inflation data remain sticky. He said if core CPI reads close to 0.3%, a 50bp hike should be on the table. CME FedWatch data show roughly 97% probability for at least a 25bp hike in December.",
+      "why": "沃勒放鹰震惊市场50bp信号令隐含波动率抬升；12月加息路径更激进的预期将进一步压制成长股估值，尤其对持有HK/US科技股sell put策略影响显著。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "加息",
+        "Fed",
+        "rate hike",
+        "Waller",
+        "通胀",
+        "macro"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "published_date": "2026-11-18",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-22",
+      "is_new": true
+    },
+    {
+      "id": "997da43c4e8d0ce8",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "20:00",
+      "group": "大盘头条",
+      "title": "Warsh Wants Fed to Talk Less, But Rate-Hike Signals Keep Coming",
+      "summary": "Fed Chair Kevin Warsh has advocated for curbing forward guidance, but regional Fed officials (Waller, Bullard) have been making increasingly explicit rate-hike remarks ahead of the December meeting. Warsh himself has remained deliberately vague on the rate path, while emphasizing the Fed will achieve price stability.",
+      "why": "美联储主席沃什主动收窄前瞻指引但难阻鹰派声音，市场不确定性上升；12月会议前波动率预计维持高位，对期权卖出策略（sell put）构成持续压力。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "Fed",
+        "Kevin Warsh",
+        "加息",
+        "forward guidance",
+        "macro",
+        "美股"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+      "published_date": "2026-11-20",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-22",
+      "is_new": true
+    },
+    {
+      "id": "20f0b9e972a59cdb",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "18:00",
+      "group": "个股",
+      "title": "Intel Signs First External Customer for Advanced 18A Chipmaking Process",
+      "summary": "Intel CEO Lip-Bu Tan announced at the TomorrowX Summit in Austin that Intel has signed its first outside customer for the 18A process node. The client identity was not disclosed; CTO Pushkar Ranade later said it signed for 18A-P, the improved variant in risk production since June. Intel also named Microsoft as its first publicly announced EMIB advanced packaging customer.",
+      "why": "Intel 18A外部客户突破是代工转型里程碑，有助修复市场对INTC晶圆代工前景的信心；Intel在此次美股大盘回调中因此消息一度逆市上涨，值得持续关注。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "Intel",
+        "英特尔",
+        "18A",
+        "代工",
+        "foundry",
+        "INTC",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html",
+      "published_date": "2026-11-18",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-22",
+      "is_new": true
+    },
     {
       "id": "4478dc148248d552",
       "tier": 1,
