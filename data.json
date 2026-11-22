@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-21 18:27 (北京时间)",
+  "updated_at": "2026-11-22 08:22 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,111 +9,45 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-21 18:27 (北京时间)",
-    "new_count": 1,
+    "at": "2026-11-22 08:22 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "de29cb8943caf66f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "A"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "欧盟委员会初步认定Temu违反《数字服务法》，涉及违禁商品管控不力",
-      "summary": "11月17日，欧盟委员会公布针对Temu平台的初步调查结论，认定其在防范违法及不安全商品方面违反DSA第35条。若最终确认违规，罚款上限可达拼多多集团全球年营业额的6%。这是欧盟继2026年5月对Temu开出约2亿欧元罚单后的第二次重大执法行动。Temu表示将认真审视并配合调查。",
-      "why": "欧盟执法升级对拼多多海外扩张构成重大压力。若最终定性，潜在罚款上限达集团全球年营业额的6%，对PDD估值有实质性冲击。建议对PDD相关持仓的期权策略保持谨慎。",
-      "source": "欧盟委员会",
-      "verified": true,
-      "keywords": [
-        "Temu",
-        "拼多多",
-        "PDD",
-        "DSA",
-        "欧盟",
-        "数字服务法",
-        "监管罚款"
-      ],
-      "translated": false,
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-relation-illegal-products-its",
-      "published_date": "2026-11-17",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-21",
-      "is_new": true
-    },
-    {
-      "id": "6bbe8a64930c5ae3",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "14:00",
-      "group": "大盘头条",
-      "title": "美联储加息最新消息：CPI、PPI双超预期，12月加息已成市场主流预期",
-      "summary": "美国10月CPI月率涨0.4%（季调），核心CPI涨0.3%，均高于预期，美联储官员本周密集发出通胀担忧表态。多家机构（含美国银行）调整预测，将未来多次会议均纳入加息路径。另据报道，美联储公布2027年FOMC会议暂定日程。",
-      "why": "通胀韧性超预期与美联储鹰派预期明确叠加，实际利率将继续上行，对科技与消费板块持仓形成系统性估值压力；持有高隐含波动率期权头寸（Sell Put/Covered Call）短期受益但Delta敞口需要管理。",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "加息",
-        "CPI",
-        "通胀",
-        "利率",
-        "美债"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261114/herald/c422d11542aee33188310cf445e9ab24.html",
-      "published_date": "2026-11-14",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-14",
-      "is_new": false
-    },
-    {
-      "id": "8eecf18e838fad23",
+      "id": "3f8ba9391dba9a4d",
       "tier": 1,
       "lang": "en",
       "markets": [
         "US",
         "HK"
       ],
-      "time": "12:00",
+      "time": "00:00",
       "group": "大盘头条",
-      "title": "Jensen Huang's Resignation Revives Push to Tighten Chip Export Controls on China",
-      "summary": "Three House committees are preparing legislation—including the AI Overwatch Act, Chip Security Act, and MATCH Act—to tighten AI chip exports to China in the wake of Nvidia CEO Jensen Huang's resignation amid a foreign intelligence scandal. The Commerce Department is separately finalizing a rule restricting Chinese entities' remote access to advanced AI chips through overseas cloud data centers. The debate comes ahead of President Trump's planned APEC meeting with Xi Jinping. China has warned against new chip curbs.",
-      "why": "芯片管制收紧将压制中国AI企业计算能力获取，波及阿里云、腾讯云等云服务商；若Commerce远程访问规则落地，中国AI科技股（9988.HK、0700.HK等）将承受新一轮估值下调压力；关注特朗普-习近平APEC峰会（11月18-19日）可能的政策信号。",
-      "source": "CNBC",
-      "verified": false,
+      "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+      "summary": "Bloomberg reports gold heading for its worst week since March as the Federal Reserve's hawkish signals and AI-spending concerns triggered simultaneous selloffs in equities and precious metals. Tech stocks led the market decline, while the dollar hit a 19-month high.",
+      "why": "AI科技持仓及期权仓位承受双重压力：VIX升破31，隐含波动率大涨令sell put仓位Delta承压；美联储鹰派预期推升折现率，压制科技股估值。延续报道：截至11月20日市场继续下跌。",
+      "source": "Bloomberg",
+      "verified": true,
       "keywords": [
-        "芯片出口管制",
-        "AI",
-        "中美关系",
-        "英伟达",
-        "半导体",
-        "阿里巴巴",
-        "腾讯"
+        "AI selloff",
+        "Nasdaq",
+        "gold",
+        "Federal Reserve",
+        "hawkish"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html",
-      "published_date": "2026-11-12",
+      "url": "https://bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+      "published_date": "2026-11-19",
       "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-14",
-      "is_new": false
+      "cross_ref": "https://www.cnbc.com/amp/2026/11/20/gold-federal-reserve-price-dollar-metals.html",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-11-22",
+      "is_new": true
     },
     {
-      "id": "aa0175cd57a88d57",
+      "id": "8cc8bd5b71640b6f",
       "tier": 1,
       "lang": "en",
       "markets": [
@@ -121,57 +55,116 @@
       ],
       "time": "00:00",
       "group": "大盘头条",
-      "title": "Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout",
-      "summary": "英伟达股价Nov 13再跌约2%，市值跌破4万亿美元，为2025年7月以来首次。周内累计跌幅12.75%，自10月6日历史高点已累跌30.5%。HSBC同日将英伟达评级下调至持有。CEO黄仁勋Nov 12辞职，CFO Colette Kress出任临时CEO，董事会启动永久CEO遴选。费城半导体指数盘中跌幅超6%，纳斯达克领跌。",
-      "why": "英伟达CEO突然辞职引发市场对AI成长逻辑的疑虑；费半指数大幅下挫、波动率骤升，半导体板块期权隐含波动率显著走高，对持有英伟达相关仓位的卖方期权策略需重新评估风险。",
+      "title": "Gold slides toward worst week in eight months on hawkish Fed outlook",
+      "summary": "CNBC reports New York Federal Reserve President Williams signaled another rate hike is likely needed; CME FedWatch data cited in this article shows markets pricing a 92% probability of a 25bps December hike. The 10-year Treasury yield breached 5.14% and the dollar rose to a 19-month high.",
+      "why": "12月加息92%定价意味着利率路径较此前预期更鹰，对科技股估值（高贴现率）及sell put仓位（高波动率）构成阶段性压力。概率数字出处：CNBC原文引用CME FedWatch数据。",
       "source": "CNBC",
       "verified": true,
       "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "GPU",
-        "AI芯片",
-        "Blackwell"
+        "Federal Reserve",
+        "rate hike",
+        "CME FedWatch",
+        "December hike",
+        "10-year yield"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
-      "published_date": "2026-11-13",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-14",
-      "is_new": false
-    },
-    {
-      "id": "22fe46335a6059a3",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "PPI inflation report October 2026",
-      "summary": "美国劳工统计局公布10月PPI：环比+0.3%（略低于预期+0.4%），同比+6.5%为2022年11月以来最高。核心PPI（剔除食品能源）环比+0.3%，剔除食品能源贸易服务后环比+0.5%。叠加此前CPI超预期，10年期美债收益率升至5.17%，市场完全定价美联储12月加息至少25bp。",
-      "why": "通胀持续高于预期、美联储12月加息基本锁定，推高无风险利率、压制科技股估值；卖put策略需关注美股指数隐含波动率变化及加息对期权定价的影响。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "macro",
-        "通胀",
-        "美联储",
-        "PPI"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-      "published_date": "2026-11-13",
+      "url": "https://www.cnbc.com/amp/2026/11/20/gold-federal-reserve-price-dollar-metals.html",
+      "published_date": "2026-11-20",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-14",
-      "is_new": false
+      "first_seen": "2026-11-22",
+      "is_new": true
+    },
+    {
+      "id": "a3e434cd26d357c9",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "15:00",
+      "group": "大盘头条",
+      "title": "恒生科技指数跌至2024年9月以来新低，较去年高点回撤约43%",
+      "summary": "新浪财经报道，恒生科技指数已跌至2024年9月以来新低，较2025年高点回撤约43%；同一时期A股银行股则连创新高，分析认为这更像避险资金抱团。",
+      "why": "港股科技仓位在全球AI降温背景下持续估值重估；若持有腾讯、阿里、美团等港股科技标的，需关注隐含波动率变化及sell put仓位的行权价支撑位。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "恒生科技",
+        "港股",
+        "AI selloff",
+        "估值"
+      ],
+      "translated": false,
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908vpj4.html",
+      "published_date": "2026-11-21",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-22",
+      "is_new": true
+    },
+    {
+      "id": "f4df30dfa79a9c40",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric",
+      "summary": "Spot gold fell to its lowest level since September 2025, hitting a 14-month low as the stronger dollar and rising Treasury yields increased the opportunity cost of holding the non-yielding metal.",
+      "why": "延续报道：金价至11月20日仍继续下跌。老铺黄金（6181.HK）库存不做套保，金价下行直接压缩毛利；如持有贵金属相关仓位，需评估此轮下跌深度。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "gold price",
+        "14-month low",
+        "Federal Reserve",
+        "老铺黄金",
+        "dollar"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/18/gold-slides-to-over-one-year-low-on-firm-dollar-us-rate-outlook.html",
+      "published_date": "2026-11-18",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-22",
+      "is_new": true
+    },
+    {
+      "id": "d297f53e14557292",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "01:00",
+      "group": "大盘头条",
+      "title": "特朗普再批美联储利率过高，两年期美债站上4.8%、美元连续第四周收涨",
+      "summary": "新浪财经报道，特朗普于11月20日再度批评美联储称当前利率水平过高；同期两年期美债收益率站上4.8%，10年期一度突破5.14%，美元连续第四周收涨，金价同期大幅下跌。",
+      "why": "政治与货币政策双重不确定性对风险资产构成压力；高收益率环境对估值偏高的科技股估值有压制，同时债市波动影响期权定价基准利率。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "Trump",
+        "Federal Reserve",
+        "Treasury yield",
+        "美元",
+        "加息"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vrcm.html",
+      "published_date": "2026-11-22",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-22",
+      "is_new": true
     },
     {
       "id": "4478dc148248d552",
@@ -1612,95 +1605,6 @@
       "is_new": false
     },
     {
-      "id": "504ffcd04ff09697",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "大盘头条",
-      "title": "U.S. October PPI Climbs to Highest Annual Rate Since 2022",
-      "summary": "The BLS released October Producer Price Index data on November 13, showing wholesale prices rose to their highest annual pace since 2022. The back-to-back inflation surprise—following the hot CPI on November 10—solidified market expectations for a December Fed rate hike and pushed U.S. equity indices lower.",
-      "why": "PPI+CPI双超预期确认通胀重新抬头，对中长期利率路径产生上行压力，直接影响成长股估值折现率；若持有NVDA、GOOGL等高PE科技持仓，须重新审视利率风险敞口。",
-      "source": "U.S. Bureau of Labor Statistics",
-      "verified": true,
-      "keywords": [
-        "PPI",
-        "通胀",
-        "美联储",
-        "生产者价格",
-        "美债",
-        "加息"
-      ],
-      "translated": false,
-      "url": "https://www.bls.gov/news.release/archives/ppi_11132026.htm",
-      "published_date": "2026-11-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-14",
-      "is_new": false
-    },
-    {
-      "id": "8a3a8ed93b96cfcc",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "香港第三季经济增长5.2%，政府将2026年全年增长预测上调至4.8%",
-      "summary": "香港政府经济顾问11月13日发布《2026年第三季经济报告》，Q3实质GDP同比增5.2%，创五年来同期最快增速，前三季合计增5.1%。货物出口同比增30.3%（受AI相关电子产品需求带动），全年预测由3.5-4.5%上调至4.8%，全年通胀预测维持不变。",
-      "why": "港股宏观环境持续改善，对消费、科技港股（腾讯、美团等）整体估值有正面支撑；但货物出口增长部分依赖AI芯片链，英伟达事件对此有一定间接负面影响。",
-      "source": "香港政府新闻网",
-      "verified": true,
-      "keywords": [
-        "宏观",
-        "港股",
-        "HK",
-        "GDP"
-      ],
-      "translated": false,
-      "url": "https://www.news.gov.hk/chi/2026/11/20261113/20261113_174802_390.html",
-      "published_date": "2026-11-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-14",
-      "is_new": false
-    },
-    {
-      "id": "5de91c9af81cc718",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "腾讯，年内回购已耗资超320亿港元！港股龙头公司，回购潮！",
-      "summary": "据Wind数据，截至11月11日，腾讯控股年内累计回购6827.67万股，耗资324.44亿港元，居全港股市场首位，自8月中旬起密集回购。同期小米以128.57亿港元位列第二，全市场年内375家港股公司合计回购超1332亿港元。",
-      "why": "腾讯持续大规模回购对股价形成底部支撑，管理层发出的长期价值信号明确；对腾讯卖put策略而言，回购区间有所明确，有助于设定行权价下界参考。",
-      "source": "21经济网",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "Tencent",
-        "0700.HK",
-        "00700"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261113/herald/f191a2e38e9d6c78771b0b94d0eca16f.html",
-      "published_date": "2026-11-13",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-14",
-      "is_new": false
-    },
-    {
       "id": "a0dbe5b1703a038f",
       "tier": 2,
       "lang": "zh",
@@ -2859,6 +2763,39 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-20",
+      "is_new": false
+    },
+    {
+      "id": "de29cb8943caf66f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "A"
+      ],
+      "time": "14:00",
+      "group": "大盘头条",
+      "title": "欧盟委员会初步认定Temu违反《数字服务法》，涉及违禁商品管控不力",
+      "summary": "11月17日，欧盟委员会公布针对Temu平台的初步调查结论，认定其在防范违法及不安全商品方面违反DSA第35条。若最终确认违规，罚款上限可达拼多多集团全球年营业额的6%。这是欧盟继2026年5月对Temu开出约2亿欧元罚单后的第二次重大执法行动。Temu表示将认真审视并配合调查。",
+      "why": "欧盟执法升级对拼多多海外扩张构成重大压力。若最终定性，潜在罚款上限达集团全球年营业额的6%，对PDD估值有实质性冲击。建议对PDD相关持仓的期权策略保持谨慎。",
+      "source": "欧盟委员会",
+      "verified": true,
+      "keywords": [
+        "Temu",
+        "拼多多",
+        "PDD",
+        "DSA",
+        "欧盟",
+        "数字服务法",
+        "监管罚款"
+      ],
+      "translated": false,
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-relation-illegal-products-its",
+      "published_date": "2026-11-17",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-21",
       "is_new": false
     },
     {
