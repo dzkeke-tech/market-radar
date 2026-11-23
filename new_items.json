@@ -1,92 +1,223 @@
 [
   {
-    "id": "3078bb6f326adcb7",
     "tier": 1,
     "lang": "en",
-    "markets": ["HK", "A"],
-    "time": "",
+    "markets": [
+      "US"
+    ],
+    "time": "09:30",
     "group": "大盘头条",
-    "title": "China's Factory Activity Returns to Contraction in October as NBS Manufacturing PMI Falls to 49.3",
-    "summary": "China's official NBS manufacturing PMI fell to 49.3 in October, below the 50-point expansion threshold and missing the consensus estimate of 50.0. The composite PMI also dropped to 49.7, with both manufacturing and non-manufacturing activity contracting simultaneously.",
-    "why": "中国制造业与非制造业PMI双双跌破50，为罕见全面收缩信号；周一A股/港股开盘面临抛压，若引发稳增长政策预期可关注估值修复机会；期权策略需警惕短线波动加剧。",
-    "url": "http://en.people.cn/n3/2026/1031/c90000-20514322.html",
-    "source": "People's Daily (NBS official data)",
-    "verified": true,
-    "keywords": ["PMI", "宏观", "macro", "A股"],
-    "published_date": "2026-10-31",
-    "still_developing": false,
-    "cross_ref": ""
-  },
-  {
-    "id": "4bb07d42f9109b27",
-    "tier": 1,
-    "lang": "zh",
-    "markets": ["US", "HK", "A"],
-    "time": "",
-    "group": "大盘头条",
-    "title": "美联储10月会议维持利率3.75%-4%，主席沃什：暂停并非见顶，12月加息概率72%",
-    "summary": "FOMC以10比2投票维持联邦基金利率目标区间3.75%-4%不变，两位反对票（库克、哈马克）主张加息25bp。主席沃什表示暂停是为等待更多数据、并非周期见顶；CME「美联储观察」显示市场定价12月加息25bp概率为72%。",
-    "why": "鹰派暂停叠加72%的12月加息预期将继续压制科技股估值；美债收益率维持高位对港股科技股构成压力；Sell Put策略需关注行权价附近的尾部风险，建议回避短期高IV期权卖出。",
-    "url": "https://m.21jingji.com/article/20261030/herald/242aba6ca0aa1891b9dfceef32eec989.html",
-    "source": "21世纪经济报道",
-    "verified": false,
-    "keywords": ["美联储", "利率", "宏观", "macro"],
-    "published_date": "2026-10-30",
-    "still_developing": false,
-    "cross_ref": ""
-  },
-  {
-    "id": "945642cb40ba0752",
-    "tier": 1,
-    "lang": "en",
-    "markets": ["US"],
-    "time": "",
-    "group": "大盘头条",
-    "title": "Intel stock has worst day since 1970s, falling 29% as AI spending concerns fuel tech rout",
-    "summary": "US stocks plunged Friday as disappointing tech earnings fueled AI spending concerns. Intel shares tumbled 29% after weak Q4 guidance, their worst single-day loss since the 1970s. The Nasdaq fell roughly 2.9%, and Alphabet extended its record Thursday loss. Markets are questioning whether massive AI capex investments will deliver returns.",
-    "why": "科技股历史性单日暴跌，叠加AI资本支出回报质疑，将压制整体科技板块估值；英伟达等半导体相关标的期权隐含波动率预计大幅升高；持仓需关注相关产品估值重估风险。",
-    "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+    "title": "Anthropic IPO: ANT opens at $111.50, closes up 17% at $97.17 in landmark AI listing",
+    "summary": "Anthropic以每股83美元定价（高于预期区间70-78美元），开盘$111.50涨+34%，收盘$97.17涨+17%，市值约1.76万亿美元；超越2024年英伟达单日表现，成为有史以来最大规模科技IPO。上市当日标普500继续下跌，Anthropic的AI光环未能提振大盘。",
+    "why": "延续报道（发布于11月19日）：Anthropic上市四日后股价仍处高波动阶段，AI板块大背景下IPO后交易路径受高度关注，对AI高估值定价机制具有参考意义；高波动率环境需特别注意期权行权风险，建议暂缓新开deep OTM sell put仓位。",
     "source": "CNBC",
     "verified": true,
-    "keywords": ["英特尔", "Intel", "INTC", "宏观", "AI芯片"],
-    "published_date": "2026-10-30",
-    "still_developing": false,
-    "cross_ref": ""
+    "keywords": [
+      "Anthropic",
+      "IPO",
+      "ANT",
+      "AI",
+      "估值"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+    "published_date": "2026-11-19",
+    "still_developing": true,
+    "cross_ref": "",
+    "id": "8ecd020a7bdef2d7"
   },
   {
-    "id": "740aaa4a0f201b64",
-    "tier": 2,
+    "tier": 1,
     "lang": "en",
-    "markets": ["HK"],
-    "time": "",
+    "markets": [
+      "US"
+    ],
+    "time": "16:00",
     "group": "大盘头条",
-    "title": "Hong Kong Stocks Lose a Key Backer as Chinese Investors Head for Exit",
-    "summary": "Onshore Chinese traders sold a net HK$24 billion ($3.1 billion) of Hong Kong shares through the Stock Connect trading link in October through Thursday, which would be the biggest monthly southbound outflow since 2021. The Hang Seng has fallen more than 12% this year despite state-backed ETF buying.",
-    "why": "南向资金创2021年来最大月度净流出，显示内地投资者对港股信心不足；结合美联储鹰派姿态与科技股暴跌，港股短期内面临多重压力；看涨期权时间价值加速衰减，Sell Put需谨慎。",
-    "url": "https://bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
+    "title": "Anthropic's record IPO collides with tech's worst week on Wall Street since 2020",
+    "summary": "美股遭遇两年半以来最长连跌——标普500/道指连跌6个交易日，从高点回调逾10%进入技术性熊市。道指单日暴跌超1100点，纳斯达克周跌幅为2020年以来最大。Anthropic创纪录IPO未能提振市场，AI板块抛售持续，投资者对AI回报能力和巨额借贷的疑虑积压。",
+    "why": "美股处于技术性回调区间，AI/科技板块承压，隐含波动率持续高企；期权卖方需警惕Gamma风险及delta风险放大效应，建议暂缓新开sell put仓位，等待市场企稳信号。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "美股",
+      "技术性回调",
+      "AI",
+      "市场波动",
+      "纳斯达克",
+      "道指"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+    "published_date": "2026-11-21",
+    "still_developing": false,
+    "cross_ref": "",
+    "id": "0382cab26d50b7e7"
+  },
+  {
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "A",
+      "HK"
+    ],
+    "time": "08:30",
+    "group": "大盘头条",
+    "title": "A股三箭齐发：融资保证金比例下调至80%，创业板拟引入做市商，三大交易所让利降费",
+    "summary": "沪深北三大交易所宣布，融资保证金比例下限11月30日起由100%调降至80%（杠杆上限从1倍升至1.25倍），理论增量资金约4000亿元；深交所同步征求意见在创业板引入做市商制度；上交所新增让利13.68亿元，深交所让利13.9亿元。今日（11月23日）创业板指收涨3.08%，沪指涨0.15%。",
+    "why": "A股重磅政策利好，融资成本降低、流动性改善利好港股消费/科技标的；期权方面，A股波动率指数预计短期回落，短期可适度sell put布局创业板相关标的；政策持续落地有助于提振港股AH溢价股。",
+    "source": "21世纪经济报道",
+    "verified": true,
+    "keywords": [
+      "融资保证金",
+      "A股",
+      "做市商",
+      "创业板",
+      "稳市政策"
+    ],
+    "translated": false,
+    "url": "https://m.21jingji.com/article/20261122/herald/aeeadfc9ec802013d9f7cd668f0f86e9.html",
+    "published_date": "2026-11-22",
+    "still_developing": false,
+    "cross_ref": "",
+    "id": "65cbb10c93a85e3a"
+  },
+  {
+    "tier": 1,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "18:00",
+    "group": "大盘头条",
+    "title": "Wall Street Regulator Probing Nvidia's Accounting, Reuters Says",
+    "summary": "路透社11月20日报道，美国证交会（SEC）对英伟达展开会计核查，重点审查收入确认及与主要客户相关的财务处理；英伟达发言人未予置评，SEC拒绝确认。消息公布后英伟达股价单日下跌约14%至$125.5，单周重挫23%，创2008年10月以来最大单周跌幅。",
+    "why": "延续报道（发布于11月20日）：SEC调查于11月20日曝光，调查仍在进行中。英伟达是核心持仓，SEC调查叠加CEO辞职不确定性极大；高管危机期间隐含波动率居高，不建议裸写深度价外put，待局势明朗后再评估covered call策略。",
     "source": "Bloomberg",
     "verified": false,
-    "keywords": ["港股", "恒生指数", "宏观"],
-    "published_date": "2026-10-30",
-    "still_developing": false,
-    "cross_ref": ""
+    "keywords": [
+      "英伟达",
+      "Nvidia",
+      "SEC",
+      "会计调查",
+      "NVDA"
+    ],
+    "translated": false,
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says",
+    "published_date": "2026-11-20",
+    "still_developing": true,
+    "cross_ref": "",
+    "id": "b11c595d9f04d9c4"
   },
   {
-    "id": "1303250904ce1cc3",
-    "tier": 2,
+    "tier": 1,
     "lang": "en",
-    "markets": ["HK", "US"],
+    "markets": [
+      "HK"
+    ],
     "time": "",
     "group": "个股",
-    "title": "Alibaba wins preliminary injunction against Pentagon contract restrictions tied to China blacklist",
-    "summary": "A US federal judge in San Jose granted Alibaba a preliminary injunction, blocking the Pentagon from denying contracts to companies because they do business with Alibaba's lobbying partners. Judge Eumi K. Lee found Alibaba likely to succeed on free-speech grounds. The Chinese military designation itself remains in place as the case continues.",
-    "why": "延续报道：2026-06起诉五角大楼的阶段性进展，法院初步禁令可减轻承包商合规压力，对阿里巴巴企业云/政府合同业务构成利好；但军事名单尚存、最终判决未出，不宜过度解读；期权隐含波动率短期内可能因此小幅回落。",
-    "url": "https://www.scmp.com/news/us/article/3372356/alibaba-wins-preliminary-injunction-against-pentagon-lobbying-rule",
+    "title": "Tencent profit dips as sixfold increase in AI infrastructure spending sacrifices margin",
+    "summary": "腾讯Q3营收2073亿元（同比+8%），低于分析师预期2108亿元；IFRS经营利润同比下降7%；云服务同比增35%，国内游戏同比增11%；资本支出按季大幅跃升至814亿元，AI基础设施投入持续高企，自由现金流为负。",
+    "why": "延续报道（发布于11月18日）：腾讯Q3业绩于11月18日公布，分析师估值调整持续进行，AI支出能否转化为云变现是下季核心观察指标。腾讯是核心持仓，业绩不及预期叠加AI支出激增，短期利润率压力持续；可考虑出售短期covered call锁定收益。",
     "source": "South China Morning Post",
-    "verified": false,
-    "keywords": ["阿里巴巴", "Alibaba", "BABA", "9988.HK"],
-    "published_date": "2026-10-27",
+    "verified": true,
+    "keywords": [
+      "腾讯",
+      "Tencent",
+      "Q3业绩",
+      "AI支出",
+      "云服务"
+    ],
+    "translated": false,
+    "url": "https://www.scmp.com/tech/big-tech/article/3374902/tencent-profit-dips-sixfold-increase-ai-infrastructure-spending-sacrifices-margin",
+    "published_date": "2026-11-18",
     "still_developing": true,
-    "cross_ref": ""
+    "cross_ref": "",
+    "id": "6bc86b0de0d5c935"
+  },
+  {
+    "tier": 1,
+    "lang": "zh",
+    "markets": [
+      "HK",
+      "US"
+    ],
+    "time": "",
+    "group": "个股",
+    "title": "阿里巴巴2026财年Q2：AI云同比大增53%，调整后EPS大幅低于预期，遭证券集体诉讼",
+    "summary": "阿里巴巴Q2营收2715亿元（同比+10%），AI相关云计算服务同比增53%；但调整后摊薄EPS为8.10元，大幅低于分析师预期10.75元（miss 25%）；自由现金流出345亿元。多家律所以出口管制信息披露问题对阿里提起证券集体诉讼，涉嫌投资期间2024年5月至2026年11月。",
+    "why": "延续报道（发布于11月19日）：阿里11月19日披露业绩，EPS大幅不及预期叠加证券诉讼，分析师评级调整持续进行。阿里巴巴是美股/港股双重持仓，EPS大幅不及预期叠加诉讼增加不确定性；但AI云高增长是长期价值支撑；期权策略建议暂缓新sell put，等待诉讼进展明朗。",
+    "source": "Alibaba IR",
+    "verified": true,
+    "keywords": [
+      "阿里巴巴",
+      "BABA",
+      "Q2业绩",
+      "AI云",
+      "集体诉讼"
+    ],
+    "translated": false,
+    "url": "https://alibabagroup.com/document-1930116148192346112",
+    "published_date": "2026-11-19",
+    "still_developing": true,
+    "cross_ref": "",
+    "id": "60fff78bcc74b59c"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "",
+    "group": "个股",
+    "title": "Walmart (WMT) Q3 2026 earnings: beat on revenue and EPS, raises full-year guidance",
+    "summary": "沃尔玛Q3调整后EPS $0.65（高于预期$0.64）；营收$1888亿（高于预期$1873亿）；全球电商增长17%，美国广告收入增37%；上调全年调整后EPS指引至$2.84-$2.89；但盘后股价下跌约2%，市场对消费前景仍有疑虑。",
+    "why": "延续报道（发布于11月19日）：沃尔玛11月19日披露Q3业绩，分析师估值调整期。沃尔玛业绩稳健且全年指引上调，确认消费韧性；期权covered call执行价可维持，EPS上修降低下行风险。",
+    "source": "CNBC",
+    "verified": true,
+    "keywords": [
+      "沃尔玛",
+      "Walmart",
+      "WMT",
+      "Q3业绩",
+      "电商",
+      "消费"
+    ],
+    "translated": false,
+    "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+    "published_date": "2026-11-19",
+    "still_developing": true,
+    "cross_ref": "",
+    "id": "51c5886a825b7dc9"
+  },
+  {
+    "tier": 2,
+    "lang": "en",
+    "markets": [
+      "US"
+    ],
+    "time": "",
+    "group": "个股",
+    "title": "Circle and DBS launch 24/7 USDC minting and redemption for institutional clients across Asia",
+    "summary": "Circle与新加坡DBS银行宣布合作，机构客户可通过DBS在亚洲任意时间7×24小时铸造和赎回USDC稳定币；世界银行与花旗银行同步探索基于USDC的国际支付方案；GENIUS Act稳定币监管规则将于2027年1月生效。",
+    "why": "延续报道（发布于11月18日）：Circle(CRCL)与DBS合作于11月18日宣布，区域金融机构稳定币基础设施仍处构建初期，机构采用进展持续受关注。Circle是持仓标的，DBS合作确立亚洲稳定币基础设施地位；GENIUS Act监管落地为USDC合规使用提供确定性，利好CRCL长期估值。",
+    "source": "The Block",
+    "verified": true,
+    "keywords": [
+      "Circle",
+      "CRCL",
+      "USDC",
+      "DBS",
+      "稳定币",
+      "亚洲"
+    ],
+    "translated": false,
+    "url": "https://theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
+    "published_date": "2026-11-18",
+    "still_developing": true,
+    "cross_ref": "",
+    "id": "925bc5bafc719f80"
   }
 ]
