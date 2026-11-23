@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-23 08:22 (北京时间)",
+  "updated_at": "2026-11-23 13:21 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,40 +9,164 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-23 08:22 (北京时间)",
-    "new_count": 1,
+    "at": "2026-11-23 13:21 (北京时间)",
+    "new_count": 5,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "b6c3c066837b5d84",
+      "id": "ea8c2d1ff716b396",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "HK",
-        "US"
+        "A",
+        "HK"
       ],
-      "time": "07:00",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "Asia Braces for More Volatility After US Selloff: Markets Wrap",
-      "summary": "With Wall Street posting its worst week since March 2020, Asian markets opened Monday Nov 23 on the defensive. Japan closed for Labor Thanksgiving holiday. Australia's ASX futures signaled a lower open, heading for a seventh straight losing session. Hong Kong and China tech stocks expected to extend losses as AI trade sentiment deteriorates and global risk appetite remains under pressure.",
-      "why": "港股周一开盘承压，AI科技股（腾讯、阿里、美团等）将跟随美股调整。需评估当日市场走势是否触发进一步下行风险，以及是否需要调整期权策略（如平仓或调整行权价）。",
-      "source": "Bloomberg",
-      "verified": false,
+      "title": "中国三大交易所下调融资保证金比例至80%，11月30日起实施",
+      "summary": "经证监会批准，沪深北三大交易所宣布将融资保证金比例下限从100%下调至80%，自11月30日起实施，可释放估算逾4000亿元增量资金，并同步推出降费和做市举措。存量约2.2万亿元融资合约可据此释放约3000亿元。",
+      "why": "A股直接受益：融资杠杆从1倍提升至1.25倍，科技与消费板块的资金承接能力增强。逢全球AI股动荡，政策底意图明显，对持仓个股的 sell put 有心理支撑。需注意杠杆提升也可能加剧下跌时的抛售。",
+      "source": "澎湃新闻",
+      "verified": true,
       "keywords": [
-        "Asia",
-        "Hong Kong",
-        "stock market",
-        "volatility",
-        "AI selloff"
+        "A股",
+        "融资保证金",
+        "稳市场",
+        "证监会",
+        "三大交易所"
       ],
       "translated": false,
-      "url": "https://bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34534889",
       "published_date": "2026-11-22",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-23",
+      "is_new": true
+    },
+    {
+      "id": "3d8a82846cd67de9",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "10:30",
+      "group": "大盘头条",
+      "title": "港股AI概念股周一全线走弱，MINIMAX-W跌7%、智谱跌6.65%，恒生科技承压",
+      "summary": "受美国AI泡沫担忧情绪蔓延影响，港股AI概念股周一开盘集体走低：MINIMAX-W跌7.03%，智谱跌6.65%，兆易创新跌5.47%。上周恒生科技指数已累计下跌约8%，恒生指数跌约5%。",
+      "why": "港股AI概念全线承压，持仓的腾讯、美团等科技标的估值受压，隐含波动率可能继续走高；高波动率既是 sell put 收取权利金的机会，也需防范快速跌穿行权价的尾险。",
+      "source": "东方财富",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "AI概念股",
+        "恒生科技",
+        "人工智能"
+      ],
+      "translated": false,
+      "url": "https://finance.eastmoney.com/a/202611233937134192.html",
+      "published_date": "2026-11-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-23",
+      "is_new": true
+    },
+    {
+      "id": "a0de41f903317665",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "AI泡沫担忧发酵：纳指上周大跌5.28%，科技板块四周蒸发逾4万亿美元",
+      "summary": "美国科技股上周五（11月20日）遭遇剧烈抛售：纳指跌5.28%、标普500跌3.7%，主因是AI基础设施投资回报存疑叠加美联储加息预期升温。纳指从10月高点已回落约19.8%，逼近技术熊市。周一美股期货反弹约2%-2.4%。",
+      "why": "全球AI估值重置直接压制持仓的科技标的（英伟达、谷歌、腾讯等），高波动率期间 sell put 需谨慎评估行权价设置。周一期货反弹需密切观察能否转化为实盘收复。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "AI泡沫",
+        "纳指",
+        "科技股",
+        "美股大跌",
+        "英伟达"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vx80.html",
+      "published_date": "2026-11-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-23",
+      "is_new": true
+    },
+    {
+      "id": "78157ab9068b466d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "亚股周一开盘分化：韩国大跌启动平准基金，台湾逆市涨2.5%，A股沪弱深强",
+      "summary": "周一亚洲股市表现分化：韩国股市跟随全球AI抛售大跌，韩国当局启动股市平准基金；台湾因禁止低于前日收盘价做空，指数反弹约2.5%；A股午间沪指跌约0.96%，深成指涨0.24%，创业板涨1.22%，科技成长板块局部企稳。",
+      "why": "亚股分化反映市场对AI估值修正路径判断不一；A股科技与消费板块相对韧性，以及融资保证金下调带来的情绪改善，为消费科技持仓提供短期支撑；但韩国平准基金入场亦说明市场脆弱性犹存。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "A股",
+        "韩国",
+        "台湾",
+        "AI泡沫",
+        "亚股"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vx96.html",
+      "published_date": "2026-11-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-23",
+      "is_new": true
+    },
+    {
+      "id": "8e1fef5a7fb123b8",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "11:00",
+      "group": "个股",
+      "title": "英特尔签下18A工艺首个外部客户，Lip-Bu Tan称18A良率达约70%",
+      "summary": "英特尔CEO陈立武（Lip-Bu Tan）于TomorrowX峰会（11月18日，奥斯汀）宣布已签下18A-P先进制程首家外部客户（客户未公开），CTO称18A良率已达约70%。英特尔股价当日盘中涨约7.9%，但仍较6月高点低逾60%。外部晶圆代工季度收入目前仅约4.11亿美元。",
+      "why": "英特尔代工战略转型的关键里程碑，可能缓解市场悲观情绪；若18A良率数据属实，对英特尔(INTC)估值修复有正面意义。与AI芯片需求密切关联，对整个半导体生态均有潜在影响。延续报道：11月19日格隆汇、智通财经均有报道，本轮距今约4天，仍在市场反应期内。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "英特尔",
+        "Intel",
+        "INTC",
+        "18A",
+        "代工",
+        "晶圆",
+        "Lip-Bu Tan"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/live/2768712",
+      "published_date": "2026-11-19",
       "still_developing": true,
-      "cross_ref": "https://seekingalpha.com/news/4675333-nasdaq-plummets-more-than--5-and-the-sp-500-ends-in-correction-territory",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-23",
       "is_new": true
     },
@@ -1471,6 +1595,37 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-22",
+      "is_new": false
+    },
+    {
+      "id": "b6c3c066837b5d84",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "Asia Braces for More Volatility After US Selloff: Markets Wrap",
+      "summary": "With Wall Street posting its worst week since March 2020, Asian markets opened Monday Nov 23 on the defensive. Japan closed for Labor Thanksgiving holiday. Australia's ASX futures signaled a lower open, heading for a seventh straight losing session. Hong Kong and China tech stocks expected to extend losses as AI trade sentiment deteriorates and global risk appetite remains under pressure.",
+      "why": "港股周一开盘承压，AI科技股（腾讯、阿里、美团等）将跟随美股调整。需评估当日市场走势是否触发进一步下行风险，以及是否需要调整期权策略（如平仓或调整行权价）。",
+      "source": "Bloomberg",
+      "verified": false,
+      "keywords": [
+        "Asia",
+        "Hong Kong",
+        "stock market",
+        "volatility",
+        "AI selloff"
+      ],
+      "translated": false,
+      "url": "https://bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+      "published_date": "2026-11-22",
+      "still_developing": true,
+      "cross_ref": "https://seekingalpha.com/news/4675333-nasdaq-plummets-more-than--5-and-the-sp-500-ends-in-correction-territory",
+      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
+      "first_seen": "2026-11-23",
       "is_new": false
     },
     {
