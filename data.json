@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-24 08:15 (北京时间)",
+  "updated_at": "2026-11-24 13:21 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,70 +9,37 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-24 08:15 (北京时间)",
-    "new_count": 2,
+    "at": "2026-11-24 13:21 (北京时间)",
+    "new_count": 1,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "a24fdfddefa6b5e4",
+      "id": "6ccbc92fa0de14f6",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
-        "US",
-        "HK"
+        "A"
       ],
-      "time": "16:30",
+      "time": "15:30",
       "group": "大盘头条",
-      "title": "Nvidia board reinstates Jensen Huang as CEO; Nasdaq surges 6.51%, S&P 500 up 4.73%",
-      "summary": "英伟达董事会11月23日全票通过决议，恢复黄仁勋担任总裁、CEO及董事职务，12天前的辞职决定就此逆转。消息提振AI板块全线反弹：纳斯达克综合指数涨约6.51%，标普500涨约4.73%，道指涨约3.01%，英伟达股价当日大涨逾30%，创2003年以来最大单日涨幅，VIX指数随之急跌约25%至27附近。",
-      "why": "英伟达是持仓核心，CEO复职消除重大不确定性，AI板块高beta反弹期间隐含波动率VIX急跌，对持有NVDA sell put策略有利（delta上行+vega下降）；整体市场大幅反弹有助于组合中高beta个股估值修复。",
-      "source": "NVIDIA Newsroom (official)",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "黄仁勋",
-        "Jensen Huang",
-        "美股",
-        "纳斯达克"
-      ],
-      "translated": false,
-      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "published_date": "2026-11-23",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-24",
-      "is_new": true
-    },
-    {
-      "id": "0f71d74f71e986d3",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "Hong Kong stocks rebound to pare steep losses following US tech rout",
-      "summary": "受美国AI科技股估值质疑引发的抛售传导，恒生指数11月21日（周五）跌至约19个月新低，周一（11月23日）跟随美股期货回暖窄幅收跌约0.1%至22,384点。北京宣布11月30日起降低融资保证金比例（见另一条），或为后续市场提供流动性支撑。",
-      "why": "港股AI科技仓位（腾讯、小米、阿里等）短期高波动，恒生指数仍处于相对低位；关注英伟达CEO复归对港股科技板块次日反弹能否持续；对carry trade型期权策略需留意HK市场波动率水平。延续报道：英伟达事件引发的全球AI股波动仍在演绎。",
-      "source": "South China Morning Post",
+      "title": "A股大涨：创业板指+3.08%，科创综指涨逾4%，AI算力板块领跑",
+      "summary": "2026年11月24日，A股市场受英伟达领导层稳定消息推动延续强势。收盘创业板指涨3.08%，科创综指涨逾4%；沪指涨0.15%收报3578.23点。AI算力、光模块等科创方向板块领涨，全市场成交额1.56万亿元。",
+      "why": "科技类持仓A股成分短线明显受益，英伟达主导的全球AI算力情绪传导至A股科创板；对科创相关仓位，波动率升高可考虑阶段性covered call保护。【注：本轮大盘头条偏少，因早前08:15运行已覆盖英伟达复职、港股反弹、AI泡沫等主要大盘头条，本次为收盘数据的新增补充。】",
+      "source": "21世纪经济报道",
       "verified": false,
       "keywords": [
-        "恒生指数",
-        "港股",
+        "A股",
+        "创业板",
+        "科创",
         "AI",
-        "科技股",
-        "美股联动"
+        "算力"
       ],
       "translated": false,
-      "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
-      "published_date": "2026-11-23",
-      "still_developing": true,
+      "url": "https://www.21jingji.com/article/20261124/herald/274227652239c52e8a50e1c20b268e57.html",
+      "published_date": "2026-11-24",
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-24",
@@ -1532,6 +1499,39 @@
       "is_new": false
     },
     {
+      "id": "a24fdfddefa6b5e4",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Nvidia board reinstates Jensen Huang as CEO; Nasdaq surges 6.51%, S&P 500 up 4.73%",
+      "summary": "英伟达董事会11月23日全票通过决议，恢复黄仁勋担任总裁、CEO及董事职务，12天前的辞职决定就此逆转。消息提振AI板块全线反弹：纳斯达克综合指数涨约6.51%，标普500涨约4.73%，道指涨约3.01%，英伟达股价当日大涨逾30%，创2003年以来最大单日涨幅，VIX指数随之急跌约25%至27附近。",
+      "why": "英伟达是持仓核心，CEO复职消除重大不确定性，AI板块高beta反弹期间隐含波动率VIX急跌，对持有NVDA sell put策略有利（delta上行+vega下降）；整体市场大幅反弹有助于组合中高beta个股估值修复。",
+      "source": "NVIDIA Newsroom (official)",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "黄仁勋",
+        "Jensen Huang",
+        "美股",
+        "纳斯达克"
+      ],
+      "translated": false,
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "published_date": "2026-11-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-24",
+      "is_new": false
+    },
+    {
       "id": "c5a822d1c867ea65",
       "tier": 2,
       "lang": "en",
@@ -2624,6 +2624,36 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-23",
+      "is_new": false
+    },
+    {
+      "id": "0f71d74f71e986d3",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "Hong Kong stocks rebound to pare steep losses following US tech rout",
+      "summary": "受美国AI科技股估值质疑引发的抛售传导，恒生指数11月21日（周五）跌至约19个月新低，周一（11月23日）跟随美股期货回暖窄幅收跌约0.1%至22,384点。北京宣布11月30日起降低融资保证金比例（见另一条），或为后续市场提供流动性支撑。",
+      "why": "港股AI科技仓位（腾讯、小米、阿里等）短期高波动，恒生指数仍处于相对低位；关注英伟达CEO复归对港股科技板块次日反弹能否持续；对carry trade型期权策略需留意HK市场波动率水平。延续报道：英伟达事件引发的全球AI股波动仍在演绎。",
+      "source": "South China Morning Post",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "AI",
+        "科技股",
+        "美股联动"
+      ],
+      "translated": false,
+      "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
+      "published_date": "2026-11-23",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-24",
       "is_new": false
     },
     {
