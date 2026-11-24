@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-24 13:21 (北京时间)",
+  "updated_at": "2026-11-24 18:17 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,37 +9,104 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-24 13:21 (北京时间)",
-    "new_count": 1,
+    "at": "2026-11-24 18:17 (北京时间)",
+    "new_count": 3,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "6ccbc92fa0de14f6",
+      "id": "ed8d9d8cb9eaf55b",
       "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股今日逆势收跌，恒生科技指数承压，AI芯片出口管制持续拖累中国科技股",
+      "summary": "全球AI交易在英伟达CEO回归带动下全线反弹，但港股今日逆势下跌，恒生科技指数跌约1.2%。阿里巴巴、腾讯、美团等中国科技股均下行。美国商务部AI芯片出口管制规则（11月19日生效，限制中国企业通过海外数据中心远程访问算力）持续压制中国科技股估值，港股走势与全球AI反弹背离。",
+      "why": "持有港股中国科技标的（腾讯/阿里/美团）需关注：美国对华芯片管制导致港股与全球AI反弹背道而驰，科技股估值持续承压。卖出期权策略需注意恒生科技标的波动率可能继续走高，行权价评估需考虑芯片管制长期压力。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "恒生科技",
+        "AI芯片",
+        "出口管制",
+        "中国科技",
+        "BIS"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vzv9.html",
+      "published_date": "2026-11-24",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-24",
+      "is_new": true
+    },
+    {
+      "id": "77bf1b8216c17e9c",
+      "tier": 2,
       "lang": "zh",
       "markets": [
         "A"
       ],
-      "time": "15:30",
+      "time": "09:30",
       "group": "大盘头条",
-      "title": "A股大涨：创业板指+3.08%，科创综指涨逾4%，AI算力板块领跑",
-      "summary": "2026年11月24日，A股市场受英伟达领导层稳定消息推动延续强势。收盘创业板指涨3.08%，科创综指涨逾4%；沪指涨0.15%收报3578.23点。AI算力、光模块等科创方向板块领涨，全市场成交额1.56万亿元。",
-      "why": "科技类持仓A股成分短线明显受益，英伟达主导的全球AI算力情绪传导至A股科创板；对科创相关仓位，波动率升高可考虑阶段性covered call保护。【注：本轮大盘头条偏少，因早前08:15运行已覆盖英伟达复职、港股反弹、AI泡沫等主要大盘头条，本次为收盘数据的新增补充。】",
-      "source": "21世纪经济报道",
+      "title": "A股今日高开，创业板高开约3.9%，算力硬件与半导体领涨，午后涨幅收窄",
+      "summary": "受英伟达CEO回归全球AI反弹带动，A股今日三大指数集体高开，创业板指高开约3.9%，算力硬件、半导体芯片板块领涨。午后涨幅收窄，沪指收涨约0.2%，创业板指收涨约0.65%。A股走势强于港股，主要因国内AI算力赛道受益情绪回暖。当日大盘头条以英伟达和港股AI管制两条主线为主，A股头条偏少。",
+      "why": "A股算力与半导体板块受益英伟达利好，本组合中A股相关标的（如SK海力士、美光等存储/HBM相关）可能受正向联动。午后获利回吐说明情绪面驱动为主，基本面支撑尚需观察。",
+      "source": "新浪财经",
       "verified": false,
       "keywords": [
         "A股",
         "创业板",
-        "科创",
+        "算力",
+        "半导体",
         "AI",
-        "算力"
+        "英伟达",
+        "人工智能"
       ],
       "translated": false,
-      "url": "https://www.21jingji.com/article/20261124/herald/274227652239c52e8a50e1c20b268e57.html",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vz6w.html",
       "published_date": "2026-11-24",
       "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-24",
+      "is_new": true
+    },
+    {
+      "id": "de4d9c7aeb1ffb9f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "腾讯Q3业绩后多家券商大幅下调目标价：花旗755→629港元，高盛650→610港元",
+      "summary": "腾讯Q3财报（11月18日发布）公布后，多家大行于11月19日下调目标价：花旗由755港元下调至629港元（维持买入），认为第三季收入偏软；高盛由650港元下调至610港元，预计2027年为每股盈利低谷；里昂、大华继显、中金等多家机构同步下调。Q3 Non-IFRS净利跌约6%，AI开支拖累约152亿元经营利润，云收入同比增35%。",
+      "why": "延续报道：11月19日紧随Q3财报的机构评级集体下调仍在影响股价。今日（11月24日）腾讯股价再度承压。多家机构将2027年列为EPS低谷——对持有腾讯期权（sell put）策略：行权价设置需考虑2027年盈利低谷的风险，建议保守评估下行空间；隐含波动率可能持续偏高，对covered call策略有利。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "00700",
+        "0700.HK",
+        "目标价",
+        "花旗",
+        "高盛",
+        "Q3",
+        "AI投资"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/live/2769488",
+      "published_date": "2026-11-19",
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-24",
@@ -1496,6 +1563,36 @@
       "cross_ref": "https://seekingalpha.com/news/4675333-nasdaq-plummets-more-than--5-and-the-sp-500-ends-in-correction-territory",
       "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
       "first_seen": "2026-11-23",
+      "is_new": false
+    },
+    {
+      "id": "6ccbc92fa0de14f6",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "15:30",
+      "group": "大盘头条",
+      "title": "A股大涨：创业板指+3.08%，科创综指涨逾4%，AI算力板块领跑",
+      "summary": "2026年11月24日，A股市场受英伟达领导层稳定消息推动延续强势。收盘创业板指涨3.08%，科创综指涨逾4%；沪指涨0.15%收报3578.23点。AI算力、光模块等科创方向板块领涨，全市场成交额1.56万亿元。",
+      "why": "科技类持仓A股成分短线明显受益，英伟达主导的全球AI算力情绪传导至A股科创板；对科创相关仓位，波动率升高可考虑阶段性covered call保护。【注：本轮大盘头条偏少，因早前08:15运行已覆盖英伟达复职、港股反弹、AI泡沫等主要大盘头条，本次为收盘数据的新增补充。】",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "创业板",
+        "科创",
+        "AI",
+        "算力"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261124/herald/274227652239c52e8a50e1c20b268e57.html",
+      "published_date": "2026-11-24",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-24",
       "is_new": false
     },
     {
