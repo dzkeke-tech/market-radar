@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-25 13:22 (北京时间)",
+  "updated_at": "2026-11-25 18:13 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,96 +9,35 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-25 13:22 (北京时间)",
+    "at": "2026-11-25 18:13 (北京时间)",
     "new_count": 6,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "9b62f3e54f87c488",
+      "id": "9709ee9b2939f773",
       "tier": 1,
-      "lang": "zh",
+      "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "08:00",
+      "time": "09:00",
       "group": "大盘头条",
-      "title": "AI明星股解仓潮：美股纳指跌1.48%，费城半导体指数跌7.88%，英伟达跌近6%",
-      "summary": "11月24日美股，AI交易解仓浪潮延续，纳斯达克指数收跌1.48%至约23,733点，标普500跌0.5%至约7,201点，道指微涨0.85%至约50,019点。费城半导体指数（SOX）重挫7.88%，英伟达（NVDA）跌近6%，AI独角兽Anthropic股价跌破IPO发行价。",
-      "why": "AI板块持续调整，英伟达股价大幅下行令半导体板块隐含波动率进一步升温，对持有英伟达相关仓位及港股半导体标的均有直接冲击，需评估持仓delta风险。",
-      "source": "新浪财经半导体热点小时报",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "NVDA",
-        "AI芯片",
-        "费城半导体",
-        "纳指"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w21n.html",
-      "published_date": "2026-11-25",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-25",
-      "is_new": true
-    },
-    {
-      "id": "f76c1bb476f7dccf",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "市场定价美联储12月再加息25bps：CME FedWatch概率升至约97.4%",
-      "summary": "据CME美联储观察工具（来源：新浪美联储热点2026-11-25 11时），市场定价12月8—9日会议加息25个基点的概率升至约97.4%。当前联邦基金利率目标区间为3.75%至4.00%，加息后预计升至4.00%至4.25%。10年期美债收益率约4.90%，2年期约4.66%。",
-      "why": "加息预期强化是本轮成长股及AI概念股调整的宏观背景；对卖出看跌期权策略而言，更高的无风险利率压缩美股成长估值空间，12月会议前需关注PCE数据及美联储官员表态。",
-      "source": "新浪财经美联储热点",
-      "verified": false,
-      "keywords": [
-        "美联储",
-        "加息",
-        "CME FedWatch",
-        "利率"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w22t.html",
-      "published_date": "2026-11-25",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-25",
-      "is_new": true
-    },
-    {
-      "id": "b28dfdad3b216e8d",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "08:30",
-      "group": "个股",
-      "title": "哔哩哔哩三季报超预期：港股涨约13%，日活1.235亿创新高，季度回购2040万股",
-      "summary": "哔哩哔哩（9626.HK/BILI）11月24日披露2026年三季报（SEC 6-K）：总净营收82.0亿元，同比增长8.2%；日活用户1.235亿，同比增长5%；毛利率37.3%，高于上年同期36.7%。结果超出市场预期。公司同期披露已回购并注销2040万股（约4.9%股本），耗资3亿美元。港股11月25日盘中涨约13%。",
-      "why": "哔哩哔哩季报超预期叠加积极回购（已注销股份），对期权策略有利：短期股价大涨使covered call锁利机会出现，同时日活增长趋势印证了用户基础的稳健性。",
-      "source": "SEC EDGAR 6-K（哔哩哔哩官方披露）",
+      "title": "Jensen Huang Apologizes to Nvidia Staff, Says He Is in Daily Therapy",
+      "summary": "Nvidia CEO Jensen Huang held an hour-long all-hands meeting on Nov 24 and publicly apologized to employees for the behavior that triggered his resignation and investigation. He acknowledged violating the company's code of conduct, said he is in daily therapy, and declined to take questions. The company stated his return reflected input from senior levels of the United States government.",
+      "why": "黄仁勋复职后首次全员道歉，市场对英伟达治理结构的担忧未散，半导体板块及纳指同日承压；对持仓中的AI/芯片相关标的隐含波动率有直接影响，sell put时需评估方向性风险。",
+      "source": "Nvidia Newsroom",
       "verified": true,
       "keywords": [
-        "哔哩哔哩",
-        "BILI",
-        "9626.HK",
-        "三季报",
-        "日活",
-        "回购"
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI芯片",
+        "GPU"
       ],
       "translated": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/0001723690/000119312526445313/d175888dex991.htm",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
       "published_date": "2026-11-24",
       "still_developing": false,
       "cross_ref": "",
@@ -107,91 +46,156 @@
       "is_new": true
     },
     {
-      "id": "6dc0de75c3f5751d",
-      "tier": 2,
+      "id": "4d6d85ce4efb70e2",
+      "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK"
+        "HK",
+        "US"
       ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "港股两连涨：恒生科技指数盘中涨超2%，消费科技季报超预期领涨",
-      "summary": "11月25日港股，主要指数连续第二日上涨：恒生指数涨超1%，恒生科技指数盘中涨超2%，北水净流入超百亿港元。哔哩哔哩（9626.HK）涨约13%，小米（1810.HK）涨逾8%，均受三季报超预期驱动，港股展现出相对美股AI板块的相对韧性。",
-      "why": "港股消费科技季报驱动行情，对配置腾讯、美团、泡泡玛特等港股标的的策略有短期正向参考；但需注意此为盘中数据，收盘方向仍需观察。",
-      "source": "新浪财经港股热点",
-      "verified": false,
+      "time": "08:00",
+      "group": "个股",
+      "title": "美商务部将阿里巴巴新加坡子公司Apex列入实体清单，阿里回应称决定有误",
+      "summary": "美国商务部工业与安全局（BIS）于11月23日将阿里巴巴旗下新加坡子公司Apex Enterprise Solutions列入出口管制实体清单，此次同步列入的共有来自新加坡、马来西亚、泰国的7家实体。这是华盛顿首次对阿里旗下实体采取此类出口管制行动。阿里巴巴回应表示Apex从未转移任何受管制先进计算芯片，将通过法律途径维权。",
+      "why": "美国出口管制首次直接针对阿里旗下实体，对阿里云AI基础设施扩展构成实质阻碍；若持有9988.HK或BABA，需评估监管升级风险对估值的中期影响，同时对整个AI芯片出口限制趋势有政策信号意义。",
+      "source": "澎湃新闻",
+      "verified": true,
       "keywords": [
-        "港股",
-        "恒生科技",
-        "北水",
-        "哔哩哔哩",
-        "小米"
+        "阿里巴巴",
+        "阿里",
+        "Alibaba",
+        "BABA",
+        "9988.HK",
+        "阿里云"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w22l.html",
-      "published_date": "2026-11-25",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34550565",
+      "published_date": "2026-11-24",
       "still_developing": false,
-      "cross_ref": "",
+      "cross_ref": "https://news.futunn.com/post/1005416715",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-25",
       "is_new": true
     },
     {
-      "id": "0504df19a3297950",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "11:00",
-      "group": "大盘头条",
-      "title": "A股：沪指跌0.73%，半导体通信板块受美股拖累回调，中际旭创发布回购方案",
-      "summary": "11月25日A股，受隔夜美股半导体大跌影响，四大指数集体低开：沪指跌0.73%，深成指跌1.45%，创业板指跌2.01%，半导体及通信设备板块回调明显。光模块龙头中际旭创宣布股份回购方案，回购资金总额不低于20亿元且不超过40亿元。",
-      "why": "A股半导体追随外围调整，回购方案属于积极信号但不改板块方向；关注可转债解禁及大股东减持压力对半导体个股走势的影响。",
-      "source": "新浪财经A股热点",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "半导体",
-        "上证指数",
-        "回购",
-        "光模块"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w231.html",
-      "published_date": "2026-11-25",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-25",
-      "is_new": true
-    },
-    {
-      "id": "54e0833886bb9240",
+      "id": "a99b4960d2856fd3",
       "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
-      "time": "09:00",
+      "time": "10:00",
       "group": "大盘头条",
-      "title": "Bitcoin ETFs Log Record 8th Straight Week of Outflows; BTC Around $60K After $55K Low",
-      "summary": "US-listed spot Bitcoin ETFs recorded their eighth consecutive week of net outflows (The Block). BTC fell to approximately $55,000 on November 21—its lowest level since September 2024—before rebounding above $64,500 and slipping back near $60,000 (sources: OKX and CoinGecko, Nov 24). Bitcoin's month-to-date decline from October highs exceeds 20%. Global crypto market cap: ~$2.04T.",
-      "why": "比特币连续八周ETF净流出、跌破年内支撑区间，对Circle(CRCL)的稳定币储备收益存在间接影响，同时加密市场风险情绪收紧。若BTC跌穿$55K年内低点，需关注进一步下行风险。",
-      "source": "The Block",
+      "title": "Fed's Preferred Inflation Gauge PCE Due Tonight; December Rate Hike Odds Elevated",
+      "summary": "October PCE inflation data, the Federal Reserve's preferred price gauge, is scheduled for release at 9:30 p.m. Hong Kong time tonight. Prior to the release, market pricing reflects elevated probability of a 25 basis point rate hike at the December FOMC meeting, per CME FedWatch data. September core PCE came in at 3.1% year-over-year.",
+      "why": "PCE数据直接影响美联储12月议息决策，若通胀持续超预期将进一步推高加息概率，对美股（尤其科技成长股）和港股均构成估值压力；期权方面，高波动环境下sell put需控制仓位。",
+      "source": "富途牛牛",
       "verified": false,
       "keywords": [
-        "Bitcoin",
-        "BTC",
-        "比特币",
-        "加密货币",
-        "ETF outflows",
-        "USDC"
+        "美联储",
+        "macro",
+        "PCE",
+        "宏观",
+        "加息"
       ],
       "translated": false,
-      "url": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow",
-      "published_date": "2026-11-21",
-      "still_developing": true,
+      "url": "https://news.futunn.com/en/post/1005564731/at-9-30-pm-tonight-the-fed-s-preferred-inflation",
+      "published_date": "2026-11-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
+      "is_new": true
+    },
+    {
+      "id": "f0bcfa431362f914",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股收评：科技、半导体、锂电板块重挫，哔哩哔哩因三季报逆势走强",
+      "summary": "11月25日港股午后走弱，科技、半导体、锂电板块领跌，整体市场情绪趋于谨慎，与全球AI科技板块调整同步。腾讯、阿里巴巴、美团等科网龙头均下跌。哔哩哔哩因三季度业绩强劲逆势大幅上涨，早盘一度涨超14%。",
+      "why": "港股科技板块与纳指高度联动，英伟达CEO风波及AI情绪逆转向港股传导；对持仓港股科技标的，隐含波动率升高，可留意sell put行权价的Delta调整。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "科技股",
+        "HK",
+        "internet"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/post/1005591061/hk-stock-market-close-semiconductor-and-lithium-battery-stocks-plunge",
+      "published_date": "2026-11-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
+      "is_new": true
+    },
+    {
+      "id": "d49f5b17ba383339",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "Anthropic IPO后股价大幅回落至发行价附近，AI板块情绪逆转",
+      "summary": "2026年11月19日于纳斯达克上市的Anthropic（代码ANT），上市首日高开后持续回落，截至11月25日已较首日开盘价大幅下跌，逼近甚至跌破83美元发行价。上市初期的高溢价被市场视为AI热情的风向标，当前回调加剧了市场对AI板块高估值的争议。",
+      "why": "Anthropic作为AI独角兽标志性IPO，其持续下跌强化了市场对AI板块高估值风险的担忧，联动影响谷歌Gemini、腾讯元宝等相关AI科技标的情绪；与英伟达CEO风波形成共振，做期权时需关注隐含波动率变化。",
+      "source": "新浪财经热点小时报",
+      "verified": false,
+      "keywords": [
+        "AI芯片",
+        "美股",
+        "科技",
+        "consumer",
+        "technology",
+        "谷歌",
+        "Google"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w2sb.html",
+      "published_date": "2026-11-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
+      "is_new": true
+    },
+    {
+      "id": "544d6b46c103cdbb",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "14:00",
+      "group": "个股",
+      "title": "哔哩哔哩2026年三季报营收利润双增，股价逆市大幅上涨，CEO回应短剧竞争",
+      "summary": "哔哩哔哩（9626.HK）于11月24日发布2026年第三季度业绩，营收利润均实现同比增长，日均活跃用户和月均活跃用户均创历史新高。受业绩超预期提振，港股11月25日早盘股价大幅上涨，早盘一度涨超14%，收盘涨幅收窄。CEO陈睿公开表示B站是AI时代最受益的平台之一，将短剧与B站定位为两个不同赛道，不构成直接竞争。",
+      "why": "B站连续多季盈利且用户规模创新高，逆大盘走强，显示消费科技赛道存在分化机会；对于看好长视频社区平台估值修复的中长期多头，可关注是否有做sell put的机会；短剧竞争担忧淡化利好情绪。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "哔哩哔哩",
+        "B站",
+        "港股",
+        "消费",
+        "科技",
+        "internet"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261125/herald/721ca1f4760f1e0a314140e86f078922.html",
+      "published_date": "2026-11-25",
+      "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-25",
@@ -1474,6 +1478,97 @@
       "is_new": false
     },
     {
+      "id": "9b62f3e54f87c488",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "08:00",
+      "group": "大盘头条",
+      "title": "AI明星股解仓潮：美股纳指跌1.48%，费城半导体指数跌7.88%，英伟达跌近6%",
+      "summary": "11月24日美股，AI交易解仓浪潮延续，纳斯达克指数收跌1.48%至约23,733点，标普500跌0.5%至约7,201点，道指微涨0.85%至约50,019点。费城半导体指数（SOX）重挫7.88%，英伟达（NVDA）跌近6%，AI独角兽Anthropic股价跌破IPO发行价。",
+      "why": "AI板块持续调整，英伟达股价大幅下行令半导体板块隐含波动率进一步升温，对持有英伟达相关仓位及港股半导体标的均有直接冲击，需评估持仓delta风险。",
+      "source": "新浪财经半导体热点小时报",
+      "verified": false,
+      "keywords": [
+        "英伟达",
+        "NVDA",
+        "AI芯片",
+        "费城半导体",
+        "纳指"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w21n.html",
+      "published_date": "2026-11-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
+      "is_new": false
+    },
+    {
+      "id": "f76c1bb476f7dccf",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "市场定价美联储12月再加息25bps：CME FedWatch概率升至约97.4%",
+      "summary": "据CME美联储观察工具（来源：新浪美联储热点2026-11-25 11时），市场定价12月8—9日会议加息25个基点的概率升至约97.4%。当前联邦基金利率目标区间为3.75%至4.00%，加息后预计升至4.00%至4.25%。10年期美债收益率约4.90%，2年期约4.66%。",
+      "why": "加息预期强化是本轮成长股及AI概念股调整的宏观背景；对卖出看跌期权策略而言，更高的无风险利率压缩美股成长估值空间，12月会议前需关注PCE数据及美联储官员表态。",
+      "source": "新浪财经美联储热点",
+      "verified": false,
+      "keywords": [
+        "美联储",
+        "加息",
+        "CME FedWatch",
+        "利率"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w22t.html",
+      "published_date": "2026-11-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
+      "is_new": false
+    },
+    {
+      "id": "b28dfdad3b216e8d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "US"
+      ],
+      "time": "08:30",
+      "group": "个股",
+      "title": "哔哩哔哩三季报超预期：港股涨约13%，日活1.235亿创新高，季度回购2040万股",
+      "summary": "哔哩哔哩（9626.HK/BILI）11月24日披露2026年三季报（SEC 6-K）：总净营收82.0亿元，同比增长8.2%；日活用户1.235亿，同比增长5%；毛利率37.3%，高于上年同期36.7%。结果超出市场预期。公司同期披露已回购并注销2040万股（约4.9%股本），耗资3亿美元。港股11月25日盘中涨约13%。",
+      "why": "哔哩哔哩季报超预期叠加积极回购（已注销股份），对期权策略有利：短期股价大涨使covered call锁利机会出现，同时日活增长趋势印证了用户基础的稳健性。",
+      "source": "SEC EDGAR 6-K（哔哩哔哩官方披露）",
+      "verified": true,
+      "keywords": [
+        "哔哩哔哩",
+        "BILI",
+        "9626.HK",
+        "三季报",
+        "日活",
+        "回购"
+      ],
+      "translated": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001723690/000119312526445313/d175888dex991.htm",
+      "published_date": "2026-11-24",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
+      "is_new": false
+    },
+    {
       "id": "10f7634741492852",
       "tier": 1,
       "lang": "en",
@@ -2573,6 +2668,97 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-24",
+      "is_new": false
+    },
+    {
+      "id": "6dc0de75c3f5751d",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "港股两连涨：恒生科技指数盘中涨超2%，消费科技季报超预期领涨",
+      "summary": "11月25日港股，主要指数连续第二日上涨：恒生指数涨超1%，恒生科技指数盘中涨超2%，北水净流入超百亿港元。哔哩哔哩（9626.HK）涨约13%，小米（1810.HK）涨逾8%，均受三季报超预期驱动，港股展现出相对美股AI板块的相对韧性。",
+      "why": "港股消费科技季报驱动行情，对配置腾讯、美团、泡泡玛特等港股标的的策略有短期正向参考；但需注意此为盘中数据，收盘方向仍需观察。",
+      "source": "新浪财经港股热点",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "恒生科技",
+        "北水",
+        "哔哩哔哩",
+        "小米"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w22l.html",
+      "published_date": "2026-11-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
+      "is_new": false
+    },
+    {
+      "id": "0504df19a3297950",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "11:00",
+      "group": "大盘头条",
+      "title": "A股：沪指跌0.73%，半导体通信板块受美股拖累回调，中际旭创发布回购方案",
+      "summary": "11月25日A股，受隔夜美股半导体大跌影响，四大指数集体低开：沪指跌0.73%，深成指跌1.45%，创业板指跌2.01%，半导体及通信设备板块回调明显。光模块龙头中际旭创宣布股份回购方案，回购资金总额不低于20亿元且不超过40亿元。",
+      "why": "A股半导体追随外围调整，回购方案属于积极信号但不改板块方向；关注可转债解禁及大股东减持压力对半导体个股走势的影响。",
+      "source": "新浪财经A股热点",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "半导体",
+        "上证指数",
+        "回购",
+        "光模块"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w231.html",
+      "published_date": "2026-11-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
+      "is_new": false
+    },
+    {
+      "id": "54e0833886bb9240",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "09:00",
+      "group": "大盘头条",
+      "title": "Bitcoin ETFs Log Record 8th Straight Week of Outflows; BTC Around $60K After $55K Low",
+      "summary": "US-listed spot Bitcoin ETFs recorded their eighth consecutive week of net outflows (The Block). BTC fell to approximately $55,000 on November 21—its lowest level since September 2024—before rebounding above $64,500 and slipping back near $60,000 (sources: OKX and CoinGecko, Nov 24). Bitcoin's month-to-date decline from October highs exceeds 20%. Global crypto market cap: ~$2.04T.",
+      "why": "比特币连续八周ETF净流出、跌破年内支撑区间，对Circle(CRCL)的稳定币储备收益存在间接影响，同时加密市场风险情绪收紧。若BTC跌穿$55K年内低点，需关注进一步下行风险。",
+      "source": "The Block",
+      "verified": false,
+      "keywords": [
+        "Bitcoin",
+        "BTC",
+        "比特币",
+        "加密货币",
+        "ETF outflows",
+        "USDC"
+      ],
+      "translated": false,
+      "url": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow",
+      "published_date": "2026-11-21",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
       "is_new": false
     },
     {
