@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-24 18:17 (北京时间)",
+  "updated_at": "2026-11-25 08:18 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,380 +9,139 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-24 18:17 (北京时间)",
-    "new_count": 3,
+    "at": "2026-11-25 08:18 (北京时间)",
+    "new_count": 4,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "ed8d9d8cb9eaf55b",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股今日逆势收跌，恒生科技指数承压，AI芯片出口管制持续拖累中国科技股",
-      "summary": "全球AI交易在英伟达CEO回归带动下全线反弹，但港股今日逆势下跌，恒生科技指数跌约1.2%。阿里巴巴、腾讯、美团等中国科技股均下行。美国商务部AI芯片出口管制规则（11月19日生效，限制中国企业通过海外数据中心远程访问算力）持续压制中国科技股估值，港股走势与全球AI反弹背离。",
-      "why": "持有港股中国科技标的（腾讯/阿里/美团）需关注：美国对华芯片管制导致港股与全球AI反弹背道而驰，科技股估值持续承压。卖出期权策略需注意恒生科技标的波动率可能继续走高，行权价评估需考虑芯片管制长期压力。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "恒生科技",
-        "AI芯片",
-        "出口管制",
-        "中国科技",
-        "BIS"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vzv9.html",
-      "published_date": "2026-11-24",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-24",
-      "is_new": true
-    },
-    {
-      "id": "77bf1b8216c17e9c",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "A"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "A股今日高开，创业板高开约3.9%，算力硬件与半导体领涨，午后涨幅收窄",
-      "summary": "受英伟达CEO回归全球AI反弹带动，A股今日三大指数集体高开，创业板指高开约3.9%，算力硬件、半导体芯片板块领涨。午后涨幅收窄，沪指收涨约0.2%，创业板指收涨约0.65%。A股走势强于港股，主要因国内AI算力赛道受益情绪回暖。当日大盘头条以英伟达和港股AI管制两条主线为主，A股头条偏少。",
-      "why": "A股算力与半导体板块受益英伟达利好，本组合中A股相关标的（如SK海力士、美光等存储/HBM相关）可能受正向联动。午后获利回吐说明情绪面驱动为主，基本面支撑尚需观察。",
-      "source": "新浪财经",
-      "verified": false,
-      "keywords": [
-        "A股",
-        "创业板",
-        "算力",
-        "半导体",
-        "AI",
-        "英伟达",
-        "人工智能"
-      ],
-      "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vz6w.html",
-      "published_date": "2026-11-24",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-24",
-      "is_new": true
-    },
-    {
-      "id": "de4d9c7aeb1ffb9f",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "腾讯Q3业绩后多家券商大幅下调目标价：花旗755→629港元，高盛650→610港元",
-      "summary": "腾讯Q3财报（11月18日发布）公布后，多家大行于11月19日下调目标价：花旗由755港元下调至629港元（维持买入），认为第三季收入偏软；高盛由650港元下调至610港元，预计2027年为每股盈利低谷；里昂、大华继显、中金等多家机构同步下调。Q3 Non-IFRS净利跌约6%，AI开支拖累约152亿元经营利润，云收入同比增35%。",
-      "why": "延续报道：11月19日紧随Q3财报的机构评级集体下调仍在影响股价。今日（11月24日）腾讯股价再度承压。多家机构将2027年列为EPS低谷——对持有腾讯期权（sell put）策略：行权价设置需考虑2027年盈利低谷的风险，建议保守评估下行空间；隐含波动率可能持续偏高，对covered call策略有利。",
-      "source": "格隆汇",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "00700",
-        "0700.HK",
-        "目标价",
-        "花旗",
-        "高盛",
-        "Q3",
-        "AI投资"
-      ],
-      "translated": false,
-      "url": "https://m.gelonghui.com/live/2769488",
-      "published_date": "2026-11-19",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-24",
-      "is_new": true
-    },
-    {
-      "id": "3c87341ba4da5424",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "港股11月17日收盘：恒指跌1.03%报23508点，芯片股逆势大涨，科网股及AI应用股全线走弱",
-      "summary": "恒生指数收报23508.17点，跌1.03%（-245.67点），全日成交1980亿港元；恒生科技指数收报3758.17点，跌1.14%；国企指数收报7904.37点，跌0.97%。A股方面，上证指数跌0.50%至3584.58点，创业板指跌逾1%。科网股（阿里、百度、哔哩哔哩）下跌；本土芯片股（壁仞科技+8%、华虹宏力+8%、中芯国际+6%）受「去美化」预期提振逆势走强；MINIMAX等AI应用股跌幅超7%。",
-      "why": "AI芯片出口管制新规叠加英伟达管理层变局，压制科网板块；国内半导体龙头因「卡脖子」替代预期受益——对持有港股科网的仓位是压力，对中芯国际、华虹方向为正面支撑。期权持仓可关注恒生科技VIX水平变化。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "恒生科技指数",
-        "港股",
-        "A股",
-        "芯片股"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261117/herald/10ab98bcd3e123dd4bfe2c9844d9968f.html",
-      "published_date": "2026-11-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "727f80a5971510a9",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "格隆汇11.17早报：美股今日AI板块全线承压，纳斯达克跌逾2%，英伟达季报盘后见分晓",
-      "summary": "美国市场受新一轮AI芯片出口管制规定冲击，科技股连续第三日下跌，纳斯达克综合指数跌逾2%，标普500指数跌约1.9%，英伟达相关个股领跌。欧洲STOXX 600跌约0.7%，日经225指数收跌约1.3%。市场目光集中在英伟达盘后Q3季报及Q4指引。",
-      "why": "AI芯片管制+英伟达管理层变局共同引发全球AI trade调整，重点观察英伟达Q4指引能否恢复市场信心；若季报强劲，有望带动港股科网板块明日反弹，届时sell put策略可关注short-dated期权机会。",
-      "source": "格隆汇",
-      "verified": false,
-      "keywords": [
-        "纳斯达克",
-        "美股",
-        "AI芯片",
-        "英伟达",
-        "全球市场"
-      ],
-      "translated": false,
-      "url": "https://m.gelonghui.com/live/2753840",
-      "published_date": "2026-11-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "9eb817477a1f8e7f",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "08:00",
-      "group": "大盘头条",
-      "title": "美联储官员密集释放鹰派信号，12月加息预期大幅升温",
-      "summary": "多位美联储官员本周集体表态偏鹰：克利夫兰联储主席哈马克倾向小幅渐进式加息，达拉斯联储主席洛根认为至少还需加息两次。美联储主席沃什（Kevin Warsh）11月16日出席旧金山AI会议，表示「正处于经济转折点」，但未给出即时利率结论。当前联邦基金目标利率区间维持3.75%-4%，市场普遍预期12月会议加息。",
-      "why": "美联储持续鹰派信号意味着12月加息概率极高；对港股/A股估值有系统性压力；期权策略方面卖出期权隐含波动率有所上升，需防范利率意外变化对Delta的影响。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "加息",
-        "Kevin Warsh",
-        "利率",
-        "货币政策"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261116/herald/cca927a26f4fed6caa21035c3040bda4.html",
-      "published_date": "2026-11-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "857ef7e49678c244",
+      "id": "10f7634741492852",
       "tier": 1,
       "lang": "en",
       "markets": [
+        "HK",
         "US"
       ],
       "time": "08:30",
       "group": "大盘头条",
-      "title": "Nasdaq Falls Over 2% for Third Straight Loss; Nvidia Q3 FY2027 Earnings Due After Close Today",
-      "summary": "US equities fell for a third consecutive session on Monday, Nov. 16, with the Nasdaq dropping over 2% and the S&P 500 declining nearly 2%, dragged by Nvidia and AI-related names. The VIX volatility index surged sharply to around 24. All eyes turn to Nvidia's Q3 FY2027 results due after Tuesday's close, with consensus revenue guidance around $108 billion — a key validation moment for the AI infrastructure trade.",
-      "why": "三连跌且VIX跳升至24，隐含波动率高企，对港股/美股多头有压力；英伟达今日盘后公布Q3业绩，或引发AI板块剧烈波动，对short-put策略需特别关注gamma风险。",
+      "title": "U.S. adds Alibaba subsidiary Apex and Megaspeed to export blacklist amid Nvidia chip diversion probe",
+      "summary": "美国商务部11月23日将阿里巴巴新加坡子公司Apex Enterprise Solutions及Megaspeed多家关联公司列入实体清单，涉嫌将英伟达AI芯片违规转口中国。阿里巴巴称此举'错误'并将寻求法律救济；事件拖累恒生指数11月24日收跌0.73%至22,219点，阿里巴巴港股跌约0.5%，ADR盘前跌约2.2%。Susquehanna将BABA目标价从$190下调至$145。",
+      "why": "阿里巴巴持仓直接受损：子公司被列实体清单令美国出口受限；叠加Nvidia关联丑闻背景，分析师大幅下调目标价；BABA今年已累跌约41%，sell put策略须重新评估行权价风险。",
       "source": "CNBC",
-      "verified": false,
+      "verified": true,
       "keywords": [
-        "Nasdaq",
-        "S&P500",
-        "Nvidia",
-        "VIX",
-        "AI",
-        "earnings"
+        "阿里巴巴",
+        "Alibaba",
+        "entity list",
+        "Megaspeed",
+        "export controls",
+        "AI芯片",
+        "恒生指数"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
-      "published_date": "2026-11-16",
+      "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+      "published_date": "2026-11-24",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
+      "first_seen": "2026-11-25",
+      "is_new": true
     },
     {
-      "id": "f86f6a94dd700e35",
+      "id": "08b5f2cbd1fd3fba",
       "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "17:00",
+      "group": "大盘头条",
+      "title": "美股11月24日：道指涨0.85%重返50000点，纳指跌1.48%，AI芯片板块市值蒸发逾1万亿美元",
+      "summary": "美股11月24日（周二）收盘：道指涨423点（+0.85%）至50,018.70，自11月18日跌破5万后首度收复该关口；纳指跌约1.48%至23,734。英伟达-5.86%、AMD约-9%、美光约-11%领跌，半导体指数单日跌7.9%，AI板块合计蒸发逾1万亿美元市值。",
+      "why": "英伟达、美光均为持仓标的，单日跌幅超预期，系Jensen Huang复职隔日的技术性回调；道指重返50k提振人气，但纳指AI持仓须关注隐含波动率变化，covered call机会或提前出现。",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "道琼斯",
+        "纳斯达克",
+        "英伟达",
+        "美光",
+        "AMD",
+        "AI芯片",
+        "半导体"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "published_date": "2026-11-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
+      "is_new": true
+    },
+    {
+      "id": "5fb50103467f0543",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "00:00",
+      "group": "大盘头条",
+      "title": "美国10月PCE通胀今日（11月25日）公布：市场预期升至3.8%，12月美联储加息预期高企",
+      "summary": "美国经济分析局定于11月25日北京时间21:30公布10月PCE通胀数据。市场预期整体PCE同比升至3.8%（前值3.6%），核心PCE同比升至3.2%（前值3.1%）。这是美联储12月9日议息会议前最后一项重大通胀数据，市场已几乎全部押注再加息25bp。美联储现任主席为Kevin Warsh，当前联邦基金利率目标区间为3.75%-4.00%（10月28日10:2维持不变）。",
+      "why": "PCE若超预期将进一步推升12月加息预期，压制成长股估值；sell put策略须关注PCE公布后的波动率冲击，建议在数据公布前评估delta敞口。",
+      "source": "东方财富",
+      "verified": false,
+      "keywords": [
+        "PCE",
+        "通胀",
+        "美联储",
+        "Kevin Warsh",
+        "加息",
+        "12月FOMC"
+      ],
+      "translated": false,
+      "url": "https://finance.eastmoney.com/a/202611233937031883.html",
+      "published_date": "2026-11-23",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-25",
+      "is_new": true
+    },
+    {
+      "id": "e058123b44b054c4",
+      "tier": 2,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "12:00",
+      "time": "20:00",
       "group": "个股",
-      "title": "腾讯控股（00700.HK）今日盘中跌超3%，明日（11月18日）公布Q3 2026业绩",
-      "summary": "腾讯控股11月17日盘中跌超3%，报约379港元。公司将于11月18日举行董事会会议审批三季度业绩。市场预期Q3收入约2102亿元人民币（同比约增9%），但因AI方向资本支出大幅增加（分析师预计同比大增），利润预期偏谨慎。大摩维持增持评级。",
-      "why": "腾讯明日披露季报是本周港股最大催化剂；若业绩好于预期可能大幅反弹；若AI资本支出超预期，可能继续承压；期权策略方面，明日业绩前后不宜新开卖出期权，建议静观业绩后再决策。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "腾讯",
-        "0700.HK",
-        "业绩",
-        "AI",
-        "资本支出",
-        "三季报"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/post/1004687348/hk-stocks-in-motion-tencent-00700-falls-over-3-again",
-      "published_date": "2026-11-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "334c364ca76c7922",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "A"
-      ],
-      "time": "19:00",
-      "group": "大盘头条",
-      "title": "美股Nasdaq周一跌2.5%、A股科创50跌逾5%，AI板块全线承压",
-      "summary": "受英伟达CEO换帅后AI叙事不确定性冲击，周一美股大跌：Nasdaq收跌2.5%，标普500跌1.9%，道指跌1.4%，费城半导体指数跌3.43%。A股同步走弱，科创50跌逾5%，创业板指跌4.37%，沪指跌0.87%，科创资产领跌，宽基ETF尾盘放量护盘。",
-      "why": "全面回调提升持仓个股波动率，AI赛道个股Beta系统性下移；sell put策略需评估行权价缓冲是否充足，大盘恐慌情绪或推高隐含波动率，提供阶段性卖出期权机会。",
-      "source": "新浪财经",
+      "title": "小米Q3单季营收1072亿元同比降5.2%，经调整净利润骤降56.8%至48.84亿元",
+      "summary": "小米集团（01810.HK）2026年三季报（11月24日发布）：营收1072.39亿元，同比下降5.2%；经调整净利润48.84亿元，同比大幅下滑56.8%。智能手机出货3070万台，均价1486元创历史新高。汽车及AI创新业务季度经营亏损约34亿元，新车交付约10.1万辆（同比约-7%）。SkyNomad首月锁单逾7万辆，公司宣布计划于2027年进入德国等欧洲市场。",
+      "why": "小米为持仓标的，利润骤降56.8%将短期压制估值；但手机ASP创历史新高、SkyNomad锁单超7万及欧洲计划显示长期成长性；当前下跌或提供sell put进场机会，建议关注欧洲市场进入的具体时间表。",
+      "source": "澎湃新闻",
       "verified": true,
       "keywords": [
-        "Nasdaq",
-        "科创50",
-        "AI芯片",
-        "英伟达",
-        "市场大跌"
+        "小米",
+        "Xiaomi",
+        "1810.HK",
+        "三季报",
+        "小米汽车",
+        "SkyNomad",
+        "欧洲"
       ],
       "translated": false,
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908v2e2e.html",
-      "published_date": "2026-11-16",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34548469",
+      "published_date": "2026-11-24",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "215fee83fb154762",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Nvidia Q3 FY2027 Earnings Due After Close Today; Consensus Revenue ~$108.85B, First Report Under Interim CEO",
-      "summary": "Nvidia reports fiscal Q3 2027 results (Aug-Oct 2026) after US market close today, with analyst consensus at $108.85B revenue and EPS of $2.47. This marks the first earnings report since Jensen Huang's Nov. 12 resignation; interim CEO Colette Kress will host the call. Guidance and AI infrastructure demand commentary will be critical for near-term market direction across AI/chip names.",
-      "why": "今日财报是本周最高风险事件，英伟达指引将定调AI硬件需求叙事；管理层换届背景下市场对战略一致性有疑虑，波动率偏高，财报后隐含波动率回落可能是sell put窗口；关注Blackwell出货、中国出口限制影响及2027年数据中心资本支出指引。",
-      "source": "MarketBeat",
-      "verified": false,
-      "keywords": [
-        "英伟达",
-        "NVDA",
-        "Blackwell",
-        "数据中心",
-        "AI芯片"
-      ],
-      "translated": false,
-      "url": "https://www.marketbeat.com/earnings/reports/2026-11-17-nvidia-co-stock/",
-      "published_date": "2026-11-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "92c77f149babfa99",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Nvidia Board Rules Out Jensen Huang Return; Permanent CEO Search Continues With CFO Kress as Interim",
-      "summary": "Nvidia's board confirmed it is not in discussions to bring back Jensen Huang as CEO, per CNBC. CFO Colette Kress leads the company as interim CEO while the board evaluates internal and external candidates. Huang resigned Nov. 12 following a board investigation tied to an affair with an individual alleged to have contact with Chinese intelligence; Congress has also called Huang to testify.",
-      "why": "延续报道：英伟达CEO辞任续集。董事会排除回归选项表明权力过渡是确定性事件，但永久CEO人选不明确性是长期估值折价来源；今日三季报电话会将是首次在无创始人情况下的业绩指引，对AI策略叙事尤为关键，影响持仓的期权定价中枢。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "英伟达",
-        "NVDA",
-        "黄仁勋",
-        "CEO换帅"
-      ],
-      "translated": false,
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-      "published_date": "2026-11-16",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "c602c2c10bcf4e13",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Anthropic IPO Prices Tomorrow on Nasdaq; $70-78/Share Range, Valuation ~$1.4 Trillion, 6x Oversubscribed",
-      "summary": "Anthropic (ticker: ANT) is set to price its Nasdaq IPO on November 18 and begin trading November 19. The offering of 825 million shares targets $70-78 each, implying a valuation of approximately $1.4 trillion. The book is reportedly 6x oversubscribed. Bloomberg had earlier cited potential for $1.5T+ valuation. The IPO comes against the backdrop of AI market volatility caused by the Nvidia CEO departure.",
-      "why": "Anthropic上市将为AI平台公司提供新的公开市场估值锚点；若定价高于预期，对AI赛道（谷歌、阿里云、腾讯AI业务）构成情绪催化；若市场因英伟达事件情绪低迷而压低定价，则反过来抑制AI溢价估值逻辑，密切关注明日定价区间。",
-      "source": "Yahoo Finance",
-      "verified": false,
-      "keywords": [
-        "Anthropic",
-        "AI",
-        "IPO"
-      ],
-      "translated": false,
-      "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html",
-      "published_date": "2026-11-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
+      "first_seen": "2026-11-25",
+      "is_new": true
     },
     {
       "id": "6d0c63fb754b9fe7",
@@ -1566,6 +1325,38 @@
       "is_new": false
     },
     {
+      "id": "ed8d9d8cb9eaf55b",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股今日逆势收跌，恒生科技指数承压，AI芯片出口管制持续拖累中国科技股",
+      "summary": "全球AI交易在英伟达CEO回归带动下全线反弹，但港股今日逆势下跌，恒生科技指数跌约1.2%。阿里巴巴、腾讯、美团等中国科技股均下行。美国商务部AI芯片出口管制规则（11月19日生效，限制中国企业通过海外数据中心远程访问算力）持续压制中国科技股估值，港股走势与全球AI反弹背离。",
+      "why": "持有港股中国科技标的（腾讯/阿里/美团）需关注：美国对华芯片管制导致港股与全球AI反弹背道而驰，科技股估值持续承压。卖出期权策略需注意恒生科技标的波动率可能继续走高，行权价评估需考虑芯片管制长期压力。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "恒生指数",
+        "恒生科技",
+        "AI芯片",
+        "出口管制",
+        "中国科技",
+        "BIS"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vzv9.html",
+      "published_date": "2026-11-24",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-24",
+      "is_new": false
+    },
+    {
       "id": "6ccbc92fa0de14f6",
       "tier": 1,
       "lang": "zh",
@@ -1626,190 +1417,6 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-24",
-      "is_new": false
-    },
-    {
-      "id": "c5a822d1c867ea65",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "08:30",
-      "group": "个股",
-      "title": "PDD Holdings Q3 Earnings Preview: Results Due Nov. 19 Pre-Market; Revenue Growth Expected to Slow to ~7%, EPS May Fall ~10%",
-      "summary": "PDD Holdings (Temu parent) is set to release Q3 2026 results before U.S. markets open on Thursday, Nov. 19. Analysts estimate revenue of approximately RMB 115.5 billion, up roughly 6.7% year-over-year — a marked deceleration from earlier quarters — while earnings per share are expected to decline about 10% year-over-year. The quarter-end cash position was $67.3 billion as of Q2.",
-      "why": "拼多多季报在即，收入增速显著放缓、利润承压，注意11月19日前Theta消耗与implied波动率变动；与阿里巴巴（同日发布）同步构成中概双重业绩风险窗口。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "拼多多",
-        "PDD",
-        "Temu",
-        "季报",
-        "跨境电商"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/1004680733/chart-preview-pdd-holdings-to-report-before-market-open-on",
-      "published_date": "2026-11-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "65f10ccc48679ce4",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "PBOC Withdraws Medium-Term Funds in Warning Sign to Easing Bets; Yuan Near Multi-Year High",
-      "summary": "China's central bank drained liquidity via its medium-term lending facility (MLF) for the first time in five months on Nov. 16, signaling caution to traders betting on easing. The PBOC's Q3 monetary policy report had already dropped language about additional stimulus measures. Separately, the bank raised the forex deposit reserve requirement ratio by 2 percentage points to 6% (effective Nov. 15), amid yuan appreciation pressure — the yuan recently strengthened to around 6.65 per dollar, its strongest since mid-2022.",
-      "why": "人民币升值+PBOC流动性收紧信号，意味着年底前进一步降息/降准预期下降；若港元联系汇率受益，对港股估值有边际支撑；但人民币强势背景下，出口型企业盈利预期存在不确定性。",
-      "source": "Bloomberg",
-      "verified": true,
-      "keywords": [
-        "PBOC",
-        "人民币",
-        "央行",
-        "MLF",
-        "流动性"
-      ],
-      "translated": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/pboc-withdraws-medium-term-funds-in-warning-sign-to-easing-bets",
-      "published_date": "2026-11-16",
-      "still_developing": false,
-      "cross_ref": "https://www.scmp.com/economy/china-economy/article/3374160/china-signals-focus-shift-policy-delivery-pboc-drops-stimulus-language",
-      "_url_check": "主源 bloomberg.com 不可机检，cross_ref URLError",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "4123995119bf9bc8",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "大盘头条",
-      "title": "港股午评：恒指跌约0.77%，芯片股逆势活跃，北水净流入约21亿港元",
-      "summary": "11月17日港股半日，恒生指数跌约0.77%至约23571点，恒生科技指数跌约0.46%。科网股及AI应用板块普遍承压，芯片股（包括中芯国际涨近9%）逆势走强。北水净流入约21亿港元，终止连续流出。背景：隔夜美股费城半导体指数跌5%，纳指已连跌三日。",
-      "why": "港股今日跟随美股AI拖累整体走低，但北水续流入显示内资仍有逢低买入意愿；期权策略方面今日隐含波动率上升，卖出期权的时间价值受益；中芯国际大涨对国内半导体板块有提振作用。",
-      "source": "富途牛牛",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "恒生指数",
-        "芯片",
-        "北水",
-        "恒生科技"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/en/post/1004666093/jinshi-data-global-financial-morning-brief-november-17-2026",
-      "published_date": "2026-11-17",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "8bf0496acb85c4a3",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A",
-        "US"
-      ],
-      "time": "09:30",
-      "group": "大盘头条",
-      "title": "APEC深圳峰会明日（11月18-19日）开幕，12位经济体领导人出席工商领导人峰会",
-      "summary": "亚太经合组织第三十三次领导人非正式会议将于11月18-19日在深圳举行，主题「建设亚太共同体，促进共同繁荣」。习近平将出席工商领导人峰会开幕式并发表主旨演讲，届时多个APEC经济体领导人出席。115家世界500强企业代表参会，147家深圳企业亮相。《2026年APEC工商领导人峰会深圳倡议》将在峰会期间发布。中美双方此前已同步调整关税及经贸措施，分析人士认为峰会背景下存在中美领导人进一步会晤可能。",
-      "why": "APEC深圳峰会是年内最重要的多边经济外交事件；若中美领导人会晤并传出积极经贸信号，将显著提振港股/A股情绪，科技消费板块受益最为直接；期权策略方面，峰会前后不确定性上升，可考虑持仓对冲。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "APEC",
-        "深圳",
-        "中美关系",
-        "贸易",
-        "峰会"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261114/herald/78592e7213f08b9d8a724ed922c63871.html",
-      "published_date": "2026-11-14",
-      "still_developing": true,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "6d66b103454873c1",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "阿里发布Qwen4-Max，2.4T参数支持百万上下文，API单任务费用降逾六成",
-      "summary": "阿里巴巴于11月16日正式发布Qwen4-Max，总参数2.4T、激活参数71B，支持百万级上下文，具备原生视觉能力。在Terminal-Bench 4.0编程评测中，单任务平均费用较上一代降低58%，Token用量从289K降至151K。模型已上线阿里云API，编程领域全球盲测排名第六，小尺寸版本将陆续开源。",
-      "why": "Qwen4-Max发布强化阿里在中国大模型竞争格局中的地位，低成本API策略有望带动阿里云收入增长；叠加平头哥HK独立上市预期（市传2027年、募资$20-30亿），构成9988.HK/BABA估值修复逻辑的双重催化。",
-      "source": "21世纪经济报道",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "BABA",
-        "9988.HK",
-        "阿里云",
-        "通义千问"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261116/herald/2639a61512ac3f30c68beb39f22eeeea.html",
-      "published_date": "2026-11-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
-      "is_new": false
-    },
-    {
-      "id": "9e824cd1b95d4490",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "个股",
-      "title": "Nvidia Cuts Intel Stake by ~54M Shares; Intel Drops ~3.6% on Disclosure",
-      "summary": "Nvidia disclosed a reduction in its Intel holdings from approximately 214.8 million to 161.1 million shares (~25% cut), likely via its Q3 2026 13F filing. Intel shares dropped approximately 3.6% on Monday following the disclosure, adding to pressure from an extended post-earnings decline. Nvidia originally acquired its ~$5 billion Intel stake in September 2025 as part of a chip co-development deal.",
-      "why": "英伟达减持英特尔是合作信心下降的信号；若今日三季报指引显示自研或竞争性架构倾向加剧，可能进一步压制INTC。对英特尔仓位需关注下行风险，代工战略与AI芯片路线的不确定性叠加管理层压力仍是折价来源。",
-      "source": "GuruFocus",
-      "verified": false,
-      "keywords": [
-        "英特尔",
-        "Intel",
-        "INTC",
-        "英伟达",
-        "NVDA"
-      ],
-      "translated": false,
-      "url": "https://gurufocus.com/news/9202919/nvidia-reduces-intel-holdings-impacting-stock-intc",
-      "published_date": "2026-11-16",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-17",
       "is_new": false
     },
     {
@@ -2721,6 +2328,71 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-23",
+      "is_new": false
+    },
+    {
+      "id": "77bf1b8216c17e9c",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "09:30",
+      "group": "大盘头条",
+      "title": "A股今日高开，创业板高开约3.9%，算力硬件与半导体领涨，午后涨幅收窄",
+      "summary": "受英伟达CEO回归全球AI反弹带动，A股今日三大指数集体高开，创业板指高开约3.9%，算力硬件、半导体芯片板块领涨。午后涨幅收窄，沪指收涨约0.2%，创业板指收涨约0.65%。A股走势强于港股，主要因国内AI算力赛道受益情绪回暖。当日大盘头条以英伟达和港股AI管制两条主线为主，A股头条偏少。",
+      "why": "A股算力与半导体板块受益英伟达利好，本组合中A股相关标的（如SK海力士、美光等存储/HBM相关）可能受正向联动。午后获利回吐说明情绪面驱动为主，基本面支撑尚需观察。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "A股",
+        "创业板",
+        "算力",
+        "半导体",
+        "AI",
+        "英伟达",
+        "人工智能"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vz6w.html",
+      "published_date": "2026-11-24",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-24",
+      "is_new": false
+    },
+    {
+      "id": "de4d9c7aeb1ffb9f",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "09:30",
+      "group": "个股",
+      "title": "腾讯Q3业绩后多家券商大幅下调目标价：花旗755→629港元，高盛650→610港元",
+      "summary": "腾讯Q3财报（11月18日发布）公布后，多家大行于11月19日下调目标价：花旗由755港元下调至629港元（维持买入），认为第三季收入偏软；高盛由650港元下调至610港元，预计2027年为每股盈利低谷；里昂、大华继显、中金等多家机构同步下调。Q3 Non-IFRS净利跌约6%，AI开支拖累约152亿元经营利润，云收入同比增35%。",
+      "why": "延续报道：11月19日紧随Q3财报的机构评级集体下调仍在影响股价。今日（11月24日）腾讯股价再度承压。多家机构将2027年列为EPS低谷——对持有腾讯期权（sell put）策略：行权价设置需考虑2027年盈利低谷的风险，建议保守评估下行空间；隐含波动率可能持续偏高，对covered call策略有利。",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "腾讯",
+        "00700",
+        "0700.HK",
+        "目标价",
+        "花旗",
+        "高盛",
+        "Q3",
+        "AI投资"
+      ],
+      "translated": false,
+      "url": "https://m.gelonghui.com/live/2769488",
+      "published_date": "2026-11-19",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-24",
       "is_new": false
     },
     {
