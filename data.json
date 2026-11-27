@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-27 08:26 (北京时间)",
+  "updated_at": "2026-11-27 13:14 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,141 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-27 08:26 (北京时间)",
-    "new_count": 4,
+    "at": "2026-11-27 13:14 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "1e67f5e53bf4997b",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "08:26",
-      "group": "大盘头条",
-      "title": "Trump Expands Section 301 Tariffs on 14 Trading Partners, Rattling Global Markets",
-      "summary": "The Trump administration announced Section 301 tariff expansion targeting 14 trading partners, escalating trade tensions ahead of the year-end. The measures raise import costs across consumer goods and technology products, directly threatening Chinese cross-border e-commerce platforms (Temu/PDD, Alibaba) and pressuring risk assets globally.",
-      "why": "宏观：Section 301条款关税直接压制中概股与港股，尤其是拼多多/Temu、阿里跨境业务；叠加年底美联储加息预期，对科技股估值构成双重压力；关税范围扩大至14个贸易伙伴意味着供应链成本全面上升，不利于消费板块。",
-      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-      "source": "CNBC",
-      "verified": false,
-      "keywords": [
-        "关税",
-        "贸易战",
-        "Section 301",
-        "拼多多",
-        "Temu",
-        "阿里巴巴",
-        "宏观"
-      ],
-      "published_date": "2026-11-25",
-      "still_developing": false,
-      "cross_ref": "",
-      "translated": false,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-27",
-      "is_new": true
-    },
-    {
-      "id": "430df44b1fb2fdcd",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "08:26",
-      "group": "大盘头条",
-      "title": "金银遭遇深度回调，贵金属板块普遍承压",
-      "summary": "11月27日，受美元走强及特朗普关税预期影响，金银大幅回调，贵金属板块整体承压。黄金期货跌幅显著，直接影响港股贵金属概念股走势，老铺黄金(6181.HK)等相关标的面临较大估值压力。",
-      "why": "直接影响老铺黄金(6181.HK)等贵金属概念股估值；金价急跌是大宗商品情绪风向标，对港股资源及消费升级板块均构成压力；关注金价技术支撑位是否有效",
-      "url": "https://www.21jingji.com/article/20261127/be29a1be05f952eecc62a6c5e741eec9.html",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "黄金",
-        "金价",
-        "贵金属",
-        "老铺黄金",
-        "大宗商品"
-      ],
-      "published_date": "2026-11-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "translated": false,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-27",
-      "is_new": true
-    },
-    {
-      "id": "279e54a15b67bfd2",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK",
-        "A"
-      ],
-      "time": "08:26",
-      "group": "大盘头条",
-      "title": "港A股市11月26日整体反弹，主要指数收复部分失地",
-      "summary": "11月26日，港股与A股市场整体回暖，主要指数小幅反弹，逢低买入情绪推动短线修复。但市场仍面临特朗普关税压力及美联储12月加息预期等中期不利因素，反弹持续性存疑。",
-      "why": "反映短期市场情绪改善，但关税与货币政策不确定性未消；对港股科技股及消费股的Sell Put策略而言，反弹提供了评估仓位的窗口，建议结合期权隐含波动率判断短线风险",
-      "url": "https://21jingji.com/article/20261126/herald/67a0a502099d2423f3744acf97b8dc40.html",
-      "source": "21世纪经济报道",
-      "verified": false,
-      "keywords": [
-        "港股",
-        "A股",
-        "恒生指数",
-        "市场行情",
-        "宏观"
-      ],
-      "published_date": "2026-11-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "translated": false,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-27",
-      "is_new": true
-    },
-    {
-      "id": "5688c8032bd5017b",
-      "tier": 3,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "08:26",
-      "group": "大盘头条",
-      "title": "格隆汇11.26盘前：感恩节周美市流动性偏低，港A美股多重宏观压力并存",
-      "summary": "格隆汇11月26日盘前要点梳理港股、A股及美股投资者需关注的重大事件。美国感恩节（11月27日）导致美股交投清淡，市场核心关注特朗普301条款关税冲击、美联储12月加息预期及大宗商品（黄金）大幅回调带来的结构性压力。",
-      "why": "市场节奏：感恩节后进入年底流动性最弱时段，低流动性环境下宏观冲击可能放大价格波动；关税与加息双重压力持续，期权隐含波动率定价需动态调整",
-      "url": "https://m.gelonghui.com/p/3265415",
-      "source": "格隆汇",
-      "verified": false,
-      "keywords": [
-        "宏观",
-        "感恩节",
-        "港股",
-        "A股",
-        "美股",
-        "市场行情"
-      ],
-      "published_date": "2026-11-26",
-      "still_developing": false,
-      "cross_ref": "",
-      "translated": false,
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-27",
-      "is_new": true
-    },
     {
       "id": "dbea10a75a84833c",
       "tier": 1,
@@ -1625,6 +1496,40 @@
       "is_new": false
     },
     {
+      "id": "1e67f5e53bf4997b",
+      "tier": 1,
+      "lang": "en",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:26",
+      "group": "大盘头条",
+      "title": "Trump Expands Section 301 Tariffs on 14 Trading Partners, Rattling Global Markets",
+      "summary": "The Trump administration announced Section 301 tariff expansion targeting 14 trading partners, escalating trade tensions ahead of the year-end. The measures raise import costs across consumer goods and technology products, directly threatening Chinese cross-border e-commerce platforms (Temu/PDD, Alibaba) and pressuring risk assets globally.",
+      "why": "宏观：Section 301条款关税直接压制中概股与港股，尤其是拼多多/Temu、阿里跨境业务；叠加年底美联储加息预期，对科技股估值构成双重压力；关税范围扩大至14个贸易伙伴意味着供应链成本全面上升，不利于消费板块。",
+      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+      "source": "CNBC",
+      "verified": false,
+      "keywords": [
+        "关税",
+        "贸易战",
+        "Section 301",
+        "拼多多",
+        "Temu",
+        "阿里巴巴",
+        "宏观"
+      ],
+      "published_date": "2026-11-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "translated": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-27",
+      "is_new": false
+    },
+    {
       "id": "f0a4f67f17bf4821",
       "tier": 2,
       "lang": "en",
@@ -2585,6 +2490,101 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-26",
+      "is_new": false
+    },
+    {
+      "id": "430df44b1fb2fdcd",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "08:26",
+      "group": "大盘头条",
+      "title": "金银遭遇深度回调，贵金属板块普遍承压",
+      "summary": "11月27日，受美元走强及特朗普关税预期影响，金银大幅回调，贵金属板块整体承压。黄金期货跌幅显著，直接影响港股贵金属概念股走势，老铺黄金(6181.HK)等相关标的面临较大估值压力。",
+      "why": "直接影响老铺黄金(6181.HK)等贵金属概念股估值；金价急跌是大宗商品情绪风向标，对港股资源及消费升级板块均构成压力；关注金价技术支撑位是否有效",
+      "url": "https://www.21jingji.com/article/20261127/be29a1be05f952eecc62a6c5e741eec9.html",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "黄金",
+        "金价",
+        "贵金属",
+        "老铺黄金",
+        "大宗商品"
+      ],
+      "published_date": "2026-11-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "translated": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-27",
+      "is_new": false
+    },
+    {
+      "id": "279e54a15b67bfd2",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK",
+        "A"
+      ],
+      "time": "08:26",
+      "group": "大盘头条",
+      "title": "港A股市11月26日整体反弹，主要指数收复部分失地",
+      "summary": "11月26日，港股与A股市场整体回暖，主要指数小幅反弹，逢低买入情绪推动短线修复。但市场仍面临特朗普关税压力及美联储12月加息预期等中期不利因素，反弹持续性存疑。",
+      "why": "反映短期市场情绪改善，但关税与货币政策不确定性未消；对港股科技股及消费股的Sell Put策略而言，反弹提供了评估仓位的窗口，建议结合期权隐含波动率判断短线风险",
+      "url": "https://21jingji.com/article/20261126/herald/67a0a502099d2423f3744acf97b8dc40.html",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "港股",
+        "A股",
+        "恒生指数",
+        "市场行情",
+        "宏观"
+      ],
+      "published_date": "2026-11-26",
+      "still_developing": false,
+      "cross_ref": "",
+      "translated": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-27",
+      "is_new": false
+    },
+    {
+      "id": "5688c8032bd5017b",
+      "tier": 3,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "08:26",
+      "group": "大盘头条",
+      "title": "格隆汇11.26盘前：感恩节周美市流动性偏低，港A美股多重宏观压力并存",
+      "summary": "格隆汇11月26日盘前要点梳理港股、A股及美股投资者需关注的重大事件。美国感恩节（11月27日）导致美股交投清淡，市场核心关注特朗普301条款关税冲击、美联储12月加息预期及大宗商品（黄金）大幅回调带来的结构性压力。",
+      "why": "市场节奏：感恩节后进入年底流动性最弱时段，低流动性环境下宏观冲击可能放大价格波动；关税与加息双重压力持续，期权隐含波动率定价需动态调整",
+      "url": "https://m.gelonghui.com/p/3265415",
+      "source": "格隆汇",
+      "verified": false,
+      "keywords": [
+        "宏观",
+        "感恩节",
+        "港股",
+        "A股",
+        "美股",
+        "市场行情"
+      ],
+      "published_date": "2026-11-26",
+      "still_developing": false,
+      "cross_ref": "",
+      "translated": false,
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-27",
       "is_new": false
     }
   ]
