@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-28 18:25 (北京时间)",
+  "updated_at": "2026-11-28 18:27 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,12 +9,72 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-28 18:25 (北京时间)",
-    "new_count": 0,
+    "at": "2026-11-28 18:27 (北京时间)",
+    "new_count": 2,
     "degraded": 0,
-    "input_missing": true
+    "input_missing": false
   },
   "items": [
+    {
+      "id": "23b8f1929ffadff0",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "港股恒生指数周五收涨2.11%至22694点，恒指期货夜盘高水107点",
+      "summary": "11月27日（周五），港股恒生指数收报22694.77点，升467.89点，涨幅2.11%；恒指期货11月28日夜盘收报22802点，高水约107点，显示市场对下周一A股开盘前景相对乐观。",
+      "why": "港股全周收升，国常会政策效应同步传导至港股消费/科技板块；期指高水显示资金情绪延续，对持有港股（腾讯/美团/泡泡玛特等）的sell put而言，支撑位强化，建议复盘近端期权的Delta风险。",
+      "source": "新浪财经",
+      "verified": false,
+      "keywords": [
+        "恒生指数",
+        "港股",
+        "期指",
+        "高水",
+        "全周涨幅"
+      ],
+      "translated": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w8v6.html",
+      "published_date": "2026-11-28",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-28",
+      "is_new": true
+    },
+    {
+      "id": "5e9d4b4cabdeef14",
+      "tier": 2,
+      "lang": "zh",
+      "markets": [
+        "A"
+      ],
+      "time": "10:00",
+      "group": "大盘头条",
+      "title": "国常会政策信号释放，分析：增量政策路径与A股后市估值修复空间",
+      "summary": "21世纪经济报道11月28日刊文分析，国常会最新部署标志着稳市思路转向制度化安排，后续增量政策预计集中在加力中长期资金入市和推动上市公司分红回购两个抓手，机构认为估值修复逻辑支撑不变，需关注政策落地节奏与周一开盘方向。",
+      "why": "相比11月27日的国常会通稿（已收录为0dbc5a6f40206b3d），本文为今日（11月28日）发布的后市分析，提供具体增量政策路径与机构展望；对下周一开盘方向判断及sell put行权价评估有增量参考价值。",
+      "source": "21世纪经济报道",
+      "verified": false,
+      "keywords": [
+        "国常会",
+        "增量政策",
+        "A股后市",
+        "分红回购",
+        "中长期资金"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261128/herald/5dd3868cde5479a303bb786c85b60ad6.html",
+      "published_date": "2026-11-28",
+      "still_developing": true,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-28",
+      "is_new": true
+    },
     {
       "id": "5059a22575c5385e",
       "tier": 1,
