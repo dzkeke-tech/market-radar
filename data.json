@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-28 13:22 (北京时间)",
+  "updated_at": "2026-11-28 18:25 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,76 +9,12 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-28 13:22 (北京时间)",
-    "new_count": 2,
+    "at": "2026-11-28 18:25 (北京时间)",
+    "new_count": 0,
     "degraded": 0,
-    "input_missing": false
+    "input_missing": true
   },
   "items": [
-    {
-      "id": "e42b35a21e8195ac",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "16:00",
-      "group": "大盘头条",
-      "title": "港股收评：恒科指大涨6.45%，半导体光通信领涨，南向资金净买入45.87亿港元",
-      "summary": "11月27日港股收盘，恒生科技指数大涨6.45%，报3637.88点；恒生指数涨2.11%，报22694.77点；国企指数涨2.01%。国内国常会稳市信号驱动南向资金大幅流入，全日净买入45.87亿港元。硬科技板块领涨：天数智芯(09903)涨26.30%，壁仞科技(06082)涨逾20%，中芯国际涨超16%。",
-      "why": "港股科技股随A股大涨共振，南向资金单日净买入45.87亿港元显示内地资金坚定入场；半导体、AI算力概念受国内政策支持预期推动，持仓中科技类港股估值修复逻辑强化，可留意covered call时机。",
-      "source": "富途牛牛",
-      "verified": true,
-      "keywords": [
-        "港股",
-        "恒生科技指数",
-        "半导体",
-        "南向资金",
-        "中芯国际"
-      ],
-      "translated": false,
-      "url": "https://news.futunn.com/hk/post/1005830568/hong-kong-stock-market-closing-review-hang-seng-tech-index",
-      "published_date": "2026-11-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-28",
-      "is_new": true
-    },
-    {
-      "id": "df3392e496ae4138",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US",
-        "HK",
-        "A"
-      ],
-      "time": "13:22",
-      "group": "大盘头条",
-      "title": "美国BIS收紧AI算力远程管制，东南亚五国纳入许可清单，国产算力加速补位",
-      "summary": "美国商务部11月16日发布BIS临时规则，把管制从芯片物理出口延伸至算力远程供给，以120万TPP为门槛；巴西、印尼、马来西亚、新加坡、泰国五国被纳入出口许可要求范围，围堵中国企业绕道东南亚获取AI算力通道。英伟达此前已停止向中国出口已获许可的Hopper AI芯片。国内算力供应链补位速度加快，21财经报道国产算力正在加速填补缺口。",
-      "why": "英伟达对华及东南亚供货持续受阻，AI芯片供应链重构加速；港股AI算力硬件、光模块标的受益预期增强；英伟达及SK海力士短期对华收入预期下调；HBM4订单动向需持续关注。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "BIS",
-        "AI芯片",
-        "出口管制",
-        "英伟达",
-        "国产算力",
-        "SK海力士",
-        "HBM"
-      ],
-      "translated": false,
-      "url": "https://www.21jingji.com/article/20261127/herald/8ada53a46a2fba7e521f0ef746683ba4.html",
-      "published_date": "2026-11-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-28",
-      "is_new": true
-    },
     {
       "id": "5059a22575c5385e",
       "tier": 1,
@@ -1577,6 +1513,70 @@
       "translated": false,
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-27",
+      "is_new": false
+    },
+    {
+      "id": "e42b35a21e8195ac",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "港股收评：恒科指大涨6.45%，半导体光通信领涨，南向资金净买入45.87亿港元",
+      "summary": "11月27日港股收盘，恒生科技指数大涨6.45%，报3637.88点；恒生指数涨2.11%，报22694.77点；国企指数涨2.01%。国内国常会稳市信号驱动南向资金大幅流入，全日净买入45.87亿港元。硬科技板块领涨：天数智芯(09903)涨26.30%，壁仞科技(06082)涨逾20%，中芯国际涨超16%。",
+      "why": "港股科技股随A股大涨共振，南向资金单日净买入45.87亿港元显示内地资金坚定入场；半导体、AI算力概念受国内政策支持预期推动，持仓中科技类港股估值修复逻辑强化，可留意covered call时机。",
+      "source": "富途牛牛",
+      "verified": true,
+      "keywords": [
+        "港股",
+        "恒生科技指数",
+        "半导体",
+        "南向资金",
+        "中芯国际"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/hk/post/1005830568/hong-kong-stock-market-closing-review-hang-seng-tech-index",
+      "published_date": "2026-11-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-28",
+      "is_new": false
+    },
+    {
+      "id": "df3392e496ae4138",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US",
+        "HK",
+        "A"
+      ],
+      "time": "13:22",
+      "group": "大盘头条",
+      "title": "美国BIS收紧AI算力远程管制，东南亚五国纳入许可清单，国产算力加速补位",
+      "summary": "美国商务部11月16日发布BIS临时规则，把管制从芯片物理出口延伸至算力远程供给，以120万TPP为门槛；巴西、印尼、马来西亚、新加坡、泰国五国被纳入出口许可要求范围，围堵中国企业绕道东南亚获取AI算力通道。英伟达此前已停止向中国出口已获许可的Hopper AI芯片。国内算力供应链补位速度加快，21财经报道国产算力正在加速填补缺口。",
+      "why": "英伟达对华及东南亚供货持续受阻，AI芯片供应链重构加速；港股AI算力硬件、光模块标的受益预期增强；英伟达及SK海力士短期对华收入预期下调；HBM4订单动向需持续关注。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "BIS",
+        "AI芯片",
+        "出口管制",
+        "英伟达",
+        "国产算力",
+        "SK海力士",
+        "HBM"
+      ],
+      "translated": false,
+      "url": "https://www.21jingji.com/article/20261127/herald/8ada53a46a2fba7e521f0ef746683ba4.html",
+      "published_date": "2026-11-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-28",
       "is_new": false
     },
     {
