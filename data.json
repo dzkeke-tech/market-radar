@@ -1,6 +1,6 @@
 {
   "is_sample": false,
-  "updated_at": "2026-11-27 18:13 (北京时间)",
+  "updated_at": "2026-11-28 08:16 (北京时间)",
   "next_runs": [
     "08:00",
     "13:00",
@@ -9,350 +9,224 @@
   "watchlist": [],
   "positions": [],
   "last_run": {
-    "at": "2026-11-27 18:13 (北京时间)",
-    "new_count": 4,
+    "at": "2026-11-28 08:16 (北京时间)",
+    "new_count": 7,
     "degraded": 0,
     "input_missing": false
   },
   "items": [
     {
-      "id": "315b8610cec69f60",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "A",
-        "HK"
-      ],
-      "time": "13:00",
-      "group": "大盘头条",
-      "title": "国常会首提「国家队」稳市，A股创业板指涨11.61%，科创50涨超15%",
-      "summary": "11月27日国务院常务会议研究深化资本市场投融资综合改革，首次在国常会新闻稿中出现「国家队」表述，提出加力发挥「国家队」稳市作用、优化中央汇金类平准基金功能，并要求推动上市公司加大分红回购力度、完善中长期资金入市支持政策。消息于午间发布，午后A股大幅拉升：沪指涨3.73%，深证成指涨7.24%，创业板指涨11.61%，科创50涨超15%，全市成交额2.02万亿元，超5300只个股飘红。",
-      "why": "顶层政策稳市信号创新高度，「国家队」首入国常会新闻稿，或推动保险资金、社保基金、企业年金加速入市；短期market beta大幅上行，持有A股/港股多头仓位受益；高beta科技名单短期做空压力减小，covered call 执行价可考虑上调。",
-      "source": "澎湃新闻",
-      "verified": true,
-      "keywords": [
-        "国常会",
-        "A股",
-        "创业板",
-        "国家队",
-        "资本市场"
-      ],
-      "translated": false,
-      "url": "https://www.thepaper.cn/newsDetail_forward_34574976",
-      "published_date": "2026-11-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-27",
-      "is_new": true
-    },
-    {
-      "id": "22b4e4e601d0ad9d",
+      "id": "7e060db173f7932c",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "HK"
-      ],
-      "time": "16:30",
-      "group": "大盘头条",
-      "title": "恒生科技指数收涨6.45%，恒指涨2.1%，受国常会政策及关税缓和双重提振",
-      "summary": "11月27日港股大幅走强，恒生科技指数收涨6.45%至3637.88点，为今年以来单日最大涨幅之一；恒生指数收涨2.11%至22694点；主板成交额2571亿港元，北水净流入46亿元。科技、半导体、光通信板块领涨，驱动因素为国常会稳市表态叠加全球关税担忧边际缓和。本周恒指累涨1.27%，恒科指数累涨3.61%。",
-      "why": "港股科技名单（腾讯、阿里、美团、小米等）整体大涨，持仓多头受益；高隐含波动率背景下sell put 权利金丰厚，但需注意大涨后若转头回落可能迅速降低权利金价值；关注是否有政策持续兑现以支撑涨幅。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "恒生科技",
-        "港股",
-        "恒生指数",
-        "国常会"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261127/herald/34ef04c5c3ba508fd865a3ddca7d107e.html",
-      "published_date": "2026-11-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-27",
-      "is_new": true
-    },
-    {
-      "id": "f1cd4e40b1683650",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "07:00",
-      "group": "大盘头条",
-      "title": "美联储12月加息几成定局，机构预测利率峰值4.25%-4.75%",
-      "summary": "多位美联储官员释放鹰派信号，市场定价12月加息25bp概率超90%（CME FedWatch数据）。10月会议维持3.75%-4%不变，两票支持加息。高盛、摩根士丹利、瑞银预测2026年12月及2027年3月各再加息25bp，峰值4.25%-4.5%；摩根大通、美银、德银预测峰值更高，达4.5%-4.75%。通胀居高不下、就业接近57年低点为加息提供支撑。",
-      "why": "加息预期升温对高估值科技股估值形成持续压制；无风险利率上行同时提高sell put 策略的理论支撑价值，但也加大正股下行压力——需再评估持仓标的的利率敏感性；12月9-10日FOMC会议是关键观察节点。",
-      "source": "21财经",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "加息",
-        "宏观",
-        "利率",
-        "FOMC"
-      ],
-      "translated": false,
-      "url": "https://m.21jingji.com/article/20261127/e94dedf51a93908276d9f92d22fd939f.html",
-      "published_date": "2026-11-27",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-27",
-      "is_new": true
-    },
-    {
-      "id": "ac22be8de91566cc",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
       ],
       "time": "16:00",
       "group": "大盘头条",
-      "title": "AI stocks sink again on Nov 25; Anthropic struggles to hold above IPO price as November shapes up as worst month for tech in years",
-      "summary": "US tech stocks fell sharply on Nov 25 as investor concerns over AI spending returns and Fed rate hike expectations mounted. Nvidia fell 3.9% to $149.30. Anthropic, which IPO'd Nov 19 at $83, has struggled to stay above its issue price. November is tracking as the worst month for technology stocks in recent years, driven by fears of a premature end to the AI datacenter boom, SEC and regulatory scrutiny of Nvidia, and persistent inflation data.",
-      "why": "AI科技股本月持续抛售压制持仓中的NVDA和整个科技名单；高隐含波动率背景下sell put 权利金丰厚但行权风险同步升高；Anthropic破发是市场对AI投资回报预期降温的信号，需重新审视AI相关持仓的中期估值假设。",
-      "source": "CNBC",
+      "title": "港股收评：恒指涨2.11%报22694.77点，恒生科技指数大涨6.45%，科网芯片股领涨",
+      "summary": "11月27日港股收盘，恒生指数报22694.77点，涨2.11%；恒生科技指数报3637.88点，大涨6.45%，科网、芯片股领涨。成交额2571.40亿港元。A股国常会政策提振与美股科技股黑色星期五反弹共同驱动港股走强，周线恒指涨1.27%、科技指数涨3.61%，终结此前两周下跌。",
+      "why": "港股技术股单日大涨，持仓如腾讯、美团等互联网股受直接带动；隐含波动率可能扩大对卖出期权策略产生影响；关注是否持续突破关键阻力位。",
+      "source": "新浪财经",
       "verified": true,
       "keywords": [
-        "英伟达",
-        "Nvidia",
-        "NVDA",
-        "AI",
-        "科技股",
-        "美股",
-        "Anthropic"
+        "恒生科技指数",
+        "港股",
+        "科网股",
+        "芯片"
       ],
       "translated": false,
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-      "published_date": "2026-11-25",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkaefwe7906295.shtml",
+      "published_date": "2026-11-27",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-27",
+      "first_seen": "2026-11-28",
       "is_new": true
     },
     {
-      "id": "dbea10a75a84833c",
+      "id": "f07431b553f27065",
       "tier": 1,
-      "lang": "en",
+      "lang": "zh",
       "markets": [
         "US",
         "HK",
         "A"
       ],
-      "time": "14:00",
+      "time": "22:00",
       "group": "大盘头条",
-      "title": "Fed Minutes Signal December Rate Hike Likely; AI Infrastructure Named as Inflation Risk",
-      "summary": "美联储公布10月27-28日议息会议纪要，几乎所有与会者认为12月进一步加息「可能是适当的」。会议以10比2投票维持利率于3.75%-4.00%不变，两位反对票支持即刻加息25bp。多位官员将AI基础设施建设明确列为通胀上行风险的重要来源；PCE年率3.6%，核心PCE 3.1%。12月8-9日下次会议将公布决议。",
-      "why": "加息预期持续压制科技股估值与港股情绪；AI被列为通胀因素对持仓英伟达、谷歌等AI标的的估值逻辑构成制约；sell put组合需评估加息后整体波动率上行与正股承压的双重风险。",
-      "source": "Federal Reserve",
+      "title": "美联储12月加息已无悬念：10月核心PCE同比3.3%超预期，CME定价加息概率达97.8%",
+      "summary": "美国商务部公布，10月核心PCE通胀同比3.3%，高于预期的3.2%，整体PCE同比3.8%。数据公布后，CME美联储观察工具显示12月加息25个基点的概率升至97.8%。美联储主席沃什（Kevin Warsh）12月8—9日议息会议，市场聚焦其对后续利率路径的表态。",
+      "why": "加息几成定局将进一步压缩成长股和高估值科技股估值空间；美元走强，港股及中概承压；对卖出期权策略，高利率环境影响标的隐含波动率定价，须重新评估安全边际。",
+      "source": "21财经",
       "verified": true,
       "keywords": [
-        "宏观",
-        "macro",
         "美联储",
-        "Fed",
         "加息",
-        "通胀"
+        "PCE",
+        "通胀",
+        "利率"
       ],
       "translated": false,
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-      "published_date": "2026-11-18",
+      "url": "https://m.21jingji.com/article/20261127/herald/50281d207a209ee984e2acd3fe59bfcf.html",
+      "published_date": "2026-11-27",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
+      "first_seen": "2026-11-28",
+      "is_new": true
     },
     {
-      "id": "ce33b58eda068cf6",
+      "id": "a3a9d7e6e47942f6",
       "tier": 1,
       "lang": "zh",
       "markets": [
-        "HK",
-        "A"
+        "US",
+        "HK"
       ],
-      "time": "17:00",
+      "time": "01:00",
       "group": "大盘头条",
-      "title": "港股午评：恒指跌逾1.7%，科指跌逾3%，科网股低迷芯片股下挫，网易跌超17%",
-      "summary": "11月20日，港股午盘恒生指数跌逾1.7%，恒生科技指数重挫逾3%，科网股及芯片股领跌；网易发布Q3业绩后股价大幅下挫逾17%，快手亦受拖累。A股同日创业板指跌逾3.5%，全市场超5000只个股下跌；银行与保险板块逆势走强，尾盘上证50收涨。腾讯Q3业绩不及预期（已于11月18日公布）以及网易Q3游戏收入罕见下滑是本轮港股科技板块重挫的核心触发因素。",
-      "why": "持仓港股科技与消费板块全线受压，直接影响组合市值；波动率快速上行对sell put持仓不利；本轮杀跌具有业绩驱动特征，需区分系统性风险与个股风险。",
+      "title": "美国出口管制升级持续发酵：英伟达暂停向东南亚4国发货，芯片板块受压",
+      "summary": "美国出口管制新规持续落地，英伟达据报已指示合作伙伴暂停向马来西亚、新加坡、泰国、印度尼西亚运送搭载其芯片的AI服务器，严防中国企业绕道第三国获取算力。东南亚数据中心概念股承压，英伟达自身也在评估全面合规方案，出货暂停持续时间尚不明确。",
+      "why": "出口管制范围扩至东南亚，直接影响英伟达海外GPU销售额及供应链；台积电、AMD等亚太半导体板块情绪受波及；对持有英伟达标的的卖出put者，需评估隐含波动率是否充分定价此风险。",
       "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "港股",
-        "HK",
-        "A股",
-        "恒生科技",
-        "科技股"
+        "英伟达",
+        "出口管制",
+        "东南亚",
+        "AI芯片",
+        "NVDA"
       ],
       "translated": false,
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-20/doc-inizkctk3995691.shtml",
-      "published_date": "2026-11-20",
-      "still_developing": false,
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w61o.html",
+      "published_date": "2026-11-27",
+      "still_developing": true,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
+      "first_seen": "2026-11-28",
+      "is_new": true
     },
     {
-      "id": "179687aed502fe87",
+      "id": "c882901d0d663e8a",
       "tier": 1,
       "lang": "zh",
       "markets": [
         "HK"
       ],
-      "time": "09:30",
+      "time": "18:00",
       "group": "个股",
-      "title": "网易港股暴跌超19%，游戏业务收入罕见下滑，丁磊承认短剧影响游戏",
-      "summary": "网易发布2026年Q3业绩：净收入278.5亿元（约27.85亿美元），同比下降1.8%，远低于预期的303.8亿元。游戏及相关增值服务收入229亿元，同比下降1.7%，为近两年首次季度收入同比下滑。调整后每ADS净收益14.21元，低于预期16.36元。港股开盘后股价大幅下挫，盘中跌幅一度超19%，触及近19个月新低。CEO丁磊在电话会上承认短剧发展迅猛，短期内对游戏用户注意力产生明显分流效应。",
-      "why": "网易并非直接持仓，但其暴跌折射出短剧内容对游戏行业注意力经济的结构性冲击，对持仓腾讯游戏（王者荣耀/和平精英）业务构成估值参考压力；港股科技情绪传导明显。",
-      "source": "澎湃新闻",
+      "title": "美团2026Q3：营收1155.6亿同比增21.6%，经调整净利润18.5亿元扭亏，Keeta沙特全季盈利",
+      "summary": "美团公布2026年第三季度业绩，营收1155.6亿元，同比增长21.6%；经调整净利润18.5亿元，去年同期亏损160.1亿元。CFO陈少晖在财报电话会上披露，沙特外卖业务Keeta在第三季度实现全季盈利，香港业务稳定盈利，巴西短期聚焦圣保罗打磨运营模型，今明两年对财务影响有限。",
+      "why": "美团3690.HK业绩反转信号明确，核心外卖+Keeta国际化双线回血，扭亏超预期；有利于提升sell put安全边际；但巴西扩张节奏趋缓，对短期预期影响可控。",
+      "source": "新浪财经",
       "verified": false,
       "keywords": [
-        "网易",
-        "游戏",
-        "港股",
-        "短剧",
-        "HK"
+        "美团",
+        "Meituan",
+        "3690.HK",
+        "Keeta",
+        "外卖",
+        "财报"
       ],
       "translated": false,
-      "url": "https://www.thepaper.cn/newsDetail_forward_34518348",
-      "published_date": "2026-11-20",
+      "url": "https://k.sina.cn/article_1589153251_5eb88de300102nbc6.html",
+      "published_date": "2026-11-27",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
+      "first_seen": "2026-11-28",
+      "is_new": true
     },
     {
-      "id": "c4c625b604c2833c",
-      "tier": 1,
-      "lang": "zh",
+      "id": "5b8f407acf07a550",
+      "tier": 2,
+      "lang": "en",
       "markets": [
-        "A"
+        "US"
       ],
-      "time": "10:30",
+      "time": "13:00",
       "group": "大盘头条",
-      "title": "A股三大股指集体大跌，沪指盘中探3500点，成交额创年内新低",
-      "summary": "2026年11月20日A股早盘，沪指跌1.57%至约3527点，盘中最低探至3500.88点；深成指跌2.05%，创业板指跌2.08%，科创50跌2.71%。前一交易日（11月19日）全市场成交额仅1.31万亿元，创年内新低。光通信、GPU、黄金板块明显调整，中际旭创股价创近年新低（约5个月下跌约70%）。宁德时代11月19日单日回购A股85.05万股。",
-      "why": "A股情绪持续走弱，科技与AI板块领跌；成交量萎缩至年内低位反映市场信心不足，对港股及中国消费/科技持仓有间接压制；卖沽策略需关注波动率变化及行权价安全边际。",
-      "source": "澎湃新闻",
+      "title": "US stocks rally on Black Friday: Dow +1.19%, Nasdaq +2.31%, semiconductors surge ~5%",
+      "summary": "US markets rallied on the shortened Black Friday session (Nov 27). Dow Jones rose 591.99 points (+1.19%) to 50,774.94; S&P 500 gained 1.6% to 7,297.49; Nasdaq Composite advanced 2.31% to 24,129.50. Philadelphia Semiconductor Index surged ~5%. Cboe VIX settled at 24.44, still above normal 12–20 range. It was the Dow's biggest weekly gain since October 2022.",
+      "why": "AI/半导体板块周线大反弹，对持仓的NVDA、MU等相关期权策略有正面影响；VIX仍偏高，期权premium仍丰厚，对sell put策略有利。",
+      "source": "CNBC",
       "verified": true,
       "keywords": [
-        "A股",
-        "创业板",
-        "科创50",
-        "宁德时代",
-        "中际旭创"
+        "美股",
+        "纳指",
+        "半导体",
+        "SMH",
+        "VIX"
       ],
       "translated": false,
-      "url": "https://www.thepaper.cn/newsDetail_forward_34518213",
-      "published_date": "2026-11-20",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "published_date": "2026-11-26",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
+      "first_seen": "2026-11-28",
+      "is_new": true
     },
     {
-      "id": "4facdff789887b6b",
-      "tier": 1,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "12:30",
-      "group": "大盘头条",
-      "title": "恒生指数早盘大跌近400点至22458点，科技指数跌近4%创26个月低",
-      "summary": "2026年11月20日（周五），恒生指数开盘下跌约359点至22482点，午盘维持跌约1.7%至约22458点，恒生科技指数跌幅约3.9%，网易盘中跌逾13%。此前周四恒指已收跌约2%至22841点，刷新四个月低位，恒生科技指数创26个月低位。腾讯、阿里巴巴业绩表现分化，美中技术出口管制升级及联储鹰派纪要共同压制市场情绪。",
-      "why": "恒指连续创四个月新低，直接压制以港股为主的持仓；科技股领跌引发高隐含波动率，对卖沽策略的保证金需求及行权价安全性均需重新评估。",
-      "source": "智通财经",
-      "verified": true,
-      "keywords": [
-        "恒生指数",
-        "港股",
-        "恒生科技",
-        "香港股市"
-      ],
-      "translated": false,
-      "url": "https://hk.investing.com/news/stock-market-news/article-1768944",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
-    },
-    {
-      "id": "e9219a4eab6efb0a",
-      "tier": 1,
+      "id": "f6ded91f4ad1dcb1",
+      "tier": 2,
       "lang": "en",
       "markets": [
         "US"
       ],
       "time": "14:00",
-      "group": "大盘头条",
-      "title": "Fed Minutes Signal More Rate Hikes Ahead; Two Officials Open to Larger December Move",
-      "summary": "Minutes from the October 27-28 FOMC meeting, released November 18, show a 10-2 vote to hold the federal funds rate at 3.75%-4.00%. Almost all policymakers see further rate increases as likely appropriate. Two officials favored an immediate 25bp hike at the October meeting, and 'a couple of participants' suggested a move larger than 25bp could warrant consideration if inflation disappoints. PCE inflation rose to 3.6% year-over-year through September. Markets now price no rate cuts in 2027.",
-      "why": "鹰派纪要推高美元和真实利率，对黄金及老铺黄金直接构成压力；高利率环境利于期权策略中的高权利金水平，但对科技股估值有压制；下次会议若加速加息，波动率可能进一步走高。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "美联储",
-        "FOMC",
-        "利率",
-        "加息",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-      "published_date": "2026-11-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
-    },
-    {
-      "id": "7609bb1bdc6ec605",
-      "tier": 1,
-      "lang": "en",
-      "markets": [
-        "HK",
-        "US"
-      ],
-      "time": "09:00",
-      "group": "大盘头条",
-      "title": "Alibaba Q2 FY2027: revenue RMB271.5B edges past estimates; EPS RMB8.10 badly misses as AI and instant retail investment weighs",
-      "summary": "Alibaba's September 2026 quarter (fiscal Q2 FY2027) revenue was RMB271.5 billion, fractionally above the RMB270.5 billion consensus. EPS of RMB8.10 missed the RMB10.75 estimate by a wide margin. AI-related cloud revenue grew 53% YoY and external cloud revenues surged 64%. Profitability was squeezed by heavy investment in AI infrastructure and instant retail logistics. The 9988.HK stock hit a 52-week low around Nov 19.",
-      "why": "营收略超预期但EPS大幅不及，与腾讯同期业绩结构类似，AI重投正在拖累整个中国大科技的盈利；9988.HK已触52周低位，sell put面临持续下行压力需重新评估行权价；AI云增速53%是中长期亮点，平头哥IPO进程亦在推进中。",
-      "source": "界面新闻",
+      "group": "个股",
+      "title": "Poland Signs $300 Million Deal With Palantir to Use AI in Defense",
+      "summary": "Poland's Defense Ministry signed a 5-year, approximately $300 million agreement with Palantir Technologies to deploy Maven Smart System AI for military decision support. The deal follows an October 2025 letter of intent. PLTR stock climbed nearly 5% intraday after the announcement. The agreement includes a limitation on access to classified military data.",
+      "why": "Palantir PLTR新增重量级欧洲国防合同，强化政府AI收入的可预期性；对sell put安全边际有正面支撑；关注其他NATO成员国潜在跟进采购。Bloomberg为硬墙媒体，cross_ref未能确认，脚本将降为待核实。",
+      "source": "Bloomberg",
       "verified": false,
       "keywords": [
-        "阿里巴巴",
-        "BABA",
-        "9988.HK",
-        "Q2",
-        "阿里云",
-        "AI",
-        "通义千问",
-        "平头哥"
+        "Palantir",
+        "PLTR",
+        "国防AI",
+        "政府合同",
+        "AIP"
       ],
       "translated": false,
-      "url": "https://en.jiemian.com/article/13683059.html",
-      "published_date": "2026-11-19",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+      "published_date": "2026-11-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "主源 bloomberg.com 不可机检且未提供 cross_ref",
+      "first_seen": "2026-11-28",
+      "is_new": true
+    },
+    {
+      "id": "3a13391cb2a72bba",
+      "tier": 3,
+      "lang": "en",
+      "markets": [
+        "HK"
+      ],
+      "time": "17:00",
+      "group": "个股",
+      "title": "Pop Mart (09992) repurchased 320,000 shares for HK$44.31 million on November 26",
+      "summary": "Pop Mart repurchased 320,000 shares on November 26 at prices ranging from HK$137.9 to HK$139.5 per share, spending approximately HK$44.31 million. Since the buyback mandate was approved, the company has cumulatively repurchased approximately 7.11 million shares, about 0.53% of issued share capital.",
+      "why": "泡泡玛特9992.HK在Q3营收大幅下滑背景下持续回购，管理层以行动传递股价支撑信号；对持有或考虑卖出put的投资者，回购频率和规模是重要的价格底部参考依据。",
+      "source": "富途牛牛",
+      "verified": false,
+      "keywords": [
+        "泡泡玛特",
+        "Pop Mart",
+        "9992.HK",
+        "回购",
+        "Labubu"
+      ],
+      "translated": false,
+      "url": "https://news.futunn.com/en/post/1005734907/pop-mart-09992-repurchased-320000-shares-for-hk-44-3126",
+      "published_date": "2026-11-26",
       "still_developing": false,
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
+      "first_seen": "2026-11-28",
+      "is_new": true
     },
     {
       "id": "5059a22575c5385e",
@@ -1618,6 +1492,96 @@
       "is_new": false
     },
     {
+      "id": "315b8610cec69f60",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "A",
+        "HK"
+      ],
+      "time": "13:00",
+      "group": "大盘头条",
+      "title": "国常会首提「国家队」稳市，A股创业板指涨11.61%，科创50涨超15%",
+      "summary": "11月27日国务院常务会议研究深化资本市场投融资综合改革，首次在国常会新闻稿中出现「国家队」表述，提出加力发挥「国家队」稳市作用、优化中央汇金类平准基金功能，并要求推动上市公司加大分红回购力度、完善中长期资金入市支持政策。消息于午间发布，午后A股大幅拉升：沪指涨3.73%，深证成指涨7.24%，创业板指涨11.61%，科创50涨超15%，全市成交额2.02万亿元，超5300只个股飘红。",
+      "why": "顶层政策稳市信号创新高度，「国家队」首入国常会新闻稿，或推动保险资金、社保基金、企业年金加速入市；短期market beta大幅上行，持有A股/港股多头仓位受益；高beta科技名单短期做空压力减小，covered call 执行价可考虑上调。",
+      "source": "澎湃新闻",
+      "verified": true,
+      "keywords": [
+        "国常会",
+        "A股",
+        "创业板",
+        "国家队",
+        "资本市场"
+      ],
+      "translated": false,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34574976",
+      "published_date": "2026-11-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-27",
+      "is_new": false
+    },
+    {
+      "id": "22b4e4e601d0ad9d",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "HK"
+      ],
+      "time": "16:30",
+      "group": "大盘头条",
+      "title": "恒生科技指数收涨6.45%，恒指涨2.1%，受国常会政策及关税缓和双重提振",
+      "summary": "11月27日港股大幅走强，恒生科技指数收涨6.45%至3637.88点，为今年以来单日最大涨幅之一；恒生指数收涨2.11%至22694点；主板成交额2571亿港元，北水净流入46亿元。科技、半导体、光通信板块领涨，驱动因素为国常会稳市表态叠加全球关税担忧边际缓和。本周恒指累涨1.27%，恒科指数累涨3.61%。",
+      "why": "港股科技名单（腾讯、阿里、美团、小米等）整体大涨，持仓多头受益；高隐含波动率背景下sell put 权利金丰厚，但需注意大涨后若转头回落可能迅速降低权利金价值；关注是否有政策持续兑现以支撑涨幅。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "恒生科技",
+        "港股",
+        "恒生指数",
+        "国常会"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261127/herald/34ef04c5c3ba508fd865a3ddca7d107e.html",
+      "published_date": "2026-11-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-27",
+      "is_new": false
+    },
+    {
+      "id": "f1cd4e40b1683650",
+      "tier": 1,
+      "lang": "zh",
+      "markets": [
+        "US"
+      ],
+      "time": "07:00",
+      "group": "大盘头条",
+      "title": "美联储12月加息几成定局，机构预测利率峰值4.25%-4.75%",
+      "summary": "多位美联储官员释放鹰派信号，市场定价12月加息25bp概率超90%（CME FedWatch数据）。10月会议维持3.75%-4%不变，两票支持加息。高盛、摩根士丹利、瑞银预测2026年12月及2027年3月各再加息25bp，峰值4.25%-4.5%；摩根大通、美银、德银预测峰值更高，达4.5%-4.75%。通胀居高不下、就业接近57年低点为加息提供支撑。",
+      "why": "加息预期升温对高估值科技股估值形成持续压制；无风险利率上行同时提高sell put 策略的理论支撑价值，但也加大正股下行压力——需再评估持仓标的的利率敏感性；12月9-10日FOMC会议是关键观察节点。",
+      "source": "21财经",
+      "verified": true,
+      "keywords": [
+        "美联储",
+        "加息",
+        "宏观",
+        "利率",
+        "FOMC"
+      ],
+      "translated": false,
+      "url": "https://m.21jingji.com/article/20261127/e94dedf51a93908276d9f92d22fd939f.html",
+      "published_date": "2026-11-27",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-27",
+      "is_new": false
+    },
+    {
       "id": "02d65ac20e4b9535",
       "tier": 1,
       "lang": "zh",
@@ -1762,163 +1726,6 @@
       "translated": false,
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-27",
-      "is_new": false
-    },
-    {
-      "id": "f0a4f67f17bf4821",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "00:00",
-      "group": "大盘头条",
-      "title": "Gold set to snap blistering run of three-year gains as Fed rate increase looms",
-      "summary": "现货黄金跌至逾一年新低，从今年1月历史高位大幅回落。美联储10月会议纪要（11月18日发布）重申鹰派立场后，金价单日跌逾2%，市场定价12月加息压力持续升温，强美元对黄金形成双重压制。高盛已下调2026年底黄金目标价。",
-      "why": "持仓老铺黄金（6181.HK）与国际金价高度正相关；金价下行周期直接压制其估值与股价，老铺黄金今年已从高位大幅下行；sell put策略需关注若金价进一步破位的下行风险与行权价安全边际。",
-      "source": "SCMP",
-      "verified": false,
-      "keywords": [
-        "黄金",
-        "gold",
-        "美联储",
-        "老铺黄金",
-        "通胀",
-        "商品"
-      ],
-      "translated": false,
-      "url": "https://www.scmp.com/business/commodities/article/3374547/gold-set-snap-blistering-run-three-year-gains-fed-rate-increase-looms",
-      "published_date": "2026-11-18",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
-    },
-    {
-      "id": "745774da58fe1f0e",
-      "tier": 2,
-      "lang": "en",
-      "markets": [
-        "US"
-      ],
-      "time": "13:00",
-      "group": "大盘头条",
-      "title": "Gold Hits 14-Month Low Near $3,692 as Hawkish Fed Minutes and Strong Dollar Pressure Metals",
-      "summary": "Spot gold fell below $3,700 on Nov 19-20, trading near $3,692, its lowest level since approximately September 2025. The price is roughly 32% below the January 2026 record of approximately $5,594. Analysts attribute the decline to rising Treasury yields, a stronger US dollar, and market pricing for further Fed rate hikes. Goldman Sachs cut its year-end 2026 gold price target to $4,150 from $4,650. Silver fell harder.",
-      "why": "金价大幅回调直接影响老铺黄金（6181.HK）的营收前景和估值；与其业务正相关。对此持仓的卖沽/covered call策略需重新审视行权价设置，金价短期支撑位约3520美元。",
-      "source": "CNBC",
-      "verified": true,
-      "keywords": [
-        "黄金",
-        "金价",
-        "老铺黄金",
-        "商品",
-        "美元",
-        "通胀"
-      ],
-      "translated": false,
-      "url": "https://cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
-      "published_date": "2026-11-19",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
-    },
-    {
-      "id": "575c6f28ddab4c74",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "09:30",
-      "group": "个股",
-      "title": "阿里巴巴Q2调整后净利润同比大增92%，AI云收入增53%，股价逆市涨超4%",
-      "summary": "阿里巴巴2026年11月20日公布2026财年第二季度业绩：经调整纯利199亿元人民币，同比增长92%；AI云收入同比增长53%；总营收2715亿元，同比增长10%。摩根士丹利维持增持评级，认为外部云及经调整EBITA均超预期；花旗下调目标价，指Non-GAAP纯利低于市场预期的282亿元。股价午盘逆市上涨超4%，领涨蓝筹，表现明显强于恒生指数（恒指同期跌约1.7%）。",
-      "why": "AI云业务高速增长是阿里最强的估值重估逻辑；净利润暴增92%反映降本增效取得成效。对持有BABA/9988卖沽仓位，逆市上涨提振期权保护价值；需关注Non-GAAP利润是否持续低于预期。",
-      "source": "智通财经",
-      "verified": true,
-      "keywords": [
-        "阿里巴巴",
-        "9988.HK",
-        "BABA",
-        "阿里云",
-        "AI",
-        "业绩",
-        "通义千问"
-      ],
-      "translated": false,
-      "url": "https://hk.investing.com/news/stock-market-news/article-1768867",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
-    },
-    {
-      "id": "15e149867d8d6805",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "US"
-      ],
-      "time": "10:00",
-      "group": "个股",
-      "title": "拼多多Q3非GAAP盈利超预期，营销费大降17%，股价大涨逾11%",
-      "summary": "拼多多2026年11月19日公布第三季度业绩：Non-GAAP摊薄每ADS盈利21.04元人民币，超出市场预期的18.93元；销售与营销支出同比下降约17%，是利润超预期的主因。营收与去年同期基本持平（低于预期），Temu因美国取消低价包裹免税待遇及欧盟监管压力增大而承压。股价财报后大涨，收盘约86美元，市值约1224亿美元。杰富瑞将目标价由118美元上调至120美元，维持买入。",
-      "why": "利润表现超预期对卖沽策略有利（股价上涨增加期权的保护垫）；但Temu出海面临持续监管压力，营收增长失速是中长期隐患。期权策略可考虑在此高点收紧行权价。",
-      "source": "智通财经",
-      "verified": false,
-      "keywords": [
-        "拼多多",
-        "PDD",
-        "Temu",
-        "业绩",
-        "跨境电商"
-      ],
-      "translated": false,
-      "url": "https://cn.investing.com/news/stock-market-news/article-3677670",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
-      "is_new": false
-    },
-    {
-      "id": "05f6b2d6de65c18a",
-      "tier": 2,
-      "lang": "zh",
-      "markets": [
-        "HK"
-      ],
-      "time": "11:00",
-      "group": "个股",
-      "title": "小米汽车首次出海：SU7、YU7、澎程SkyNomad在阿联酋开启预售，定价较国内贵40%-81%",
-      "summary": "小米汽车2026年11月19-20日通过阿联酋授权经销商Gargash Prime正式开启当地预售，包括SU7、YU7及澎程SkyNomad增程SUV共13个配置。这是小米汽车首次通过官方渠道进入海外市场。阿联酋定价较国内高40%-81%：SU7起售价169,900迪拉姆，YU7为184,900迪拉姆，SkyNomad为209,900迪拉姆。首批入门版本计划2026年12月交付，其余版本预计2027年2月。雷军预告小米汽车全系将亮相2026广州车展（11月27日至12月6日）。",
-      "why": "里程碑式的出海事件，标志着小米汽车进入溢价定价的国际市场，对品牌升级和长期估值均是正信号；海外首次落地有助于验证国际化路径。对1810.HK持仓构成积极催化，可考虑在广州车展前后调整covered call行权价。",
-      "source": "新浪财经",
-      "verified": true,
-      "keywords": [
-        "小米",
-        "1810.HK",
-        "小米汽车",
-        "SU7",
-        "YU7",
-        "出海",
-        "阿联酋",
-        "雷军"
-      ],
-      "translated": false,
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizhvxw7661997.shtml",
-      "published_date": "2026-11-20",
-      "still_developing": false,
-      "cross_ref": "",
-      "_url_check": "未能机检（URLError）",
-      "first_seen": "2026-11-20",
       "is_new": false
     },
     {
@@ -2725,6 +2532,38 @@
       "cross_ref": "",
       "_url_check": "未能机检（URLError）",
       "first_seen": "2026-11-26",
+      "is_new": false
+    },
+    {
+      "id": "ac22be8de91566cc",
+      "tier": 2,
+      "lang": "en",
+      "markets": [
+        "US"
+      ],
+      "time": "16:00",
+      "group": "大盘头条",
+      "title": "AI stocks sink again on Nov 25; Anthropic struggles to hold above IPO price as November shapes up as worst month for tech in years",
+      "summary": "US tech stocks fell sharply on Nov 25 as investor concerns over AI spending returns and Fed rate hike expectations mounted. Nvidia fell 3.9% to $149.30. Anthropic, which IPO'd Nov 19 at $83, has struggled to stay above its issue price. November is tracking as the worst month for technology stocks in recent years, driven by fears of a premature end to the AI datacenter boom, SEC and regulatory scrutiny of Nvidia, and persistent inflation data.",
+      "why": "AI科技股本月持续抛售压制持仓中的NVDA和整个科技名单；高隐含波动率背景下sell put 权利金丰厚但行权风险同步升高；Anthropic破发是市场对AI投资回报预期降温的信号，需重新审视AI相关持仓的中期估值假设。",
+      "source": "CNBC",
+      "verified": true,
+      "keywords": [
+        "英伟达",
+        "Nvidia",
+        "NVDA",
+        "AI",
+        "科技股",
+        "美股",
+        "Anthropic"
+      ],
+      "translated": false,
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+      "published_date": "2026-11-25",
+      "still_developing": false,
+      "cross_ref": "",
+      "_url_check": "未能机检（URLError）",
+      "first_seen": "2026-11-27",
       "is_new": false
     },
     {
